@@ -1,0 +1,1320 @@
+{
+  "took" : 18,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 3,
+    "successful" : 3,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : {
+      "value" : 1,
+      "relation" : "eq"
+    },
+    "max_score" : 10.869203,
+    "hits" : [
+      {
+        "_index" : "product_listings_main_data_upc_vt20220920_043802_utc",
+        "_type" : "_doc",
+        "_id" : "267145_hs",
+        "_score" : 10.869203,
+        "_source" : {
+          "product_id" : 267145,
+          "seo_product_id" : 222441,
+          "seo_slug" : "CareLogic-Enterprise",
+          "product_name" : "CareLogic",
+          "upc_product_uuid" : "4118460f-dd6f-41fb-afc6-a6d200b3185f",
+          "old_product_ids" : [
+            222441,
+            85188
+          ],
+          "product_url" : "https://www2.qualifacts.com/CAP-SA",
+          "product_slug" : "CareLogic-Enterprise",
+          "former_name" : "CareLogic Enterprise",
+          "logo_filepath" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/2ba1f2f9-7d46-4b48-b020-5c1c1413510b.png",
+          "vendor" : {
+            "vendor_id" : 2102185,
+            "vendor_name" : "Credible by Qualifacts",
+            "vendor_url" : "http://www.qualifacts.com",
+            "year_founded" : 2000,
+            "location" : "United States",
+            "vendor_opted_out_of_reviews" : true,
+            "is_opted_out_of_reviews" : false,
+            "is_hit_limit" : false,
+            "enabled" : true,
+            "has_vendor_level_page" : false,
+            "slug" : null,
+            "vendor_page" : false,
+            "paused_campaign" : false
+          },
+          "category_short_name" : "hs",
+          "category_html_name" : "human-services-software",
+          "category" : {
+            "id" : 30660,
+            "short_name" : "hs",
+            "long_name" : "Human Services",
+            "html_name" : "human-services-software",
+            "enabled" : true
+          },
+          "best_category" : "hs",
+          "is_best_category" : true,
+          "highest_cpc_category" : "hs",
+          "is_highest_cpc_category" : true,
+          "short_desc" : "CareLogic is web-based Electronic Health Record (EHR) system for behavioral health and human services organizations.",
+          "long_desc" : "CareLogic is a web-based and easy-to-use Electronic Health Record (EHR) platform designed for behavioral health and human services organizations with at least 40 users. Our highly configurable EHR platform helps improve outcomes, drive efficiencies and demonstrate performance. Capabilities include scheduling, intake, treatment planning, service documentation, ePrescribing, consumer engagement, telehealth, billing and reporting.  ",
+          "rating" : 3.8,
+          "number_of_reviews" : 250,
+          "total_reviews" : 335,
+          "ease_of_use_rating" : 3.7,
+          "customer_support_rating" : 3.6,
+          "functionality_rating" : 3.6,
+          "value_for_money_rating" : 3.7,
+          "recommendation_rating" : 7.2,
+          "pricing_enabled" : false,
+          "pricing" : null,
+          "is_per_user" : false,
+          "fee_schedule" : "Per-Month",
+          "pricing_model" : null,
+          "pricing_details" : null,
+          "pricing_created_on" : "2019-08-21T14:47:39Z",
+          "pricing_modified_on" : "2022-04-11T20:39:17Z",
+          "pricing_created_by" : null,
+          "pricing_modified_by" : null,
+          "pricing_vendor_pricing_url" : null,
+          "free_trial" : false,
+          "free_version" : false,
+          "target_audience" : "Enterprise-level, SaaS solution for community mental health centers, substance use agencies, CCBHCs, residential treatment facilities, IDD and Austim agencies, public health departments, and more.",
+          "target_users" : [
+            "51-200",
+            "201-500",
+            "501-1000",
+            "1000+"
+          ],
+          "platform" : [
+            {
+              "enabled" : true,
+              "name" : "Cloud, SaaS, Web-Based"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Mac"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Chromebook"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile Android"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPhone"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPad"
+            }
+          ],
+          "support" : [
+            {
+              "enabled" : true,
+              "name" : "Email Help Desk"
+            },
+            {
+              "enabled" : true,
+              "name" : "FAQ Forum"
+            },
+            {
+              "enabled" : true,
+              "name" : "Knowledgebase"
+            },
+            {
+              "enabled" : true,
+              "name" : "Phone Support"
+            },
+            {
+              "enabled" : false,
+              "name" : "24/7 Live Rep"
+            },
+            {
+              "enabled" : true,
+              "name" : "Chat"
+            }
+          ],
+          "training" : [
+            {
+              "enabled" : false,
+              "name" : "Not Offered"
+            },
+            {
+              "enabled" : true,
+              "name" : "In-Person"
+            },
+            {
+              "enabled" : true,
+              "name" : "Live Online"
+            },
+            {
+              "enabled" : true,
+              "name" : "Webinars"
+            },
+            {
+              "enabled" : true,
+              "name" : "Documentation"
+            },
+            {
+              "enabled" : true,
+              "name" : "Videos"
+            }
+          ],
+          "media" : [
+            {
+              "product_id" : 267145,
+              "vendor_id" : 2102185,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/743fc7db-fcaa-4b1f-8723-6a293097ef88.png",
+              "caption" : null,
+              "weight" : 1,
+              "short_name" : "hs"
+            },
+            {
+              "product_id" : 267145,
+              "vendor_id" : 2102185,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/8bb2f140-c04e-4e13-91fa-f2967d34f77b.png",
+              "caption" : null,
+              "weight" : 2,
+              "short_name" : "hs"
+            },
+            {
+              "product_id" : 267145,
+              "vendor_id" : 2102185,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/664f23fa-d91c-4690-9f80-26bc7d26e88f.png",
+              "caption" : null,
+              "weight" : 3,
+              "short_name" : "hs"
+            },
+            {
+              "product_id" : 267145,
+              "vendor_id" : 2102185,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/ab5696d4-40bc-4e5c-9637-adbdeacc90e5.png",
+              "caption" : null,
+              "weight" : 4,
+              "short_name" : "hs"
+            },
+            {
+              "product_id" : 267145,
+              "vendor_id" : 2102185,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/920b53bf-bff4-4014-87d6-8a3a790cba2f.png",
+              "caption" : null,
+              "weight" : 5,
+              "short_name" : "hs"
+            },
+            {
+              "product_id" : 267145,
+              "vendor_id" : 2102185,
+              "media_type" : "VIDEO",
+              "path_url" : "https://vimeo.com/696154309",
+              "caption" : null,
+              "weight" : 0,
+              "short_name" : "hs"
+            }
+          ],
+          "links" : [
+            {
+              "product_id" : 267145,
+              "functional_group" : "hs",
+              "html_code" : "https://www2.qualifacts.com/CAP-Sa",
+              "link_name" : "Free Demo",
+              "link_priority" : 2.0
+            }
+          ],
+          "features" : [
+            {
+              "category_name" : "Human Services",
+              "category_features" : [
+                {
+                  "name" : "Case Management",
+                  "value" : true,
+                  "id" : "b81eb686-edd7-486c-9a9f-5d4caf13e3bf",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Work on a set of tasks related to a particular charge, patient, legal issue or any other complex entity or process"
+                },
+                {
+                  "name" : "Certification & Licensing",
+                  "value" : true,
+                  "id" : "481c7e76-b194-464c-9972-df29bcd7dca8",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Child Welfare Management",
+                  "value" : true,
+                  "id" : "e1d96842-a038-4bca-925b-f87c5ad6ab62",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Document Management",
+                  "value" : true,
+                  "id" : "a55b34ad-b6ec-4072-b3bd-a7151f7843de",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Collect, upload, store, and share all documents in a centralized location making it easier for everyone involved to access information "
+                },
+                {
+                  "name" : "Reporting & Statistics",
+                  "value" : true,
+                  "id" : "11226b4a-a4a9-436a-8dce-fb552aef6162",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Scheduling",
+                  "value" : true,
+                  "id" : "0cc5cde1-b9c8-4aaf-9a3b-67ed2aafe507",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Plan availability and assign specific time slots for tasks and resources"
+                },
+                {
+                  "name" : "Time Tracking",
+                  "value" : false,
+                  "id" : "e876e7a1-0d30-490c-b2e8-8026ed811aa7",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Measure time to completion or hours worked"
+                },
+                {
+                  "name" : "Training Management",
+                  "value" : true,
+                  "id" : "4dc3a3c0-246c-4a15-8750-fa294c8ff58a",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track employee's progression through training programs "
+                }
+              ]
+            },
+            {
+              "category_name" : "Electronic Medical Records",
+              "category_features" : [
+                {
+                  "name" : "Appointment Scheduling",
+                  "value" : true,
+                  "id" : "3a768565-c8c8-4710-a44d-2e2e4b16d16b",
+                  "avg_rating" : 4.8,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Book appointments via calendar"
+                },
+                {
+                  "name" : "Charting",
+                  "value" : true,
+                  "id" : "54d53c9d-ecf8-4b09-8128-83f565fabff2",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "An electronic record of patients, clinical documentation, created and stored digitally"
+                },
+                {
+                  "name" : "Compliance Tracking",
+                  "value" : true,
+                  "id" : "df98f62c-bd57-46a4-a436-d7c05622345d",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track business operations to ensure they are performed correctly and according to industry regulations"
+                },
+                {
+                  "name" : "E-Prescribing",
+                  "value" : true,
+                  "id" : "e47635d3-9cd6-4672-9f45-254da154e74a",
+                  "avg_rating" : 3.7,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Electronic prescribing of a medical prescriptions"
+                },
+                {
+                  "name" : "HIPAA Compliant",
+                  "value" : true,
+                  "id" : "b7fa2102-62a3-4477-96a4-c8567bd85229",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Compliant with HIPAA, which sets standards for sensitive patient data protection"
+                },
+                {
+                  "name" : "Handwriting Recognition",
+                  "value" : false,
+                  "id" : "d8c370b1-7293-49eb-bb63-21a34acaf39a",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Enter information through handwriting on a tablet"
+                },
+                {
+                  "name" : "Meaningful Use Certified",
+                  "value" : false,
+                  "id" : "cec29c72-32d8-4efb-861a-677e8aad204f",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Adheres to meaningful use standards"
+                },
+                {
+                  "name" : "ONC-ATCB Certified",
+                  "value" : false,
+                  "id" : "c40906d5-6b5a-47ce-8e78-0773f9035c5e",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Certified for health IT"
+                },
+                {
+                  "name" : "Self Service Portal",
+                  "value" : true,
+                  "id" : "80f0258d-e261-4136-ba81-a5251a304f8e",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Gateway through which end users can access the system"
+                },
+                {
+                  "name" : "Voice Recognition",
+                  "value" : false,
+                  "id" : "bfba43fc-dd12-4ae2-bb44-2d453833aeca",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Recognize/detect varying frequencies in a person?s voice to identify/verify \"who\" is speaking"
+                }
+              ]
+            },
+            {
+              "category_name" : "Mental Health",
+              "category_features" : [
+                {
+                  "name" : "Appointment Scheduling",
+                  "value" : true,
+                  "id" : "3a768565-c8c8-4710-a44d-2e2e4b16d16b",
+                  "avg_rating" : 4.8,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Book appointments via calendar"
+                },
+                {
+                  "name" : "Claims Management",
+                  "value" : true,
+                  "id" : "636a5982-b6cc-4db2-b0ec-ab7feb7f36a5",
+                  "avg_rating" : 4.5,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Process of submitting and following up on claims with insurance companies"
+                },
+                {
+                  "name" : "Compliance Tracking",
+                  "value" : true,
+                  "id" : "df98f62c-bd57-46a4-a436-d7c05622345d",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Track business operations to ensure they are performed correctly and according to industry regulations"
+                },
+                {
+                  "name" : "Confirmation/Reminders",
+                  "value" : true,
+                  "id" : "434b2095-a22b-4e06-856a-c425a6fbe7fa",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Automated alerts to upcoming appointments"
+                },
+                {
+                  "name" : "E-Prescribing",
+                  "value" : true,
+                  "id" : "e47635d3-9cd6-4672-9f45-254da154e74a",
+                  "avg_rating" : 3.7,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Electronic prescribing of a medical prescriptions"
+                },
+                {
+                  "name" : "EMR/EHR",
+                  "value" : true,
+                  "id" : "5f58d39c-6e81-4fe2-92ab-8beeb47d6a44",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Create and securely store patient records"
+                },
+                {
+                  "name" : "Employee Management",
+                  "value" : true,
+                  "id" : "9510ee6b-fcb0-4f43-94ce-07023453048f",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Tracks employee schedules, availability, performance"
+                },
+                {
+                  "name" : "Initial Assessments",
+                  "value" : true,
+                  "id" : "47c40a4b-7beb-483a-b7e8-7fe080ff06ba",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Intake assessment to determine treatment"
+                },
+                {
+                  "name" : "Inpatient/Residential",
+                  "value" : false,
+                  "id" : "dfcc2e41-8973-4ff7-8dcc-2249f7b9ca90",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "For inpatient/residential treatment facilities"
+                },
+                {
+                  "name" : "Medical Billing",
+                  "value" : true,
+                  "id" : "eeb06bdf-fbe4-4c24-a1ec-b6ff86a1309d",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Manage billing and payments for a healthcare provider"
+                },
+                {
+                  "name" : "Multi-Provider Practice",
+                  "value" : true,
+                  "id" : "bf23054b-b824-47ff-a1ba-b25be311e3fd",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "For practices with multiple providers"
+                },
+                {
+                  "name" : "Self Service Portal",
+                  "value" : true,
+                  "id" : "80f0258d-e261-4136-ba81-a5251a304f8e",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Gateway through which end users can access the system"
+                },
+                {
+                  "name" : "Single Provider Practice",
+                  "value" : false,
+                  "id" : "206e3f46-358e-4681-bfdb-512bea2732a3",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "For practices with a single provider"
+                },
+                {
+                  "name" : "Treatment Planning",
+                  "value" : true,
+                  "id" : "1bc44ca2-77a0-496b-84d8-c65ac346014b",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Plan tailored to the individual patient based on symptoms"
+                }
+              ]
+            }
+          ],
+          "infographics" : [ ],
+          "related_products" : [
+            {
+              "product_id" : 132388,
+              "seo_product_id" : 226354,
+              "seo_slug" : "CharityTracker",
+              "vendor_name" : "Simon Solutions",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/60679f69-13bb-4ad1-a341-6dc9c0352956.png",
+              "rating" : 4.5,
+              "total_reviews" : 1021,
+              "slug" : "CharityTracker",
+              "product_name" : "CharityTracker",
+              "short_desc" : "Easy, cloud-based, HIPAA compliant software for human service nonprofits of all sizes. Streamline case mgmt. No hidden fees. Free demo.",
+              "features" : "CharityTracker is an easy-to-use, cloud-based, HIPAA compliant software for human service nonprofits of all sizes. With no setup fees, hidden fees, or contracts, you can cancel anytime! Say goodbye to spreadsheets with our time saving, affordable solution. Quickly & digitally streamline how you manage cases, record case notes & assistance, create reports, collaborate, set goals, measure outcomes, make referrals, & prove your impact with change-over-time reports for your funders. Book a free demo",
+              "url" : "http://humanservices.charitytracker.net/"
+            },
+            {
+              "product_id" : 182626,
+              "seo_product_id" : 182626,
+              "seo_slug" : "Notehouse",
+              "vendor_name" : "Notehouse",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/a34ac500-ad46-45d7-a598-6c6c829905ae.png",
+              "rating" : 4.7,
+              "total_reviews" : 79,
+              "slug" : "Notehouse",
+              "product_name" : "Notehouse",
+              "short_desc" : "Simple, affordable, user friendly software for all those who serve humans. ",
+              "features" : "**Starts at $5 a month!** Developed by a non profit founder and Executive Director, Notehouse is perfect for all those in human services looking for a user-friendly way to keep track of the people they work with and for. For case managers, counselors, social workers and crisis support staff, Notehouse allows you to open case files, track upcoming dates, create tags for easy sorting, grouping and reporting, and note all your communication, meetings, and interactions with those you help.",
+              "url" : "https://getnotehouse.com/"
+            },
+            {
+              "product_id" : 123342,
+              "seo_product_id" : 224260,
+              "seo_slug" : "Apricot-Social-Solutions",
+              "vendor_name" : "Social Solutions",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/31eac217-7f32-49e2-9539-69177e7e4bd8.png",
+              "rating" : 3.9,
+              "total_reviews" : 70,
+              "slug" : "Apricot",
+              "product_name" : "Apricot Social Solutions",
+              "short_desc" : "Apricot is a secure, flexible, and easy-to-use case management solution for nonprofits of any size. ",
+              "features" : "Our solutions empower human services organizations to collect information in a single, secure location and report on impact while maintaining compliance and reporting requirements. Change more lives with best-practice solutions in mental health, substance abuse prevention, self-sufficiency, senior services and more.",
+              "url" : "https://www.socialsolutions.com/landing/human-services-ppc/?utm_medium=paid%20search&utm_campaign=ss%20-%20human%20services&utm_adgroup=&utm_term=&utm_content=demo"
+            },
+            {
+              "product_id" : 161597,
+              "seo_product_id" : 161582,
+              "seo_slug" : "Knit",
+              "vendor_name" : "Knit People",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d5072f58-0ebb-4fb3-9676-fcea7b31defa.png",
+              "rating" : 4.8,
+              "total_reviews" : 66,
+              "slug" : "Knit",
+              "product_name" : "Knit",
+              "short_desc" : "Knit is a 100% Canadian payroll + HR platform that puts your CRA compliance on autopilot. The #1 choice for 100+ accounting firms.",
+              "features" : "Knit People is a 100% Canadian, unified payroll + HR platform that puts your payroll on autopilot. Knit is the ideal solution for small-to-medium-sized businesses that want to save on admin costs while making compliance worry-free. Knit is the #1 choice for accounting firms throughout Canada that manage multiple businesses. We offer everything from employee self-onboarding, tax calculations and remittances, direct deposits, paid time off policies, custom field tracking, e-documents, and more.",
+              "url" : "https://www.knitpeople.com/signup/free-trial-full-service-payroll-for-canada"
+            },
+            {
+              "product_id" : 248416,
+              "seo_product_id" : 248416,
+              "seo_slug" : "extendedReach",
+              "vendor_name" : "KCare",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/15202c19-76c3-482f-9c4b-f63bbb81e202.png",
+              "rating" : 4.5,
+              "total_reviews" : 59,
+              "slug" : "extendedReach",
+              "product_name" : "extendedReach",
+              "short_desc" : "An easy-to-use and powerful case management system for human services that your workers, support staff, and leadership will love!",
+              "features" : "extendedReach is the industry-leading, intuitive human services software solution for social service agencies. Built specifically for child and family agencies, we designed extendedReach to work the way you already do. We leverage your existing checklists, documents, policies, and processes, enabling them with technology to increase productivity by streamlining your workflows. extendedReach is an easy-to-use, affordable web-based case management system that your agency will love!\n",
+              "url" : "https://extendedreach.io/schedule-a-demo?utm_campaign=2022%20eR%20Capterra&utm_source=ppc&utm_medium=capterra"
+            },
+            {
+              "product_id" : 154789,
+              "seo_product_id" : 222661,
+              "seo_slug" : "CaseWorthy",
+              "vendor_name" : "CaseWorthy",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/fb0df221-0e44-4470-a0b1-ab72d77bc319.png",
+              "rating" : 4.5,
+              "total_reviews" : 41,
+              "slug" : "CaseWorthy",
+              "product_name" : "CaseWorthy",
+              "short_desc" : "Case management solution supporting nonprofits manage clients, track services, improve efficiencies & evaluate community impact.",
+              "features" : "CaseWorthy enables organizations to successfully capture & manage client data in one, secure location, efficiently generate compliance reporting & go beyond basic compliance to learn more about their organizations. CaseWorthy supports data management & collection needs. By consolidating data & systems into a single platform, CaseWorthy helps nonprofits access the information they need to better coordinate services & more effectively address the needs of every individual & family they serve.  ",
+              "url" : "https://inbound.caseworthy.com/capterra"
+            },
+            {
+              "product_id" : 118751,
+              "seo_product_id" : 222887,
+              "seo_slug" : "AWARDS",
+              "vendor_name" : "Foothold Technology",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4240e993-e31d-4ab3-9289-15753734531a.png",
+              "rating" : 4.5,
+              "total_reviews" : 32,
+              "slug" : "AWARDS",
+              "product_name" : "Foothold",
+              "short_desc" : "Electronic documentation, case management and client tracking software for I/DD and behavioral health service providers.\r\n",
+              "features" : "Electronic documentation software for I/DD and behavioral health service providers. Our software offers case management, client tracking, and an Electronic Health Record (EHR) all under one roof - with specific functionality for the needs of I/DD agencies. \r\n\r\nOur software is HIPAA-compliant, federally certified as an EHR, and offers full interoperability as you navigate the new landscape of care coordination and value-based care.\r\n",
+              "url" : "https://resources.footholdtechnology.com/demo-request?utm_source=gartner&utm_medium=cpc&utm_campaign=human-services"
+            },
+            {
+              "product_id" : 180084,
+              "seo_product_id" : 223060,
+              "seo_slug" : "PlanStreet",
+              "vendor_name" : "PlanStreet",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/cf0f7647-6d7a-4361-abcb-b7033101ba78.jpeg",
+              "rating" : 4.4,
+              "total_reviews" : 29,
+              "slug" : "PlanStreet",
+              "product_name" : "PlanStreet",
+              "short_desc" : "PlanStreet is best for large and medium-sized human services organizations. Get started with $50/user/month!",
+              "features" : "PlanStreet's case management software is tailor-made for human services organizations. It eliminates manual processes and paperwork providing caseworkers a HIPAA compliant platform. PlanStreet provides comprehensive solution for case tracking, workflow automation and reporting dashboards. Caseworkers, volunteers, clients and other stakeholders can easily use the software and access the important data using the web and mobile applications. Get started with a free demo today!",
+              "url" : "https://www.planstreetinc.com/case-management-software/?utm_source=capterra&utm_medium=cpc&utm_campaign=human_services"
+            },
+            {
+              "product_id" : 143561,
+              "seo_product_id" : 226754,
+              "seo_slug" : "ASI-ware",
+              "vendor_name" : "ASIware",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d3812218-aab9-4bce-935b-5128a106bc48.png",
+              "rating" : 4.6,
+              "total_reviews" : 26,
+              "slug" : "ClientTrax",
+              "product_name" : "ASI-ware",
+              "short_desc" : "Monitors, manages and reports vital information for a wide range of human services agencies so they can better serve their clients.",
+              "features" : "ASIware offers critical data management solutions to child placement and social services agencies. Our customizable platforms allow agencies to track client data more effectively, run specific reports timely and measure the success of their programs. With quality and metric dashboards, detailed case management, automatic notifications and alerts, payment and invoicing tools - ASIware can help transform the way you serve your clients and manage your internal operations. Call us today!\r\n",
+              "url" : "https://asi-ware.com/asiware-products/"
+            },
+            {
+              "product_id" : 124958,
+              "seo_product_id" : 224610,
+              "seo_slug" : "NewOrg",
+              "vendor_name" : "New Org",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/a5799c62-a8a5-4eb4-9cf9-8a1304062e67.png",
+              "rating" : 4.5,
+              "total_reviews" : 24,
+              "slug" : "NewOrg-Management-System",
+              "product_name" : "NewOrg",
+              "short_desc" : "NewOrg simplifies managing clients, capturing and reporting on services delivered plus easily measuring the impact of your programming.",
+              "features" : "Focus on your mission; not technology. Affordable and easily configured, NewOrg captures information specific to your varied programs and work flows plus we provide sophisticated reporting to staff, boards, government agencies and funders. Ensure your sustainability by easily and accurately quantifying the impact of your service delivery to clients through NewOrg's powerful survey tools and individualized dashboards. Best of all, staff loves NewOrg's intuitive, easy to learn and use design.",
+              "url" : "http://unbouncepages.com/human-services/"
+            }
+          ],
+          "similar_products" : [
+            {
+              "product_id" : 123342,
+              "seo_product_id" : 224260,
+              "seo_slug" : "Apricot-Social-Solutions",
+              "vendor_name" : "Social Solutions",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/31eac217-7f32-49e2-9539-69177e7e4bd8.png",
+              "rating" : 3.9,
+              "total_reviews" : 70,
+              "slug" : "Apricot",
+              "product_name" : "Apricot Social Solutions",
+              "short_desc" : "Apricot is a secure, flexible, and easy-to-use case management solution for nonprofits of any size. ",
+              "features" : "Our solutions empower human services organizations to collect information in a single, secure location and report on impact while maintaining compliance and reporting requirements. Change more lives with best-practice solutions in mental health, substance abuse prevention, self-sufficiency, senior services and more.",
+              "url" : "https://www.socialsolutions.com/landing/nonprofit-case-management/?&utm_medium=paid%20search&utm_campaign=ss%20-%20default&utm_adgroup=&utm_term=&utm_content=demo"
+            },
+            {
+              "product_id" : 132388,
+              "seo_product_id" : 226354,
+              "seo_slug" : "CharityTracker",
+              "vendor_name" : "Simon Solutions",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/60679f69-13bb-4ad1-a341-6dc9c0352956.png",
+              "rating" : 4.5,
+              "total_reviews" : 1021,
+              "slug" : "CharityTracker",
+              "product_name" : "CharityTracker",
+              "short_desc" : "Easy, cloud-based, HIPAA compliant software for human service nonprofits of all sizes. Streamline case mgmt. No hidden fees. Free demo.",
+              "features" : "CharityTracker is an easy-to-use, cloud-based, HIPAA compliant software for human service nonprofits of all sizes. With no setup fees, hidden fees, or contracts, you can cancel anytime! Say goodbye to spreadsheets with our time saving, affordable solution. Quickly & digitally streamline how you manage cases, record case notes & assistance, create reports, collaborate, set goals, measure outcomes, make referrals, & prove your impact with change-over-time reports for your funders. Book a free demo",
+              "url" : "http://humanservices.charitytracker.net/"
+            },
+            {
+              "product_id" : 172299,
+              "seo_product_id" : 227079,
+              "seo_slug" : "Health-Cloud",
+              "vendor_name" : "Salesforce",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/5e707b7d-1625-4687-beb0-d7b74bc84700.png",
+              "rating" : 4.7,
+              "total_reviews" : 3,
+              "slug" : "Health-Cloud",
+              "product_name" : "Health Cloud",
+              "short_desc" : "Deliver fast, secure, and interoperable healthcare experiences.",
+              "features" : "Government Health and Human Services built on the world's #1 CRM. Transform your system of record into a system of engagement to bring efficiency to mission-critical programs. Achieve better long-term outcomes by connecting everything from EHR data and treatment plans to patient preferences. Streamline public health and social services programs, deliver high-quality healthcare, and drive innovative biomedical research with Salesforce as your trusted partner.",
+              "url" : "https://www.salesforce.com/form/industries/healthcare/health-cloud-demo/?d=7013y000002pfcqAAA&nc=7013y000002pfclAAA&utm_source=capterra&utm_medium=review_sites&utm_campaign=us_ihlsd&utm_content=health-cloud-demo_7013y000002pfcqAAA"
+            },
+            {
+              "product_id" : 55008,
+              "seo_product_id" : 222658,
+              "seo_slug" : "FAMCare",
+              "vendor_name" : "Global Vision Technologies",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/2b6ffba7-c821-4227-8b9e-714b8bcfd6e1.png",
+              "rating" : 4.3,
+              "total_reviews" : 17,
+              "slug" : "FAMCare-Human-Services",
+              "product_name" : "FAMCare",
+              "short_desc" : "FAMCare case management software automates casework & streamlines reporting & analytics so you can demonstrate evidence based results. ",
+              "features" : "FAMCare is powerful, cloud-based case management software for human services agencies who are looking to manage cases faster and make data reviews and reporting simpler to allow you to help more clients.  FAMCare automates casework with queued to-do lists, so nobody falls through the cracks.  Powerful pivot table data reporting makes looking at data easy and fun and makes quarterly and annual reporting simple.  Includes modules for workflow, new form creation, billing, portals and much more.",
+              "url" : "http://info.famcare.net/nonprofit-case-management-software"
+            },
+            {
+              "product_id" : 236606,
+              "seo_product_id" : 236606,
+              "seo_slug" : "ECINS",
+              "vendor_name" : "Empowering-Communities",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/0c1340ed-a9d8-45dc-aac0-a33e46e0e1ec.png",
+              "rating" : 4.6,
+              "total_reviews" : 9,
+              "slug" : "ECINS",
+              "product_name" : "ECINS",
+              "short_desc" : "Solve just about any case management problem that exists with ECINS, the world's most collaborative case management system.",
+              "features" : "ECINS (Empowering Communities with Integrated Network Systems) is not your ordinary software company. We are a social enterprise dedicated to supporting the overwhelmed human services sector with our highly secure, cloud-based case management system. At ECINS we know that when people work together, they can achieve more, which is why we created a system that can solve just about any case management problem that exists. Give us your wish list and see how ECINS checks all of the boxes.",
+              "url" : "https://ecins.com/us/"
+            },
+            {
+              "product_id" : 200357,
+              "seo_product_id" : 200357,
+              "seo_slug" : "Casebook-Platform",
+              "vendor_name" : "Casebook",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/5df13351-c053-43c5-86db-5fad8a37e4bc.png",
+              "rating" : 4.2,
+              "total_reviews" : 19,
+              "slug" : "Casebook-Platform",
+              "product_name" : "Casebook",
+              "short_desc" : "Casebook helps Human Service organizations get data out of their files and into a digital database. Track data that matters to YOU. ",
+              "features" : "Casebook helps Human Service organizations get data out of their file cabinets and into a digital database. Create custom fields, edit forms, and track data that matters to your team, your funders, and your community.\n\nBring it all together and manage cases, clients, and services from any device on a HIPAA compliant platform. Streamline processes with reporting, notifications, case notes, and smart workflow automation. \n\nCasebook was originally developed by the Annie E. Casey Foundation. ",
+              "url" : "https://gohub.casebook.net/free_demo?utm_campaign=Capterra&utm_source=ppc&utm_medium=Gartner&utm_term=Human%20Services%20Software"
+            },
+            {
+              "product_id" : 154789,
+              "seo_product_id" : 222661,
+              "seo_slug" : "CaseWorthy",
+              "vendor_name" : "CaseWorthy",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/fb0df221-0e44-4470-a0b1-ab72d77bc319.png",
+              "rating" : 4.5,
+              "total_reviews" : 41,
+              "slug" : "CaseWorthy",
+              "product_name" : "CaseWorthy",
+              "short_desc" : "Case management solution supporting nonprofits manage clients, track services, improve efficiencies & evaluate community impact.",
+              "features" : "CaseWorthy enables organizations to successfully capture & manage client data in one, secure location, efficiently generate compliance reporting & go beyond basic compliance to learn more about their organizations. CaseWorthy supports data management & collection needs. By consolidating data & systems into a single platform, CaseWorthy helps nonprofits access the information they need to better coordinate services & more effectively address the needs of every individual & family they serve.  ",
+              "url" : "https://inbound.caseworthy.com/capterra"
+            },
+            {
+              "product_id" : 248416,
+              "seo_product_id" : 248416,
+              "seo_slug" : "extendedReach",
+              "vendor_name" : "KCare",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/15202c19-76c3-482f-9c4b-f63bbb81e202.png",
+              "rating" : 4.5,
+              "total_reviews" : 59,
+              "slug" : "extendedReach",
+              "product_name" : "extendedReach",
+              "short_desc" : "An easy-to-use and powerful case management system for human services that your workers, support staff, and leadership will love!",
+              "features" : "extendedReach is the industry-leading, intuitive human services software solution for social service agencies. Built specifically for child and family agencies, we designed extendedReach to work the way you already do. We leverage your existing checklists, documents, policies, and processes, enabling them with technology to increase productivity by streamlining your workflows. extendedReach is an easy-to-use, affordable web-based case management system that your agency will love!\n",
+              "url" : "https://extendedreach.io/schedule-a-demo?utm_campaign=2022%20eR%20Capterra&utm_source=ppc&utm_medium=capterra"
+            },
+            {
+              "product_id" : 143681,
+              "seo_product_id" : 143681,
+              "seo_slug" : "Collaborate",
+              "vendor_name" : "Network Ninja",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/09c985b3-03eb-4247-8273-a667bc2dbadc.png",
+              "rating" : 4.3,
+              "total_reviews" : 12,
+              "slug" : "Collaborate",
+              "product_name" : "Collaborate",
+              "short_desc" : "Customizable case management software for human services. Easily manage intakes, services, and funder reports in one place.",
+              "features" : "Customizable case management software for human services agencies. Easily track intakes, services, goals, outcomes, and funder reports. Includes intelligent core features such as: case history, medical exams, clinical assessments, test results, custom reports, & more. HIPAA and SOC 2 Type 2 compliant.",
+              "url" : "https://www.collaboratesoftware.com/landing/social-services-case-management-cpt/"
+            },
+            {
+              "product_id" : 118751,
+              "seo_product_id" : 222887,
+              "seo_slug" : "AWARDS",
+              "vendor_name" : "Foothold Technology",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4240e993-e31d-4ab3-9289-15753734531a.png",
+              "rating" : 4.5,
+              "total_reviews" : 32,
+              "slug" : "AWARDS",
+              "product_name" : "Foothold",
+              "short_desc" : "Electronic documentation, case management and client tracking software for I/DD and behavioral health service providers.\r\n",
+              "features" : "Electronic documentation software for I/DD and behavioral health service providers. Our software offers case management, client tracking, and an Electronic Health Record (EHR) all under one roof - with specific functionality for the needs of I/DD agencies. \r\n\r\nOur software is HIPAA-compliant, federally certified as an EHR, and offers full interoperability as you navigate the new landscape of care coordination and value-based care.\r\n",
+              "url" : "https://resources.footholdtechnology.com/demo-request/?utm_source=gartner&utm_medium=cpc&utm_campaign=human-services"
+            },
+            {
+              "product_id" : 124958,
+              "seo_product_id" : 224610,
+              "seo_slug" : "NewOrg",
+              "vendor_name" : "New Org",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/a5799c62-a8a5-4eb4-9cf9-8a1304062e67.png",
+              "rating" : 4.5,
+              "total_reviews" : 24,
+              "slug" : "NewOrg-Management-System",
+              "product_name" : "NewOrg",
+              "short_desc" : "NewOrg simplifies managing clients, capturing and reporting on services delivered plus easily measuring the impact of your programming.",
+              "features" : "Focus on your mission; not technology. Affordable and easily configured, NewOrg captures information specific to your varied programs and work flows plus we provide sophisticated reporting to staff, boards, government agencies and funders. Ensure your sustainability by easily and accurately quantifying the impact of your service delivery to clients through NewOrg's powerful survey tools and individualized dashboards. Best of all, staff loves NewOrg's intuitive, easy to learn and use design.",
+              "url" : "http://unbouncepages.com/social-work-case-mgt/"
+            },
+            {
+              "product_id" : 178861,
+              "seo_product_id" : 178861,
+              "seo_slug" : "Junna-Care",
+              "vendor_name" : "My Junna",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/caa6e033-d174-467d-b7d7-35279e555bbe.png",
+              "rating" : 5.0,
+              "total_reviews" : 4,
+              "slug" : "Junna-Care",
+              "product_name" : "My Junna",
+              "short_desc" : "A HIPAA compliant client management software to organize your clients, case notes, organize and track community resources and more! ",
+              "features" : "A patient management software to help you manage your patients, tasks, referrals & more!\nIn My Junna, you can easily track your time and manage your upcoming tasks. You can also organize and share community resources and track all of your referrals! Run important detailed reports on your company as well as electronically sign case notes, contracts and more! Let My Junna do the heavy lifting for you!",
+              "url" : "https://info.gartnerdigitalmarkets.com/myjunna-gdm-lp"
+            },
+            {
+              "product_id" : 169492,
+              "seo_product_id" : 226865,
+              "seo_slug" : "Exponent-Case-Management",
+              "vendor_name" : "Exponent Partners",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/295d7344-3a57-4b0f-8320-608fa4fc1ace.png",
+              "rating" : 4.8,
+              "total_reviews" : 14,
+              "slug" : "Exponent-Case-Management",
+              "product_name" : "Exponent Case Management",
+              "short_desc" : "Full-featured case management platform for mid-to-large nonprofit human service organizations that drives radically better impact. ",
+              "features" : "Designed with mid-to-large Human Services organizations in mind, Exponent Case Management is a customizable platform for intake, assessment, service tracking, case records, outcomes and compliance reporting, referral tracking, and more. Built on the Salesforce platform, ECM enables a whole agency approach to drive radically better impact. This all-in-one platform for program and performance management is ideal for multi-service nonprofit agencies.\n",
+              "url" : "https://try.exponentcasemanagement.com/"
+            }
+          ],
+          "related_categories" : [
+            {
+              "functional_group" : "hs",
+              "long_name" : "Mental Health",
+              "html_name" : "mental-health-software",
+              "link_name" : "mental-health",
+              "product_count" : 112,
+              "meta_description" : "Find and compare top Mental Health software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Mental Health tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/mental-health-software>Mental Health software</a> handles activities such as patient record keeping, billing, and scheduling for mental health facilities. Typically, Mental Health applications offer a variety of flexible features, which assist in the management and organization of patient records, progress notes, billing and invoicing, and staff and appointment scheduling. Mental health clinics use these applications to centralize and automate essential patient care and medical business processes including patient reporting generation, treatment records, accounts receivable, payment processing, patient data sharing, document management, electronic claims, collections, and financial reporting.  <a href=/mental-health-software>Mental Health software</a> is related to <a href=\"/human-services-software\">Human Services software</a>, <a href=/electronic-medical-records-software>Electronic Medical Records software</a>, <a href=/medical-billing-software>Medical Billing software</a>, <a href=/medical-practice-management-software>Medical Practice Management software</a>, <a href=/medical-scheduling-software>Medical <a href=/scheduling-software>Scheduling software</a></a> and <a href=/medical-transcription-software>Medical Transcription software</a>. "
+            },
+            {
+              "functional_group" : "hs",
+              "long_name" : "Patient Case Management",
+              "html_name" : "patient-case-management-software",
+              "link_name" : "patient-case-management",
+              "product_count" : 31,
+              "meta_description" : "Find and compare top Patient Case Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Patient Case Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/patient-case-management-software\">Patient Case Management software</a> is used to manage and track patients within the healthcare and social services professions. This type of software is often used by social service agencies, non-profits, hospitals, and mental health clinics, to track, monitor, and report on the status of long and short term patients.   <a href=\"/patient-case-management-software\">Patient Case Management software</a> is related to <a href=\"/mental-health-software\">Mental Health software</a>, <a href=\"/human-services-software\">Human Services software</a> and <a href=\"/association-management-software\">Association Management software</a>."
+            }
+          ],
+          "is_upgraded" : true,
+          "enabled" : true,
+          "filter_options" : {
+            "users" : 120,
+            "platform" : 897,
+            "pricing_options" : 2,
+            "category_related_features" : [
+              26261,
+              36271,
+              36277,
+              36313,
+              36499,
+              36518,
+              36888,
+              36889,
+              60005,
+              60006,
+              60007,
+              60008,
+              60009,
+              60011,
+              60012,
+              60014,
+              60017,
+              60021,
+              60022,
+              60023,
+              60024,
+              60026,
+              60027,
+              60028,
+              60029,
+              60030,
+              60031,
+              60033,
+              60035,
+              60037,
+              60039,
+              60042,
+              60043
+            ],
+            "employees" : 120
+          },
+          "sort_options" : {
+            "sort_review_rating" : 3.9103097915649414,
+            "most_recent_review" : "2022-08-16T17:50:43Z"
+          },
+          "countries" : "US",
+          "features_tokenized_text" : "case_management certification_&_licensing child_welfare_management document_management reporting_&_statistics scheduling training_management",
+          "platform_tokenized_text" : "cloud,saas,web-based mobileandroid mobileiphone mobileipad",
+          "users_tokenized_text" : "51-200 201-500 501-1000 1000+",
+          "pricing_tokenized_text" : "monthlysubscription",
+          "badges" : [ ],
+          "bid_spot_us" : 16.0,
+          "currency_code" : "USD",
+          "currency_symbol" : "$",
+          "credit_card_required" : null,
+          "licensing_model" : null,
+          "open_api_offered" : "Yes",
+          "mobile_urls" : [
+            {
+              "name" : "Android",
+              "url" : "https://login.qualifacts.org/authorization/login.html#redirect_uri=https%3A%2F%2Flogin.qualifacts.org%2Fcarelogic"
+            },
+            {
+              "name" : "iOS",
+              "url" : "https://login.qualifacts.org/authorization/login.html#redirect_uri=https%3A%2F%2Flogin.qualifacts.org%2Fcarelogic"
+            }
+          ],
+          "integrations" : [ ],
+          "supported_countries" : [
+            {
+              "id" : 237,
+              "code" : "US",
+              "name" : "United States of America"
+            }
+          ],
+          "supported_languages" : [
+            {
+              "id" : 152,
+              "code" : "en",
+              "name" : "English",
+              "location" : null
+            }
+          ],
+          "target_industries" : [
+            {
+              "id" : 89,
+              "code" : "139",
+              "name" : "Mental Health Care"
+            },
+            {
+              "id" : 57,
+              "code" : "14",
+              "name" : "Hospital & Health Care"
+            },
+            {
+              "id" : 61,
+              "code" : "88",
+              "name" : "Individual & Family Services"
+            }
+          ],
+          "price_range_id" : 1,
+          "aggregated_review_ratings" : {
+            "industry" : {
+              "47" : 4.5,
+              "100" : 4.29,
+              "75" : 5.0,
+              "139" : 3.74,
+              "88" : 4.2,
+              "137" : 4.5,
+              "4" : 5.0,
+              "90" : 4.0,
+              "148" : 3.0,
+              "125" : 3.5,
+              "118" : 4.0,
+              "13" : 3.36,
+              "84" : 4.0,
+              "91" : 4.0,
+              "112" : 5.0,
+              "43" : 1.0,
+              "14" : 3.84,
+              "124" : 3.86
+            },
+            "company_size" : {
+              "501-1000 employees" : 4.11,
+              "Self-employed" : 2.5,
+              "11-50 employees" : 3.79,
+              "201-500 employees" : 3.85,
+              "5001-10,000 employees" : 4.0,
+              "1-10 employees" : 4.8,
+              "51-200 employees" : 3.85,
+              "1001-5000 employees" : 3.85
+            }
+          },
+          "vct_enabled" : true,
+          "pricing_plans" : [
+            {
+              "created_on_utc" : "2019-08-21T14:47:39Z",
+              "modified_on_utc" : "2022-04-11T20:39:21Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Basic",
+              "description" : null,
+              "display_order" : 1,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 100.24,
+              "ending_price" : null,
+              "pricing_model_name" : null,
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [ ]
+            }
+          ],
+          "discount_types" : [ ]
+        }
+      }
+    ]
+  }
+}

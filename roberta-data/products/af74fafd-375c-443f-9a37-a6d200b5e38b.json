@@ -1,0 +1,2220 @@
+{
+  "took" : 2,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 3,
+    "successful" : 3,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : {
+      "value" : 1,
+      "relation" : "eq"
+    },
+    "max_score" : 10.869203,
+    "hits" : [
+      {
+        "_index" : "product_listings_main_data_upc_vt20220920_043802_utc",
+        "_type" : "_doc",
+        "_id" : "150513_social",
+        "_score" : 10.869203,
+        "_source" : {
+          "product_id" : 150513,
+          "seo_product_id" : 224412,
+          "seo_slug" : "PromoRepublic",
+          "product_name" : "PromoRepublic",
+          "upc_product_uuid" : "af74fafd-375c-443f-9a37-a6d200b5e38b",
+          "old_product_ids" : [
+            224412
+          ],
+          "product_url" : "http://promorepublic.com/en/?utm_source=capterra&utm_medium=cpc&utm_content=social_media_marketing",
+          "product_slug" : "PromoRepublic",
+          "former_name" : "PromoRepublic",
+          "logo_filepath" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/85e5e60f-f081-4027-b34b-6c9cec98c5c5.jpeg",
+          "vendor" : {
+            "vendor_id" : 2106074,
+            "vendor_name" : "PromoRepublic",
+            "vendor_url" : "http://promorepublic.com",
+            "year_founded" : 2015,
+            "location" : "United States",
+            "vendor_opted_out_of_reviews" : true,
+            "is_opted_out_of_reviews" : false,
+            "is_hit_limit" : false,
+            "enabled" : true,
+            "has_vendor_level_page" : false,
+            "slug" : null,
+            "vendor_page" : false,
+            "paused_campaign" : false
+          },
+          "category_short_name" : "social",
+          "category_html_name" : "social-media-marketing-software",
+          "category" : {
+            "id" : 30781,
+            "short_name" : "social",
+            "long_name" : "Social Media Marketing",
+            "html_name" : "social-media-marketing-software",
+            "enabled" : true
+          },
+          "best_category" : "social",
+          "is_best_category" : true,
+          "highest_cpc_category" : null,
+          "is_highest_cpc_category" : false,
+          "short_desc" : "The unified local marketing platform that gives you the tools and insights to generate more local sales.",
+          "long_desc" : "PromoRepublic is the all-in-one local marketing platform that gives multi-location businesses and marketing agencies the insights and tools to manage social media, maintain brand integrity, improve online findability and reputation - everything you need to win local customers.",
+          "rating" : 4.6,
+          "number_of_reviews" : 134,
+          "total_reviews" : 143,
+          "ease_of_use_rating" : 4.6,
+          "customer_support_rating" : 4.5,
+          "functionality_rating" : 4.4,
+          "value_for_money_rating" : 4.5,
+          "recommendation_rating" : 8.6,
+          "pricing_enabled" : true,
+          "pricing" : 59.0,
+          "is_per_user" : false,
+          "fee_schedule" : "Per-Month",
+          "pricing_model" : "Flat Rate",
+          "pricing_details" : "SMALL BUSINESS - $49/month\n\n- AI-driven scheduling to Facebook, Instagram, LinkedIn, Twitter, Pinterest, Google My Business \n- 10 social media profiles / 1 user\n- Library with 100,000 post ideas and visual templates\n- Built-in Graphics Editor\n- iOS and Android mobile apps\n- Statistics and reporting\n\nAGENCY - $79/month\n\n- AI-driven scheduling to Facebook, Instagram, LinkedIn, Twitter, Pinterest, Google My Business \n- 30 social media profiles / 10 users\n- Library with 100,000 post ideas and visual templates\n- Built-in Graphics Editor\n- iOS and Android mobile apps\n- All-in-one social inbox\n- Statistics and reporting\n\nMULTI-LOCATION: custom pricing\n\n- AI-driven scheduling to Facebook, Instagram, LinkedIn, Twitter, Pinterest, Google My Business\n- Custom amount of social media profiles\n- Custom Content Storage\n- Built-in Graphics Editor\n- Social listening\n- Comprehensive reporting\n- Reputation Management & Review Management\n- Local SEO: Listing management & Google Business Profile reports",
+          "pricing_created_on" : "2019-08-21T14:47:39Z",
+          "pricing_modified_on" : "2022-06-23T14:42:33Z",
+          "pricing_created_by" : null,
+          "pricing_modified_by" : null,
+          "pricing_vendor_pricing_url" : "https://promorepublic.com/en/pricing/",
+          "free_trial" : true,
+          "free_version" : true,
+          "target_audience" : "Franchise and Multi-Location Brands, Direct Sales Organizations, Marketing Agencies, Small Business Owners, Marketers.",
+          "target_users" : [
+            "1",
+            "2-10",
+            "11-50",
+            "51-200",
+            "201-500",
+            "501-1000",
+            "1000+"
+          ],
+          "platform" : [
+            {
+              "enabled" : true,
+              "name" : "Cloud, SaaS, Web-Based"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Mac"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Chromebook"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile Android"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPhone"
+            },
+            {
+              "enabled" : false,
+              "name" : "Mobile iPad"
+            }
+          ],
+          "support" : [
+            {
+              "enabled" : true,
+              "name" : "Email Help Desk"
+            },
+            {
+              "enabled" : false,
+              "name" : "FAQ Forum"
+            },
+            {
+              "enabled" : true,
+              "name" : "Knowledgebase"
+            },
+            {
+              "enabled" : false,
+              "name" : "Phone Support"
+            },
+            {
+              "enabled" : false,
+              "name" : "24/7 Live Rep"
+            },
+            {
+              "enabled" : true,
+              "name" : "Chat"
+            }
+          ],
+          "training" : [
+            {
+              "enabled" : false,
+              "name" : "Not Offered"
+            },
+            {
+              "enabled" : true,
+              "name" : "In-Person"
+            },
+            {
+              "enabled" : true,
+              "name" : "Live Online"
+            },
+            {
+              "enabled" : true,
+              "name" : "Webinars"
+            },
+            {
+              "enabled" : true,
+              "name" : "Documentation"
+            },
+            {
+              "enabled" : true,
+              "name" : "Videos"
+            }
+          ],
+          "media" : [
+            {
+              "product_id" : 150513,
+              "vendor_id" : 2106074,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/9da7e42b-fb92-44c8-bef4-c58c701dc169.png",
+              "caption" : "Social Media Calendar",
+              "weight" : 1,
+              "short_name" : "social"
+            },
+            {
+              "product_id" : 150513,
+              "vendor_id" : 2106074,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/07283f12-2f6b-450d-a6e7-08f6c3e12380.png",
+              "caption" : "Content Organizer",
+              "weight" : 2,
+              "short_name" : "social"
+            },
+            {
+              "product_id" : 150513,
+              "vendor_id" : 2106074,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/58d1af9c-03ad-4c43-a826-4e5c01ae03b5.png",
+              "caption" : "Work Coordinator",
+              "weight" : 3,
+              "short_name" : "social"
+            },
+            {
+              "product_id" : 150513,
+              "vendor_id" : 2106074,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/48eb0e58-b4d3-450f-a1c8-03df56b315d8.png",
+              "caption" : "Reporting Provider",
+              "weight" : 4,
+              "short_name" : "social"
+            },
+            {
+              "product_id" : 150513,
+              "vendor_id" : 2106074,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/a35c9be4-5e22-4211-b0d0-c0a05df2681b.jpeg",
+              "caption" : "Location and Review Performance Analytics",
+              "weight" : 5,
+              "short_name" : "social"
+            }
+          ],
+          "links" : [
+            {
+              "product_id" : 150513,
+              "functional_group" : "social",
+              "html_code" : "https://app.promorepublic.com/en?utm_source=capterra&utm_medium=cpc&utm_content=social_media_marketing#signup",
+              "link_name" : "Free Trial",
+              "link_priority" : 1.0
+            },
+            {
+              "product_id" : 150513,
+              "functional_group" : "social",
+              "html_code" : "https://promorepublic.com/en/?utm_source=capterra&utm_medium=cpc&utm_content=social_media_marketing",
+              "link_name" : "Free Demo",
+              "link_priority" : 2.0
+            },
+            {
+              "product_id" : 150513,
+              "functional_group" : "social",
+              "html_code" : "https://promorepublic.com/en/pricing.php?utm_source=capterra&utm_medium=cpc&utm_content=social_media_marketing",
+              "link_name" : "Pricing",
+              "link_priority" : 3.0
+            },
+            {
+              "product_id" : 150513,
+              "functional_group" : "social",
+              "html_code" : "https://promorepublic.com/en/agencies-freelancers.php?utm_source=capterra&utm_medium=cpc&utm_content=social_media_marketing",
+              "link_name" : "For Agencies",
+              "link_priority" : 4.0
+            }
+          ],
+          "features" : [
+            {
+              "category_name" : "Social Media Marketing",
+              "category_features" : [
+                {
+                  "name" : "Automated Publishing",
+                  "value" : true,
+                  "id" : "a98a65e5-b179-415a-a32d-9aa22492b759",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Establish rules for automatic propagation of social media posts across one or more channels"
+                },
+                {
+                  "name" : "Contact Management",
+                  "value" : false,
+                  "id" : "0019f365-3e1b-4e2f-8f1e-cb77ba025078",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Store and find contact information such as names, addresses, and social media accounts"
+                },
+                {
+                  "name" : "Content Management",
+                  "value" : true,
+                  "id" : "41247b85-41d2-42cb-aa15-4e6c78c904c2",
+                  "avg_rating" : 4.7,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Creating, updating, monitoring accuracy, and ensuring brand consistency for all written materials that are distributed to stakeholders."
+                },
+                {
+                  "name" : "Conversion Tracking",
+                  "value" : true,
+                  "id" : "e20cfa12-6039-4460-b61e-39c240dcf24f",
+                  "avg_rating" : 3.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Customer Segmentation",
+                  "value" : false,
+                  "id" : "d91e2dfa-b783-41cf-8eaf-c3630a064f77",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Keyword Filtering",
+                  "value" : false,
+                  "id" : "ef8f7969-26d9-48e0-a2d7-7658b8a9c8d9",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Multi-Account Management",
+                  "value" : true,
+                  "id" : "39e48500-18f1-4e1d-aaa6-5a9119307b04",
+                  "avg_rating" : 4.5,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Post Scheduling",
+                  "value" : true,
+                  "id" : "833ff07f-aaa3-49ae-a2f5-f195c56ed63d",
+                  "avg_rating" : 4.8,
+                  "cnt_rating" : 5,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : "Assign a specific time to when pre-written content appears on social media sites"
+                },
+                {
+                  "name" : "Reporting/Analytics",
+                  "value" : true,
+                  "id" : "b0c186d0-0194-4300-abba-ca3bc2474bbe",
+                  "avg_rating" : 2.5,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Identify patterns in assembled data"
+                }
+              ]
+            },
+            {
+              "category_name" : "All-in-One Marketing Platform",
+              "category_features" : [
+                {
+                  "name" : "Behavior Analytics",
+                  "value" : false,
+                  "id" : "f837a8e2-26c1-476a-967a-3b1a35551753",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Track and analyze user behavior within a system or network"
+                },
+                {
+                  "name" : "Dynamic Content",
+                  "value" : false,
+                  "id" : "e796f638-e401-4fcc-92ee-f9daed5b8a1f",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Create marketing content that changes based on the viewer"
+                },
+                {
+                  "name" : "Landing Pages/Web Forms",
+                  "value" : false,
+                  "id" : "ba097fb8-3f98-4f38-874a-693f1077ec6c",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Create an online form to capture new lead information"
+                },
+                {
+                  "name" : "Lead Management",
+                  "value" : false,
+                  "id" : "995266c2-fafb-456e-b73c-3d394a240ae3",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Store information about leads and contacts and track them through the sales process"
+                },
+                {
+                  "name" : "Lead Nurturing",
+                  "value" : false,
+                  "id" : "b33f8be5-5257-4e1c-b495-9ece316e0af7",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Engage with a lead throughout the sales process by actively providing information "
+                },
+                {
+                  "name" : "List Management",
+                  "value" : false,
+                  "id" : "c2a88ab8-c3cc-4535-9293-00fbd40d220e",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Manage contacts across multiple mailing lists"
+                },
+                {
+                  "name" : "Multi-Channel Marketing",
+                  "value" : true,
+                  "id" : "32ac4de7-bea8-46d9-904c-6f1f7b5f11d4",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Coordinate marketing efforts across channels (email, landing pages, social media, etc.)"
+                }
+              ]
+            },
+            {
+              "category_name" : "Brand Management",
+              "category_features" : [
+                {
+                  "name" : "Artwork Management",
+                  "value" : true,
+                  "id" : "9589283b-a20d-4a1b-8f57-5101e51f0e85",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Streamline design processes and ensure brand accuracy so assets can be pushed live more quickly."
+                },
+                {
+                  "name" : "Campaign Management",
+                  "value" : true,
+                  "id" : "08a976af-4728-4543-8941-8f3c1da99734",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Create a collection of marketing actions to complete specific goals"
+                },
+                {
+                  "name" : "Change Management",
+                  "value" : false,
+                  "id" : "88690ea4-3a57-4107-8f87-e663ec585c55",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track and monitor efficient handling of all changes/transitions"
+                },
+                {
+                  "name" : "Fulfillment Distribution",
+                  "value" : true,
+                  "id" : "5bc4c0dc-8d56-4af0-8f35-d91bf2828f07",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Access a central warehouse of data and files for efficient and controlled distribution of assets."
+                },
+                {
+                  "name" : "Project Management",
+                  "value" : true,
+                  "id" : "394feaf8-a547-4e78-a56b-fa8161c4405a",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Plan and coordinate all the resources, costs and time needed to execute assignments"
+                },
+                {
+                  "name" : "Workflow Management",
+                  "value" : true,
+                  "id" : "c4c63af2-2e9e-4f8b-b965-20e94a16a8b9",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Create, design, and automate processes within the software"
+                }
+              ]
+            },
+            {
+              "category_name" : "Review Management",
+              "category_features" : [
+                {
+                  "name" : "Campaign Management",
+                  "value" : true,
+                  "id" : "08a976af-4728-4543-8941-8f3c1da99734",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Create a collection of marketing actions to complete specific goals"
+                },
+                {
+                  "name" : "Dashboard",
+                  "value" : true,
+                  "id" : "bc649e89-65ca-4012-976f-193e4a4ae7d8",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "An assembly of graphs and charts for tracking statistics and metrics "
+                },
+                {
+                  "name" : "Negative Feedback Management",
+                  "value" : false,
+                  "id" : "21c4585c-c39a-4660-b5b9-23e8d737350b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Identify, track, and respond to negative feedback"
+                },
+                {
+                  "name" : "Response Management",
+                  "value" : false,
+                  "id" : "6fdf332c-87d4-4495-abd7-017cecf1b8fb",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Track status and remediate problems in a centralized way"
+                },
+                {
+                  "name" : "Review Monitoring",
+                  "value" : false,
+                  "id" : "195d1a56-d48a-43da-9fab-c5737969a32c",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : "Automatically monitor and receive alerts for any new online reviews"
+                },
+                {
+                  "name" : "Review Notification",
+                  "value" : false,
+                  "id" : "5acc370f-9f2b-4489-a96c-19ac2d45b12e",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Notifies a business when a review is left"
+                },
+                {
+                  "name" : "Review Request",
+                  "value" : false,
+                  "id" : "2f1fb0fc-1e80-4854-af89-50aebad6612d",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Allows businesses to request reviews from their customers"
+                },
+                {
+                  "name" : "Sentiment Analysis",
+                  "value" : false,
+                  "id" : "e7159fe0-5a26-4ec2-bed9-1d1c90dc4968",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Categorize emotions expressed in written text and identify if they are positive, negative or neutral"
+                },
+                {
+                  "name" : "Social Sharing",
+                  "value" : false,
+                  "id" : "285cc589-9f80-4e3a-93d7-a7fb0fad0616",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Allows businesses to share their reviews on social media."
+                }
+              ]
+            },
+            {
+              "category_name" : "Social Media Analytics Tools",
+              "category_features" : [
+                {
+                  "name" : "Campaign Analytics",
+                  "value" : true,
+                  "id" : "9e3a896d-c19f-4076-aba7-0562630dd1c0",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track and interpret campaign performance metrics"
+                },
+                {
+                  "name" : "Competitor Monitoring",
+                  "value" : false,
+                  "id" : "dcae0f49-130e-4fc8-a2e7-89ebf1ef3496",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track activity of your competitors"
+                },
+                {
+                  "name" : "Customizable Reports",
+                  "value" : false,
+                  "id" : "fcd1199d-1f74-4104-b348-3de5a9f29347",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Alter the layout and content of reports"
+                },
+                {
+                  "name" : "Engagement Tracking",
+                  "value" : true,
+                  "id" : "274bb73c-f611-430d-adfc-673ebbb6fb94",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Metrics that provide insight into how often followers interact with posts"
+                },
+                {
+                  "name" : "Influencer Tracking",
+                  "value" : false,
+                  "id" : "7f38e7e5-a9cc-47f3-92f1-fc6c0db53d73",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Identify and track activity, including generated revenue, of prominent social media personalities that have sway over public opinion"
+                },
+                {
+                  "name" : "Lead Attribution",
+                  "value" : false,
+                  "id" : "f1c22cb4-410a-4530-87b9-3e26751233e9",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Identify the source channel that resulted in a new lead in the system"
+                },
+                {
+                  "name" : "Multi-Channel Data Collection",
+                  "value" : false,
+                  "id" : "db45bb6b-ad21-41f5-aec0-80963eaddc0b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Collect information from multiple sources"
+                },
+                {
+                  "name" : "Post Scheduling",
+                  "value" : true,
+                  "id" : "833ff07f-aaa3-49ae-a2f5-f195c56ed63d",
+                  "avg_rating" : 4.8,
+                  "cnt_rating" : 5,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Assign a specific time to when pre-written content appears on social media sites"
+                }
+              ]
+            },
+            {
+              "category_name" : "Social Media Management",
+              "category_features" : [
+                {
+                  "name" : "Automated Publishing",
+                  "value" : true,
+                  "id" : "a98a65e5-b179-415a-a32d-9aa22492b759",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Establish rules for automatic propagation of social media posts across one or more channels"
+                },
+                {
+                  "name" : "Brand Tracking",
+                  "value" : true,
+                  "id" : "99780619-f9d2-415b-b76e-7b624176f8fe",
+                  "avg_rating" : 3.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Monitor social media posts that mention a particular brand"
+                },
+                {
+                  "name" : "Collaboration Tools",
+                  "value" : true,
+                  "id" : "97efb0d3-9a23-4408-90d4-4db1e3830fbd",
+                  "avg_rating" : 4.5,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Ability to work collectively on a project while communicating and sharing information within the system in real time"
+                },
+                {
+                  "name" : "Content Management",
+                  "value" : true,
+                  "id" : "41247b85-41d2-42cb-aa15-4e6c78c904c2",
+                  "avg_rating" : 4.7,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Creating, updating, monitoring accuracy, and ensuring brand consistency for all written materials that are distributed to stakeholders."
+                },
+                {
+                  "name" : "Customer Engagement",
+                  "value" : true,
+                  "id" : "27f6c424-98e2-4f7d-9405-5be1de4fd809",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Initiate interactions with customers by proactively starting conversations or providing informational content"
+                },
+                {
+                  "name" : "Multi-Account Management",
+                  "value" : true,
+                  "id" : "39e48500-18f1-4e1d-aaa6-5a9119307b04",
+                  "avg_rating" : 4.5,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Manage and post content across multiple social media accounts and platforms simultaneously \t"
+                },
+                {
+                  "name" : "Post Scheduling",
+                  "value" : true,
+                  "id" : "833ff07f-aaa3-49ae-a2f5-f195c56ed63d",
+                  "avg_rating" : 4.8,
+                  "cnt_rating" : 5,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Assign a specific time to when pre-written content appears on social media sites"
+                },
+                {
+                  "name" : "Reporting/Analytics",
+                  "value" : true,
+                  "id" : "b0c186d0-0194-4300-abba-ca3bc2474bbe",
+                  "avg_rating" : 2.5,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "View and track pertinent metrics"
+                },
+                {
+                  "name" : "Social Media Monitoring",
+                  "value" : true,
+                  "id" : "f6f2a522-6a17-49a1-a663-1326e5919dc6",
+                  "avg_rating" : 4.7,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Track activity on sites such as Facebook, Twitter, Instagram, etc."
+                }
+              ]
+            }
+          ],
+          "infographics" : [
+            {
+              "product_id" : 150513,
+              "html_name" : "social-media-management-software",
+              "infographic_type" : "general_t20",
+              "infographic_title" : null
+            },
+            {
+              "product_id" : 150513,
+              "html_name" : "social-media-marketing-software",
+              "infographic_type" : "general_t20",
+              "infographic_title" : null
+            }
+          ],
+          "related_products" : [
+            {
+              "product_id" : 110228,
+              "seo_product_id" : 223924,
+              "seo_slug" : "Mailchimp",
+              "vendor_name" : "Intuit",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/247db203-7811-4bdc-9c0a-729dbae623b5.png",
+              "rating" : 4.5,
+              "total_reviews" : 14779,
+              "slug" : "MailChimp",
+              "product_name" : "Mailchimp",
+              "short_desc" : "Mailchimp's all-in-one Marketing Platform helps small businesses market smarter so you can grow faster. ",
+              "features" : "Mailchimp's all-in-one Marketing Platform helps small businesses market smarter so you can grow faster. As the backbone for your customer relationships, they provide AI-powered, user-friendly tools anyone can use to be successful. Mailchimp puts your audience at the center so you can send marketing emails and automated messages, create targeted ad campaigns, build landing pages, send postcards, facilitate reporting and analytics, and sell online. ",
+              "url" : "https://mailchimp.com/why-mailchimp/?utm_medium=cpc&utm_campaign=social_media_marketing"
+            },
+            {
+              "product_id" : 171840,
+              "seo_product_id" : 82534,
+              "seo_slug" : "HubSpot-Marketing-Automation",
+              "vendor_name" : "HubSpot",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/5152f7c6-61ed-4168-b89f-f436d97ebccd.png",
+              "rating" : 4.5,
+              "total_reviews" : 4919,
+              "slug" : "HubSpot-Marketing",
+              "product_name" : "HubSpot Marketing Hub",
+              "short_desc" : "Over 100,000 customers in more than 120 countries use HubSpot's award-winning software to attract, engage and delight their customers.",
+              "features" : "HubSpot makes it easy for businesses to start doing social media marketing that actually generates business. You can also monitor your social media marketing efforts with baked-in analytics, so you can continually improve your content and start generating more leads for your business. Sign up for free, and see how HubSpot can help you do social media marketing that converts leads, closes customers, and contributes to your business.",
+              "url" : "https://www.hubspot.com/marketing/free/em037?utm_medium=paid&utm_content=em125&utm_campaign=Marketing_Portals_EN_Various_Various_Gartner_SocialMedia&utm_term=marketing_EN"
+            },
+            {
+              "product_id" : 121701,
+              "seo_product_id" : 231836,
+              "seo_slug" : "Hootsuite",
+              "vendor_name" : "Hootsuite Media",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8d54c31f-ffb8-435c-9795-73330c5d470c.png",
+              "rating" : 4.4,
+              "total_reviews" : 3172,
+              "slug" : "HootSuite",
+              "product_name" : "Hootsuite",
+              "short_desc" : "Hootsuite helps you build your brand, strengthen connections with customers, and drive real business results with social media. ",
+              "features" : "Social media is a wild place to do business. That's why thousands of brands rely on Hootsuite's tools and expertise to bring order to the chaos. Launch brilliant social campaigns, deliver 5-star social commerce experiences, and manage all your customer conversations in one place. Plus, get access to industry leading certifications, training, and coaching to help you push your results on social media further, faster.",
+              "url" : "https://www.hootsuite.com?utm_campaign=prospect_all-promotion_and_expansion-na----capterra-q2_2021&utm_source=capterra&utm_medium=reviewsites"
+            },
+            {
+              "product_id" : 210721,
+              "seo_product_id" : 210721,
+              "seo_slug" : "Instagram",
+              "vendor_name" : "Facebook",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/f1058d00-f7dc-4bb6-9e7c-5fc29da702ad.png",
+              "rating" : 4.7,
+              "total_reviews" : 3155,
+              "slug" : "Instagram",
+              "product_name" : "Instagram",
+              "short_desc" : "Social media solution that helps businesses manage content, create and edit posts, and monitor engagement across Instagram accounts.",
+              "features" : "Social media solution that helps businesses manage content, create and edit posts, and monitor engagement across Instagram accounts.",
+              "url" : "https://business.instagram.com"
+            },
+            {
+              "product_id" : 213257,
+              "seo_product_id" : 213257,
+              "seo_slug" : "Facebook",
+              "vendor_name" : "Facebook",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/a1e71ebd-0e33-4b4a-bd75-0b4977e2f428.png",
+              "rating" : 4.4,
+              "total_reviews" : 1875,
+              "slug" : "Facebook",
+              "product_name" : "Meta for Business",
+              "short_desc" : "Social media marketing solution that helps businesses create personalized marketing plans based on targeted audience and budget.",
+              "features" : "Social media marketing solution that helps businesses create personalized marketing plans based on targeted audience and budget.",
+              "url" : "https://www.facebook.com/business"
+            },
+            {
+              "product_id" : 148516,
+              "seo_product_id" : 212390,
+              "seo_slug" : "Marketing-360",
+              "vendor_name" : "Madwire",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e0d4096b-6fa3-4d66-98e5-8f3ac4c06590.png",
+              "rating" : 4.6,
+              "total_reviews" : 973,
+              "slug" : "Marketing-360",
+              "product_name" : "Marketing 360",
+              "short_desc" : "Connect any or all of your Facebook, Instagram, Google My Business or LinkedIn accounts, and begin scheduling your posts.  ",
+              "features" : "Streamline your social media. Finally, the answer to keeping your brand active and engaged on social media without requiring so much time and effort. ",
+              "url" : "https://www.marketing360.com/social/?ref=SocialMediaDirectoryCapterraAds"
+            },
+            {
+              "product_id" : 238721,
+              "seo_product_id" : 238721,
+              "seo_slug" : "PicMonkey",
+              "vendor_name" : "Shutterstock",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/786118a8-2d2d-4f5c-ad16-7ffa98b115ca.jpeg",
+              "rating" : 4.5,
+              "total_reviews" : 891,
+              "slug" : "PicMonkey",
+              "product_name" : "PicMonkey",
+              "short_desc" : "PicMonkey offers cloud-based photo editing and design tools that help your create stunning images that tell your brand story.",
+              "features" : "PicMonkey's design and photo editing tools help you create captivating images to promote your brand. Get stunning results with luxe templates for logos, social posts, ads, banners, and more, or start from scratch and add design building blocks. When your business grows, PicMonkey grows with you; PicMonkey Business offers tools like brand kits, collaboration tools, and asset management to increase your output and keep your brand look consistent. Accessible as a cloud-based site and a mobile app.",
+              "url" : "https://www.picmonkey.com/design/social-media-marketing?utm_source=capterra&utm_medium=cpc&utm_campaign=Social%20Media%20Marketing"
+            },
+            {
+              "product_id" : 123971,
+              "seo_product_id" : 225039,
+              "seo_slug" : "AgoraPulse",
+              "vendor_name" : "Agorapulse",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/3fe37ecd-f41c-4635-a91f-431091085761.png",
+              "rating" : 4.6,
+              "total_reviews" : 664,
+              "slug" : "AgoraPulse",
+              "product_name" : "AgoraPulse",
+              "short_desc" : "Complete social media marketing tool for agencies and teams of all sizes. Read why Capterra reviewers love Agorapulse.",
+              "features" : "Agorapulse is a social media marketing tool that enables agencies, businesses and marketers to manage all their social media messages, schedule and publish content, identify key influencers, monitor social channels, and get stunning reports all in one easy-to-use dashboard. \n\nAgency customers receive special benefits in our Agency Love program.\n\nAgorapulse currently supports Facebook, Twitter, Instagram, YouTube, and LinkedIn. ",
+              "url" : "https://www.agorapulse.com/?utm_campaign=CNV_EN_MOF_0322_Capterra_3P&utm_medium=paid&utm_source=capterra"
+            },
+            {
+              "product_id" : 176184,
+              "seo_product_id" : 236988,
+              "seo_slug" : "ContentStudio",
+              "vendor_name" : "ContentStudio",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/20a559b9-4e32-40c2-833c-756c1cd4934d.png",
+              "rating" : 4.7,
+              "total_reviews" : 644,
+              "slug" : "ContentStudio",
+              "product_name" : "ContentStudio",
+              "short_desc" : "ContentStudio is a data-driven content marketing and social media tool that allows you to discover, compose and share engaging content.",
+              "features" : "ContentStudio is a multi-use social media management and content marketing tool that allows you to discover, compose and share the best content. It has a suite of products for content discovery, publishing, planning, analytics and automation to help marketing teams work and collaborate efficiently.\r\n\r\nIt is the perfect tool for discovering trending content, managing multiple social media networks, recycling evergreen posts, analyzing performance, collaborating with the team and a lot more.",
+              "url" : "https://contentstudio.io/free-trial/?utm_medium=PPC&utm_campaign=g2_social_media_marketing"
+            },
+            {
+              "product_id" : 75130,
+              "seo_product_id" : 227132,
+              "seo_slug" : "Marketo-Engage",
+              "vendor_name" : "Adobe",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/199791ad-8770-493d-bb55-98544cc98cf7.png",
+              "rating" : 4.2,
+              "total_reviews" : 609,
+              "slug" : "Marketo-Lead-Management",
+              "product_name" : "Marketo Engage",
+              "short_desc" : "Powerful, easy to use marketing automation software that helps generate qualified leads and translate marketing spending into revenue.",
+              "features" : "Marketo Engage has unique audience data on high-value prospects and customers, such as an engagement or lead score, buyer journey stage, product or topic interests, products owned, cross-channel activity, and more. It also lets you send lists of your best prospects or customers to social media platforms, which can identify similar people. And once you drive targeted prospects to your website and landing pages, you can retarget these anonymous visitors with personalized ads after they leave.",
+              "url" : "https://www.marketo.com/product-tour/?utm_source=SocialMediaMkt&utm_medium=PPC&utm_region=AMER&utm_campaign=NA_220726_18705_PPC_ME_SocialMediaMkt_GartnerDigitalMarkets&utm_content=Gartner-Digital-Markets"
+            },
+            {
+              "product_id" : 113540,
+              "seo_product_id" : 226875,
+              "seo_slug" : "Bitrix24",
+              "vendor_name" : "Bitrix",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/0d820dd6-6e0b-43de-becb-e9078a2d9fac.png",
+              "rating" : 4.1,
+              "total_reviews" : 527,
+              "slug" : "Bitrix24",
+              "product_name" : "Bitrix24",
+              "short_desc" : "Bitrix24 #1 free social brand management and social CRM software used by over 8 million businesses. Cloud, mobile, open source editions",
+              "features" : "Bitrix24 is #1 free social brand management and social CRM software used by over 8 million businesses. Bitrix24 CRM works with Facebook (pages, comments, Facebook Messenger, Facebook lead ads), Viber, Instagram, Telegram, VK, Slack, Skype and many others, natively or via Microsoft Bot Framework. Bitrix24 Open Channels let you manage all your social communications from a single place, saving conversations to Bitrix24 CRM, regardless of which social network or messenger your client used.",
+              "url" : "https://www.bitrix24.com/uses/best-free-social-crm.php?utm_source=capterra&utm_medium=cpc&utm_campaign=com_crm_capterra-smm"
+            }
+          ],
+          "similar_products" : [
+            {
+              "product_id" : 7723,
+              "seo_product_id" : 7723,
+              "seo_slug" : "Salesforce-Marketing-Cloud",
+              "vendor_name" : "Salesforce",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/1a2b2816-ff47-405e-a9e2-2b8d6fd68dfd.png",
+              "rating" : 4.0,
+              "total_reviews" : 284,
+              "slug" : "Salesforce-Marketing-Cloud",
+              "product_name" : "Salesforce Marketing Cloud",
+              "short_desc" : "Build customer relationships for life with data-first digital marketing.",
+              "features" : "Meet Salesforce Social Studio. Listen, engage, and publish using a powerful all-in-one social media marketing and management suite and connect enriched social data to your marketing with sales and service. Analyze conversations from nearly any source to see what your industry and fans are saying. Respond to social posts, manage your community, and provide customer support. Create and approve content for multiple social networks and accounts from desktop or mobile.",
+              "url" : "https://www.salesforce.com/form/sem/marketing-cloud/email-studio-demo/?d=7013y000001zA1nAAE&nc=7013y000001zA1iAAE&utm_source=capterra&utm_medium=review_sites&utm_campaign=us_mktlobd&utm_content=email-studio-demo_7013y000001zA1nAAE"
+            },
+            {
+              "product_id" : 170955,
+              "seo_product_id" : 239228,
+              "seo_slug" : "Social-HorsePower",
+              "vendor_name" : "Social HorsePower",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/fb0c6e47-55d9-4337-995b-93af19a270a1.jpeg",
+              "rating" : 4.8,
+              "total_reviews" : 32,
+              "slug" : "Social-HorsePower",
+              "product_name" : "Social HorsePower",
+              "short_desc" : "The fastest and easiest way to create a successful Employee Advocacy program.",
+              "features" : "SocialHP is enterprise grade Employee Advocacy software for marketing professionals. Our \"never login\" philosophy means there's no software for your team to learn and no need for ongoing training. Locked calendars are the secret to our 100% adoption and retention rates. Stage marketing-ready social media content on behalf of your entire team. We think our 99.9% all-time customer renewal rate speaks for itself. Chat with one of our Experts today.",
+              "url" : "https://www.socialhp.com/capterra"
+            },
+            {
+              "product_id" : 226549,
+              "seo_product_id" : 226549,
+              "seo_slug" : "Socialbakers-Analytics-Plus",
+              "vendor_name" : "Emplifi",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/040ddfa0-149c-4d86-8339-4f374e6719fe.jpeg",
+              "rating" : 4.2,
+              "total_reviews" : 38,
+              "slug" : "Socialbakers-Analytics-Plus",
+              "product_name" : "Emplifi Social Marketing Cloud",
+              "short_desc" : "Emplifi Social Marketing Cloud is the AI-powered end-to-end social platform that helps you manage all your tasks in one place.",
+              "features" : "Emplifi Social Marketing Cloud provides a single, centralized solution for all your efforts to understand and drive customers' engagement on social media. Emplifi's industry-leading AI-powered tools, automation, and real-time insights improve the entire process of social media content creation and management. The results include faster conversions, instant brand discovery, and more effective performance tracking, so marketers like you can continually optimize your campaigns. ",
+              "url" : "https://www.emplifi.io?utm_medium=cpc&utm_source=capterra&utm_term=social+marketing+cloud"
+            },
+            {
+              "product_id" : 178954,
+              "seo_product_id" : 178954,
+              "seo_slug" : "HypeAuditor",
+              "vendor_name" : "Stonecast Financial",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/83c8b635-c734-40fe-8677-9f36092f9103.png",
+              "rating" : 4.6,
+              "total_reviews" : 15,
+              "slug" : "HypeAuditor",
+              "product_name" : "HypeAuditor",
+              "short_desc" : "AI tool to discover and analyze influencers, marketing campaigns on Instagram, YouTube, TikTok, and uncover competitors strategy.",
+              "features" : "HypeAuditor is a SaaS company that has developed a comprehensive set of tools to discover influencers on Instagram, TikTok, YouTube, Twitter, and Twitch, verify the authenticity of their accounts, and track the results of their influencer marketing campaigns. All services are based on AI algorithms, allowing HypeAuditor to identify behavioral patterns. HypeAuditor aims to provide the ultimate social media analytics and management platform to ensure our clients work effectively with creators.",
+              "url" : "https://hypeauditor.com/?utm_source=review_websites&utm_medium=cpc&utm_campaign=capterra&"
+            },
+            {
+              "product_id" : 146280,
+              "seo_product_id" : 212062,
+              "seo_slug" : "Falcon-io",
+              "vendor_name" : "Brandwatch",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/b035d4f2-d3df-4360-a71c-4fc42567f256.png",
+              "rating" : 4.2,
+              "total_reviews" : 186,
+              "slug" : "Falcon-io",
+              "product_name" : "Falcon.io",
+              "short_desc" : "All-in-one social media marketing solution for social listening, publishing, reporting, benchmarking & engagement. ",
+              "features" : "Brandwatch (formerly Falcon.io) provides a comprehensive, all-in-one Social Media Marketing solution. It's a one-stop solution for any marketer's social listening, publishing, engagement, measurement, and benchmarking needs. Brandwatch helps marketers deliver more personalized brand experiences across all digital touchpoints, based on enriched customer profiles. The solution features a highly intuitive and collaborative UI and is complemented by the best support team in the business.",
+              "url" : "https://www.brandwatch.com/p/social-media-tools/?utm_campaign=demo-topic-social-media-marketing&utm_source=capterra&utm_medium=cpc&utm_term=&utm_content=home"
+            },
+            {
+              "product_id" : 128657,
+              "seo_product_id" : 128657,
+              "seo_slug" : "Bazaarvoice-Connections",
+              "vendor_name" : "Bazaarvoice",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4400803d-496c-4c30-8b98-9ba1120ef457.jpeg",
+              "rating" : 4.2,
+              "total_reviews" : 15,
+              "slug" : "Bazaarvoice-Connections",
+              "product_name" : "Bazaarvoice",
+              "short_desc" : "Bazaarvoice's social media marketing software helps brands and retailers turn any social channel into a shoppable storefront. ",
+              "features" : "Bazaarvoice's social media marketing software allows brands and retailers to create shoppable posts and optimize social feeds for product discovery. Our suite of tools lets you create beautiful galleries on your website and turn any social channel into a shoppable storefront.",
+              "url" : "https://www.bazaarvoice.com/?utm_campaign=win+at+retail&utm_medium=cpc&utm_content=reputation+management&utm_term=none&personalization="
+            },
+            {
+              "product_id" : 210659,
+              "seo_product_id" : 210659,
+              "seo_slug" : "Sked-Social",
+              "vendor_name" : "Sked Social",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e7b0f88a-c33b-48b6-8134-8d9c410101c5.png",
+              "rating" : 4.5,
+              "total_reviews" : 72,
+              "slug" : "Sked-Social",
+              "product_name" : "Sked Social",
+              "short_desc" : "Instagram-first social media scheduler with link in bio tool, automatic story scheduling, grid planner, collaboration tools.",
+              "features" : "Sked Social is an Instagram-first social media scheduler. With a link-in-bio tool, automatic story scheduling, grid planner, and people, place, and product tagging, Sked has your Instagram scheduling sorted.\n\nYou can also cross-post your Instagram content to Facebook, Twitter, LinkedIn, Pinterest, YouTube, Google My Business, TikTok and Snapchat - all from the same place.\n\nAnd if you need external and internal reviews, you can upgrade to get collaboration features.",
+              "url" : "https://skedsocial.com/lp/instagram-first-social-media-scheduler/?utm_source=aggregator&utm_medium=ppc&utm_campaign=gartner"
+            },
+            {
+              "product_id" : 166498,
+              "seo_product_id" : 220829,
+              "seo_slug" : "Loomly",
+              "vendor_name" : "Loomly",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/74d731c7-2f6f-4b91-b7b0-c4b80a08525c.png",
+              "rating" : 4.7,
+              "total_reviews" : 456,
+              "slug" : "Loomly",
+              "product_name" : "Loomly",
+              "short_desc" : "Loomly is the Brand Success Platform that empowers marketing teams to collaborate, publish and measure. ",
+              "features" : "Loomly is the Brand Success Platform that empowers marketing teams to collaborate, publish and measure. Streamline teamwork along your entire content management process: manage digital assets, fuel storytelling, polish content, approve messaging, reach your audience, engage your community and measure performance. Now supporting organic content, boosted posts and objective-driven campaigns. All in one collaborative solution.",
+              "url" : "https://www.loomly.com/15-day-free-trial"
+            },
+            {
+              "product_id" : 75130,
+              "seo_product_id" : 227132,
+              "seo_slug" : "Marketo-Engage",
+              "vendor_name" : "Adobe",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/199791ad-8770-493d-bb55-98544cc98cf7.png",
+              "rating" : 4.2,
+              "total_reviews" : 609,
+              "slug" : "Marketo-Lead-Management",
+              "product_name" : "Marketo Engage",
+              "short_desc" : "Powerful, easy to use marketing automation software that helps generate qualified leads and translate marketing spending into revenue.",
+              "features" : "Marketo Engage has unique audience data on high-value prospects and customers, such as an engagement or lead score, buyer journey stage, product or topic interests, products owned, cross-channel activity, and more. It also lets you send lists of your best prospects or customers to social media platforms, which can identify similar people. And once you drive targeted prospects to your website and landing pages, you can retarget these anonymous visitors with personalized ads after they leave.",
+              "url" : "https://www.marketo.com/product-tour/?utm_source=Default&utm_medium=PPC&utm_region=AMER&utm_campaign=NA_220726_18835_PPC_ME_Default_GartnerDigitalMarkets&utm_content=Gartner-Digital-Markets"
+            },
+            {
+              "product_id" : 238714,
+              "seo_product_id" : 238714,
+              "seo_slug" : "Clearview-Social",
+              "vendor_name" : "Clearview Social",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/f60aa800-4188-4a23-8782-f91aaeda6828.jpeg",
+              "rating" : 0.0,
+              "total_reviews" : 0,
+              "slug" : "Clearview-Social",
+              "product_name" : "Clearview Social",
+              "short_desc" : "Clearview Social is a simple platform that helps your team share company content on their social media platforms",
+              "features" : "Clearview Social is a simple platform that helps your team share company content on their social media platforms, all through easy prompts and email reminders.\n\nEmpowering your team to share helps you to achieve your companies' goals on social media, whether that's sales leads, webinar registrations, clicks or recruiting. \n\nPosts shared by employees get 8x+ more engagement than only posting to your company page. Clearview Social makes it dead simple to turn your employees into influencers. ",
+              "url" : "https://clearviewsocial.com/"
+            },
+            {
+              "product_id" : 173850,
+              "seo_product_id" : 222663,
+              "seo_slug" : "SOCi",
+              "vendor_name" : "SOCi",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8e05522b-3daf-427a-bb01-d38d034be175.png",
+              "rating" : 4.5,
+              "total_reviews" : 243,
+              "slug" : "SOCi",
+              "product_name" : "SOCi",
+              "short_desc" : "A centralized platform for multi-location marketers to reach and engage their local customers, across 100s or 1000s of local pages.",
+              "features" : "SOCi is an award-winning localized marketing platform built specifically for multi-location marketers. Our customers include top brands and influencers like Ace Hardware, Sport Clips, and Anytime Fitness who have the impossible challenge of managing their digital presence across hundreds and thousands of locations. As central command for multi-location marketers, SOCi makes the impossible possible by enabling top brands and their locations to strengthen and scale their digital presence.",
+              "url" : "http://www.meetsoci.com/capterra-landing-page/?utm_medium=syn&utm_source=capterra&utm_campaign=lan-capterra-lp"
+            },
+            {
+              "product_id" : 166130,
+              "seo_product_id" : 236983,
+              "seo_slug" : "Cloud-Campaign",
+              "vendor_name" : "Cloud Campaign",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d43b0dc8-6668-4868-9d2d-b166ae762b1c.png",
+              "rating" : 4.8,
+              "total_reviews" : 54,
+              "slug" : "Cloud-Campaign",
+              "product_name" : "Cloud Campaign",
+              "short_desc" : "Cloud Campaign is the easiest way for social media agencies to manage multiple brands at scale. Low-cost and packed with features.",
+              "features" : "Cloud Campaign is the easiest way for marketing agencies to manage multiple social media accounts at scale, packed with enterprise features such as brand workspaces, taggable content library, client-access portals, clean client reports and white-label services.\n\nNo other social media management platform compares to our affordability and usability, backed by our top-rated US-based customer support team.\n\nStart your FREE 14-day trial to see firsthand how you could spend up to 80% less time on SMM.",
+              "url" : "https://www.cloudcampaign.com/?utm_source=capterra&utm_medium=cpc&utm_campaign=capterra-main"
+            },
+            {
+              "product_id" : 158041,
+              "seo_product_id" : 158041,
+              "seo_slug" : "Rallio",
+              "vendor_name" : "Rallio",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d63d3d37-7dea-46a5-97cd-840843cb184c.png",
+              "rating" : 4.8,
+              "total_reviews" : 20,
+              "slug" : "Rallio",
+              "product_name" : "Rallio",
+              "short_desc" : "Social media SaaS platform for franchises combining cloud-based social media technology, artificial intelligence and employee advocacy.",
+              "features" : "Rallio is a powerful SaaS platform combining cloud-based social media technology, artificial intelligence and employee advocacy. As the supplier of choice for franchise organizations and small businesses, Rallio enables multi-location brands and SMB operators to optimize their social media engagement, while managing their entire social media presence, online reputation, and online directory listings in one dashboard for all locations.",
+              "url" : "http://unbouncepages.com/rallio/"
+            }
+          ],
+          "related_categories" : [
+            {
+              "functional_group" : "social",
+              "long_name" : "All-in-One Marketing Platform",
+              "html_name" : "all-in-one-marketing-software",
+              "link_name" : "all-in-one-marketing",
+              "product_count" : null,
+              "meta_description" : "Find and compare top All-in-One Marketing Platforms on Capterra, with our free and interactive tool. Quickly browse through hundreds of All-in-One Marketing tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "All-in-One Marketing Platforms provide multiple digital marketing tools for SMBs as part of one comprehensive package. Products offer marketing automation, campaign management, email and social marketing, lead management, landing pages/web forms, dynamic content, and various other marketing features.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+            },
+            {
+              "functional_group" : "social",
+              "long_name" : "Campaign Management",
+              "html_name" : "campaign-management-software",
+              "link_name" : "campaign-management",
+              "product_count" : 67,
+              "meta_description" : "Find and compare top Campaign Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Campaign Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs.",
+              "description" : "<a href=/campaign-management-software>Campaign Management software</a> enables organizations to automate the tracking, delivery, reporting and analysis of marketing campaigns and promotions through the integration of customer data sources and the ability to parse the data through a broad range of analytic searches.  Using this type of marketing campaign reporting allows organizations to evaluate and optimize multiple campaigns for different business sectors based on real-world analysis of their effectiveness. <a href=/campaign-management-software>Campaign Management software</a> is related to <a href=/email-marketing-software>Email Marketing software</a>, <a href=/marketing-automation-software>Marketing Automation software</a> and <a href=/search-marketing-automation-software>Search Marketing Automation software</a>."
+            },
+            {
+              "functional_group" : "social",
+              "long_name" : "Marketing Automation",
+              "html_name" : "marketing-automation-software",
+              "link_name" : "marketing-automation",
+              "product_count" : 184,
+              "meta_description" : "Find and compare top Marketing Automation software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Marketing Automation tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/marketing-automation-software\">Marketing Automation software</a> enables organizations to automate their marketing functions including campaign creation, market segmentation and response analysis.  These applications also allow greater integration between sales staff and management as well as expanded abilities to evaluate the effectiveness of marketing campaigns.  Marketing Automation solutions enable the enterprise-wide sharing of information, providing an essential conduit between management, sales and marketing operations.  <a href=\"/marketing-automation-software\">Marketing Automation software</a> is related to <a href=\"/campaign-management-software\">Campaign Management software</a>, <a href=\"/email-marketing-software\">Email Marketing software</a> and <a href=\"/search-marketing-automation-software\">Search Marketing software</a>."
+            },
+            {
+              "functional_group" : "social",
+              "long_name" : "Reputation Management",
+              "html_name" : "reputation-management-software",
+              "link_name" : "reputation-management",
+              "product_count" : 29,
+              "meta_description" : "Find and compare top Reputation Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Reputation Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/reputation-management-software/\">Reputation Management software</a> helps organizations keep on top of what is being said about the organization and their products in various blogs, social networks, and media. Analytical capabilities of <a href=\"/reputation-management-software/\">Reputation Management software</a> allow marketing departments to measure and evaluate consumers' reactions to marketing campaigns and help companies better plan their future outreach.  <a href=\"/reputation-management-software/\">Reputation Management software</a> is related to <a href=\"/brand-management-software\">Brand Management software</a> and <a href=\"/social-networking-software\">Social Networking software</a>. "
+            },
+            {
+              "functional_group" : "social",
+              "long_name" : "Social Media Management",
+              "html_name" : "social-media-management-software",
+              "link_name" : "social-media-management",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Social Media Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Social Media Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "Businesses use Social Media Management software to track, publish, and update content on Twitter, LinkedIn, Facebook, Pinterest, and other social media outlets. "
+            }
+          ],
+          "is_upgraded" : false,
+          "enabled" : true,
+          "filter_options" : {
+            "users" : 127,
+            "platform" : 385,
+            "pricing_options" : 26,
+            "category_related_features" : [
+              38278,
+              38279,
+              38280,
+              38281,
+              38285,
+              38287,
+              61306,
+              61307,
+              61312,
+              61313,
+              61314,
+              61315,
+              61322,
+              61323,
+              61325,
+              61326,
+              61327,
+              61328,
+              61330,
+              61331,
+              61333,
+              61334,
+              61335,
+              61336,
+              61337,
+              61338,
+              61339,
+              61341,
+              61342,
+              61343,
+              61345,
+              61346
+            ],
+            "employees" : 127
+          },
+          "sort_options" : {
+            "sort_review_rating" : 4.539521217346191,
+            "most_recent_review" : "2022-06-21T15:53:51Z"
+          },
+          "countries" : "US",
+          "features_tokenized_text" : "automated_publishing content_management conversion_tracking multi-account_management post_scheduling reporting/analytics",
+          "platform_tokenized_text" : "cloud,saas,web-based mobileandroid mobileiphone",
+          "users_tokenized_text" : "1 2-10 11-50 51-200 201-500 501-1000 1000+",
+          "pricing_tokenized_text" : "monthlysubscription free freetrial",
+          "badges" : [
+            {
+              "id" : 2094,
+              "category_short_name" : "Social Media Management",
+              "category_html_name" : "social-media-management-software",
+              "published_year" : 2020,
+              "badge_type" : "Top 20"
+            },
+            {
+              "id" : 1961,
+              "category_short_name" : "Social Media Marketing",
+              "category_html_name" : "social-media-marketing-software",
+              "published_year" : 2020,
+              "badge_type" : "Top 20"
+            }
+          ],
+          "bid_spot_us" : 0.0,
+          "currency_code" : "USD",
+          "currency_symbol" : "$",
+          "credit_card_required" : "Unverified",
+          "licensing_model" : null,
+          "open_api_offered" : "Unverified",
+          "mobile_urls" : [
+            {
+              "name" : "Android",
+              "url" : "https://play.google.com/store/apps/details?id=com.promorepublic.posting&hl=en"
+            },
+            {
+              "name" : "iOS",
+              "url" : "https://itunes.apple.com/us/app/promorepublic/id1189674685?mt=8"
+            }
+          ],
+          "integrations" : [
+            {
+              "id" : "e8393fa5-76fc-4fe8-a9bc-a6d200b46711",
+              "name" : "Hootsuite"
+            },
+            {
+              "id" : "b26c328d-d8c9-45ca-8138-08ecdf1ddf02",
+              "name" : "LinkedIn for Business"
+            },
+            {
+              "id" : "de075f4e-aa28-46f4-8b1b-8d2f2d173ac7",
+              "name" : "Instagram"
+            },
+            {
+              "id" : "b7720443-e1ad-4c10-a2e1-d9a8dd6a30bc",
+              "name" : "Meta for Business"
+            },
+            {
+              "id" : "7d5d66f3-669a-454e-b210-9013743333c5",
+              "name" : "Twitter"
+            },
+            {
+              "id" : "eb361b2c-c276-4b3b-8c37-aa3f0048df3e",
+              "name" : "Enhanced Reporting for Google My Business"
+            },
+            {
+              "id" : "2330a16b-a689-4cc7-bbd2-aa3f004a4ced",
+              "name" : "Google My Business Post Scheduler"
+            },
+            {
+              "id" : "7ad797d4-b0a8-4cdb-9cbe-aa3f004a4dbd",
+              "name" : "Google My Business Review Manager"
+            },
+            {
+              "id" : "4a6281a6-ab0d-4e58-ab26-ca1c81db36ee",
+              "name" : "Pinterest"
+            }
+          ],
+          "supported_countries" : [
+            {
+              "id" : 235,
+              "code" : "GB",
+              "name" : "United Kingdom of Great Britain and Northern Ireland"
+            },
+            {
+              "id" : 113,
+              "code" : "JP",
+              "name" : "Japan"
+            },
+            {
+              "id" : 32,
+              "code" : "BR",
+              "name" : "Brazil"
+            },
+            {
+              "id" : 84,
+              "code" : "DE",
+              "name" : "Germany"
+            },
+            {
+              "id" : 104,
+              "code" : "IN",
+              "name" : "India"
+            },
+            {
+              "id" : 14,
+              "code" : "AU",
+              "name" : "Australia"
+            },
+            {
+              "id" : 144,
+              "code" : "MX",
+              "name" : "Mexico"
+            },
+            {
+              "id" : 46,
+              "code" : "CN",
+              "name" : "China"
+            },
+            {
+              "id" : 237,
+              "code" : "US",
+              "name" : "United States of America"
+            },
+            {
+              "id" : 41,
+              "code" : "CA",
+              "name" : "Canada"
+            }
+          ],
+          "supported_languages" : [
+            {
+              "id" : 152,
+              "code" : "en",
+              "name" : "English",
+              "location" : null
+            }
+          ],
+          "target_industries" : [
+            {
+              "id" : 35,
+              "code" : "132",
+              "name" : "E-Learning"
+            },
+            {
+              "id" : 120,
+              "code" : "44",
+              "name" : "Real Estate"
+            },
+            {
+              "id" : 74,
+              "code" : "10",
+              "name" : "Legal Services"
+            },
+            {
+              "id" : 46,
+              "code" : "34",
+              "name" : "Food & Beverages"
+            },
+            {
+              "id" : 58,
+              "code" : "31",
+              "name" : "Hospitality"
+            },
+            {
+              "id" : 57,
+              "code" : "14",
+              "name" : "Hospital & Health Care"
+            },
+            {
+              "id" : 140,
+              "code" : "59",
+              "name" : "Utilities"
+            },
+            {
+              "id" : 62,
+              "code" : "147",
+              "name" : "Industrial Automation"
+            },
+            {
+              "id" : 105,
+              "code" : "15",
+              "name" : "Pharmaceuticals"
+            },
+            {
+              "id" : 26,
+              "code" : "48",
+              "name" : "Construction"
+            },
+            {
+              "id" : 139,
+              "code" : "92",
+              "name" : "Transportation/Trucking/Railroad"
+            },
+            {
+              "id" : 86,
+              "code" : "126",
+              "name" : "Media Production"
+            },
+            {
+              "id" : 65,
+              "code" : "42",
+              "name" : "Insurance"
+            },
+            {
+              "id" : 41,
+              "code" : "122",
+              "name" : "Facilities Services"
+            },
+            {
+              "id" : 1,
+              "code" : "47",
+              "name" : "Accounting"
+            },
+            {
+              "id" : 98,
+              "code" : "57",
+              "name" : "Oil & Energy"
+            },
+            {
+              "id" : 11,
+              "code" : "41",
+              "name" : "Banking"
+            },
+            {
+              "id" : 81,
+              "code" : "11",
+              "name" : "Management Consulting"
+            },
+            {
+              "id" : 9,
+              "code" : "53",
+              "name" : "Automotive"
+            },
+            {
+              "id" : 78,
+              "code" : "116",
+              "name" : "Logistics and Supply Chain"
+            },
+            {
+              "id" : 97,
+              "code" : "100",
+              "name" : "Non-Profit Organization Management"
+            },
+            {
+              "id" : 134,
+              "code" : "8",
+              "name" : "Telecommunications"
+            },
+            {
+              "id" : 43,
+              "code" : "43",
+              "name" : "Financial Services"
+            },
+            {
+              "id" : 42,
+              "code" : "63",
+              "name" : "Farming"
+            },
+            {
+              "id" : 85,
+              "code" : "135",
+              "name" : "Mechanical or Industrial Engineering"
+            },
+            {
+              "id" : 126,
+              "code" : "27",
+              "name" : "Retail"
+            },
+            {
+              "id" : 25,
+              "code" : "4",
+              "name" : "Computer Software"
+            },
+            {
+              "id" : 84,
+              "code" : "80",
+              "name" : "Marketing and Advertising"
+            },
+            {
+              "id" : 54,
+              "code" : "140",
+              "name" : "Graphic Design"
+            },
+            {
+              "id" : 64,
+              "code" : "96",
+              "name" : "Information Technology and Services"
+            },
+            {
+              "id" : 33,
+              "code" : "99",
+              "name" : "Design"
+            }
+          ],
+          "price_range_id" : 1,
+          "aggregated_review_ratings" : {
+            "industry" : {
+              "98" : 4.0,
+              "41" : 5.0,
+              "76" : 5.0,
+              "105" : 4.5,
+              "3" : 5.0,
+              "132" : 4.0,
+              "82" : 5.0,
+              "124" : 4.86,
+              "119" : 5.0,
+              "56" : 5.0,
+              "38" : 5.0,
+              "6" : 4.33,
+              "86" : 4.0,
+              "96" : 4.6,
+              "125" : 4.0,
+              "50" : 4.0,
+              "89" : 5.0,
+              "9" : 5.0,
+              "11" : 4.0,
+              "137" : 5.0,
+              "42" : 4.0,
+              "140" : 5.0,
+              "14" : 5.0,
+              "126" : 5.0,
+              "34" : 3.5,
+              "75" : 5.0,
+              "44" : 5.0,
+              "19" : 5.0,
+              "80" : 4.36,
+              "123" : 5.0,
+              "118" : 5.0,
+              "92" : 5.0,
+              "99" : 4.33,
+              "113" : 5.0,
+              "103" : 4.5,
+              "68" : 3.5,
+              "25" : 5.0,
+              "69" : 4.78,
+              "18" : 5.0,
+              "28" : 5.0,
+              "4" : 5.0,
+              "36" : 5.0,
+              "91" : 4.0,
+              "27" : 4.25,
+              "136" : 5.0
+            },
+            "company_size" : {
+              "1-10 employees" : 4.53,
+              "501-1000 employees" : 4.0,
+              "51-200 employees" : 4.71,
+              "1001-5000 employees" : 4.0,
+              "11-50 employees" : 4.52,
+              "Self-employed" : 4.72,
+              "201-500 employees" : 4.0
+            }
+          },
+          "vct_enabled" : false,
+          "pricing_plans" : [
+            {
+              "created_on_utc" : "2019-08-21T14:47:39Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Small Business ",
+              "description" : "Basic plan for 1 user and 10 social media accounts.",
+              "display_order" : 1,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 59.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "All-in-One Social Inbox"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "Graphics Editor"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Ios and Android Mobile Apps"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "Link Shortener"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 5,
+                  "name" : "Social Media Statistics"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 6,
+                  "name" : "Social Post Boosting"
+                }
+              ]
+            },
+            {
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Agency ",
+              "description" : "Plan for 10 users and 30 social media accounts.",
+              "display_order" : 2,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 99.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "All-in-One Social Inbox"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "Comprehensive Reporting"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Content Approval Workflows"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "Graphics Editor"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 5,
+                  "name" : "Ios and Android Mobile Apps"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 6,
+                  "name" : "Link Shortener"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 7,
+                  "name" : "Local SEO"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 8,
+                  "name" : "Review Management"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 9,
+                  "name" : "Social Media Statistics"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 10,
+                  "name" : "Social Post Boosting"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 11,
+                  "name" : "Team Permissions"
+                }
+              ]
+            },
+            {
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Multi-location",
+              "description" : "Customizable plan that allows you to choose your own number of social media accounts and users.",
+              "display_order" : 3,
+              "price_type_name" : "Custom",
+              "custom_price" : "Contact for pricing",
+              "starting_price" : null,
+              "ending_price" : null,
+              "pricing_model_name" : "Other",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "All-in-One Social Inbox"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "Comprehensive Reporting"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Content Approval Workflows"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "Custom Permissions and Workflows"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 5,
+                  "name" : "Graphics Editor"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 6,
+                  "name" : "Ios and Android Mobile Apps"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 7,
+                  "name" : "Link Shortener"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 8,
+                  "name" : "Local SEO"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 9,
+                  "name" : "Review Management"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 10,
+                  "name" : "Social Listening"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 11,
+                  "name" : "Social Media Statistics"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 12,
+                  "name" : "Social Post Boosting"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 13,
+                  "name" : "Team Permissions"
+                }
+              ]
+            }
+          ],
+          "discount_types" : [
+            {
+              "name" : "By Plan Frequency",
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

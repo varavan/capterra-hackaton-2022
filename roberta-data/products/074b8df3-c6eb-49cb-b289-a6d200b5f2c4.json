@@ -1,0 +1,3418 @@
+{
+  "took" : 3,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 3,
+    "successful" : 3,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : {
+      "value" : 2,
+      "relation" : "eq"
+    },
+    "max_score" : 10.080746,
+    "hits" : [
+      {
+        "_index" : "product_listings_main_data_upc_vt20220920_043802_utc",
+        "_type" : "_doc",
+        "_id" : "146743_ehsman",
+        "_score" : 10.080746,
+        "_source" : {
+          "product_id" : 146743,
+          "seo_product_id" : 251581,
+          "seo_slug" : "Qooling",
+          "product_name" : "Qooling",
+          "upc_product_uuid" : "074b8df3-c6eb-49cb-b289-a6d200b5f2c4",
+          "old_product_ids" : [
+            251581
+          ],
+          "product_url" : "https://qooling.hubspotpagebuilder.com/qooling-ehs-management-",
+          "product_slug" : "Qooling",
+          "former_name" : "Qooling",
+          "logo_filepath" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/1fb5e624-2265-4ed0-b0d1-5683eeaa441f.png",
+          "vendor" : {
+            "vendor_id" : 2103625,
+            "vendor_name" : "Qooling",
+            "vendor_url" : "http://www.qooling.com",
+            "year_founded" : 2015,
+            "location" : "Netherlands",
+            "vendor_opted_out_of_reviews" : true,
+            "is_opted_out_of_reviews" : false,
+            "is_hit_limit" : false,
+            "enabled" : true,
+            "has_vendor_level_page" : false,
+            "slug" : null,
+            "vendor_page" : false,
+            "paused_campaign" : false
+          },
+          "category_short_name" : "ehsman",
+          "category_html_name" : "ehs-management-software",
+          "category" : {
+            "id" : 10015,
+            "short_name" : "ehsman",
+            "long_name" : "EHS Management",
+            "html_name" : "ehs-management-software",
+            "enabled" : true
+          },
+          "best_category" : "ehsman",
+          "is_best_category" : true,
+          "highest_cpc_category" : "safetyman",
+          "is_highest_cpc_category" : false,
+          "short_desc" : "Take control of your QHSE management system. All Quality, Safety & Security Management tools on one platform.",
+          "long_desc" : "Companies that comply or are planning to comply with several industry standards such as ISO9001, ISO45001, ISO14001, ISO22001, ISO27001, and the like.\n\nQooling helps companies to build better, safer, and more secure products and services. The platform allows you to easily gather information from production plants or sides through the easy-to-use interface for the people in the field. This gives companies the ability to really leverage the data to improve the company. ",
+          "rating" : 4.5,
+          "number_of_reviews" : 42,
+          "total_reviews" : 42,
+          "ease_of_use_rating" : 4.5,
+          "customer_support_rating" : 4.9,
+          "functionality_rating" : 4.4,
+          "value_for_money_rating" : 4.6,
+          "recommendation_rating" : 9.1,
+          "pricing_enabled" : true,
+          "pricing" : 11.0,
+          "is_per_user" : false,
+          "fee_schedule" : "Per-Month",
+          "pricing_model" : "Per Feature",
+          "pricing_details" : "<h3>Light</h3>\n<h3>€ 12 / Month</h3>\n<p class=\"pricing-zwart\">Per user, paid annually\n€ 14 / Per user, billed monthly</p>\nLight: €14.00/user/month (or €11.00/user/month when billed annually)\n\nStarter: €61.00/user/month (or €58.00/user/month when billed annually)  \n\nAdvanced: €68.00/user/month (or €65.00/user/month when billed annually) \n\nEnterprise: contact Qooling for enterprise pricing information.",
+          "pricing_created_on" : "2019-08-21T14:47:39Z",
+          "pricing_modified_on" : "2022-07-01T07:52:41Z",
+          "pricing_created_by" : null,
+          "pricing_modified_by" : null,
+          "pricing_vendor_pricing_url" : null,
+          "free_trial" : true,
+          "free_version" : true,
+          "target_audience" : "Companies that comply or are planning to comply with several industry standards such as ISO9001, ISO45001, ISO14001, ISO22001, ISO27001, and the like.",
+          "target_users" : [
+            "11-50",
+            "51-200",
+            "201-500",
+            "501-1000",
+            "1000+"
+          ],
+          "platform" : [
+            {
+              "enabled" : true,
+              "name" : "Cloud, SaaS, Web-Based"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Mac"
+            },
+            {
+              "enabled" : true,
+              "name" : "Desktop Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Chromebook"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile Android"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPhone"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPad"
+            }
+          ],
+          "support" : [
+            {
+              "enabled" : true,
+              "name" : "Email Help Desk"
+            },
+            {
+              "enabled" : true,
+              "name" : "FAQ Forum"
+            },
+            {
+              "enabled" : true,
+              "name" : "Knowledgebase"
+            },
+            {
+              "enabled" : true,
+              "name" : "Phone Support"
+            },
+            {
+              "enabled" : true,
+              "name" : "24/7 Live Rep"
+            },
+            {
+              "enabled" : true,
+              "name" : "Chat"
+            }
+          ],
+          "training" : [
+            {
+              "enabled" : false,
+              "name" : "Not Offered"
+            },
+            {
+              "enabled" : true,
+              "name" : "In-Person"
+            },
+            {
+              "enabled" : true,
+              "name" : "Live Online"
+            },
+            {
+              "enabled" : true,
+              "name" : "Webinars"
+            },
+            {
+              "enabled" : true,
+              "name" : "Documentation"
+            },
+            {
+              "enabled" : true,
+              "name" : "Videos"
+            }
+          ],
+          "media" : [
+            {
+              "product_id" : 146743,
+              "vendor_id" : 2103625,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/2414ee33-70fc-4036-a07b-e87e86246ae3.png",
+              "caption" : "Audit planning",
+              "weight" : 1,
+              "short_name" : "ehsman"
+            },
+            {
+              "product_id" : 146743,
+              "vendor_id" : 2103625,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/7f9ea338-56a1-4b6f-ba4d-e7a1a5369225.png",
+              "caption" : "Registers",
+              "weight" : 2,
+              "short_name" : "ehsman"
+            },
+            {
+              "product_id" : 146743,
+              "vendor_id" : 2103625,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/fb8e8f26-cbfd-4008-80b8-72baf077d369.png",
+              "caption" : "Procedures",
+              "weight" : 3,
+              "short_name" : "ehsman"
+            },
+            {
+              "product_id" : 146743,
+              "vendor_id" : 2103625,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/21e341f3-3675-403a-9ead-a7e6d1af3fed.png",
+              "caption" : "Dashboard",
+              "weight" : 4,
+              "short_name" : "ehsman"
+            },
+            {
+              "product_id" : 146743,
+              "vendor_id" : 2103625,
+              "media_type" : "VIDEO",
+              "path_url" : "https://vimeo.com/535774059",
+              "caption" : null,
+              "weight" : 0,
+              "short_name" : "ehsman"
+            }
+          ],
+          "links" : [ ],
+          "features" : [
+            {
+              "category_name" : "EHS Management",
+              "category_features" : [
+                {
+                  "name" : "Audit Management",
+                  "value" : true,
+                  "id" : "f8952cde-adc7-4255-a812-5636017723f5",
+                  "avg_rating" : 3.8,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 0.667,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.667,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Plan, schedule and execute organization's accounts and assets to ensure they all comply with policies, laws, and requirements. "
+                },
+                {
+                  "name" : "Corrective and Preventive Actions (CAPA)",
+                  "value" : true,
+                  "id" : "e0db5d46-8bc5-4e96-a473-5135f548980f",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Investigate and take action at root cause or error in products/processes to prevent recurrence of the same error"
+                },
+                {
+                  "name" : "Document Management",
+                  "value" : true,
+                  "id" : "a55b34ad-b6ec-4072-b3bd-a7151f7843de",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Collect, upload, store, and share all documents in a centralized location making it easier for everyone involved to access information "
+                },
+                {
+                  "name" : "Hazardous Materials Management",
+                  "value" : true,
+                  "id" : "a15ccc82-fc66-46f7-a1e8-3c7addd66110",
+                  "avg_rating" : 0.0,
+                  "cnt_rating" : 0,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Document use of hazardous materials and procedures related to their handling and disposal"
+                },
+                {
+                  "name" : "Incident Management",
+                  "value" : true,
+                  "id" : "14c6e4ea-d58a-4310-a2a5-6dee917c8da5",
+                  "avg_rating" : 4.3,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 0.667,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Identify, resolve and restore unplanned service failures/disruptions or injuries"
+                },
+                {
+                  "name" : "Industrial Safety Management",
+                  "value" : true,
+                  "id" : "ee172f61-608f-4019-a2a7-35d6ec625ede",
+                  "avg_rating" : 0.0,
+                  "cnt_rating" : 0,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Create, document, and monitor safety policies and procedures in industrial plants and factories"
+                },
+                {
+                  "name" : "Inspection Management",
+                  "value" : true,
+                  "id" : "4692b0a7-3b26-47b8-a115-ba74fa1b9e50",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Track, manage, control and monitor worksite inspections to remain compliant with industry standards "
+                },
+                {
+                  "name" : "OSHA Recordkeeping",
+                  "value" : true,
+                  "id" : "075f44ec-d4d6-4ee6-8c7c-221f404e331c",
+                  "avg_rating" : 0.0,
+                  "cnt_rating" : 0,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Maintain records necessary for compliance with Occupational Health and Safety Administration requirements"
+                },
+                {
+                  "name" : "Occupational Health Management",
+                  "value" : true,
+                  "id" : "0810569f-4291-46f5-8600-82037905052d",
+                  "avg_rating" : 3.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Manage cases of on-the-job injuries and related remedies"
+                },
+                {
+                  "name" : "Reporting/Analytics",
+                  "value" : true,
+                  "id" : "b0c186d0-0194-4300-abba-ca3bc2474bbe",
+                  "avg_rating" : 3.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : "View and track pertinent metrics"
+                },
+                {
+                  "name" : "Risk Management",
+                  "value" : true,
+                  "id" : "2d25bc40-8517-4799-8a87-4d979c453d38",
+                  "avg_rating" : 3.5,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 0.333,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : "Identify, evaluate, mitigate, and report on risk"
+                },
+                {
+                  "name" : "Training Management",
+                  "value" : true,
+                  "id" : "4dc3a3c0-246c-4a15-8750-fa294c8ff58a",
+                  "avg_rating" : 3.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 1.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track employee's progression through training programs "
+                }
+              ]
+            },
+            {
+              "category_name" : "Compliance",
+              "category_features" : [
+                {
+                  "name" : "Archiving & Retention",
+                  "value" : false,
+                  "id" : "d040ff59-ba51-46e1-936e-4b89133c24ea",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Process of moving and separately storing data that is not actively used or continuous storage of data for compliance purposes"
+                },
+                {
+                  "name" : "Audit Management",
+                  "value" : true,
+                  "id" : "f8952cde-adc7-4255-a812-5636017723f5",
+                  "avg_rating" : 3.8,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 0.667,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.667,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Plan, schedule and execute organization's accounts and assets to ensure they all comply with policies, laws, and requirements "
+                },
+                {
+                  "name" : "Compliance Tracking",
+                  "value" : false,
+                  "id" : "df98f62c-bd57-46a4-a436-d7c05622345d",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Track business operations to ensure they are performed correctly and according to industry regulations"
+                },
+                {
+                  "name" : "Controls Audit",
+                  "value" : false,
+                  "id" : "1d612668-4eb0-43ff-8308-1bb1fefc546e",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Establish requirements for testing to reduce risks"
+                },
+                {
+                  "name" : "Environmental Compliance",
+                  "value" : false,
+                  "id" : "4246a5cb-ba8d-4ac1-9f75-039dbe25cca5",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Guidelines for conforming to environmental laws, regulations and requirements "
+                },
+                {
+                  "name" : "FDA Compliance",
+                  "value" : false,
+                  "id" : "cad18467-0720-40bf-adaf-6057c4551256",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Guidelines for regulating the safety of a wide range of products (ie: food, drugs, cosmetics, etc.)"
+                },
+                {
+                  "name" : "HIPAA Compliant",
+                  "value" : false,
+                  "id" : "b7fa2102-62a3-4477-96a4-c8567bd85229",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Compliant with HIPAA, which sets standards for sensitive patient data protection"
+                },
+                {
+                  "name" : "ISO Compliance",
+                  "value" : false,
+                  "id" : "d5ab71d5-0f68-4922-96cf-9ec831d0c5b7",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Guidelines set by the International Organization for Standardization "
+                },
+                {
+                  "name" : "Incident Management",
+                  "value" : true,
+                  "id" : "14c6e4ea-d58a-4310-a2a5-6dee917c8da5",
+                  "avg_rating" : 4.3,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 0.667,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Identify, resolve and restore unplanned service failures/disruptions or injuries "
+                },
+                {
+                  "name" : "OSHA Compliance",
+                  "value" : false,
+                  "id" : "53e85c6f-769e-4540-b756-4aed98384755",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Guidelines set by Occupational Safety and Health Administration regarding record keeping"
+                },
+                {
+                  "name" : "Process/Workflow Automation",
+                  "value" : false,
+                  "id" : "ef274e3a-02e8-4ccb-b1f0-f42ecb880499",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Design workflow paths once and apply the logic to enable automatic creation of future processes and workflows "
+                },
+                {
+                  "name" : "Risk Management",
+                  "value" : true,
+                  "id" : "2d25bc40-8517-4799-8a87-4d979c453d38",
+                  "avg_rating" : 3.5,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 0.333,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Identify, evaluate, mitigate, and report on risk "
+                },
+                {
+                  "name" : "Sarbanes-Oxley Compliance",
+                  "value" : false,
+                  "id" : "ae386bab-d443-4697-9dd3-68ca850dbc6e",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Regulations on a company?s internal process when dealing with financial reporting "
+                },
+                {
+                  "name" : "Surveys & Feedback",
+                  "value" : false,
+                  "id" : "ac019461-1e0e-49b2-a4f0-bd6e13dedf23",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Gauge satisfaction and receive information for improvement and success"
+                },
+                {
+                  "name" : "Version Control",
+                  "value" : true,
+                  "id" : "706b5395-e928-4d0c-8152-36ce6b3bfa9c",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track revisions and updates to collateral, and navigate between versions of the same documentation"
+                }
+              ]
+            },
+            {
+              "category_name" : "Quality Management",
+              "category_features" : [
+                {
+                  "name" : "Alerts/Notifications",
+                  "value" : true,
+                  "id" : "aef68b72-bd4c-4797-ae8c-4735512de81a",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Audit Management",
+                  "value" : true,
+                  "id" : "f8952cde-adc7-4255-a812-5636017723f5",
+                  "avg_rating" : 3.8,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 0.667,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.667,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Plan, schedule and execute organization's accounts and assets to ensure they all comply with policies, laws, and requirements"
+                },
+                {
+                  "name" : "Audit Trail",
+                  "value" : true,
+                  "id" : "554b6509-32cb-41ed-a6ae-7571e49eb6e5",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Change Management",
+                  "value" : true,
+                  "id" : "88690ea4-3a57-4107-8f87-e663ec585c55",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 1.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Track, manage, and analyze organizational/operational changes to reduce associated risks"
+                },
+                {
+                  "name" : "Complaint Management",
+                  "value" : true,
+                  "id" : "690eeecf-ae80-49d6-a457-ad2d89186ad1",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Obtain, monitor, and review customer feedback/complaints relating to products and services to improve customer satisfaction"
+                },
+                {
+                  "name" : "Compliance Management",
+                  "value" : true,
+                  "id" : "067f6bae-1749-483f-ac79-6c2c3c4114c8",
+                  "avg_rating" : 4.7,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 2.33,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.333,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Track and manage non-adherence to policies in a service, product, process, or supplier behavior"
+                },
+                {
+                  "name" : "Corrective and Preventive Actions (CAPA)",
+                  "value" : true,
+                  "id" : "e0db5d46-8bc5-4e96-a473-5135f548980f",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Investigate and take action at root cause or error in products/processes to prevent recurrence of the same error"
+                },
+                {
+                  "name" : "Defect Tracking",
+                  "value" : true,
+                  "id" : "3729b481-e884-4840-a2a0-f59b7780c2b5",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Process of tracking logged defects (errors) in a product or service to create new versions to fix the error"
+                },
+                {
+                  "name" : "Document Coding & Control",
+                  "value" : true,
+                  "id" : "288bf964-66b3-4b8c-80ea-f4e3d27de319",
+                  "avg_rating" : 4.5,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Manage and control of the creation, approval, and distribution of documents and processes to ensure they meet industry regulations"
+                },
+                {
+                  "name" : "Document Management",
+                  "value" : true,
+                  "id" : "a55b34ad-b6ec-4072-b3bd-a7151f7843de",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Equipment Management",
+                  "value" : true,
+                  "id" : "9ba59a41-84c4-4f19-aa99-f3a877464ac9",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 1.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Monitor and maintain equipment used to manufacture and deploy products and services, and to reallocate assets where needed"
+                },
+                {
+                  "name" : "ISO Standards Management",
+                  "value" : true,
+                  "id" : "fb25a46a-7c99-4583-a52c-80a95c560c30",
+                  "avg_rating" : 0.0,
+                  "cnt_rating" : 0,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Track and monitor processes/products to ensure they meet international standards developed by the ISO"
+                },
+                {
+                  "name" : "Maintenance Management",
+                  "value" : true,
+                  "id" : "73ed8cb7-a67f-4a46-8acb-4fd73409c5e8",
+                  "avg_rating" : 4.5,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Assess and plan maintenance operations and updates to ensure longevity of physical assets"
+                },
+                {
+                  "name" : "Quality Control",
+                  "value" : true,
+                  "id" : "5aaa1957-06d1-478a-ad00-ee2015e9703d",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Risk Management",
+                  "value" : true,
+                  "id" : "2d25bc40-8517-4799-8a87-4d979c453d38",
+                  "avg_rating" : 3.5,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 0.333,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Identify, evaluate, mitigate, and report on risk"
+                },
+                {
+                  "name" : "Supplier Management",
+                  "value" : true,
+                  "id" : "aa61511b-b73d-4fbb-a5f4-0ea85d124fcb",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Supplier Quality Control",
+                  "value" : true,
+                  "id" : "12483fde-f35a-4db1-9aea-2e9d765eb7ed",
+                  "avg_rating" : 3.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Qualify, select, and monitor supply chain partners"
+                },
+                {
+                  "name" : "Task Management",
+                  "value" : true,
+                  "id" : "82ce67d3-ac09-49d0-ae71-5e6401e3e26b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Training Management",
+                  "value" : true,
+                  "id" : "4dc3a3c0-246c-4a15-8750-fa294c8ff58a",
+                  "avg_rating" : 3.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 1.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track employee's progression through training programs"
+                },
+                {
+                  "name" : "Workflow Management",
+                  "value" : true,
+                  "id" : "c4c63af2-2e9e-4f8b-b965-20e94a16a8b9",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                }
+              ]
+            },
+            {
+              "category_name" : "Safety Management",
+              "category_features" : [
+                {
+                  "name" : "Audit Management",
+                  "value" : true,
+                  "id" : "f8952cde-adc7-4255-a812-5636017723f5",
+                  "avg_rating" : 3.8,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 0.667,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.667,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Plan, schedule, and execute organization's accounts and assets to ensure they all comply with policies, laws, and requirements. "
+                },
+                {
+                  "name" : "Corrective and Preventive Actions (CAPA)",
+                  "value" : true,
+                  "id" : "e0db5d46-8bc5-4e96-a473-5135f548980f",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Investigate and take action at root cause or error in products/processes to prevent recurrence of the same error"
+                },
+                {
+                  "name" : "Incident Management",
+                  "value" : true,
+                  "id" : "14c6e4ea-d58a-4310-a2a5-6dee917c8da5",
+                  "avg_rating" : 4.3,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 0.667,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Identify, resolve and restore unplanned service failures/disruptions or injuries"
+                },
+                {
+                  "name" : "Incident Reporting",
+                  "value" : true,
+                  "id" : "e0bc9d0d-36cf-4aa4-93b7-981468dbb976",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Report and update incidents that occur on a job or en route to a job site"
+                },
+                {
+                  "name" : "Inspection Management",
+                  "value" : true,
+                  "id" : "4692b0a7-3b26-47b8-a115-ba74fa1b9e50",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track, manage, control and monitor worksite inspections to remain compliant with industry standards "
+                },
+                {
+                  "name" : "OSHA Recordkeeping",
+                  "value" : true,
+                  "id" : "075f44ec-d4d6-4ee6-8c7c-221f404e331c",
+                  "avg_rating" : 0.0,
+                  "cnt_rating" : 0,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Maintain records necessary for compliance with Occupational Health and Safety Administration requirements"
+                },
+                {
+                  "name" : "Training Management",
+                  "value" : true,
+                  "id" : "4dc3a3c0-246c-4a15-8750-fa294c8ff58a",
+                  "avg_rating" : 3.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 1.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track employee's progression through training programs "
+                }
+              ]
+            }
+          ],
+          "infographics" : [ ],
+          "related_products" : [
+            {
+              "product_id" : 166113,
+              "seo_product_id" : 222998,
+              "seo_slug" : "Contractor-Foreman",
+              "vendor_name" : "Contractor Foreman",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/0624dd28-3453-4c03-8774-e5aea041952f.png",
+              "rating" : 4.5,
+              "total_reviews" : 293,
+              "slug" : "Contractor-Foreman",
+              "product_name" : "Contractor Foreman",
+              "short_desc" : "NOW: Starting @ $49/m for the WHOLE company, Contractor Foreman is the most affordable solution for small and medium sized contractors.",
+              "features" : "NOW: Starting @ $49/m for the WHOLE company, Contractor Foreman is the most affordable all-in-one solution for small and medium trade and general contractors who want a better way to manage their projects. *FREE Trial + 100 Day Guarantee* Easy to use and rated as a Top App and Best Value.  Save thousands compared to other systems. Integrates with QuickBooks.  Use it on the phone, tablet, and computer.  Time Cards, Estimates, Online Payments, Daily Logs, Scheduling, and 35 other great features.",
+              "url" : "https://info.gartnerdigitalmarkets.com/contractor-foreman-gdm-lp/?category=EHS&utm_source=capterra"
+            },
+            {
+              "product_id" : 143579,
+              "seo_product_id" : 153259,
+              "seo_slug" : "SiteDocs",
+              "vendor_name" : "SiteDocs",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/fba26a47-0f1e-4b2d-bb00-ad8955dbb351.png",
+              "rating" : 4.8,
+              "total_reviews" : 192,
+              "slug" : "SiteDocs",
+              "product_name" : "SiteDocs",
+              "short_desc" : "Complete all your safety forms and documents on mobile devices from the field. Login online to track and monitor safety activity.",
+              "features" : "Most intuitive Safety Software with world class Analytics and In-App Chat.\r\n\r\nThe easiest way to manage your entire safety program from mobile apps and the web. SiteDocs features a custom form builder, PDF document library, worker certification management, offline-mode, and more. SiteDocs will help you easily manage your safety program while saving you time and helping you maintain the highest standard of safety possible.",
+              "url" : "https://www.sitedocs.com/choose-sitedocs/"
+            },
+            {
+              "product_id" : 150053,
+              "seo_product_id" : 220441,
+              "seo_slug" : "ServiceTitan",
+              "vendor_name" : "ServiceTitan",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/341f924d-664f-4110-8f29-7e2a151565f5.png",
+              "rating" : 4.4,
+              "total_reviews" : 190,
+              "slug" : "ServiceTitan",
+              "product_name" : "ServiceTitan",
+              "short_desc" : "ServiceTitan is the leading business software that's changing the way residential and commercial septic companies do business.",
+              "features" : "ServiceTitan is the leading all-in-one software solution for residential and commercial septic businesses. With powerful tools that improve sales, supercharge your team, and provide real-time insights, ServiceTitan is trusted by more than 100,000 service professionals and by the world's best companies. Get a customized demo to see how ServiceTitan can help YOUR business grow.",
+              "url" : "https://www.servicetitan.com/go/septic-service-software?utm_source=capterra&utm_medium=review_sites&utm_term=ehs_management&capterra_source=capterra"
+            },
+            {
+              "product_id" : 141080,
+              "seo_product_id" : 227139,
+              "seo_slug" : "iAuditor",
+              "vendor_name" : "SafetyCulture",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/cca7c6ce-12b6-4f62-8741-b860d5dcda18.png",
+              "rating" : 4.6,
+              "total_reviews" : 179,
+              "slug" : "iAuditor",
+              "product_name" : "iAuditor",
+              "short_desc" : "iAuditor puts the power in your teams' hands. Every person and every device can be a window to your worksite. ",
+              "features" : "Safety is now a core component of brand reputation across every industry. Everyone has the right to expect a safe experience so businesses must prioritise the safety of their people and customers, with clear lines of communication that make everyone an active participant. With iAuditor you can share inspection reports with your stakeholders and other teams just by clicking a button. This commitment of adopting a safety culture holds the key to getting the world safely back to business.",
+              "url" : "https://safetyculture.com/lp/iauditor/?utm_medium=CPC&utm_campaign=Capterra_PPC&utm_content=Inspection&dynamic-text=EHS%20Management%20Software"
+            },
+            {
+              "product_id" : 131789,
+              "seo_product_id" : 226368,
+              "seo_slug" : "ProntoForms",
+              "vendor_name" : "ProntoForms",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/977ee215-39b6-406f-9da6-0f63fee7e564.png",
+              "rating" : 4.6,
+              "total_reviews" : 163,
+              "slug" : "ProntoForms-Mobile-Forms",
+              "product_name" : "ProntoForms",
+              "short_desc" : "Simplify your EHS management operations and streamline business processes with HIPAA-compliant smart mobile form apps for the field.",
+              "features" : "Streamline your business processes and seamlessly integrate with your safety system of record. Our no-code app field team platform enables you to develop HIPAA-compliant EHS forms tailored to meet each job's unique compliance requirements and keep field technicians safe. Enterprise-grade analytics tools create insightful and interactive dashboards to help you predict potential risks before they occur, and respond faster when they do, with accelerated data sharing and incident reporting.",
+              "url" : "http://www2.prontoforms.com/l/182312/2016-06-22/lt45"
+            },
+            {
+              "product_id" : 150611,
+              "seo_product_id" : 152608,
+              "seo_slug" : "Forms-On-Fire-Mobile",
+              "vendor_name" : "Forms On Fire",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e2158097-a854-4ea7-8cd3-f9fc52e86693.png",
+              "rating" : 4.7,
+              "total_reviews" : 108,
+              "slug" : "Forms-On-Fire-Mobile",
+              "product_name" : "Forms On Fire",
+              "short_desc" : "Digitize your EHS&S forms and workflows using the #1 no code mobile-cloud platform. Get transparent compliance today.",
+              "features" : "Establish a safe and efficient work environment, minimize risk, and meet compliance standards. Completely digitize your Environmental, Health, Safety and Sustainability data collection and processes with our cloud solution.\n\nOur solution is mobile, offline capable, beautiful reports, KPIs, repeat items, automatic email notifications and more.\n\nIncidents, Audits & Inspections, Actions & Tasks, Work, Observations, Sustainability, Safety Meetings, Go Mobile, Use Best Practices",
+              "url" : "https://try.formsonfire.com/ehs/"
+            },
+            {
+              "product_id" : 176123,
+              "seo_product_id" : 176123,
+              "seo_slug" : "AlertMedia-Mass-Notification",
+              "vendor_name" : "AlertMedia",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/ad0bf633-7a07-4365-a9c9-e55b11eaa6d4.png",
+              "rating" : 4.8,
+              "total_reviews" : 95,
+              "slug" : "AlertMedia-Mass-Notification",
+              "product_name" : "AlertMedia",
+              "short_desc" : "Multichannel emergency communication software that provides two-way messaging, integrated threat intelligence, and safety monitoring.",
+              "features" : "AlertMedia is the world's leading emergency communication provider. Our award-winning, two-way multichannel messaging system, fully integrated threat intelligence, and employee safety monitoring capabilities helps organizations protect their business and people through all phases of an emergency. Implementation and personalized 24/7 support are included and our intuitive platform takes just 15 minutes to learn.  ",
+              "url" : "https://www.alertmedia.com/go/ehs/?utm_campaign=Capterra-EHS&utm_medium=ppc&utm_term=ehs_Management&utm_source=capterra"
+            },
+            {
+              "product_id" : 102848,
+              "seo_product_id" : 41970,
+              "seo_slug" : "Quality-Management-Software",
+              "vendor_name" : "Cority",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/dec9a0d8-dc42-4113-90b8-582dc190a733.png",
+              "rating" : 4.3,
+              "total_reviews" : 81,
+              "slug" : "EHS-Management-Software",
+              "product_name" : "Cority",
+              "short_desc" : "The Most Trusted EHS Enterprise Software for Assuring Client Success for Over 30 years. ",
+              "features" : "Cority is the most trusted EHS software for assuring top performing organizations' success. Cority's comprehensive SaaS platform helps organizations securely manage EHS information across departments, regions and the globe. Over 1,300 enterprise organizations in 77 countries trust Cority to ensure global compliance, mitigate risk, standardize procedures, drive operational excellence and keep employees safe, healthy and productive. ",
+              "url" : "https://go.cority.com/cority-ehs-software-capterra/?pi_campaign_id=28361&utm_source=capterra"
+            },
+            {
+              "product_id" : 127199,
+              "seo_product_id" : 127199,
+              "seo_slug" : "HSEQ-Compliance-Software",
+              "vendor_name" : "Mango",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/04c52fdc-3de1-4aaa-8b96-d954c96d3d8a.png",
+              "rating" : 4.6,
+              "total_reviews" : 77,
+              "slug" : "HSEQ-Compliance-Software",
+              "product_name" : "Mango",
+              "short_desc" : "Integrated QHSE management system software, Cloud-based, helping SMB's manage compliance activities in a single, easy to use solution.",
+              "features" : "Mango helps control and maintain all aspects of your quality, health,  safety (QHSE) management system(s); including: policies, procedures & forms (with single-source document control); accidents & incidents; Audits/Inspections; Improvements (NCR's, CAPA's, etc.); hazard & risk management; and people management (competencies & training).\r\n\r\nIn addition, Mango helps our customers manage their Plant & Equipment (including scheduled maintenance and requests), Food Safety, & compliance calendar.",
+              "url" : "https://www.hsetechnology.com/mango-qhse-software"
+            },
+            {
+              "product_id" : 150242,
+              "seo_product_id" : 226512,
+              "seo_slug" : "Benchmark-ESG-tm--Gensuite",
+              "vendor_name" : "Benchmark ESG | Gensuite",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/813ee0eb-3f64-44bc-aaa5-1f91acf8df83.png",
+              "rating" : 4.3,
+              "total_reviews" : 74,
+              "slug" : "Gensuite",
+              "product_name" : "Benchmark Risk + Compliance",
+              "short_desc" : "Partners in compliance and management systems excellence. Learn more about our intuitive applications serving the full-spectrum of EHS.",
+              "features" : "Benchmark ESG | Gensuite EHS Management Software helps organizations comply with regulations, improve safety processes, reduce environmental impact, and boost sustainability measures. Benchmark offers an entire suite of EHS applications that are user-friendly, robust, and highly configurable to meet the needs of the EHS front line and growing organizational needs. For over two decades, our senior leadership team has worked in the EHS industry building EHS solutions for Fortune 100 companies.  ",
+              "url" : "https://www.benchmarkdigitalesg.com/lp-ehs-management/?utm_source=gartner&utm_medium=cpc&utm_campaign=22Mktg_RISK_EV_Gartner&utm_term=ehs-management"
+            },
+            {
+              "product_id" : 165101,
+              "seo_product_id" : 223477,
+              "seo_slug" : "Safesite",
+              "vendor_name" : "Safesite",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d11901c2-03e1-4255-a998-971fc5a040aa.png",
+              "rating" : 4.7,
+              "total_reviews" : 73,
+              "slug" : "Safesite",
+              "product_name" : "Safesite",
+              "short_desc" : "Safesite is a powerful, easy-to-use safety management solution proven to reduce workplace incidents by up to 57%.",
+              "features" : "Proven to reduce incidents by up to 57%, Safesite is a powerful, easy-to-use safety management solution used by over 18,000 companies of all sizes and industries. Safesite's intuitive platform helps companies streamline EHS management programs, get results and demonstrate safety performance. Access the platform on any device and run your safety program digitally, saving hours each week and cutting related costs by 20% annually.\n",
+              "url" : "https://safesitehq.com/?utm_source=Capterra&utm_medium=EHS&utm_campaign=Capterra_PPC"
+            }
+          ],
+          "similar_products" : [
+            {
+              "product_id" : 101454,
+              "seo_product_id" : 222748,
+              "seo_slug" : "EHS-Insight",
+              "vendor_name" : "EHS Insight",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/f8d8674a-6000-4522-b5e6-97f658d8c0ba.png",
+              "rating" : 4.4,
+              "total_reviews" : 23,
+              "slug" : "EHS-Management-Software",
+              "product_name" : "EHS Insight",
+              "short_desc" : "Get the best EHS software available today. Everything you need to manage Health & Safety, Sustainability, Risk, and Compliance.",
+              "features" : "EHS Insight is the best value in EHS Software available today. With a fresh, user-friendly interface and everything you need to automate and improve your EHS Management System, it will be the must-have application of 2022. Don't settle for outdated software or one of those little 'forms' tools. Get a comprehensive solution that includes every feature you can't live without. Trust the industry leader: first with offline access, first with a full-suite mobile application, and first in the cloud.",
+              "url" : "https://www.ehsinsight.com/ehs-management-software-c-2020"
+            },
+            {
+              "product_id" : 152559,
+              "seo_product_id" : 152559,
+              "seo_slug" : "KPAEHS",
+              "vendor_name" : "KPA",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/33bf5609-aaf3-49b4-96fb-e24f6ac7e7a5.png",
+              "rating" : 4.8,
+              "total_reviews" : 71,
+              "slug" : "KPAEHS",
+              "product_name" : "KPA EHS",
+              "short_desc" : "Manage all aspects of your EHS program: conduct inspections, assign tasks, manage training, inspect equipment, analyze trends and more.",
+              "features" : "KPA EHS (formerly iScout) is a cloud-based EHS management software platform designed to help organizations establish and implement a comprehensive safety program, make data-driven decisions, and take real-time action to keep employees safe and compliant.\n\nThe easy-to-configure, mobile platform provides a wide range of flexible tools you can tailor to your organization's specific safety and compliance processes.",
+              "url" : "https://info.kpa.io/kpa-ehs-gartner-demo"
+            },
+            {
+              "product_id" : 131789,
+              "seo_product_id" : 226368,
+              "seo_slug" : "ProntoForms",
+              "vendor_name" : "ProntoForms",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/977ee215-39b6-406f-9da6-0f63fee7e564.png",
+              "rating" : 4.6,
+              "total_reviews" : 163,
+              "slug" : "ProntoForms-Mobile-Forms",
+              "product_name" : "ProntoForms",
+              "short_desc" : "Simplify your EHS management operations and streamline business processes with HIPAA-compliant smart mobile form apps for the field.",
+              "features" : "Streamline your business processes and seamlessly integrate with your safety system of record. Our no-code app field team platform enables you to develop HIPAA-compliant EHS forms tailored to meet each job's unique compliance requirements and keep field technicians safe. Enterprise-grade analytics tools create insightful and interactive dashboards to help you predict potential risks before they occur, and respond faster when they do, with accelerated data sharing and incident reporting.",
+              "url" : "https://www2.prontoforms.com/l/182312/2016-06-15/dz27"
+            },
+            {
+              "product_id" : 108528,
+              "seo_product_id" : 81902,
+              "seo_slug" : "Intellect-BPM",
+              "vendor_name" : "Intellect",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/867e7a53-ac2e-4443-8331-75f08b24dc14.png",
+              "rating" : 4.5,
+              "total_reviews" : 57,
+              "slug" : "Intellect",
+              "product_name" : "Intellect",
+              "short_desc" : "Intellect offers EHSQ software built on a no-code compliance platform that is easy to use, fast to implement, and highly flexible. ",
+              "features" : "Intellect's Environmental, Health, Safety and Quality (EHSQ) software is designed to for customers who want one solution for both EH&S and Quality. \n\n- Easy to use\n- Fast to implement\n- Highly flexible\n- Best-in-class customer support\n\nIntellect EHSQ is available out-of-the-box or configure apps to your unique business needs with our no-code compliance platform.  Reduce operational risk, improve health and safety, attain sustainability, and analyze data to achieve operational excellence.  \n",
+              "url" : "https://www.intellect.com/request-a-demo?utm_source=capterra&utm_medium=capterra"
+            },
+            {
+              "product_id" : 88891,
+              "seo_product_id" : 222484,
+              "seo_slug" : "VelocityEHS",
+              "vendor_name" : "VelocityEHS",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/59f87c75-52e8-4318-b027-722fc5300ff0.png",
+              "rating" : 4.2,
+              "total_reviews" : 26,
+              "slug" : "EHS-Management-Software",
+              "product_name" : "VelocityEHS",
+              "short_desc" : "The VelocityEHS Accelerate?  Platform makes it easy for you to drive Operational Excellence across your EHS & Sustainability programs.",
+              "features" : "VelocityEHS ESG|EHS software is trusted by 1/3 of the Fortune Global 1000 and thousands of companies across industries to manage Environmental, Health, Safety, Sustainability programs. The VelocityEHS Accelerate?  Platform includes capabilities for incident management, risk management, industrial hygiene, safety management, permit to work, chemical management, audits & inspections, action management, training and learning, ergonomics, air, water, waste management, emergency & response services. ",
+              "url" : "https://info.ehs.com/ehs-management-lp1a.html?utm_source=Capterra&utm_medium=cpc&utm_campaign=AC_EHS&utm_id=ac_accelerate&utm_term=ehsmgt_default"
+            },
+            {
+              "product_id" : 165297,
+              "seo_product_id" : 165297,
+              "seo_slug" : "Safety-Indicators",
+              "vendor_name" : "PMVitals",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/6d476fcf-d4e9-436e-94a4-4df2dcdd036d.png",
+              "rating" : 4.5,
+              "total_reviews" : 14,
+              "slug" : "Safety-Indicators",
+              "product_name" : "Safety Indicators",
+              "short_desc" : "No nonsense cloud-based Safety platform.",
+              "features" : "Our web and mobile friendly platform boasts more configurable features to reduce effort than any other safety management software suite, guaranteed all aligned to shift from reaction to effective focus on injury prevention. Automated notifications and powerful reports keep people informed while simplicity keeps people engaged, ultimately advancing the safety culture. \n\nThe system covers your program needs from front-to-back.",
+              "url" : "https://www.safetyindicators.com/ehs-management-software/?utm_source=capterra&utm_medium=cpc&utm_term=destination-url&utm_content=visit-website-orange-button&utm_campaign=demo&utm_source_platform=&utm_creative_format=&utm_marketing_tactic=ehs-management-software-page"
+            },
+            {
+              "product_id" : 150242,
+              "seo_product_id" : 226512,
+              "seo_slug" : "Benchmark-ESG-tm--Gensuite",
+              "vendor_name" : "Benchmark ESG | Gensuite",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/813ee0eb-3f64-44bc-aaa5-1f91acf8df83.png",
+              "rating" : 4.3,
+              "total_reviews" : 74,
+              "slug" : "Gensuite",
+              "product_name" : "Benchmark Risk + Compliance",
+              "short_desc" : "Partners in compliance and management systems excellence. Learn more about our intuitive applications serving the full-spectrum of EHS.",
+              "features" : "Benchmark ESG | Gensuite EHS Management Software helps organizations comply with regulations, improve safety processes, reduce environmental impact, and boost sustainability measures. Benchmark offers an entire suite of EHS applications that are user-friendly, robust, and highly configurable to meet the needs of the EHS front line and growing organizational needs. For over two decades, our senior leadership team has worked in the EHS industry building EHS solutions for Fortune 100 companies.  ",
+              "url" : "https://benchmarkdigitalesg.com/contact-us/?utm_source=gartner&utm_medium=cpc&utm_campaign=22Mktg_EV_Gartner&utm_term=contact-us"
+            },
+            {
+              "product_id" : 102848,
+              "seo_product_id" : 41970,
+              "seo_slug" : "Quality-Management-Software",
+              "vendor_name" : "Cority",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/dec9a0d8-dc42-4113-90b8-582dc190a733.png",
+              "rating" : 4.3,
+              "total_reviews" : 81,
+              "slug" : "EHS-Management-Software",
+              "product_name" : "Cority",
+              "short_desc" : "The Most Trusted EHS Enterprise Software for Assuring Client Success for Over 30 years. ",
+              "features" : "Cority is the most trusted EHS software for assuring top performing organizations' success. Cority's comprehensive SaaS platform helps organizations securely manage EHS information across departments, regions and the globe. Over 1,300 enterprise organizations in 77 countries trust Cority to ensure global compliance, mitigate risk, standardize procedures, drive operational excellence and keep employees safe, healthy and productive. ",
+              "url" : "https://go.cority.com/cority-ehs-software-capterra/?pi_campaign_id=28361"
+            },
+            {
+              "product_id" : 187657,
+              "seo_product_id" : 237211,
+              "seo_slug" : "Encamp",
+              "vendor_name" : "Encamp",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/b2db574e-1f0a-4720-85e2-43ad708c98ed.png",
+              "rating" : 4.5,
+              "total_reviews" : 17,
+              "slug" : "Encamp",
+              "product_name" : "Encamp",
+              "short_desc" : "Encamp is an end-to-end EHS management software platform designed to manage tasks, documents, data, and automate agency reporting.\n",
+              "features" : "Encamp is the EHS management platform for today's environmental professional. Our EHS management  solutions enable companies to proactively address EHS compliance risks, centralize critical EHS compliance data, streamline workflows, and automate agency report submissions and fee payment.\n",
+              "url" : "https://encamp.com/lp-demo?utm_source=capterra&utm_medium=ppc&utm_campaign=general"
+            },
+            {
+              "product_id" : 127198,
+              "seo_product_id" : 224393,
+              "seo_slug" : "Alcumus-eCompliance",
+              "vendor_name" : "Alcumus",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/c1224cc3-33c7-4db5-b6c0-dafa398b03e3.png",
+              "rating" : 4.5,
+              "total_reviews" : 21,
+              "slug" : "eCompliance-Safety-Software",
+              "product_name" : "Alcumus eCompliance",
+              "short_desc" : "A mobile-first EHS solution to help you simplify safety, empower your workforce, and proactively minimize risk on-site. ",
+              "features" : "Alcumus' EHS Management solution is a leading mobile-first safety solution that empowers your front-line workforce to proactively minimize risk on-site. The easy-to-use, cloud-based system simplifies your safety processes and helps to identify hazards, assign corrective actions, track incidents and injuries, manage safety certifications, and maintain compliance. Leverage advanced analytics and robust dashboards to proactively identify gaps in your EHS program and create a safer workplace.",
+              "url" : "https://www.ecompliance.com/try-ec?utm_medium=cpc&utm_campaign=demo"
+            },
+            {
+              "product_id" : 264955,
+              "seo_product_id" : 237714,
+              "seo_slug" : "EHS-Hero",
+              "vendor_name" : "BLR",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d27852c1-1e99-4446-9029-2fbb9fa0975a.png",
+              "rating" : 4.4,
+              "total_reviews" : 11,
+              "slug" : "EHS-Hero",
+              "product_name" : "EHS Hero",
+              "short_desc" : "Monitor leading and lagging indicators, streamline your risk management, and increase workplace safety with a 360-degree EHS solution.",
+              "features" : "EHS Hero combines a comprehensive EHS management suite of best-in-class tools built to make your job simpler and keep your organization compliant with access to up-to-date, easy-to-understand federal and state regulatory insights, developed and maintained by industry experts with over 40 years of experience. These game-changing resources are sure to save you time and ensure your organization has everything it needs to keep its EHS program growing. ",
+              "url" : "https://interactive.blr.com/ehs-hero-capterra"
+            },
+            {
+              "product_id" : 249471,
+              "seo_product_id" : 249058,
+              "seo_slug" : "Assure",
+              "vendor_name" : "Evotix",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/27323d2b-9b19-4afd-81e3-2e621710c204.png",
+              "rating" : 5.0,
+              "total_reviews" : 1,
+              "slug" : "Assure",
+              "product_name" : "Assure",
+              "short_desc" : "With over 400 businesses using Evotix, we are transforming the way employees engage in workplace health and safety.",
+              "features" : "Are you looking for an effective way to manage health, safety and wellness for your organization? With Evotix you can manage all safety processes in one place, from incident reporting to inspection regimes. You'll also be able to put preventative measures in place to reduce the risk of incidents & injuries occurring. Evotix is designed for mid-sized companies in various industries and can be configured to meet your specific needs. See how you can achieve compliance & improve your EHS processes. ",
+              "url" : "https://www.evotix.com/solutions/assure-health-safety-ehs-software"
+            },
+            {
+              "product_id" : 238971,
+              "seo_product_id" : 238968,
+              "seo_slug" : "Salesforce-Sustainability-Cloud",
+              "vendor_name" : "Salesforce",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/6476bde5-8e03-425e-bd95-d51f0549bef3.jpeg",
+              "rating" : 0.0,
+              "total_reviews" : 0,
+              "slug" : "Salesforce-Sustainability-Cloud",
+              "product_name" : "Net Zero Cloud",
+              "short_desc" : "Be the solution. Recognize the true cost of carbon.",
+              "features" : "Accelerate your company's path to Net Zero with Salesforce Sustainability Cloud and Customer 360 solutions. Analyzing carbon emissions from energy usage and company travel can be daunting and time-consuming. With all your data flowing directly onto one platform, you can efficiently quantify your carbon footprint across Scope 1, 2 and 3 emissions. Track energy patterns and emission trends, then evaluate environmental impact with rich data visualization and dashboards.",
+              "url" : "https://www.salesforce.com/form/sustainability/sustainability-cloud-demo/?d=7013y000002hQjBAAU&nc=7013y000002hQj0AAE&utm_source=capterra&utm_medium=review_sites&utm_campaign=us_suslobd&utm_content=sustainability-cloud-demo_7013y000002hQjBAAU"
+            }
+          ],
+          "related_categories" : [
+            {
+              "functional_group" : "ehsman",
+              "long_name" : "Emissions Management",
+              "html_name" : "emissions-management-software",
+              "link_name" : "emissions-management",
+              "product_count" : 38,
+              "meta_description" : "Find and compare top Emissions Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Emissions Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/emissions-management-software\">Emissions Management software</a> helps organizations forecast future emissions, calculate the actual output, manage market transactions and ensure compliance with regional, state and national regulations.  Features of this software include market evaluation, emissions reduction planning, automatic CO2 calculations and permit level maintenance."
+            },
+            {
+              "functional_group" : "ehsman",
+              "long_name" : "Environmental",
+              "html_name" : "environmental-software",
+              "link_name" : "environmental",
+              "product_count" : 35,
+              "meta_description" : "Environmental software, sometimes called environmental management systems (EMS), helps organizations with the tracking, reporting, and enforcement of internal environmental policies as well as compliance with government regulations. It can assist with incorporating environmental concerns into risk management programs.",
+              "description" : "<a href=\"/environmental-software\">Environmental software</a>,  sometimes called environmental management systems (EMS), helps organizations with the tracking, reporting and enforcement of internal environmental policies as well as compliance with government regulations. It can assist with incorporating environmental concerns into risk management programs. <a href=\"/environmental-software\">Environmental software</a>, is related to <a href=\"/ehs-management-software\">EHS Management software</a>, <a href=\"/emissions-management-software\">Emissions Management software</a> and <a href=\"/compliance-software\">Compliance software</a>."
+            },
+            {
+              "functional_group" : "ehsman",
+              "long_name" : "Facility Management",
+              "html_name" : "facility-management-software",
+              "link_name" : "facility-management",
+              "product_count" : 132,
+              "meta_description" : "Find and compare top Facility Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Facility Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/facility-management-software\">Facility Management software</a> enables organizations to more effectively administer facility and plant assets.  Details such as building layouts, assets, employees, and square footage are recorded and made readily accessible. Facility Management solutions allow for easy access to drawings and schematics, room scheduling, preventative maintenance tasks, work orders, and records for equipment including lighting, security, HVAC, elevators, and fire alarms.  <a href=\"/facility-management-software\">Facility Management software</a> is related to <a href=\"/fixed-asset-management-software\">Fixed Asset Management software</a>, <a href=\"/building-maintenance-software\">Building Maintenance software</a>, <a href=\"/equipment-maintenance-software\">Equipment Maintenance software</a>, <a href=\"/hvac-software\">HVAC software</a>, <a href=\"/maintenance-management-software\">Maintenance Management software</a>, <a href=\"/ehs-management-software\">EHS Management software</a>, <a href=\"/visitor-management-software\">Visitor Management software</a>, and <a href=\"/scheduling-software\">Scheduling software</a>."
+            },
+            {
+              "functional_group" : "ehsman",
+              "long_name" : "Quality Management",
+              "html_name" : "quality-management-software",
+              "link_name" : "quality-management",
+              "product_count" : 119,
+              "meta_description" : "Find and compare top Quality Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Quality Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/quality-management-software>Quality Management software</a> automates the process of tracking and minimizing product defects.  Organizations use these applications to monitor and control product quality.  Through the collection and analysis of data from users, organizations can identify, isolate and correct unforeseen product defects or other issues that may emerge in the course of production.  Quality Management solutions also provide tools to evaluate the effectiveness of notification campaigns, recalls and repair attempts. QMS also aids in maintaining product compliance with applicable international regulations.  <a href=/quality-management-software>Quality Management software</a> is related to <a href=\"/enterprise-resource-planning-software\">Enterprise Resource Planning (ERP) software</a> and <a href=/product-lifecycle-management-software>Product Lifecycle Management software</a>."
+            }
+          ],
+          "is_upgraded" : true,
+          "enabled" : true,
+          "filter_options" : {
+            "users" : 124,
+            "platform" : 901,
+            "pricing_options" : 26,
+            "category_related_features" : [
+              30804,
+              30806,
+              30906,
+              31814,
+              31815,
+              32077,
+              32106,
+              38123,
+              38125,
+              38748,
+              38758,
+              38759,
+              56043,
+              56044,
+              56045,
+              56046,
+              56047,
+              56048,
+              56049,
+              56050,
+              56051,
+              56052,
+              56053,
+              56054,
+              56055,
+              56056,
+              56057,
+              56058,
+              56059,
+              56060,
+              56061,
+              56062,
+              56063,
+              56064,
+              56065,
+              56066,
+              56067,
+              56068,
+              56069,
+              56070,
+              56071,
+              56072,
+              56073,
+              56074,
+              56075,
+              56076,
+              56077,
+              56078,
+              56079,
+              56080
+            ],
+            "employees" : 126
+          },
+          "sort_options" : {
+            "sort_review_rating" : 4.495454788208008,
+            "most_recent_review" : "2022-07-03T13:01:10Z"
+          },
+          "countries" : "NZ,RO,NL,LU,BE,US,IE,AU,UK,CH,NO,IS",
+          "features_tokenized_text" : "audit_management corrective_and_preventive_actions_(capa) document_management hazardous_materials_management incident_management industrial_safety_management inspection_management occupational_health_management osha_recordkeeping reporting/analytics risk_management training_management",
+          "platform_tokenized_text" : "cloud,saas,web-based desktopwindows mobileandroid mobileiphone mobileipad",
+          "users_tokenized_text" : "11-50 51-200 201-500 501-1000 1000+",
+          "pricing_tokenized_text" : "monthlysubscription free freetrial",
+          "badges" : [ ],
+          "bid_spot_us" : 46.0,
+          "currency_code" : "EUR",
+          "currency_symbol" : "€",
+          "credit_card_required" : "No",
+          "licensing_model" : "Proprietary",
+          "open_api_offered" : "Yes",
+          "mobile_urls" : [
+            {
+              "name" : "Android",
+              "url" : "https://play.google.com/store/apps/details?id=com.qooling"
+            },
+            {
+              "name" : "iOS",
+              "url" : "https://itunes.apple.com/us/app/qooling/id1162161569?mt=8"
+            }
+          ],
+          "integrations" : [
+            {
+              "id" : "92d31a97-5381-4206-aab7-a6d200b5761e",
+              "name" : "Okta"
+            },
+            {
+              "id" : "873f4e3e-be52-4e01-9baf-a6d200b654f5",
+              "name" : "SAP Business One"
+            },
+            {
+              "id" : "76cf184e-408b-4f63-893f-aa4900d08ede",
+              "name" : "SharePoint Azure AD Connect"
+            },
+            {
+              "id" : "0723a2a9-967b-48c5-88ed-aa4e0030714b",
+              "name" : "AFAS Software"
+            },
+            {
+              "id" : "788bb4d0-9060-4cdb-93ff-a6d200b3f78f",
+              "name" : "FileMaker Pro"
+            }
+          ],
+          "supported_countries" : [
+            {
+              "id" : 32,
+              "code" : "BR",
+              "name" : "Brazil"
+            },
+            {
+              "id" : 41,
+              "code" : "CA",
+              "name" : "Canada"
+            },
+            {
+              "id" : 104,
+              "code" : "IN",
+              "name" : "India"
+            },
+            {
+              "id" : 235,
+              "code" : "GB",
+              "name" : "United Kingdom of Great Britain and Northern Ireland"
+            },
+            {
+              "id" : 14,
+              "code" : "AU",
+              "name" : "Australia"
+            },
+            {
+              "id" : 144,
+              "code" : "MX",
+              "name" : "Mexico"
+            },
+            {
+              "id" : 84,
+              "code" : "DE",
+              "name" : "Germany"
+            },
+            {
+              "id" : 113,
+              "code" : "JP",
+              "name" : "Japan"
+            },
+            {
+              "id" : 237,
+              "code" : "US",
+              "name" : "United States of America"
+            },
+            {
+              "id" : 157,
+              "code" : "NL",
+              "name" : "Netherlands"
+            }
+          ],
+          "supported_languages" : [
+            {
+              "id" : 140,
+              "code" : "nl",
+              "name" : "Dutch",
+              "location" : null
+            },
+            {
+              "id" : 152,
+              "code" : "en",
+              "name" : "English",
+              "location" : null
+            }
+          ],
+          "target_industries" : [
+            {
+              "id" : 62,
+              "code" : "147",
+              "name" : "Industrial Automation"
+            },
+            {
+              "id" : 42,
+              "code" : "63",
+              "name" : "Farming"
+            },
+            {
+              "id" : 102,
+              "code" : "146",
+              "name" : "Packaging and Containers"
+            },
+            {
+              "id" : 98,
+              "code" : "57",
+              "name" : "Oil & Energy"
+            },
+            {
+              "id" : 27,
+              "code" : "24",
+              "name" : "Consumer Electronics"
+            },
+            {
+              "id" : 49,
+              "code" : "26",
+              "name" : "Furniture"
+            },
+            {
+              "id" : 6,
+              "code" : "19",
+              "name" : "Apparel & Fashion"
+            },
+            {
+              "id" : 128,
+              "code" : "7",
+              "name" : "Semiconductors"
+            },
+            {
+              "id" : 14,
+              "code" : "49",
+              "name" : "Building Materials"
+            },
+            {
+              "id" : 12,
+              "code" : "12",
+              "name" : "Biotechnology"
+            },
+            {
+              "id" : 28,
+              "code" : "25",
+              "name" : "Consumer Goods"
+            },
+            {
+              "id" : 87,
+              "code" : "17",
+              "name" : "Medical Devices"
+            },
+            {
+              "id" : 64,
+              "code" : "96",
+              "name" : "Information Technology and Services"
+            },
+            {
+              "id" : 32,
+              "code" : "1",
+              "name" : "Defense & Space"
+            },
+            {
+              "id" : 51,
+              "code" : "145",
+              "name" : "Glass, Ceramics & Concrete"
+            },
+            {
+              "id" : 129,
+              "code" : "58",
+              "name" : "Shipbuilding"
+            },
+            {
+              "id" : 46,
+              "code" : "34",
+              "name" : "Food & Beverages"
+            },
+            {
+              "id" : 139,
+              "code" : "92",
+              "name" : "Transportation/Trucking/Railroad"
+            },
+            {
+              "id" : 108,
+              "code" : "117",
+              "name" : "Plastics"
+            },
+            {
+              "id" : 105,
+              "code" : "15",
+              "name" : "Pharmaceuticals"
+            },
+            {
+              "id" : 84,
+              "code" : "80",
+              "name" : "Marketing and Advertising"
+            },
+            {
+              "id" : 103,
+              "code" : "61",
+              "name" : "Paper & Forest Products"
+            },
+            {
+              "id" : 91,
+              "code" : "56",
+              "name" : "Mining & Metals"
+            },
+            {
+              "id" : 17,
+              "code" : "54",
+              "name" : "Chemicals"
+            },
+            {
+              "id" : 9,
+              "code" : "53",
+              "name" : "Automotive"
+            },
+            {
+              "id" : 78,
+              "code" : "116",
+              "name" : "Logistics and Supply Chain"
+            },
+            {
+              "id" : 26,
+              "code" : "48",
+              "name" : "Construction"
+            },
+            {
+              "id" : 132,
+              "code" : "104",
+              "name" : "Staffing and Recruiting"
+            },
+            {
+              "id" : 80,
+              "code" : "55",
+              "name" : "Machinery"
+            },
+            {
+              "id" : 100,
+              "code" : "123",
+              "name" : "Outsourcing/Offshoring"
+            }
+          ],
+          "price_range_id" : 1,
+          "aggregated_review_ratings" : {
+            "industry" : {
+              "83" : 4.0,
+              "11" : 5.0,
+              "56" : 4.0,
+              "57" : 4.4,
+              "48" : 4.5,
+              "17" : 4.0,
+              "117" : 4.0,
+              "104" : 5.0,
+              "147" : 4.0,
+              "25" : 5.0,
+              "55" : 5.0,
+              "51" : 5.0,
+              "133" : 4.0,
+              "12" : 5.0,
+              "26" : 4.0,
+              "14" : 4.0,
+              "49" : 4.0,
+              "92" : 4.33,
+              "116" : 4.4,
+              "135" : 4.0,
+              "123" : 5.0
+            },
+            "company_size" : {
+              "1-10 employees" : 4.67,
+              "Self-employed" : 5.0,
+              "501-1000 employees" : 4.0,
+              "201-500 employees" : 4.0,
+              "11-50 employees" : 4.4,
+              "51-200 employees" : 4.47
+            }
+          },
+          "vct_enabled" : true,
+          "pricing_plans" : [
+            {
+              "created_on_utc" : "2019-08-21T14:47:39Z",
+              "modified_on_utc" : "2022-04-11T20:39:21Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Basic",
+              "description" : null,
+              "display_order" : 1,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 11.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Per Feature",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [ ]
+            }
+          ],
+          "discount_types" : [ ]
+        }
+      },
+      {
+        "_index" : "product_listings_main_data_upc_vt20220920_043802_utc",
+        "_type" : "_doc",
+        "_id" : "251581_audit",
+        "_score" : 10.080746,
+        "_source" : {
+          "product_id" : 251581,
+          "seo_product_id" : 251581,
+          "seo_slug" : "Qooling",
+          "product_name" : "Qooling",
+          "upc_product_uuid" : "074b8df3-c6eb-49cb-b289-a6d200b5f2c4",
+          "old_product_ids" : [
+            146743
+          ],
+          "product_url" : "https://qooling.com/land/landingspage-quality-management-software-capterra/?utm_source=Capterra&utm_medium=banner&utm_campaign=QHSE&utm_term=Default",
+          "product_slug" : "Qooling",
+          "former_name" : "Qooling",
+          "logo_filepath" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/1fb5e624-2265-4ed0-b0d1-5683eeaa441f.png",
+          "vendor" : {
+            "vendor_id" : 2207431,
+            "vendor_name" : "Qooling",
+            "vendor_url" : "http://www.qooling.com",
+            "year_founded" : 2015,
+            "location" : "Netherlands",
+            "vendor_opted_out_of_reviews" : true,
+            "is_opted_out_of_reviews" : false,
+            "is_hit_limit" : false,
+            "enabled" : true,
+            "has_vendor_level_page" : false,
+            "slug" : null,
+            "vendor_page" : false,
+            "paused_campaign" : false
+          },
+          "category_short_name" : "audit",
+          "category_html_name" : "audit-software",
+          "category" : {
+            "id" : 30664,
+            "short_name" : "audit",
+            "long_name" : "Audit",
+            "html_name" : "audit-software",
+            "enabled" : true
+          },
+          "best_category" : "audit",
+          "is_best_category" : true,
+          "highest_cpc_category" : null,
+          "is_highest_cpc_category" : false,
+          "short_desc" : "Take control of your QHSE management system. All Quality, Safety & Security Management tools on one platform.",
+          "long_desc" : "Companies that comply or are planning to comply with several industry standards such as ISO9001, ISO45001, ISO14001, ISO22001, ISO27001, and the like.\n\nQooling helps companies to build better, safer, and more secure products and services. The platform allows you to easily gather information from production plants or sides through the easy-to-use interface for the people in the field. This gives companies the ability to really leverage the data to improve the company. ",
+          "rating" : 4.5,
+          "number_of_reviews" : 42,
+          "total_reviews" : 42,
+          "ease_of_use_rating" : 4.5,
+          "customer_support_rating" : 4.9,
+          "functionality_rating" : 4.4,
+          "value_for_money_rating" : 4.6,
+          "recommendation_rating" : 9.1,
+          "pricing_enabled" : true,
+          "pricing" : 11.0,
+          "is_per_user" : false,
+          "fee_schedule" : "Per-Month",
+          "pricing_model" : "Per Feature",
+          "pricing_details" : "<h3>Light</h3>\n<h3>€ 12 / Month</h3>\n<p class=\"pricing-zwart\">Per user, paid annually\n€ 14 / Per user, billed monthly</p>\nLight: €14.00/user/month (or €11.00/user/month when billed annually)\n\nStarter: €61.00/user/month (or €58.00/user/month when billed annually)  \n\nAdvanced: €68.00/user/month (or €65.00/user/month when billed annually) \n\nEnterprise: contact Qooling for enterprise pricing information.",
+          "pricing_created_on" : "2019-08-21T14:47:39Z",
+          "pricing_modified_on" : "2022-07-01T07:52:41Z",
+          "pricing_created_by" : null,
+          "pricing_modified_by" : null,
+          "pricing_vendor_pricing_url" : null,
+          "free_trial" : true,
+          "free_version" : true,
+          "target_audience" : "Companies that comply or are planning to comply with several industry standards such as ISO9001, ISO45001, ISO14001, ISO22001, ISO27001, and the like.",
+          "target_users" : [
+            "11-50",
+            "51-200",
+            "201-500",
+            "501-1000",
+            "1000+"
+          ],
+          "platform" : [
+            {
+              "enabled" : true,
+              "name" : "Cloud, SaaS, Web-Based"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Mac"
+            },
+            {
+              "enabled" : true,
+              "name" : "Desktop Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Chromebook"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile Android"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPhone"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPad"
+            }
+          ],
+          "support" : [
+            {
+              "enabled" : true,
+              "name" : "Email Help Desk"
+            },
+            {
+              "enabled" : true,
+              "name" : "FAQ Forum"
+            },
+            {
+              "enabled" : true,
+              "name" : "Knowledgebase"
+            },
+            {
+              "enabled" : true,
+              "name" : "Phone Support"
+            },
+            {
+              "enabled" : true,
+              "name" : "24/7 Live Rep"
+            },
+            {
+              "enabled" : true,
+              "name" : "Chat"
+            }
+          ],
+          "training" : [
+            {
+              "enabled" : false,
+              "name" : "Not Offered"
+            },
+            {
+              "enabled" : true,
+              "name" : "In-Person"
+            },
+            {
+              "enabled" : true,
+              "name" : "Live Online"
+            },
+            {
+              "enabled" : true,
+              "name" : "Webinars"
+            },
+            {
+              "enabled" : true,
+              "name" : "Documentation"
+            },
+            {
+              "enabled" : true,
+              "name" : "Videos"
+            }
+          ],
+          "media" : [
+            {
+              "product_id" : 251581,
+              "vendor_id" : 2207431,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/2414ee33-70fc-4036-a07b-e87e86246ae3.png",
+              "caption" : "Audit planning",
+              "weight" : 1,
+              "short_name" : "audit"
+            },
+            {
+              "product_id" : 251581,
+              "vendor_id" : 2207431,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/7f9ea338-56a1-4b6f-ba4d-e7a1a5369225.png",
+              "caption" : "Registers",
+              "weight" : 2,
+              "short_name" : "audit"
+            },
+            {
+              "product_id" : 251581,
+              "vendor_id" : 2207431,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/fb8e8f26-cbfd-4008-80b8-72baf077d369.png",
+              "caption" : "Procedures",
+              "weight" : 3,
+              "short_name" : "audit"
+            },
+            {
+              "product_id" : 251581,
+              "vendor_id" : 2207431,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/21e341f3-3675-403a-9ead-a7e6d1af3fed.png",
+              "caption" : "Dashboard",
+              "weight" : 4,
+              "short_name" : "audit"
+            },
+            {
+              "product_id" : 251581,
+              "vendor_id" : 2207431,
+              "media_type" : "VIDEO",
+              "path_url" : "https://vimeo.com/535774059",
+              "caption" : null,
+              "weight" : 0,
+              "short_name" : "audit"
+            }
+          ],
+          "links" : [
+            {
+              "product_id" : 251581,
+              "functional_group" : "audit",
+              "html_code" : "https://qooling.com/land/landingspage-quality-management-software-capterra/?utm_source=Capterra&utm_medium=banner&utm_campaign=QHSE&utm_term=Default",
+              "link_name" : "Free Demo",
+              "link_priority" : 2.0
+            },
+            {
+              "product_id" : 251581,
+              "functional_group" : "audit",
+              "html_code" : "https://www.qooling.com/pricing?utm_source=Capterra&utm_medium=banner&utm_campaign=QHSE&utm_term=Default",
+              "link_name" : "Pricing",
+              "link_priority" : 3.0
+            }
+          ],
+          "features" : [
+            {
+              "category_name" : "Audit",
+              "category_features" : [
+                {
+                  "name" : "Alerts/Notifications",
+                  "value" : true,
+                  "id" : "aef68b72-bd4c-4797-ae8c-4735512de81a",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Alerts/notifications within the system "
+                },
+                {
+                  "name" : "Asset Tracking",
+                  "value" : false,
+                  "id" : "7a68e3da-4795-4a26-8f60-a10726bd67bf",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Monitor assets (i.e. equipment, tools, software, hardware, etc.) lifecycle and usage from acquisition to retirement "
+                },
+                {
+                  "name" : "Audit Planning",
+                  "value" : false,
+                  "id" : "ae02a5c1-98bc-45da-a67b-97342f5ab495",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Create a targeted plan, schedule resources, and determine long-term goals for the audit process"
+                },
+                {
+                  "name" : "Compliance Management",
+                  "value" : true,
+                  "id" : "067f6bae-1749-483f-ac79-6c2c3c4114c8",
+                  "avg_rating" : 4.7,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 2.33,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.333,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Track and manage non-adherence to policies in a service, product, process, or supplier behavior"
+                },
+                {
+                  "name" : "Dashboard",
+                  "value" : false,
+                  "id" : "bc649e89-65ca-4012-976f-193e4a4ae7d8",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "An assembly of graphs and charts for tracking statistics and metrics "
+                },
+                {
+                  "name" : "Forms Management",
+                  "value" : true,
+                  "id" : "c94daf16-4321-4c74-9f8b-ef78a3efff2b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Organize, store and distribute forms and form templates in a centralized location "
+                },
+                {
+                  "name" : "Issue Management",
+                  "value" : true,
+                  "id" : "c17d93b9-938a-481b-9b97-2d7619392ed5",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Identify and respond to unexpected problems or failures "
+                },
+                {
+                  "name" : "Mobile Access",
+                  "value" : false,
+                  "id" : "15d49235-ad13-4d33-b009-edd50126375b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Access the software remotely via mobile devices"
+                },
+                {
+                  "name" : "Risk Assessment",
+                  "value" : true,
+                  "id" : "2f19c4d6-3603-4e7f-a065-732fa92a5611",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Initiate collection and analysis of key information pertaining to enterprise risk"
+                },
+                {
+                  "name" : "Task Management",
+                  "value" : true,
+                  "id" : "82ce67d3-ac09-49d0-ae71-5e6401e3e26b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "A running list of action items and their respective status "
+                },
+                {
+                  "name" : "Workflow Management",
+                  "value" : true,
+                  "id" : "c4c63af2-2e9e-4f8b-b965-20e94a16a8b9",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Create, design, and automate processes within the software"
+                }
+              ]
+            },
+            {
+              "category_name" : "Corrective and Preventive Action",
+              "category_features" : [
+                {
+                  "name" : "Audit Management",
+                  "value" : true,
+                  "id" : "f8952cde-adc7-4255-a812-5636017723f5",
+                  "avg_rating" : 3.8,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 0.667,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.667,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Change Management",
+                  "value" : true,
+                  "id" : "88690ea4-3a57-4107-8f87-e663ec585c55",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 1.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Complaint Management",
+                  "value" : true,
+                  "id" : "690eeecf-ae80-49d6-a457-ad2d89186ad1",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Corrective and Preventive Actions (CAPA)",
+                  "value" : true,
+                  "id" : "e0db5d46-8bc5-4e96-a473-5135f548980f",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Incident Management",
+                  "value" : true,
+                  "id" : "14c6e4ea-d58a-4310-a2a5-6dee917c8da5",
+                  "avg_rating" : 4.3,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 0.667,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Nonconformance Tracking",
+                  "value" : true,
+                  "id" : "a1af50cf-b2aa-494f-a845-497b56f044d6",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Quality Control",
+                  "value" : true,
+                  "id" : "5aaa1957-06d1-478a-ad00-ee2015e9703d",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Risk Management",
+                  "value" : true,
+                  "id" : "2d25bc40-8517-4799-8a87-4d979c453d38",
+                  "avg_rating" : 3.5,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 0.333,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Identify, evaluate, mitigate, and report on risk"
+                },
+                {
+                  "name" : "Root Cause Analysis",
+                  "value" : true,
+                  "id" : "26c7fa01-a3b8-4152-adac-525a98a774b6",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Identify and analyse the reasons behind accidents"
+                },
+                {
+                  "name" : "Training Management",
+                  "value" : true,
+                  "id" : "4dc3a3c0-246c-4a15-8750-fa294c8ff58a",
+                  "avg_rating" : 3.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 1.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Track employee's progression through training programs "
+                }
+              ]
+            },
+            {
+              "category_name" : "Equipment Maintenance",
+              "category_features" : [
+                {
+                  "name" : "Equipment Tracking",
+                  "value" : false,
+                  "id" : "ecdad4ff-5e6c-409c-9ea2-dfb8d1548dbd",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Track the location of specific equipment at all times"
+                },
+                {
+                  "name" : "Inventory Control",
+                  "value" : false,
+                  "id" : "0314b703-d4f8-4465-af7a-e1c6c3b3721e",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Monitor product stock levels"
+                },
+                {
+                  "name" : "Job Management",
+                  "value" : false,
+                  "id" : "df7dfb70-67b4-4f9f-98e1-3399a184c3ac",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Manage all job information in one place"
+                },
+                {
+                  "name" : "Maintenance Scheduling",
+                  "value" : false,
+                  "id" : "8972370a-cc7f-424f-bf4a-e2242c28d46b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Schedule predetermined or ad hoc maintenance services and labor requests"
+                },
+                {
+                  "name" : "Warranty Tracking",
+                  "value" : false,
+                  "id" : "cedf81f6-c1a9-4c07-a291-d396a7321440",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track the duration and expiration of warranty as well as any obligations by the company under that warranty"
+                },
+                {
+                  "name" : "Work Order Management",
+                  "value" : false,
+                  "id" : "2caace3e-d52a-4874-bb04-d700557cf547",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Create work orders and track their status to completion"
+                }
+              ]
+            }
+          ],
+          "infographics" : [ ],
+          "related_products" : [
+            {
+              "product_id" : 142562,
+              "seo_product_id" : 152499,
+              "seo_slug" : "Asset-Panda",
+              "vendor_name" : "Asset Panda",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/0fc62cea-a7a8-4449-a507-2a6bfeadbb6d.png",
+              "rating" : 4.6,
+              "total_reviews" : 1316,
+              "slug" : "Asset-Panda",
+              "product_name" : "Asset Panda",
+              "short_desc" : "Audit/Asset tracking platform that is cloud-based with mobile apps.  Rated as Excellent by PC Mag! Get a free guided demo today!",
+              "features" : "Asset Panda is a powerful Cloud/Mobile App asset tracking platform with robust Audit capability. We help people track, manage and audit their assets. Our software is configured to the way our clients work, secure and leverages the mobile devices your employees carry. Features: Check In/Out, Barcode scan, parent/child, robust reporting, full life cycle management, depreciation, API, role based security and much more. Unlimited Users. Get a free guided demo today!",
+              "url" : "https://info.assetpanda.com/capterra-lp?utm_medium=cpc&utm_campaign=audit&dc=audit"
+            },
+            {
+              "product_id" : 148032,
+              "seo_product_id" : 225284,
+              "seo_slug" : "Suralink",
+              "vendor_name" : "Suralink",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/cbcaed49-581c-45b9-89ee-0df7704aa760.png",
+              "rating" : 4.7,
+              "total_reviews" : 390,
+              "slug" : "Suralink",
+              "product_name" : "Suralink",
+              "short_desc" : "Simplify the audit process while improving the client experience through automated PBC request list and document management.",
+              "features" : "Suralink is the leader in PBC request list management, helping accounting firms simplify the audit documentation process while improving the client experience. Our cloud-based application integrates a dynamic PBC request list and assignment workflow with a secure file hosting platform to give clients access to an easy-to-use, all-in-one portal. Our technology and industry expertise help more than 400 of the leading firms in North America and the UK ensure a simpler, more secure audit process.",
+              "url" : "https://hubs.ly/H0lX8JT0"
+            },
+            {
+              "product_id" : 143579,
+              "seo_product_id" : 153259,
+              "seo_slug" : "SiteDocs",
+              "vendor_name" : "SiteDocs",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/fba26a47-0f1e-4b2d-bb00-ad8955dbb351.png",
+              "rating" : 4.8,
+              "total_reviews" : 192,
+              "slug" : "SiteDocs",
+              "product_name" : "SiteDocs",
+              "short_desc" : "Complete all your safety forms and documents on mobile devices from the field. Login online to track and monitor safety activity.",
+              "features" : "Most intuitive Safety Software with world class Analytics and In-App Chat.\r\n\r\nThe easiest way to manage your entire safety program from mobile apps and the web. SiteDocs features a custom form builder, PDF document library, worker certification management, offline-mode, and more. SiteDocs will help you easily manage your safety program while saving you time and helping you maintain the highest standard of safety possible.",
+              "url" : "https://www.sitedocs.com/choose-sitedocs/"
+            },
+            {
+              "product_id" : 141080,
+              "seo_product_id" : 227139,
+              "seo_slug" : "iAuditor",
+              "vendor_name" : "SafetyCulture",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/cca7c6ce-12b6-4f62-8741-b860d5dcda18.png",
+              "rating" : 4.6,
+              "total_reviews" : 179,
+              "slug" : "iAuditor",
+              "product_name" : "iAuditor",
+              "short_desc" : "iAuditor is a simpler way to get the information you need to drive safety, quality, and efficiency, all in one place. ",
+              "features" : "Safety is now a core component of brand reputation across every industry. Everyone has the right to expect a safe experience so businesses must prioritise the safety of their people and customers, with clear lines of communication that make everyone an active participant. With iAuditor you can share inspection reports with your stakeholders and other teams just by clicking a button. This commitment of adopting a safety culture holds the key to getting the world safely back to business.",
+              "url" : "https://safetyculture.com/lp/iauditor/?utm_medium=CPC&utm_campaign=Capterra_PPC&utm_content=Inspection&dynamic-text=Audit%20Software"
+            },
+            {
+              "product_id" : 164872,
+              "seo_product_id" : 224612,
+              "seo_slug" : "Netwrix-Auditor",
+              "vendor_name" : "Netwrix",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/a8bee22c-2e69-4697-8712-5871b38862f3.png",
+              "rating" : 4.5,
+              "total_reviews" : 141,
+              "slug" : "Netwrix-Auditor",
+              "product_name" : "Netwrix Auditor",
+              "short_desc" : "Gain complete visibility and control over changes, access and configurations in your IT infrastructure.",
+              "features" : "Netwrix Auditor gives you full control over what's going on in your hybrid IT environment. By delivering actionable intelligence about risks and activity around your sensitive data, Netwrix Auditor empowers you to reduce your attack surface, spot threats before major damage is done, and also get auditors off your back faster.",
+              "url" : "https://www.netwrix.com/auditor.html?cID=7010g000001MSzB&sID=capterra_audit&utm_source=capterra&utm_medium=cpc&utm_campaign=audit"
+            },
+            {
+              "product_id" : 102848,
+              "seo_product_id" : 41970,
+              "seo_slug" : "Quality-Management-Software",
+              "vendor_name" : "Cority",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/dec9a0d8-dc42-4113-90b8-582dc190a733.png",
+              "rating" : 4.3,
+              "total_reviews" : 81,
+              "slug" : "EHS-Management-Software",
+              "product_name" : "Cority",
+              "short_desc" : "The Most Comprehensive and Secure SaaS Platform to Manage EHSQ Audits and Inspections Across Departments, Sites, Regions or the Globe.",
+              "features" : "Cority Audit Management Software is developed by accredited safety professionals in order to help manage all aspects of their audit and inspection programs. Safety professionals can set up inspection programs to help identify and control risks and comply with legal and other requirements.Track status of all findings and actions related to a specific audit or group of audits.\n",
+              "url" : "https://go.cority.com/cority-audit-management-capterra/?pi_campaign_id=28361&utm_source=capterra"
+            },
+            {
+              "product_id" : 41970,
+              "seo_product_id" : 41970,
+              "seo_slug" : "Quality-Management-Software",
+              "vendor_name" : "Cority",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/dec9a0d8-dc42-4113-90b8-582dc190a733.png",
+              "rating" : 4.3,
+              "total_reviews" : 81,
+              "slug" : "Quality-Management-Software",
+              "product_name" : "Cority",
+              "short_desc" : "The Most Comprehensive and Secure SaaS Platform to Manage EHSQ Audits and Inspections Across Departments, Sites, Regions or the Globe.",
+              "features" : "Cority Audit Management Software is developed by accredited safety professionals in order to help manage all aspects of their audit and inspection programs. Safety professionals can set up inspection programs to help identify and control risks and comply with legal and other requirements.Track status of all findings and actions related to a specific audit or group of audits.\n",
+              "url" : "https://www.iqs.com/quality-management-software-solutions-capterra/"
+            },
+            {
+              "product_id" : 161279,
+              "seo_product_id" : 254818,
+              "seo_slug" : "Highbond",
+              "vendor_name" : "Diligent",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/57f93636-1464-4fa1-8f4c-5347264a44f5.png",
+              "rating" : 4.5,
+              "total_reviews" : 79,
+              "slug" : "Highbond",
+              "product_name" : "HighBond",
+              "short_desc" : "Easy-to-use software for audit professionals to efficiently manage the entire audit workflow. ",
+              "features" : "Diligent HighBond offers a flexible audit management solution designed to drive efficiency across your entire audit workflow, from planning to reporting. Whether your team is transitioning from paper-based methods and spreadsheets, adopting agile auditing methodologies, or maturing into an integrated risk-driven audit function, HighBond is designed to scale with you.",
+              "url" : "https://www.diligent.com/request-a-demo/?uRLBrand=Galvanize&utm_campaign=IAM-GL-Capterra-2022-Diligent_Highbond&utm_medium=review-site&utm_source=capterra"
+            },
+            {
+              "product_id" : 136904,
+              "seo_product_id" : 236980,
+              "seo_slug" : "Tipalti",
+              "vendor_name" : "Tipalti",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/5b5fc1ce-4d2f-42e0-9fcc-b69917a3c845.png",
+              "rating" : 4.6,
+              "total_reviews" : 74,
+              "slug" : "Tipalti",
+              "product_name" : "Tipalti",
+              "short_desc" : "Complete payables automation, eliminating the manual processes related to paying suppliers and partners.",
+              "features" : "The world's leading payables automation solution, for accounts payable and global partner payments. Eliminating 80% of manual payables work and accelerating financial close by 25%.\n\nTiplati enables you to onboard suppliers, partners and freelancers with ease, eliminate invoice entry with fast OCR processing and make global payments to 190 countries in local currency. Also includes global tax compliance, 2 & 3 way PO matching, multi-entity support and ERP integrations and accounting systems.",
+              "url" : "https://tipalti.com/capterra-ptr/?utm_campaign=audit&utm_medium=directory&utm_content=aplp&utm_source=capterra"
+            },
+            {
+              "product_id" : 150242,
+              "seo_product_id" : 226512,
+              "seo_slug" : "Benchmark-ESG-tm--Gensuite",
+              "vendor_name" : "Benchmark ESG | Gensuite",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/813ee0eb-3f64-44bc-aaa5-1f91acf8df83.png",
+              "rating" : 4.3,
+              "total_reviews" : 74,
+              "slug" : "Gensuite",
+              "product_name" : "Benchmark Risk + Compliance",
+              "short_desc" : "Benchmark ESG Audit Management Software simplifies inspections, regulatory compliance, follow-up processes, and corrective actions.",
+              "features" : "Benchmark ESG | Gensuite's award-winning Audit Management Software simplifies regulatory compliance and audit inspection processes using a digital, collaborative approach. The audit solution streamlines program requirements through an integrated suite of auditing, inspection and corrective action tracking tools with robust analytics and actionable insights. Mobile capabilities ease collaboration amongst teams for optimal success of your audit processes and program. ",
+              "url" : "https://www.benchmarkdigitalesg.com/lp-audit-management-software-2/?utm_source=gartner&utm_medium=cpc&utm_campaign=22Mktg_RISK_EV_Gartner&utm_term=audit"
+            },
+            {
+              "product_id" : 141558,
+              "seo_product_id" : 224427,
+              "seo_slug" : "DoneSafe",
+              "vendor_name" : "HSI",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/dcfe7d26-aa11-4f17-846b-f15873af641e.jpeg",
+              "rating" : 4.8,
+              "total_reviews" : 67,
+              "slug" : "DoneSafe",
+              "product_name" : "HSI Donesafe",
+              "short_desc" : "#1 Audit Management platform to solve ALL your requirements. Simple for workers to use, simple for managers to customize.",
+              "features" : "#1 Audit Management Software solution that connects your management system from your visitors to your internal management team. Donesafe makes it fast and easy to access, enter and report visitor data in real time. Donesafe is a modern & fresh platform with end to end functionality. It works online with any device, including offline with native iOS and Android apps. Use our out-of-the-box templates or configure to align with your specific requirements. Try now.",
+              "url" : "https://hseq.donesafe.com/audit-management-software/?leadsourcelvl1=MKT+-+Reputational&leadsourcelvl2=Capterra&leadsourcelvl3=Audit+Management"
+            }
+          ],
+          "similar_products" : [
+            {
+              "product_id" : 148230,
+              "seo_product_id" : 226970,
+              "seo_slug" : "AuditBoard",
+              "vendor_name" : "AuditBoard",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/f90b1c23-0699-46af-9f25-3b4a1a026c7f.png",
+              "rating" : 4.7,
+              "total_reviews" : 57,
+              "slug" : "SOXHUB",
+              "product_name" : "AuditBoard",
+              "short_desc" : "AuditBoard transforms how audit, risk, and compliance professionals manage today's risk landscape with a modern, connected platform. ",
+              "features" : "AuditBoard is the leading cloud-based platform transforming audit, risk, and compliance management. More than 35% of the Fortune 500 leverage AuditBoard to move their businesses forward with greater clarity and agility. AuditBoard is top-rated by customers on G2, Capterra, and Gartner Peer Insights, and was recently ranked for the third year in a row as one of the fastest-growing technology companies in North America by Deloitte. ",
+              "url" : "https://info.auditboard.com/cap-gen/"
+            },
+            {
+              "product_id" : 138931,
+              "seo_product_id" : 225357,
+              "seo_slug" : "Onspring",
+              "vendor_name" : "Onspring",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/9c49b967-6de7-40bf-be05-ae883ec3ded8.png",
+              "rating" : 4.7,
+              "total_reviews" : 50,
+              "slug" : "Audit-Software",
+              "product_name" : "Onspring",
+              "short_desc" : "Onspring's Audit software puts you in control of the entire IA process. User-friendly, easy setup & flexible to fit custom processes.",
+              "features" : "Onspring helps you stay organized, work efficiently, align with the IIA standards and focus on what matters. Through our cloud-based internal audit software, you can align audit plans with your organization's most significant risks and objectives. Manage workpapers, findings, review notes and milestones through user-friendly dashboards. Coordinate with process owners, management and other assurance functions, and report audit status and results in real-time. ",
+              "url" : "https://onspring.com/capterra/grc-management-demo-request/?utm_source=capterra&utm_medium=cpc&utm_campaign=GRC-Capterra&utm_content=free-demo"
+            },
+            {
+              "product_id" : 202536,
+              "seo_product_id" : 202536,
+              "seo_slug" : "Hyperproof",
+              "vendor_name" : "Hyperproof",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/a4b246e6-8b10-40ee-badd-68207464444e.png",
+              "rating" : 4.6,
+              "total_reviews" : 14,
+              "slug" : "Hyperproof",
+              "product_name" : "Hyperproof",
+              "short_desc" : "Hyperproof simplifies audit management with easy task management, automated evidence collection, and audit preparedness tracking.",
+              "features" : "Hyperproof, cloud-based GRC audit software is purpose-built to manage your ongoing compliance operations at scale. Hyperproof brings efficiency to compliance with pre-built frameworks templates to get started quickly, automated evidence collection and testing, task management to streamline team collaboration, and audit preparedness to ensure you are always ready for your auditor. Remove the repetitive work related to compliance and focus on strategic efforts instead with the power of Hyperproof.",
+              "url" : "https://hyperproof.io"
+            },
+            {
+              "product_id" : 133308,
+              "seo_product_id" : 226539,
+              "seo_slug" : "FORMcom",
+              "vendor_name" : "WorldAPP ",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/6b177b18-5061-4d31-ab9f-1a2ac4c334ca.png",
+              "rating" : 4.5,
+              "total_reviews" : 28,
+              "slug" : "Forms-Automation-Software",
+              "product_name" : "FORM OpX",
+              "short_desc" : "Fortune 500 teams use FORM OpX to audit and improve compliance and drive the right action with digital forms, workflows, and reporting.",
+              "features" : "Fortune 500 teams use FORM OpX to audit and improve compliance to standards and drive the right action with digital forms, workflows, and reporting. Configure and assign audits and collect data and photos on mobile. Track compliance with conditional logic and scoring, then trigger corrective/preventative actions, workflows, and task reassignment across systems. Set alerts, automate notifications, and work in offline mode. Share insights and make better decisions with mobile and desktop reports.",
+              "url" : "https://www.form.com/?utm_source=capterra&utm_medium=referral&utm_campaign=cp_form_default&utm_term=default"
+            },
+            {
+              "product_id" : 171715,
+              "seo_product_id" : 171715,
+              "seo_slug" : "Audit-Prodigy",
+              "vendor_name" : "Audit Prodigy",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/78a841a3-e556-40cc-a718-34a5617a6b47.png",
+              "rating" : 4.7,
+              "total_reviews" : 12,
+              "slug" : "Audit-Prodigy",
+              "product_name" : "Audit Prodigy",
+              "short_desc" : "Ease of spreadsheets and features of major GRC tools. \n\nPowerfully simple SaaS platform built by CAEs/CFOs. Perfect for mid-size teams.",
+              "features" : "Integrated SOX, ERM, Internal Audit, Team Scheduling, Project Management, Flowcharts, Issue, Task, Document and Certifications Management. Live dashboards and reports.\n\n* Built by CAEs / CFOs\n* Exceptional Ease-of-Use: 4 hours training | 2-weeks Go-Live\n* Best-in-Industry Support \n\nPerfect for mid-size teams. Easy step-up from spreadsheets / sharepoint / emails. \n\n https://www.youtube.com/watch?v=O23qXIs1AhY&t=1s",
+              "url" : "https://info.gartnerdigitalmarkets.com/auditprodigy-gdm-lp/?directory=audit"
+            },
+            {
+              "product_id" : 148648,
+              "seo_product_id" : 225930,
+              "seo_slug" : "LogicGate",
+              "vendor_name" : "LogicGate",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/0ea5b5ff-dcbf-4e53-b955-453bddd1ca29.jpeg",
+              "rating" : 4.7,
+              "total_reviews" : 29,
+              "slug" : "LogicGate",
+              "product_name" : "Risk Cloud",
+              "short_desc" : "With Risk Cloud, you can save time and resources by having one centralized source of truth and automating workflows and manual tasks.  ",
+              "features" : "Managing audit and control procedures can be time-consuming and tedious, especially when they're scattered throughout spreadsheets and email. With LogicGate Risk Cloud, you can save time and resources by having one centralized source of truth and automating workflows and manual tasks.  \n",
+              "url" : "https://www.logicgate.com/capterra-risk-management/?utm_source=capterra&utm_medium=cpc&utm_term=erm&utm_campaign=risk-mgmt"
+            },
+            {
+              "product_id" : 151388,
+              "seo_product_id" : 151388,
+              "seo_slug" : "StandardFusion",
+              "vendor_name" : "StandardFusion",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/7ee6554b-0e22-4897-a19f-00248bca7f21.png",
+              "rating" : 4.9,
+              "total_reviews" : 10,
+              "slug" : "StandardFusion",
+              "product_name" : "StandardFusion",
+              "short_desc" : "Shorten audits from weeks to days by building your unique audit processes within the platform so you can focus on driving revenue.",
+              "features" : "Shorten auditing times from weeks to days, with high confidence and direct access to evidence. Build your unique audit processes within the platform and easily standardize them across multiple standards including ISO, SOC, NIST, HIPPA, PCI DSS, FedRAMP, GDPR, and more. On-premise or in the cloud, StandardFusion makes GRC easy so you can focus on driving revenue.",
+              "url" : "https://www.standardfusion.com/?utm_medium=cpc&utm_campaign=product%20listings&utm_source=gartner&utm_content=destination"
+            },
+            {
+              "product_id" : 150242,
+              "seo_product_id" : 226512,
+              "seo_slug" : "Benchmark-ESG-tm--Gensuite",
+              "vendor_name" : "Benchmark ESG | Gensuite",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/813ee0eb-3f64-44bc-aaa5-1f91acf8df83.png",
+              "rating" : 4.3,
+              "total_reviews" : 74,
+              "slug" : "Gensuite",
+              "product_name" : "Benchmark Risk + Compliance",
+              "short_desc" : "Benchmark ESG Audit Management Software simplifies inspections, regulatory compliance, follow-up processes, and corrective actions.",
+              "features" : "Benchmark ESG | Gensuite's award-winning Audit Management Software simplifies regulatory compliance and audit inspection processes using a digital, collaborative approach. The audit solution streamlines program requirements through an integrated suite of auditing, inspection and corrective action tracking tools with robust analytics and actionable insights. Mobile capabilities ease collaboration amongst teams for optimal success of your audit processes and program. ",
+              "url" : "https://benchmarkdigitalesg.com/contact-us/?utm_source=gartner&utm_medium=cpc&utm_campaign=22Mktg_EV_Gartner&utm_term=contact-us"
+            },
+            {
+              "product_id" : 210774,
+              "seo_product_id" : 223010,
+              "seo_slug" : "ManageEngine-ADAudit-Plus",
+              "vendor_name" : "ManageEngine",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4223f3a6-931e-4338-b0bc-a9fd0b954c69.png",
+              "rating" : 4.3,
+              "total_reviews" : 39,
+              "slug" : "ADAudit-Plus",
+              "product_name" : "ManageEngine ADAudit Plus",
+              "short_desc" : "ADAudit Plus is Active Directory, Azure AD, Windows Server, file server (including NAS devices), and workstation auditing software.",
+              "features" : "ManageEngine ADAudit Plus is an IT security and compliance solution. With over 200 reports and real-time alerts, it provides complete visibility into all the activities across your Active Directory (AD), Azure AD, file servers (Windows, NetApp, EMC, Synology, Hitachi, and Huawei), Windows servers, and workstations. ADAudit Plus helps you track user logon and logoff activity; analyze account lockouts; audit ADFS, ADLDS, and printers; monitor privileged user activities; and do much more.",
+              "url" : "https://www.manageengine.com/products/active-directory-audit/active-directory-auditing-solutions.html?utm_source=Capterra&utm_medium=dest_url&utm_campaign=product_listing_all&capterra_ADAP_ERP_Log360=capterra"
+            },
+            {
+              "product_id" : 147599,
+              "seo_product_id" : 223898,
+              "seo_slug" : "Resolver",
+              "vendor_name" : "Resolver",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/37060b08-f36e-41df-bdd0-beba7fce2b57.png",
+              "rating" : 4.3,
+              "total_reviews" : 38,
+              "slug" : "Resolver",
+              "product_name" : "Resolver",
+              "short_desc" : "Resolver's internal audit software empowers agile, risk-based audits and improves client interactivity to stay ahead of emerging risks.",
+              "features" : "Resolver's internal audit software empowers agile, risk-based audits and improves client interactivity, allowing teams to stay ahead of emerging risks. By automating data sharing with risk and compliance, Resolver ensures auditors can always make decisions off the latest information. Being aware of change is one thing; keeping up is another. Our client portal makes collecting information easy, and our automated workflows ensure your team can maintain assurance when faced with rapid change.",
+              "url" : "https://www.resolver.com/corporate-security-software/incident-management/?utm_source=capterra&utm_medium=directory&utm_campaign=inv-demo"
+            },
+            {
+              "product_id" : 144165,
+              "seo_product_id" : 144165,
+              "seo_slug" : "Enterprise-EHS-on-SharePoint",
+              "vendor_name" : "Pro-Sapien",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/48879e5f-770e-42c0-bdeb-973220bfdaad.png",
+              "rating" : 5.0,
+              "total_reviews" : 6,
+              "slug" : "Enterprise-EHS-on-SharePoint",
+              "product_name" : "Pro-Sapien EHS Software on Microsoft 365",
+              "short_desc" : "The Audit Software on Microsoft 365. Bring EHS Into The Everyday with Teams, SharePoint & Power BI. Best Suited to 1,000+ Employees.",
+              "features" : "Discover the Audit Software on Microsoft 365. Best Suited to Enterprises with 1,000+ Employees. \n\nSeamless integration with SharePoint, Teams & Power BI lets everyone spend less time on admin and more time on things that matter.\n\nConfigured to you, Pro-Sapien brings Environmental, Health & Safety (EHS) Auditing to the Microsoft apps you use everyday. \n\nIdentify and fix issues early with a flexible audit form, approval workflow, actions & KPI reporting.\n\nGet in touch or view a demo today!",
+              "url" : "https://www.pro-sapien.com/landing/ehs-software/?utm_medium=ppc"
+            },
+            {
+              "product_id" : 141080,
+              "seo_product_id" : 227139,
+              "seo_slug" : "iAuditor",
+              "vendor_name" : "SafetyCulture",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/cca7c6ce-12b6-4f62-8741-b860d5dcda18.png",
+              "rating" : 4.6,
+              "total_reviews" : 179,
+              "slug" : "iAuditor",
+              "product_name" : "iAuditor",
+              "short_desc" : "iAuditor is a simpler way to get the information you need to drive safety, quality, and efficiency, all in one place. ",
+              "features" : "Safety is now a core component of brand reputation across every industry. Everyone has the right to expect a safe experience so businesses must prioritise the safety of their people and customers, with clear lines of communication that make everyone an active participant. With iAuditor you can share inspection reports with your stakeholders and other teams just by clicking a button. This commitment of adopting a safety culture holds the key to getting the world safely back to business.",
+              "url" : "https://safetyculture.com/lp/iauditor/"
+            },
+            {
+              "product_id" : 215426,
+              "seo_product_id" : 215426,
+              "seo_slug" : "monitorQA",
+              "vendor_name" : "monitorQA",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e5b2df63-599d-446c-bdf3-87fa9274ca45.jpeg",
+              "rating" : 0.0,
+              "total_reviews" : 0,
+              "slug" : "monitorQA",
+              "product_name" : "monitorQA",
+              "short_desc" : "monitorQA is collaborative and affordable audit software that simplifies how you collect, track, and use data about your operations.",
+              "features" : "monitorQA is mobile audit software used by companies that require compliance with operational (health, safety, and quality) standards and processes.\n\nCompanies use monitorQA to create smart, industry-specific checklists, conduct on-site inspections, analyze data, and share operational insights in real-time to create a collaborative inspection process that enhances visibility for corrective actions at individual locations, across regions, or the entire company.",
+              "url" : "https://www.monitorqa.com"
+            }
+          ],
+          "related_categories" : [
+            {
+              "functional_group" : "audit",
+              "long_name" : "Accounting",
+              "html_name" : "accounting-software",
+              "link_name" : "accounting",
+              "product_count" : 240,
+              "meta_description" : "Find and compare top Accounting software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Accounting tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/accounting-software\">Accounting software</a> automates an organization's financial functions and transactions with modules including accounts payable, accounts receivable, payroll, billing and general ledger.  Integration of Accounting applications allows for comprehensive, real-time, on-demand analysis of an organization's financial status.  Toolsets within Accounting solutions can often be customized to the specific needs of an organization.  <a href=\"/accounting-software\">Accounting software</a> is related to <a href=\"/audit-software\">Audit software</a>, <a href=\"/billing-and-invoicing-software\">Billing and Invoicing software</a>, <a href=\"/compliance-software\">Compliance software</a> and <a href=\"/financial-reporting-software\">Financial Reporting software</a>."
+            },
+            {
+              "functional_group" : "audit",
+              "long_name" : "Compliance",
+              "html_name" : "compliance-software",
+              "link_name" : "compliance",
+              "product_count" : 219,
+              "meta_description" : "Find and compare top Compliance software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Compliance tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs.",
+              "description" : "<a href=\"/compliance-software\">Compliance software</a> enables an organization to monitor internal controls to ensure that standards and regulations are met.  Compliance solutions that focus on financial and accounting compliance standards, such as the Sarbanes-Oxley Act of 2002, help organizations streamline financial documentation, audit trails, and reporting.  Compliance solutions that focus on environmental compliance standards help organizations monitor and report on emissions, hazmat procedures, and regulatory policies.  <a href=\"/compliance-software\">Compliance software</a> is related to <a href=\"/accounting-software\">Accounting software</a>, and <a href=\"/ehs-management-software\">EHS Management software</a>."
+            },
+            {
+              "functional_group" : "audit",
+              "long_name" : "Financial Reporting",
+              "html_name" : "financial-reporting-software",
+              "link_name" : "financial-reporting",
+              "product_count" : 104,
+              "meta_description" : "Find and compare top Financial Reporting software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Financial Reporting tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/financial-reporting-software>Financial <a href=/reporting-software>Reporting software</a></a> automates the task of reporting an organization's financial results, status and transactions.  Financial Reporting applications help organizations control and increase operational efficiencies. These solutions provide the ability to collect, translate and consolidate data from various systems and geographic locations.  <a href=/financial-reporting-software>Financial <a href=/reporting-software>Reporting software</a></a> is related to <a href=/accounting-software>Accounting software</a>, <a href=/budgeting-software>Budgeting software</a>, <a href=/business-performance-management-software>Business Performance Management software</a> and <a href=/compliance-software>Compliance software</a>."
+            },
+            {
+              "functional_group" : "audit",
+              "long_name" : "Financial Risk Management",
+              "html_name" : "financial-risk-management-software",
+              "link_name" : "financial-risk-management",
+              "product_count" : 147,
+              "meta_description" : "Find and compare top Financial Risk Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Financial Risk Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/financial-risk-management-software>Financial Risk Management software</a> monitors and evaluates market risk and credit risk for financial institutions. These applications automate portfolio management and incorporate accounting features as well as trade and asset tracking systems and regulatory <a href=\"/compliance-software\">compliance</a> management, enabling increased efficiency and revenue optimization.  <a href=/financial-risk-management-software>Financial Risk Management software</a> is related to <a href=/risk-management-software>Risk Management software</a>, <a href=/banking-systems-software>Banking Systems software</a>, <a href=/investment-management-software>Investment Management software</a>, <a href=/loan-origination-software>Loan Origination software</a> and <a href=/loan-servicing-software>Loan Servicing software</a>."
+            },
+            {
+              "functional_group" : "audit",
+              "long_name" : "HIPAA Compliance",
+              "html_name" : "hipaa-compliance-software",
+              "link_name" : "hipaa-compliance",
+              "product_count" : null,
+              "meta_description" : "Find and compare top HIPAA Compliance software on Capterra, with our free and interactive tool. Quickly browse through hundreds of HIPAA Compliance tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "HIPAA Compliance Software allows medical practices to ensure compliance with federal HIPAA regulations. These solutions help keep patients' Protected Health Information secure, and can also provide risk management, compliance, and audit planning."
+            },
+            {
+              "functional_group" : "audit",
+              "long_name" : "Risk Management",
+              "html_name" : "risk-management-software",
+              "link_name" : "risk-management",
+              "product_count" : 76,
+              "meta_description" : "Find and compare top Risk Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Risk Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/risk-management-software\">Risk Management software</a> helps organizations reduce exposure to enterprise and operational risks, improving quality and minimizing losses through better management of data. These solutions track incidents, facilitate evaluation of corrective actions, monitor enterprise-level performance, and promote compliance. <a href=\"/business-intelligence-software\">Business intelligence</a> and exception management are typical features of <a href=\"/risk-management-software\">Risk Management software</a>. For related software solutions see <a href=\"/financial-risk-management-software\">Financial Risk Management software</a> and <a href=\"/compliance-software\">Compliance software</a>."
+            }
+          ],
+          "is_upgraded" : false,
+          "enabled" : true,
+          "filter_options" : {
+            "users" : 124,
+            "platform" : 901,
+            "pricing_options" : 26,
+            "category_related_features" : [
+              36288,
+              36413,
+              36509,
+              40493,
+              40494,
+              40495,
+              40496,
+              60082,
+              60083,
+              60084,
+              60085,
+              60086,
+              60087,
+              60088,
+              60090,
+              60091,
+              60092,
+              60095,
+              60096,
+              60098,
+              60100,
+              60101,
+              60102,
+              60103,
+              60104,
+              60105,
+              60106,
+              60107,
+              60108,
+              60109,
+              60110,
+              60111,
+              60112,
+              60113,
+              60114,
+              60115,
+              60116,
+              60117,
+              60118,
+              60120
+            ],
+            "employees" : 126
+          },
+          "sort_options" : {
+            "sort_review_rating" : 4.516375541687012,
+            "most_recent_review" : "2022-07-03T13:01:10Z"
+          },
+          "countries" : "AU,US,UK,RO,NZ,NO,NL,LU,IS,IE,CH,BE",
+          "features_tokenized_text" : "alerts/notifications compliance_management forms_management issue_management risk_assessment task_management workflow_management",
+          "platform_tokenized_text" : "cloud,saas,web-based desktopwindows mobileandroid mobileiphone mobileipad",
+          "users_tokenized_text" : "11-50 51-200 201-500 501-1000 1000+",
+          "pricing_tokenized_text" : "monthlysubscription free freetrial",
+          "badges" : [ ],
+          "bid_spot_us" : 0.0,
+          "currency_code" : "EUR",
+          "currency_symbol" : "€",
+          "credit_card_required" : "No",
+          "licensing_model" : "Proprietary",
+          "open_api_offered" : "Yes",
+          "mobile_urls" : [
+            {
+              "name" : "Android",
+              "url" : "https://play.google.com/store/apps/details?id=com.qooling"
+            },
+            {
+              "name" : "iOS",
+              "url" : "https://itunes.apple.com/us/app/qooling/id1162161569?mt=8"
+            }
+          ],
+          "integrations" : [
+            {
+              "id" : "92d31a97-5381-4206-aab7-a6d200b5761e",
+              "name" : "Okta"
+            },
+            {
+              "id" : "873f4e3e-be52-4e01-9baf-a6d200b654f5",
+              "name" : "SAP Business One"
+            },
+            {
+              "id" : "76cf184e-408b-4f63-893f-aa4900d08ede",
+              "name" : "SharePoint Azure AD Connect"
+            },
+            {
+              "id" : "0723a2a9-967b-48c5-88ed-aa4e0030714b",
+              "name" : "AFAS Software"
+            },
+            {
+              "id" : "788bb4d0-9060-4cdb-93ff-a6d200b3f78f",
+              "name" : "FileMaker Pro"
+            }
+          ],
+          "supported_countries" : [
+            {
+              "id" : 32,
+              "code" : "BR",
+              "name" : "Brazil"
+            },
+            {
+              "id" : 41,
+              "code" : "CA",
+              "name" : "Canada"
+            },
+            {
+              "id" : 104,
+              "code" : "IN",
+              "name" : "India"
+            },
+            {
+              "id" : 235,
+              "code" : "GB",
+              "name" : "United Kingdom of Great Britain and Northern Ireland"
+            },
+            {
+              "id" : 14,
+              "code" : "AU",
+              "name" : "Australia"
+            },
+            {
+              "id" : 144,
+              "code" : "MX",
+              "name" : "Mexico"
+            },
+            {
+              "id" : 84,
+              "code" : "DE",
+              "name" : "Germany"
+            },
+            {
+              "id" : 113,
+              "code" : "JP",
+              "name" : "Japan"
+            },
+            {
+              "id" : 237,
+              "code" : "US",
+              "name" : "United States of America"
+            },
+            {
+              "id" : 157,
+              "code" : "NL",
+              "name" : "Netherlands"
+            }
+          ],
+          "supported_languages" : [
+            {
+              "id" : 140,
+              "code" : "nl",
+              "name" : "Dutch",
+              "location" : null
+            },
+            {
+              "id" : 152,
+              "code" : "en",
+              "name" : "English",
+              "location" : null
+            }
+          ],
+          "target_industries" : [
+            {
+              "id" : 62,
+              "code" : "147",
+              "name" : "Industrial Automation"
+            },
+            {
+              "id" : 42,
+              "code" : "63",
+              "name" : "Farming"
+            },
+            {
+              "id" : 102,
+              "code" : "146",
+              "name" : "Packaging and Containers"
+            },
+            {
+              "id" : 98,
+              "code" : "57",
+              "name" : "Oil & Energy"
+            },
+            {
+              "id" : 27,
+              "code" : "24",
+              "name" : "Consumer Electronics"
+            },
+            {
+              "id" : 49,
+              "code" : "26",
+              "name" : "Furniture"
+            },
+            {
+              "id" : 6,
+              "code" : "19",
+              "name" : "Apparel & Fashion"
+            },
+            {
+              "id" : 128,
+              "code" : "7",
+              "name" : "Semiconductors"
+            },
+            {
+              "id" : 14,
+              "code" : "49",
+              "name" : "Building Materials"
+            },
+            {
+              "id" : 12,
+              "code" : "12",
+              "name" : "Biotechnology"
+            },
+            {
+              "id" : 28,
+              "code" : "25",
+              "name" : "Consumer Goods"
+            },
+            {
+              "id" : 87,
+              "code" : "17",
+              "name" : "Medical Devices"
+            },
+            {
+              "id" : 64,
+              "code" : "96",
+              "name" : "Information Technology and Services"
+            },
+            {
+              "id" : 32,
+              "code" : "1",
+              "name" : "Defense & Space"
+            },
+            {
+              "id" : 51,
+              "code" : "145",
+              "name" : "Glass, Ceramics & Concrete"
+            },
+            {
+              "id" : 129,
+              "code" : "58",
+              "name" : "Shipbuilding"
+            },
+            {
+              "id" : 46,
+              "code" : "34",
+              "name" : "Food & Beverages"
+            },
+            {
+              "id" : 139,
+              "code" : "92",
+              "name" : "Transportation/Trucking/Railroad"
+            },
+            {
+              "id" : 108,
+              "code" : "117",
+              "name" : "Plastics"
+            },
+            {
+              "id" : 105,
+              "code" : "15",
+              "name" : "Pharmaceuticals"
+            },
+            {
+              "id" : 84,
+              "code" : "80",
+              "name" : "Marketing and Advertising"
+            },
+            {
+              "id" : 103,
+              "code" : "61",
+              "name" : "Paper & Forest Products"
+            },
+            {
+              "id" : 91,
+              "code" : "56",
+              "name" : "Mining & Metals"
+            },
+            {
+              "id" : 17,
+              "code" : "54",
+              "name" : "Chemicals"
+            },
+            {
+              "id" : 9,
+              "code" : "53",
+              "name" : "Automotive"
+            },
+            {
+              "id" : 78,
+              "code" : "116",
+              "name" : "Logistics and Supply Chain"
+            },
+            {
+              "id" : 26,
+              "code" : "48",
+              "name" : "Construction"
+            },
+            {
+              "id" : 132,
+              "code" : "104",
+              "name" : "Staffing and Recruiting"
+            },
+            {
+              "id" : 80,
+              "code" : "55",
+              "name" : "Machinery"
+            },
+            {
+              "id" : 100,
+              "code" : "123",
+              "name" : "Outsourcing/Offshoring"
+            }
+          ],
+          "price_range_id" : 1,
+          "aggregated_review_ratings" : {
+            "industry" : {
+              "117" : 4.0,
+              "116" : 4.4,
+              "135" : 4.0,
+              "49" : 4.0,
+              "147" : 4.0,
+              "14" : 4.0,
+              "56" : 4.0,
+              "92" : 4.33,
+              "11" : 5.0,
+              "48" : 4.5,
+              "25" : 5.0,
+              "57" : 4.4,
+              "51" : 5.0,
+              "133" : 4.0,
+              "12" : 5.0,
+              "104" : 5.0,
+              "26" : 4.0,
+              "83" : 4.0,
+              "55" : 5.0,
+              "17" : 4.0,
+              "123" : 5.0
+            },
+            "company_size" : {
+              "11-50 employees" : 4.4,
+              "Self-employed" : 5.0,
+              "51-200 employees" : 4.47,
+              "1-10 employees" : 4.67,
+              "501-1000 employees" : 4.0,
+              "201-500 employees" : 4.0
+            }
+          },
+          "vct_enabled" : false,
+          "pricing_plans" : [
+            {
+              "created_on_utc" : "2019-08-21T14:47:39Z",
+              "modified_on_utc" : "2022-04-11T20:39:21Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Basic",
+              "description" : null,
+              "display_order" : 1,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 11.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Per Feature",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [ ]
+            }
+          ],
+          "discount_types" : [ ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,2866 @@
+{
+  "took" : 4,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 3,
+    "successful" : 3,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : {
+      "value" : 2,
+      "relation" : "eq"
+    },
+    "max_score" : 11.380028,
+    "hits" : [
+      {
+        "_index" : "product_listings_main_data_upc_vt20220920_043802_utc",
+        "_type" : "_doc",
+        "_id" : "172058_salon",
+        "_score" : 11.380028,
+        "_source" : {
+          "product_id" : 172058,
+          "seo_product_id" : 212502,
+          "seo_slug" : "Meevo-2",
+          "product_name" : "Meevo",
+          "upc_product_uuid" : "660bbebd-fc30-43e3-a9f1-a8c500605c97",
+          "old_product_ids" : [
+            212502
+          ],
+          "product_url" : "https://www.millenniumsi.com/lp/capterra?current_campaign=capterra-salon&utm_source=capterra&utm_medium=ppc&utm_campaign=capterra-salon",
+          "product_slug" : "Meevo-2",
+          "former_name" : "Meevo 2",
+          "logo_filepath" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/63933f2b-3987-4361-a7d4-72e14d92cf28.png",
+          "vendor" : {
+            "vendor_id" : 2004224,
+            "vendor_name" : "Millennium Systems International",
+            "vendor_url" : "http://www.millenniumsi.com/",
+            "year_founded" : 1987,
+            "location" : "United States",
+            "vendor_opted_out_of_reviews" : true,
+            "is_opted_out_of_reviews" : false,
+            "is_hit_limit" : false,
+            "enabled" : true,
+            "has_vendor_level_page" : false,
+            "slug" : null,
+            "vendor_page" : false,
+            "paused_campaign" : false
+          },
+          "category_short_name" : "salon",
+          "category_html_name" : "salon-software",
+          "category" : {
+            "id" : 30028,
+            "short_name" : "salon",
+            "long_name" : "Salon",
+            "html_name" : "salon-software",
+            "enabled" : true
+          },
+          "best_category" : "salon",
+          "is_best_category" : true,
+          "highest_cpc_category" : "spa",
+          "is_highest_cpc_category" : false,
+          "short_desc" : "Crush your goals and grow your business in a customizable, easy-to-use salon software built specifically for the beauty industry.",
+          "long_desc" : "Meevo is the award-winning salon and spa software powered by Millennium built specifically for the beauty industry to simplify client management, improve business operations, and enhance your marketing strategies. Crush your goals and grow your business in one completely customizable, easy-to-use platform with a 98.5% positive support rating from more than 350,000 users. You'll gain best-in-class, 5-star support from the moment you join the Meevo Community.",
+          "rating" : 4.2,
+          "number_of_reviews" : 167,
+          "total_reviews" : 163,
+          "ease_of_use_rating" : 4.1,
+          "customer_support_rating" : 4.4,
+          "functionality_rating" : 4.0,
+          "value_for_money_rating" : 4.1,
+          "recommendation_rating" : 7.5,
+          "pricing_enabled" : true,
+          "pricing" : 149.0,
+          "is_per_user" : false,
+          "fee_schedule" : "Per-Month",
+          "pricing_model" : "Flat Rate",
+          "pricing_details" : "Meevo pricing tiers are dependent on the number of users required. Pricing starts at $149/month for up to 10 users and scales as follows:\n\nGrow: $149/month for up to 10 users and 2,500 text messages.\n\nPro: $269/month for up to 25 users and 5,000 text messages.\n\nPowerhouse: $419/month for unlimited users and 10,000 text messages.\n\nEnterprise: Custom enterprise plans are available upon request.",
+          "pricing_created_on" : "2019-08-21T14:47:39Z",
+          "pricing_modified_on" : "2022-08-19T08:26:55Z",
+          "pricing_created_by" : null,
+          "pricing_modified_by" : "Virender Pal Singh",
+          "pricing_vendor_pricing_url" : "https://www.millenniumsi.com/meevo/pricing",
+          "free_trial" : false,
+          "free_version" : false,
+          "target_audience" : "Salon, spa, and medical spa businesses looking for easy-to-use software that provides everything needed to streamline operations, manage clients and grow. \n",
+          "target_users" : [
+            "2-10",
+            "11-50",
+            "51-200",
+            "201-500",
+            "501-1000",
+            "1000+"
+          ],
+          "platform" : [
+            {
+              "enabled" : true,
+              "name" : "Cloud, SaaS, Web-Based"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Mac"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Chromebook"
+            },
+            {
+              "enabled" : false,
+              "name" : "Mobile Android"
+            },
+            {
+              "enabled" : false,
+              "name" : "Mobile iPhone"
+            },
+            {
+              "enabled" : false,
+              "name" : "Mobile iPad"
+            }
+          ],
+          "support" : [
+            {
+              "enabled" : true,
+              "name" : "Email Help Desk"
+            },
+            {
+              "enabled" : true,
+              "name" : "FAQ Forum"
+            },
+            {
+              "enabled" : true,
+              "name" : "Knowledgebase"
+            },
+            {
+              "enabled" : true,
+              "name" : "Phone Support"
+            },
+            {
+              "enabled" : true,
+              "name" : "24/7 Live Rep"
+            },
+            {
+              "enabled" : true,
+              "name" : "Chat"
+            }
+          ],
+          "training" : [
+            {
+              "enabled" : false,
+              "name" : "Not Offered"
+            },
+            {
+              "enabled" : true,
+              "name" : "In-Person"
+            },
+            {
+              "enabled" : true,
+              "name" : "Live Online"
+            },
+            {
+              "enabled" : true,
+              "name" : "Webinars"
+            },
+            {
+              "enabled" : true,
+              "name" : "Documentation"
+            },
+            {
+              "enabled" : true,
+              "name" : "Videos"
+            }
+          ],
+          "media" : [
+            {
+              "product_id" : 172058,
+              "vendor_id" : 2004224,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/ce179fcf-1c1f-4b20-8db4-fa337bf78ec7.png",
+              "caption" : "Dynamic, real-time worlds customized for any role.",
+              "weight" : 1,
+              "short_name" : "salon"
+            },
+            {
+              "product_id" : 172058,
+              "vendor_id" : 2004224,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/783c3245-93a3-42d4-8fc4-a7d3a4866dff.png",
+              "caption" : "Access your business data anywhere, any time and on any device with Meevo 2's mobility.",
+              "weight" : 2,
+              "short_name" : "salon"
+            },
+            {
+              "product_id" : 172058,
+              "vendor_id" : 2004224,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/f228a9c7-4798-497b-b783-bc657309fdbb.png",
+              "caption" : "Track and surpass goals with Meevo's Goals Dashboard.",
+              "weight" : 3,
+              "short_name" : "salon"
+            },
+            {
+              "product_id" : 172058,
+              "vendor_id" : 2004224,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/abe2bebc-e070-42aa-a69a-6c58cbe7adb0.png",
+              "caption" : "Elevate your brand with custom email marketing and online reputation management tools.",
+              "weight" : 4,
+              "short_name" : "salon"
+            },
+            {
+              "product_id" : 172058,
+              "vendor_id" : 2004224,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/9f59361a-f0f0-4c6e-8ec2-4a85b29e66cf.png",
+              "caption" : "Drive revenue with Meevo's secure, easy to use eGift card platform.",
+              "weight" : 5,
+              "short_name" : "salon"
+            },
+            {
+              "product_id" : 172058,
+              "vendor_id" : 2004224,
+              "media_type" : "VIDEO",
+              "path_url" : "https://youtu.be/V8K-9546dn0",
+              "caption" : null,
+              "weight" : 0,
+              "short_name" : "salon"
+            }
+          ],
+          "links" : [
+            {
+              "product_id" : 172058,
+              "functional_group" : "salon",
+              "html_code" : "https://www.millenniumsi.com/lp/capterra?current_campaign=capterra-salon&utm_source=capterra&utm_medium=ppc&utm_campaign=capterra-salon",
+              "link_name" : "Free Demo",
+              "link_priority" : 2.0
+            },
+            {
+              "product_id" : 172058,
+              "functional_group" : "salon",
+              "html_code" : "https://www.millenniumsi.com/meevo/pricing?current_campaign=capterra-salon&utm_source=capterra&utm_medium=ppc&utm_campaign=capterra-salon",
+              "link_name" : "Pricing",
+              "link_priority" : 3.0
+            }
+          ],
+          "features" : [
+            {
+              "category_name" : "Salon",
+              "category_features" : [
+                {
+                  "name" : "Appointment Scheduling",
+                  "value" : true,
+                  "id" : "3a768565-c8c8-4710-a44d-2e2e4b16d16b",
+                  "avg_rating" : 4.6,
+                  "cnt_rating" : 17,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 6,
+                  "cnt_time_used" : 6,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 6,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Book appointments via calendar"
+                },
+                {
+                  "name" : "Booth Rental Management",
+                  "value" : false,
+                  "id" : "beb735cb-eba3-4d4e-80de-f779becdd7e6",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Offer to rent a booth to freelance professionals"
+                },
+                {
+                  "name" : "Client Database",
+                  "value" : true,
+                  "id" : "84b55e01-af9e-445e-b499-27a8ec7d6f0f",
+                  "avg_rating" : 4.7,
+                  "cnt_rating" : 18,
+                  "avg_importance" : 2.8,
+                  "cnt_importance" : 5,
+                  "cnt_time_used" : 5,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 5,
+                  "pct_time_critical" : 0.8,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : "Electronic storage of stakeholder contact information "
+                },
+                {
+                  "name" : "Client Profiles",
+                  "value" : true,
+                  "id" : "78cf2733-e65e-4e32-955b-85daf79fcc79",
+                  "avg_rating" : 4.9,
+                  "cnt_rating" : 9,
+                  "avg_importance" : 2.67,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.667,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Record client information and feedback"
+                },
+                {
+                  "name" : "Confirmation/Reminders",
+                  "value" : true,
+                  "id" : "434b2095-a22b-4e06-856a-c425a6fbe7fa",
+                  "avg_rating" : 4.6,
+                  "cnt_rating" : 14,
+                  "avg_importance" : 2.17,
+                  "cnt_importance" : 6,
+                  "cnt_time_used" : 6,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 6,
+                  "pct_time_critical" : 0.167,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Automated alerts to upcoming appointments"
+                },
+                {
+                  "name" : "Employee Management",
+                  "value" : true,
+                  "id" : "9510ee6b-fcb0-4f43-94ce-07023453048f",
+                  "avg_rating" : 4.5,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Tracks employee schedules, availability, performance"
+                },
+                {
+                  "name" : "Inventory Management",
+                  "value" : true,
+                  "id" : "80f46038-6ae8-4725-8064-788b20380eeb",
+                  "avg_rating" : 4.8,
+                  "cnt_rating" : 20,
+                  "avg_importance" : 2.6,
+                  "cnt_importance" : 5,
+                  "cnt_time_used" : 6,
+                  "pct_time_used" : 0.833,
+                  "cnt_time_critical" : 6,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track and manage the quantity of resources on hand to maintain proper supply"
+                },
+                {
+                  "name" : "Loyalty Program",
+                  "value" : true,
+                  "id" : "6b34f1a7-a35e-4df8-8d9f-639803393208",
+                  "avg_rating" : 3.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 0.5,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Marketing tool to have customers return for benefits"
+                },
+                {
+                  "name" : "Multi-Location",
+                  "value" : true,
+                  "id" : "cbb330d2-6199-479e-bc91-d95527b5dc05",
+                  "avg_rating" : 1.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Business with more than one location/store"
+                },
+                {
+                  "name" : "Payroll Management",
+                  "value" : true,
+                  "id" : "58379ec3-0f90-4b52-ac75-25f0b72a102d",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 0.667,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.333,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Track and process employee payroll (salaries, wages, etc.)"
+                },
+                {
+                  "name" : "Point of Sale (POS)",
+                  "value" : true,
+                  "id" : "4d8a4211-99b1-45f2-a8d9-03b96a38d16f",
+                  "avg_rating" : 4.8,
+                  "cnt_rating" : 25,
+                  "avg_importance" : 2.6,
+                  "cnt_importance" : 5,
+                  "cnt_time_used" : 6,
+                  "pct_time_used" : 0.833,
+                  "cnt_time_critical" : 6,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Accept and process financial transactions"
+                },
+                {
+                  "name" : "Recurring Appointments",
+                  "value" : true,
+                  "id" : "b1387950-fce7-44fd-b2df-146785ef2092",
+                  "avg_rating" : 3.7,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 4,
+                  "cnt_time_used" : 4,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 4,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Schedule repeating apppointments based on a duration of time"
+                }
+              ]
+            },
+            {
+              "category_name" : "Massage Therapy",
+              "category_features" : [
+                {
+                  "name" : "Alerts/Notifications",
+                  "value" : true,
+                  "id" : "aef68b72-bd4c-4797-ae8c-4735512de81a",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Appointment Management",
+                  "value" : true,
+                  "id" : "6ab35f7f-8e54-47f1-868a-6f35eef38ab5",
+                  "avg_rating" : 4.9,
+                  "cnt_rating" : 15,
+                  "avg_importance" : 2.75,
+                  "cnt_importance" : 4,
+                  "cnt_time_used" : 4,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 4,
+                  "pct_time_critical" : 0.75,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Schedule, change or cancel appointments"
+                },
+                {
+                  "name" : "Billing & Invoicing",
+                  "value" : false,
+                  "id" : "b9829f5b-1e19-49e7-b343-c2286973de15",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Create and manage monetary interactions between parties (ie. bills and invoices)"
+                },
+                {
+                  "name" : "Calendar Sync",
+                  "value" : false,
+                  "id" : "8138ec5a-c693-408a-b541-6ffe5896abc1",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Client Management",
+                  "value" : true,
+                  "id" : "2be4a8f3-1afa-49ee-9306-6f11bf4a1f2e",
+                  "avg_rating" : 4.6,
+                  "cnt_rating" : 14,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Manage company interactions with current customers"
+                },
+                {
+                  "name" : "Credit Card Processing",
+                  "value" : true,
+                  "id" : "c579409f-f634-4523-a4b7-f4e8868870b5",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Customizable Branding",
+                  "value" : true,
+                  "id" : "2ad190f0-241d-4182-9ec3-10f1e12adbb9",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Customizable Forms",
+                  "value" : false,
+                  "id" : "f72f5fbe-d8cf-4729-be40-4f024278d399",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Customizable Templates",
+                  "value" : false,
+                  "id" : "0cbce712-8370-4492-ac43-e500bc2f2b1f",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Debit/Credit Card Processing",
+                  "value" : false,
+                  "id" : "132d495d-0788-4581-892d-5e99c17ea583",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Email Marketing",
+                  "value" : true,
+                  "id" : "3e3bef6d-cbd8-43e1-83e6-eaf601c17a48",
+                  "avg_rating" : 3.9,
+                  "cnt_rating" : 9,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 4,
+                  "cnt_time_used" : 6,
+                  "pct_time_used" : 0.667,
+                  "cnt_time_critical" : 6,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Create and send email blasts/campaigns"
+                },
+                {
+                  "name" : "Gift Card Management",
+                  "value" : true,
+                  "id" : "22b3c949-060c-43ef-8796-1e4f09a79c22",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Reward loyal customers with gift cards which they can redeem for special offers and loyalty bonus"
+                },
+                {
+                  "name" : "Ratings / Reviews",
+                  "value" : false,
+                  "id" : "c72565a9-bcc1-4cff-b0a7-3a851777c24b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Reminders",
+                  "value" : true,
+                  "id" : "80a6712d-26ed-44bf-acfa-ea4dd89bcbd6",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "SOAP notes",
+                  "value" : false,
+                  "id" : "0842681c-4654-4518-9669-d6c3f75c47d7",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Website Integration",
+                  "value" : false,
+                  "id" : "feabac16-fa7c-4ba6-b84d-60def5e4dc16",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                }
+              ]
+            },
+            {
+              "category_name" : "Medical Spa",
+              "category_features" : [
+                {
+                  "name" : "Appointment Management",
+                  "value" : true,
+                  "id" : "6ab35f7f-8e54-47f1-868a-6f35eef38ab5",
+                  "avg_rating" : 4.9,
+                  "cnt_rating" : 15,
+                  "avg_importance" : 2.75,
+                  "cnt_importance" : 4,
+                  "cnt_time_used" : 4,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 4,
+                  "pct_time_critical" : 0.75,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Schedule, change or cancel appointments"
+                },
+                {
+                  "name" : "Before & After Pictures",
+                  "value" : false,
+                  "id" : "f3243261-9dce-410a-934a-c7d879c2cad2",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Before and after photos of procedure(s)"
+                },
+                {
+                  "name" : "Client Management",
+                  "value" : true,
+                  "id" : "2be4a8f3-1afa-49ee-9306-6f11bf4a1f2e",
+                  "avg_rating" : 4.6,
+                  "cnt_rating" : 14,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Manage company interactions with current customers"
+                },
+                {
+                  "name" : "Gift Card Management",
+                  "value" : true,
+                  "id" : "22b3c949-060c-43ef-8796-1e4f09a79c22",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Reward loyal customers with gift cards which they can redeem for special offers and loyalty bonus"
+                },
+                {
+                  "name" : "HIPAA Compliant",
+                  "value" : false,
+                  "id" : "b7fa2102-62a3-4477-96a4-c8567bd85229",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Compliant with HIPAA, which sets standards for sensitive patient data protection"
+                },
+                {
+                  "name" : "Inventory Management",
+                  "value" : true,
+                  "id" : "80f46038-6ae8-4725-8064-788b20380eeb",
+                  "avg_rating" : 4.8,
+                  "cnt_rating" : 20,
+                  "avg_importance" : 2.6,
+                  "cnt_importance" : 5,
+                  "cnt_time_used" : 6,
+                  "pct_time_used" : 0.833,
+                  "cnt_time_critical" : 6,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track and manage the quantity of resources on hand to maintain proper supply"
+                },
+                {
+                  "name" : "Treatment Packages",
+                  "value" : false,
+                  "id" : "d5876b5b-de66-4e24-a75f-a060fe4d6788",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Sell multiple treatments together as a set"
+                }
+              ]
+            },
+            {
+              "category_name" : "Spa",
+              "category_features" : [
+                {
+                  "name" : "Appointment Management",
+                  "value" : true,
+                  "id" : "6ab35f7f-8e54-47f1-868a-6f35eef38ab5",
+                  "avg_rating" : 4.9,
+                  "cnt_rating" : 15,
+                  "avg_importance" : 2.75,
+                  "cnt_importance" : 4,
+                  "cnt_time_used" : 4,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 4,
+                  "pct_time_critical" : 0.75,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Schedule, change or cancel appointments"
+                },
+                {
+                  "name" : "Client Management",
+                  "value" : true,
+                  "id" : "2be4a8f3-1afa-49ee-9306-6f11bf4a1f2e",
+                  "avg_rating" : 4.6,
+                  "cnt_rating" : 14,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Manage company interactions with current customers"
+                },
+                {
+                  "name" : "Employee Scheduling",
+                  "value" : true,
+                  "id" : "52b7c8bc-e6cb-4668-ba91-c38cbc75387c",
+                  "avg_rating" : 4.7,
+                  "cnt_rating" : 9,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 0.667,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.333,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Assign working shifts to employees"
+                },
+                {
+                  "name" : "Inventory Management",
+                  "value" : true,
+                  "id" : "80f46038-6ae8-4725-8064-788b20380eeb",
+                  "avg_rating" : 4.8,
+                  "cnt_rating" : 20,
+                  "avg_importance" : 2.6,
+                  "cnt_importance" : 5,
+                  "cnt_time_used" : 6,
+                  "pct_time_used" : 0.833,
+                  "cnt_time_critical" : 6,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track and manage the quantity of resources on hand to maintain proper supply"
+                },
+                {
+                  "name" : "Loyalty Program",
+                  "value" : true,
+                  "id" : "6b34f1a7-a35e-4df8-8d9f-639803393208",
+                  "avg_rating" : 3.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 0.5,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Marketing tool to have customers return for benefits"
+                },
+                {
+                  "name" : "Payroll & Commissions",
+                  "value" : true,
+                  "id" : "13058f08-f535-4274-83c9-e7a435cfb851",
+                  "avg_rating" : 4.1,
+                  "cnt_rating" : 7,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 0.667,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.333,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Track and process employee payroll (salaries, wages, etc.) and commissions on sales"
+                },
+                {
+                  "name" : "Point of Sale (POS)",
+                  "value" : true,
+                  "id" : "4d8a4211-99b1-45f2-a8d9-03b96a38d16f",
+                  "avg_rating" : 4.8,
+                  "cnt_rating" : 25,
+                  "avg_importance" : 2.6,
+                  "cnt_importance" : 5,
+                  "cnt_time_used" : 6,
+                  "pct_time_used" : 0.833,
+                  "cnt_time_critical" : 6,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Accept and process financial transactions"
+                }
+              ]
+            }
+          ],
+          "infographics" : [
+            {
+              "product_id" : 172058,
+              "html_name" : "salon-software",
+              "infographic_type" : "general_t20",
+              "infographic_title" : null
+            },
+            {
+              "product_id" : 172058,
+              "html_name" : "salon-software",
+              "infographic_type" : "popular",
+              "infographic_title" : null
+            }
+          ],
+          "related_products" : [
+            {
+              "product_id" : 128285,
+              "seo_product_id" : 224425,
+              "seo_slug" : "Acuity-Scheduling",
+              "vendor_name" : "Squarespace",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/eab1bfbc-4414-4221-bc6b-5cbf2b4b0c69.png",
+              "rating" : 4.8,
+              "total_reviews" : 5214,
+              "slug" : "Acuity-Scheduling",
+              "product_name" : "Acuity Scheduling",
+              "short_desc" : "Reach more clients with the simple, customizable scheduling solution that looks and feels as good as a day at the salon.",
+              "features" : "With Acuity Scheduling, booking clients looks and feels as good as the services you provide for them. Customize individual calendars for your staff and locations, and set up appointment types that keep clients coming back for more, including gift certificates and multi-service bookings. Empower clients to book and pay directly from your website or social profile. Acuity will be there to automate branded emails and texts to keep your clients in the loop, on time, and in control of rescheduling.",
+              "url" : "https://acuityscheduling.com/?utm_source=capterra&utm_medium=cpc&utm_campaign=cap-salon&kw=Capterra"
+            },
+            {
+              "product_id" : 153752,
+              "seo_product_id" : 226850,
+              "seo_slug" : "Vagaro",
+              "vendor_name" : "Vagaro",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4e2671a7-72b7-4638-9434-190c249607a3.png",
+              "rating" : 4.7,
+              "total_reviews" : 2773,
+              "slug" : "Vagaro",
+              "product_name" : "Vagaro",
+              "short_desc" : "Use Vagaro Salon Software & Apps to get booked, process payments, send reminders and market your business. Starting Price: $25/month.",
+              "features" : "Use our all-in-one salon management software & app to manage and grow your business. Get booked & paid 24/7. Stay safe with 100% contactless check-in & checkout. Reach more customers Text & Email Marketing. Get booked on the Vagaro Marketplace and on social media. Reduce no-shows with automated reminders. Manage appointments and packages while on the go. Vagaro Pro is the most downloaded/reviewed Apple & Android App. Prices start @ $25/month. Sign up for a Free 1 Month Trial.",
+              "url" : "https://sales.vagaro.com/salon-software/?utm_campaign=salon&utm_medium=cpc"
+            },
+            {
+              "product_id" : 40229,
+              "seo_product_id" : 40229,
+              "seo_slug" : "MINDBODY",
+              "vendor_name" : "Mindbody",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/1854606b-f0fe-4cdf-af6b-c17b97a93780.png",
+              "rating" : 4.0,
+              "total_reviews" : 2340,
+              "slug" : "MINDBODY",
+              "product_name" : "Mindbody",
+              "short_desc" : "Mindbody wellness business management software is tailored to businesses that need business and membership management systems. ",
+              "features" : "Mindbody elevates your customer experience - from the moment they find your salon on our app to their next visit. Step up your salon with marketing automations, scheduling, staff management, payment processing, automated reminders, reporting, and more. Building your brand? Get a custom app, too. Save time and give your clients the attention they deserve. Schedule your free demo today.",
+              "url" : "https://www.mindbodyonline.com/business/lp/salon-software?landing=y&campaignID=7013i000000Iqs0AAC&referralSource=Paid+Search&primaryMarket=Salon&utm_campaign=Salon&utm_source=capterra&utm_medium=thirdpartyreview"
+            },
+            {
+              "product_id" : 142138,
+              "seo_product_id" : 225259,
+              "seo_slug" : "Fresha",
+              "vendor_name" : "Shedul.com",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/7a0b7f5d-518c-4836-ba42-f5c2e9ab730c.png",
+              "rating" : 4.9,
+              "total_reviews" : 1256,
+              "slug" : "Shedul-com",
+              "product_name" : "Fresha",
+              "short_desc" : "Fresha is the world's leading software for salons and spas and is totally subscription-free!",
+              "features" : "Fresha is the world's leading booking software for salons and is totally subscription-free! Join 70,000+ businesses and 250,000 professionals who use Fresha to boost their sales in 120+ countries. Fresha is a simple, flexible and powerful booking software with all the advanced features you need to run your salon. Optional paid features include integrated payment processing for deposits and no-show protection. Only pay for what you use, with zero monthly fees\n\n",
+              "url" : "https://www.fresha.com/for-business?utm_source=capterra&utm_medium=paid&utm_campaign=salon"
+            },
+            {
+              "product_id" : 148516,
+              "seo_product_id" : 212390,
+              "seo_slug" : "Marketing-360",
+              "vendor_name" : "Madwire",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e0d4096b-6fa3-4d66-98e5-8f3ac4c06590.png",
+              "rating" : 4.6,
+              "total_reviews" : 973,
+              "slug" : "Marketing-360",
+              "product_name" : "Marketing 360",
+              "short_desc" : "#1 Marketing Platform For SMB's! Create a Free Account",
+              "features" : "Get everything you need to manage and grow your business,  all from a singular platform  create your free account today to explore the platform and compare plans and pricing.",
+              "url" : "https://www.marketing360.com/?ref=CaptarraAds"
+            },
+            {
+              "product_id" : 140086,
+              "seo_product_id" : 221288,
+              "seo_slug" : "SimplyBookme",
+              "vendor_name" : "SimplyBook.me",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8f664f10-8719-47d8-8065-64efec19a6e4.png",
+              "rating" : 4.6,
+              "total_reviews" : 941,
+              "slug" : "Simplybook-me",
+              "product_name" : "SimplyBook.me",
+              "short_desc" : "Online Booking System with reminders for Salons! Let your clients book themselves online - Includes free version.",
+              "features" : "SimplyBook.me offers the most extensive online booking system on the market for Salons, one that makes you look professional and solves all your online needs. You get a full blown website, or a booking widget if you already have a website, where you can present your business and accept appointments, sell products, gift cards and service add-ons. Manage your Salon with one solution; website, accept bookings, marketing initiatives, business statistics and,online and on site payments.",
+              "url" : "https://simplybook.me/?ref=capterra_salons"
+            },
+            {
+              "product_id" : 90708,
+              "seo_product_id" : 152321,
+              "seo_slug" : "Booker",
+              "vendor_name" : "Mindbody",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/6f087443-68f3-47d4-b588-4c36a2f0e620.png",
+              "rating" : 4.1,
+              "total_reviews" : 933,
+              "slug" : "Booker",
+              "product_name" : "Booker",
+              "short_desc" : "Cloud-based online booking, scheduling, point of sale and marketing software - everything you need to make your life easier. ",
+              "features" : "Booker's cutting-edge salon software helps your run and grow your salon with an all-in-one platform that understands you'd rather be focusing on your clients instead of your administrative duties. Manage your online bookings, point-of-sale, membership and loyalty programs, all while attracting new clients, and making sure they come back. Access your salon business anytime, anywhere, all on Booker's secure, cost-effective, cloud-based software.",
+              "url" : "http://marketing.booker.com/booker-salon2-capterra/?campaignID=7010e000001GAnU&referralSource=Paid+Search&primaryMarket=&utm_campaign=PPC+Capterra+Salon+Booker&utm_source=Capterra&utm_medium=ppc&utm_term="
+            },
+            {
+              "product_id" : 131057,
+              "seo_product_id" : 226041,
+              "seo_slug" : "ZENOTI",
+              "vendor_name" : "Zenoti Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/518789fe-7d7b-40e2-a5a4-24b70e0a244c.png",
+              "rating" : 4.4,
+              "total_reviews" : 915,
+              "slug" : "ZENOTI",
+              "product_name" : "ZENOTI",
+              "short_desc" : "Level up with Zenoti, the all-in-one software solution for beauty, wellness, and fitness brands, trusted by 20,000+ businesses.",
+              "features" : "Zenoti gives multi-chair salons the most complete cloud-based software solution, trusted by 20,000+ beauty and wellness businesses worldwide. Salons can unify operations across locations and streamline appointment scheduling, POS, marketing, CRM, and more. Guests can book appointments, check-in, and auto-pay, all from the salon's branded mobile app. Providers and staff can view guest preferences, tips, and commissions in real-time. See how Zenoti can drive growth for your salon.",
+              "url" : "https://go.zenoti.com/salon-software-b-cp/"
+            },
+            {
+              "product_id" : 142756,
+              "seo_product_id" : 152933,
+              "seo_slug" : "Timely",
+              "vendor_name" : "Timely",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/66d0cab1-1599-419d-b75a-c85a8e50519a.png",
+              "rating" : 4.7,
+              "total_reviews" : 639,
+              "slug" : "Timely",
+              "product_name" : "Timely",
+              "short_desc" : "Timely salon software runs your whole business from any device. Easily manage your calendar, clients, staff, stock, reporting & more!  ",
+              "features" : "We're here to grow the value of the beauty industry, with you and for you. Join the Timely community of 46,000 supportive & connected beauty professionals and get access to innovative business management software, award-winning customer support, education from the biggest industry names all over the world, and support from your peers.\nTimely is designed to suit your business at any size, stage and budget. We love helping you succeed, so join us today! Start a free 14-day trial at gettimely.com.",
+              "url" : "https://www.gettimely.com/hair-salon-software/?utm_medium=cpc&utm_campaign=salon-and-spa"
+            },
+            {
+              "product_id" : 151022,
+              "seo_product_id" : 221895,
+              "seo_slug" : "Visibook",
+              "vendor_name" : "Visibook",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/5750455b-67eb-468b-8a9f-e3656e826612.png",
+              "rating" : 4.6,
+              "total_reviews" : 626,
+              "slug" : "Visibook",
+              "product_name" : "Visibook",
+              "short_desc" : "Simple, powerful, appointment booking software for service providers and their clients. Includes online calendar and downloadable app.",
+              "features" : "Simple, powerful, appointment booking tool that you and your clients will love! Use the scheduler anywhere: the app or any browser. Customers can book with ease using the Visibook app or online calendar.\r\nEasy booking and customer tracking.\r\nReduce no-shows.\r\nIndividual and class scheduler.\r\nPayments tool.\r\nClient messaging and notes.\r\nSimple, free set up.\r\nControl your schedule.\r\nWork around your personal calendar.\r\nLess email and hassle.\r\nManage staff.\r\nMulti-Platform tool.",
+              "url" : "https://visibook.com?utm_source=capterra"
+            },
+            {
+              "product_id" : 113540,
+              "seo_product_id" : 226875,
+              "seo_slug" : "Bitrix24",
+              "vendor_name" : "Bitrix",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/0d820dd6-6e0b-43de-becb-e9078a2d9fac.png",
+              "rating" : 4.1,
+              "total_reviews" : 527,
+              "slug" : "Bitrix24",
+              "product_name" : "Bitrix24",
+              "short_desc" : "Bitrix24 #1 free salon and studio management management platform used by 8 million businesses. Cloud, mobile, open source.",
+              "features" : "Bitrix24 #1 free salon and studio management platform. Used by 8 million businesses worldwide. Cloud, mobile, open source. Whether you are running a yoga studio or a photo studio - Bitrix24 is free studio management software that can make your business more effective. Client management, sales management, employee management, document management, scheduling and time management ? these are just few of the tools that Bitrix24 comes with. Available in cloud and requiring no IT administrator.",
+              "url" : "https://www.bitrix24.com/uses/free-studio-management-software.php?utm_source=capterra&utm_medium=cpc&utm_campaign=com_brand_capterra-salon"
+            }
+          ],
+          "similar_products" : [
+            {
+              "product_id" : 9167,
+              "seo_product_id" : 9167,
+              "seo_slug" : "Salon-Iris",
+              "vendor_name" : "DaySmart Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/b997800e-2708-4903-9ddd-b437ef1847ab.png",
+              "rating" : 4.3,
+              "total_reviews" : 323,
+              "slug" : "Salon-Iris",
+              "product_name" : "DaySmart Salon",
+              "short_desc" : "Robust cloud solutions for beauty businesses with online booking, text notifications, commissions, reports, marketing & payments. ",
+              "features" : "Since 1999, DaySmart Salon has helped thousands of owners and managers grow their salon business. DaySmart was a pioneer in online booking, and our robust salon platform includes automated email and text notifications, comprehensive payroll and commissions tracking, mobile apps & much, much more.  Free data migration from most competitive programs can get you up and growing in no time.  No fees, no contracts. \n",
+              "url" : "http://www.daysmartsalon.com"
+            },
+            {
+              "product_id" : 131057,
+              "seo_product_id" : 226041,
+              "seo_slug" : "ZENOTI",
+              "vendor_name" : "Zenoti Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/518789fe-7d7b-40e2-a5a4-24b70e0a244c.png",
+              "rating" : 4.4,
+              "total_reviews" : 915,
+              "slug" : "ZENOTI",
+              "product_name" : "ZENOTI",
+              "short_desc" : "Level up with Zenoti, the all-in-one software solution for beauty, wellness, and fitness brands, trusted by 20,000+ businesses.",
+              "features" : "Zenoti gives multi-chair salons the most complete cloud-based software solution, trusted by 20,000+ beauty and wellness businesses worldwide. Salons can unify operations across locations and streamline appointment scheduling, POS, marketing, CRM, and more. Guests can book appointments, check-in, and auto-pay, all from the salon's branded mobile app. Providers and staff can view guest preferences, tips, and commissions in real-time. See how Zenoti can drive growth for your salon.",
+              "url" : "https://go.zenoti.com/salon-software-b-cp/"
+            },
+            {
+              "product_id" : 142138,
+              "seo_product_id" : 225259,
+              "seo_slug" : "Fresha",
+              "vendor_name" : "Shedul.com",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/7a0b7f5d-518c-4836-ba42-f5c2e9ab730c.png",
+              "rating" : 4.9,
+              "total_reviews" : 1256,
+              "slug" : "Shedul-com",
+              "product_name" : "Fresha",
+              "short_desc" : "Fresha is the world's leading software for salons and spas and is totally subscription-free!",
+              "features" : "Fresha is the world's leading booking software for salons and is totally subscription-free! Join 70,000+ businesses and 250,000 professionals who use Fresha to boost their sales in 120+ countries. Fresha is a simple, flexible and powerful booking software with all the advanced features you need to run your salon. Optional paid features include integrated payment processing for deposits and no-show protection. Only pay for what you use, with zero monthly fees\n\n",
+              "url" : "https://www.fresha.com/for-business"
+            },
+            {
+              "product_id" : 153752,
+              "seo_product_id" : 226850,
+              "seo_slug" : "Vagaro",
+              "vendor_name" : "Vagaro",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4e2671a7-72b7-4638-9434-190c249607a3.png",
+              "rating" : 4.7,
+              "total_reviews" : 2773,
+              "slug" : "Vagaro",
+              "product_name" : "Vagaro",
+              "short_desc" : "Use Vagaro Salon Software & Apps to get booked, process payments, send reminders and market your business. Starting Price: $25/month.",
+              "features" : "Use our all-in-one salon management software & app to manage and grow your business. Get booked & paid 24/7. Stay safe with 100% contactless check-in & checkout. Reach more customers Text & Email Marketing. Get booked on the Vagaro Marketplace and on social media. Reduce no-shows with automated reminders. Manage appointments and packages while on the go. Vagaro Pro is the most downloaded/reviewed Apple & Android App. Prices start @ $25/month. Sign up for a Free 1 Month Trial.",
+              "url" : "https://sales.vagaro.com/?utm_source=capterra&utm_medium=cpc&utm_content=main"
+            },
+            {
+              "product_id" : 113530,
+              "seo_product_id" : 212441,
+              "seo_slug" : "Phorest-Salon",
+              "vendor_name" : "Phorest Salon Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/ce051db8-6387-41d5-a3ab-6050e9a6fb68.jpeg",
+              "rating" : 4.8,
+              "total_reviews" : 357,
+              "slug" : "Phorest-Salon-Software",
+              "product_name" : "Phorest",
+              "short_desc" : "The premium all-in-one software for salons.\n\n- Marketing\n- Appointments management\n- Stock and staff management\n- Full customer support",
+              "features" : "Phorest is an all-in-one solution to enable hair, beauty, or personal services businesses to reach their full potential.  From seamless online salon booking, hassle-free reporting, or the industry's most innovative marketing features.\n\nTrack your teams performance, win back lapsing clients with automatic, targeted messages and get your clients in more often with your own branded salon booking app and salon loyalty cards. And stand out by generating reviews with our automated reputation tool!",
+              "url" : "https://www.phorest.com/us/demos/capterra/?utm_medium=Paid_search&utm_source=Capterra&utm_content=NewLandingPage&channel_source=Capterra&region=USA&next=demo"
+            },
+            {
+              "product_id" : 180087,
+              "seo_product_id" : 225939,
+              "seo_slug" : "Boulevard",
+              "vendor_name" : "Boulevard Labs",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/668f9596-1aaa-450b-9644-fd5e81c15085.png",
+              "rating" : 4.5,
+              "total_reviews" : 194,
+              "slug" : "Boulevard",
+              "product_name" : "Boulevard",
+              "short_desc" : "Boulevard delivers a modern Client Experience Platform with everything you need to manage, market, and grow your salon.",
+              "features" : "Build your brand. Excite your staff. Grow your profits. From initial booking to final payment, Boulevard's salon management software delivers delightful client experiences for hair, lash, and beauty salons. Personalize every appointment and exceed every expectation with a complete, modern solution designed for the work you do. Visit joinblvd.com to get a demo. For a limited time, save $500 now!",
+              "url" : "https://get.joinblvd.com/salons/?utm_source=ppc&utm_medium=gartner&utm_campaign=pricing-promo-2022"
+            },
+            {
+              "product_id" : 187593,
+              "seo_product_id" : 187593,
+              "seo_slug" : "Mangomint",
+              "vendor_name" : "Mangomint",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/efd8f6f8-cc98-459c-8fb1-aa2e879bdfb1.png",
+              "rating" : 4.9,
+              "total_reviews" : 51,
+              "slug" : "Mangomint",
+              "product_name" : "Mangomint",
+              "short_desc" : "FOR 5+ SERVICE PROVIDERS: The smartest software for salons. Reduce overhead costs with fast workflows and smart automations.",
+              "features" : "FOR 5+ SERVICE PROVIDERS: The smartest software for independent salons. \n\nFrom contactless checkout, to one of the easiest and most intuitive online-booking solutions, Mangomint is designed to save time and reduce overhead costs.\n\nWhat sets Mangomint apart from other salon software are insanely fast workflows, excellent design, and smart automations.",
+              "url" : "https://www.mangomint.com/?utm_source=capterra"
+            },
+            {
+              "product_id" : 265370,
+              "seo_product_id" : 267609,
+              "seo_slug" : "Dayful",
+              "vendor_name" : "Wix",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/beb38201-6628-4d68-b777-da4a067fc52d.jpeg",
+              "rating" : 0.0,
+              "total_reviews" : 0,
+              "slug" : "Dayful",
+              "product_name" : "Dayful",
+              "short_desc" : "Meet Dayful, the salon software that takes the hard work out of scheduling, payments & admin, while you focus on your clients. ",
+              "features" : "Meet Dayful, the all-in-one software that takes the hard work out of scheduling, payments and admin, so you have more time to focus on making clients feel their best. Let your clients easily book treatments 24/7 online or with a handy mobile app-and reduce no-shows with automated confirmations & reminders. Better manage your salon with a powerful calendar, time-saving automations and features built with your clients in mind. Be the best kind of busy with Dayful.",
+              "url" : "https://www.dayful.com/lp-scheduling?utm_source=capterra&utm_medium=cpc&utm_campaign=bd_dayful_capterra_capterra-main^&experiment_id=^^^"
+            },
+            {
+              "product_id" : 170263,
+              "seo_product_id" : 218931,
+              "seo_slug" : "Square-Appointments",
+              "vendor_name" : "Square",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/29c15063-0407-4b4e-94f8-d1c7ea4af788.png",
+              "rating" : 4.4,
+              "total_reviews" : 151,
+              "slug" : "Square-Appointments",
+              "product_name" : "Square Appointments",
+              "short_desc" : "Square Appointments is an all-in-one scheduling POS for booking, payments, and team management.",
+              "features" : "Running a business is hard enough, especially if you're juggling multiple tools to do different things. Square Appointments is an integrated POS that comes with online scheduling and payment processing so that you can run your whole business from one place. It's a one-stop-shop solution that helps you save time and stay organized because it's customized for businesses who run on appointments. Square Appointments is now free for individuals, and really affordable for teams.",
+              "url" : "https://squareup.com/t/f_online/d_affiliate/p_capterra/c_paidlistings/l_us/pr_appointments?route=us/en/appointments"
+            },
+            {
+              "product_id" : 128285,
+              "seo_product_id" : 224425,
+              "seo_slug" : "Acuity-Scheduling",
+              "vendor_name" : "Squarespace",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/eab1bfbc-4414-4221-bc6b-5cbf2b4b0c69.png",
+              "rating" : 4.8,
+              "total_reviews" : 5214,
+              "slug" : "Acuity-Scheduling",
+              "product_name" : "Acuity Scheduling",
+              "short_desc" : "Reach more clients with the simple, customizable scheduling solution that looks and feels as good as a day at the salon.",
+              "features" : "With Acuity Scheduling, booking clients looks and feels as good as the services you provide for them. Customize individual calendars for your staff and locations, and set up appointment types that keep clients coming back for more, including gift certificates and multi-service bookings. Empower clients to book and pay directly from your website or social profile. Acuity will be there to automate branded emails and texts to keep your clients in the loop, on time, and in control of rescheduling.",
+              "url" : "https://www.acuityscheduling.com/?utm_source=capterra&utm_medium=cpc&utm_campaign=cap-appointmentscheduling&kw=Capterra"
+            },
+            {
+              "product_id" : 20700,
+              "seo_product_id" : 20700,
+              "seo_slug" : "Envision-Salon-Software",
+              "vendor_name" : "Ennoview",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d0a96880-4ec3-4e3a-983c-38146443c5c9.png",
+              "rating" : 4.0,
+              "total_reviews" : 30,
+              "slug" : "Envision-Salon-Software",
+              "product_name" : "Envision Salon & Spa",
+              "short_desc" : "Envision Salon & Spa software offers everything you need to take care of your business so you can take care of your clients.",
+              "features" : "Envision Salon & Spa Management System is an all-in-one solution for business management. Envision covers business basics like booking and reporting while offering innovative features such as automated marketing and reputation management. The system is easy to learn and use which allows for your clients to be your top priority. ",
+              "url" : "https://lp.envisionsalon.com/capterra_ppc"
+            },
+            {
+              "product_id" : 174841,
+              "seo_product_id" : 174841,
+              "seo_slug" : "My-Cuts",
+              "vendor_name" : "MyCuts",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4a0b300b-282a-4761-8d14-8cb23aeaca43.png",
+              "rating" : 4.6,
+              "total_reviews" : 99,
+              "slug" : "My-Cuts",
+              "product_name" : "MyCuts",
+              "short_desc" : "Manage your salon like a pro! Check out our easy, no-nonsense app that takes a fresh look at how booking software *should* be.",
+              "features" : "See why hundreds of stylists agree that MyCuts is the most user-friendly salon booking app! Best suited for booth renters to salon owners, or anyone in between that want all the benefits of a \"pro\" salon without all the hassle and cost! Either use our web app online or download our Android or iOS app. Our Free plan can be used as long as you want up to 25 clients and even includes email appointment confirmations. If you want unlimited clients or text confirmations, plans start at only $14/month.",
+              "url" : "https://www.mycutsapp.com/"
+            }
+          ],
+          "related_categories" : [
+            {
+              "functional_group" : "salon",
+              "long_name" : "Appointment Scheduling",
+              "html_name" : "appointment-scheduling-software",
+              "link_name" : "appointment-scheduling",
+              "product_count" : 32,
+              "meta_description" : "Find and compare top Appointment Scheduling software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Appointment Scheduling tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/appointment-scheduling-software\">Appointment Scheduling software</a> streamlines the process of scheduling clients, patients, and meetings. This type of software promotes efficiency by eliminating double-bookings and automating scheduling of recurring appointments. It also allows employees to have real-time access to their and their colleagues' schedules, make changes to the system straight from the scheduling interface, and provide clients with the most suitable appointment options. <a href=\"/appointment-scheduling-software\">Appointment Scheduling software</a> often includes reminder tools that help ensure timely attendance of scheduled meetings and appointments. <a href=\"/appointment-scheduling-software\">Appointment Scheduling software</a> is related to <a href=\"/employee-scheduling-software\">Employee Scheduling software</a>, <a href=\"/medical-scheduling-software\">Medical Scheduling software</a> and <a href=\"/reservations-software\">Reservations software</a>. "
+            },
+            {
+              "functional_group" : "salon",
+              "long_name" : "Medical Spa",
+              "html_name" : "medical-spa-software",
+              "link_name" : "medical-spa",
+              "product_count" : 25,
+              "meta_description" : "Find and compare top Medical Spa software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Medical Spa tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/medical-spa-software\">Medical Spa software</a> automates and manages health/medical spa operations. Medical Spa (also called Med Spa or Medi Spa) solutions typically feature easy integration with cash registers, bar code readers and other point of sale hardware.  Medical Spas provide treatments including skin tightening, laser hair removal, peels, liposuction, cosmetic dental work and more.  Medical Spas typically use these applications to add efficiency and value to a wide variety of business processes including: appointment scheduling, online calendar, client management and marketing, employee data, commission calculation, inventory control, payroll, point of sale and others.  For related products see <a href=\"/salon-software\">Salon software</a>."
+            },
+            {
+              "functional_group" : "salon",
+              "long_name" : "Spa",
+              "html_name" : "spa-software",
+              "link_name" : "spa",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Spa software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Spa tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/spa-software>Spa software</a> automates all aspects of business management for various types of spas, including day spas. Software functionality typically includes inventory management, appointment scheduling, gift card processing, point of sale, and other retail customer service oriented capabilities. <a href=/spa-software>Spa software</a> is related to <a href=/medical-spa-software>Medical Spa software</a> and <a href=/salon-software>Salon Software</a>"
+            }
+          ],
+          "is_upgraded" : true,
+          "enabled" : true,
+          "filter_options" : {
+            "users" : 126,
+            "platform" : 1,
+            "pricing_options" : 2,
+            "category_related_features" : [
+              20087,
+              20090,
+              20094,
+              20095,
+              20096,
+              20097,
+              20098,
+              28560,
+              28561,
+              28562,
+              28563,
+              28564,
+              28565,
+              30498,
+              38574,
+              40600,
+              52392,
+              52394,
+              52395,
+              52396,
+              52397,
+              52398,
+              52399,
+              52400,
+              52401,
+              52402,
+              52403,
+              52404,
+              52405,
+              52406,
+              52408,
+              52409,
+              52411,
+              52412,
+              52416,
+              52417,
+              52418,
+              52419,
+              52420,
+              52421,
+              52422,
+              52423,
+              52424
+            ],
+            "employees" : 126
+          },
+          "sort_options" : {
+            "sort_review_rating" : 4.381113052368164,
+            "most_recent_review" : "2022-09-13T15:55:38Z"
+          },
+          "countries" : "US",
+          "features_tokenized_text" : "appointment_scheduling client_database client_profiles confirmation/reminders employee_management inventory_management loyalty_program multi-location payroll_management point_of_sale_(pos) recurring_appointments",
+          "platform_tokenized_text" : "cloud,saas,web-based",
+          "users_tokenized_text" : "2-10 11-50 51-200 201-500 501-1000 1000+",
+          "pricing_tokenized_text" : "monthlysubscription",
+          "badges" : [
+            {
+              "id" : 2095,
+              "category_short_name" : "Salon",
+              "category_html_name" : "salon-software",
+              "published_year" : 2020,
+              "badge_type" : "Top 20"
+            }
+          ],
+          "bid_spot_us" : 9.0,
+          "currency_code" : "USD",
+          "currency_symbol" : "$",
+          "credit_card_required" : null,
+          "licensing_model" : null,
+          "open_api_offered" : "Unverified",
+          "mobile_urls" : [ ],
+          "integrations" : [
+            {
+              "id" : "db65b96d-c42d-40e8-a9e4-a6d200b3b293",
+              "name" : "Emma"
+            },
+            {
+              "id" : "44278a9e-09e7-4c4b-92d9-1a3739abe0ec",
+              "name" : "QuickBooks Online Advanced"
+            }
+          ],
+          "supported_countries" : [
+            {
+              "id" : 237,
+              "code" : "US",
+              "name" : "United States of America"
+            }
+          ],
+          "supported_languages" : [
+            {
+              "id" : 152,
+              "code" : "en",
+              "name" : "English",
+              "location" : null
+            }
+          ],
+          "target_industries" : [
+            {
+              "id" : 29,
+              "code" : "91",
+              "name" : "Consumer Services"
+            },
+            {
+              "id" : 30,
+              "code" : "18",
+              "name" : "Cosmetics"
+            },
+            {
+              "id" : 55,
+              "code" : "124",
+              "name" : "Health, Wellness and Fitness"
+            }
+          ],
+          "price_range_id" : 1,
+          "aggregated_review_ratings" : {
+            "industry" : {
+              "19" : 3.8,
+              "31" : 3.4,
+              "138" : 5.0,
+              "11" : 5.0,
+              "14" : 4.5,
+              "91" : 4.56,
+              "88" : 5.0,
+              "139" : 5.0,
+              "40" : 1.0,
+              "44" : 5.0,
+              "103" : 3.0,
+              "99" : 4.67,
+              "80" : 3.33,
+              "27" : 4.11,
+              "18" : 3.83,
+              "68" : 5.0,
+              "124" : 4.2,
+              "69" : 4.0,
+              "13" : 4.75,
+              "4" : 5.0,
+              "30" : 3.5,
+              "113" : 5.0
+            },
+            "company_size" : {
+              "10,001+ employees" : 2.0,
+              "1-10 employees" : 4.21,
+              "11-50 employees" : 4.21,
+              "Self-employed" : 3.33,
+              "51-200 employees" : 4.8,
+              "201-500 employees" : 3.5
+            }
+          },
+          "vct_enabled" : true,
+          "pricing_plans" : [
+            {
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Enterprise",
+              "description" : "The plan includes unlimited professionals.",
+              "display_order" : 4,
+              "price_type_name" : "Custom",
+              "custom_price" : "Custom pricing is available by contacting the sales team",
+              "starting_price" : null,
+              "ending_price" : null,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : null,
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "Custom Text Messages"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "Meevo Marketing Suite-Custom Email Contacts"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Priority Support Package"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "Unlimited One-Way Emails"
+                }
+              ]
+            },
+            {
+              "created_on_utc" : "2019-08-21T14:47:39Z",
+              "modified_on_utc" : "2022-08-19T08:26:55Z",
+              "created_by" : null,
+              "modified_by" : "Virender Pal Singh",
+              "name" : "Grow",
+              "description" : "The plan includes up to 10 professionals and 2,500 text messages.",
+              "display_order" : 1,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 149.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "Live Support Package"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "Meevo Marketing Suite- Up to 2500 Email Contacts"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Unlimited One-Way Emails"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "Up to 2500 Text Messages"
+                }
+              ]
+            },
+            {
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-08-19T08:26:55Z",
+              "created_by" : null,
+              "modified_by" : "Virender Pal Singh",
+              "name" : "Pro",
+              "description" : "The plan includes up to 25 professionals and 5,000 text messages.",
+              "display_order" : 2,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 269.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "Live Support Package"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "Meevo Marketing Suite- Up to 5000 Email Contacts"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Unlimited One-Way Emails"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "Up to 5000 Text Messages"
+                }
+              ]
+            },
+            {
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-08-19T08:26:55Z",
+              "created_by" : null,
+              "modified_by" : "Virender Pal Singh",
+              "name" : "Powerhouse",
+              "description" : "The plan includes unlimited professionals and 10,000 text messages.",
+              "display_order" : 3,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 419.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "Meevo Marketing Suite- Up to 10000 Email Contacts"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "Priority Support Package"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Unlimited One-Way Emails"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "Up to 10000 Text Messages"
+                }
+              ]
+            }
+          ],
+          "discount_types" : [
+            {
+              "name" : "By Plan Frequency",
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null
+            }
+          ]
+        }
+      },
+      {
+        "_index" : "product_listings_main_data_upc_vt20220920_043802_utc",
+        "_type" : "_doc",
+        "_id" : "212502_retailpos",
+        "_score" : 10.535126,
+        "_source" : {
+          "product_id" : 212502,
+          "seo_product_id" : 212502,
+          "seo_slug" : "Meevo-2",
+          "product_name" : "Meevo",
+          "upc_product_uuid" : "660bbebd-fc30-43e3-a9f1-a8c500605c97",
+          "old_product_ids" : [
+            172058
+          ],
+          "product_url" : "https://www.millenniumsi.com/lp/capterra",
+          "product_slug" : "Meevo-2",
+          "former_name" : "Meevo 2",
+          "logo_filepath" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/63933f2b-3987-4361-a7d4-72e14d92cf28.png",
+          "vendor" : {
+            "vendor_id" : 2152930,
+            "vendor_name" : "Millennium Systems International",
+            "vendor_url" : "http://www.millenniumsi.com/",
+            "year_founded" : 1987,
+            "location" : "United States",
+            "vendor_opted_out_of_reviews" : true,
+            "is_opted_out_of_reviews" : false,
+            "is_hit_limit" : false,
+            "enabled" : true,
+            "has_vendor_level_page" : false,
+            "slug" : null,
+            "vendor_page" : false,
+            "paused_campaign" : false
+          },
+          "category_short_name" : "retailpos",
+          "category_html_name" : "retail-pos-system-software",
+          "category" : {
+            "id" : 31656,
+            "short_name" : "retailpos",
+            "long_name" : "Retail POS System",
+            "html_name" : "retail-pos-system-software",
+            "enabled" : true
+          },
+          "best_category" : "retailpos",
+          "is_best_category" : true,
+          "highest_cpc_category" : null,
+          "is_highest_cpc_category" : false,
+          "short_desc" : "Crush your goals and grow your business in a completely customizable, easy-to-use platform built specifically for the beauty industry.",
+          "long_desc" : "Meevo is the award-winning salon and spa software powered by Millennium built specifically for the beauty industry to simplify client management, improve business operations, and enhance your marketing strategies. Crush your goals and grow your business in one completely customizable, easy-to-use platform with a 98.5% positive support rating from more than 350,000 users. You'll gain best-in-class, 5-star support from the moment you join the Meevo Community.",
+          "rating" : 4.2,
+          "number_of_reviews" : 167,
+          "total_reviews" : 163,
+          "ease_of_use_rating" : 4.1,
+          "customer_support_rating" : 4.4,
+          "functionality_rating" : 4.0,
+          "value_for_money_rating" : 4.1,
+          "recommendation_rating" : 7.5,
+          "pricing_enabled" : true,
+          "pricing" : 149.0,
+          "is_per_user" : false,
+          "fee_schedule" : "Per-Month",
+          "pricing_model" : "Flat Rate",
+          "pricing_details" : "Meevo pricing tiers are dependent on the number of users required. Pricing starts at $149/month for up to 10 users and scales as follows:\n\nGrow: $149/month for up to 10 users and 2,500 text messages.\n\nPro: $269/month for up to 25 users and 5,000 text messages.\n\nPowerhouse: $419/month for unlimited users and 10,000 text messages.\n\nEnterprise: Custom enterprise plans are available upon request.",
+          "pricing_created_on" : "2019-08-21T14:47:39Z",
+          "pricing_modified_on" : "2022-08-19T08:26:55Z",
+          "pricing_created_by" : null,
+          "pricing_modified_by" : "Virender Pal Singh",
+          "pricing_vendor_pricing_url" : "https://www.millenniumsi.com/meevo/pricing",
+          "free_trial" : false,
+          "free_version" : false,
+          "target_audience" : "Salon, spa, and medical spa businesses looking for easy-to-use software that provides everything needed to streamline operations, manage clients and grow. \n",
+          "target_users" : [
+            "2-10",
+            "11-50",
+            "51-200",
+            "201-500",
+            "501-1000",
+            "1000+"
+          ],
+          "platform" : [
+            {
+              "enabled" : true,
+              "name" : "Cloud, SaaS, Web-Based"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Mac"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Chromebook"
+            },
+            {
+              "enabled" : false,
+              "name" : "Mobile Android"
+            },
+            {
+              "enabled" : false,
+              "name" : "Mobile iPhone"
+            },
+            {
+              "enabled" : false,
+              "name" : "Mobile iPad"
+            }
+          ],
+          "support" : [
+            {
+              "enabled" : true,
+              "name" : "Email Help Desk"
+            },
+            {
+              "enabled" : true,
+              "name" : "FAQ Forum"
+            },
+            {
+              "enabled" : true,
+              "name" : "Knowledgebase"
+            },
+            {
+              "enabled" : true,
+              "name" : "Phone Support"
+            },
+            {
+              "enabled" : true,
+              "name" : "24/7 Live Rep"
+            },
+            {
+              "enabled" : true,
+              "name" : "Chat"
+            }
+          ],
+          "training" : [
+            {
+              "enabled" : false,
+              "name" : "Not Offered"
+            },
+            {
+              "enabled" : true,
+              "name" : "In-Person"
+            },
+            {
+              "enabled" : true,
+              "name" : "Live Online"
+            },
+            {
+              "enabled" : true,
+              "name" : "Webinars"
+            },
+            {
+              "enabled" : true,
+              "name" : "Documentation"
+            },
+            {
+              "enabled" : true,
+              "name" : "Videos"
+            }
+          ],
+          "media" : [
+            {
+              "product_id" : 212502,
+              "vendor_id" : 2152930,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/ce179fcf-1c1f-4b20-8db4-fa337bf78ec7.png",
+              "caption" : "Dynamic, real-time worlds customized for any role.",
+              "weight" : 1,
+              "short_name" : "retailpos"
+            },
+            {
+              "product_id" : 212502,
+              "vendor_id" : 2152930,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/783c3245-93a3-42d4-8fc4-a7d3a4866dff.png",
+              "caption" : "Access your business data anywhere, any time and on any device with Meevo 2's mobility.",
+              "weight" : 2,
+              "short_name" : "retailpos"
+            },
+            {
+              "product_id" : 212502,
+              "vendor_id" : 2152930,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/f228a9c7-4798-497b-b783-bc657309fdbb.png",
+              "caption" : "Track and surpass goals with Meevo's Goals Dashboard.",
+              "weight" : 3,
+              "short_name" : "retailpos"
+            },
+            {
+              "product_id" : 212502,
+              "vendor_id" : 2152930,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/abe2bebc-e070-42aa-a69a-6c58cbe7adb0.png",
+              "caption" : "Elevate your brand with custom email marketing and online reputation management tools.",
+              "weight" : 4,
+              "short_name" : "retailpos"
+            },
+            {
+              "product_id" : 212502,
+              "vendor_id" : 2152930,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/9f59361a-f0f0-4c6e-8ec2-4a85b29e66cf.png",
+              "caption" : "Drive revenue with Meevo's secure, easy to use eGift card platform.",
+              "weight" : 5,
+              "short_name" : "retailpos"
+            },
+            {
+              "product_id" : 212502,
+              "vendor_id" : 2152930,
+              "media_type" : "VIDEO",
+              "path_url" : "https://youtu.be/V8K-9546dn0",
+              "caption" : null,
+              "weight" : 0,
+              "short_name" : "retailpos"
+            }
+          ],
+          "links" : [ ],
+          "features" : [
+            {
+              "category_name" : "Retail POS System",
+              "category_features" : [
+                {
+                  "name" : "Barcode / Ticket Scanning",
+                  "value" : false,
+                  "id" : "62b94c17-29ff-47eb-92e1-242d6f3c04be",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "The ability to scan barcodes to ensure accurate pricing and label tracking "
+                },
+                {
+                  "name" : "Commission Management",
+                  "value" : true,
+                  "id" : "97cc20e3-cd5e-49e2-ae87-f63543fdfd5e",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Track employee commission potential and earnings"
+                },
+                {
+                  "name" : "Discount Management",
+                  "value" : true,
+                  "id" : "89d2f20f-1df8-4929-aef1-96784010c4f5",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Track products that are for sale at a reduced price"
+                },
+                {
+                  "name" : "Gift Card Management",
+                  "value" : true,
+                  "id" : "22b3c949-060c-43ef-8796-1e4f09a79c22",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Reward loyal customers with gift cards which they can redeem for special offers and loyalty bonus"
+                },
+                {
+                  "name" : "Inventory Management",
+                  "value" : true,
+                  "id" : "80f46038-6ae8-4725-8064-788b20380eeb",
+                  "avg_rating" : 4.8,
+                  "cnt_rating" : 20,
+                  "avg_importance" : 2.6,
+                  "cnt_importance" : 5,
+                  "cnt_time_used" : 6,
+                  "pct_time_used" : 0.833,
+                  "cnt_time_critical" : 6,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Track and manage the quantity of resources on hand to maintain proper supply"
+                },
+                {
+                  "name" : "Loyalty Program",
+                  "value" : true,
+                  "id" : "6b34f1a7-a35e-4df8-8d9f-639803393208",
+                  "avg_rating" : 3.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 0.5,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Provide customers with the ability to earn reward points for repeat purchases. Points can be used to get discounts on future purchases"
+                },
+                {
+                  "name" : "Pricing Management",
+                  "value" : false,
+                  "id" : "7bc60e62-da2d-4101-aa65-3098eaf60a9b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Develop, set, execute and measure prices as an ongoing process"
+                },
+                {
+                  "name" : "Returns Tracking",
+                  "value" : false,
+                  "id" : "fe6e65bf-3bc0-455d-a5c6-c6017a0dd499",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "See what items have been returned"
+                },
+                {
+                  "name" : "Sales Reports",
+                  "value" : true,
+                  "id" : "1d974136-6c30-4720-aa78-b6baee917e05",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "View and analyze the quantities of products being sold at any given period"
+                },
+                {
+                  "name" : "Touch Screen",
+                  "value" : false,
+                  "id" : "e9040a08-99e6-4a51-91f7-02fee6cc02ae",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Interact with the software by touching screens of the devices where it is installed"
+                },
+                {
+                  "name" : "eCommerce Management",
+                  "value" : false,
+                  "id" : "3ca5a3b4-47fd-428c-9e6e-19fca8ca46dd",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Sell products online"
+                }
+              ]
+            }
+          ],
+          "infographics" : [ ],
+          "related_products" : [
+            {
+              "product_id" : 83891,
+              "seo_product_id" : 83891,
+              "seo_slug" : "Shopify",
+              "vendor_name" : "Shopify",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/02003834-0d15-4971-9c3a-6b27005f4b06.png",
+              "rating" : 4.5,
+              "total_reviews" : 5611,
+              "slug" : "Shopify",
+              "product_name" : "Shopify",
+              "short_desc" : "Shopify is a commerce platform that allows anyone to easily sell online, at a retail location, and everywhere in between.",
+              "features" : "Shopify is a commerce platform that allows anyone to easily sell online, at a retail location, and everywhere in between. Shopify offers a professional online storefront, a payment solution to accept credit cards, and the Shopify POS application to power retail sales. \r\n\r\nShopify currently powers over 160,000 retailers in 100 different countries, including: Tesla Motors, Gatorade, Forbes, Amnesty International, Encyclopedia Britannica, Maxim Magazine, CrossFit, Black Milk Clothing, Herschel Sup",
+              "url" : "http://www.shopify.com/?utm_source=capterra&utm_medium=cpc&utm_campaign=capterra&BOID=capterra&ref=capterra2"
+            },
+            {
+              "product_id" : 171165,
+              "seo_product_id" : 222623,
+              "seo_slug" : "PayPal-Here",
+              "vendor_name" : "PayPal",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/fa60654d-2574-4fd0-be82-997481934cda.png",
+              "rating" : 4.6,
+              "total_reviews" : 1938,
+              "slug" : "PayPal-Here-app",
+              "product_name" : "PayPal Zettle",
+              "short_desc" : "Accept card and contactless payments in person with our selection of chip, tap, and swipe readers and accessories.",
+              "features" : "PayPal Commerce Platform helps make it easy for your customers to pay any way they want from almost anywhere. Let them pay now, pay later, or offer subscriptions or global and local payment options. It's the kind of flexibility customers demandthe kind that drives loyalty and lets you grow with the market.",
+              "url" : "https://ad.doubleclick.net/ddm/clk/472677396;278585484;l"
+            },
+            {
+              "product_id" : 90708,
+              "seo_product_id" : 152321,
+              "seo_slug" : "Booker",
+              "vendor_name" : "Mindbody",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/6f087443-68f3-47d4-b588-4c36a2f0e620.png",
+              "rating" : 4.1,
+              "total_reviews" : 933,
+              "slug" : "Booker",
+              "product_name" : "Booker",
+              "short_desc" : "Cloud-based online booking, scheduling, point of sale and marketing software - everything you need to make your life easier. ",
+              "features" : "Booker's cutting-edge salon software helps your run and grow your salon with an all-in-one platform that understands you'd rather be focusing on your clients instead of your administrative duties. Manage your online bookings, point-of-sale, membership and loyalty programs, all while attracting new clients, and making sure they come back. Access your salon business anytime, anywhere, all on Booker's secure, cost-effective, cloud-based software.",
+              "url" : "http://marketing.booker.com/booker-salon2-capterra/?campaignID=7010e000001GAnU&referralSource=Paid+Search&primaryMarket=&utm_campaign=PPC+Capterra+Salon+Booker&utm_source=Capterra&utm_medium=ppc&utm_term=&utm_content="
+            },
+            {
+              "product_id" : 120491,
+              "seo_product_id" : 218718,
+              "seo_slug" : "Lightspeed-Retail",
+              "vendor_name" : "Lightspeed",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/b882c63b-4160-43c2-9157-5e57744113d9.png",
+              "rating" : 4.2,
+              "total_reviews" : 869,
+              "slug" : "Lightspeed-Retail",
+              "product_name" : "Lightspeed Retail",
+              "short_desc" : "This cloud-based EPOS centralizes inventory management, employee management, sales reporting & accounting across locations and channels",
+              "features" : "Future-proof your retail business with Lightspeed EPOS and its features like contactless payment, omnichannel loyalty & advanced eCommerce solution. Manage your inventory, customers, employees, and sales from your laptop, iPad, or mobile phone! Accept all payment methods and cut down your check-out time in-store & online. Save time by using integrated purchasing catalogs. Make data-driven decisions to grow your business by tracking costs, old inventory and automating low stock alerts.",
+              "url" : "https://www.lightspeedhq.com/pos/retail/?utm_medium=cpc&utm_source=capterra&utm_campaign=Retail%20POS%20System&utm_content=default"
+            },
+            {
+              "product_id" : 212075,
+              "seo_product_id" : 212075,
+              "seo_slug" : "CAKE-POS",
+              "vendor_name" : "Mad Mobile",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/af4bffe0-1604-435d-a9ec-07f94ab9cbf1.jpeg",
+              "rating" : 4.6,
+              "total_reviews" : 455,
+              "slug" : "CAKE-POS",
+              "product_name" : "CAKE POS",
+              "short_desc" : "CAKE POS is designed to meet the unique needs of restaurants. A simple, intuitive and cost-friendly solution.",
+              "features" : "CAKE built its POS to meet the demands of Quick & Full Service restaurants. It is simple, intuitive, and cost-friendly.\r\n\r\nEasily handle Quick Service rush hours with line-busting OrderPads that control the flow of traffic and a customer-facing display for guests to privately pay, tip, and sign from their own screen. Supercharge your Full-Service POS with rich guest profiles and automatic table status updates. CAKE POS makes it easy for restaurants to get more done every day.",
+              "url" : "https://www.trycake.com/products/restaurant-pos-system/"
+            },
+            {
+              "product_id" : 166759,
+              "seo_product_id" : 226864,
+              "seo_slug" : "Clover-",
+              "vendor_name" : "Fiserv",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/1c6efc6e-ee15-4382-b3ac-57d8b99866fd.png",
+              "rating" : 3.9,
+              "total_reviews" : 361,
+              "slug" : "Clover",
+              "product_name" : "Clover",
+              "short_desc" : "An all-in-one point-of-sale & payments system, Clover integrates the functions of a cash register, card payment terminal, & POS system.",
+              "features" : "Clover is an all-in-one point-of-sale and payments system that integrates the functions of a cash register, card payment terminal, and POS system. As a cloud-based platform supporting a suite of devices, Clover makes it easier and faster than ever to run your business. Built-in capabilities allow you to simplify daily tasks, speed up transactions, engage customers, and accept the latest payments effortlessly. Clover also offers a robust App Market, with 300+ apps available and growing.",
+              "url" : "https://www.clover.com/capterra?utm_campaign=cbs_cpl_capterra&utm_medium=CPL"
+            },
+            {
+              "product_id" : 152638,
+              "seo_product_id" : 218526,
+              "seo_slug" : "Epos-Now",
+              "vendor_name" : "Epos Now",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/0fdb9057-0bab-40d0-9ffa-79ae329ec960.png",
+              "rating" : 3.6,
+              "total_reviews" : 304,
+              "slug" : "Epos-Now",
+              "product_name" : "Epos Now",
+              "short_desc" : "One POS system that sits at the centre of your retail operation. Manage your stock, staff, sales, data and payments from anywhere.",
+              "features" : "One POS system that sits at the centre of your retail operation. Manage your stock, staff, sales, data and payments from anywhere.\n\nOnboard and train staff in minutes.\n\nSeamlessly add eCommerce, Click & Collect or delivery.\n\nTrack margin data to identify your most profitable products.\n\nSave hours of time with automated, real-time stock counts.\n\nIntegrate with your preferred payment partner\nIdeal for clothing, vape, convenience, grocery, gift shop and more.",
+              "url" : "http://www.eposnow.com/uk/?utm_source=capterra&utm_medium=capterra"
+            },
+            {
+              "product_id" : 142666,
+              "seo_product_id" : 135040,
+              "seo_slug" : "Revel-iPad-POS",
+              "vendor_name" : "Revel Systems",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/622648e9-2255-4a39-bf20-16d3956c33f6.png",
+              "rating" : 3.7,
+              "total_reviews" : 298,
+              "slug" : "Revel-iPad-POS",
+              "product_name" : "Revel Systems",
+              "short_desc" : "Revel Systems is a cloud-based iPad point of sale (POS) solution that is quick, intuitive and secure. ",
+              "features" : "Revel Systems is a robust, cloud-based iPad point of sale (POS) solution that powers the ambitions of restaurants and retailers. A scalable solution, Revel can meet the needs of independent businesses with multiple terminals and 2+ locations, small, midsize, and large chains. Quick, intuitive, and secure, the Revel POS offers extensive in-house features and can integrate seamlessly with partners specializing in payroll, inventory tracking, customer relationship management, and other features.",
+              "url" : "https://revelsystems.com/ipad-pos-demo-request/"
+            },
+            {
+              "product_id" : 122682,
+              "seo_product_id" : 122682,
+              "seo_slug" : "VendHQ",
+              "vendor_name" : "Lightspeed",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/a7a0270d-09c7-4a93-94dc-9feb70a6653a.png",
+              "rating" : 4.2,
+              "total_reviews" : 221,
+              "slug" : "VendHQ",
+              "product_name" : "Vend",
+              "short_desc" : "Web-based retail point-of-sale and inventory management software built for iOS. Starts at $99/month.",
+              "features" : "Vend is cloud-based point of sale software designed for retailers to sell, measure, manage and grow their business. Retailers in over 20,000 stores use Vend to accept payments, track customers, manage inventory and run business analytics for real-time insights into business performance. Vend gives retailers access to tools more powerful and intuitive than enterprise systems, at a fraction of the cost.",
+              "url" : "https://www.vendhq.com/demo?campaign=70190000000njcj&utm_medium=cpc&utm_source=capterra"
+            },
+            {
+              "product_id" : 43189,
+              "seo_product_id" : 43190,
+              "seo_slug" : "Windward-System-Five",
+              "vendor_name" : "Windward Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/9f635cac-1ac5-4664-b6a2-ea9795d69fb1.png",
+              "rating" : 3.8,
+              "total_reviews" : 183,
+              "slug" : "Windward-System-Five",
+              "product_name" : "Windward System Five",
+              "short_desc" : "Windward System Five is a full business management system for companies that sell, service, or rent inventory.",
+              "features" : "Windward System Five is a full business management system for companies that sell, service, or rent inventory. The software includes core functionality of Point of Sale, CRM, Inventory Control, and Accounting; fully integrated operating in real-time. The feature set and flexibility of our platform allow a diverse set of vertical markets such as Home Goods, Lighting Showrooms, and Rental Shops to thrive with day-to-day use of Windward System 5, whether a single location shop or a national chain.",
+              "url" : "https://www.windwardsoftware.com/en-us"
+            },
+            {
+              "product_id" : 165410,
+              "seo_product_id" : 220359,
+              "seo_slug" : "WooPOS-",
+              "vendor_name" : "WooPOS",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/97294ef4-9f0c-4416-a8f3-6ec4e9a16f87.png",
+              "rating" : 4.6,
+              "total_reviews" : 170,
+              "slug" : "WooCommerce",
+              "product_name" : "WooPOS ",
+              "short_desc" : "WooPOS -- Point of sale and inventory management for WooCommerce and Shopify. Fit businesses for up to 1000 employees and 1M products.",
+              "features" : "High-end enterprise level retail Point Of Sale and Inventory Management on Windows Desktop with affordable pricing. WooPOS covers every aspect of your retail business. Customizable for all types of retail Industries. Features include CRM, customer loyalty, employee commission, time-card, auto discount rules, tax by zip code, hybrid online and offline database, 500 comprehensive analytics reports. Deep e-commerce integration including WooCommerce and Shopify.",
+              "url" : "https://woopos.com/social/?ref_id=393"
+            }
+          ],
+          "similar_products" : [
+            {
+              "product_id" : 140893,
+              "seo_product_id" : 218722,
+              "seo_slug" : "Rain-Point-of-Sale",
+              "vendor_name" : "Rain Retail Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/05067939-8101-46ff-9dc0-403416682a3d.png",
+              "rating" : 4.3,
+              "total_reviews" : 120,
+              "slug" : "Rain-Point-of-Sale",
+              "product_name" : "Rain POS",
+              "short_desc" : "Grow your business with the all-in-one retail POS system. Manage your inventory, customer, and marketing all in one place.",
+              "features" : "Grow your business with the all-in-one retail POS system. Manage your inventory, customer, and marketing all in one place.",
+              "url" : "https://retail.rainpos.com/capterra-2022/"
+            },
+            {
+              "product_id" : 120491,
+              "seo_product_id" : 218718,
+              "seo_slug" : "Lightspeed-Retail",
+              "vendor_name" : "Lightspeed",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/b882c63b-4160-43c2-9157-5e57744113d9.png",
+              "rating" : 4.2,
+              "total_reviews" : 869,
+              "slug" : "Lightspeed-Retail",
+              "product_name" : "Lightspeed Retail",
+              "short_desc" : "This cloud-based EPOS centralizes inventory management, employee management, sales reporting & accounting across locations and channels",
+              "features" : "Future-proof your retail business with Lightspeed EPOS and its features like contactless payment, omnichannel loyalty & advanced eCommerce solution. Manage your inventory, customers, employees, and sales from your laptop, iPad, or mobile phone! Accept all payment methods and cut down your check-out time in-store & online. Save time by using integrated purchasing catalogs. Make data-driven decisions to grow your business by tracking costs, old inventory and automating low stock alerts.",
+              "url" : "https://www.lightspeedhq.com/pos/retail/get-quote/?utm_medium=cpc&utm_source=capterra&utm_campaign=Lightspeed%20Retail&utm_content=default"
+            },
+            {
+              "product_id" : 195239,
+              "seo_product_id" : 221074,
+              "seo_slug" : "ThriftCart",
+              "vendor_name" : "Nabadab",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/78e844a6-07b0-462f-ba24-19cfc6e7a41c.png",
+              "rating" : 4.6,
+              "total_reviews" : 20,
+              "slug" : "ThriftCart-Point-of-Sale",
+              "product_name" : "ThriftCart",
+              "short_desc" : "Thrift store point of sale system. Do round-up donations, color discounts, sold slips, and more. Great for non-profits!",
+              "features" : "POS system designed specifically for thrift stores, building materials reuse stores, and salvage stores. Do round-up donations, color discounts, sold slips, and more. ThriftCart is a full-featured cloud-based retail point of sale system with extra functionality to make it work in the thrift and non-profit world. It's easy enough for volunteer cashiers to learn in minutes. The point of sale system can be further enhanced with donation pickup scheduling and drop off donation tracking.",
+              "url" : "https://retail.thriftcart.com/manage-donations/"
+            },
+            {
+              "product_id" : 155794,
+              "seo_product_id" : 155794,
+              "seo_slug" : "Paladin-POS",
+              "vendor_name" : "Paladin Data",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/b4effcae-5505-4f20-85ab-b65ac52a7aa4.png",
+              "rating" : 4.6,
+              "total_reviews" : 21,
+              "slug" : "Paladin-POS",
+              "product_name" : "Paladin POS",
+              "short_desc" : "Paladin's Powerfully Simple and Proven Point of Sale and Inventory Management software helps independent retail businesses run better.",
+              "features" : "Paladin Point of Sale and Inventory Management\n\nFor over 40 years, Paladin Data Corp. has been helping independent retail businesses run better. The hybrid retail system automates ordering, tracks inventory and provides detailed reports along with hundreds of integrations to enable the tools you need to succeed in managing your business more efficiently.\n\nLearn more about Paladin's intuitive interface, easy set-up process, low monthly payments (no long-term contracts) and highly rated support. ",
+              "url" : "https://get.paladinpointofsale.com/free-quote/"
+            },
+            {
+              "product_id" : 169011,
+              "seo_product_id" : 267036,
+              "seo_slug" : "Native-Omnichannel-Solution-for-Magento-Retailers",
+              "vendor_name" : "Magestore",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/a2016280-4c3d-42d3-8d05-caed598f47a2.png",
+              "rating" : 4.5,
+              "total_reviews" : 8,
+              "slug" : "Native-Omnichannel-Solution-for-Magento-Retailers",
+              "product_name" : "Magestore",
+              "short_desc" : "The world's #1 POS for Magento, Magestore streamlines operations by syncing data across website & offline stores in real time.",
+              "features" : "Scalable and customizable point of sale solution, dedicated to Magento merchants. Magestore POS reduces manual work and data inaccuracy so you can streamline retail operations and deliver seamless shopping experience. Sync data between your Magento website and brick-and-mortar stores in real time and bring key business functions into one platform. Trusted by an estimated 10,000 companies across the globe to sell, manage, and scale their business.",
+              "url" : "https://www.magestore.com/magestore-pos-introduction/"
+            },
+            {
+              "product_id" : 218533,
+              "seo_product_id" : 218533,
+              "seo_slug" : "RockSolid-MAX",
+              "vendor_name" : "ECI Software Solutions",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/ef2a9c02-0b5b-4db3-a251-04acaa3e4356.png",
+              "rating" : 3.8,
+              "total_reviews" : 38,
+              "slug" : "RockSolid-MAX",
+              "product_name" : "RockSolid MAX",
+              "short_desc" : "RockSolid MAX integrated point of sale is easy to use and helps retailers grow their business at one affordable monthly price. ",
+              "features" : "RockSolid MAX software includes features home and building supply retailers need to grow their business at one affordable monthly price. With easy-to-use integrated point of sale, purchasing, inventory management, and accounts receivable, your business will operate efficiently and profitably.  With document management spend time with customers instead of digging through paper. Plus, its cloud-based so you can access the system from anywhere and know your data is always backed up and protected.",
+              "url" : "https://www.ecisolutions.com/ppc-landing/rocksolid-max-demo-ppc/?utm_source=Capterra&utm_medium=ppc-paid-listing&utm_campaign=general"
+            },
+            {
+              "product_id" : 142520,
+              "seo_product_id" : 226468,
+              "seo_slug" : "KORONA",
+              "vendor_name" : "COMBASE",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/ce9a39bc-b71f-4dd6-bc5c-99692dd30921.png",
+              "rating" : 4.7,
+              "total_reviews" : 52,
+              "slug" : "KORONA",
+              "product_name" : "KORONA",
+              "short_desc" : "KORONA retail POS system offers retailers a low, flat monthly subscription with inventory management and CRM features. Try it for free.",
+              "features" : "KORONA retail POS system features advanced inventory management, speedy transactions, modern payment options, product analytics, detailed reporting, loyalty programs, employee permissions, and more. All features are fully customizable and scalable to retailers of any niche or size with various hardware options.\r\n\r\nTry KORONA for free and set up a full, personalized demo. There are no contracts or fees. All set up, training, and 24/7 phone/chat support are included in your monthly subscription.",
+              "url" : "https://koronapos.com/pos-system/retail-pos-system/?utm_source=capterra&utm_medium=retail&utm_campaign=cpc"
+            },
+            {
+              "product_id" : 205574,
+              "seo_product_id" : 221477,
+              "seo_slug" : "MyPOS-Connect",
+              "vendor_name" : "Tri-City Retail Systems",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/2a8100ba-0173-44b2-84a7-762a6bd3211c.png",
+              "rating" : 4.5,
+              "total_reviews" : 39,
+              "slug" : "RetailPOS",
+              "product_name" : "MyPOS Connect",
+              "short_desc" : "Cloud \"hybrid\" retail POS system with powerful inventory management tools and built-in customer relationship features.",
+              "features" : "A Cloud \"hybrid\" POS solution for Specialty retailers who want to manage multiple stores without network servers and infrastructure. The POS app operates with or without an internet connection and integrates to popular EMV-compliant merchant services providers. Powerful stock control and replenishment capabilities maximize returns on inventory. Flexible CRM features improve customers' in-store experience. Real-time reports provide chain-wide visibility from any browser, anywhere, anytime.",
+              "url" : "https://info.gartnerdigitalmarkets.com/tricityretail-gdm-lp"
+            },
+            {
+              "product_id" : 110708,
+              "seo_product_id" : 224368,
+              "seo_slug" : "RealTime-POS",
+              "vendor_name" : "Realtime POS",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4c14c007-0904-49f7-9b2d-7f771fcfe78a.png",
+              "rating" : 4.1,
+              "total_reviews" : 9,
+              "slug" : "Realtime-POS",
+              "product_name" : "RealTime POS",
+              "short_desc" : "Retail Point Of Sale Solutions for the Specialty Retailer, Private Cloud or Deploy on Premise - Two flexible options to choose from.",
+              "features" : "Built for multi-store operations and chain stores. Robust and comprehensive inventory management, Get real-time access to POS transactions, purchasing, customers, Real-time stock transfers, cash management and many other features all in real-time. Integration with most popular carts like Magento, Shopify, BigCommerce, Woocommerce & more. Monthly service or purchase & host on our servers. Apparel, gift shops, sporting goods, cosmetics, and many other retail environments.",
+              "url" : "https://info.gartnerdigitalmarkets.com/realtimepos-gdm-lp"
+            },
+            {
+              "product_id" : 152638,
+              "seo_product_id" : 218526,
+              "seo_slug" : "Epos-Now",
+              "vendor_name" : "Epos Now",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/0fdb9057-0bab-40d0-9ffa-79ae329ec960.png",
+              "rating" : 3.6,
+              "total_reviews" : 304,
+              "slug" : "Epos-Now",
+              "product_name" : "Epos Now",
+              "short_desc" : "One POS system that sits at the centre of your retail operation. Manage your stock, staff, sales, data and payments from anywhere.",
+              "features" : "One POS system that sits at the centre of your retail operation. Manage your stock, staff, sales, data and payments from anywhere.\n\nOnboard and train staff in minutes.\n\nSeamlessly add eCommerce, Click & Collect or delivery.\n\nTrack margin data to identify your most profitable products.\n\nSave hours of time with automated, real-time stock counts.\n\nIntegrate with your preferred payment partner\nIdeal for clothing, vape, convenience, grocery, gift shop and more.",
+              "url" : "http://www.eposnow.com/uk/?utm_source=capterra&utm_medium=capterra"
+            },
+            {
+              "product_id" : 76636,
+              "seo_product_id" : 226355,
+              "seo_slug" : "RetailEdge",
+              "vendor_name" : "High Meadow Business Solutions",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/b12dd6bb-11b2-402f-b4e7-1fd05cb7df9b.png",
+              "rating" : 4.7,
+              "total_reviews" : 139,
+              "slug" : "RetailEdge",
+              "product_name" : "RetailEdge",
+              "short_desc" : "Retail POS software for brick n mortar stores. Consignment, apparel, boutique, gift, specialty, bakery, vape, hydroponics, outdoor, etc",
+              "features" : "RetailEdge is a Windows-based, installed/cloud hybrid retail POS software that includes all the features your business needs to grow and thrive starting at only $495 one-time. Use for registers, back offices, warehouses, on the road, or at home with or without internet. Use your choice of integrated payment processor with no added fees. Track sales, customers, and inventory with hundreds of reports and sync inventory with an ecommerce store.",
+              "url" : "https://retailedge.com/retailedge-retail-pos-software-capterra?utm_source=Capterra&utm_medium=PPC&utm_campaign=RetailEdge&utm_term=POS%20Software"
+            },
+            {
+              "product_id" : 231589,
+              "seo_product_id" : 231589,
+              "seo_slug" : "Wise-Software",
+              "vendor_name" : "Wise Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/30fb3347-c159-4b39-a490-aae6b54b5eb2.png",
+              "rating" : 5.0,
+              "total_reviews" : 2,
+              "slug" : "Wise-Software",
+              "product_name" : "Enterprise",
+              "short_desc" : "Wise Software - Retail is the essential modern point-of-sale for pool & spa dealers that lets you go beyond brick & mortar.",
+              "features" : "Wise Software - Enterprise is a pool service management software for retailers and service professionals. With fully automated billing. Enterprise lets anyone work and collaborate anywhere on any device. Handle your recurring invoicing, routes, work orders, inventory, test readings, and integration with Pool360 (Pool Corp) in one system. A truly universal platform with no need for any third-party apps to handle your business. ",
+              "url" : "https://www.wisesoftwareinc.com/"
+            },
+            {
+              "product_id" : 197473,
+              "seo_product_id" : 226928,
+              "seo_slug" : "SpotOn-Restaurant",
+              "vendor_name" : "SpotOn",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/0e42e6a9-9a3c-49eb-9da9-226172f89aa1.png",
+              "rating" : 4.7,
+              "total_reviews" : 159,
+              "slug" : "SpotOn-Restaurant",
+              "product_name" : "SpotOn",
+              "short_desc" : "Save time & boost sales with SpotOn Retail, the point-of-sale system that makes it easy for retailers to sell in-store and online.",
+              "features" : "SpotOn Retail enables local retailers and service providers to put their stores online so they can compete against the big-box retailers.  As a fully integrated omnichannel solution, it comes with a cloud catalog, a point-of-sale, an online store, and a branded website that all can be managed easily through an online dashboard.",
+              "url" : "https://www.spoton.com/lp/sr-lp/?utm_source=capterra&utm_medium=cpc&utm_campaign=CapterraBroad"
+            }
+          ],
+          "related_categories" : [
+            {
+              "functional_group" : "retailpos",
+              "long_name" : "iPad POS",
+              "html_name" : "ipad-pos-software",
+              "link_name" : "ipad-pos",
+              "product_count" : null,
+              "meta_description" : "Find and compare top iPad POS software on Capterra, with our free and interactive tool. Quickly browse through hundreds of iPad POS tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href='/ipad-pos-software\">iPad POS software</a> helps restaurants, bars, and retailers with payment processing, orders, and inventory management using mobile tablets. These mobile device applications often provide detailed sales reports, promotion management, and suggesting selling to help users increase sales. iPad POS software is closely related to <a href=\"/point-of-sale-software\">Point of Sale software</a>, <a href=\"/bar-pos-software\">Bar POS software</a>, and <a href=\"/restaurant-pos-software\">Restaurant POS software</a>."
+            },
+            {
+              "functional_group" : "retailpos",
+              "long_name" : "Point of Sale",
+              "html_name" : "point-of-sale-software",
+              "link_name" : "point-of-sale",
+              "product_count" : 278,
+              "meta_description" : "Find and compare top Point of Sale software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Point of Sale tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/point-of-sale-software\">Point of Sale (POS) software</a> automates the capture of financial and sales transactions. Retail POS systems are among the most sophisticated and powerful computer networks in commercial use.  Point of Sale systems integrate core business functions such as sales tracking, accounts receivable, <a href=\"/purchasing-software\">purchasing</a> and <a href=\"/inventory-management-software\">inventory management</a> across multiple registers or retail branches.  POS software also provides the infrastructure for connecting retail locations with <a href=\"/supply-chain-management-software\">supply chain</a> operations and upper management."
+            },
+            {
+              "functional_group" : "retailpos",
+              "long_name" : "Retail Management Systems",
+              "html_name" : "retail-management-systems-software",
+              "link_name" : "retail-management-systems",
+              "product_count" : 136,
+              "meta_description" : "Find and compare top Retail Management systems on Capterra, with our free and interactive tool. Quickly browse through hundreds of Retail Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/retail-management-systems-software>Retail Management Systems software</a> manages financial reporting, accounting, and operations of retail stores by integrating core business processes such as <a href=\"/point-of-sale-software\">point of sale (POS)</a>, <a href=\"/customer-relationship-management-software\">customer relationship management (CRM)</a>, <a href=\"/inventory-management-software\">inventory management</a>, <a href=\"/accounting-software\">accounting</a>, <a href=\"/human-resource-software\">human resources</a>, marketing and <a href=\"/ecommerce-software\">eCommerce</a>.  By implementing a Retail Management System, organizations can increase sales, decrease costs, and maximize their competitive advantage. These applications facilitate the distribution of key data throughout an enterprise and provide the infrastructure for accurate sales reporting and revenue forecasting."
+            }
+          ],
+          "is_upgraded" : false,
+          "enabled" : true,
+          "filter_options" : {
+            "users" : 126,
+            "platform" : 1,
+            "pricing_options" : 2,
+            "category_related_features" : [
+              40002,
+              40003,
+              40006,
+              40010,
+              40017,
+              40019,
+              41900,
+              70312,
+              70314,
+              70318,
+              70320,
+              70323,
+              70324,
+              70325,
+              70328,
+              70329,
+              70331,
+              70333,
+              70337,
+              70338,
+              70344,
+              70346,
+              70347,
+              70348,
+              81262,
+              81263
+            ],
+            "employees" : 126
+          },
+          "sort_options" : {
+            "sort_review_rating" : 4.409736633300781,
+            "most_recent_review" : "2022-09-13T15:55:38Z"
+          },
+          "countries" : "ALL",
+          "features_tokenized_text" : "commission_management discount_management gift_card_management inventory_management loyalty_program sales_reports",
+          "platform_tokenized_text" : "cloud,saas,web-based",
+          "users_tokenized_text" : "2-10 11-50 51-200 201-500 501-1000 1000+",
+          "pricing_tokenized_text" : "monthlysubscription",
+          "badges" : [ ],
+          "bid_spot_us" : 0.0,
+          "currency_code" : "USD",
+          "currency_symbol" : "$",
+          "credit_card_required" : null,
+          "licensing_model" : null,
+          "open_api_offered" : "Unverified",
+          "mobile_urls" : [ ],
+          "integrations" : [
+            {
+              "id" : "db65b96d-c42d-40e8-a9e4-a6d200b3b293",
+              "name" : "Emma"
+            },
+            {
+              "id" : "44278a9e-09e7-4c4b-92d9-1a3739abe0ec",
+              "name" : "QuickBooks Online Advanced"
+            }
+          ],
+          "supported_countries" : [
+            {
+              "id" : 237,
+              "code" : "US",
+              "name" : "United States of America"
+            }
+          ],
+          "supported_languages" : [
+            {
+              "id" : 152,
+              "code" : "en",
+              "name" : "English",
+              "location" : null
+            }
+          ],
+          "target_industries" : [
+            {
+              "id" : 29,
+              "code" : "91",
+              "name" : "Consumer Services"
+            },
+            {
+              "id" : 30,
+              "code" : "18",
+              "name" : "Cosmetics"
+            },
+            {
+              "id" : 55,
+              "code" : "124",
+              "name" : "Health, Wellness and Fitness"
+            }
+          ],
+          "price_range_id" : 1,
+          "aggregated_review_ratings" : {
+            "industry" : {
+              "69" : 4.0,
+              "19" : 3.8,
+              "113" : 5.0,
+              "139" : 5.0,
+              "68" : 5.0,
+              "99" : 4.67,
+              "138" : 5.0,
+              "27" : 4.11,
+              "13" : 4.75,
+              "91" : 4.56,
+              "88" : 5.0,
+              "30" : 3.5,
+              "31" : 3.4,
+              "80" : 3.33,
+              "18" : 3.83,
+              "4" : 5.0,
+              "11" : 5.0,
+              "14" : 4.5,
+              "44" : 5.0,
+              "103" : 3.0,
+              "124" : 4.2,
+              "40" : 1.0
+            },
+            "company_size" : {
+              "201-500 employees" : 3.5,
+              "51-200 employees" : 4.8,
+              "11-50 employees" : 4.21,
+              "Self-employed" : 3.33,
+              "10,001+ employees" : 2.0,
+              "1-10 employees" : 4.21
+            }
+          },
+          "vct_enabled" : false,
+          "pricing_plans" : [
+            {
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Enterprise",
+              "description" : "The plan includes unlimited professionals.",
+              "display_order" : 4,
+              "price_type_name" : "Custom",
+              "custom_price" : "Custom pricing is available by contacting the sales team",
+              "starting_price" : null,
+              "ending_price" : null,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : null,
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "Custom Text Messages"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "Meevo Marketing Suite-Custom Email Contacts"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Priority Support Package"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "Unlimited One-Way Emails"
+                }
+              ]
+            },
+            {
+              "created_on_utc" : "2019-08-21T14:47:39Z",
+              "modified_on_utc" : "2022-08-19T08:26:55Z",
+              "created_by" : null,
+              "modified_by" : "Virender Pal Singh",
+              "name" : "Grow",
+              "description" : "The plan includes up to 10 professionals and 2,500 text messages.",
+              "display_order" : 1,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 149.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "Live Support Package"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "Meevo Marketing Suite- Up to 2500 Email Contacts"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Unlimited One-Way Emails"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "Up to 2500 Text Messages"
+                }
+              ]
+            },
+            {
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-08-19T08:26:55Z",
+              "created_by" : null,
+              "modified_by" : "Virender Pal Singh",
+              "name" : "Pro",
+              "description" : "The plan includes up to 25 professionals and 5,000 text messages.",
+              "display_order" : 2,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 269.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "Live Support Package"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "Meevo Marketing Suite- Up to 5000 Email Contacts"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Unlimited One-Way Emails"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "Up to 5000 Text Messages"
+                }
+              ]
+            },
+            {
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-08-19T08:26:55Z",
+              "created_by" : null,
+              "modified_by" : "Virender Pal Singh",
+              "name" : "Powerhouse",
+              "description" : "The plan includes unlimited professionals and 10,000 text messages.",
+              "display_order" : 3,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 419.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "Meevo Marketing Suite- Up to 10000 Email Contacts"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "Priority Support Package"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Unlimited One-Way Emails"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "Up to 10000 Text Messages"
+                }
+              ]
+            }
+          ],
+          "discount_types" : [
+            {
+              "name" : "By Plan Frequency",
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

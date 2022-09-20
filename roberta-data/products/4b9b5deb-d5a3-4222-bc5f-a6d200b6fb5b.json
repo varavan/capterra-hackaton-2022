@@ -1,0 +1,3225 @@
+{
+  "took" : 7,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 3,
+    "successful" : 3,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : {
+      "value" : 2,
+      "relation" : "eq"
+    },
+    "max_score" : 10.871598,
+    "hits" : [
+      {
+        "_index" : "product_listings_main_data_upc_vt20220920_043802_utc",
+        "_type" : "_doc",
+        "_id" : "150912_smsmktg",
+        "_score" : 10.871598,
+        "_source" : {
+          "product_id" : 150912,
+          "seo_product_id" : 226863,
+          "seo_slug" : "Textedly",
+          "product_name" : "Textedly",
+          "upc_product_uuid" : "4b9b5deb-d5a3-4222-bc5f-a6d200b6fb5b",
+          "old_product_ids" : [
+            226863
+          ],
+          "product_url" : "https://www.textedly.com",
+          "product_slug" : "Textedly",
+          "former_name" : "Textedly",
+          "logo_filepath" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e8b3622a-3ca6-428a-a855-b5cdf736be03.png",
+          "vendor" : {
+            "vendor_id" : 2106321,
+            "vendor_name" : "Textedly",
+            "vendor_url" : "https://www.textedly.com/",
+            "year_founded" : 2015,
+            "location" : "United States",
+            "vendor_opted_out_of_reviews" : true,
+            "is_opted_out_of_reviews" : false,
+            "is_hit_limit" : true,
+            "enabled" : true,
+            "has_vendor_level_page" : false,
+            "slug" : null,
+            "vendor_page" : false,
+            "paused_campaign" : false
+          },
+          "category_short_name" : "smsmktg",
+          "category_html_name" : "sms-marketing-software",
+          "category" : {
+            "id" : 30842,
+            "short_name" : "smsmktg",
+            "long_name" : "SMS Marketing",
+            "html_name" : "sms-marketing-software",
+            "enabled" : true
+          },
+          "best_category" : "smsmktg",
+          "is_best_category" : true,
+          "highest_cpc_category" : null,
+          "is_highest_cpc_category" : false,
+          "short_desc" : "Mass SMS Text Messaging services. Great for sending bulk text messages, appointment reminders, coupons, sales, and more.",
+          "long_desc" : "SMS Marketing Services made easy. Instantly send 10 or 100,000 SMS Text messages to any mobile phone number. Easily build an opt-in subscriber list. Schedule text messages to go out any time you want. Track text message delivery. Our plans start with a FREE 14-day trial period. Or try our Annual Plans and pay up-front for one year, and get 20% more messages instantly.",
+          "rating" : 4.6,
+          "number_of_reviews" : 323,
+          "total_reviews" : 337,
+          "ease_of_use_rating" : 4.6,
+          "customer_support_rating" : 4.5,
+          "functionality_rating" : 4.4,
+          "value_for_money_rating" : 4.6,
+          "recommendation_rating" : 8.6,
+          "pricing_enabled" : true,
+          "pricing" : 0.0,
+          "is_per_user" : false,
+          "fee_schedule" : null,
+          "pricing_model" : "Flat Rate",
+          "pricing_details" : "After a free 14 day trial, monthly plans start at $24 per month and scale up based on business needs.\n\nTextedly offers the following texting options:\n\n$24 per month: includes 1 keyword, and 1,000 outbound text messages.\n$39 per month: includes 2 keywords, and 2,000 outbound text messages.\n$50 per month: includes 3 keywords, and 3,500 outbound text messages.\n$70 per month: includes 4 keywords, and 5,000 outbound text messages.\n$140 per month: includes 6 keywords, and 10,000 outbound text messages.\n$210 per month: includes 7 keywords, and 15,000 outbound text messages.\n$350 per month: includes 10 keywords, and 25,000 outbound text messages.\n\nAll inbound text messaging are free!\n\nPricing continues to scale based on number of keywords and text messaged, up to:\n\n$2,800 per month: includes 50 keywords, and 200,000 outbound text messages.\n\nTextedly also offers annual plans. By paying for the entire year, you will get 20% more text messages each and every month.",
+          "pricing_created_on" : "2019-08-21T14:47:39Z",
+          "pricing_modified_on" : "2022-06-23T14:42:33Z",
+          "pricing_created_by" : null,
+          "pricing_modified_by" : null,
+          "pricing_vendor_pricing_url" : "https://www.textedly.com/pricing/",
+          "free_trial" : true,
+          "free_version" : true,
+          "target_audience" : "Small to medium to large businesses and organizations. Including professional services, and non-profit organizations.",
+          "target_users" : [
+            "1",
+            "2-10",
+            "11-50",
+            "51-200",
+            "201-500",
+            "501-1000",
+            "1000+"
+          ],
+          "platform" : [
+            {
+              "enabled" : true,
+              "name" : "Cloud, SaaS, Web-Based"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Mac"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Chromebook"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile Android"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPhone"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPad"
+            }
+          ],
+          "support" : [
+            {
+              "enabled" : true,
+              "name" : "Email Help Desk"
+            },
+            {
+              "enabled" : true,
+              "name" : "FAQ Forum"
+            },
+            {
+              "enabled" : true,
+              "name" : "Knowledgebase"
+            },
+            {
+              "enabled" : true,
+              "name" : "Phone Support"
+            },
+            {
+              "enabled" : true,
+              "name" : "24/7 Live Rep"
+            },
+            {
+              "enabled" : true,
+              "name" : "Chat"
+            }
+          ],
+          "training" : [
+            {
+              "enabled" : false,
+              "name" : "Not Offered"
+            },
+            {
+              "enabled" : true,
+              "name" : "In-Person"
+            },
+            {
+              "enabled" : true,
+              "name" : "Live Online"
+            },
+            {
+              "enabled" : true,
+              "name" : "Webinars"
+            },
+            {
+              "enabled" : true,
+              "name" : "Documentation"
+            },
+            {
+              "enabled" : true,
+              "name" : "Videos"
+            }
+          ],
+          "media" : [
+            {
+              "product_id" : 150912,
+              "vendor_id" : 2106321,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/cff3fa2f-036a-4c56-aaeb-253ac4974f19.png",
+              "caption" : null,
+              "weight" : 1,
+              "short_name" : "smsmktg"
+            },
+            {
+              "product_id" : 150912,
+              "vendor_id" : 2106321,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/23723431-0e16-43d5-977f-e76fc050a493.png",
+              "caption" : "Adding mobile phones",
+              "weight" : 2,
+              "short_name" : "smsmktg"
+            },
+            {
+              "product_id" : 150912,
+              "vendor_id" : 2106321,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/8fbb8a96-353e-4bbd-9ba5-031935193c64.png",
+              "caption" : "Sending a new message",
+              "weight" : 3,
+              "short_name" : "smsmktg"
+            },
+            {
+              "product_id" : 150912,
+              "vendor_id" : 2106321,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/7ef3759b-6f7e-4c93-8dbf-d9b138c81a5e.png",
+              "caption" : "Adding a new Keyword",
+              "weight" : 4,
+              "short_name" : "smsmktg"
+            },
+            {
+              "product_id" : 150912,
+              "vendor_id" : 2106321,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/a36bf33d-433a-4221-bc56-c48a3e2e0ee4.png",
+              "caption" : "Reports and Analytics",
+              "weight" : 5,
+              "short_name" : "smsmktg"
+            }
+          ],
+          "links" : [
+            {
+              "product_id" : 150912,
+              "functional_group" : "smsmktg",
+              "html_code" : "https://www.textedly.com/create-account?subscription_plan=free",
+              "link_name" : "Free Trial",
+              "link_priority" : 1.0
+            },
+            {
+              "product_id" : 150912,
+              "functional_group" : "smsmktg",
+              "html_code" : "https://www.textedly.com/#products",
+              "link_name" : "Free Demo",
+              "link_priority" : 2.0
+            },
+            {
+              "product_id" : 150912,
+              "functional_group" : "smsmktg",
+              "html_code" : "https://www.textedly.com/pricing",
+              "link_name" : "Pricing",
+              "link_priority" : 3.0
+            },
+            {
+              "product_id" : 150912,
+              "functional_group" : "smsmktg",
+              "html_code" : "https://www.textedly.com/features",
+              "link_name" : "Features",
+              "link_priority" : 4.0
+            },
+            {
+              "product_id" : 150912,
+              "functional_group" : "smsmktg",
+              "html_code" : "https://www.textedly.com/company-info",
+              "link_name" : "Company Info",
+              "link_priority" : 5.0
+            }
+          ],
+          "features" : [
+            {
+              "category_name" : "SMS Marketing",
+              "category_features" : [
+                {
+                  "name" : "2-Way Messaging",
+                  "value" : true,
+                  "id" : "dfbb0183-1388-4022-b96d-c61f34f72fc1",
+                  "avg_rating" : 2.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Send and receive text messages in real time "
+                },
+                {
+                  "name" : "Contact Management",
+                  "value" : true,
+                  "id" : "0019f365-3e1b-4e2f-8f1e-cb77ba025078",
+                  "avg_rating" : 2.2,
+                  "cnt_rating" : 6,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 0.667,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Store and find contact information such as names, addresses, and social media accounts"
+                },
+                {
+                  "name" : "MMS",
+                  "value" : true,
+                  "id" : "464bc80a-69c8-4a6b-8637-c10b38ef5eef",
+                  "avg_rating" : 1.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Send and receive multimedia messages (i.e. photos, videos, and audio recordings)"
+                },
+                {
+                  "name" : "Mass Texting",
+                  "value" : true,
+                  "id" : "6b0cf507-6d5a-49e6-94b5-9c0bc95ab9ac",
+                  "avg_rating" : 3.8,
+                  "cnt_rating" : 9,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Send messages to multiple subscribers at the same time. "
+                },
+                {
+                  "name" : "Message Personalization",
+                  "value" : true,
+                  "id" : "78c28182-e80e-4b57-b07b-ded5c8391e92",
+                  "avg_rating" : 3.6,
+                  "cnt_rating" : 5,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Automatically personalize text messages using templates and custom fields"
+                },
+                {
+                  "name" : "Mobile Coupons",
+                  "value" : true,
+                  "id" : "7c2419ec-9ba7-4cb9-a631-6fbd54548ffd",
+                  "avg_rating" : 2.8,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 1.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Electronic coupons delivered to a mobile device that can be exchanged for a discount or rebate when purchasing a product or service"
+                },
+                {
+                  "name" : "Mobile Keywords",
+                  "value" : true,
+                  "id" : "98812d3f-4997-4d4b-ad91-2473d8e1d09b",
+                  "avg_rating" : 3.8,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Unique word that contains letters or numbers that identifies specific campaigns"
+                },
+                {
+                  "name" : "Polls/Voting",
+                  "value" : true,
+                  "id" : "e77de5ee-3e8d-409f-91d4-7a8e4519462b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Create quick polls to keep people engaged"
+                },
+                {
+                  "name" : "Reporting/Analytics",
+                  "value" : true,
+                  "id" : "b0c186d0-0194-4300-abba-ca3bc2474bbe",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 5,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "View and track pertinent metrics"
+                },
+                {
+                  "name" : "Scheduled Messaging",
+                  "value" : true,
+                  "id" : "55aba9c4-9b4a-4b6e-96b8-df3bffd0e4e7",
+                  "avg_rating" : 3.7,
+                  "cnt_rating" : 7,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Send individual or bulk text messages at predetermined times"
+                },
+                {
+                  "name" : "Shortcodes",
+                  "value" : true,
+                  "id" : "de64a530-32d3-4bf5-b92b-add2e740df7c",
+                  "avg_rating" : 2.0,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Short phone numbers that are typically 5 to 6 digits long which are used to opt-in to SMS campaigns/promotions"
+                },
+                {
+                  "name" : "Text-to-Win",
+                  "value" : true,
+                  "id" : "41e1fa34-bcee-495c-a5b4-ade1520185bf",
+                  "avg_rating" : 1.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Contests and sweepstakes administered via text messages"
+                }
+              ]
+            },
+            {
+              "category_name" : "Cloud Communication Platform",
+              "category_features" : [
+                {
+                  "name" : "Audio / Video Conferencing",
+                  "value" : false,
+                  "id" : "6d813537-69c5-42ff-a3dc-06b9eaefef6e",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Call Recording",
+                  "value" : false,
+                  "id" : "a8a46f44-46c5-4816-8a98-45bd6572314a",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Call Routing",
+                  "value" : true,
+                  "id" : "ea563cd1-5d92-4795-a3e1-b5ce03158fed",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Chat/Messaging",
+                  "value" : true,
+                  "id" : "b60bc794-f9c3-40db-9f61-110a61b26f58",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Fax Management",
+                  "value" : false,
+                  "id" : "78196a6d-e6e2-4ef0-b018-82dc24b81914",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "File Sharing",
+                  "value" : false,
+                  "id" : "818ff03c-f979-454f-a3c9-112513dbab56",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "IVR / Voice Recognition",
+                  "value" : false,
+                  "id" : "a29db9db-9a52-4c9a-8635-ad623b508295",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                }
+              ]
+            },
+            {
+              "category_name" : "Mobile Marketing",
+              "category_features" : [
+                {
+                  "name" : "Activity Dashboard",
+                  "value" : true,
+                  "id" : "856ab03e-a530-4ea9-bac6-968761c9b6c6",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Auto-Responders",
+                  "value" : true,
+                  "id" : "96edabaa-cf05-4616-b05b-0c34438ff810",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Campaign Analytics",
+                  "value" : true,
+                  "id" : "9e3a896d-c19f-4076-aba7-0562630dd1c0",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Campaign Management",
+                  "value" : true,
+                  "id" : "08a976af-4728-4543-8941-8f3c1da99734",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Contact Management",
+                  "value" : true,
+                  "id" : "0019f365-3e1b-4e2f-8f1e-cb77ba025078",
+                  "avg_rating" : 2.2,
+                  "cnt_rating" : 6,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 0.667,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Customer Segmentation",
+                  "value" : true,
+                  "id" : "d91e2dfa-b783-41cf-8eaf-c3630a064f77",
+                  "avg_rating" : 2.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Customizable Templates",
+                  "value" : true,
+                  "id" : "0cbce712-8370-4492-ac43-e500bc2f2b1f",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Email Marketing",
+                  "value" : false,
+                  "id" : "3e3bef6d-cbd8-43e1-83e6-eaf601c17a48",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Create and send email blasts/campaigns"
+                },
+                {
+                  "name" : "Engagement Tracking",
+                  "value" : true,
+                  "id" : "274bb73c-f611-430d-adfc-673ebbb6fb94",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Mobile Access",
+                  "value" : true,
+                  "id" : "15d49235-ad13-4d33-b009-edd50126375b",
+                  "avg_rating" : 1.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Push Notifications",
+                  "value" : true,
+                  "id" : "c323ffa5-2c1a-41c9-b417-4790bacc389a",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "SMS Marketing",
+                  "value" : true,
+                  "id" : "2a6fe71f-b74f-4d3f-9f4b-f2389c507c25",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Text-to-Win",
+                  "value" : true,
+                  "id" : "41e1fa34-bcee-495c-a5b4-ade1520185bf",
+                  "avg_rating" : 1.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                }
+              ]
+            }
+          ],
+          "infographics" : [
+            {
+              "product_id" : 150912,
+              "html_name" : "sms-marketing-software",
+              "infographic_type" : "general_t20",
+              "infographic_title" : null
+            }
+          ],
+          "related_products" : [
+            {
+              "product_id" : 148516,
+              "seo_product_id" : 212390,
+              "seo_slug" : "Marketing-360",
+              "vendor_name" : "Madwire",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e0d4096b-6fa3-4d66-98e5-8f3ac4c06590.png",
+              "rating" : 4.6,
+              "total_reviews" : 973,
+              "slug" : "Marketing-360",
+              "product_name" : "Marketing 360",
+              "short_desc" : "SMS Marketing 360? helps drive more sales.",
+              "features" : "SMS Marketing 360 makes creating text message campaigns easy. You can even create automated journeys where specific text messages are sent to specific people at specific times. ",
+              "url" : "https://www.marketing360.com/nurture/?ref=SMSMarketingCategoryCapterraAds"
+            },
+            {
+              "product_id" : 12451,
+              "seo_product_id" : 12451,
+              "seo_slug" : "iCIMS-Recruit",
+              "vendor_name" : "iCIMS",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/fc5c68a6-3e87-4386-8a11-37ee8a505e2f.png",
+              "rating" : 4.3,
+              "total_reviews" : 792,
+              "slug" : "iCIMS-Recruit",
+              "product_name" : "iCIMS Talent Cloud",
+              "short_desc" : "iCIMS Talent Cloud is a cloud platform for recruiting that enables employers to manage their end-to-end talent hiring lifecycle. ",
+              "features" : "Built for enterprise organizations, iCIMS is the Talent Cloud company that empowers organizations to attract, engage, hire and advance the right talent that builds a diverse, winning workforce. The iCIMS Talent Cloud is complemented by an ecosystem of more than 700 global partners. Yesterday's tools were not designed for the future of work. iCIMS provides innovations that meet employer's new and emerging strategic business and talent needs. ",
+              "url" : "https://www4.icims.com/identify-and-hire-the-most-qualified-candidates-ff-ats-software?Ad_Lead_Source=Pay-Per-Click&asset=RecruitDemo&asset_type=Demo&product_interest=Recruit&ad_type=Text&targeting_method=ApplicantTrackingSystemLP_MainLink&vendor=Capterra&adcampaign=701f4000000gpeBAAQ"
+            },
+            {
+              "product_id" : 113540,
+              "seo_product_id" : 226875,
+              "seo_slug" : "Bitrix24",
+              "vendor_name" : "Bitrix",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/0d820dd6-6e0b-43de-becb-e9078a2d9fac.png",
+              "rating" : 4.1,
+              "total_reviews" : 527,
+              "slug" : "Bitrix24",
+              "product_name" : "Bitrix24",
+              "short_desc" : "Bitrix24 is #1 free SMS marketing software and CRM used by 8 million companies worldwide. Cloud and on-premise, with open source code.",
+              "features" : "Bitrix24 #1 free SMS marketing software and CRM, used by 8 million companies worldwide. Cloud and on-premise, with open source code access. You can send individual SMS messages even on the free plan, bulk SMS and SMS marketing automation are available to commercial Bitrix24 users, starting at $39/mo. Since we don't add any surcharges on SMS pricing offered by leading SMS providers, we are much cheaper than other SMS marketing services. Currently, you can send text messages in over 100 countries.",
+              "url" : "https://www.bitrix24.com/uses/free-sms-marketing-software.php?utm_source=capterra&utm_medium=cpc&utm_campaign=com_cc_capterra-sms"
+            },
+            {
+              "product_id" : 152997,
+              "seo_product_id" : 152997,
+              "seo_slug" : "BirdEye",
+              "vendor_name" : "Birdeye",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4ff56898-b5cc-4a16-903f-d4a9f7485db5.png",
+              "rating" : 4.7,
+              "total_reviews" : 482,
+              "slug" : "BirdEye",
+              "product_name" : "Birdeye",
+              "short_desc" : "The single messaging platform for your business to convert and engage leads and customers over text.",
+              "features" : "Birdeye Messaging is a comprehensive digital communication tool that makes it easy to connect with customers across any digital channel, be it text, social, Webchat, email, or voicemail from one unified inbox. \n\nBirdeye Mass Texting is an affordable and easy way to reach customers through their prefered channel - text messaging. Connect one-on-one or reach thousands of customers in one go. ",
+              "url" : "https://birdeye.com/cmp/review-text-messaging-software/?utm_source=capterra&utm_medium=cpc&utm_campaign=sms_marketing&utm_term=sms_marketing_awards&utm_content=awards&utm_sfcamp=7011Q000001IhtE"
+            },
+            {
+              "product_id" : 135148,
+              "seo_product_id" : 221957,
+              "seo_slug" : "Agile-CRM",
+              "vendor_name" : "Agile CRM",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4dd8e898-253a-4e64-8f55-73d688838bdb.png",
+              "rating" : 4.1,
+              "total_reviews" : 433,
+              "slug" : "Agile-CRM",
+              "product_name" : "Agile CRM",
+              "short_desc" : "Agile CRM is a complete sales, marketing and service suite designed to let SMBs to sell and market like the Fortune 500.",
+              "features" : "Agile CRM's sms marketing software helps to leverage text messaging to maximize the communication channels you use to connect with your audience. Integrating SMS text messaging into your marketing campaigns or sales and support function can help you engage your audience at just the right time.",
+              "url" : "https://www.agilecrm.com/text-messaging"
+            },
+            {
+              "product_id" : 156926,
+              "seo_product_id" : 156926,
+              "seo_slug" : "Thryv",
+              "vendor_name" : "Thryv",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/7768ed5c-b3a1-4b83-a4be-8530b2c0a8dc.png",
+              "rating" : 4.2,
+              "total_reviews" : 407,
+              "slug" : "Thryv",
+              "product_name" : "Thryv",
+              "short_desc" : "SMS marketing software built for small business",
+              "features" : "Meet Thryv, the text (SMS) marketing software built for small business. Thryv integrates your contact list with text (SMS) marketing templates and automation so you can target the right person at the right time with the right message. Include coupons, promotions and interactive buttons that urge recipients to take action.",
+              "url" : "https://www.thryv.com/marketing-automation-lpk-2/?utm_source=capterra&utm_medium=cpc&utm_campaign=reputation"
+            },
+            {
+              "product_id" : 235784,
+              "seo_product_id" : 235784,
+              "seo_slug" : "Clearstream",
+              "vendor_name" : "Clearstream",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/683a0e30-23ad-4077-8923-5902fdbfa403.png",
+              "rating" : 4.8,
+              "total_reviews" : 353,
+              "slug" : "Clearstream",
+              "product_name" : "Clearstream",
+              "short_desc" : "The powerful texting platform your church and people will love. Send mass texts to your church & engage in two-way text conversations.",
+              "features" : "The powerful texting platform your church and people will love.\n\nWith Clearstream, you can easily mass text your church and engage in two-way text conversations. But you can also streamline your guest follow-up process with text-to-join Keywords and workflows, manage multiple ministries or campuses with Subaccounts, and much more.\n\nThousands of churches, from new plants to many of the largest in the U.S., rely on Clearstream to better communicate with their members, and guests through texting.",
+              "url" : "http://clearstream.io"
+            },
+            {
+              "product_id" : 180158,
+              "seo_product_id" : 223767,
+              "seo_slug" : "Twilio-Voice",
+              "vendor_name" : "Twilio",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/5f8535c3-3270-467d-a3bf-db8b9a2d0fc3.png",
+              "rating" : 4.6,
+              "total_reviews" : 306,
+              "slug" : "Twilio-Communications-Platform",
+              "product_name" : "Twilio",
+              "short_desc" : "Engage your customers like never before with SMS, Facebook Messenger, RCS Business Messaging, Line, and more.",
+              "features" : "Engage your customers like never before with SMS, Facebook Messenger, RCS Business Messaging, Line, and more. 55,000+ businesses and more than 2 million developers rely on Twilio to deliver their message when and where it counts.",
+              "url" : "https://interactive.twilio.com/sms-marketing-sales-1?utm_source=capterra&utm_medium=cpc&utm_content=basic&utm_term=sms-mark"
+            },
+            {
+              "product_id" : 172802,
+              "seo_product_id" : 224257,
+              "seo_slug" : "Swell",
+              "vendor_name" : "Swell CX",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4294a40c-1b50-4d1f-be8d-296cae95fb68.png",
+              "rating" : 4.6,
+              "total_reviews" : 296,
+              "slug" : "Swell",
+              "product_name" : "Swell",
+              "short_desc" : "Swell helps you modernize your customer engagement through automated and one-to-one texting.",
+              "features" : "Swell helps you connect with customers and prospects through texting to provide seamless experiences and earn new business. It offers message management for everything from automated reminders to mass text campaigns to one-on-one conversations. With Swell, you can set up automatic review invitations to ask happy customers to leave reviews on the platforms that matter so you can rank higher online and get found by prospects.",
+              "url" : "http://www.swellcx.com/capterra-landing/sms-marketing?utm_campaign=22-br-sq&utm_medium=analystinfluencers&utm_source=capterra&utm_content=demorequest&utm_term=smsmarketing"
+            },
+            {
+              "product_id" : 156699,
+              "seo_product_id" : 225621,
+              "seo_slug" : "Klaviyo",
+              "vendor_name" : "Klaviyo",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/70e73485-b7f8-4007-a323-f5c47bba15b3.png",
+              "rating" : 4.7,
+              "total_reviews" : 277,
+              "slug" : "Klaviyo",
+              "product_name" : "Klaviyo",
+              "short_desc" : "Klaviyo is a unified customer platform for email, SMS, and more that gives you direct ownership of your customer data and interactions.",
+              "features" : "Klaviyo is a unified customer platform that gives your online brand direct ownership of your consumer data and interactions, empowering you to turn transactions with customers into productive long-term relationships-at scale. Because the Klaviyo database integrates seamlessly with your tech stack, you can get the full story on every customer that visits, and then-from the same platform-use those insights to automate personalized email and SMS communications that make people feel seen. ",
+              "url" : "https://ad.doubleclick.net/ddm/trackclk/N1714018.813334CAPTERRA.COM/B27586075.333973660;dc_trk_aid=525667793;dc_trk_cid=169620995;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd="
+            }
+          ],
+          "similar_products" : [
+            {
+              "product_id" : 212777,
+              "seo_product_id" : 212777,
+              "seo_slug" : "Mobiz",
+              "vendor_name" : "Mobiz",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e863693b-422d-4ded-8b5c-85967b2f132a.png",
+              "rating" : 4.7,
+              "total_reviews" : 7,
+              "slug" : "Mobiz",
+              "product_name" : "Mobiz",
+              "short_desc" : "Engage with your customers using bespoke text message marketing campaigns.",
+              "features" : "Mobiz is a hyper-personalized mobile marketing platform that elevates and innovates customer engagement with data-driven personalization. Using a dynamic landing page template library, users can create and send customized mobile marketing campaigns at scale and via SMS in a few easy steps - all totally code-free.\n\nThe platform also offers a growth tool, helping users expand their subscriber list easily and compliantly. \n\nTo learn more, visit https://bit.ly/3dRhnCZ",
+              "url" : "http://www.mobiz.co"
+            },
+            {
+              "product_id" : 152997,
+              "seo_product_id" : 152997,
+              "seo_slug" : "BirdEye",
+              "vendor_name" : "Birdeye",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4ff56898-b5cc-4a16-903f-d4a9f7485db5.png",
+              "rating" : 4.7,
+              "total_reviews" : 482,
+              "slug" : "BirdEye",
+              "product_name" : "Birdeye",
+              "short_desc" : "The single messaging platform for your business to convert and engage leads and customers over text.",
+              "features" : "Birdeye Messaging is a comprehensive digital communication tool that makes it easy to connect with customers across any digital channel, be it text, social, Webchat, email, or voicemail from one unified inbox. \n\nBirdeye Mass Texting is an affordable and easy way to reach customers through their prefered channel - text messaging. Connect one-on-one or reach thousands of customers in one go. ",
+              "url" : "https://birdeye.com/awards/?utm_source=capterra&utm_medium=cpc&utm_campaign=default&utm_term=awards_rf&utm_content=default&utm_sfcamp=7011Q000001IhtE"
+            },
+            {
+              "product_id" : 179576,
+              "seo_product_id" : 253802,
+              "seo_slug" : "Attentive",
+              "vendor_name" : "Attentive Mobile",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/ffdb6f68-716e-4dfb-9110-56da2a6a43b0.png",
+              "rating" : 4.9,
+              "total_reviews" : 78,
+              "slug" : "Attentive",
+              "product_name" : "Attentive",
+              "short_desc" : "Attentive's conversational commerce platform helps 5,000+ brands engage customers and drive billions in revenue via SMS marketing.",
+              "features" : "Reach your customers where they are-their phones. Attentive's conversational commerce platform helps 5,000+ brands-from retail enterprises to e-commerce entrepreneurs-engage customers and drive billions in revenue via SMS marketing. We'll help you target the right audience for your messages, and measure your most important metrics to optimize your program. And with our flexible integrations, you can easily connect to the rest of your marketing stack, too. Learn more about our free 30-day trial.",
+              "url" : "https://info.attentive.com/capterra-demo/?utm_medium=ppc&utm_campaign=demo-request"
+            },
+            {
+              "product_id" : 180158,
+              "seo_product_id" : 223767,
+              "seo_slug" : "Twilio-Voice",
+              "vendor_name" : "Twilio",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/5f8535c3-3270-467d-a3bf-db8b9a2d0fc3.png",
+              "rating" : 4.6,
+              "total_reviews" : 306,
+              "slug" : "Twilio-Communications-Platform",
+              "product_name" : "Twilio",
+              "short_desc" : "Engage your customers like never before with SMS, Facebook Messenger, RCS Business Messaging, Line, and more.",
+              "features" : "Engage your customers like never before with SMS, Facebook Messenger, RCS Business Messaging, Line, and more. 55,000+ businesses and more than 2 million developers rely on Twilio to deliver their message when and where it counts.",
+              "url" : "https://twilio.com/go/twilio-brand-sales-1?utm_source=capterra&utm_medium=cpc&utm_content=basic&utm_term=listing"
+            },
+            {
+              "product_id" : 161117,
+              "seo_product_id" : 224727,
+              "seo_slug" : "Avochato",
+              "vendor_name" : "Avochato",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/937f05f3-8717-4b38-9a29-b161863967df.png",
+              "rating" : 4.7,
+              "total_reviews" : 129,
+              "slug" : "Avochato",
+              "product_name" : "Avochato",
+              "short_desc" : "SMS texting and live chat for business has never been easier than with Avochato's solutions for teams, marketers and contact centers. ",
+              "features" : "SMS texting and live chat has never been easier than with Avochato's solutions for teams, marketers and contact centers. With no programming required, you can setup your Avochato phone number in minutes to text your prospects, customers, or staff. Segment, import, and broadcast to your contacts to scale your teams communications. Avochato integrates with platforms such as Salesforce, Slack, MS Teams, and Zapier. Enable prospects to text you from a Google Ad with the AdWords API integration.",
+              "url" : "https://www.avochato.com/freetrial?utm_medium=LP1&utm_campaign=basic-info&utm_content=free_trial"
+            },
+            {
+              "product_id" : 145848,
+              "seo_product_id" : 145848,
+              "seo_slug" : "Ez-Texting",
+              "vendor_name" : "CallFire",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/5c150f64-4f8c-4ce6-bb3f-0508d5e1f51b.png",
+              "rating" : 4.3,
+              "total_reviews" : 127,
+              "slug" : "Ez-Texting",
+              "product_name" : "EZ Texting",
+              "short_desc" : "EZ Texting delivers the smartest, fastest, easiest, and most reliable ways to connect with your customers and clients. \n\n",
+              "features" : "EZ Texting is a SaaS company that delivers the fastest, easiest, and most reliable way to connect. It has served over 165,000 customers and is the #1 SMS platform for business users, setting the standard for business texting. Our messaging solutions allow businesses to quickly and effectively reach and engage their mobile audiences. With employees around the world, EZ Texting is continuously recognized as a Best Place to Work, as well as a top product for small and mid-market businesses.",
+              "url" : "https://www.eztexting.com/lp/capterra?utm_source=capterra&utm_medium=review-site&utm_content=destination"
+            },
+            {
+              "product_id" : 131015,
+              "seo_product_id" : 225032,
+              "seo_slug" : "Trumpia",
+              "vendor_name" : "Trumpia",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4344f0ed-5421-4263-8e59-b6fa75215d8b.png",
+              "rating" : 4.3,
+              "total_reviews" : 64,
+              "slug" : "Trumpia-2-0",
+              "product_name" : "Trumpia",
+              "short_desc" : "You need more than just mass texting. Trumpia offers fully automated campaigns, so you can engage subscribers without doing more work.",
+              "features" : "Mass texting alone won't give you the results you need, especially when sending irrelevant messages. Trumpia offers more than simple texting features, enabling you to accurately target every message you send. Our software will even carry out entire campaigns for you, so you can engage customers automatically without adding more work to your plate. Trumpia is favored by businesses of all sizes including Fortune 500s. Call us today at 855-912-0700.",
+              "url" : "https://info.trumpia.com/ppc/sms-marketing"
+            },
+            {
+              "product_id" : 142264,
+              "seo_product_id" : 212084,
+              "seo_slug" : "vcita",
+              "vendor_name" : "vcita",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/5b82e06f-f133-4e28-9a49-458c0858b9ff.png",
+              "rating" : 4.5,
+              "total_reviews" : 198,
+              "slug" : "Appointment-Scheduling",
+              "product_name" : "vcita",
+              "short_desc" : "Make marketing your business the easy part with a simple SMS Marketing platform like vcita. Start your free trial today!",
+              "features" : "Take your marketing to the next level with simple SMS marketing with vcita. Link each SMS promotion to a beautiful landing page, enabling clients to take revenue-driving actions in a single click. Keep notes and view clients' payment history with ease from a single dashboard, and manage your billing and invoicing liike a pro. Never chase payments again with SMS payment reminders and focus on getting the word out about your services simply and professionally. ",
+              "url" : "https://www.vcita.com/lp/business-management-ft?utm_medium=cpc&utm_source=capterra&utm_campaign=Capterra_Contact_Management&invite=Capterra_Contact_Management"
+            },
+            {
+              "product_id" : 150203,
+              "seo_product_id" : 223341,
+              "seo_slug" : "MessageMedia",
+              "vendor_name" : "MessageMedia",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/03eaa72a-e8bc-4288-99fd-e7eb9572a4ad.png",
+              "rating" : 4.4,
+              "total_reviews" : 14,
+              "slug" : "MessageMedia",
+              "product_name" : "MessageMedia",
+              "short_desc" : "MessageMedia is a global leader in SMS services, providing an engaging messaging platform for over 65,000 businesses.",
+              "features" : "We're a mobile messaging solution that helps businesses of all sizes better connect with customers. We create engaging mobile experiences for our 65,000+ global customers and help boost ROI. Find us in the USA, the UK, Australia and NZ. \n",
+              "url" : "https://messagemedia.com/?utm_source=Capterra&utm_medium=cpc&utm_campaign=always_on&utm_term=destination_url"
+            },
+            {
+              "product_id" : 147342,
+              "seo_product_id" : 147342,
+              "seo_slug" : "TextMagic",
+              "vendor_name" : "TextMagic",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/7155b1d5-958e-49b8-9400-34b335670e88.png",
+              "rating" : 4.7,
+              "total_reviews" : 170,
+              "slug" : "TextMagic",
+              "product_name" : "TextMagic",
+              "short_desc" : "Fully featured business text messaging platform to send bulk SMS text messages to customers, staff, and partners.",
+              "features" : "TextMagic is a fully featured business text messaging platform that enables companies of all sizes to send bulk SMS text messages to their customers, staff, and partners. The service can be used to send sms notifications, alerts, and confirmations to clients, as well as to conduct SMS marketing campaigns. ",
+              "url" : "https://www.textmagic.com/?utm_source=capterra&utm_medium=cpc&utm_campaign=capterra-sms"
+            },
+            {
+              "product_id" : 173457,
+              "seo_product_id" : 242244,
+              "seo_slug" : "Whispir",
+              "vendor_name" : "Whispir",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/c82d634e-1704-448c-9f81-8a0ef9add928.png",
+              "rating" : 4.6,
+              "total_reviews" : 17,
+              "slug" : "Whispir",
+              "product_name" : "Whispir",
+              "short_desc" : "Whispir is a cloud platform for automating intelligent, rich communications.",
+              "features" : "Whispir, Inc. is an all-in-one communications platform designed to help businesses and organizations communicate more humanly with their team and their customers. Whispir's capabilities include a wide range of intelligent messaging solutions, from SMS to email, voice, video, social, and more.\n\n",
+              "url" : "https://www.whispir.com/?utm_source=capterra&utm_medium=reviewsite&utm_content=reviewlisting"
+            },
+            {
+              "product_id" : 152417,
+              "seo_product_id" : 152417,
+              "seo_slug" : "Mobile-Text-Alerts",
+              "vendor_name" : "Mobile Text Alerts",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/0e51b3ca-881f-445b-92fa-288063d20ddd.png",
+              "rating" : 4.6,
+              "total_reviews" : 76,
+              "slug" : "Mobile-Text-Alerts",
+              "product_name" : "Mobile Text Alerts",
+              "short_desc" : "An easy-to-use SMS marketing solution that gets you more sales through the power of texting. Text all your customers in seconds.",
+              "features" : "Mobile Text Alerts is an easy-to-use SMS marketing solution that gets you more sales & growth through the power of texting. Get up and running in seconds and enjoy our user-friendly online platform and mobile app, allowing you to easily set up SMS campaigns to market your products/services - engaging with customers and prospects efficiently and effectively. Free up time and hassle with automated messaging, flexible opt-in choices to build your subscriber list, analytics options, and much more.",
+              "url" : "https://mobile-text-alerts.com/?utm_source=referral&utm_medium=ppc&utm_campaign=capterra&utm_term=default&utm_content=home"
+            },
+            {
+              "product_id" : 145851,
+              "seo_product_id" : 145851,
+              "seo_slug" : "ProTexting",
+              "vendor_name" : "ProTexting",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/6b584e8c-dc13-4ec9-ac71-3422f4843a6e.png",
+              "rating" : 4.7,
+              "total_reviews" : 32,
+              "slug" : "ProTexting",
+              "product_name" : "ProTexting",
+              "short_desc" : "Quick sign up, FREE TRIAL, no credit card required. Send Group SMS, MMS with emoji and short URL tracking. Sign up forms, SMS keywords.",
+              "features" : "ProTexting is an SMS marketing platform designed for businesses in all industries. It provides easy to use way to communicate with your customers through group text messaging with emoji and MMS support. You can create text messaging campaigns for mobile surveys, voting, text in questions, text 2 screen, etc. Super FAST sending of your SMS Campaigns. 24/7 monitoring and support. FREE demo and On-boarding sessions are part of the services. FREE Toll-Free number for every account.",
+              "url" : "https://www.protexting.com/?promocode=CAPTERRA50&utm_source=capterra&utm_campaign=capterra-cpc&utm_medium=capterra-listing"
+            }
+          ],
+          "related_categories" : [
+            {
+              "functional_group" : "smsmktg",
+              "long_name" : "Channel Management",
+              "html_name" : "channel-management-software",
+              "link_name" : "channel-management",
+              "product_count" : 28,
+              "meta_description" : "Find and compare top Channel Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Channel Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs.",
+              "description" : "<a href=\"/channel-management-software\">Channel Management software</a> allows companies to streamline their distribution and sales efforts by organizing clients into specific segments and keeping track of marketing outreach and buying patterns. Specific types of Channel Management software focuses on partner programs. <a href=\"/channel-management-software\">Channel Management software</a> is related to <a href=\"/marketing-automation-software\">Marketing Automation software</a>, <a href=\"/ecommerce-software\">eCommerce software</a> and <a href=\"/lead-management-software\">Lead Management software</a>."
+            },
+            {
+              "functional_group" : "smsmktg",
+              "long_name" : "Email Marketing",
+              "html_name" : "email-marketing-software",
+              "link_name" : "email-marketing",
+              "product_count" : 157,
+              "meta_description" : "Find and compare top Email Marketing software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Email Marketing tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/email-marketing-software>Email Marketing software</a> enables the automation of email communication with prospects and customers.  Organizations use <a href=/email-marketing-software>Email Marketing software</a> to increase the efficiency of their email marketing efforts, manage mailing lists and monitor the effectiveness of their marketing campaigns.  Email Marketing applications can also aid in the regular production of customer-oriented newsletters, the management of email templates for multiple campaigns or market segments, and ongoing customer relationship management efforts.  <a href=/email-marketing-software>Email Marketing software</a> is related to <a href=/campaign-management-software>Campaign Management software</a> and <a href=/marketing-automation-software>Marketing Automation software</a>."
+            },
+            {
+              "functional_group" : "smsmktg",
+              "long_name" : "Marketing Automation",
+              "html_name" : "marketing-automation-software",
+              "link_name" : "marketing-automation",
+              "product_count" : 184,
+              "meta_description" : "Find and compare top Marketing Automation software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Marketing Automation tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/marketing-automation-software\">Marketing Automation software</a> enables organizations to automate their marketing functions including campaign creation, market segmentation and response analysis.  These applications also allow greater integration between sales staff and management as well as expanded abilities to evaluate the effectiveness of marketing campaigns.  Marketing Automation solutions enable the enterprise-wide sharing of information, providing an essential conduit between management, sales and marketing operations.  <a href=\"/marketing-automation-software\">Marketing Automation software</a> is related to <a href=\"/campaign-management-software\">Campaign Management software</a>, <a href=\"/email-marketing-software\">Email Marketing software</a> and <a href=\"/search-marketing-automation-software\">Search Marketing software</a>."
+            },
+            {
+              "functional_group" : "smsmktg",
+              "long_name" : "Mobile Marketing",
+              "html_name" : "mobile-marketing-software",
+              "link_name" : "mobile-marketing",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Mobile Marketing software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Mobile Marketing tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "Mobile Marketing software helps businesses reach and engage their audiences on mobile devices via text messages and mobile optimized promotional offers and notifications."
+            }
+          ],
+          "is_upgraded" : true,
+          "enabled" : true,
+          "filter_options" : {
+            "users" : 127,
+            "platform" : 897,
+            "pricing_options" : 24,
+            "category_related_features" : [
+              29716,
+              29717,
+              29718,
+              39490,
+              39491,
+              39492,
+              39493,
+              39494,
+              39495,
+              39496,
+              39497,
+              39498,
+              39499,
+              56838,
+              56839,
+              56841,
+              56842,
+              56843,
+              56844,
+              56845,
+              56846,
+              56847,
+              56848,
+              56849,
+              56850,
+              56851,
+              56853,
+              56855,
+              56856,
+              56857,
+              56858,
+              56859,
+              56860,
+              56861,
+              56862,
+              56863,
+              56864,
+              56865,
+              56866,
+              56867,
+              56868,
+              56869,
+              56870,
+              56871,
+              56872,
+              56873
+            ],
+            "employees" : 127
+          },
+          "sort_options" : {
+            "sort_review_rating" : 4.417710781097412,
+            "most_recent_review" : "2022-08-16T15:06:58Z"
+          },
+          "countries" : "US",
+          "features_tokenized_text" : "2-way_messaging contact_management mass_texting message_personalization mms mobile_coupons mobile_keywords polls/voting reporting/analytics scheduled_messaging shortcodes text-to-win",
+          "platform_tokenized_text" : "cloud,saas,web-based mobileandroid mobileiphone mobileipad",
+          "users_tokenized_text" : "1 2-10 11-50 51-200 201-500 501-1000 1000+",
+          "pricing_tokenized_text" : "free freetrial",
+          "badges" : [
+            {
+              "id" : 2143,
+              "category_short_name" : "SMS Marketing",
+              "category_html_name" : "sms-marketing-software",
+              "published_year" : 2020,
+              "badge_type" : "Top 20"
+            }
+          ],
+          "bid_spot_us" : 0.0,
+          "currency_code" : "USD",
+          "currency_symbol" : "$",
+          "credit_card_required" : "No",
+          "licensing_model" : null,
+          "open_api_offered" : "Unverified",
+          "mobile_urls" : [ ],
+          "integrations" : [
+            {
+              "id" : "3ecee0e7-8233-490b-858c-a6d200b7a22f",
+              "name" : "Zapier"
+            }
+          ],
+          "supported_countries" : [
+            {
+              "id" : 237,
+              "code" : "US",
+              "name" : "United States of America"
+            }
+          ],
+          "supported_languages" : [
+            {
+              "id" : 152,
+              "code" : "en",
+              "name" : "English",
+              "location" : null
+            }
+          ],
+          "target_industries" : [
+            {
+              "id" : 126,
+              "code" : "27",
+              "name" : "Retail"
+            },
+            {
+              "id" : 46,
+              "code" : "34",
+              "name" : "Food & Beverages"
+            },
+            {
+              "id" : 43,
+              "code" : "43",
+              "name" : "Financial Services"
+            },
+            {
+              "id" : 86,
+              "code" : "126",
+              "name" : "Media Production"
+            },
+            {
+              "id" : 117,
+              "code" : "82",
+              "name" : "Publishing"
+            },
+            {
+              "id" : 74,
+              "code" : "10",
+              "name" : "Legal Services"
+            },
+            {
+              "id" : 11,
+              "code" : "41",
+              "name" : "Banking"
+            },
+            {
+              "id" : 140,
+              "code" : "59",
+              "name" : "Utilities"
+            },
+            {
+              "id" : 134,
+              "code" : "8",
+              "name" : "Telecommunications"
+            },
+            {
+              "id" : 37,
+              "code" : "28",
+              "name" : "Entertainment"
+            },
+            {
+              "id" : 68,
+              "code" : "6",
+              "name" : "Internet"
+            },
+            {
+              "id" : 97,
+              "code" : "100",
+              "name" : "Non-Profit Organization Management"
+            },
+            {
+              "id" : 57,
+              "code" : "14",
+              "name" : "Hospital & Health Care"
+            },
+            {
+              "id" : 42,
+              "code" : "63",
+              "name" : "Farming"
+            },
+            {
+              "id" : 85,
+              "code" : "135",
+              "name" : "Mechanical or Industrial Engineering"
+            },
+            {
+              "id" : 120,
+              "code" : "44",
+              "name" : "Real Estate"
+            },
+            {
+              "id" : 76,
+              "code" : "30",
+              "name" : "Leisure, Travel & Tourism"
+            },
+            {
+              "id" : 65,
+              "code" : "42",
+              "name" : "Insurance"
+            },
+            {
+              "id" : 105,
+              "code" : "15",
+              "name" : "Pharmaceuticals"
+            },
+            {
+              "id" : 62,
+              "code" : "147",
+              "name" : "Industrial Automation"
+            },
+            {
+              "id" : 26,
+              "code" : "48",
+              "name" : "Construction"
+            },
+            {
+              "id" : 25,
+              "code" : "4",
+              "name" : "Computer Software"
+            },
+            {
+              "id" : 78,
+              "code" : "116",
+              "name" : "Logistics and Supply Chain"
+            },
+            {
+              "id" : 35,
+              "code" : "132",
+              "name" : "E-Learning"
+            },
+            {
+              "id" : 9,
+              "code" : "53",
+              "name" : "Automotive"
+            },
+            {
+              "id" : 98,
+              "code" : "57",
+              "name" : "Oil & Energy"
+            },
+            {
+              "id" : 55,
+              "code" : "124",
+              "name" : "Health, Wellness and Fitness"
+            },
+            {
+              "id" : 52,
+              "code" : "75",
+              "name" : "Government Administration"
+            },
+            {
+              "id" : 84,
+              "code" : "80",
+              "name" : "Marketing and Advertising"
+            },
+            {
+              "id" : 58,
+              "code" : "31",
+              "name" : "Hospitality"
+            },
+            {
+              "id" : 139,
+              "code" : "92",
+              "name" : "Transportation/Trucking/Railroad"
+            },
+            {
+              "id" : 81,
+              "code" : "11",
+              "name" : "Management Consulting"
+            },
+            {
+              "id" : 29,
+              "code" : "91",
+              "name" : "Consumer Services"
+            },
+            {
+              "id" : 1,
+              "code" : "47",
+              "name" : "Accounting"
+            },
+            {
+              "id" : 64,
+              "code" : "96",
+              "name" : "Information Technology and Services"
+            },
+            {
+              "id" : 41,
+              "code" : "122",
+              "name" : "Facilities Services"
+            },
+            {
+              "id" : 147,
+              "code" : "103",
+              "name" : "Writing and Editing"
+            },
+            {
+              "id" : 125,
+              "code" : "32",
+              "name" : "Restaurants"
+            },
+            {
+              "id" : 114,
+              "code" : "79",
+              "name" : "Public Policy"
+            }
+          ],
+          "price_range_id" : 1,
+          "aggregated_review_ratings" : {
+            "industry" : {
+              "43" : 3.67,
+              "53" : 4.0,
+              "82" : 5.0,
+              "89" : 4.46,
+              "94" : 5.0,
+              "69" : 4.67,
+              "107" : 5.0,
+              "97" : 4.0,
+              "19" : 4.8,
+              "18" : 4.75,
+              "124" : 4.75,
+              "48" : 4.67,
+              "109" : 5.0,
+              "13" : 5.0,
+              "39" : 3.0,
+              "5" : 5.0,
+              "29" : 5.0,
+              "135" : 4.0,
+              "28" : 4.67,
+              "104" : 5.0,
+              "6" : 4.5,
+              "84" : 5.0,
+              "34" : 5.0,
+              "42" : 4.8,
+              "137" : 5.0,
+              "47" : 4.0,
+              "8" : 1.0,
+              "131" : 4.67,
+              "59" : 5.0,
+              "4" : 4.8,
+              "68" : 5.0,
+              "92" : 5.0,
+              "105" : 5.0,
+              "79" : 1.0,
+              "148" : 5.0,
+              "75" : 4.86,
+              "27" : 4.56,
+              "32" : 5.0,
+              "31" : 4.0,
+              "63" : 5.0,
+              "33" : 2.0,
+              "116" : 5.0,
+              "90" : 5.0,
+              "126" : 4.4,
+              "91" : 3.67,
+              "50" : 5.0,
+              "88" : 5.0,
+              "128" : 5.0,
+              "96" : 4.0,
+              "100" : 4.78,
+              "115" : 5.0,
+              "41" : 5.0,
+              "44" : 4.47,
+              "110" : 4.0,
+              "80" : 4.1,
+              "14" : 5.0,
+              "40" : 5.0,
+              "25" : 4.25,
+              "9" : 5.0
+            },
+            "company_size" : {
+              "201-500 employees" : 4.78,
+              "51-200 employees" : 4.81,
+              "1-10 employees" : 4.34,
+              "11-50 employees" : 4.42,
+              "Self-employed" : 4.76,
+              "5001-10,000 employees" : 4.5,
+              "1001-5000 employees" : 4.67,
+              "10,001+ employees" : 3.75,
+              "501-1000 employees" : 4.23
+            }
+          },
+          "vct_enabled" : false,
+          "pricing_plans" : [
+            {
+              "created_on_utc" : "2019-08-21T14:47:39Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Starter",
+              "description" : "Users can send up to 50 messages.",
+              "display_order" : 1,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 0.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : null,
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "1 Custom Keyword"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "50 Messages"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "Free Incoming Messages"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "14-Day Trial"
+                }
+              ]
+            },
+            {
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Bronze",
+              "description" : "Users can send up to 1000 messages per month.",
+              "display_order" : 2,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 24.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "1000 Messages"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "1 Custom Keyword"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Free Incoming Messages"
+                }
+              ]
+            },
+            {
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Plus",
+              "description" : "Users can send up to 2000 messages per month.",
+              "display_order" : 3,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 39.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "2000 Messages"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "2 Custom Keywords"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Free Incoming Messages"
+                }
+              ]
+            },
+            {
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Enterprise",
+              "description" : "Users can send up to 3500 messages per month.",
+              "display_order" : 4,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 50.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "3500 Messages"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "3 Custom Keywords"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Free Incoming Messages"
+                }
+              ]
+            },
+            {
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Elite",
+              "description" : "Users can send up to 5000 messages per month.",
+              "display_order" : 5,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 70.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "4 Custom Keywords"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "5000 Messages"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Free Incoming Messages"
+                }
+              ]
+            },
+            {
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Business",
+              "description" : "Users can send up to 10000 messages per month.",
+              "display_order" : 6,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 140.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "10000 Messages"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "6 Custom Keywords"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Free Incoming Messages"
+                }
+              ]
+            }
+          ],
+          "discount_types" : [
+            {
+              "name" : "By Plan Frequency",
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null
+            }
+          ]
+        }
+      },
+      {
+        "_index" : "product_listings_main_data_upc_vt20220920_043802_utc",
+        "_type" : "_doc",
+        "_id" : "226863_telephony",
+        "_score" : 10.869203,
+        "_source" : {
+          "product_id" : 226863,
+          "seo_product_id" : 226863,
+          "seo_slug" : "Textedly",
+          "product_name" : "Textedly",
+          "upc_product_uuid" : "4b9b5deb-d5a3-4222-bc5f-a6d200b6fb5b",
+          "old_product_ids" : [
+            150912
+          ],
+          "product_url" : "https://www.textedly.com",
+          "product_slug" : "Textedly",
+          "former_name" : "Textedly",
+          "logo_filepath" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e8b3622a-3ca6-428a-a855-b5cdf736be03.png",
+          "vendor" : {
+            "vendor_id" : 2174471,
+            "vendor_name" : "Textedly",
+            "vendor_url" : "https://www.textedly.com/",
+            "year_founded" : 2015,
+            "location" : "United States",
+            "vendor_opted_out_of_reviews" : true,
+            "is_opted_out_of_reviews" : false,
+            "is_hit_limit" : false,
+            "enabled" : true,
+            "has_vendor_level_page" : false,
+            "slug" : null,
+            "vendor_page" : false,
+            "paused_campaign" : false
+          },
+          "category_short_name" : "telephony",
+          "category_html_name" : "telephony-software",
+          "category" : {
+            "id" : 30084,
+            "short_name" : "telephony",
+            "long_name" : "Telephony",
+            "html_name" : "telephony-software",
+            "enabled" : true
+          },
+          "best_category" : "telephony",
+          "is_best_category" : true,
+          "highest_cpc_category" : null,
+          "is_highest_cpc_category" : false,
+          "short_desc" : "Mass SMS Text Messaging services. Great for sending bulk text messages, appointment reminders, coupons, sales, and more.",
+          "long_desc" : "SMS Marketing Services made easy. Instantly send 10 or 100,000 SMS Text messages to any mobile phone number. Easily build an opt-in subscriber list. Schedule text messages to go out any time you want. Track text message delivery. Our plans start with a FREE 14-day trial period. Or try our Annual Plans and pay up-front for one year, and get 20% more messages instantly.",
+          "rating" : 4.6,
+          "number_of_reviews" : 323,
+          "total_reviews" : 337,
+          "ease_of_use_rating" : 4.6,
+          "customer_support_rating" : 4.5,
+          "functionality_rating" : 4.4,
+          "value_for_money_rating" : 4.6,
+          "recommendation_rating" : 8.6,
+          "pricing_enabled" : true,
+          "pricing" : 0.0,
+          "is_per_user" : false,
+          "fee_schedule" : null,
+          "pricing_model" : "Flat Rate",
+          "pricing_details" : "After a free 14 day trial, monthly plans start at $24 per month and scale up based on business needs.\n\nTextedly offers the following texting options:\n\n$24 per month: includes 1 keyword, and 1,000 outbound text messages.\n$39 per month: includes 2 keywords, and 2,000 outbound text messages.\n$50 per month: includes 3 keywords, and 3,500 outbound text messages.\n$70 per month: includes 4 keywords, and 5,000 outbound text messages.\n$140 per month: includes 6 keywords, and 10,000 outbound text messages.\n$210 per month: includes 7 keywords, and 15,000 outbound text messages.\n$350 per month: includes 10 keywords, and 25,000 outbound text messages.\n\nAll inbound text messaging are free!\n\nPricing continues to scale based on number of keywords and text messaged, up to:\n\n$2,800 per month: includes 50 keywords, and 200,000 outbound text messages.\n\nTextedly also offers annual plans. By paying for the entire year, you will get 20% more text messages each and every month.",
+          "pricing_created_on" : "2019-08-21T14:47:39Z",
+          "pricing_modified_on" : "2022-06-23T14:42:33Z",
+          "pricing_created_by" : null,
+          "pricing_modified_by" : null,
+          "pricing_vendor_pricing_url" : "https://www.textedly.com/pricing/",
+          "free_trial" : true,
+          "free_version" : true,
+          "target_audience" : "Small to medium to large businesses and organizations. Including professional services, and non-profit organizations.",
+          "target_users" : [
+            "1",
+            "2-10",
+            "11-50",
+            "51-200",
+            "201-500",
+            "501-1000",
+            "1000+"
+          ],
+          "platform" : [
+            {
+              "enabled" : true,
+              "name" : "Cloud, SaaS, Web-Based"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Mac"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Chromebook"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile Android"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPhone"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPad"
+            }
+          ],
+          "support" : [
+            {
+              "enabled" : true,
+              "name" : "Email Help Desk"
+            },
+            {
+              "enabled" : true,
+              "name" : "FAQ Forum"
+            },
+            {
+              "enabled" : true,
+              "name" : "Knowledgebase"
+            },
+            {
+              "enabled" : true,
+              "name" : "Phone Support"
+            },
+            {
+              "enabled" : true,
+              "name" : "24/7 Live Rep"
+            },
+            {
+              "enabled" : true,
+              "name" : "Chat"
+            }
+          ],
+          "training" : [
+            {
+              "enabled" : false,
+              "name" : "Not Offered"
+            },
+            {
+              "enabled" : true,
+              "name" : "In-Person"
+            },
+            {
+              "enabled" : true,
+              "name" : "Live Online"
+            },
+            {
+              "enabled" : true,
+              "name" : "Webinars"
+            },
+            {
+              "enabled" : true,
+              "name" : "Documentation"
+            },
+            {
+              "enabled" : true,
+              "name" : "Videos"
+            }
+          ],
+          "media" : [
+            {
+              "product_id" : 226863,
+              "vendor_id" : 2174471,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/cff3fa2f-036a-4c56-aaeb-253ac4974f19.png",
+              "caption" : null,
+              "weight" : 1,
+              "short_name" : "telephony"
+            },
+            {
+              "product_id" : 226863,
+              "vendor_id" : 2174471,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/23723431-0e16-43d5-977f-e76fc050a493.png",
+              "caption" : "Adding mobile phones",
+              "weight" : 2,
+              "short_name" : "telephony"
+            },
+            {
+              "product_id" : 226863,
+              "vendor_id" : 2174471,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/8fbb8a96-353e-4bbd-9ba5-031935193c64.png",
+              "caption" : "Sending a new message",
+              "weight" : 3,
+              "short_name" : "telephony"
+            },
+            {
+              "product_id" : 226863,
+              "vendor_id" : 2174471,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/7ef3759b-6f7e-4c93-8dbf-d9b138c81a5e.png",
+              "caption" : "Adding a new Keyword",
+              "weight" : 4,
+              "short_name" : "telephony"
+            },
+            {
+              "product_id" : 226863,
+              "vendor_id" : 2174471,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/a36bf33d-433a-4221-bc56-c48a3e2e0ee4.png",
+              "caption" : "Reports and Analytics",
+              "weight" : 5,
+              "short_name" : "telephony"
+            }
+          ],
+          "links" : [ ],
+          "features" : [
+            {
+              "category_name" : "Telephony",
+              "category_features" : [
+                {
+                  "name" : "Auto-Dialer",
+                  "value" : false,
+                  "id" : "62af88cd-55b7-48db-b9f1-92965325101b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Call Center Management",
+                  "value" : false,
+                  "id" : "2aaef140-e839-40ae-adaa-7984914ee418",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Manage all call center activities including call monitoring, call recording, call answering, call transfer, etc."
+                },
+                {
+                  "name" : "Call Monitoring",
+                  "value" : false,
+                  "id" : "dd35bf91-e674-4d2f-af33-e7bb1a6be581",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Contact Management",
+                  "value" : true,
+                  "id" : "0019f365-3e1b-4e2f-8f1e-cb77ba025078",
+                  "avg_rating" : 2.2,
+                  "cnt_rating" : 6,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 0.667,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Store and find contact information such as names, addresses, and social media accounts"
+                },
+                {
+                  "name" : "IVR / Voice Recognition",
+                  "value" : false,
+                  "id" : "a29db9db-9a52-4c9a-8635-ad623b508295",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Predictive Dialer",
+                  "value" : false,
+                  "id" : "3ed72611-07fa-4f98-a643-25af9c28f8bc",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Reporting/Analytics",
+                  "value" : true,
+                  "id" : "b0c186d0-0194-4300-abba-ca3bc2474bbe",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 5,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "View and track pertinent metrics"
+                },
+                {
+                  "name" : "Telemarketing Management",
+                  "value" : false,
+                  "id" : "cb7b04c2-bec9-43bc-af22-9b14831e9dc0",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "VoIP",
+                  "value" : false,
+                  "id" : "de757678-6d5c-40c8-81b8-9b651d44f83d",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                }
+              ]
+            }
+          ],
+          "infographics" : [ ],
+          "related_products" : [
+            {
+              "product_id" : 226798,
+              "seo_product_id" : 226798,
+              "seo_slug" : "Zendesk",
+              "vendor_name" : "Zendesk",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/20f0b4b6-a84c-436b-854e-81f894defdbf.png",
+              "rating" : 4.4,
+              "total_reviews" : 3001,
+              "slug" : "Zendesk",
+              "product_name" : "Zendesk",
+              "short_desc" : "Zendesk provides the complete customer service solution that's easy to use and scales with your business.",
+              "features" : "Zendesk is the only complete customer service solution, that is both easy to use and scales with your business. On average, companies using Zendesk increase customer satisfaction by 25% and agent productivity by 30% - at any scale. All your customer interactions live in a single, dynamic interface with features like web widgets, pre-defined ticket responses, and a full customer history. Get up and running quickly, and expect to see results even faster.",
+              "url" : "https://www.zendesk.com/"
+            },
+            {
+              "product_id" : 102188,
+              "seo_product_id" : 226262,
+              "seo_slug" : "LiveAgent",
+              "vendor_name" : "QualityUnit",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/72e94d6f-e43a-417d-9e8a-8d774fe6e086.png",
+              "rating" : 4.7,
+              "total_reviews" : 1139,
+              "slug" : "LiveAgent",
+              "product_name" : "LiveAgent",
+              "short_desc" : "Great customer service starts with better Telephony software. Win more customers by providing excellent customer service with LiveAgent",
+              "features" : "Discover how easy it can be to provide professional inbound call support. Connect a VOIP provider, set up smart call routing, custom IVR and more.\nCompanies like BMW, Yamaha, Huawei, Orange or Forbesfone use LiveAgent to deliver customer wow to 150M end users worldwide.  Start with a 14-Day trial, no credit card needed, no contracts.\n\nLiveAgent is a multi-channel help desk software with 180+ help desk features including live chat, phone support, social media integrations, support portal and API.",
+              "url" : "https://www.liveagent.com/telephony-software/?utm_source=capterra&utm_medium=cpc&utm_campaign=telephony#capterra"
+            },
+            {
+              "product_id" : 242188,
+              "seo_product_id" : 242188,
+              "seo_slug" : "RingCentral-MVP",
+              "vendor_name" : "RingCentral",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/3766495d-3c37-44ed-ae0c-4ccd24835955.png",
+              "rating" : 4.2,
+              "total_reviews" : 969,
+              "slug" : "RingCentral-MVP",
+              "product_name" : "RingCentral MVP",
+              "short_desc" : "A seamless solution to unleash the power of cloud business communications.",
+              "features" : "RingCentral MVP offers widespread business support by being easily administered across all your locations, incorporates all your users, includes diverse calling options, and integrates your preferred accessory or device smoothly. ",
+              "url" : "https://www.ringcentral.com/aff/office.html?BMID=AFF_CAPTERRA&c3ch=Affiliate&c3nid=RC-PH-1011214948&PID=1011214948&CID=AFF&AID=1100l17970&SID=capterra"
+            },
+            {
+              "product_id" : 223292,
+              "seo_product_id" : 242188,
+              "seo_slug" : "RingCentral-MVP",
+              "vendor_name" : "RingCentral",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/3766495d-3c37-44ed-ae0c-4ccd24835955.png",
+              "rating" : 4.2,
+              "total_reviews" : 969,
+              "slug" : "RingCentral-Office",
+              "product_name" : "RingCentral MVP",
+              "short_desc" : "A seamless solution to unleash the power of cloud business communications.",
+              "features" : "RingCentral MVP offers widespread business support by being easily administered across all your locations, incorporates all your users, includes diverse calling options, and integrates your preferred accessory or device smoothly. ",
+              "url" : "https://www.ringcentral.com/office/how-it-works.html"
+            },
+            {
+              "product_id" : 132852,
+              "seo_product_id" : 224358,
+              "seo_slug" : "Talkdesk",
+              "vendor_name" : "Talkdesk",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/af9001c5-04d1-4792-a867-0f398f0658c7.png",
+              "rating" : 4.5,
+              "total_reviews" : 683,
+              "slug" : "Talkdesk",
+              "product_name" : "Talkdesk",
+              "short_desc" : "Talkdesk is an intuitive, cloud-based telephony solution with advanced features, comprehensive reporting and seamless integrations.",
+              "features" : "Talkdesk Enterprise Contact Center Platform empowers companies to make customer experience a competitive advantage. With enterprise class performance and consumer-like ease of use, Talkdesk's telephony platform easily adapts to the evolving needs of sales and support teams and their end-customers, resulting in increased customer satisfaction, productivity and cost savings. Over 1,400 innovative enterprises around the world rely on Talkdesk to power their customer interactions.",
+              "url" : "https://www.talkdesk.com/get-started/?utm_source=capterra&utm_medium=Paid-Advertising&utm_campaign=Telephony&utm_content=Get-Started&utm_term="
+            },
+            {
+              "product_id" : 163604,
+              "seo_product_id" : 222025,
+              "seo_slug" : "GoToConnect",
+              "vendor_name" : "GoTo",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/420d013e-1667-4846-a909-0e533179fe7d.jpeg",
+              "rating" : 4.5,
+              "total_reviews" : 615,
+              "slug" : "Jive-Hosted-VoIP",
+              "product_name" : "GoTo Connect",
+              "short_desc" : "GoToConnect combines Jive's VoIP phone systems with GoToMeeting's video conferencing into one simple, reliable and flexible solution.",
+              "features" : "GoToConnect (formerly Jive) combines cloud VoIP phone systems with GoToMeeting's web, audio and video capabilities into one simple, flexible solution. Users can meet, talk, and collaborate via web browser, desktop application, or desk phone with features ranging from virtual voicemail, and call forwarding, to secure video conferencing and screen sharing. For as low as $19.95 a month, GoToConnect eliminates the hassle and expense of managing multiple collaboration solution providers.",
+              "url" : "https://www.goto.com/offer/connect/a?utm_source=capterra&utm_medium=review-sites&utm_campaign=telephony&campaignID=7011B000002ZKDFQA4"
+            },
+            {
+              "product_id" : 113540,
+              "seo_product_id" : 226875,
+              "seo_slug" : "Bitrix24",
+              "vendor_name" : "Bitrix",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/0d820dd6-6e0b-43de-becb-e9078a2d9fac.png",
+              "rating" : 4.1,
+              "total_reviews" : 527,
+              "slug" : "Bitrix24",
+              "product_name" : "Bitrix24",
+              "short_desc" : "Bitrix24 #1 free business cloud telephony system, CRM and telemarketing solution used by 8 million businesses worldwide.",
+              "features" : "If you are looking for a free VoIP phone system for your small business, Bitrix24 is what you need. Unlike other voip solutions, Bitrix24 works both as your internal PBX system and as contact center for inbound and outbound calls. It's also the only free voip system that comes with fully featured free CRM. Importantly, when you clients call you from a phone number recorded in CRM, they will be identified, connected to assigned manager and their phone calls will be logged and recorded.",
+              "url" : "https://www.bitrix24.com/uses/free-business-phone-voip-system.php?utm_source=capterra&utm_medium=cpc&utm_campaign=com_cc_capterra-telephony"
+            },
+            {
+              "product_id" : 134775,
+              "seo_product_id" : 217044,
+              "seo_slug" : "NICE-inContact",
+              "vendor_name" : "NICE inContact",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/a552bbb1-7f67-4aad-99c5-e4ca0066110b.png",
+              "rating" : 4.2,
+              "total_reviews" : 518,
+              "slug" : "inContact-Call-Center-Software",
+              "product_name" : "NICE CXone",
+              "short_desc" : "Cloud contact center software that offers VR, skills-based routing, AI, call blending, and analytics.",
+              "features" : "NICE CXone Voice as a Service (VaaS) telephony is a contact center connectivity suite delivering quality optimized cloud voice and data services that enable quality connections between agents and customers, while allowing organizations to save money through a low latency, optimized, least-cost routing mix on a global scale.",
+              "url" : "https://get.niceincontact.com/Watch-Demo.html?utm_source=capterra&utm_medium=ppc&utm_content=usa-capterra-ppc-telephonylisting&utm_campaign=NL_Q120_209070_Watch-Demo-Capterra_EN"
+            },
+            {
+              "product_id" : 190976,
+              "seo_product_id" : 220536,
+              "seo_slug" : "Dialpad",
+              "vendor_name" : "Dialpad",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/db8210f5-fd7d-4a5b-8631-b1fbb3ddf3c6.png",
+              "rating" : 4.4,
+              "total_reviews" : 461,
+              "slug" : "Dialpad-Sell",
+              "product_name" : "Dialpad",
+              "short_desc" : "Dialpad Talk modernizes telephony technology, putting voice, messaging, meetings, and video on any device. \r\n",
+              "features" : "Dialpad Talk is a modern cloud-based business phone system that keeps teams connected by making all of their telephony needs available on any device. Dialpad Talk's native Voice Intelligence features boost productivity with real-time transcription and post-call summaries, including highlighted action items. Plus integrations with G Suite, Office 365, Zendesk, and Salesforce create rapid deployments and automatic syncing with the apps your team uses everyday.",
+              "url" : "https://www.dialpad.com/dp/business-phone-system/?source=reviewsite&utm_medium=cpc&utm_source=capterra"
+            },
+            {
+              "product_id" : 159578,
+              "seo_product_id" : 159578,
+              "seo_slug" : "CallHippo",
+              "vendor_name" : "CallHippo",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/0933a2a1-8401-453d-9b22-6ac653d9cba1.png",
+              "rating" : 4.2,
+              "total_reviews" : 351,
+              "slug" : "CallHippo",
+              "product_name" : "CallHippo",
+              "short_desc" : "CallHippo is an Easy to Use Phone System while providing world-class support. It can be setup Instant and provide advanced reporting.",
+              "features" : "CallHippo is a business Telephony system that helps you connect with your customers. CallHippo is easy-to-use while offering robust functionality with advanced features like Power Dailer and Automatic call distribution. Our Extensive reporting and seamless integrations empower sales and service teams to have effective conversations with customers. Providing World-Class support 24*7 and Accessible by desktop and mobile-app, CallHippo is trusted by over 5000 companies worldwide.",
+              "url" : "https://callhippo.com/?utm_medium=cpctele&utm_campaign=platformPPC"
+            },
+            {
+              "product_id" : 175002,
+              "seo_product_id" : 175002,
+              "seo_slug" : "Grasshopper",
+              "vendor_name" : "GoTo",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d126c19a-aa51-4232-b232-8461db8fd79c.png",
+              "rating" : 4.4,
+              "total_reviews" : 322,
+              "slug" : "Grasshopper",
+              "product_name" : "Grasshopper",
+              "short_desc" : "Get the perfect phone number for your small business and turn the world into our office with the Grasshopper virtual phone system.",
+              "features" : "Turn the world into your office with Grasshopper, the virtual phone system for small businesses. Get a local, toll free, or vanity phone number to represent your business or bring your own number! Forward calls anywhere and use our mobile and desktop apps to communicate with clients over voice or text, be notified in real time of missed calls & voicemails, and have your voicemails transcribed and sent via email. Try us risk free for 30 days with our money-back guarantee.",
+              "url" : "https://signup.grasshopper.com/trial-numbers/?utm_source=capterra&utm_medium=affiliate_review-sites&utm_campaign=telephony&campaignID=7014P0000010E5KQAU"
+            }
+          ],
+          "similar_products" : [
+            {
+              "product_id" : 163604,
+              "seo_product_id" : 222025,
+              "seo_slug" : "GoToConnect",
+              "vendor_name" : "GoTo",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/420d013e-1667-4846-a909-0e533179fe7d.jpeg",
+              "rating" : 4.5,
+              "total_reviews" : 615,
+              "slug" : "Jive-Hosted-VoIP",
+              "product_name" : "GoTo Connect",
+              "short_desc" : "GoToConnect combines Jive's VoIP phone systems with GoToMeeting's video conferencing into one simple, reliable and flexible solution.",
+              "features" : "GoToConnect (formerly Jive) combines cloud VoIP phone systems with GoToMeeting's web, audio and video capabilities into one simple, flexible solution. Users can meet, talk, and collaborate via web browser, desktop application, or desk phone with features ranging from virtual voicemail, and call forwarding, to secure video conferencing and screen sharing. For as low as $19.95 a month, GoToConnect eliminates the hassle and expense of managing multiple collaboration solution providers.",
+              "url" : "https://www.goto.com/offer/connect/a?utm_source=capterra&utm_medium=review-sites&utm_campaign=default&campaignID=7011B000002ZKDFQA4"
+            },
+            {
+              "product_id" : 144486,
+              "seo_product_id" : 226458,
+              "seo_slug" : "Aircall",
+              "vendor_name" : "Aircall",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/cc9c553a-b0c5-4095-b932-9ce0c85e3255.png",
+              "rating" : 4.3,
+              "total_reviews" : 301,
+              "slug" : "Aircall",
+              "product_name" : "Aircall",
+              "short_desc" : "Aircall is the modern telephony solution designed to integrate with your favorite business tools. Numbers available in 100+ countries.",
+              "features" : "Make every phone conversation count and give time back to your reps. Aircall's flexible telephony solution integrates with 80+ CRM, helpdesk, and other critical business tools to surface the information your reps need to be successful, when they need it. Join 9,000+ companies that trust Aircall to strengthen their customer and prospect relationships with first-class phone features like: SMS, advanced call routing, IVR, analytics, power dialer, call tagging, and other collaborative features.",
+              "url" : "https://aircall.io/c/phone-system/?utm_medium=cpc&utm_campaign=na-general"
+            },
+            {
+              "product_id" : 134672,
+              "seo_product_id" : 223601,
+              "seo_slug" : "PhoneBurner",
+              "vendor_name" : "PhoneBurner",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/9d1e4b59-9ce2-4309-b933-12d6217bdaf7.png",
+              "rating" : 4.8,
+              "total_reviews" : 159,
+              "slug" : "PhoneBurner",
+              "product_name" : "PhoneBurner",
+              "short_desc" : "Boost sales team productivity 4x with our top-rated Power Dialing and Sales platform. Blend phone/email/SMS and close deals faster.",
+              "features" : "Have More LIVE Conversations in 15-Minutes Guaranteed! We're so confident you'll boost outbound sales with our power dialer, you can use our full product for FREE without a credit card. Here's why we're confident: 1) Dial leads 4x faster 2) No awkward pauses after contact answers 3) Drop voicemails/emails in 1-click 4) Automate post call workflows 5) No special equipment needed. Powerful yet easy to use!",
+              "url" : "https://www.phoneburner.com/homepage/start-free-trial?utm_medium=ppc&utm_campaign=capterra_default"
+            },
+            {
+              "product_id" : 136341,
+              "seo_product_id" : 136341,
+              "seo_slug" : "CDR-Call-Reporting-for-Cisco",
+              "vendor_name" : "Variphy",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/026362b1-91fe-410a-9eb0-36df3fd3aa50.png",
+              "rating" : 5.0,
+              "total_reviews" : 25,
+              "slug" : "CDR-Call-Reporting-for-Cisco",
+              "product_name" : "CDR Call Reporting for Cisco",
+              "short_desc" : "Variphy is the preferred analytics and management platform for Cisco Collaboration.",
+              "features" : "Variphy is the preferred analytics and management platform for Cisco Collaboration.\n\nVariphy provides all the functions you need in a single pane of glass. We built our products and features with the feedback and requests of Unified Communications professionals like you.\n\nDiscover what's possible with Variphy:\n\n- Dashboards, UCCX Wallboards, & Widgets\n- CUCM CDR Reporting & Call Analytics\n- UCCX Reporting & Analytics\n- Cisco CUBE CDR Reporting\n- Variphy Cloud\n- and more!",
+              "url" : "https://www.variphy.com/landing/3-9-17/cisco-cdr-reporting?utm_source=capterra&utm_medium=ppc"
+            },
+            {
+              "product_id" : 227789,
+              "seo_product_id" : 227789,
+              "seo_slug" : "urLive",
+              "vendor_name" : "URL.Live",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/b56d80d8-697c-43c7-96ca-f4f015eee053.png",
+              "rating" : 0.0,
+              "total_reviews" : 0,
+              "slug" : "urLive",
+              "product_name" : "urLive",
+              "short_desc" : "One-click video calling links powered by a SaaS PBX with configurable call groups. Unchanging links that call dynamic call groups.",
+              "features" : "A cloud PBX for browser-based, WebRTC calling. Provides \"Infinity Team LInks\" for one-click video, audio and IM calling. Links are assigned to configurable call groups through easy-to-use portal. Callers clicking these links are routed to available agents within the call group. Call groups can be instantly updated with whomever is currently available to answer. \nInfinity Links can be used in websites, email, CRM apps, video kiosks, SMS/Text, etc.\nIntegrated scheduling calendar for missed calls.",
+              "url" : "https://info.url.live/"
+            },
+            {
+              "product_id" : 175002,
+              "seo_product_id" : 175002,
+              "seo_slug" : "Grasshopper",
+              "vendor_name" : "GoTo",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d126c19a-aa51-4232-b232-8461db8fd79c.png",
+              "rating" : 4.4,
+              "total_reviews" : 322,
+              "slug" : "Grasshopper",
+              "product_name" : "Grasshopper",
+              "short_desc" : "Get the perfect phone number for your small business and turn the world into our office with the Grasshopper virtual phone system.",
+              "features" : "Turn the world into your office with Grasshopper, the virtual phone system for small businesses. Get a local, toll free, or vanity phone number to represent your business or bring your own number! Forward calls anywhere and use our mobile and desktop apps to communicate with clients over voice or text, be notified in real time of missed calls & voicemails, and have your voicemails transcribed and sent via email. Try us risk free for 30 days with our money-back guarantee.",
+              "url" : "https://signup.grasshopper.com/trial-numbers?utm_source=Capterra&utm_medium=affiliate_review-sites"
+            },
+            {
+              "product_id" : 102188,
+              "seo_product_id" : 226262,
+              "seo_slug" : "LiveAgent",
+              "vendor_name" : "QualityUnit",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/72e94d6f-e43a-417d-9e8a-8d774fe6e086.png",
+              "rating" : 4.7,
+              "total_reviews" : 1139,
+              "slug" : "LiveAgent",
+              "product_name" : "LiveAgent",
+              "short_desc" : "Great customer service starts with better Telephony software. Win more customers by providing excellent customer service with LiveAgent",
+              "features" : "Discover how easy it can be to provide professional inbound call support. Connect a VOIP provider, set up smart call routing, custom IVR and more.\nCompanies like BMW, Yamaha, Huawei, Orange or Forbesfone use LiveAgent to deliver customer wow to 150M end users worldwide.  Start with a 14-Day trial, no credit card needed, no contracts.\n\nLiveAgent is a multi-channel help desk software with 180+ help desk features including live chat, phone support, social media integrations, support portal and API.",
+              "url" : "https://www.liveagent.com/?utm_source=capterra&utm_medium=cpc&utm_campaign=homepage#capterra"
+            },
+            {
+              "product_id" : 147610,
+              "seo_product_id" : 221750,
+              "seo_slug" : "Phonecom",
+              "vendor_name" : "Phone.com",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/82dd3a5b-aacf-4d9d-bc95-39503ebc79f1.png",
+              "rating" : 3.8,
+              "total_reviews" : 52,
+              "slug" : "Phone-com",
+              "product_name" : "Phone.com",
+              "short_desc" : "Telephony solution with voicemail transcription, voice tagging, scheduling, click to call, and more.",
+              "features" : "Phone.com offers a virtual phone system to manage phone greetings, menus, routing, extensions, voicemail, conferencing, fax, SMS, MMS, forwarding, and more. Phone.com is the leading cloud-based phone company focused on the needs of small businesses and entrepreneurs.  In addition to offering a variety of innovative, customizable and cost-effective communications solutions, Phone.com delivers award-winning U.S. based customer support to customers across America.  ",
+              "url" : "https://www.phone.com/capterra/"
+            },
+            {
+              "product_id" : 215555,
+              "seo_product_id" : 215555,
+              "seo_slug" : "Clarity-Business-Phone-System",
+              "vendor_name" : "ULTATEL ",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/9f2447b4-230c-485c-bf26-2c38bf4b40f0.png",
+              "rating" : 4.7,
+              "total_reviews" : 10,
+              "slug" : "Clarity-Business-Phone-System",
+              "product_name" : "ULTATEL Cloud Business Phone System",
+              "short_desc" : "Unlimited Voice, SMS, Fax, Chat, Video. Fully Customizable and Scalable to fit your Needs. All with our Award-winning 24/7/365 support.",
+              "features" : "ULTATEL is a recognized industry leader in business telephony systems. With the power of cloud technology, we help businesses empower their people to be more productive and connect with their customers wherever they are.\n\nOur plans come fully customizable and scalable with unlimited Voice, SMS, Fax, Chat, and Video.\n \nAs an integration pioneer, ULTATEL can do much more than build a great phone system. We can integrate with your existing systems to get you the results you want, seamlessly.",
+              "url" : "https://info.gartnerdigitalmarkets.com/ultatel-gdm-lp"
+            },
+            {
+              "product_id" : 157853,
+              "seo_product_id" : 242129,
+              "seo_slug" : "JustCall",
+              "vendor_name" : "JustCall",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4293c696-0293-4ce6-b300-7b144a0e89ff.png",
+              "rating" : 4.1,
+              "total_reviews" : 87,
+              "slug" : "JustCall",
+              "product_name" : "JustCall",
+              "short_desc" : "JustCall's Telephony solution is rated #1 For SMBs and trusted by 6000+ customers. Make, receive phone calls and SMS from any device.",
+              "features" : "The Cloud Phone System of choice for modern sales and support teams. Switch to a single platform for all your customer communication and workflow automation needs. End clueless conversations by adding context to every call. Call software, virtual numbers, SMS campaigns, native CRM integrations, and lots more at just $25 per user.\n\nSignup & get 70% discount for the first month",
+              "url" : "https://justcall.io/?utm_source=capterra&utm_medium=cpc&utmcampaign=homepage"
+            },
+            {
+              "product_id" : 166095,
+              "seo_product_id" : 212280,
+              "seo_slug" : "Zadarma",
+              "vendor_name" : "Zadarma",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/88ddc86a-d6f7-4699-8a6e-42739cd22839.png",
+              "rating" : 3.7,
+              "total_reviews" : 42,
+              "slug" : "Zadarma",
+              "product_name" : "Zadarma",
+              "short_desc" : "Connect your business to partners and clients from anywhere in the world with Zadarma's phone numbers in over 100 countries.",
+              "features" : "Having a comprehensive telephone system is essential for businesses across all industries. With Zadarma you can open virtual international offices from anywhere in the world in a matter of minutes with a help of phone numbers in over 100 countries. A choice of mobile, landline and toll-free numbers allows any company to find the best fit at an attractive rate.",
+              "url" : "https://zadarma.com/en/services/pbx/?ref=d9c1c3b10384f206f9195ad8e968c278&utm_campaign=pbx"
+            },
+            {
+              "product_id" : 134493,
+              "seo_product_id" : 134493,
+              "seo_slug" : "DialMyCalls",
+              "vendor_name" : "OnTimeTelecom",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/ea12582c-096d-4d9a-af42-6a68608a1d5a.png",
+              "rating" : 4.8,
+              "total_reviews" : 50,
+              "slug" : "DialMyCalls",
+              "product_name" : "DialMyCalls",
+              "short_desc" : "Send calls and/or text messages to a list of contacts within seconds. Used by churches, non-profits and many other businesses.",
+              "features" : "Send a phone call or text message to an entire list of phone numbers in seconds.  The DialMyCalls platform allows you to easily send voice or SMS broadcasts right from any PC or mobile device.  No calling hardware required, you're able to send thousands of messages per minute using our extensive hardware network.  Try us out completely free today and see why thousands of organizations use DialMyCalls.",
+              "url" : "https://www.dialmycalls.com/t/capterra-product-list-home"
+            },
+            {
+              "product_id" : 205656,
+              "seo_product_id" : 205656,
+              "seo_slug" : "SkySwitch",
+              "vendor_name" : "SkySwitch",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/217ad5fa-c37f-48b3-8248-bfa1f46aef78.png",
+              "rating" : 4.8,
+              "total_reviews" : 6,
+              "slug" : "SkySwitch",
+              "product_name" : "SkySwitch",
+              "short_desc" : "With SkySwitch, resellers can offer their end-users communication and collaboration services with ease even if they are not experts.",
+              "features" : "SkySwitch offers the ultimate white-label UCaaS platform for MSPs, VARs, System Integrators, Interconnects and like providers to quickly brand as their own and resell to their customer base.  Get up and running selling a hybrid workforce solution -- UCaaS/hosted voice -- in as little as 90 days. Expand your service offerings and revenue stream. Our top resellers on average annualized growth rate is 40%.\n\n\n",
+              "url" : "https://skyswitch.com/lp/"
+            }
+          ],
+          "related_categories" : [
+            {
+              "functional_group" : "telephony",
+              "long_name" : "Call Accounting",
+              "html_name" : "call-accounting-software",
+              "link_name" : "call-accounting",
+              "product_count" : 55,
+              "meta_description" : "Find and compare top Call Accounting software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Call Accounting tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs.",
+              "description" : "<a href=/call-accounting-software>Call Accounting software</a> helps businesses gain insights into call logs, telephone usage and cost trends. Call Accounting solutions help create accountability for telecom resources across corporate departments. They also help to eliminate vendor over-billings by automating invoice processing.  Within organizations, <a href=/call-accounting-software>Call Accounting software</a> helps to identify unused telecom resources as well as to offer insight into call and cost trends.   <a href=/call-accounting-software>Call Accounting software</a> is related to <a href=/telecom-expense-management-software>Telecom Expense Management software</a>."
+            },
+            {
+              "functional_group" : "telephony",
+              "long_name" : "Call Center",
+              "html_name" : "call-center-software",
+              "link_name" : "call-center",
+              "product_count" : 174,
+              "meta_description" : "Find and compare top Call Center software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Call Center tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs.",
+              "description" : "<a href=/call-center-software>Call Center software</a> automates and standardizes the process of receiving and responding to customer phone calls. These solutions enable better monitoring of the customer experience, workflow management and evaluation of employee performance.  Whether designed for virtual or site-based locations, Call Center applications manage and catalog the process of customer calls and often allow customers to track the progress of their request via the internet.  <a href=/call-center-software>Call Center software</a> is related to <a href=/customer-service-software>Customer Service software</a> and <a href=/help-desk-software>Help Desk software</a>."
+            },
+            {
+              "functional_group" : "telephony",
+              "long_name" : "IVR",
+              "html_name" : "ivr-software",
+              "link_name" : "ivr",
+              "product_count" : 57,
+              "meta_description" : "Find and compare top IVR software on Capterra, with our free and interactive tool. Quickly browse through hundreds of IVR tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/ivr-software\">Interactive Voice Response (IVR) software</a>, allows <a href=\"/call-center-software\">call centers</a>, <a href=\"/help-desk-software\">help desks</a> and other organizations to create menus which the caller can navigate using spoken commands or their telephone keys.  IVR software is mainly used for systems that allow callers to select information or enter data without the need for assistance.  IVR systems can also be used to route callers to the appropriate department within an organization, based on their answers to qualifying questions."
+            },
+            {
+              "functional_group" : "telephony",
+              "long_name" : "Telecom Expense Management",
+              "html_name" : "telecom-expense-management-software",
+              "link_name" : "telecom-expense-management",
+              "product_count" : 88,
+              "meta_description" : "Find and compare top Telecom Expense Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Telecom Expense Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/telecom-expense-management-software>Telecom Expense Management software</a> automates the process of monitoring, auditing and reducing telecom billing expenses.  These applications aid call centers, help desks and other organizations measure, manage, predict and optimize expenditures related to their telephone systems.  Telecom Expense Management solutions also aid in distributing key performance data throughout an enterprise as well as forecasting for infrastructure investment and eliminating internal fraud.  <a href=/telecom-expense-management-software>Telecom Expense Management software</a> is related to <a href=\"/billing-and-provisioning-software\">Billing and Provisioning software</a> and <a href=/call-accounting-software>Call Accounting software</a>."
+            },
+            {
+              "functional_group" : "telephony",
+              "long_name" : "VoIP",
+              "html_name" : "voip-software",
+              "link_name" : "voip",
+              "product_count" : null,
+              "meta_description" : "Find and compare top VoIP software on Capterra, with our free and interactive tool. Quickly browse through hundreds of VoIP tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs.",
+              "description" : "VoIP software enables voice and data transmission over the Internet which allows for enhanced employee mobility. This type of software provides extensive call reporting capabilities and often supports other functions, such as instant messaging and group conferencing, in addition to standard telephony features."
+            }
+          ],
+          "is_upgraded" : false,
+          "enabled" : true,
+          "filter_options" : {
+            "users" : 127,
+            "platform" : 897,
+            "pricing_options" : 24,
+            "category_related_features" : [
+              20266,
+              20270,
+              20273,
+              56878,
+              56879,
+              56880,
+              56886,
+              56888,
+              56889,
+              56894,
+              56896,
+              56897,
+              56898,
+              56899,
+              56902,
+              56903,
+              56906
+            ],
+            "employees" : 127
+          },
+          "sort_options" : {
+            "sort_review_rating" : 4.3975300788879395,
+            "most_recent_review" : "2022-08-16T15:06:58Z"
+          },
+          "countries" : "ALL",
+          "features_tokenized_text" : "contact_management reporting/analytics",
+          "platform_tokenized_text" : "cloud,saas,web-based mobileandroid mobileiphone mobileipad",
+          "users_tokenized_text" : "1 2-10 11-50 51-200 201-500 501-1000 1000+",
+          "pricing_tokenized_text" : "free freetrial",
+          "badges" : [ ],
+          "bid_spot_us" : 0.0,
+          "currency_code" : "USD",
+          "currency_symbol" : "$",
+          "credit_card_required" : "No",
+          "licensing_model" : null,
+          "open_api_offered" : "Unverified",
+          "mobile_urls" : [ ],
+          "integrations" : [
+            {
+              "id" : "3ecee0e7-8233-490b-858c-a6d200b7a22f",
+              "name" : "Zapier"
+            }
+          ],
+          "supported_countries" : [
+            {
+              "id" : 237,
+              "code" : "US",
+              "name" : "United States of America"
+            }
+          ],
+          "supported_languages" : [
+            {
+              "id" : 152,
+              "code" : "en",
+              "name" : "English",
+              "location" : null
+            }
+          ],
+          "target_industries" : [
+            {
+              "id" : 126,
+              "code" : "27",
+              "name" : "Retail"
+            },
+            {
+              "id" : 46,
+              "code" : "34",
+              "name" : "Food & Beverages"
+            },
+            {
+              "id" : 43,
+              "code" : "43",
+              "name" : "Financial Services"
+            },
+            {
+              "id" : 86,
+              "code" : "126",
+              "name" : "Media Production"
+            },
+            {
+              "id" : 117,
+              "code" : "82",
+              "name" : "Publishing"
+            },
+            {
+              "id" : 74,
+              "code" : "10",
+              "name" : "Legal Services"
+            },
+            {
+              "id" : 11,
+              "code" : "41",
+              "name" : "Banking"
+            },
+            {
+              "id" : 140,
+              "code" : "59",
+              "name" : "Utilities"
+            },
+            {
+              "id" : 134,
+              "code" : "8",
+              "name" : "Telecommunications"
+            },
+            {
+              "id" : 37,
+              "code" : "28",
+              "name" : "Entertainment"
+            },
+            {
+              "id" : 68,
+              "code" : "6",
+              "name" : "Internet"
+            },
+            {
+              "id" : 97,
+              "code" : "100",
+              "name" : "Non-Profit Organization Management"
+            },
+            {
+              "id" : 57,
+              "code" : "14",
+              "name" : "Hospital & Health Care"
+            },
+            {
+              "id" : 42,
+              "code" : "63",
+              "name" : "Farming"
+            },
+            {
+              "id" : 85,
+              "code" : "135",
+              "name" : "Mechanical or Industrial Engineering"
+            },
+            {
+              "id" : 120,
+              "code" : "44",
+              "name" : "Real Estate"
+            },
+            {
+              "id" : 76,
+              "code" : "30",
+              "name" : "Leisure, Travel & Tourism"
+            },
+            {
+              "id" : 65,
+              "code" : "42",
+              "name" : "Insurance"
+            },
+            {
+              "id" : 105,
+              "code" : "15",
+              "name" : "Pharmaceuticals"
+            },
+            {
+              "id" : 62,
+              "code" : "147",
+              "name" : "Industrial Automation"
+            },
+            {
+              "id" : 26,
+              "code" : "48",
+              "name" : "Construction"
+            },
+            {
+              "id" : 25,
+              "code" : "4",
+              "name" : "Computer Software"
+            },
+            {
+              "id" : 78,
+              "code" : "116",
+              "name" : "Logistics and Supply Chain"
+            },
+            {
+              "id" : 35,
+              "code" : "132",
+              "name" : "E-Learning"
+            },
+            {
+              "id" : 9,
+              "code" : "53",
+              "name" : "Automotive"
+            },
+            {
+              "id" : 98,
+              "code" : "57",
+              "name" : "Oil & Energy"
+            },
+            {
+              "id" : 55,
+              "code" : "124",
+              "name" : "Health, Wellness and Fitness"
+            },
+            {
+              "id" : 52,
+              "code" : "75",
+              "name" : "Government Administration"
+            },
+            {
+              "id" : 84,
+              "code" : "80",
+              "name" : "Marketing and Advertising"
+            },
+            {
+              "id" : 58,
+              "code" : "31",
+              "name" : "Hospitality"
+            },
+            {
+              "id" : 139,
+              "code" : "92",
+              "name" : "Transportation/Trucking/Railroad"
+            },
+            {
+              "id" : 81,
+              "code" : "11",
+              "name" : "Management Consulting"
+            },
+            {
+              "id" : 29,
+              "code" : "91",
+              "name" : "Consumer Services"
+            },
+            {
+              "id" : 1,
+              "code" : "47",
+              "name" : "Accounting"
+            },
+            {
+              "id" : 64,
+              "code" : "96",
+              "name" : "Information Technology and Services"
+            },
+            {
+              "id" : 41,
+              "code" : "122",
+              "name" : "Facilities Services"
+            },
+            {
+              "id" : 147,
+              "code" : "103",
+              "name" : "Writing and Editing"
+            },
+            {
+              "id" : 125,
+              "code" : "32",
+              "name" : "Restaurants"
+            },
+            {
+              "id" : 114,
+              "code" : "79",
+              "name" : "Public Policy"
+            }
+          ],
+          "price_range_id" : 1,
+          "aggregated_review_ratings" : {
+            "industry" : {
+              "79" : 1.0,
+              "116" : 5.0,
+              "14" : 5.0,
+              "39" : 3.0,
+              "48" : 4.67,
+              "18" : 4.75,
+              "28" : 4.67,
+              "31" : 4.0,
+              "88" : 5.0,
+              "100" : 4.78,
+              "131" : 4.67,
+              "94" : 5.0,
+              "47" : 4.0,
+              "63" : 5.0,
+              "59" : 5.0,
+              "13" : 5.0,
+              "9" : 5.0,
+              "110" : 4.0,
+              "50" : 5.0,
+              "137" : 5.0,
+              "92" : 5.0,
+              "80" : 4.1,
+              "6" : 4.5,
+              "25" : 4.25,
+              "107" : 5.0,
+              "115" : 5.0,
+              "40" : 5.0,
+              "53" : 4.0,
+              "69" : 4.67,
+              "135" : 4.0,
+              "90" : 5.0,
+              "41" : 5.0,
+              "75" : 4.86,
+              "42" : 4.8,
+              "126" : 4.4,
+              "109" : 5.0,
+              "128" : 5.0,
+              "32" : 5.0,
+              "44" : 4.47,
+              "43" : 3.67,
+              "34" : 5.0,
+              "19" : 4.8,
+              "148" : 5.0,
+              "91" : 3.67,
+              "82" : 5.0,
+              "84" : 5.0,
+              "33" : 2.0,
+              "104" : 5.0,
+              "96" : 4.0,
+              "68" : 5.0,
+              "89" : 4.46,
+              "97" : 4.0,
+              "8" : 1.0,
+              "4" : 4.8,
+              "29" : 5.0,
+              "105" : 5.0,
+              "124" : 4.75,
+              "5" : 5.0,
+              "27" : 4.56
+            },
+            "company_size" : {
+              "1-10 employees" : 4.34,
+              "11-50 employees" : 4.42,
+              "Self-employed" : 4.76,
+              "201-500 employees" : 4.78,
+              "1001-5000 employees" : 4.67,
+              "501-1000 employees" : 4.23,
+              "51-200 employees" : 4.81,
+              "5001-10,000 employees" : 4.5,
+              "10,001+ employees" : 3.75
+            }
+          },
+          "vct_enabled" : false,
+          "pricing_plans" : [
+            {
+              "created_on_utc" : "2019-08-21T14:47:39Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Starter",
+              "description" : "Users can send up to 50 messages.",
+              "display_order" : 1,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 0.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : null,
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "1 Custom Keyword"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "50 Messages"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "Free Incoming Messages"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "14-Day Trial"
+                }
+              ]
+            },
+            {
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Bronze",
+              "description" : "Users can send up to 1000 messages per month.",
+              "display_order" : 2,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 24.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "1000 Messages"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "1 Custom Keyword"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Free Incoming Messages"
+                }
+              ]
+            },
+            {
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Plus",
+              "description" : "Users can send up to 2000 messages per month.",
+              "display_order" : 3,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 39.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "2000 Messages"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "2 Custom Keywords"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Free Incoming Messages"
+                }
+              ]
+            },
+            {
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Enterprise",
+              "description" : "Users can send up to 3500 messages per month.",
+              "display_order" : 4,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 50.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "3500 Messages"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "3 Custom Keywords"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Free Incoming Messages"
+                }
+              ]
+            },
+            {
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Elite",
+              "description" : "Users can send up to 5000 messages per month.",
+              "display_order" : 5,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 70.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "4 Custom Keywords"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "5000 Messages"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Free Incoming Messages"
+                }
+              ]
+            },
+            {
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Business",
+              "description" : "Users can send up to 10000 messages per month.",
+              "display_order" : 6,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 140.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "10000 Messages"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "6 Custom Keywords"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Free Incoming Messages"
+                }
+              ]
+            }
+          ],
+          "discount_types" : [
+            {
+              "name" : "By Plan Frequency",
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

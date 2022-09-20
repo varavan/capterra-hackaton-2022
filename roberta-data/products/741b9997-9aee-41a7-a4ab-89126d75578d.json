@@ -1,0 +1,3590 @@
+{
+  "took" : 5,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 3,
+    "successful" : 3,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : {
+      "value" : 1,
+      "relation" : "eq"
+    },
+    "max_score" : 10.871598,
+    "hits" : [
+      {
+        "_index" : "product_listings_main_data_upc_vt20220920_043802_utc",
+        "_type" : "_doc",
+        "_id" : "193276_ccarexcc",
+        "_score" : 10.871598,
+        "_source" : {
+          "product_id" : 193276,
+          "seo_product_id" : 223456,
+          "seo_slug" : "wolkvox",
+          "product_name" : "wolkvox",
+          "upc_product_uuid" : "741b9997-9aee-41a7-a4ab-89126d75578d",
+          "old_product_ids" : [
+            223456
+          ],
+          "product_url" : "https://wolkvox.com/landing_cc_cap.php",
+          "product_slug" : "wolkvox",
+          "former_name" : "wolkvox",
+          "logo_filepath" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e3bee6fe-a1aa-49bb-a6df-a08ec63e9745.png",
+          "vendor" : {
+            "vendor_id" : 2135158,
+            "vendor_name" : "Microsyslabs",
+            "vendor_url" : "https://wolkvox.com/en/",
+            "year_founded" : 2013,
+            "location" : "United States",
+            "vendor_opted_out_of_reviews" : true,
+            "is_opted_out_of_reviews" : false,
+            "is_hit_limit" : true,
+            "enabled" : true,
+            "has_vendor_level_page" : false,
+            "slug" : null,
+            "vendor_page" : false,
+            "paused_campaign" : false
+          },
+          "category_short_name" : "ccarexcc",
+          "category_html_name" : "call-center-software",
+          "category" : {
+            "id" : 30007,
+            "short_name" : "ccarexcc",
+            "long_name" : "Call Center",
+            "html_name" : "call-center-software",
+            "enabled" : true
+          },
+          "best_category" : "ccarexcc",
+          "is_best_category" : true,
+          "highest_cpc_category" : null,
+          "is_highest_cpc_category" : false,
+          "short_desc" : "Innovative, reliable, easy-to-use, and quick-to-deploy all-in-one cloud contact center solution on the market.",
+          "long_desc" : "wolkvox is the most innovative, reliable, easy-to-use, and fast to implement all-in-one cloud contact center solution on the market, delivering its service in the SaaS model. \n\nIts omnichannel predictive dialer, speech analytics, intelligent routing, and a graphic interface (wolkvox Studio) to develop voice routing, interactions, and chat stand out. \n\nIts variable expense model adjusted to operational fluctuations and constant innovation.",
+          "rating" : 4.6,
+          "number_of_reviews" : 58,
+          "total_reviews" : 58,
+          "ease_of_use_rating" : 4.7,
+          "customer_support_rating" : 4.4,
+          "functionality_rating" : 4.7,
+          "value_for_money_rating" : 4.6,
+          "recommendation_rating" : 9.2,
+          "pricing_enabled" : false,
+          "pricing" : null,
+          "is_per_user" : false,
+          "fee_schedule" : "Per-Month",
+          "pricing_model" : "Per Feature",
+          "pricing_details" : null,
+          "pricing_created_on" : "2019-09-09T20:17:37Z",
+          "pricing_modified_on" : "2022-08-09T21:30:53Z",
+          "pricing_created_by" : null,
+          "pricing_modified_by" : null,
+          "pricing_vendor_pricing_url" : null,
+          "free_trial" : true,
+          "free_version" : true,
+          "target_audience" : "Our omnichannel solution is aimed at companies that need to implement direct service channels or outsourcing and that use assisted and unassisted channels as a customer service strategy.",
+          "target_users" : [
+            "1",
+            "2-10",
+            "11-50",
+            "51-200",
+            "201-500",
+            "501-1000",
+            "1000+"
+          ],
+          "platform" : [
+            {
+              "enabled" : true,
+              "name" : "Cloud, SaaS, Web-Based"
+            },
+            {
+              "enabled" : true,
+              "name" : "Desktop Mac"
+            },
+            {
+              "enabled" : true,
+              "name" : "Desktop Windows"
+            },
+            {
+              "enabled" : true,
+              "name" : "Desktop Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Chromebook"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile Android"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPhone"
+            },
+            {
+              "enabled" : false,
+              "name" : "Mobile iPad"
+            }
+          ],
+          "support" : [
+            {
+              "enabled" : true,
+              "name" : "Email Help Desk"
+            },
+            {
+              "enabled" : false,
+              "name" : "FAQ Forum"
+            },
+            {
+              "enabled" : true,
+              "name" : "Knowledgebase"
+            },
+            {
+              "enabled" : true,
+              "name" : "Phone Support"
+            },
+            {
+              "enabled" : true,
+              "name" : "24/7 Live Rep"
+            },
+            {
+              "enabled" : true,
+              "name" : "Chat"
+            }
+          ],
+          "training" : [
+            {
+              "enabled" : false,
+              "name" : "Not Offered"
+            },
+            {
+              "enabled" : true,
+              "name" : "In-Person"
+            },
+            {
+              "enabled" : true,
+              "name" : "Live Online"
+            },
+            {
+              "enabled" : true,
+              "name" : "Webinars"
+            },
+            {
+              "enabled" : true,
+              "name" : "Documentation"
+            },
+            {
+              "enabled" : true,
+              "name" : "Videos"
+            }
+          ],
+          "media" : [
+            {
+              "product_id" : 193276,
+              "vendor_id" : 2135158,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/7b1d7adb-bf3f-455d-8fc3-37dcbd15beac.png",
+              "caption" : "With our wolkvox Manager and wolkvox Agent platforms, connect your clients with your team of advisors using state-of-the-art technology and Artificial Intelligence. ",
+              "weight" : 1,
+              "short_name" : "ccarexcc"
+            },
+            {
+              "product_id" : 193276,
+              "vendor_id" : 2135158,
+              "media_type" : "VIDEO",
+              "path_url" : "https://www.youtube.com/watch?v=m_q9hYGaxUE&t=2s",
+              "caption" : null,
+              "weight" : 0,
+              "short_name" : "ccarexcc"
+            }
+          ],
+          "links" : [
+            {
+              "product_id" : 193276,
+              "functional_group" : "ccarexcc",
+              "html_code" : "https://wolkvox.com/landing_cc_cap.php",
+              "link_name" : "Free Demo",
+              "link_priority" : 2.0
+            }
+          ],
+          "features" : [
+            {
+              "category_name" : "Call Center",
+              "category_features" : [
+                {
+                  "name" : "Alerts / Escalation",
+                  "value" : true,
+                  "id" : "030d8b13-e19b-4403-ab30-a9111d03d246",
+                  "avg_rating" : 4.3,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Define a process for transferring calls/tickets to management"
+                },
+                {
+                  "name" : "Blended Call Center",
+                  "value" : true,
+                  "id" : "fb51cd12-0fbb-42fb-baec-ae553f7b9d54",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "A call center that both makes and receives calls"
+                },
+                {
+                  "name" : "Call Logging",
+                  "value" : true,
+                  "id" : "1d1bda13-276d-4128-af5f-c429b1376e05",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Keep a record of all calls in and out of a call center"
+                },
+                {
+                  "name" : "Call Recording",
+                  "value" : true,
+                  "id" : "a8a46f44-46c5-4816-8a98-45bd6572314a",
+                  "avg_rating" : 4.8,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 2.67,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.667,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Record the audio of phone conversations for quality assurance purposes"
+                },
+                {
+                  "name" : "Call Scripting",
+                  "value" : true,
+                  "id" : "78812408-e81a-4128-b629-756c3a529244",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Provide agents with a typical response for common call subject matter"
+                },
+                {
+                  "name" : "Campaign Management",
+                  "value" : true,
+                  "id" : "08a976af-4728-4543-8941-8f3c1da99734",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.33,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.333,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Create a collection of marketing actions to complete specific goals"
+                },
+                {
+                  "name" : "IVR / Voice Recognition",
+                  "value" : true,
+                  "id" : "a29db9db-9a52-4c9a-8635-ad623b508295",
+                  "avg_rating" : 4.7,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Read and accept a combination of touch tone keypad selections and voice inputs and provide the appropriate prerecorded voice response"
+                },
+                {
+                  "name" : "Inbound Call Center",
+                  "value" : true,
+                  "id" : "94fef917-3845-4dca-9044-fcccb1d29de4",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "A call center that primarily receives calls, typically customer service focused"
+                },
+                {
+                  "name" : "Manual Dialer",
+                  "value" : true,
+                  "id" : "71135457-fb57-428e-a07b-bf4e8f79742c",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Agents choose who to call and when"
+                },
+                {
+                  "name" : "Outbound Call Center",
+                  "value" : true,
+                  "id" : "c55cf607-c426-4735-886b-52def70bd658",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "A call center that primarily makes calls, typically sales focused"
+                },
+                {
+                  "name" : "Predictive Dialer",
+                  "value" : true,
+                  "id" : "3ed72611-07fa-4f98-a643-25af9c28f8bc",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "System calls multiple numbers at once and connects the agent to the first number that answers"
+                },
+                {
+                  "name" : "Progressive Dialer",
+                  "value" : true,
+                  "id" : "98639a98-346f-4f3f-a0c5-c8ef4c9950e4",
+                  "avg_rating" : 0.0,
+                  "cnt_rating" : 0,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "System makes individual calls from a list as soon as the agent is available"
+                },
+                {
+                  "name" : "Queue Management",
+                  "value" : true,
+                  "id" : "7d43eb22-86be-4b4c-a60d-f8fc5d1c7607",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 2.33,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.333,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Monitor wait time and abandonment for incoming requests that have not been routed"
+                },
+                {
+                  "name" : "Real-Time Chat",
+                  "value" : true,
+                  "id" : "ebcc93e9-b049-4da0-a750-02fa0ea70ec4",
+                  "avg_rating" : 0.0,
+                  "cnt_rating" : 0,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Engage in direct, instant messaging"
+                },
+                {
+                  "name" : "Reporting/Analytics",
+                  "value" : true,
+                  "id" : "b0c186d0-0194-4300-abba-ca3bc2474bbe",
+                  "avg_rating" : 4.5,
+                  "cnt_rating" : 6,
+                  "avg_importance" : 2.2,
+                  "cnt_importance" : 5,
+                  "cnt_time_used" : 6,
+                  "pct_time_used" : 0.833,
+                  "cnt_time_critical" : 6,
+                  "pct_time_critical" : 0.167,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "View and track pertinent metrics"
+                }
+              ]
+            },
+            {
+              "category_name" : "Auto Dialer",
+              "category_features" : [
+                {
+                  "name" : "Automatic Call Distribution",
+                  "value" : true,
+                  "id" : "1b95ff50-3de0-4187-9508-7b91b7b1de32",
+                  "avg_rating" : 4.8,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Distribute/route calls across call center employees"
+                },
+                {
+                  "name" : "Call Monitoring",
+                  "value" : true,
+                  "id" : "dd35bf91-e674-4d2f-af33-e7bb1a6be581",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Call Recording",
+                  "value" : true,
+                  "id" : "a8a46f44-46c5-4816-8a98-45bd6572314a",
+                  "avg_rating" : 4.8,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 2.67,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.667,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Record the audio of phone conversations for quality assurance purposes"
+                },
+                {
+                  "name" : "Call Routing",
+                  "value" : true,
+                  "id" : "ea563cd1-5d92-4795-a3e1-b5ce03158fed",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Call Scripting",
+                  "value" : true,
+                  "id" : "78812408-e81a-4128-b629-756c3a529244",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Provide agents with a typical response for common call subject matter"
+                },
+                {
+                  "name" : "Call Transfer",
+                  "value" : true,
+                  "id" : "112ec224-9ce3-4eba-9aa9-c195a47330a9",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Campaign Management",
+                  "value" : true,
+                  "id" : "08a976af-4728-4543-8941-8f3c1da99734",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.33,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.333,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Create a collection of marketing actions to complete specific goals"
+                },
+                {
+                  "name" : "IVR / Voice Recognition",
+                  "value" : true,
+                  "id" : "a29db9db-9a52-4c9a-8635-ad623b508295",
+                  "avg_rating" : 4.7,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Power Dialer",
+                  "value" : true,
+                  "id" : "b75ca814-088f-4922-a091-6921fc7a0290",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "System automatically dials the next number on the contact list after the previous call ends"
+                },
+                {
+                  "name" : "Predictive Dialer",
+                  "value" : true,
+                  "id" : "3ed72611-07fa-4f98-a643-25af9c28f8bc",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "System calls multiple numbers at once and connects the agent to the first number that answers"
+                },
+                {
+                  "name" : "Preview Dialer",
+                  "value" : true,
+                  "id" : "640ccd46-ddeb-460e-94e8-6cdb1fb8c0af",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "System provides callee information to agent prior to the call to help determine whether or not to make the call"
+                },
+                {
+                  "name" : "Progressive Dialer",
+                  "value" : true,
+                  "id" : "98639a98-346f-4f3f-a0c5-c8ef4c9950e4",
+                  "avg_rating" : 0.0,
+                  "cnt_rating" : 0,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "System makes individual calls from a list as soon as the agent is available"
+                },
+                {
+                  "name" : "Reporting/Analytics",
+                  "value" : true,
+                  "id" : "b0c186d0-0194-4300-abba-ca3bc2474bbe",
+                  "avg_rating" : 4.5,
+                  "cnt_rating" : 6,
+                  "avg_importance" : 2.2,
+                  "cnt_importance" : 5,
+                  "cnt_time_used" : 6,
+                  "pct_time_used" : 0.833,
+                  "cnt_time_critical" : 6,
+                  "pct_time_critical" : 0.167,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "View and track pertinent metrics"
+                }
+              ]
+            },
+            {
+              "category_name" : "CRM",
+              "category_features" : [
+                {
+                  "name" : "Activity Dashboard",
+                  "value" : true,
+                  "id" : "856ab03e-a530-4ea9-bac6-968761c9b6c6",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Calendar/Reminder System",
+                  "value" : true,
+                  "id" : "e3b8135b-5016-4386-8e3a-888196258b4c",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Notifications/alerts for upcoming events or tasks"
+                },
+                {
+                  "name" : "Contact Management",
+                  "value" : true,
+                  "id" : "0019f365-3e1b-4e2f-8f1e-cb77ba025078",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Store and find contact information such as names, addresses, and social media accounts"
+                },
+                {
+                  "name" : "Document Storage",
+                  "value" : true,
+                  "id" : "42593e12-7e64-4a46-ae75-b9c904400a7b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Store documents in a centralized location for easy access "
+                },
+                {
+                  "name" : "Email Marketing",
+                  "value" : false,
+                  "id" : "3e3bef6d-cbd8-43e1-83e6-eaf601c17a48",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Create and send email blasts/campaigns"
+                },
+                {
+                  "name" : "Interaction Tracking",
+                  "value" : true,
+                  "id" : "6b92e658-1ab6-4f43-93d2-a2f5bb3f1f65",
+                  "avg_rating" : 3.3,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 1.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Internal Chat Integration",
+                  "value" : false,
+                  "id" : "0d98c6bb-1b94-40b4-a308-9fe1a2a48ee4",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Integrate with real time communication tools like Slack, etc."
+                },
+                {
+                  "name" : "Lead Generation",
+                  "value" : true,
+                  "id" : "da339159-39e6-4fc7-a7ef-f26da470fa9c",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Manage the process of attracting and converting people into leads "
+                },
+                {
+                  "name" : "Lead Management",
+                  "value" : true,
+                  "id" : "995266c2-fafb-456e-b73c-3d394a240ae3",
+                  "avg_rating" : 4.8,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Store information about leads and contacts and track them through the sales process"
+                },
+                {
+                  "name" : "Marketing Automation",
+                  "value" : true,
+                  "id" : "11cfdb79-2f7c-4116-97f7-4d6b38740131",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Integrate with marketing automation tools"
+                },
+                {
+                  "name" : "Mobile Access",
+                  "value" : false,
+                  "id" : "15d49235-ad13-4d33-b009-edd50126375b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Access the software remotely via mobile devices"
+                },
+                {
+                  "name" : "Quotes/Estimates",
+                  "value" : true,
+                  "id" : "96125292-fba0-4c4b-b429-6afba9eccf8c",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Create and send a quote or proposal to a customer"
+                },
+                {
+                  "name" : "Segmentation",
+                  "value" : true,
+                  "id" : "2ce186ce-3534-475e-8ac3-8e7d0519bc69",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Group leads or contacts based on their specific characteristics"
+                },
+                {
+                  "name" : "Social Media Integration",
+                  "value" : true,
+                  "id" : "2a14fe93-3eb6-48a4-906a-dabca8d98cc2",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Integrate with Facebook, Twitter, LinkedIn, etc."
+                },
+                {
+                  "name" : "Task Management",
+                  "value" : true,
+                  "id" : "82ce67d3-ac09-49d0-ae71-5e6401e3e26b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "A running list of action items and their respective status"
+                },
+                {
+                  "name" : "Territory Management",
+                  "value" : false,
+                  "id" : "afada030-b0b7-4360-b78e-37a8156a546b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Organize customer data and accounts by user or geography"
+                }
+              ]
+            },
+            {
+              "category_name" : "Contact Center",
+              "category_features" : [
+                {
+                  "name" : "Agent Interface",
+                  "value" : true,
+                  "id" : "f5615928-022d-4bd5-8de7-c93e82ee64af",
+                  "avg_rating" : 4.3,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 2.33,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.333,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Agents can view and manage all customer requests and interactions."
+                },
+                {
+                  "name" : "Auto-Dialer",
+                  "value" : true,
+                  "id" : "62af88cd-55b7-48db-b9f1-92965325101b",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "System that automatically dials calls"
+                },
+                {
+                  "name" : "Automated Routing",
+                  "value" : true,
+                  "id" : "85eb4cfb-3ae5-48e2-8df6-d366eb814295",
+                  "avg_rating" : 4.7,
+                  "cnt_rating" : 6,
+                  "avg_importance" : 2.33,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 4,
+                  "pct_time_used" : 0.75,
+                  "cnt_time_critical" : 4,
+                  "pct_time_critical" : 0.25,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : "Tickets are automatically assigned to specific agents based on predefined rules"
+                },
+                {
+                  "name" : "Chatbot",
+                  "value" : true,
+                  "id" : "751fa757-317a-454c-9ae6-7d7cbe0c7361",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "AI-based platform which conducts a conversation via auditory or textual methods"
+                },
+                {
+                  "name" : "Collaboration Tools",
+                  "value" : true,
+                  "id" : "97efb0d3-9a23-4408-90d4-4db1e3830fbd",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Provides a channel for team members to share media files, communicate, and work together"
+                },
+                {
+                  "name" : "Computer Telephony Integration",
+                  "value" : true,
+                  "id" : "6bd2484b-c0b4-4e9d-bee9-f5f5ebcf64ea",
+                  "avg_rating" : 4.9,
+                  "cnt_rating" : 8,
+                  "avg_importance" : 2.25,
+                  "cnt_importance" : 4,
+                  "cnt_time_used" : 5,
+                  "pct_time_used" : 0.8,
+                  "cnt_time_critical" : 5,
+                  "pct_time_critical" : 0.2,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Computer-telephony integration is the use of computers to manage telephone calls"
+                },
+                {
+                  "name" : "IVR / Voice Recognition",
+                  "value" : true,
+                  "id" : "a29db9db-9a52-4c9a-8635-ad623b508295",
+                  "avg_rating" : 4.7,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Read and accept a combination of touch tone keypad selections and voice inputs and provide the appropriate prerecorded voice response"
+                },
+                {
+                  "name" : "Quality Management",
+                  "value" : true,
+                  "id" : "de6610d2-7599-47d5-865e-ee0a7d45e210",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Queue Management",
+                  "value" : true,
+                  "id" : "7d43eb22-86be-4b4c-a60d-f8fc5d1c7607",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 2.33,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.333,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Monitor wait time and abandonment for incoming requests that have not been routed"
+                },
+                {
+                  "name" : "Reporting/Analytics",
+                  "value" : true,
+                  "id" : "b0c186d0-0194-4300-abba-ca3bc2474bbe",
+                  "avg_rating" : 4.5,
+                  "cnt_rating" : 6,
+                  "avg_importance" : 2.2,
+                  "cnt_importance" : 5,
+                  "cnt_time_used" : 6,
+                  "pct_time_used" : 0.833,
+                  "cnt_time_critical" : 6,
+                  "pct_time_critical" : 0.167,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "View and track pertinent metrics"
+                },
+                {
+                  "name" : "Workforce Management",
+                  "value" : true,
+                  "id" : "8e03ebe3-accd-429c-aae0-afda0493eacf",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "A set of processes to optimize the productivity of its employees"
+                }
+              ]
+            },
+            {
+              "category_name" : "IVR",
+              "category_features" : [
+                {
+                  "name" : "Automatic Call Distribution",
+                  "value" : true,
+                  "id" : "1b95ff50-3de0-4187-9508-7b91b7b1de32",
+                  "avg_rating" : 4.8,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Call Center Management",
+                  "value" : true,
+                  "id" : "2aaef140-e839-40ae-adaa-7984914ee418",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Call Logging",
+                  "value" : true,
+                  "id" : "1d1bda13-276d-4128-af5f-c429b1376e05",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Call Monitoring",
+                  "value" : true,
+                  "id" : "dd35bf91-e674-4d2f-af33-e7bb1a6be581",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Call Recording",
+                  "value" : true,
+                  "id" : "a8a46f44-46c5-4816-8a98-45bd6572314a",
+                  "avg_rating" : 4.8,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 2.67,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.667,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Call Routing",
+                  "value" : true,
+                  "id" : "ea563cd1-5d92-4795-a3e1-b5ce03158fed",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Callback Scheduling",
+                  "value" : true,
+                  "id" : "9f5d672c-1975-4a0e-a234-ba0bbca32a58",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Campaign Management",
+                  "value" : true,
+                  "id" : "08a976af-4728-4543-8941-8f3c1da99734",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.33,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.333,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Computer Telephony Integration",
+                  "value" : true,
+                  "id" : "6bd2484b-c0b4-4e9d-bee9-f5f5ebcf64ea",
+                  "avg_rating" : 4.9,
+                  "cnt_rating" : 8,
+                  "avg_importance" : 2.25,
+                  "cnt_importance" : 4,
+                  "cnt_time_used" : 5,
+                  "pct_time_used" : 0.8,
+                  "cnt_time_critical" : 5,
+                  "pct_time_critical" : 0.2,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "IVR / Voice Recognition",
+                  "value" : true,
+                  "id" : "a29db9db-9a52-4c9a-8635-ad623b508295",
+                  "avg_rating" : 4.7,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Multiple Scripts",
+                  "value" : true,
+                  "id" : "24cb5c06-0491-471b-857f-6938443d4d0f",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Phone Key Input",
+                  "value" : true,
+                  "id" : "dc3e1b5f-cdf0-4677-b42b-e5212ae05558",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Pre-recorded Messages",
+                  "value" : true,
+                  "id" : "acf022ae-9cf1-4a97-9c57-9587c4351add",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Survey/Poll Management",
+                  "value" : true,
+                  "id" : "140bc433-ccfa-4403-861c-e4371d16e682",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Text to Speech",
+                  "value" : true,
+                  "id" : "7a364d3a-ef37-4f20-a5f5-fc58a686c2ac",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Voice Customization",
+                  "value" : true,
+                  "id" : "212af3ce-9062-4cb5-ad30-ad73816770e7",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Voice Mail",
+                  "value" : true,
+                  "id" : "1490b2df-eade-4969-bb72-438981a33596",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                }
+              ]
+            },
+            {
+              "category_name" : "Predictive Dialer",
+              "category_features" : [
+                {
+                  "name" : "Call Monitoring",
+                  "value" : true,
+                  "id" : "dd35bf91-e674-4d2f-af33-e7bb1a6be581",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Listen in on live phone conversations to train and assess agent performance"
+                },
+                {
+                  "name" : "Call Recording",
+                  "value" : true,
+                  "id" : "a8a46f44-46c5-4816-8a98-45bd6572314a",
+                  "avg_rating" : 4.8,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 2.67,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.667,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Record the audio of phone conversations for quality assurance purposes"
+                },
+                {
+                  "name" : "Call Scheduling",
+                  "value" : true,
+                  "id" : "3a516b5d-d81c-4d8e-a94d-1c0924fe82e3",
+                  "avg_rating" : 4.3,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Schedule date and time for callbacks/follow-up calls or reminders"
+                },
+                {
+                  "name" : "Call Transfer",
+                  "value" : true,
+                  "id" : "112ec224-9ce3-4eba-9aa9-c195a47330a9",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Transfers live calls to other agents"
+                },
+                {
+                  "name" : "Campaign Management",
+                  "value" : true,
+                  "id" : "08a976af-4728-4543-8941-8f3c1da99734",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.33,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.333,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : "Create a collection of marketing actions to complete specific goals"
+                },
+                {
+                  "name" : "Campaign Specific Caller ID",
+                  "value" : true,
+                  "id" : "ec24eac5-304f-4b1f-9639-3594a9b2569d",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Control the name and number that appears on outbound caller ID"
+                },
+                {
+                  "name" : "FCC Compliance",
+                  "value" : true,
+                  "id" : "f9addf5c-a3ff-4874-b368-f7e935a3da51",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Federal Communications Commission (FCC) compliance"
+                },
+                {
+                  "name" : "FTC Compliance",
+                  "value" : true,
+                  "id" : "bf98cd11-12df-46f1-8122-afd3448f7724",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Federal Trade Commission (FCC) compliance"
+                },
+                {
+                  "name" : "Lead Management",
+                  "value" : true,
+                  "id" : "995266c2-fafb-456e-b73c-3d394a240ae3",
+                  "avg_rating" : 4.8,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Store information about leads and contacts and track them through the sales process"
+                },
+                {
+                  "name" : "List Management",
+                  "value" : true,
+                  "id" : "c2a88ab8-c3cc-4535-9293-00fbd40d220e",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Manage contacts across multiple mailing lists"
+                }
+              ]
+            },
+            {
+              "category_name" : "Speech Recognition",
+              "category_features" : [
+                {
+                  "name" : "Audio Capture",
+                  "value" : true,
+                  "id" : "4ee3f87d-3174-4b05-b173-2c2643905cf9",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Record audio or import/upload audio files"
+                },
+                {
+                  "name" : "Automatic Transcription",
+                  "value" : true,
+                  "id" : "d85d89da-5600-4850-a614-acb410483a89",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : "Voice conversion to text "
+                },
+                {
+                  "name" : "Concatenated Speech",
+                  "value" : true,
+                  "id" : "1f4d1630-fed5-43e2-bbde-856812ee0545",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Recorded words are combined to create answers for a computer/person to direct as a form of dialogue"
+                },
+                {
+                  "name" : "Customizable Macros",
+                  "value" : true,
+                  "id" : "d4427274-6cee-44a6-bfae-0753d8611e41",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Database of phrases that are frequently used or insinuated"
+                },
+                {
+                  "name" : "Multi-Language",
+                  "value" : true,
+                  "id" : "94554c14-399b-4b6f-ba8e-776eeb780e3b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Recognize and support multiple languages/dialects"
+                },
+                {
+                  "name" : "Speech-to-Text Analysis",
+                  "value" : true,
+                  "id" : "f6ff3a9c-bff1-4f74-8d7c-0693dca1edcc",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Analyze, correct, and monitor speech for transcriptions or recordings"
+                },
+                {
+                  "name" : "Voice Recognition",
+                  "value" : true,
+                  "id" : "bfba43fc-dd12-4ae2-bb44-2d453833aeca",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Recognize/detect varying frequencies in a person?s voice to identify/verify \"who\" is speaking"
+                }
+              ]
+            },
+            {
+              "category_name" : "Telephony",
+              "category_features" : [
+                {
+                  "name" : "Auto-Dialer",
+                  "value" : true,
+                  "id" : "62af88cd-55b7-48db-b9f1-92965325101b",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Call Center Management",
+                  "value" : true,
+                  "id" : "2aaef140-e839-40ae-adaa-7984914ee418",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Manage all call center activities including call monitoring, call recording, call answering, call transfer, etc."
+                },
+                {
+                  "name" : "Call Monitoring",
+                  "value" : true,
+                  "id" : "dd35bf91-e674-4d2f-af33-e7bb1a6be581",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Contact Management",
+                  "value" : true,
+                  "id" : "0019f365-3e1b-4e2f-8f1e-cb77ba025078",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Store and find contact information such as names, addresses, and social media accounts"
+                },
+                {
+                  "name" : "IVR / Voice Recognition",
+                  "value" : true,
+                  "id" : "a29db9db-9a52-4c9a-8635-ad623b508295",
+                  "avg_rating" : 4.7,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Predictive Dialer",
+                  "value" : true,
+                  "id" : "3ed72611-07fa-4f98-a643-25af9c28f8bc",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Reporting/Analytics",
+                  "value" : true,
+                  "id" : "b0c186d0-0194-4300-abba-ca3bc2474bbe",
+                  "avg_rating" : 4.5,
+                  "cnt_rating" : 6,
+                  "avg_importance" : 2.2,
+                  "cnt_importance" : 5,
+                  "cnt_time_used" : 6,
+                  "pct_time_used" : 0.833,
+                  "cnt_time_critical" : 6,
+                  "pct_time_critical" : 0.167,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "View and track pertinent metrics"
+                },
+                {
+                  "name" : "Telemarketing Management",
+                  "value" : true,
+                  "id" : "cb7b04c2-bec9-43bc-af22-9b14831e9dc0",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "VoIP",
+                  "value" : true,
+                  "id" : "de757678-6d5c-40c8-81b8-9b651d44f83d",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                }
+              ]
+            }
+          ],
+          "infographics" : [ ],
+          "related_products" : [
+            {
+              "product_id" : 237272,
+              "seo_product_id" : 733,
+              "seo_slug" : "WebEx-Meeting-Center",
+              "vendor_name" : "Cisco",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e60c0fa1-f0d4-40ac-a412-0b2261b1f9a0.png",
+              "rating" : 4.4,
+              "total_reviews" : 6438,
+              "slug" : "Webex",
+              "product_name" : "Webex",
+              "short_desc" : "Webex brings together Calling, Meeting and Messaging modes of collaboration into a seamless, inclusive and intelligent experience.",
+              "features" : "Webex brings together Calling, Meeting and Messaging modes of collaboration into a seamless, inclusive and intelligent experience.\n\nMake meetings more interactive and engaging\n-\tReduce disruptions with background noise removal and voice enhancement\n-\tEnable audiences to share their reactions with animated emojis and gesture recognition\n-\tImprove audience engagement with next-gen dynamic polling and Q&A by Slido\n-\tCustomize the stage layout to focus on the content and people that matters most",
+              "url" : "https://ad.doubleclick.net/ddm/trackclk/N7442.813334CAPTERRA.COM/B26514157.315259622;dc_trk_aid=507616925;dc_trk_cid=158630622;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd="
+            },
+            {
+              "product_id" : 164283,
+              "seo_product_id" : 226798,
+              "seo_slug" : "Zendesk",
+              "vendor_name" : "Zendesk",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/20f0b4b6-a84c-436b-854e-81f894defdbf.png",
+              "rating" : 4.4,
+              "total_reviews" : 3001,
+              "slug" : "Zendesk",
+              "product_name" : "Zendesk",
+              "short_desc" : "Zendesk offers a fully integrated call center built right into its support platform. ",
+              "features" : "Zendesk offers a fully integrated call center built right into its support platform. Agents can handle calls in the same workspace as all other channels. This cloud based support platform gives them full context on customer history to help resolve the most complex and urgent issues faster. Teams that use Zendesk see a 20% reduction in support costs and a 27% increase in agent productivity. If you already have a call center, you can seamlessly integrate it with an API connection to our help desk.",
+              "url" : "http://www.zendesk.com/lp/voice?utm_medium=paidlisting&utm_campaign=PL_CAP_AM_US_EN_N_Sup_Pro_CallCenter_T1_A_H&utm_term=callcenter&utm_source=capterra"
+            },
+            {
+              "product_id" : 102188,
+              "seo_product_id" : 226262,
+              "seo_slug" : "LiveAgent",
+              "vendor_name" : "QualityUnit",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/72e94d6f-e43a-417d-9e8a-8d774fe6e086.png",
+              "rating" : 4.7,
+              "total_reviews" : 1139,
+              "slug" : "LiveAgent",
+              "product_name" : "LiveAgent",
+              "short_desc" : "LiveAgent helps businesses thrive in customer service. Create a customer community, increase customer satisfaction and succeed!",
+              "features" : "LiveAgent can help you answer inbound customer calls and integrate call center functionality into an all-in-one multi-channel help desk solution. Centralize phone calls from your website or landline into a single place. Choose your VoIP provider, connect unlimited SIP trunks and local numbers, route and record calls. With LiveAgent, providing world-class customer service is easy. Start your free trial, no credit card required.",
+              "url" : "https://www.liveagent.com/call-center-software/?utm_source=capterra&utm_medium=cpc&utm_campaign=call-center#capterra"
+            },
+            {
+              "product_id" : 132852,
+              "seo_product_id" : 224358,
+              "seo_slug" : "Talkdesk",
+              "vendor_name" : "Talkdesk",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/af9001c5-04d1-4792-a867-0f398f0658c7.png",
+              "rating" : 4.5,
+              "total_reviews" : 683,
+              "slug" : "Talkdesk",
+              "product_name" : "Talkdesk",
+              "short_desc" : "Talkdesk is intuitive, cloud-based contact center software with advanced features, comprehensive reporting and seamless integrations.",
+              "features" : "Talkdesk is next-generation cloud-based call center software that helps you connect with your customers. The easy-to-use interface offers robust functionality with advanced features, comprehensive reporting and seamless integrations with 25+ business tools to empower sales and service teams to have personalized, effective conversations with customers.",
+              "url" : "https://www.talkdesk.com/get-started//?utm_source=capterra&utm_medium=Paid-Advertising&utm_campaign=Call-Center&utm_content=Get-Started&utm_term="
+            },
+            {
+              "product_id" : 163604,
+              "seo_product_id" : 222025,
+              "seo_slug" : "GoToConnect",
+              "vendor_name" : "GoTo",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/420d013e-1667-4846-a909-0e533179fe7d.jpeg",
+              "rating" : 4.5,
+              "total_reviews" : 615,
+              "slug" : "Jive-Hosted-VoIP",
+              "product_name" : "GoTo Connect",
+              "short_desc" : "GoToConnect Support Center gives supervisors and agents indispensable tools to improve the quality of customer interactions.",
+              "features" : "GoToConnect combines the power and reliability of Jive's cloud VoIP phone systems with GoToMeeting's web, audio and video conferencing into one simple, reliable and flexible solution. GoToConnect Support Center enhances GoToConnect by giving supervisors and agents indispensable tools to improve the quality of customer interactions.",
+              "url" : "https://www.goto.com/ucaas/connect/ccaas-voip-solution?utm_source=capterra&utm_medium=review-sites&utm_campaign=callcenter&campaignID=7014P0000016qyVQAQ"
+            },
+            {
+              "product_id" : 136189,
+              "seo_product_id" : 213787,
+              "seo_slug" : "Salesforce-Service-Cloud",
+              "vendor_name" : "Salesforce",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/b35a4371-bfba-4d15-99c4-156fcd413b7b.png",
+              "rating" : 4.4,
+              "total_reviews" : 568,
+              "slug" : "Salesforce",
+              "product_name" : "Salesforce Service Cloud",
+              "short_desc" : "Service Cloud 360, the world's #1 customer service platform, empowers companies to drive seamless engagement across the entire customer",
+              "features" : "Transform your call center with proactive and personalized service. Service teams can exceed customer expectations with accurate purchase history and a full view of prior customer conversations. Give your customers a consistent and efficient service experience on every call with Service Cloud Voice. Agents now have instant access to a complete view of the customer and better tools and insights. That way, they can close cases faster.",
+              "url" : "https://www.salesforce.com/form/sem/call-center/?d=7010M000001yQMCQA2&nc=7010M000002JrwiQAC&utm_medium=review_sites&utm_campaign=us_svclobd&utm_content=call-center_7010M000001yQMCQA2"
+            },
+            {
+              "product_id" : 113540,
+              "seo_product_id" : 226875,
+              "seo_slug" : "Bitrix24",
+              "vendor_name" : "Bitrix",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/0d820dd6-6e0b-43de-becb-e9078a2d9fac.png",
+              "rating" : 4.1,
+              "total_reviews" : 527,
+              "slug" : "Bitrix24",
+              "product_name" : "Bitrix24",
+              "short_desc" : "Bitrix24 is#1 free CRM and call center software used by over 8 million companies. 100% free for up to 12 agents. Cloud and open source.",
+              "features" : "Bitrix24 is free call center software unlike any other. If you choose a cloud version, you can start calling and receiving phone calls within minutes. You pay only if you need to have more than 12 employees, want to rent a phone number, SIP connector or use Bitrix24 telephony for outbound calls. You can also purchase self hosted editions of Bitrix24 if require source code access or would like to deploy Bitrix24 on premise.",
+              "url" : "https://www.bitrix24.com/uses/free-call-center-software.php?utm_source=capterra&utm_medium=cpc&utm_campaign=com_cc_capterra-callcenter"
+            },
+            {
+              "product_id" : 134775,
+              "seo_product_id" : 217044,
+              "seo_slug" : "NICE-inContact",
+              "vendor_name" : "NICE inContact",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/a552bbb1-7f67-4aad-99c5-e4ca0066110b.png",
+              "rating" : 4.2,
+              "total_reviews" : 518,
+              "slug" : "inContact-Call-Center-Software",
+              "product_name" : "NICE CXone",
+              "short_desc" : "Cloud contact center software that offers VR, skills-based routing, AI, call blending, and analytics.",
+              "features" : "NICE CXone is the world's #1 cloud customer experience platform. Delivering omnichannel routing, analytics, workforce optimization, automation, and AI, CXone empowers organizations of all sizes to provide exceptional customer experiences.",
+              "url" : "https://software-info.gartnerdigitalmarkets.com/nice-incontact-cxone-gdm/"
+            },
+            {
+              "product_id" : 190976,
+              "seo_product_id" : 220536,
+              "seo_slug" : "Dialpad",
+              "vendor_name" : "Dialpad",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/db8210f5-fd7d-4a5b-8631-b1fbb3ddf3c6.png",
+              "rating" : 4.4,
+              "total_reviews" : 461,
+              "slug" : "Dialpad-Sell",
+              "product_name" : "Dialpad",
+              "short_desc" : "Easy to set up, easy to use. Dialpad Call Center Software is feature-packed, affordable, secure, reliable, and backed by 24x7 support.",
+              "features" : "Easy to set up, easy to use. Affordable, feature-packed, cloud-based. Dialpad's call center software improves customer experience and agent effectiveness, resulting in better conversations. Monitor and coach agents from anywhere with robust analytics dashboards. Automate tasks and capture insights to save time. Improve CSAT, FCR, close tickets, and keep your customers happy. Use real time recommendations to boost agent confidence and give them answers they need to help customers in the moment. ",
+              "url" : "https://www.dialpad.com/dp/cloud-contact-center/?source=reviewsite&utm_medium=cpc&utm_source=capterra&utm_campaign=capterracc"
+            },
+            {
+              "product_id" : 135148,
+              "seo_product_id" : 221957,
+              "seo_slug" : "Agile-CRM",
+              "vendor_name" : "Agile CRM",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4dd8e898-253a-4e64-8f55-73d688838bdb.png",
+              "rating" : 4.1,
+              "total_reviews" : 433,
+              "slug" : "Agile-CRM",
+              "product_name" : "Agile CRM",
+              "short_desc" : "Agile CRM is a complete sales, marketing and service suite designed to let SMBs to sell and market like the Fortune 500.",
+              "features" : "Agile CRM Call Center Software - Call center CRM software helps your customer support team with powerful tools to close tickets faster, ensure customers are successful using your product. Features with advanced telephony integrations, Outbound calls, Inbound calls, Call routing, Help desk ticketing, Tag-based calling, Help desk groups, Call recording, Call notes, Call scripts, Call reports and many more.",
+              "url" : "https://www.agilecrm.com/call-center-crm"
+            },
+            {
+              "product_id" : 132405,
+              "seo_product_id" : 14791,
+              "seo_slug" : "Five9-Call-Center-Software",
+              "vendor_name" : "Five9",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e7263098-fef6-4d38-b852-1f6d965e536a.png",
+              "rating" : 4.2,
+              "total_reviews" : 410,
+              "slug" : "Five9",
+              "product_name" : "Five9",
+              "short_desc" : "Cloud Contact Center with Practical AI- Inbound, Outbound, ACD, IVR, Predictive Dialer, Chat, Call Recording, and CRM Integrations.",
+              "features" : "Five9 is the all-in-one call center software that uses Practical AI to increase your team's effectiveness on the phone, web, email, chat and more. Use smart dialers to give your agents more time with live prospects. Get your customers to the right agent with intelligent routing. Use customer intent data to suggest the next best action to your agents. Analyze and report on performance in real-time. All with 24/7 customer support. See why 2000+ customer trust Five9.",
+              "url" : "https://www.five9.com/landing/call-center-software-v2?source=PPL&program=CPC_Web_Referrals&adgroup=Call_Center&utm_medium=cpc&utm_source=ppl&utm_campaign=capterra"
+            }
+          ],
+          "similar_products" : [
+            {
+              "product_id" : 144486,
+              "seo_product_id" : 226458,
+              "seo_slug" : "Aircall",
+              "vendor_name" : "Aircall",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/cc9c553a-b0c5-4095-b932-9ce0c85e3255.png",
+              "rating" : 4.3,
+              "total_reviews" : 301,
+              "slug" : "Aircall",
+              "product_name" : "Aircall",
+              "short_desc" : "Call center software for customer-centric teams. Easily integrate with 80+ CRMs and other business tools to grow your business!",
+              "features" : "Aircall is the #1 Call Center Software and surfaces valuable context from your helpdesk, CRM, live chat, and e-commerce software to anticipate customer needs on every call, helping you reduce wait times and boost rep efficiency. Sales Teams love the Click-to-Dial Features & Automatic Call Logging. Join 9,000+ companies that trust Aircall to strengthen their customer relationships with industry-leading call center features like: SMS, advanced call routing, IVR, analytics + more.",
+              "url" : "https://aircall.io/c/phone-system/?utm_medium=cpc&utm_campaign=na-general"
+            },
+            {
+              "product_id" : 164283,
+              "seo_product_id" : 226798,
+              "seo_slug" : "Zendesk",
+              "vendor_name" : "Zendesk",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/20f0b4b6-a84c-436b-854e-81f894defdbf.png",
+              "rating" : 4.4,
+              "total_reviews" : 3001,
+              "slug" : "Zendesk",
+              "product_name" : "Zendesk",
+              "short_desc" : "Zendesk offers a fully integrated call center built right into its support platform. ",
+              "features" : "Zendesk offers a fully integrated call center built right into its support platform. Agents can handle calls in the same workspace as all other channels. This cloud based support platform gives them full context on customer history to help resolve the most complex and urgent issues faster. Teams that use Zendesk see a 20% reduction in support costs and a 27% increase in agent productivity. If you already have a call center, you can seamlessly integrate it with an API connection to our help desk.",
+              "url" : "http://www.zendesk.com/?utm_medium=paidlisting&utm_campaign=PL_CAP_AM_US_EN_N_Sup_Pro_HelpDesk_T1_A_H&utm_term=helpdesk"
+            },
+            {
+              "product_id" : 249025,
+              "seo_product_id" : 249025,
+              "seo_slug" : "HGS-Agent-X",
+              "vendor_name" : "Hinduja Global Solutions",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4e467520-34cd-42ee-9604-7bb3f3c8f300.jpeg",
+              "rating" : 0.0,
+              "total_reviews" : 0,
+              "slug" : "HGS-Agent-X",
+              "product_name" : "HGS Agent X",
+              "short_desc" : "HGS Agent X is an AI-Powered Cloud-Based Call Center Solution that helps businesses to innovate within the call center.",
+              "features" : "HGS Agent X is a fully customizable, unified AI-powered cloud-based call center software that facilitates quick resolutions, boosts quality management processes, and helps offer a top-notch customer experience. With HGS Agent X, you pay for only the features your business needs. Streamline your agent workflow while enhancing agent and customer interactions by providing a simplified customer 360? view. ",
+              "url" : "https://hgs.cx/agent-x-contact-center-solution-c/?utm_source=capterra_getapp&utm_medium=review_site&utm_campaign=agent_x_lead_gen"
+            },
+            {
+              "product_id" : 134672,
+              "seo_product_id" : 223601,
+              "seo_slug" : "PhoneBurner",
+              "vendor_name" : "PhoneBurner",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/9d1e4b59-9ce2-4309-b933-12d6217bdaf7.png",
+              "rating" : 4.8,
+              "total_reviews" : 159,
+              "slug" : "PhoneBurner",
+              "product_name" : "PhoneBurner",
+              "short_desc" : "Powerful OUTBOUND CALL CENTER platform. Reach 4x more leads w/ NO awkward pause. No set up fees. Free trial (no credit card needed).",
+              "features" : "PhoneBurner is for OUTBOUND CALL CENTERS. Have more LIVE conversations in 15-minutes guaranteed! We're so confident you'll boost outbound sales with our power dialer, you can use our full product for FREE without a credit card. Here's why we're confident: 1) Dial leads 4x faster 2) No awkward pauses after contact answers 3) Drop voicemails/emails in 1-click 4) Automate post call workflows 5) No special equipment needed. Powerful yet easy to use!",
+              "url" : "https://www.phoneburner.com/homepage/start-free-trial?utm_medium=ppc&utm_campaign=capterra_default"
+            },
+            {
+              "product_id" : 136189,
+              "seo_product_id" : 213787,
+              "seo_slug" : "Salesforce-Service-Cloud",
+              "vendor_name" : "Salesforce",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/b35a4371-bfba-4d15-99c4-156fcd413b7b.png",
+              "rating" : 4.4,
+              "total_reviews" : 568,
+              "slug" : "Salesforce",
+              "product_name" : "Salesforce Service Cloud",
+              "short_desc" : "Service Cloud 360, the world's #1 customer service platform, empowers companies to drive seamless engagement across the entire customer",
+              "features" : "Transform your call center with proactive and personalized service. Service teams can exceed customer expectations with accurate purchase history and a full view of prior customer conversations. Give your customers a consistent and efficient service experience on every call with Service Cloud Voice. Agents now have instant access to a complete view of the customer and better tools and insights. That way, they can close cases faster.",
+              "url" : "https://www.salesforce.com/form/sem/customer-support/?d=7010M000002NZD7Q..."
+            },
+            {
+              "product_id" : 167594,
+              "seo_product_id" : 224244,
+              "seo_slug" : "Alvaria",
+              "vendor_name" : "Alvaria",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/2a645590-7e89-4295-9d9b-ac3ce1aad308.png",
+              "rating" : 4.4,
+              "total_reviews" : 16,
+              "slug" : "Alvaria",
+              "product_name" : "Alvaria Cloud",
+              "short_desc" : "Alvaria Cloud is a cloud contact center platform built for high-availability and backed by SLAs to support enterprise-scale deployments",
+              "features" : "Alvaria Cloud is the only enterprise cloud contact center solution that allows you to adopt best-of-breed Customer Experience (CX) and Workforce Engagement Management (WEM) applications modularly. Start with one or more applications and then add applications with ease when ready for additional capabilities, as your needs change. With the Alvaria Cloud Platform, you have the advantage of knowing that all provisioning, security, user management and other administrative tasks are already configured",
+              "url" : "https://info.gartnerdigitalmarkets.com/alvaria-gdm-lp"
+            },
+            {
+              "product_id" : 158704,
+              "seo_product_id" : 212231,
+              "seo_slug" : "3CX",
+              "vendor_name" : "3CX",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8663d1da-3218-4167-880b-5e33336ea327.png",
+              "rating" : 4.5,
+              "total_reviews" : 262,
+              "slug" : "3CX",
+              "product_name" : "3CX",
+              "short_desc" : "3CX is an all in one call center solution for calls & chats. Includes advanced call queues, reporting, recording, and CRM integration",
+              "features" : "3CX is an all-in-one call center solution to communicate with customers via voice, video & chat. Offers advanced queue strategies set to individuals or groups. Integrates with various CRMs & MS 365. Includes call recordings & reports. A single interface to answer customer live chat, facebook messages & SMS. Call work flows to eliminate time intensive tasks for agents. Accessible remotely with free mobile apps for iOS & Android. Can be deployed on premise or in the cloud. Get it for free!",
+              "url" : "https://www.3cx.com/phone-system/capterra/?src=capterra"
+            },
+            {
+              "product_id" : 180158,
+              "seo_product_id" : 223767,
+              "seo_slug" : "Twilio-Voice",
+              "vendor_name" : "Twilio",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/5f8535c3-3270-467d-a3bf-db8b9a2d0fc3.png",
+              "rating" : 4.6,
+              "total_reviews" : 306,
+              "slug" : "Twilio-Communications-Platform",
+              "product_name" : "Twilio",
+              "short_desc" : "Twilio Flex is a fully programmable cloud contact center platform that gives businesses complete control at every layer of the stack.",
+              "features" : "Twilio Flex gives companies complete control over how, when and what they deploy. Built on the trusted Twilio customer engagement platform that powers over a half million agents today, Twilio Flex helps businesses rapidly deploy tailored cloud contact centers free from the limitations of SaaS applications.\r\n\r\nEasily augment your existing contact center with remote agents, new channels, or an intelligent IVR and chatbot, or move your entire contact center to the cloud.",
+              "url" : "https://twilio.com/go/twilio-brand-sales-1?utm_source=capterra&utm_medium=cpc&utm_content=basic&utm_term=listing"
+            },
+            {
+              "product_id" : 254917,
+              "seo_product_id" : 254917,
+              "seo_slug" : "Dextr",
+              "vendor_name" : "Cloudhesive",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/edff0b86-b8ec-4220-8932-0b9b207f271c.png",
+              "rating" : 0.0,
+              "total_reviews" : 0,
+              "slug" : "Dextr",
+              "product_name" : "Dextr",
+              "short_desc" : "Dextr is a contact center as a service (CCaaS) solution powered by Amazon Connect, that enhances call center while reducing costs.",
+              "features" : "Dextr is a contact center as a service (CCaaS) solution powered by Amazon Connect that combines a full-featured agent call control and supervisor interface with a rich library of cloud services at an extremely affordable pay-per-use price.  Unlike expensive and time-consuming custom development, Dextr deploys immediately, enhances the expanding capabilities of Amazon Connect, and costs a fraction of traditional solutions",
+              "url" : "https://go.cloudhesive.com/WC-Dextr_LP.html"
+            },
+            {
+              "product_id" : 76768,
+              "seo_product_id" : 218428,
+              "seo_slug" : "Convoso-Predictive-Dialer",
+              "vendor_name" : "Convoso",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/0bd91da7-657f-4426-9616-b375101a72b2.png",
+              "rating" : 4.5,
+              "total_reviews" : 41,
+              "slug" : "Cloud-Predictive-Dialer",
+              "product_name" : "Convoso",
+              "short_desc" : "Dramatically increase contact and lead conversion rates with Convoso's omnichannel contact center software.",
+              "features" : "Convoso's cloud-based, omnichannel predictive dialing software is the most complete solution on the market for outbound call centers with 20+ seats. Our industry-leading Answering Machine Detection rate - 97% accurate - coupled with our new Caller ID reputation management initiative means your agents will connect with real people - and not flagged as 'Scam Likely'. Factor in our intuitively automated workflows and see your contact rates increase by 3-4X when you switch to Convoso.",
+              "url" : "https://try.convoso.com/the-best-dialer-for-outbound-call-centers/?utm_medium=CPC&utm_campaign=Convoso+Capterra+Giftcard&utm_term=best+dialer"
+            },
+            {
+              "product_id" : 152004,
+              "seo_product_id" : 227410,
+              "seo_slug" : "CallTrackingMetrics",
+              "vendor_name" : "CallTrackingMetrics",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/b19d6b9a-b6c6-4c66-a07d-307843158780.png",
+              "rating" : 4.5,
+              "total_reviews" : 67,
+              "slug" : "Call-tracking-software",
+              "product_name" : "CallTrackingMetrics",
+              "short_desc" : "Global conversation analytics provider with a full suite of contact center tools to align teams around an optimized customer experience",
+              "features" : "CallTrackingMetrics is a global conversation analytics provider giving marketers data to make confident strategy decisions. Over 100,000 users, including The Washington Post, Verizon Connect, and ServiceMaster, rely on CTM to make data-driven advertising decisions. CTM integrates with core tools like Google Ads and Analytics, Hubspot, Salesforce, Zoom, and Facebook. \n\nAlign teams around valuable data with lead management tools, reporting, and smart routing to optimize the customer experience. ",
+              "url" : "https://my.calltrackingmetrics.com/calltracking-lp?utm_medium=cpc&utm_campaign=capterra_calltracking"
+            },
+            {
+              "product_id" : 212700,
+              "seo_product_id" : 212700,
+              "seo_slug" : "Keona-Health-Desk",
+              "vendor_name" : "Keona Health",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/ddfdec1f-18f5-4b5d-8ae6-96a7e22e7a69.jpeg",
+              "rating" : 5.0,
+              "total_reviews" : 3,
+              "slug" : "Keona-Health-Desk",
+              "product_name" : "Health Desk",
+              "short_desc" : "Keona Health Desk is an EHR-integrated Healthcare CRM, Patient Access, and Appointment Scheduling platform for contact centers and DTC",
+              "features" : "\"Health Desk\" is an AI-powered healthcare CRM platform. It integrates with an PM/EHR in real-time to activate intelligent scheduling of patient appointments (both self-service and contact center versions). In addition, Health Desk can be used to manage other workflows including: nurse triage, telemedicine, referral services, prescription refills, post discharge follow-up and other marketing/clinical programs.  ",
+              "url" : "https://www.keonahealth.com/healthcare-contact-center-and-telehealth-triage-software-keona-health"
+            },
+            {
+              "product_id" : 163604,
+              "seo_product_id" : 222025,
+              "seo_slug" : "GoToConnect",
+              "vendor_name" : "GoTo",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/420d013e-1667-4846-a909-0e533179fe7d.jpeg",
+              "rating" : 4.5,
+              "total_reviews" : 615,
+              "slug" : "Jive-Hosted-VoIP",
+              "product_name" : "GoTo Connect",
+              "short_desc" : "GoToConnect Support Center gives supervisors and agents indispensable tools to improve the quality of customer interactions.",
+              "features" : "GoToConnect combines the power and reliability of Jive's cloud VoIP phone systems with GoToMeeting's web, audio and video conferencing into one simple, reliable and flexible solution. GoToConnect Support Center enhances GoToConnect by giving supervisors and agents indispensable tools to improve the quality of customer interactions.",
+              "url" : "https://www.goto.com/offer/connect/a?utm_source=capterra&utm_medium=review-sites&utm_campaign=default&campaignID=7011B000002ZKDFQA4"
+            }
+          ],
+          "related_categories" : [
+            {
+              "functional_group" : "ccarexcc",
+              "long_name" : "Call Recording",
+              "html_name" : "call-recording-software",
+              "link_name" : "call-recording",
+              "product_count" : 34,
+              "meta_description" : "Find and compare top Call Recording software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Call Recording tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs.",
+              "description" : "<a href=\"/call-recording-software\">Call Recording software</a> allows organizations to obtain records of employees' interactions with customers. This type of software provides full-time, random, and on-demand recording, allows employees to save, sort, and retrieve call recordings on their computers. For related solutions see also: <a href=\"/call-center-software\">Call Center software</a>, <a href=\"/customer-service-software\">Customer Service software</a> and <a href=\"/help-desk-software\">Help Desk software</a>."
+            },
+            {
+              "functional_group" : "ccarexcc",
+              "long_name" : "Contact Center",
+              "html_name" : "contact-center-software",
+              "link_name" : "contact-center",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Contact Center software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Contact Center tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs.",
+              "description" : "Contact Center software automates and standardizes the process of receiving and responding to customer requests across different communication channels."
+            },
+            {
+              "functional_group" : "ccarexcc",
+              "long_name" : "CRM",
+              "html_name" : "customer-relationship-management-software",
+              "link_name" : "customer-relationship-management",
+              "product_count" : 353,
+              "meta_description" : "Find and compare top Customer Relationship Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Customer Relationship Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "Customer Relationship Management (CRM) software enables customer interaction, support and relationship management.  The purpose of a CRM application is to enable organizations to better manage their customers through the introduction of reliable systems, processes and procedures. <a href=/customer-relationship-management-software>Customer Relationship Management software</a> integrates organizational processes across marketing, sales and customer services.  CRM software is related to <a href=/contract-management-software>Contract Management software</a> and <a href=\"/online-crm-software\">Online CRM software</a>."
+            },
+            {
+              "functional_group" : "ccarexcc",
+              "long_name" : "Customer Service",
+              "html_name" : "customer-service-software",
+              "link_name" : "customer-service",
+              "product_count" : 177,
+              "meta_description" : "Find and compare top Customer Service software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Customer Service tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/customer-service-software>Customer Service software</a> enables an organization to manage and track customer relationships and support services.  From trouble ticket tracking to complaint resolution reporting, <a href=/customer-service-software>Customer Service software</a> solutions allow organizations to manage and assess the quality of their interactions with customers.  Customer Service applications also assist in the management and distribution of an internal knowledge base, providing customer service representatives with the information necessary to resolve customer complaints.  <a href=/customer-service-software>Customer Service software</a> is related to <a href=/call-center-software>Call Center software</a>, <a href=/help-desk-software>Help Desk software</a> and <a href=/knowledge-management-software>Knowledge Management software</a>."
+            },
+            {
+              "functional_group" : "ccarexcc",
+              "long_name" : "Help Desk",
+              "html_name" : "help-desk-software",
+              "link_name" : "help-desk",
+              "product_count" : 188,
+              "meta_description" : "Find and compare top Help Desk software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Help Desk tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/help-desk-software>Help Desk software</a> enables organizations to respond more efficiently to users. Support software can aid in answering technical and functional questions by providing improved methodologies for ticket tracking, IT management and customer service support. Integrating these elements improves the ability of <a href=\"/customer-service-software\">customer service</a> departments to provide fast and effective support to employees, end users and customers.  Help Desk solutions can also facilitate the flow of new information from users, contributing to an organization's existing knowledge base.  <a href=/help-desk-software>Help Desk software</a> is related to <a href=/call-center-software>Call Center software</a> and <a href=/customer-service-software>Customer Service software</a> ."
+            },
+            {
+              "functional_group" : "ccarexcc",
+              "long_name" : "IVR",
+              "html_name" : "ivr-software",
+              "link_name" : "ivr",
+              "product_count" : 57,
+              "meta_description" : "Find and compare top IVR software on Capterra, with our free and interactive tool. Quickly browse through hundreds of IVR tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/ivr-software\">Interactive Voice Response (IVR) software</a>, allows <a href=\"/call-center-software\">call centers</a>, <a href=\"/help-desk-software\">help desks</a> and other organizations to create menus which the caller can navigate using spoken commands or their telephone keys.  IVR software is mainly used for systems that allow callers to select information or enter data without the need for assistance.  IVR systems can also be used to route callers to the appropriate department within an organization, based on their answers to qualifying questions."
+            },
+            {
+              "functional_group" : "ccarexcc",
+              "long_name" : "Online CRM",
+              "html_name" : "online-crm-software",
+              "link_name" : "online-crm",
+              "product_count" : 85,
+              "meta_description" : "Find and compare top Online CRM software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Online CRM tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/online-crm-software\">Online CRM software</a> enables web-based customer interaction, support and relationship management.  Online customer relationship management applications provide customers with access to an organization's knowledge base assets, allowing customers to pursue a self-guided path to resolving product-related issues, either via the web or over the phone.  Online CRM solutions can help increase the efficiency and utility of a call center, website or help desk by empowering customers to resolve issues on their own without engaging with customer service staff.  <a href=\"/online-crm-software\">Online CRM software</a> is related to <a href=/customer-relationship-management-software>Customer Relationship Management software</a>."
+            },
+            {
+              "functional_group" : "ccarexcc",
+              "long_name" : "Speech Analytics",
+              "html_name" : "speech-analytics-software",
+              "link_name" : "speech-analytics",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Speech Analytics software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Speech Analytics tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "Speech Analytics software helps organizations capture, track, and analyze ongoing or recorded calls. These tools offer sentiment/emotional analysis, language detection, automatic transcription, as well as other functionality to monitor customer experience. "
+            },
+            {
+              "functional_group" : "ccarexcc",
+              "long_name" : "Telephony",
+              "html_name" : "telephony-software",
+              "link_name" : "telephony",
+              "product_count" : 69,
+              "meta_description" : "Find and compare top Telephony software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Telephony tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/telephony-software>Telephony software</a> automates the electronic transmission of voice and data, often to improve call center efficiency.  These applications allow all types of organizations increased flexibility in managing their incoming and outgoing call options as well as a variety of fax and data features.  In addition to optimizing an organization's internal operations, <a href=/telephony-software>Telephony software</a> also offers expanded outgoing capabilities, providing an infrastructure for <a href=\"/call-center-software\">call center</a> management, <a href=\"/help-desk-software\">help desk</a> operations, predictive dialing applications, <a href=\"/customer-relationship-management-software\">Customer Relationship Management (CRM) solutions</a> and telemarketing software."
+            }
+          ],
+          "is_upgraded" : true,
+          "enabled" : true,
+          "filter_options" : {
+            "users" : 127,
+            "platform" : 399,
+            "pricing_options" : 26,
+            "category_related_features" : [
+              17998,
+              17999,
+              18003,
+              18004,
+              18005,
+              18006,
+              28148,
+              28149,
+              37096,
+              38721,
+              38722,
+              38723,
+              38724,
+              38725,
+              38726,
+              38728,
+              38729,
+              38730,
+              52288,
+              52289,
+              52290,
+              52291,
+              52292,
+              52293,
+              52294,
+              52295,
+              52296,
+              52297,
+              52298,
+              52299,
+              52300,
+              52301,
+              52302,
+              52303,
+              52304,
+              52305,
+              52306,
+              52307,
+              52308,
+              52309,
+              52310,
+              52311,
+              52312,
+              52313,
+              52314,
+              52315,
+              52316,
+              52317,
+              52319
+            ],
+            "employees" : 127
+          },
+          "sort_options" : {
+            "sort_review_rating" : 4.490268230438232,
+            "most_recent_review" : "2022-06-14T17:42:24Z"
+          },
+          "countries" : "MX,US,CA,UK,VE,UY,PR,PE,PY,PA,NI,HN,GT,SV,EC,DO,CR,CO,CL,BO,AR",
+          "features_tokenized_text" : "alerts_/_escalation blended_call_center call_logging call_recording call_scripting campaign_management inbound_call_center ivr_/_voice_recognition manual_dialer outbound_call_center predictive_dialer progressive_dialer queue_management real-time_chat reporting/analytics",
+          "platform_tokenized_text" : "cloud,saas,web-based desktopmac desktopwindows desktoplinux mobileandroid mobileiphone",
+          "users_tokenized_text" : "1 2-10 11-50 51-200 201-500 501-1000 1000+",
+          "pricing_tokenized_text" : "monthlysubscription free freetrial",
+          "badges" : [ ],
+          "bid_spot_us" : 0.0,
+          "currency_code" : "USD",
+          "currency_symbol" : "$",
+          "credit_card_required" : "No",
+          "licensing_model" : null,
+          "open_api_offered" : "Yes",
+          "mobile_urls" : [
+            {
+              "name" : "Android",
+              "url" : "https://agentbox.wolkvox.com/"
+            },
+            {
+              "name" : "iOS",
+              "url" : "https://agentbox.wolkvox.com/"
+            }
+          ],
+          "integrations" : [ ],
+          "supported_countries" : [
+            {
+              "id" : 11,
+              "code" : "AR",
+              "name" : "Argentina"
+            },
+            {
+              "id" : 180,
+              "code" : "PR",
+              "name" : "Puerto Rico"
+            },
+            {
+              "id" : 54,
+              "code" : "CR",
+              "name" : "Costa Rica"
+            },
+            {
+              "id" : 160,
+              "code" : "NI",
+              "name" : "Nicaragua"
+            },
+            {
+              "id" : 174,
+              "code" : "PY",
+              "name" : "Paraguay"
+            },
+            {
+              "id" : 100,
+              "code" : "HN",
+              "name" : "Honduras"
+            },
+            {
+              "id" : 65,
+              "code" : "EC",
+              "name" : "Ecuador"
+            },
+            {
+              "id" : 45,
+              "code" : "CL",
+              "name" : "Chile"
+            },
+            {
+              "id" : 1,
+              "code" : "AF",
+              "name" : "Afghanistan"
+            },
+            {
+              "id" : 2,
+              "code" : "AX",
+              "name" : "Aland Islands"
+            },
+            {
+              "id" : 3,
+              "code" : "AL",
+              "name" : "Albania"
+            },
+            {
+              "id" : 4,
+              "code" : "DZ",
+              "name" : "Algeria"
+            },
+            {
+              "id" : 6,
+              "code" : "AD",
+              "name" : "Andorra"
+            },
+            {
+              "id" : 7,
+              "code" : "AO",
+              "name" : "Angola"
+            },
+            {
+              "id" : 12,
+              "code" : "AM",
+              "name" : "Armenia"
+            },
+            {
+              "id" : 15,
+              "code" : "AT",
+              "name" : "Austria"
+            },
+            {
+              "id" : 16,
+              "code" : "AZ",
+              "name" : "Azerbaijan"
+            },
+            {
+              "id" : 18,
+              "code" : "BH",
+              "name" : "Bahrain"
+            },
+            {
+              "id" : 19,
+              "code" : "BD",
+              "name" : "Bangladesh"
+            },
+            {
+              "id" : 21,
+              "code" : "BY",
+              "name" : "Belarus"
+            },
+            {
+              "id" : 22,
+              "code" : "BE",
+              "name" : "Belgium"
+            },
+            {
+              "id" : 24,
+              "code" : "BJ",
+              "name" : "Benin"
+            },
+            {
+              "id" : 26,
+              "code" : "BT",
+              "name" : "Bhutan"
+            },
+            {
+              "id" : 29,
+              "code" : "BA",
+              "name" : "Bosnia and Herzegovina"
+            },
+            {
+              "id" : 30,
+              "code" : "BW",
+              "name" : "Botswana"
+            },
+            {
+              "id" : 34,
+              "code" : "BN",
+              "name" : "Brunei Darussalam"
+            },
+            {
+              "id" : 35,
+              "code" : "BG",
+              "name" : "Bulgaria"
+            },
+            {
+              "id" : 36,
+              "code" : "BF",
+              "name" : "Burkina Faso"
+            },
+            {
+              "id" : 37,
+              "code" : "BI",
+              "name" : "Burundi"
+            },
+            {
+              "id" : 38,
+              "code" : "CV",
+              "name" : "Cabo Verde"
+            },
+            {
+              "id" : 39,
+              "code" : "KH",
+              "name" : "Cambodia"
+            },
+            {
+              "id" : 40,
+              "code" : "CM",
+              "name" : "Cameroon"
+            },
+            {
+              "id" : 43,
+              "code" : "CF",
+              "name" : "Central African Republic"
+            },
+            {
+              "id" : 44,
+              "code" : "TD",
+              "name" : "Chad"
+            },
+            {
+              "id" : 46,
+              "code" : "CN",
+              "name" : "China"
+            },
+            {
+              "id" : 50,
+              "code" : "KM",
+              "name" : "Comoros"
+            },
+            {
+              "id" : 51,
+              "code" : "CD",
+              "name" : "Congo (the Democratic Republic of the)"
+            },
+            {
+              "id" : 52,
+              "code" : "CG",
+              "name" : "Congo"
+            },
+            {
+              "id" : 56,
+              "code" : "HR",
+              "name" : "Croatia"
+            },
+            {
+              "id" : 59,
+              "code" : "CY",
+              "name" : "Cyprus"
+            },
+            {
+              "id" : 60,
+              "code" : "CZ",
+              "name" : "Czechia"
+            },
+            {
+              "id" : 61,
+              "code" : "DK",
+              "name" : "Denmark"
+            },
+            {
+              "id" : 62,
+              "code" : "DJ",
+              "name" : "Djibouti"
+            },
+            {
+              "id" : 66,
+              "code" : "EG",
+              "name" : "Egypt"
+            },
+            {
+              "id" : 68,
+              "code" : "GQ",
+              "name" : "Equatorial Guinea"
+            },
+            {
+              "id" : 69,
+              "code" : "ER",
+              "name" : "Eritrea"
+            },
+            {
+              "id" : 70,
+              "code" : "EE",
+              "name" : "Estonia"
+            },
+            {
+              "id" : 71,
+              "code" : "SZ",
+              "name" : "Eswatini"
+            },
+            {
+              "id" : 72,
+              "code" : "ET",
+              "name" : "Ethiopia"
+            },
+            {
+              "id" : 74,
+              "code" : "FO",
+              "name" : "Faroe Islands"
+            },
+            {
+              "id" : 76,
+              "code" : "FI",
+              "name" : "Finland"
+            },
+            {
+              "id" : 77,
+              "code" : "FR",
+              "name" : "France"
+            },
+            {
+              "id" : 81,
+              "code" : "GA",
+              "name" : "Gabon"
+            },
+            {
+              "id" : 82,
+              "code" : "GM",
+              "name" : "Gambia"
+            },
+            {
+              "id" : 83,
+              "code" : "GE",
+              "name" : "Georgia"
+            },
+            {
+              "id" : 84,
+              "code" : "DE",
+              "name" : "Germany"
+            },
+            {
+              "id" : 85,
+              "code" : "GH",
+              "name" : "Ghana"
+            },
+            {
+              "id" : 86,
+              "code" : "GI",
+              "name" : "Gibraltar"
+            },
+            {
+              "id" : 87,
+              "code" : "GR",
+              "name" : "Greece"
+            },
+            {
+              "id" : 88,
+              "code" : "GL",
+              "name" : "Greenland"
+            },
+            {
+              "id" : 93,
+              "code" : "GG",
+              "name" : "Guernsey"
+            },
+            {
+              "id" : 94,
+              "code" : "GN",
+              "name" : "Guinea"
+            },
+            {
+              "id" : 95,
+              "code" : "GW",
+              "name" : "Guinea-Bissau"
+            },
+            {
+              "id" : 99,
+              "code" : "VA",
+              "name" : "Holy See (Vatican City State)"
+            },
+            {
+              "id" : 101,
+              "code" : "HK",
+              "name" : "Hong Kong"
+            },
+            {
+              "id" : 102,
+              "code" : "HU",
+              "name" : "Hungary"
+            },
+            {
+              "id" : 103,
+              "code" : "IS",
+              "name" : "Iceland"
+            },
+            {
+              "id" : 104,
+              "code" : "IN",
+              "name" : "India"
+            },
+            {
+              "id" : 105,
+              "code" : "ID",
+              "name" : "Indonesia"
+            },
+            {
+              "id" : 106,
+              "code" : "IR",
+              "name" : "Iran"
+            },
+            {
+              "id" : 107,
+              "code" : "IQ",
+              "name" : "Iraq"
+            },
+            {
+              "id" : 108,
+              "code" : "IE",
+              "name" : "Ireland"
+            },
+            {
+              "id" : 109,
+              "code" : "IM",
+              "name" : "Isle of Man"
+            },
+            {
+              "id" : 110,
+              "code" : "IL",
+              "name" : "Israel"
+            },
+            {
+              "id" : 111,
+              "code" : "IT",
+              "name" : "Italy"
+            },
+            {
+              "id" : 113,
+              "code" : "JP",
+              "name" : "Japan"
+            },
+            {
+              "id" : 114,
+              "code" : "JE",
+              "name" : "Jersey"
+            },
+            {
+              "id" : 115,
+              "code" : "JO",
+              "name" : "Jordan"
+            },
+            {
+              "id" : 116,
+              "code" : "KZ",
+              "name" : "Kazakhstan"
+            },
+            {
+              "id" : 117,
+              "code" : "KE",
+              "name" : "Kenya"
+            },
+            {
+              "id" : 120,
+              "code" : "KR",
+              "name" : "South Korea"
+            },
+            {
+              "id" : 121,
+              "code" : "KW",
+              "name" : "Kuwait"
+            },
+            {
+              "id" : 122,
+              "code" : "KG",
+              "name" : "Kyrgyzstan"
+            },
+            {
+              "id" : 123,
+              "code" : "LA",
+              "name" : "Lao People's Democratic Republic"
+            },
+            {
+              "id" : 184,
+              "code" : "RU",
+              "name" : "Russian Federation"
+            },
+            {
+              "id" : 185,
+              "code" : "RW",
+              "name" : "Rwanda"
+            },
+            {
+              "id" : 187,
+              "code" : "SH",
+              "name" : "Saint Helena, Ascension and Tristan da Cunha"
+            },
+            {
+              "id" : 194,
+              "code" : "SM",
+              "name" : "San Marino"
+            },
+            {
+              "id" : 195,
+              "code" : "ST",
+              "name" : "Sao Tome and Principe"
+            },
+            {
+              "id" : 196,
+              "code" : "SA",
+              "name" : "Saudi Arabia"
+            },
+            {
+              "id" : 197,
+              "code" : "SN",
+              "name" : "Senegal"
+            },
+            {
+              "id" : 198,
+              "code" : "RS",
+              "name" : "Serbia"
+            },
+            {
+              "id" : 199,
+              "code" : "SC",
+              "name" : "Seychelles"
+            },
+            {
+              "id" : 200,
+              "code" : "SL",
+              "name" : "Sierra Leone"
+            },
+            {
+              "id" : 201,
+              "code" : "SG",
+              "name" : "Singapore"
+            },
+            {
+              "id" : 203,
+              "code" : "SK",
+              "name" : "Slovakia"
+            },
+            {
+              "id" : 204,
+              "code" : "SI",
+              "name" : "Slovenia"
+            },
+            {
+              "id" : 206,
+              "code" : "SO",
+              "name" : "Somalia"
+            },
+            {
+              "id" : 207,
+              "code" : "ZA",
+              "name" : "South Africa"
+            },
+            {
+              "id" : 210,
+              "code" : "ES",
+              "name" : "Spain"
+            },
+            {
+              "id" : 211,
+              "code" : "LK",
+              "name" : "Sri Lanka"
+            },
+            {
+              "id" : 212,
+              "code" : "SD",
+              "name" : "Sudan"
+            },
+            {
+              "id" : 214,
+              "code" : "SJ",
+              "name" : "Svalbard and Jan Mayen"
+            },
+            {
+              "id" : 215,
+              "code" : "SE",
+              "name" : "Sweden"
+            },
+            {
+              "id" : 216,
+              "code" : "CH",
+              "name" : "Switzerland"
+            },
+            {
+              "id" : 217,
+              "code" : "SY",
+              "name" : "Syrian Arab Republic"
+            },
+            {
+              "id" : 218,
+              "code" : "TW",
+              "name" : "Taiwan"
+            },
+            {
+              "id" : 219,
+              "code" : "TJ",
+              "name" : "Tajikistan"
+            },
+            {
+              "id" : 220,
+              "code" : "TZ",
+              "name" : "Tanzania (the United Republic of)"
+            },
+            {
+              "id" : 221,
+              "code" : "TH",
+              "name" : "Thailand"
+            },
+            {
+              "id" : 222,
+              "code" : "TL",
+              "name" : "Timor-Leste"
+            },
+            {
+              "id" : 223,
+              "code" : "TG",
+              "name" : "Togo"
+            },
+            {
+              "id" : 227,
+              "code" : "TN",
+              "name" : "Tunisia"
+            },
+            {
+              "id" : 228,
+              "code" : "TR",
+              "name" : "Turkey"
+            },
+            {
+              "id" : 229,
+              "code" : "TM",
+              "name" : "Turkmenistan"
+            },
+            {
+              "id" : 232,
+              "code" : "UG",
+              "name" : "Uganda"
+            },
+            {
+              "id" : 124,
+              "code" : "LV",
+              "name" : "Latvia"
+            },
+            {
+              "id" : 125,
+              "code" : "LB",
+              "name" : "Lebanon"
+            },
+            {
+              "id" : 126,
+              "code" : "LS",
+              "name" : "Lesotho"
+            },
+            {
+              "id" : 127,
+              "code" : "LR",
+              "name" : "Liberia"
+            },
+            {
+              "id" : 128,
+              "code" : "LY",
+              "name" : "Libya"
+            },
+            {
+              "id" : 129,
+              "code" : "LI",
+              "name" : "Liechtenstein"
+            },
+            {
+              "id" : 130,
+              "code" : "LT",
+              "name" : "Lithuania"
+            },
+            {
+              "id" : 131,
+              "code" : "LU",
+              "name" : "Luxembourg"
+            },
+            {
+              "id" : 132,
+              "code" : "MO",
+              "name" : "Macao"
+            },
+            {
+              "id" : 133,
+              "code" : "MG",
+              "name" : "Madagascar"
+            },
+            {
+              "id" : 134,
+              "code" : "MW",
+              "name" : "Malawi"
+            },
+            {
+              "id" : 135,
+              "code" : "MY",
+              "name" : "Malaysia"
+            },
+            {
+              "id" : 136,
+              "code" : "MV",
+              "name" : "Maldives"
+            },
+            {
+              "id" : 137,
+              "code" : "ML",
+              "name" : "Mali"
+            },
+            {
+              "id" : 138,
+              "code" : "MT",
+              "name" : "Malta"
+            },
+            {
+              "id" : 141,
+              "code" : "MR",
+              "name" : "Mauritania"
+            },
+            {
+              "id" : 142,
+              "code" : "MU",
+              "name" : "Mauritius"
+            },
+            {
+              "id" : 143,
+              "code" : "YT",
+              "name" : "Mayotte"
+            },
+            {
+              "id" : 146,
+              "code" : "MD",
+              "name" : "Moldova (the Republic of)"
+            },
+            {
+              "id" : 147,
+              "code" : "MC",
+              "name" : "Monaco"
+            },
+            {
+              "id" : 148,
+              "code" : "MN",
+              "name" : "Mongolia"
+            },
+            {
+              "id" : 149,
+              "code" : "ME",
+              "name" : "Montenegro"
+            },
+            {
+              "id" : 151,
+              "code" : "MA",
+              "name" : "Morocco"
+            },
+            {
+              "id" : 152,
+              "code" : "MZ",
+              "name" : "Mozambique"
+            },
+            {
+              "id" : 153,
+              "code" : "MM",
+              "name" : "Myanmar"
+            },
+            {
+              "id" : 154,
+              "code" : "NA",
+              "name" : "Namibia"
+            },
+            {
+              "id" : 156,
+              "code" : "NP",
+              "name" : "Nepal"
+            },
+            {
+              "id" : 157,
+              "code" : "NL",
+              "name" : "Netherlands"
+            },
+            {
+              "id" : 161,
+              "code" : "NE",
+              "name" : "Niger"
+            },
+            {
+              "id" : 162,
+              "code" : "NG",
+              "name" : "Nigeria"
+            },
+            {
+              "id" : 165,
+              "code" : "MK",
+              "name" : "North Macedonia"
+            },
+            {
+              "id" : 167,
+              "code" : "NO",
+              "name" : "Norway"
+            },
+            {
+              "id" : 168,
+              "code" : "OM",
+              "name" : "Oman"
+            },
+            {
+              "id" : 169,
+              "code" : "PK",
+              "name" : "Pakistan"
+            },
+            {
+              "id" : 171,
+              "code" : "PS",
+              "name" : "Palestine (State of)"
+            },
+            {
+              "id" : 176,
+              "code" : "PH",
+              "name" : "Philippines"
+            },
+            {
+              "id" : 178,
+              "code" : "PL",
+              "name" : "Poland"
+            },
+            {
+              "id" : 179,
+              "code" : "PT",
+              "name" : "Portugal"
+            },
+            {
+              "id" : 181,
+              "code" : "QA",
+              "name" : "Qatar"
+            },
+            {
+              "id" : 182,
+              "code" : "RE",
+              "name" : "Reunion"
+            },
+            {
+              "id" : 183,
+              "code" : "RO",
+              "name" : "Romania"
+            },
+            {
+              "id" : 233,
+              "code" : "UA",
+              "name" : "Ukraine"
+            },
+            {
+              "id" : 234,
+              "code" : "AE",
+              "name" : "United Arab Emirates"
+            },
+            {
+              "id" : 235,
+              "code" : "GB",
+              "name" : "United Kingdom of Great Britain and Northern Ireland"
+            },
+            {
+              "id" : 239,
+              "code" : "UZ",
+              "name" : "Uzbekistan"
+            },
+            {
+              "id" : 242,
+              "code" : "VN",
+              "name" : "Viet Nam"
+            },
+            {
+              "id" : 247,
+              "code" : "YE",
+              "name" : "Yemen"
+            },
+            {
+              "id" : 248,
+              "code" : "ZM",
+              "name" : "Zambia"
+            },
+            {
+              "id" : 249,
+              "code" : "ZW",
+              "name" : "Zimbabwe"
+            },
+            {
+              "id" : 237,
+              "code" : "US",
+              "name" : "United States of America"
+            },
+            {
+              "id" : 144,
+              "code" : "MX",
+              "name" : "Mexico"
+            },
+            {
+              "id" : 67,
+              "code" : "SV",
+              "name" : "El Salvador"
+            },
+            {
+              "id" : 64,
+              "code" : "DO",
+              "name" : "Dominican Republic"
+            },
+            {
+              "id" : 27,
+              "code" : "BO",
+              "name" : "Bolivia"
+            },
+            {
+              "id" : 172,
+              "code" : "PA",
+              "name" : "Panama"
+            },
+            {
+              "id" : 238,
+              "code" : "UY",
+              "name" : "Uruguay"
+            },
+            {
+              "id" : 175,
+              "code" : "PE",
+              "name" : "Peru"
+            },
+            {
+              "id" : 92,
+              "code" : "GT",
+              "name" : "Guatemala"
+            },
+            {
+              "id" : 241,
+              "code" : "VE",
+              "name" : "Venezuela"
+            },
+            {
+              "id" : 49,
+              "code" : "CO",
+              "name" : "Colombia"
+            }
+          ],
+          "supported_languages" : [
+            {
+              "id" : 152,
+              "code" : "en",
+              "name" : "English",
+              "location" : null
+            },
+            {
+              "id" : 684,
+              "code" : "es",
+              "name" : "Spanish",
+              "location" : null
+            }
+          ],
+          "target_industries" : [
+            {
+              "id" : 1,
+              "code" : "47",
+              "name" : "Accounting"
+            },
+            {
+              "id" : 29,
+              "code" : "91",
+              "name" : "Consumer Services"
+            },
+            {
+              "id" : 74,
+              "code" : "10",
+              "name" : "Legal Services"
+            },
+            {
+              "id" : 86,
+              "code" : "126",
+              "name" : "Media Production"
+            },
+            {
+              "id" : 105,
+              "code" : "15",
+              "name" : "Pharmaceuticals"
+            },
+            {
+              "id" : 126,
+              "code" : "27",
+              "name" : "Retail"
+            },
+            {
+              "id" : 97,
+              "code" : "100",
+              "name" : "Non-Profit Organization Management"
+            },
+            {
+              "id" : 46,
+              "code" : "34",
+              "name" : "Food & Beverages"
+            },
+            {
+              "id" : 134,
+              "code" : "8",
+              "name" : "Telecommunications"
+            },
+            {
+              "id" : 120,
+              "code" : "44",
+              "name" : "Real Estate"
+            },
+            {
+              "id" : 11,
+              "code" : "41",
+              "name" : "Banking"
+            },
+            {
+              "id" : 140,
+              "code" : "59",
+              "name" : "Utilities"
+            },
+            {
+              "id" : 85,
+              "code" : "135",
+              "name" : "Mechanical or Industrial Engineering"
+            },
+            {
+              "id" : 42,
+              "code" : "63",
+              "name" : "Farming"
+            },
+            {
+              "id" : 52,
+              "code" : "75",
+              "name" : "Government Administration"
+            },
+            {
+              "id" : 62,
+              "code" : "147",
+              "name" : "Industrial Automation"
+            },
+            {
+              "id" : 65,
+              "code" : "42",
+              "name" : "Insurance"
+            },
+            {
+              "id" : 98,
+              "code" : "57",
+              "name" : "Oil & Energy"
+            },
+            {
+              "id" : 41,
+              "code" : "122",
+              "name" : "Facilities Services"
+            },
+            {
+              "id" : 35,
+              "code" : "132",
+              "name" : "E-Learning"
+            },
+            {
+              "id" : 78,
+              "code" : "116",
+              "name" : "Logistics and Supply Chain"
+            },
+            {
+              "id" : 43,
+              "code" : "43",
+              "name" : "Financial Services"
+            },
+            {
+              "id" : 9,
+              "code" : "53",
+              "name" : "Automotive"
+            },
+            {
+              "id" : 25,
+              "code" : "4",
+              "name" : "Computer Software"
+            },
+            {
+              "id" : 57,
+              "code" : "14",
+              "name" : "Hospital & Health Care"
+            },
+            {
+              "id" : 26,
+              "code" : "48",
+              "name" : "Construction"
+            },
+            {
+              "id" : 58,
+              "code" : "31",
+              "name" : "Hospitality"
+            },
+            {
+              "id" : 81,
+              "code" : "11",
+              "name" : "Management Consulting"
+            },
+            {
+              "id" : 84,
+              "code" : "80",
+              "name" : "Marketing and Advertising"
+            },
+            {
+              "id" : 139,
+              "code" : "92",
+              "name" : "Transportation/Trucking/Railroad"
+            },
+            {
+              "id" : 21,
+              "code" : "118",
+              "name" : "Computer & Network Security"
+            },
+            {
+              "id" : 64,
+              "code" : "96",
+              "name" : "Information Technology and Services"
+            },
+            {
+              "id" : 70,
+              "code" : "46",
+              "name" : "Investment Management"
+            },
+            {
+              "id" : 135,
+              "code" : "60",
+              "name" : "Textiles"
+            },
+            {
+              "id" : 17,
+              "code" : "54",
+              "name" : "Chemicals"
+            },
+            {
+              "id" : 6,
+              "code" : "19",
+              "name" : "Apparel & Fashion"
+            },
+            {
+              "id" : 63,
+              "code" : "84",
+              "name" : "Information Services"
+            },
+            {
+              "id" : 125,
+              "code" : "32",
+              "name" : "Restaurants"
+            },
+            {
+              "id" : 133,
+              "code" : "22",
+              "name" : "Supermarkets"
+            }
+          ],
+          "price_range_id" : 1,
+          "aggregated_review_ratings" : {
+            "industry" : {
+              "19" : 5.0,
+              "23" : 5.0,
+              "84" : 5.0,
+              "91" : 4.0,
+              "41" : 4.0,
+              "96" : 4.5,
+              "54" : 5.0,
+              "14" : 5.0,
+              "69" : 5.0,
+              "60" : 4.5,
+              "10" : 5.0,
+              "8" : 4.65,
+              "123" : 4.67,
+              "116" : 5.0,
+              "133" : 4.0,
+              "46" : 4.0,
+              "4" : 5.0,
+              "137" : 4.0,
+              "106" : 5.0,
+              "132" : 5.0,
+              "43" : 4.6
+            },
+            "company_size" : {
+              "1001-5000 employees" : 4.83,
+              "5001-10,000 employees" : 4.0,
+              "51-200 employees" : 4.67,
+              "1-10 employees" : 5.0,
+              "201-500 employees" : 4.86,
+              "501-1000 employees" : 4.0,
+              "11-50 employees" : 4.38,
+              "10,001+ employees" : 5.0
+            }
+          },
+          "vct_enabled" : true,
+          "pricing_plans" : [
+            {
+              "created_on_utc" : "2020-10-23T14:14:32Z",
+              "modified_on_utc" : "2022-08-09T21:30:53Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Basic",
+              "description" : null,
+              "display_order" : 1,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 50.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Per Feature",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [ ]
+            }
+          ],
+          "discount_types" : [ ]
+        }
+      }
+    ]
+  }
+}

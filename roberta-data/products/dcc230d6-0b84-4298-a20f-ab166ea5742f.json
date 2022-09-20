@@ -1,0 +1,3561 @@
+{
+  "took" : 19,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 3,
+    "successful" : 3,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : {
+      "value" : 2,
+      "relation" : "eq"
+    },
+    "max_score" : 10.869203,
+    "hits" : [
+      {
+        "_index" : "product_listings_main_data_upc_vt20220920_043802_utc",
+        "_type" : "_doc",
+        "_id" : "59952_ps",
+        "_score" : 10.869203,
+        "_source" : {
+          "product_id" : 59952,
+          "seo_product_id" : 59952,
+          "seo_slug" : "POS-System",
+          "product_name" : "POS Nation for Retail",
+          "upc_product_uuid" : "dcc230d6-0b84-4298-a20f-ab166ea5742f",
+          "old_product_ids" : [
+            223355,
+            83592,
+            83591,
+            70289
+          ],
+          "product_url" : "https://www.posnation.com/capterra?utm_medium=web&utm_campaign=landing_page&?utm_content=pos",
+          "product_slug" : "POS-System",
+          "former_name" : "POS System",
+          "logo_filepath" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d50ad0f1-0b76-403d-9de6-5f4b5bf3db12.png",
+          "vendor" : {
+            "vendor_id" : 2033106,
+            "vendor_name" : "POS Nation",
+            "vendor_url" : "http://www.posnation.com",
+            "year_founded" : 2001,
+            "location" : "United States",
+            "vendor_opted_out_of_reviews" : true,
+            "is_opted_out_of_reviews" : false,
+            "is_hit_limit" : true,
+            "enabled" : true,
+            "has_vendor_level_page" : false,
+            "slug" : null,
+            "vendor_page" : false,
+            "paused_campaign" : false
+          },
+          "category_short_name" : "ps",
+          "category_html_name" : "point-of-sale-software",
+          "category" : {
+            "id" : 20052,
+            "short_name" : "ps",
+            "long_name" : "Point of Sale",
+            "html_name" : "point-of-sale-software",
+            "enabled" : true
+          },
+          "best_category" : "ps",
+          "is_best_category" : true,
+          "highest_cpc_category" : null,
+          "is_highest_cpc_category" : false,
+          "short_desc" : "POS Nation offers an all-in-one point of sale solution to streamline your small or medium-sized retail business.",
+          "long_desc" : "POS Nation for Retail offers a complete point of sale solution to streamline your small or medium-sized retail business. \n\nWe support retailers with a turnkey solution so you have the hardware, software, and payment processing needed to improve checkout, create happier customers, and grow your business. \n\nPOS Nation's 10,000+ customers are backed by our dedicated customer service team, including 24/7 US-based support.",
+          "rating" : 4.6,
+          "number_of_reviews" : 99,
+          "total_reviews" : 119,
+          "ease_of_use_rating" : 4.6,
+          "customer_support_rating" : 4.8,
+          "functionality_rating" : 4.5,
+          "value_for_money_rating" : 4.6,
+          "recommendation_rating" : 8.6,
+          "pricing_enabled" : true,
+          "pricing" : 99.0,
+          "is_per_user" : false,
+          "fee_schedule" : "Per-Month",
+          "pricing_model" : "Flat Rate",
+          "pricing_details" : "-Pay Monthly Plan: $99/month-\r\nPOS software, touch PC, receipt printer, scanner, cash drawer, chip card reader\r\nPay monthly for your POS software and hardware\r\n24/7 unlimited support and training\r\nLifetime warranty\r\nRequires Worldpay Processing Agreement\r\nCancel at any time by simply returning your hardware\r\n\r\n-Upfront Payment: $999/one time-\r\nPOS software, touch PC, receipt printer, scanner, cash drawer, chip card reader\r\nYou own the POS software and hardware; no required ongoing fees or payments\r\n90 days of free business hours support\r\nTwo-year warranty\r\nFree chip card reader with Worldpay processing",
+          "pricing_created_on" : "2020-02-25T21:46:13Z",
+          "pricing_modified_on" : "2022-06-23T14:42:33Z",
+          "pricing_created_by" : null,
+          "pricing_modified_by" : null,
+          "pricing_vendor_pricing_url" : null,
+          "free_trial" : false,
+          "free_version" : false,
+          "target_audience" : "Small business owners in a variety of industries, including 10,000 retailers in liquor, tobacco, grocery stores, markets, garden center, hardware, lawn care, apparel, and hardware stores.",
+          "target_users" : [
+            "1",
+            "2-10",
+            "11-50"
+          ],
+          "platform" : [
+            {
+              "enabled" : true,
+              "name" : "Cloud, SaaS, Web-Based"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Mac"
+            },
+            {
+              "enabled" : true,
+              "name" : "Desktop Windows"
+            },
+            {
+              "enabled" : true,
+              "name" : "Desktop Linux"
+            },
+            {
+              "enabled" : true,
+              "name" : "On-Premise Windows"
+            },
+            {
+              "enabled" : true,
+              "name" : "On-Premise Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Chromebook"
+            },
+            {
+              "enabled" : false,
+              "name" : "Mobile Android"
+            },
+            {
+              "enabled" : false,
+              "name" : "Mobile iPhone"
+            },
+            {
+              "enabled" : false,
+              "name" : "Mobile iPad"
+            }
+          ],
+          "support" : [
+            {
+              "enabled" : true,
+              "name" : "Email Help Desk"
+            },
+            {
+              "enabled" : true,
+              "name" : "FAQ Forum"
+            },
+            {
+              "enabled" : true,
+              "name" : "Knowledgebase"
+            },
+            {
+              "enabled" : true,
+              "name" : "Phone Support"
+            },
+            {
+              "enabled" : true,
+              "name" : "24/7 Live Rep"
+            },
+            {
+              "enabled" : true,
+              "name" : "Chat"
+            }
+          ],
+          "training" : [
+            {
+              "enabled" : false,
+              "name" : "Not Offered"
+            },
+            {
+              "enabled" : true,
+              "name" : "In-Person"
+            },
+            {
+              "enabled" : true,
+              "name" : "Live Online"
+            },
+            {
+              "enabled" : true,
+              "name" : "Webinars"
+            },
+            {
+              "enabled" : true,
+              "name" : "Documentation"
+            },
+            {
+              "enabled" : true,
+              "name" : "Videos"
+            }
+          ],
+          "media" : [
+            {
+              "product_id" : 59952,
+              "vendor_id" : 2033106,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/e4b2b9a3-bf2b-41cd-8faf-d96623e4fd14.png",
+              "caption" : "Main point of sale screen",
+              "weight" : 1,
+              "short_name" : "ps"
+            },
+            {
+              "product_id" : 59952,
+              "vendor_id" : 2033106,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/3c822767-dcc2-4f3c-9fd4-ded8ad2d0943.png",
+              "caption" : "Mobile Reporting",
+              "weight" : 2,
+              "short_name" : "ps"
+            },
+            {
+              "product_id" : 59952,
+              "vendor_id" : 2033106,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/2737b118-f074-4dd6-b441-8843e1ecddeb.png",
+              "caption" : "POS Nation for Retail Bundle",
+              "weight" : 3,
+              "short_name" : "ps"
+            },
+            {
+              "product_id" : 59952,
+              "vendor_id" : 2033106,
+              "media_type" : "VIDEO",
+              "path_url" : "https://www.youtube.com/watch?v=gT2NfCQZ7Xg",
+              "caption" : null,
+              "weight" : 0,
+              "short_name" : "ps"
+            }
+          ],
+          "links" : [
+            {
+              "product_id" : 59952,
+              "functional_group" : "ps",
+              "html_code" : "https://www.posnation.com/capterra?utm_medium=web&utm_campaign=landing_page&?utm_content=pos",
+              "link_name" : "Free Demo",
+              "link_priority" : 2.0
+            },
+            {
+              "product_id" : 59952,
+              "functional_group" : "ps",
+              "html_code" : "https://www.posnation.com/retail-pos-software#pricing",
+              "link_name" : "Pricing",
+              "link_priority" : 3.0
+            },
+            {
+              "product_id" : 59952,
+              "functional_group" : "ps",
+              "html_code" : "https://www.posnation.com/retail-pos-software",
+              "link_name" : "POS Nation Software",
+              "link_priority" : 4.0
+            },
+            {
+              "product_id" : 59952,
+              "functional_group" : "ps",
+              "html_code" : "https://www.posnation.com/pos-hardware",
+              "link_name" : "POS Nation Hardware",
+              "link_priority" : 5.0
+            }
+          ],
+          "features" : [
+            {
+              "category_name" : "Point of Sale",
+              "category_features" : [
+                {
+                  "name" : "Barcode / Ticket Scanning",
+                  "value" : true,
+                  "id" : "62b94c17-29ff-47eb-92e1-242d6f3c04be",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "The ability to scan barcodes to ensure accurate pricing and label tracking "
+                },
+                {
+                  "name" : "Commission Management",
+                  "value" : true,
+                  "id" : "97cc20e3-cd5e-49e2-ae87-f63543fdfd5e",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track employee commission potential and earnings"
+                },
+                {
+                  "name" : "Customer Accounts",
+                  "value" : true,
+                  "id" : "faa61540-412b-40a8-8278-1e78c13bf6c9",
+                  "avg_rating" : 0.0,
+                  "cnt_rating" : 0,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Record customer information, purchase history, and other notes"
+                },
+                {
+                  "name" : "Discount Management",
+                  "value" : true,
+                  "id" : "89d2f20f-1df8-4929-aef1-96784010c4f5",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track products that are for sale at a reduced price"
+                },
+                {
+                  "name" : "Electronic Signature",
+                  "value" : true,
+                  "id" : "129d469f-1e77-489e-ac24-45c91b5277db",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Sign a document within the system"
+                },
+                {
+                  "name" : "Gift Card Management",
+                  "value" : true,
+                  "id" : "22b3c949-060c-43ef-8796-1e4f09a79c22",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Reward loyal customers with gift cards which they can redeem for special offers and loyalty bonus"
+                },
+                {
+                  "name" : "Loyalty Program",
+                  "value" : true,
+                  "id" : "6b34f1a7-a35e-4df8-8d9f-639803393208",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Marketing tool to have customers return for benefits"
+                },
+                {
+                  "name" : "Multi-Location",
+                  "value" : true,
+                  "id" : "cbb330d2-6199-479e-bc91-d95527b5dc05",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Business with more than one location/store"
+                },
+                {
+                  "name" : "Restaurant POS",
+                  "value" : true,
+                  "id" : "b9a041f7-3414-4207-8a5a-27397f9e2d5d",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "For restaurants"
+                },
+                {
+                  "name" : "Retail POS",
+                  "value" : true,
+                  "id" : "3da3a5d9-e53d-4491-b01c-b107898215d7",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "For retailers"
+                },
+                {
+                  "name" : "Returns Management",
+                  "value" : true,
+                  "id" : "fe78c200-411d-47c0-a700-1c29279ea31d",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track and facilitate refunds/returns of products sold"
+                },
+                {
+                  "name" : "eCommerce Management",
+                  "value" : true,
+                  "id" : "3ca5a3b4-47fd-428c-9e6e-19fca8ca46dd",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 0.5,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Integrate with eCommerce systems"
+                }
+              ]
+            },
+            {
+              "category_name" : "Convenience Store",
+              "category_features" : [
+                {
+                  "name" : "Employee Management",
+                  "value" : true,
+                  "id" : "9510ee6b-fcb0-4f43-94ce-07023453048f",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Tracks employee schedules, availability, performance"
+                },
+                {
+                  "name" : "For Restaurants",
+                  "value" : true,
+                  "id" : "c920cf69-733d-4107-8e04-1b043c91be66",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Fuel Management",
+                  "value" : false,
+                  "id" : "52cd312f-2c75-45d8-989d-5d154abc82b8",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Fuel POS",
+                  "value" : false,
+                  "id" : "3a9ec111-cc9f-4006-9694-82c3301caba9",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Grocery POS",
+                  "value" : true,
+                  "id" : "77c40f00-32d2-45f2-9a81-ea89045a805b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Inventory Management",
+                  "value" : true,
+                  "id" : "80f46038-6ae8-4725-8064-788b20380eeb",
+                  "avg_rating" : 4.6,
+                  "cnt_rating" : 11,
+                  "avg_importance" : 2.8,
+                  "cnt_importance" : 5,
+                  "cnt_time_used" : 5,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 5,
+                  "pct_time_critical" : 0.8,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track and manage the quantity of resources on hand to maintain proper supply"
+                },
+                {
+                  "name" : "Lottery Management",
+                  "value" : true,
+                  "id" : "035dd753-2d04-4c5c-81f5-b5f602f46d00",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Loyalty Program",
+                  "value" : true,
+                  "id" : "6b34f1a7-a35e-4df8-8d9f-639803393208",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Multi-Store",
+                  "value" : true,
+                  "id" : "15eb941b-c4f9-4435-b1ac-2ef7ffaaf8fe",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Price / Margin Management",
+                  "value" : true,
+                  "id" : "464dc77d-7f2c-40e6-af21-c71da78fb7f7",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Retail Management",
+                  "value" : true,
+                  "id" : "569af9b6-8932-41f0-aa4d-531f1e3abb7e",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Manage sales in retail stores"
+                },
+                {
+                  "name" : "Single Store",
+                  "value" : true,
+                  "id" : "81e14a9b-483c-42cf-8bf1-28723aad2da6",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                }
+              ]
+            },
+            {
+              "category_name" : "Garden Center",
+              "category_features" : [
+                {
+                  "name" : "Billing & Invoicing",
+                  "value" : true,
+                  "id" : "b9829f5b-1e19-49e7-b343-c2286973de15",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Create and manage monetary interactions between parties (ie. bills and invoices)"
+                },
+                {
+                  "name" : "Customer Management",
+                  "value" : true,
+                  "id" : "39562547-89f3-4fec-9b0a-a8b15f2ae52d",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Capture and analyze information about your customers and interactions with them"
+                },
+                {
+                  "name" : "Inventory Management",
+                  "value" : true,
+                  "id" : "80f46038-6ae8-4725-8064-788b20380eeb",
+                  "avg_rating" : 4.6,
+                  "cnt_rating" : 11,
+                  "avg_importance" : 2.8,
+                  "cnt_importance" : 5,
+                  "cnt_time_used" : 5,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 5,
+                  "pct_time_critical" : 0.8,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track and manage the quantity of resources on hand to maintain proper supply"
+                },
+                {
+                  "name" : "Purchase Order Management",
+                  "value" : true,
+                  "id" : "a9f6bc9b-faba-4d7a-95c4-d72a86ef6937",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Returns Management",
+                  "value" : true,
+                  "id" : "fe78c200-411d-47c0-a700-1c29279ea31d",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track and facilitate refunds/returns of products sold"
+                }
+              ]
+            },
+            {
+              "category_name" : "Inventory Control",
+              "category_features" : [
+                {
+                  "name" : "Barcoding/RFID",
+                  "value" : true,
+                  "id" : "3a5789df-cab6-42d7-bf9c-1738cdee369f",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Identify and track items using barcode tags or RFID (radio-frequency identification) tags that contain electronically-stored data"
+                },
+                {
+                  "name" : "Check-in/Check-out",
+                  "value" : true,
+                  "id" : "578adffb-94a9-4988-9785-00623cfe985c",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Track the status of assets and whether they're checked in or out"
+                },
+                {
+                  "name" : "Cost Tracking",
+                  "value" : true,
+                  "id" : "dbe00040-26b9-417e-a04b-7886b914b6fd",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Record and monitor cost related information of assets (i.e. budget for assets, equipment costs, revenues, etc.)"
+                },
+                {
+                  "name" : "Forecasting",
+                  "value" : true,
+                  "id" : "af71a358-300d-4111-90b5-828ef869bb49",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Form predictions based on past and present data/trends"
+                },
+                {
+                  "name" : "Inventory Optimization",
+                  "value" : true,
+                  "id" : "649b9e77-eb11-4a73-a4a9-2a8d679c3020",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Balance and streamline inventory stock to meet customer service and revenue goals"
+                },
+                {
+                  "name" : "Inventory Tracking",
+                  "value" : true,
+                  "id" : "33800d6b-7dba-41cc-aaaf-788e4bf84ccb",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Monitor the movement and quantities of inventory items"
+                },
+                {
+                  "name" : "Item Management",
+                  "value" : true,
+                  "id" : "dea3f3c7-48da-4115-a4d4-83a3a59c48b5",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Collect, organize, and track inventory/product data including item numbers, descriptions, etc."
+                },
+                {
+                  "name" : "Reorder Management",
+                  "value" : true,
+                  "id" : "e4450d36-99e4-43a6-9728-be64678f6757",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Purchase and replenish product stock based on inventory levels and needs"
+                },
+                {
+                  "name" : "SKU/UPC Codes",
+                  "value" : true,
+                  "id" : "c1ceacf8-9dbb-4d59-bf75-220d27da4a0b",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Internal and external product tracking codes "
+                },
+                {
+                  "name" : "Serial Number Tracking",
+                  "value" : true,
+                  "id" : "240a9947-1095-46c7-907f-c19d1f491dfd",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Allows users to assign specific serial numbers to products and track them "
+                },
+                {
+                  "name" : "Supplier Management",
+                  "value" : true,
+                  "id" : "aa61511b-b73d-4fbb-a5f4-0ea85d124fcb",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Manage various aspects of the relationship with suppliers (e.g. interactions, history)"
+                }
+              ]
+            },
+            {
+              "category_name" : "Retail Management Systems",
+              "category_features" : [
+                {
+                  "name" : "CRM",
+                  "value" : true,
+                  "id" : "cdf8cb63-9596-4430-bcbb-92162fc532bf",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Contact and lead management to track interactions and notes about clients and prospects"
+                },
+                {
+                  "name" : "Commission Management",
+                  "value" : true,
+                  "id" : "97cc20e3-cd5e-49e2-ae87-f63543fdfd5e",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Track employee commission potential and earnings"
+                },
+                {
+                  "name" : "Email Marketing",
+                  "value" : false,
+                  "id" : "3e3bef6d-cbd8-43e1-83e6-eaf601c17a48",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Create and send email blasts/campaigns"
+                },
+                {
+                  "name" : "Employee Management",
+                  "value" : true,
+                  "id" : "9510ee6b-fcb0-4f43-94ce-07023453048f",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Tracks employee schedules, availability, performance"
+                },
+                {
+                  "name" : "Loyalty Program",
+                  "value" : true,
+                  "id" : "6b34f1a7-a35e-4df8-8d9f-639803393208",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Marketing tool to have customers return for benefits"
+                },
+                {
+                  "name" : "Mail Order",
+                  "value" : true,
+                  "id" : "75e1b7c5-6d02-4be1-8597-db838f609211",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Facilitate the process of ordering and the mail delivery of products"
+                },
+                {
+                  "name" : "Merchandise Management",
+                  "value" : true,
+                  "id" : "c3528ec7-3b10-40f2-a6a1-9cc178c30133",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Provides intelligence to make the right inventory purchasing decisions."
+                },
+                {
+                  "name" : "Multi-Location",
+                  "value" : true,
+                  "id" : "cbb330d2-6199-479e-bc91-d95527b5dc05",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Business with more than one location/store"
+                },
+                {
+                  "name" : "Order Management",
+                  "value" : false,
+                  "id" : "3cca1a0a-36cc-4cfa-b90c-706cfd9542b6",
+                  "avg_rating" : 1.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Track products that are for sale at a reduced price"
+                },
+                {
+                  "name" : "Purchase Order Management",
+                  "value" : true,
+                  "id" : "a9f6bc9b-faba-4d7a-95c4-d72a86ef6937",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Create, send, and track purchase orders and their statuses"
+                },
+                {
+                  "name" : "Reporting/Analytics",
+                  "value" : true,
+                  "id" : "b0c186d0-0194-4300-abba-ca3bc2474bbe",
+                  "avg_rating" : 4.7,
+                  "cnt_rating" : 24,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 16,
+                  "cnt_time_used" : 17,
+                  "pct_time_used" : 0.941,
+                  "cnt_time_critical" : 17,
+                  "pct_time_critical" : 0.471,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "View and track pertinent metrics"
+                },
+                {
+                  "name" : "Returns Management",
+                  "value" : true,
+                  "id" : "fe78c200-411d-47c0-a700-1c29279ea31d",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Track and facilitate refunds/returns of products sold"
+                },
+                {
+                  "name" : "eCommerce Management",
+                  "value" : true,
+                  "id" : "3ca5a3b4-47fd-428c-9e6e-19fca8ca46dd",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 0.5,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Sell products online"
+                }
+              ]
+            },
+            {
+              "category_name" : "Retail POS System",
+              "category_features" : [
+                {
+                  "name" : "Barcode / Ticket Scanning",
+                  "value" : true,
+                  "id" : "62b94c17-29ff-47eb-92e1-242d6f3c04be",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "The ability to scan barcodes to ensure accurate pricing and label tracking "
+                },
+                {
+                  "name" : "Commission Management",
+                  "value" : true,
+                  "id" : "97cc20e3-cd5e-49e2-ae87-f63543fdfd5e",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Track employee commission potential and earnings"
+                },
+                {
+                  "name" : "Discount Management",
+                  "value" : true,
+                  "id" : "89d2f20f-1df8-4929-aef1-96784010c4f5",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Track products that are for sale at a reduced price"
+                },
+                {
+                  "name" : "Gift Card Management",
+                  "value" : true,
+                  "id" : "22b3c949-060c-43ef-8796-1e4f09a79c22",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Reward loyal customers with gift cards which they can redeem for special offers and loyalty bonus"
+                },
+                {
+                  "name" : "Inventory Management",
+                  "value" : true,
+                  "id" : "80f46038-6ae8-4725-8064-788b20380eeb",
+                  "avg_rating" : 4.6,
+                  "cnt_rating" : 11,
+                  "avg_importance" : 2.8,
+                  "cnt_importance" : 5,
+                  "cnt_time_used" : 5,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 5,
+                  "pct_time_critical" : 0.8,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Track and manage the quantity of resources on hand to maintain proper supply"
+                },
+                {
+                  "name" : "Loyalty Program",
+                  "value" : true,
+                  "id" : "6b34f1a7-a35e-4df8-8d9f-639803393208",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Provide customers with the ability to earn reward points for repeat purchases. Points can be used to get discounts on future purchases"
+                },
+                {
+                  "name" : "Pricing Management",
+                  "value" : true,
+                  "id" : "7bc60e62-da2d-4101-aa65-3098eaf60a9b",
+                  "avg_rating" : 4.3,
+                  "cnt_rating" : 6,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Develop, set, execute and measure prices as an ongoing process"
+                },
+                {
+                  "name" : "Returns Tracking",
+                  "value" : true,
+                  "id" : "fe6e65bf-3bc0-455d-a5c6-c6017a0dd499",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "See what items have been returned"
+                },
+                {
+                  "name" : "Sales Reports",
+                  "value" : true,
+                  "id" : "1d974136-6c30-4720-aa78-b6baee917e05",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 6,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "View and analyze the quantities of products being sold at any given period"
+                },
+                {
+                  "name" : "Touch Screen",
+                  "value" : true,
+                  "id" : "e9040a08-99e6-4a51-91f7-02fee6cc02ae",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Interact with the software by touching screens of the devices where it is installed"
+                },
+                {
+                  "name" : "eCommerce Management",
+                  "value" : true,
+                  "id" : "3ca5a3b4-47fd-428c-9e6e-19fca8ca46dd",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 0.5,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Sell products online"
+                }
+              ]
+            }
+          ],
+          "infographics" : [
+            {
+              "product_id" : 59952,
+              "html_name" : "point-of-sale-software",
+              "infographic_type" : "general_t20",
+              "infographic_title" : null
+            },
+            {
+              "product_id" : 59952,
+              "html_name" : "restaurant-pos-software",
+              "infographic_type" : "general_t20",
+              "infographic_title" : null
+            },
+            {
+              "product_id" : 59952,
+              "html_name" : "retail-management-systems-software",
+              "infographic_type" : "general_t20",
+              "infographic_title" : null
+            }
+          ],
+          "related_products" : [
+            {
+              "product_id" : 171165,
+              "seo_product_id" : 222623,
+              "seo_slug" : "PayPal-Here",
+              "vendor_name" : "PayPal",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/fa60654d-2574-4fd0-be82-997481934cda.png",
+              "rating" : 4.6,
+              "total_reviews" : 1938,
+              "slug" : "PayPal-Here-app",
+              "product_name" : "PayPal Zettle",
+              "short_desc" : "Accept card and contactless payments in person with our selection of chip, tap, and swipe readers and accessories.",
+              "features" : "Accept major credit and debit cards wherever you sell, send invoices, and record cash and check transactions.\r\n\r\nPay as you sell with no monthly fees, setup fees, cancellation fees, or processing minimums.",
+              "url" : "https://ad.doubleclick.net/ddm/clk/472677372;278585460;z"
+            },
+            {
+              "product_id" : 90708,
+              "seo_product_id" : 152321,
+              "seo_slug" : "Booker",
+              "vendor_name" : "Mindbody",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/6f087443-68f3-47d4-b588-4c36a2f0e620.png",
+              "rating" : 4.1,
+              "total_reviews" : 933,
+              "slug" : "Booker",
+              "product_name" : "Booker",
+              "short_desc" : "Bring smarter payments & convenience to your clients with Booker's powerful POS software, built to help run your spa or salon better.",
+              "features" : "**EMV Ready!** Make life more convenient for you & your clients with Booker's POS software. Booker syncs up your customer profiles, secures store payment information, and tracks customer purchases over time. Booker's all-in-one platform connects your online booking with your POS and makes for a powerful solution for service-based businesses. Join over 128,000 professionals who are taking advantage of Booker's business management solution to run their business better.",
+              "url" : "http://marketing.booker.com/booker-pos-capterra/?campaignID=7010e000001GAnP&referralSource=Paid+Search&primaryMarket=&utm_campaign=PPC+Capterra+Point+Of+Sale+Booker&utm_source=Capterra&utm_medium=ppc&utm_term="
+            },
+            {
+              "product_id" : 120491,
+              "seo_product_id" : 218718,
+              "seo_slug" : "Lightspeed-Retail",
+              "vendor_name" : "Lightspeed",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/b882c63b-4160-43c2-9157-5e57744113d9.png",
+              "rating" : 4.2,
+              "total_reviews" : 869,
+              "slug" : "Lightspeed-Retail",
+              "product_name" : "Lightspeed Retail",
+              "short_desc" : "This complete software enriches businesses with its intuitive cloud-based interface, advanced sale management and built-in reports.",
+              "features" : "Promo: Save up to $1,000 on our retail digital bundle. Future-proof your business with Lightspeed Retail and its features like contactless payments, omnichannel loyalty & advanced eCommerce solution. Lightspeed Retail simplifies the way you serve customers and manage all your store locations. Manage your inventory, keep tabs on your sales, manage your employees, process payments and create unforgettable shopping experiences that keep customers coming back again and again all from your iPad.",
+              "url" : "https://www.lightspeedhq.com/pos/retail/?utm_medium=cpc&utm_source=capterra&utm_campaign=Point%20of%20Sale&utm_content=default"
+            },
+            {
+              "product_id" : 221060,
+              "seo_product_id" : 212456,
+              "seo_slug" : "NetSuite",
+              "vendor_name" : "Oracle",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/70a405ae-214e-4735-8e1f-ce093f53f337.png",
+              "rating" : 4.1,
+              "total_reviews" : 856,
+              "slug" : "NetSuite",
+              "product_name" : "NetSuite",
+              "short_desc" : "NetSuite, the world's #1 cloud ERP, gives you the visibility and control you need to make smart decisions and grow with confidence.",
+              "features" : "NetSuite is an all-in-one cloud business management solution that helps more than 32,000 organizations operate more effectively by automating core processes and providing real-time visibility into operational and financial performance. With a single, integrated suite of applications for managing accounting, order processing, inventory management, production, and supply chain and warehouse operations, NetSuite gives companies clear visibility of their information and control of their business.",
+              "url" : "http://www.netsuite.com/portal/landing/netsuite-compare-page-capterra.html"
+            },
+            {
+              "product_id" : 135618,
+              "seo_product_id" : 135618,
+              "seo_slug" : "Odoo",
+              "vendor_name" : "Odoo",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/17efceca-38ea-4e7e-83dc-2cdd9fb0987f.png",
+              "rating" : 4.1,
+              "total_reviews" : 463,
+              "slug" : "Odoo",
+              "product_name" : "Odoo ",
+              "short_desc" : "Designed to help any restaurant or retail outlet run efficiently. It is easy-to-use and fully integrated with other Odoo applications.",
+              "features" : "Odoo Point of Sale features a user-friendly, intuitive interface that any restaurant, shop, or retail company can utilize with the greatest of ease. This solution is compatible with any hardware, works online/offline, and Odoo?s integrated inventory management enables real-time control and accurate forecasting to more efficiently manage procurement. Odoo Point of Sale also helps users reward their customers with custom loyalty programs, consisting of points, gifts, and even discounts.",
+              "url" : "https://www.odoo.com/page/point-of-sale-shop?utm_campaign=pos-shops&utm_medium=cpc-review&utm_source=capterra"
+            },
+            {
+              "product_id" : 143463,
+              "seo_product_id" : 212075,
+              "seo_slug" : "CAKE-POS",
+              "vendor_name" : "Mad Mobile",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/af4bffe0-1604-435d-a9ec-07f94ab9cbf1.jpeg",
+              "rating" : 4.6,
+              "total_reviews" : 455,
+              "slug" : "CAKE-Point-of-Sale",
+              "product_name" : "CAKE POS",
+              "short_desc" : "CAKE POS is designed to meet the unique needs of restaurants. A simple, intuitive and cost-friendly solution.",
+              "features" : "CAKE built its POS to meet the demands of Quick & Full Service restaurants. It is simple, intuitive, and cost-friendly.\r\n\r\nEasily handle Quick Service rush hours with line-busting OrderPads that control the flow of traffic and a customer-facing display for guests to privately pay, tip, and sign from their own screen. Supercharge your Full-Service POS with rich guest profiles and automatic table status updates. CAKE POS makes it easy for restaurants to get more done every day.",
+              "url" : "https://resources.madmobile.com/capterra_demo-retail"
+            },
+            {
+              "product_id" : 170272,
+              "seo_product_id" : 212046,
+              "seo_slug" : "Square-for-Retail",
+              "vendor_name" : "Square",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/c61072a1-e564-491c-be3e-3634c3e20e30.png",
+              "rating" : 4.7,
+              "total_reviews" : 435,
+              "slug" : "Square-for-Retail",
+              "product_name" : "Square for Retail",
+              "short_desc" : "Whether you sell online or in store, Square for Retail can work for your retail business no matter your size or style.",
+              "features" : "Square for Retail includes all the tools you need to run your retail business. With Square for Retail you can sell in-store and online seamlessly, with an easy-to-use point of sale, integrated payments, seamless online store, advanced inventory management, and powerful reporting. Offer contactless payments and in-store pickup, and manage all your orders. Integrated with Squares powerful ecosystem so you can customize your solution with everything from invoices to email marketing. Try it free!",
+              "url" : "https://squareup.com/t/f_online/d_affiliate/p_capterra/o_pointofsale/l_us/pr_retail_pos/?route=us/en/point-of-sale/retail"
+            },
+            {
+              "product_id" : 166759,
+              "seo_product_id" : 226864,
+              "seo_slug" : "Clover-",
+              "vendor_name" : "Fiserv",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/1c6efc6e-ee15-4382-b3ac-57d8b99866fd.png",
+              "rating" : 3.9,
+              "total_reviews" : 361,
+              "slug" : "Clover",
+              "product_name" : "Clover",
+              "short_desc" : "An all-in-one point-of-sale & payments system, Clover integrates the functions of a cash register, card payment terminal, & POS system.",
+              "features" : "Clover is an all-in-one point-of-sale and payments system that integrates the functions of a cash register, card payment terminal, and POS system. As a cloud-based platform supporting a suite of devices, Clover makes it easier and faster than ever to run your business. Built-in capabilities allow you to simplify daily tasks, speed up transactions, engage customers, and accept the latest payments effortlessly. Clover also offers a robust App Market, with 300+ apps available and growing.",
+              "url" : "https://www.clover.com/capterra?utm_campaign=cbs_cpl_capterra&utm_medium=CPL"
+            },
+            {
+              "product_id" : 140677,
+              "seo_product_id" : 152619,
+              "seo_slug" : "TouchBistro",
+              "vendor_name" : "TouchBistro",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/5f838c6d-a3b0-4e03-b506-6dd766e34bd0.png",
+              "rating" : 4.0,
+              "total_reviews" : 346,
+              "slug" : "TouchBistro",
+              "product_name" : "TouchBistro",
+              "short_desc" : "TouchBistro is an all-in-one POS and restaurant management system that makes running a restaurant easier, while saving time and money. ",
+              "features" : "TouchBistro is an all-in-one POS and restaurant management system that makes running a restaurant easier. Built to meet the unique needs of the restaurant industry, TouchBistro is fast, reliable, and easy to use, and has all of the features restaurateurs need to increase sales, deliver a great guest experience, and save both time and money. By pairing innovative restaurant technology and dedication to customer support and success, TouchBistro has powered more than 29,000 restaurants globally! \n",
+              "url" : "https://info.gartnerdigitalmarkets.com/touchbistro-gdm-lp/?category=pos"
+            },
+            {
+              "product_id" : 155256,
+              "seo_product_id" : 212494,
+              "seo_slug" : "talech",
+              "vendor_name" : "talech",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/1a213492-61ac-4d69-a4de-dc673691ed10.png",
+              "rating" : 3.9,
+              "total_reviews" : 317,
+              "slug" : "talech",
+              "product_name" : "talech",
+              "short_desc" : "talech is a cloud-based, iPad point-of-sale software solution for restaurants/bars, retail stores, salons/spas and other services",
+              "features" : "talech is a POS software designed to help restaurant, retail and service businesses simplify operations & uncover insights to make better decisions. With talech, merchants can do more than take orders and process payments. They can track inventory, customize orders, apply discounts, manage employees, and build customer relationships. With real-time reporting & analytics, merchants can run reports to understand sales trends, employee performance, and customer behavior to make informed decisions.",
+              "url" : "https://pos.talech.com/restaurant-pos-online-capterra/?source=capterra&directory=POS"
+            },
+            {
+              "product_id" : 136301,
+              "seo_product_id" : 211981,
+              "seo_slug" : "Toast-POS",
+              "vendor_name" : "Toast",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/6e78f6b7-9575-414b-89f5-46f953ad9cc1.png",
+              "rating" : 4.1,
+              "total_reviews" : 315,
+              "slug" : "Toast-POS",
+              "product_name" : "Toast POS",
+              "short_desc" : "Toast is an all-in-one POS and restaurant management system built to improve efficiency and dramatically cut costs.",
+              "features" : "Toast is an all-in-one POS and restaurant management system. Built specifically for foodservice, Toast is remarkably easy to use. Toast customers can easily fulfill orders, update online and in-house menus, and manage staff payroll. With online ordering, advanced real-time reporting and loyalty programs built in, Toast eliminates the need to juggle multiple vendors and dramatically cuts costs.",
+              "url" : "https://pos.toasttab.com/lp/gartner-1?source=tpos_acq_paidxxx_cousa_revca_wmql_profilepag&utm_medium=paid&utm_source=revca&utm_campaign=pos"
+            }
+          ],
+          "similar_products" : [
+            {
+              "product_id" : 120491,
+              "seo_product_id" : 218718,
+              "seo_slug" : "Lightspeed-Retail",
+              "vendor_name" : "Lightspeed",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/b882c63b-4160-43c2-9157-5e57744113d9.png",
+              "rating" : 4.2,
+              "total_reviews" : 869,
+              "slug" : "Lightspeed-Retail",
+              "product_name" : "Lightspeed Retail",
+              "short_desc" : "This complete software enriches businesses with its intuitive cloud-based interface, advanced sale management and built-in reports.",
+              "features" : "Promo: Save up to $1,000 on our retail digital bundle. Future-proof your business with Lightspeed Retail and its features like contactless payments, omnichannel loyalty & advanced eCommerce solution. Lightspeed Retail simplifies the way you serve customers and manage all your store locations. Manage your inventory, keep tabs on your sales, manage your employees, process payments and create unforgettable shopping experiences that keep customers coming back again and again all from your iPad.",
+              "url" : "https://www.lightspeedhq.com/pos/retail/get-quote/?utm_medium=cpc&utm_source=capterra&utm_campaign=Lightspeed%20Retail&utm_content=default"
+            },
+            {
+              "product_id" : 140893,
+              "seo_product_id" : 218722,
+              "seo_slug" : "Rain-Point-of-Sale",
+              "vendor_name" : "Rain Retail Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/05067939-8101-46ff-9dc0-403416682a3d.png",
+              "rating" : 4.3,
+              "total_reviews" : 120,
+              "slug" : "Rain-Point-of-Sale",
+              "product_name" : "Rain POS",
+              "short_desc" : "The #1 POS system for Quilt, Music, Outdoor, Scuba, and Craft shops. Manage your inventory, customers, and marketing all in one place.",
+              "features" : "The #1 POS system for Quilt, Music, Outdoor, Scuba, and Craft shops. With Rain, your inventory is always up-to-date with what you sell online and in your store.  The easy-to-use interface allows you to manage customers, classes, equipment repairs, purchase orders, reports, calendar events, Quickbooks integration, and more.  \r\n\r\nRain's marketing suite will keep you in close contact with your customers through email marketing and text message marketing. \r\n\r\nAll customers get unlimited support.",
+              "url" : "https://retail.rainpos.com/capterra-2022/"
+            },
+            {
+              "product_id" : 136301,
+              "seo_product_id" : 211981,
+              "seo_slug" : "Toast-POS",
+              "vendor_name" : "Toast",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/6e78f6b7-9575-414b-89f5-46f953ad9cc1.png",
+              "rating" : 4.1,
+              "total_reviews" : 315,
+              "slug" : "Toast-POS",
+              "product_name" : "Toast POS",
+              "short_desc" : "Toast is an all-in-one POS and restaurant management system built to improve efficiency and dramatically cut costs.",
+              "features" : "Toast is an all-in-one POS and restaurant management system. Built specifically for foodservice, Toast is remarkably easy to use. Toast customers can easily fulfill orders, update online and in-house menus, and manage staff payroll. With online ordering, advanced real-time reporting and loyalty programs built in, Toast eliminates the need to juggle multiple vendors and dramatically cuts costs.",
+              "url" : "https://pos.toasttab.com/lp/gartner-1?source=tpos_acq_paidxxx_cousa_revca_wmql_profilepag&utm_medium=paid&utm_source=revca&utm_campaign=profilepage"
+            },
+            {
+              "product_id" : 218533,
+              "seo_product_id" : 218533,
+              "seo_slug" : "RockSolid-MAX",
+              "vendor_name" : "ECI Software Solutions",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/ef2a9c02-0b5b-4db3-a251-04acaa3e4356.png",
+              "rating" : 3.8,
+              "total_reviews" : 38,
+              "slug" : "RockSolid-MAX",
+              "product_name" : "RockSolid MAX",
+              "short_desc" : "RockSolid MAX integrated point of sale is easy to use and helps retailers grow their business at one affordable monthly price. ",
+              "features" : "RockSolid MAX software includes features home and building supply retailers need to grow their business at one affordable monthly price. With easy-to-use integrated point of sale, purchasing, inventory management, and accounts receivable, your business will operate efficiently and profitably.  With document management spend time with customers instead of digging through paper. Plus, its cloud-based so you can access the system from anywhere and know your data is always backed up and protected.",
+              "url" : "https://www.ecisolutions.com/ppc-landing/rocksolid-max-demo-ppc/?utm_source=Capterra&utm_medium=ppc-paid-listing&utm_campaign=general"
+            },
+            {
+              "product_id" : 186493,
+              "seo_product_id" : 220795,
+              "seo_slug" : "Infrasys-Cloud",
+              "vendor_name" : "A Shiji Group Brand",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/a604af28-7219-498a-a257-1fe5d08ad45f.png",
+              "rating" : 4.7,
+              "total_reviews" : 15,
+              "slug" : "Infrasys",
+              "product_name" : "Infrasys Cloud POS",
+              "short_desc" : "With more than 7,000 installations, Infrasys provides the most comprehensive Cloud POS solution for hotel and restaurant operators.",
+              "features" : "Infrasys Cloud point-of-sale (POS) is an easy-to-use enterprise-level software solution designed and deployed with global hotel chains. Infrasys is customizable and can run on any operating system and hardware device. Built on an open platform, Infrasys is designed to be fast, reliable, and secure, and is bolstered by local 24/7 technical support teams. Integrated and multi-lingual, Infrasys' intuitive user experience provides the best solutions for any scale hotel and restaurant chains.",
+              "url" : "https://infrasys.shijigroup.com/demo-cloud-pos?utm_medium=cpc&utm_campaign=rdemo"
+            },
+            {
+              "product_id" : 202395,
+              "seo_product_id" : 88428,
+              "seo_slug" : "Epicor-Retail",
+              "vendor_name" : "Epicor Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/589de47b-703b-4138-81ee-2261bd325886.png",
+              "rating" : 4.0,
+              "total_reviews" : 5,
+              "slug" : "Epicor-for-Retail4",
+              "product_name" : "Epicor for Retail",
+              "short_desc" : "POS & retail management solutions, back-office, eCommerce, contactless transactions, payment processing, analytics & more",
+              "features" : "Best for independent retailers, Epicor Retail Solutions drive revenue for retailers in nearly 8,000 locations. Our POS and retail solutions provide retailers a secure, all-in-one system to manage their entire business. From contactless transactions to back-office functionality and analytics, Epicor gives retailers the tools and real-time data to accelerate retail growth. With fully hosted cloud and on-premise solutions, Epicor has you covered. ",
+              "url" : "https://www.epicor.com/en-us/offers/epicor-retail-cloud-capterra?utm_source=capterra&utm_medium=paidsearch&utm_content=webpage&utm_campaign=7013x000002T2zl"
+            },
+            {
+              "product_id" : 202814,
+              "seo_product_id" : 227106,
+              "seo_slug" : "Oracle-MICROS-Simphony-POS",
+              "vendor_name" : "Oracle",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/57af6bf5-4eb0-4fc5-ae4a-617a707aeb3a.png",
+              "rating" : 4.4,
+              "total_reviews" : 21,
+              "slug" : "Oracle-MICROS-Simphony",
+              "product_name" : "Simphony POS",
+              "short_desc" : "Oracle Simphony POS is the all-in-one Point of Sale built for all restaurants. Upgrade your POS hardware for $1.",
+              "features" : "Oracle Simphony POS is the complete restaurant point of sale. Our cloud-based POS connects every aspect of your operations so you can easily manage online orders, kitchen ops, inventory, menus, delivery, loyalty & more. Real-time analytics are included so you always have a pulse on sales, costs & staff performance. Simphony's open API & extensive cloud marketplace gives you unlimited flexibility & scale. Upgrade your POS hardware for $1.\n",
+              "url" : "https://www.oracle.com/industries/food-beverage/restaurant-pos-systems/simphony-pos/?source=:ad:dd:op:dg:a_nas::RC_WWMK220524P00029:WD22_GBU_FB_CP507_M0601_SP070YP09_DP2429_AI93_RO1734&SC=:ad:dd:op:dg:a_nas::RC_WWMK220524P00029:WD22_GBU_FB_CP507_M0601_SP070YP09_DP2429_AI93_RO1734"
+            },
+            {
+              "product_id" : 170272,
+              "seo_product_id" : 212046,
+              "seo_slug" : "Square-for-Retail",
+              "vendor_name" : "Square",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/c61072a1-e564-491c-be3e-3634c3e20e30.png",
+              "rating" : 4.7,
+              "total_reviews" : 435,
+              "slug" : "Square-for-Retail",
+              "product_name" : "Square for Retail",
+              "short_desc" : "Whether you sell online or in store, Square for Retail can work for your retail business no matter your size or style.",
+              "features" : "Square for Retail includes all the tools you need to run your retail business. With Square for Retail you can sell in-store and online seamlessly, with an easy-to-use point of sale, integrated payments, seamless online store, advanced inventory management, and powerful reporting. Offer contactless payments and in-store pickup, and manage all your orders. Integrated with Squares powerful ecosystem so you can customize your solution with everything from invoices to email marketing. Try it free!",
+              "url" : "https://squareup.com/t/f_online/d_affiliate/p_capterra/l_us/pr_retail_pos/?route=us/en/point-of-sale/retail"
+            },
+            {
+              "product_id" : 155794,
+              "seo_product_id" : 155794,
+              "seo_slug" : "Paladin-POS",
+              "vendor_name" : "Paladin Data",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/b4effcae-5505-4f20-85ab-b65ac52a7aa4.png",
+              "rating" : 4.6,
+              "total_reviews" : 21,
+              "slug" : "Paladin-POS",
+              "product_name" : "Paladin POS",
+              "short_desc" : "Paladin's Powerfully Simple and Proven Point of Sale and Inventory Management software helps independent retail businesses run better.",
+              "features" : "Paladin Point of Sale and Inventory Management\n\nFor over 40 years, Paladin Data Corp. has been helping independent retail businesses run better. The hybrid retail system automates ordering, tracks inventory and provides detailed reports along with hundreds of integrations to enable the tools you need to succeed in managing your business more efficiently.\n\nLearn more about Paladin's intuitive interface, easy set-up process, low monthly payments (no long-term contracts) and highly rated support. ",
+              "url" : "https://get.paladinpointofsale.com/free-quote/"
+            },
+            {
+              "product_id" : 218534,
+              "seo_product_id" : 218534,
+              "seo_slug" : "Spruce",
+              "vendor_name" : "ECI Software Solutions",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/32dc9b52-8a33-4ada-8e3f-9d51c5e84989.png",
+              "rating" : 3.5,
+              "total_reviews" : 22,
+              "slug" : "Spruce",
+              "product_name" : "Spruce",
+              "short_desc" : "Spruce software is easy to use and completely integrated, helping building suppliers streamline processes and reduce costly errors.",
+              "features" : "Spruce provides easy-to-use business management software that helps home and building supply businesses improve productivity and control costs. With comprehensive document management, you can focus on growing your business instead of digging through piles of paper. Advanced reporting and analytics help you stay informed and make decisions based on facts. Because Spruce is cloud based, you can access the system from anywhere and rest easy knowing your data is always backed up and protected. ",
+              "url" : "https://www.ecisolutions.com/ppc-landing/spruce-demo-ppc/?utm_source=Capterra&utm_medium=ppc-paid-listing&utm_campaign=general"
+            },
+            {
+              "product_id" : 152638,
+              "seo_product_id" : 218526,
+              "seo_slug" : "Epos-Now",
+              "vendor_name" : "Epos Now",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/0fdb9057-0bab-40d0-9ffa-79ae329ec960.png",
+              "rating" : 3.6,
+              "total_reviews" : 304,
+              "slug" : "Epos-Now",
+              "product_name" : "Epos Now",
+              "short_desc" : "Simple, secure, and powerful. Take control of your business with our award-winning POS systems. ",
+              "features" : "Serve customers, take payments, and run your entire business from a single POS system.\n\nHardware and software designed to work together in complete harmony, worth game-changing features all within a budget that suits you.\n\nSign in from anywhere at any time. Get access to reports and tailored insights, and make improvements to your business in real-time.\n\nScales with your business and expands as you grow. Add devices, accessories and over 100+ integrations to take you to the next level.",
+              "url" : "http://www.eposnow.com/uk/?utm_source=capterra&utm_medium=capterra"
+            },
+            {
+              "product_id" : 169011,
+              "seo_product_id" : 267036,
+              "seo_slug" : "Native-Omnichannel-Solution-for-Magento-Retailers",
+              "vendor_name" : "Magestore",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/a2016280-4c3d-42d3-8d05-caed598f47a2.png",
+              "rating" : 4.5,
+              "total_reviews" : 8,
+              "slug" : "Native-Omnichannel-Solution-for-Magento-Retailers",
+              "product_name" : "Magestore",
+              "short_desc" : "The world's #1 POS for Magento, Magestore streamlines operations by syncing data across website & offline stores in real time.",
+              "features" : "Scalable and customizable point of sale solution, dedicated to Magento merchants. Magestore POS reduces manual work and data inaccuracy so you can streamline retail operations and deliver seamless shopping experience. Sync data between your Magento website and brick-and-mortar stores in real time and bring key business functions into one platform. Trusted by an estimated 10,000 companies across the globe to sell, manage, and scale their business.",
+              "url" : "https://www.magestore.com/magestore-pos-introduction/"
+            },
+            {
+              "product_id" : 212238,
+              "seo_product_id" : 212238,
+              "seo_slug" : "Casino-Hospitality-POS-System",
+              "vendor_name" : "Signature Systems",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/511a6485-140f-4a1c-9baf-5cbfd0fcc070.png",
+              "rating" : 0.0,
+              "total_reviews" : 0,
+              "slug" : "Casino-Hospitality-POS-System",
+              "product_name" : "Casino & Hospitality POS System",
+              "short_desc" : "Specifically designed for casino F&B operations, SSI POS is a custom solution that includes seamless integrations, RESTful APIs & more!",
+              "features" : "For 34+ years, SSI POS has been the top rated system for restaurants and retail. We entered the casino vertical to disrupt the status quo through all-in-one solutions, all-in-house development & support and all-in-accountability. With native & seamless integrations, RESTful APIs, a responsive 24x7x365 Help Desk, and essentials such as an Enterprise Reporting mobile app, In-Place Dining app, contactless functionality, mobile POS, kiosks, holistic security & more, SSI is an innovative POS leader. ",
+              "url" : "https://info.gartnerdigitalmarkets.com/ssipos-gdm-lp/"
+            }
+          ],
+          "related_categories" : [
+            {
+              "functional_group" : "ps",
+              "long_name" : "Garden Center",
+              "html_name" : "garden-center-software",
+              "link_name" : "garden-center",
+              "product_count" : 12,
+              "meta_description" : "Find and compare top Garden Center software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Garden Center tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/garden-center-software/\">Garden Center software</a> helps run operations of retail and wholesale plant nurseries and greenhouse growers. It includes point of sale solutions, inventory management systems and order tracking and fulfillment applications. <a href=\"//garden-center-software/\">Garden Center software</a> is related to <a href=\"/point-of-sale-software\">Point of Sale software</a>, <a href=\"/florist-software\">Florist software</a>, <a href=\"/retail-management-systems-software\">Retail Management Systems</a> and <a href=\"/farm-management-software\">Farm Management software</a>."
+            },
+            {
+              "functional_group" : "ps",
+              "long_name" : "iPad POS",
+              "html_name" : "ipad-pos-software",
+              "link_name" : "ipad-pos",
+              "product_count" : null,
+              "meta_description" : "Find and compare top iPad POS software on Capterra, with our free and interactive tool. Quickly browse through hundreds of iPad POS tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href='/ipad-pos-software\">iPad POS software</a> helps restaurants, bars, and retailers with payment processing, orders, and inventory management using mobile tablets. These mobile device applications often provide detailed sales reports, promotion management, and suggesting selling to help users increase sales. iPad POS software is closely related to <a href=\"/point-of-sale-software\">Point of Sale software</a>, <a href=\"/bar-pos-software\">Bar POS software</a>, and <a href=\"/restaurant-pos-software\">Restaurant POS software</a>."
+            },
+            {
+              "functional_group" : "ps",
+              "long_name" : "Jewelry Store Management",
+              "html_name" : "jewelry-store-management-software",
+              "link_name" : "jewelry-store-management",
+              "product_count" : 62,
+              "meta_description" : "Find and compare top Jewelry Store Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Jewelry Store Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/jewelry-store-management-software\">Jewelry Store Management software</a> provides tools for all aspects of jewelry store management including inventory, appraisals, scheduling, customer profiles, invoicing, POS, barcoding, imaging, and accounting.  This software may be used by jewelry retailers, wholesalers, and creators to manage all business aspects from one interface.  <a href=\"/jewelry-store-management-software\">Jewelry Store Management software</a> is related to <a href=\"/retail-management-systems-software\">Retail Management Systems software</a>, <a href=\"/point-of-sale-software\">Point of Sale software</a>, and <a href=\"/inventory-control-software\">Inventory Control software</a>.  "
+            },
+            {
+              "functional_group" : "ps",
+              "long_name" : "Payment Processing",
+              "html_name" : "payment-processing-software",
+              "link_name" : "payment-processing",
+              "product_count" : 85,
+              "meta_description" : "Find and compare top Payment Processing software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Payment Processing tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/payment-processing-software\">Payment Processing software</a> enables organizations of varying sizes to process credit card payments via either the internet or traditional point of sale (POS) interfaces.  Credit Card Processing applications can be found as both hosted and desk-top platforms.  Typical features of Credit Card Processing solutions include payment processing, credit card authorizations, settlements and administrative functions.  <a href=\"/payment-processing-software\">Payment Processing software</a> is related to <a href=\"/banking-systems-software\">Banking Systems software</a> and <a href=\"/point-of-sale-software\">Point of Sale (POS) software</a>."
+            },
+            {
+              "functional_group" : "ps",
+              "long_name" : "Restaurant POS",
+              "html_name" : "restaurant-pos-software",
+              "link_name" : "restaurant-pos",
+              "product_count" : 57,
+              "meta_description" : "Find and compare top Restaurant POS software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Restaurant POS tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/restaurant-pos-software\">Restaurant POS software</a> offers point of sale solutions specifically for the restaurant and bar industries.  This type of software provides ordering, billing, reporting, accounting, table tracking, and receipt printing capabilities for restaurants and bars.  Hardware such as computers, monitors and printers is often included in the purchase of POS systems.  <a href=\"/restaurant-pos-software\">Restaurant POS software</a>  is related to <a href=\"/point-of-sale-software\">POS software</a> and <a href=\"/restaurant-management-software\">Restaurant Management software</a>."
+            },
+            {
+              "functional_group" : "ps",
+              "long_name" : "Retail Management Systems",
+              "html_name" : "retail-management-systems-software",
+              "link_name" : "retail-management-systems",
+              "product_count" : 136,
+              "meta_description" : "Find and compare top Retail Management systems on Capterra, with our free and interactive tool. Quickly browse through hundreds of Retail Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/retail-management-systems-software>Retail Management Systems software</a> manages financial reporting, accounting, and operations of retail stores by integrating core business processes such as <a href=\"/point-of-sale-software\">point of sale (POS)</a>, <a href=\"/customer-relationship-management-software\">customer relationship management (CRM)</a>, <a href=\"/inventory-management-software\">inventory management</a>, <a href=\"/accounting-software\">accounting</a>, <a href=\"/human-resource-software\">human resources</a>, marketing and <a href=\"/ecommerce-software\">eCommerce</a>.  By implementing a Retail Management System, organizations can increase sales, decrease costs, and maximize their competitive advantage. These applications facilitate the distribution of key data throughout an enterprise and provide the infrastructure for accurate sales reporting and revenue forecasting."
+            },
+            {
+              "functional_group" : "ps",
+              "long_name" : "Retail POS System",
+              "html_name" : "retail-pos-system-software",
+              "link_name" : "retail-pos-system",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Retail POS systems on Capterra, with our free and interactive tool. Quickly browse through hundreds of Retail POS tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "Retail POS Systems are essential in day to day operations of retail stores since they automate cash register and inventory tracking."
+            },
+            {
+              "functional_group" : "ps",
+              "long_name" : "Salon",
+              "html_name" : "salon-software",
+              "link_name" : "salon",
+              "product_count" : 139,
+              "meta_description" : "Find and compare top Salon software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Salon tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/salon-software>Salon software</a> automates and manages salon and spa operations.  Salon solutions typically feature easy integration with cash registers, bar code readers and other point of sale hardware.  Hair salons, tanning salons, beauty parlors, nail salons, massage therapists and day spas typically use these applications to improve efficiency and add value to a wide variety of business processes including: appointment scheduling, online calendar, client management, marketing, employee data, commission calculation, <a href=\"/inventory-management-software\">inventory management</a>, <a href=\"/payroll-software\">payroll</a>, <a href=\"/point-of-sale-software\">point of sale</a> and other features."
+            },
+            {
+              "functional_group" : "ps",
+              "long_name" : "Spa",
+              "html_name" : "spa-software",
+              "link_name" : "spa",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Spa software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Spa tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/spa-software>Spa software</a> automates all aspects of business management for various types of spas, including day spas. Software functionality typically includes inventory management, appointment scheduling, gift card processing, point of sale, and other retail customer service oriented capabilities. <a href=/spa-software>Spa software</a> is related to <a href=/medical-spa-software>Medical Spa software</a> and <a href=/salon-software>Salon Software</a>"
+            }
+          ],
+          "is_upgraded" : true,
+          "enabled" : true,
+          "filter_options" : {
+            "users" : 7,
+            "platform" : 61,
+            "pricing_options" : 2,
+            "category_related_features" : [
+              19637,
+              19640,
+              19643,
+              19646,
+              19647,
+              19649,
+              19652,
+              25141,
+              25202,
+              25203,
+              30035,
+              30267,
+              30268,
+              32062,
+              39134,
+              39135,
+              39136,
+              40200,
+              40201,
+              50505,
+              50508,
+              50510,
+              50512,
+              50516,
+              50517,
+              50518,
+              50521,
+              50523,
+              50526,
+              50528,
+              50529,
+              50535
+            ],
+            "employees" : 15
+          },
+          "sort_options" : {
+            "sort_review_rating" : 4.5545783042907715,
+            "most_recent_review" : "2022-07-28T21:07:47Z"
+          },
+          "countries" : "US",
+          "features_tokenized_text" : "barcode_/_ticket_scanning commission_management customer_accounts discount_management ecommerce_management electronic_signature gift_card_management loyalty_program multi-location restaurant_pos retail_pos returns_management",
+          "platform_tokenized_text" : "cloud,saas,web-based desktopwindows desktoplinux on-premisewindows on-premiselinux",
+          "users_tokenized_text" : "1 2-10 11-50",
+          "pricing_tokenized_text" : "monthlysubscription",
+          "badges" : [
+            {
+              "id" : 2138,
+              "category_short_name" : "Retail Management Systems",
+              "category_html_name" : "retail-management-systems-software",
+              "published_year" : 2020,
+              "badge_type" : "Top 20"
+            },
+            {
+              "id" : 2086,
+              "category_short_name" : "Restaurant POS",
+              "category_html_name" : "restaurant-pos-software",
+              "published_year" : 2020,
+              "badge_type" : "Top 20"
+            },
+            {
+              "id" : 2083,
+              "category_short_name" : "Point of Sale",
+              "category_html_name" : "point-of-sale-software",
+              "published_year" : 2020,
+              "badge_type" : "Top 20"
+            }
+          ],
+          "bid_spot_us" : 0.0,
+          "currency_code" : "USD",
+          "currency_symbol" : "$",
+          "credit_card_required" : null,
+          "licensing_model" : null,
+          "open_api_offered" : "Unverified",
+          "mobile_urls" : [ ],
+          "integrations" : [
+            {
+              "id" : "fb23d4b4-b33d-4b66-9bba-a6d200b2e0b2",
+              "name" : "BigCommerce"
+            },
+            {
+              "id" : "ed67881a-7782-4957-ad5d-a6d200b601d6",
+              "name" : "QuickBooks"
+            },
+            {
+              "id" : "ff8cc380-8bfb-4161-b5d9-a6d200b68846",
+              "name" : "Shopify"
+            },
+            {
+              "id" : "167b3492-24f8-4060-aa97-a6d200b77ff8",
+              "name" : "WooCommerce"
+            },
+            {
+              "id" : "14f66ecf-7da3-4633-b5e6-a6d200b5007d",
+              "name" : "Adobe Commerce"
+            }
+          ],
+          "supported_countries" : [
+            {
+              "id" : 237,
+              "code" : "US",
+              "name" : "United States of America"
+            }
+          ],
+          "supported_languages" : [
+            {
+              "id" : 152,
+              "code" : "en",
+              "name" : "English",
+              "location" : null
+            }
+          ],
+          "target_industries" : [
+            {
+              "id" : 130,
+              "code" : "20",
+              "name" : "Sporting Goods"
+            },
+            {
+              "id" : 133,
+              "code" : "22",
+              "name" : "Supermarkets"
+            },
+            {
+              "id" : 27,
+              "code" : "24",
+              "name" : "Consumer Electronics"
+            },
+            {
+              "id" : 42,
+              "code" : "63",
+              "name" : "Farming"
+            },
+            {
+              "id" : 98,
+              "code" : "57",
+              "name" : "Oil & Energy"
+            },
+            {
+              "id" : 58,
+              "code" : "31",
+              "name" : "Hospitality"
+            },
+            {
+              "id" : 137,
+              "code" : "21",
+              "name" : "Tobacco"
+            },
+            {
+              "id" : 14,
+              "code" : "49",
+              "name" : "Building Materials"
+            },
+            {
+              "id" : 6,
+              "code" : "19",
+              "name" : "Apparel & Fashion"
+            },
+            {
+              "id" : 8,
+              "code" : "111",
+              "name" : "Arts and Crafts"
+            },
+            {
+              "id" : 79,
+              "code" : "143",
+              "name" : "Luxury Goods & Jewelry"
+            },
+            {
+              "id" : 28,
+              "code" : "25",
+              "name" : "Consumer Goods"
+            },
+            {
+              "id" : 46,
+              "code" : "34",
+              "name" : "Food & Beverages"
+            },
+            {
+              "id" : 126,
+              "code" : "27",
+              "name" : "Retail"
+            },
+            {
+              "id" : 125,
+              "code" : "32",
+              "name" : "Restaurants"
+            },
+            {
+              "id" : 145,
+              "code" : "142",
+              "name" : "Wine and Spirits"
+            }
+          ],
+          "price_range_id" : 1,
+          "aggregated_review_ratings" : {
+            "industry" : {
+              "35" : 5.0,
+              "53" : 5.0,
+              "22" : 3.0,
+              "138" : 3.0,
+              "115" : 4.0,
+              "48" : 4.0,
+              "142" : 5.0,
+              "112" : 5.0,
+              "100" : 4.6,
+              "118" : 5.0,
+              "21" : 4.67,
+              "84" : 5.0,
+              "25" : 4.0,
+              "75" : 5.0,
+              "63" : 5.0,
+              "111" : 5.0,
+              "37" : 4.0,
+              "34" : 4.88,
+              "23" : 5.0,
+              "14" : 5.0,
+              "69" : 4.5,
+              "93" : 4.0,
+              "24" : 5.0,
+              "20" : 4.0,
+              "4" : 4.0,
+              "19" : 5.0,
+              "86" : 5.0,
+              "27" : 4.51,
+              "96" : 4.5,
+              "31" : 5.0,
+              "43" : 4.0,
+              "32" : 4.67,
+              "26" : 5.0
+            },
+            "company_size" : {
+              "Self-employed" : 4.67,
+              "501-1000 employees" : 5.0,
+              "1001-5000 employees" : 4.0,
+              "10,001+ employees" : 4.67,
+              "201-500 employees" : 5.0,
+              "11-50 employees" : 4.44,
+              "1-10 employees" : 4.58,
+              "51-200 employees" : 4.67
+            }
+          },
+          "vct_enabled" : false,
+          "pricing_plans" : [
+            {
+              "created_on_utc" : "2020-02-25T21:46:13Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Flex Monthly",
+              "description" : "It requires Wordplay Process Agreement. Lifetime warranty is available.",
+              "display_order" : 1,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 99.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "24/7 Support"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "Cash Drawer"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Chip Card Reader"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "POS Software"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 5,
+                  "name" : "Receipt Printer"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 6,
+                  "name" : "Scanner"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 7,
+                  "name" : "Touch PC"
+                }
+              ]
+            },
+            {
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Freedom",
+              "description" : "It requires Wordplay Process Agreement and offers a two-year warranty. It comes with a free chip card reader. 2-year warranty is available.",
+              "display_order" : 2,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 999.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : "One Time",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "24/7 Support"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "Cash Drawer"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Chip Card Reader"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "POS Software"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 5,
+                  "name" : "Receipt Printer"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 6,
+                  "name" : "Scanner"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 7,
+                  "name" : "Touch PC"
+                }
+              ]
+            }
+          ],
+          "discount_types" : [ ]
+        }
+      },
+      {
+        "_index" : "product_listings_main_data_upc_vt20220920_043802_utc",
+        "_type" : "_doc",
+        "_id" : "223355_bakery",
+        "_score" : 10.277467,
+        "_source" : {
+          "product_id" : 223355,
+          "seo_product_id" : 59952,
+          "seo_slug" : "POS-System",
+          "product_name" : "POS Nation for Retail",
+          "upc_product_uuid" : "dcc230d6-0b84-4298-a20f-ab166ea5742f",
+          "old_product_ids" : [
+            59952,
+            83592,
+            83591,
+            70289
+          ],
+          "product_url" : "https://www.posnation.com/schedule-demo?utm_source=Capterra&utm_medium=Paid&utm_campaign=Demo",
+          "product_slug" : "CAP-Retail-Point-of-Sale",
+          "former_name" : "CAP Retail Point of Sale",
+          "logo_filepath" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d50ad0f1-0b76-403d-9de6-5f4b5bf3db12.png",
+          "vendor" : {
+            "vendor_id" : 2004160,
+            "vendor_name" : "POS Nation",
+            "vendor_url" : "http://www.posnation.com",
+            "year_founded" : 2001,
+            "location" : "United States",
+            "vendor_opted_out_of_reviews" : false,
+            "is_opted_out_of_reviews" : true,
+            "is_hit_limit" : false,
+            "enabled" : true,
+            "has_vendor_level_page" : false,
+            "slug" : null,
+            "vendor_page" : false,
+            "paused_campaign" : false
+          },
+          "category_short_name" : "bakery",
+          "category_html_name" : "bakery-software",
+          "category" : {
+            "id" : 30529,
+            "short_name" : "bakery",
+            "long_name" : "Bakery",
+            "html_name" : "bakery-software",
+            "enabled" : true
+          },
+          "best_category" : "bakery",
+          "is_best_category" : true,
+          "highest_cpc_category" : null,
+          "is_highest_cpc_category" : false,
+          "short_desc" : "POS Nation offers an all-in-one point of sale solution to streamline your small or medium-sized retail business.",
+          "long_desc" : "POS Nation for Retail offers a complete point of sale solution to streamline your small or medium-sized retail business. \n\nWe support retailers with a turnkey solution so you have the hardware, software, and payment processing needed to improve checkout, create happier customers, and grow your business. \n\nPOS Nation's 10,000+ customers are backed by our dedicated customer service team, including 24/7 US-based support.",
+          "rating" : 4.6,
+          "number_of_reviews" : 99,
+          "total_reviews" : 0,
+          "ease_of_use_rating" : 4.6,
+          "customer_support_rating" : 4.8,
+          "functionality_rating" : 4.5,
+          "value_for_money_rating" : 4.6,
+          "recommendation_rating" : 8.6,
+          "pricing_enabled" : true,
+          "pricing" : 99.0,
+          "is_per_user" : false,
+          "fee_schedule" : "Per-Month",
+          "pricing_model" : "Flat Rate",
+          "pricing_details" : "-Pay Monthly Plan: $99/month-\r\nPOS software, touch PC, receipt printer, scanner, cash drawer, chip card reader\r\nPay monthly for your POS software and hardware\r\n24/7 unlimited support and training\r\nLifetime warranty\r\nRequires Worldpay Processing Agreement\r\nCancel at any time by simply returning your hardware\r\n\r\n-Upfront Payment: $999/one time-\r\nPOS software, touch PC, receipt printer, scanner, cash drawer, chip card reader\r\nYou own the POS software and hardware; no required ongoing fees or payments\r\n90 days of free business hours support\r\nTwo-year warranty\r\nFree chip card reader with Worldpay processing",
+          "pricing_created_on" : "2020-02-25T21:46:13Z",
+          "pricing_modified_on" : "2022-06-23T14:42:33Z",
+          "pricing_created_by" : null,
+          "pricing_modified_by" : null,
+          "pricing_vendor_pricing_url" : null,
+          "free_trial" : false,
+          "free_version" : false,
+          "target_audience" : "Small business owners in a variety of industries, including 10,000 retailers in liquor, tobacco, grocery stores, markets, garden center, hardware, lawn care, apparel, and hardware stores.",
+          "target_users" : [
+            "1",
+            "2-10",
+            "11-50"
+          ],
+          "platform" : [
+            {
+              "enabled" : true,
+              "name" : "Cloud, SaaS, Web-Based"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Mac"
+            },
+            {
+              "enabled" : true,
+              "name" : "Desktop Windows"
+            },
+            {
+              "enabled" : true,
+              "name" : "Desktop Linux"
+            },
+            {
+              "enabled" : true,
+              "name" : "On-Premise Windows"
+            },
+            {
+              "enabled" : true,
+              "name" : "On-Premise Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Chromebook"
+            },
+            {
+              "enabled" : false,
+              "name" : "Mobile Android"
+            },
+            {
+              "enabled" : false,
+              "name" : "Mobile iPhone"
+            },
+            {
+              "enabled" : false,
+              "name" : "Mobile iPad"
+            }
+          ],
+          "support" : [
+            {
+              "enabled" : true,
+              "name" : "Email Help Desk"
+            },
+            {
+              "enabled" : true,
+              "name" : "FAQ Forum"
+            },
+            {
+              "enabled" : true,
+              "name" : "Knowledgebase"
+            },
+            {
+              "enabled" : true,
+              "name" : "Phone Support"
+            },
+            {
+              "enabled" : true,
+              "name" : "24/7 Live Rep"
+            },
+            {
+              "enabled" : true,
+              "name" : "Chat"
+            }
+          ],
+          "training" : [
+            {
+              "enabled" : false,
+              "name" : "Not Offered"
+            },
+            {
+              "enabled" : true,
+              "name" : "In-Person"
+            },
+            {
+              "enabled" : true,
+              "name" : "Live Online"
+            },
+            {
+              "enabled" : true,
+              "name" : "Webinars"
+            },
+            {
+              "enabled" : true,
+              "name" : "Documentation"
+            },
+            {
+              "enabled" : true,
+              "name" : "Videos"
+            }
+          ],
+          "media" : [
+            {
+              "product_id" : 223355,
+              "vendor_id" : 2004160,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/e4b2b9a3-bf2b-41cd-8faf-d96623e4fd14.png",
+              "caption" : "Main point of sale screen",
+              "weight" : 1,
+              "short_name" : "bakery"
+            },
+            {
+              "product_id" : 223355,
+              "vendor_id" : 2004160,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/3c822767-dcc2-4f3c-9fd4-ded8ad2d0943.png",
+              "caption" : "Mobile Reporting",
+              "weight" : 2,
+              "short_name" : "bakery"
+            },
+            {
+              "product_id" : 223355,
+              "vendor_id" : 2004160,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/2737b118-f074-4dd6-b441-8843e1ecddeb.png",
+              "caption" : "POS Nation for Retail Bundle",
+              "weight" : 3,
+              "short_name" : "bakery"
+            },
+            {
+              "product_id" : 223355,
+              "vendor_id" : 2004160,
+              "media_type" : "VIDEO",
+              "path_url" : "https://www.youtube.com/watch?v=gT2NfCQZ7Xg",
+              "caption" : null,
+              "weight" : 0,
+              "short_name" : "bakery"
+            }
+          ],
+          "links" : [ ],
+          "features" : [
+            {
+              "category_name" : "Bakery",
+              "category_features" : [
+                {
+                  "name" : "Accounting",
+                  "value" : false,
+                  "id" : "3990e00b-853e-41a0-a871-33607f212727",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Built-in accounting or integration with a third party accounting system"
+                },
+                {
+                  "name" : "Billing & Invoicing",
+                  "value" : true,
+                  "id" : "b9829f5b-1e19-49e7-b343-c2286973de15",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Customer Management",
+                  "value" : true,
+                  "id" : "39562547-89f3-4fec-9b0a-a8b15f2ae52d",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Capture and analyze information about your customers and interactions with them"
+                },
+                {
+                  "name" : "Delivery Tracking",
+                  "value" : false,
+                  "id" : "6868531a-0066-42d1-b36a-7a1714d450a1",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Employee Management",
+                  "value" : true,
+                  "id" : "9510ee6b-fcb0-4f43-94ce-07023453048f",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Inventory Management",
+                  "value" : true,
+                  "id" : "80f46038-6ae8-4725-8064-788b20380eeb",
+                  "avg_rating" : 4.6,
+                  "cnt_rating" : 11,
+                  "avg_importance" : 2.8,
+                  "cnt_importance" : 5,
+                  "cnt_time_used" : 5,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 5,
+                  "pct_time_critical" : 0.8,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track and manage the quantity of resources on hand to maintain proper supply"
+                },
+                {
+                  "name" : "Labor Cost Calculator",
+                  "value" : false,
+                  "id" : "3cccadbc-5faa-4c67-a3c8-3bbbce7bcf75",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Nutrition & Ingredient Labels",
+                  "value" : false,
+                  "id" : "103fdb6c-00b8-4eeb-9e78-8e20d80774c8",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Nutrition Analysis",
+                  "value" : false,
+                  "id" : "7ed17c06-c15c-4443-b99c-6cad93ffe141",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Order Management",
+                  "value" : false,
+                  "id" : "3cca1a0a-36cc-4cfa-b90c-706cfd9542b6",
+                  "avg_rating" : 1.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Point of Sale (POS)",
+                  "value" : true,
+                  "id" : "4d8a4211-99b1-45f2-a8d9-03b96a38d16f",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Production Management",
+                  "value" : false,
+                  "id" : "ba24ec22-ced8-4c87-bbff-669146e63432",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Recipe Management",
+                  "value" : false,
+                  "id" : "80327b26-cab7-490e-b187-dcfc81469b08",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Recipe/Formula Costing",
+                  "value" : false,
+                  "id" : "21613a4e-3b94-4196-956a-06a36f9ec02f",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Sales History",
+                  "value" : false,
+                  "id" : "63c12848-bbb4-41b5-8d50-f17c6d63aae9",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Sales Management",
+                  "value" : false,
+                  "id" : "ebaebcee-eefb-4801-8df5-3447f54a0a31",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                }
+              ]
+            },
+            {
+              "category_name" : "Florist",
+              "category_features" : [
+                {
+                  "name" : "Automated Card Printing",
+                  "value" : false,
+                  "id" : "a53faa50-d394-4f9f-b813-de367b2a1648",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Customer Accounts",
+                  "value" : true,
+                  "id" : "faa61540-412b-40a8-8278-1e78c13bf6c9",
+                  "avg_rating" : 0.0,
+                  "cnt_rating" : 0,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Record customer information, purchase history, and other notes"
+                },
+                {
+                  "name" : "Delivery Tracking",
+                  "value" : false,
+                  "id" : "6868531a-0066-42d1-b36a-7a1714d450a1",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Follow the delivery of sent items through dispatch notifications, statuses, item location tracking, estimated delivery time etc."
+                },
+                {
+                  "name" : "Order Management",
+                  "value" : false,
+                  "id" : "3cca1a0a-36cc-4cfa-b90c-706cfd9542b6",
+                  "avg_rating" : 1.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Organize, track, monitor and execute customer orders for goods, investments, or any other purcahses"
+                },
+                {
+                  "name" : "Production Tracking",
+                  "value" : false,
+                  "id" : "2f20b232-6bb7-411f-b7f8-ebc73b67d5e7",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Stem Counting",
+                  "value" : false,
+                  "id" : "a39439cd-4005-4bbd-869f-112df64df2b9",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                }
+              ]
+            }
+          ],
+          "infographics" : [ ],
+          "related_products" : [
+            {
+              "product_id" : 121248,
+              "seo_product_id" : 152339,
+              "seo_slug" : "When-I-Work",
+              "vendor_name" : "When I Work",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/efa0d02f-a968-4499-a1ec-b9b37380be04.png",
+              "rating" : 4.5,
+              "total_reviews" : 946,
+              "slug" : "When-I-Work",
+              "product_name" : "When I Work",
+              "short_desc" : "The easy way to schedule, track time, attendance, and communicate with workers. Save time. Improve accountability. 14-day free trial.",
+              "features" : "When I Work is an easy way for businesses to schedule, track time and attendance, and communicate with their hourly employees. Put the schedule and time clock in every employee's pocket with free iOS and Android apps. Keep track of time off, employee availability, and manage shift swaps with just a few clicks. Integrate with your payroll provider to streamline the process and avoid human error. Get started with a 14-day free trial now.",
+              "url" : "https://wheniwork.com/l/cap/?ref=capterra&utm_campaign=Bakery&utm_medium=Directory"
+            },
+            {
+              "product_id" : 212075,
+              "seo_product_id" : 212075,
+              "seo_slug" : "CAKE-POS",
+              "vendor_name" : "Mad Mobile",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/af4bffe0-1604-435d-a9ec-07f94ab9cbf1.jpeg",
+              "rating" : 4.6,
+              "total_reviews" : 455,
+              "slug" : "CAKE-POS",
+              "product_name" : "CAKE POS",
+              "short_desc" : "CAKE POS is designed to meet the unique needs of restaurants. A simple, intuitive and cost-friendly solution.",
+              "features" : "CAKE built its POS to meet the demands of Quick & Full Service restaurants. It is simple, intuitive, and cost-friendly.\r\n\r\nEasily handle Quick Service rush hours with line-busting OrderPads that control the flow of traffic and a customer-facing display for guests to privately pay, tip, and sign from their own screen. Supercharge your Full-Service POS with rich guest profiles and automatic table status updates. CAKE POS makes it easy for restaurants to get more done every day.",
+              "url" : "https://www.trycake.com/products/restaurant-pos-system/"
+            },
+            {
+              "product_id" : 146384,
+              "seo_product_id" : 221946,
+              "seo_slug" : "Jolt",
+              "vendor_name" : "Jolt",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4987ac29-19a6-44dd-a390-a1235dcbeae0.png",
+              "rating" : 4.7,
+              "total_reviews" : 259,
+              "slug" : "Jolt",
+              "product_name" : "Jolt",
+              "short_desc" : "Affordable, custom labeling and accompanying tablet-based software make Jolt a top choice for bakeries, delis, and cafes.",
+              "features" : "Combine Jolt labeling with its tablet-based software, and you can digitize operations for your bakery, deli, or cafe overnight. Jolt offers the most affordable custom labeling on the market, and the accompanying software includes a training library, drag-n-drop schedule builder, email and text notifications, a time clock with facial detection, and more. With time stamps on every label, every punch, and every task, Jolt gives managers and owners the insight needed to make their bakery a success.",
+              "url" : "https://www.jolt.com/capterra/bakery/?utm_source=Capterra&utm_medium=CPC&utm_campaign=Capterra%20%7C%20Bakery&utm_term=Bakery&utm_content=Visit%20Website"
+            },
+            {
+              "product_id" : 174862,
+              "seo_product_id" : 220552,
+              "seo_slug" : "Koomi-POS",
+              "vendor_name" : "MYR ",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/1d5c8db1-685c-4266-893d-7aea73d53316.jpeg",
+              "rating" : 4.4,
+              "total_reviews" : 95,
+              "slug" : "myr-pos",
+              "product_name" : "MYR POS",
+              "short_desc" : "The first POS made for quick-service restaurants, bakeries, takeaway and on-the-go customers made to streamline your operations.",
+              "features" : "The first POS made for quick-service and takeaway bakeries & restaurants that bridges online and regular orders. MYR stops customer-loss during your rush and features fully-integrated ordering apps for takeaway and delivery. ",
+              "url" : "https://www.myr.io/en/koomi-for-delis/"
+            },
+            {
+              "product_id" : 211849,
+              "seo_product_id" : 211849,
+              "seo_slug" : "Lightspeed-Resturant",
+              "vendor_name" : "Lightspeed",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/34662ceb-16fc-4671-89b5-d6cd18d0a193.png",
+              "rating" : 4.5,
+              "total_reviews" : 70,
+              "slug" : "Lightspeed-Resturant",
+              "product_name" : "Lightspeed Restaurant",
+              "short_desc" : "This POS provides bakeries with the taste of efficiency! Track your sales, train employees and take orders from anywhere using an iPad.",
+              "features" : " Future-proof your business with Lightspeed Restaurant and its features like delivery, contactless payment & customizable floor plans for social distancing. With Lightspeed powering your bakery, you can focus less on operations and more on personalizing your service to increase customer satisfaction. Always ensure order accuracy during busy mornings with a customer facing display and cut down on line-ups with a self-order kiosk directly connected to your POS.\r\n",
+              "url" : "https://www.lightspeedhq.com/referrals/capterra-bakery-pos/?utm_medium=cpc&utm_source=capterra&utm_campaign=Bakery&utm_content=default"
+            },
+            {
+              "product_id" : 142520,
+              "seo_product_id" : 226468,
+              "seo_slug" : "KORONA",
+              "vendor_name" : "COMBASE",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/ce9a39bc-b71f-4dd6-bc5c-99692dd30921.png",
+              "rating" : 4.7,
+              "total_reviews" : 52,
+              "slug" : "KORONA",
+              "product_name" : "KORONA",
+              "short_desc" : "KORONA designed POS software specifically for bakeries. The powerful solution was built to help businesses succeed and grow.",
+              "features" : "KORONA's bakery POS makes growing your business easy. The software boasts fast transactions, ease of pricing and promotions, full customization, and powerful inventory management. The solution also comes with a built-in loyalty program, tip options, and individualized cashier reports. It can work for single shops, multi-location operations, and franchises. KORONA's bakery point of sale software caters to each individual shop, not the other way around.",
+              "url" : "https://koronapos.com/pos-system/bakery-pos/?utm_source=capterra&utm_medium=bakery&utm_campaign=cpc"
+            },
+            {
+              "product_id" : 246573,
+              "seo_product_id" : 246573,
+              "seo_slug" : "meez",
+              "vendor_name" : "Meez Culinary Solutions",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/ff1378ce-9154-4735-90c3-89886a03853e.png",
+              "rating" : 4.7,
+              "total_reviews" : 41,
+              "slug" : "meez",
+              "product_name" : "meez",
+              "short_desc" : "A collaborative, shareable recipe management system with food costing, scaling, conversions and more",
+              "features" : "meez is the all-in-one recipe tool for culinary professionals centralizing the development process, making menus easier to execute, and offering a universally accessible and editable recipe format. The first-of-its-kind culinary operating system created for chefs by chefs has laser-accurate food costing, intuitive scaling, built-in conversions and yields, docs for training materials, and photo and video sharing.",
+              "url" : "https://www.getmeez.com/"
+            },
+            {
+              "product_id" : 146354,
+              "seo_product_id" : 240979,
+              "seo_slug" : "Mountain-Stream-Bakery-Software",
+              "vendor_name" : "Mountain Stream",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4b98820c-0957-41a4-b93f-abace11f025c.png",
+              "rating" : 4.6,
+              "total_reviews" : 29,
+              "slug" : "Streamline",
+              "product_name" : "Mountain Stream Bakery Software",
+              "short_desc" : "Wholesale bakeries: Online ordering, inventory control, supply chain traceability. AR, GP by item and by customer. GPS deliveries. CRM.",
+              "features" : "WHOLESALE BAKERY: Online ordering and invoicing. Custom pricing by customer by item.  Standing orders. Accounts Receivable and Gross Profit reports.  Talks to Quickbooks and Xero.  Recipes, supply chain traceability, purchase orders and inventory control.  Distribution: Route optimizer, packing slips, driver reports.  Live, GPS tracking. Instant proof of delivery by email. CRM. Clean, easy interfaces. We set up your data and give you unlimited training by phone and email. Best customer service.",
+              "url" : "http://info.gartnerdigitalmarkets.com/mountainstream-gdm-lp/?category=bakery"
+            },
+            {
+              "product_id" : 172134,
+              "seo_product_id" : 172134,
+              "seo_slug" : "Wherefour",
+              "vendor_name" : "Wherefour",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/82a30df6-da62-4c0f-bc30-5329f92c5504.png",
+              "rating" : 4.8,
+              "total_reviews" : 28,
+              "slug" : "Wherefour",
+              "product_name" : "Wherefour ",
+              "short_desc" : "Modern traceability/ERP software with lot track/trace, inventory control, recipes, costing, orders, POs, reports and integrations.",
+              "features" : "A modern and easy-to-use and implement wholesale bakery traceability/ERP system that enables your team to perform batch and lot track/trace, inventory control, recipe management, batch costing, B2B ordering portal and supplier purchasing, putting new ingredients and materials into service, and moving your data between systems such as Quickbooks, Sage Intacct, Shopify and over other 2,000 platforms. Wherefour runs on all internet-connected devices, including tablets and phones.",
+              "url" : "https://wherefour.com/bakery-software/"
+            },
+            {
+              "product_id" : 227106,
+              "seo_product_id" : 227106,
+              "seo_slug" : "Oracle-MICROS-Simphony-POS",
+              "vendor_name" : "Oracle",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/57af6bf5-4eb0-4fc5-ae4a-617a707aeb3a.png",
+              "rating" : 4.4,
+              "total_reviews" : 21,
+              "slug" : "Oracle-MICROS-Simphony-POS",
+              "product_name" : "Simphony POS",
+              "short_desc" : "Oracle Simphony POS fits every restaurant size & format: casual, quick service, independent, franchise, pubs, stadiums & more. ",
+              "features" : "Oracle Simphony POS is built for ambitious restaurants. Our cloud-based POS connects every aspect of your operations so you can easily manage online orders, kitchen ops, inventory, menus, delivery, loyalty & more. Real-time analytics are included so you always have a pulse on sales, costs & staff performance. Simphony's open API & extensive cloud marketplace give you unlimited flexibility, agility & scale.",
+              "url" : "https://www.oracle.com/industries/food-beverage/products/simphony-pos/"
+            }
+          ],
+          "similar_products" : [
+            {
+              "product_id" : 172134,
+              "seo_product_id" : 172134,
+              "seo_slug" : "Wherefour",
+              "vendor_name" : "Wherefour",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/82a30df6-da62-4c0f-bc30-5329f92c5504.png",
+              "rating" : 4.8,
+              "total_reviews" : 28,
+              "slug" : "Wherefour",
+              "product_name" : "Wherefour ",
+              "short_desc" : "Modern traceability/ERP software with lot track/trace, inventory control, recipes, costing, orders, POs, reports and integrations.",
+              "features" : "A modern and easy-to-use and implement wholesale bakery traceability/ERP system that enables your team to perform batch and lot track/trace, inventory control, recipe management, batch costing, B2B ordering portal and supplier purchasing, putting new ingredients and materials into service, and moving your data between systems such as Quickbooks, Sage Intacct, Shopify and over other 2,000 platforms. Wherefour runs on all internet-connected devices, including tablets and phones.",
+              "url" : "https://wherefour.com"
+            },
+            {
+              "product_id" : 146354,
+              "seo_product_id" : 240979,
+              "seo_slug" : "Mountain-Stream-Bakery-Software",
+              "vendor_name" : "Mountain Stream",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4b98820c-0957-41a4-b93f-abace11f025c.png",
+              "rating" : 4.6,
+              "total_reviews" : 29,
+              "slug" : "Streamline",
+              "product_name" : "Mountain Stream Bakery Software",
+              "short_desc" : "Wholesale bakeries: Online ordering, inventory control, supply chain traceability. AR, GP by item and by customer. GPS deliveries. CRM.",
+              "features" : "WHOLESALE BAKERY: Online ordering and invoicing. Custom pricing by customer by item.  Standing orders. Accounts Receivable and Gross Profit reports.  Talks to Quickbooks and Xero.  Recipes, supply chain traceability, purchase orders and inventory control.  Distribution: Route optimizer, packing slips, driver reports.  Live, GPS tracking. Instant proof of delivery by email. CRM. Clean, easy interfaces. We set up your data and give you unlimited training by phone and email. Best customer service.",
+              "url" : "http://info.gartnerdigitalmarkets.com/mountainstream-gdm-lp"
+            },
+            {
+              "product_id" : 121248,
+              "seo_product_id" : 152339,
+              "seo_slug" : "When-I-Work",
+              "vendor_name" : "When I Work",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/efa0d02f-a968-4499-a1ec-b9b37380be04.png",
+              "rating" : 4.5,
+              "total_reviews" : 946,
+              "slug" : "When-I-Work",
+              "product_name" : "When I Work",
+              "short_desc" : "The easy way to schedule, track time, attendance, and communicate with workers. Save time. Improve accountability. 14-day free trial.",
+              "features" : "When I Work is an easy way for businesses to schedule, track time and attendance, and communicate with their hourly employees. Put the schedule and time clock in every employee's pocket with free iOS and Android apps. Keep track of time off, employee availability, and manage shift swaps with just a few clicks. Integrate with your payroll provider to streamline the process and avoid human error. Get started with a 14-day free trial now.",
+              "url" : "https://wheniwork.com/l/cap/?ref=capterra&utm_campaign=Employee%20Scheduling&utm_medium=Directory"
+            },
+            {
+              "product_id" : 174862,
+              "seo_product_id" : 220552,
+              "seo_slug" : "Koomi-POS",
+              "vendor_name" : "MYR ",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/1d5c8db1-685c-4266-893d-7aea73d53316.jpeg",
+              "rating" : 4.4,
+              "total_reviews" : 95,
+              "slug" : "myr-pos",
+              "product_name" : "MYR POS",
+              "short_desc" : "The first POS made for quick-service restaurants, bakeries, takeaway and on-the-go customers made to streamline your operations.",
+              "features" : "The first POS made for quick-service and takeaway bakeries & restaurants that bridges online and regular orders. MYR stops customer-loss during your rush and features fully-integrated ordering apps for takeaway and delivery. ",
+              "url" : "https://www.myr.io/en/?utm_source=capterra&utm_medium=cpc"
+            },
+            {
+              "product_id" : 211849,
+              "seo_product_id" : 211849,
+              "seo_slug" : "Lightspeed-Resturant",
+              "vendor_name" : "Lightspeed",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/34662ceb-16fc-4671-89b5-d6cd18d0a193.png",
+              "rating" : 4.5,
+              "total_reviews" : 70,
+              "slug" : "Lightspeed-Resturant",
+              "product_name" : "Lightspeed Restaurant",
+              "short_desc" : "This POS provides bakeries with the taste of efficiency! Track your sales, train employees and take orders from anywhere using an iPad.",
+              "features" : " Future-proof your business with Lightspeed Restaurant and its features like delivery, contactless payment & customizable floor plans for social distancing. With Lightspeed powering your bakery, you can focus less on operations and more on personalizing your service to increase customer satisfaction. Always ensure order accuracy during busy mornings with a customer facing display and cut down on line-ups with a self-order kiosk directly connected to your POS.\r\n",
+              "url" : "https://www.lightspeedhq.com/pos/restaurant/get-quote/?utm_medium=cpc&utm_source=capterra&utm_campaign=Lightspeed%20Restaurant&utm_content=default"
+            },
+            {
+              "product_id" : 141246,
+              "seo_product_id" : 141246,
+              "seo_slug" : "My-Online-Bakery",
+              "vendor_name" : "TwinPeaks Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/1a789f6d-b4e5-43b1-b981-f927483ff389.png",
+              "rating" : 4.2,
+              "total_reviews" : 8,
+              "slug" : "My-Online-Bakery",
+              "product_name" : "POMeSYS Host",
+              "short_desc" : "A WHOLESALE cloud-based Bakery ERP solution for business in the food and beverage industry with a specialty in the baking industry. ",
+              "features" : "A WHOLESALE cloud-based order-entry management application designed with the bakery industry in mind. POMeSYS-Host (MyOnlineBakery.com) has four main components: Wholesale Order Entry, Accounts Receivable, Inventory Costing and Control, and Vendor Purchase Orders. Additional modules allow you to further customize!",
+              "url" : "http://www.twinpeaks.net/?utm_source=Capterra&utm_medium=PPC&utm_campaign=Bakery_Software_PPC"
+            },
+            {
+              "product_id" : 142520,
+              "seo_product_id" : 226468,
+              "seo_slug" : "KORONA",
+              "vendor_name" : "COMBASE",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/ce9a39bc-b71f-4dd6-bc5c-99692dd30921.png",
+              "rating" : 4.7,
+              "total_reviews" : 52,
+              "slug" : "KORONA",
+              "product_name" : "KORONA",
+              "short_desc" : "KORONA designed POS software specifically for bakeries. The powerful solution was built to help businesses succeed and grow.",
+              "features" : "KORONA's bakery POS makes growing your business easy. The software boasts fast transactions, ease of pricing and promotions, full customization, and powerful inventory management. The solution also comes with a built-in loyalty program, tip options, and individualized cashier reports. It can work for single shops, multi-location operations, and franchises. KORONA's bakery point of sale software caters to each individual shop, not the other way around.",
+              "url" : "https://koronapos.com/pos-system/retail-pos-system/?utm_source=capterra&utm_medium=retail&utm_campaign=cpc"
+            },
+            {
+              "product_id" : 200355,
+              "seo_product_id" : 221332,
+              "seo_slug" : "NutraSoft",
+              "vendor_name" : "Informatique Merkaz",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/cc2b57fc-3627-433e-9b44-cd2d0b0ee59a.png",
+              "rating" : 4.2,
+              "total_reviews" : 12,
+              "slug" : "Nutrasoft",
+              "product_name" : "NutraSoft",
+              "short_desc" : "- Create nutrition facts tables\r\n- Track and Trace any Batch/lot code through entire business process\r\n- Food Costing\r\n- Purchasing",
+              "features" : "- Nutrition facts Table creation\r\n- Food costing that includes government databases, yield and prep analysis.\r\n- Purchasing & Invoicing\r\n- Track and Trace any Batch/lot code through entire business process\r\n- Manage & Organize documents and certifications within the program to reduce audit times.\r\n- Profitability analysis\r\n- Production management\r\n- Inventory control\r\n- configurable customer pricelists\r\n\r\n",
+              "url" : "http://www.nutrasoft.ca"
+            },
+            {
+              "product_id" : 246573,
+              "seo_product_id" : 246573,
+              "seo_slug" : "meez",
+              "vendor_name" : "Meez Culinary Solutions",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/ff1378ce-9154-4735-90c3-89886a03853e.png",
+              "rating" : 4.7,
+              "total_reviews" : 41,
+              "slug" : "meez",
+              "product_name" : "meez",
+              "short_desc" : "A collaborative, shareable recipe management system with food costing, scaling, conversions and more",
+              "features" : "meez is the all-in-one recipe tool for culinary professionals centralizing the development process, making menus easier to execute, and offering a universally accessible and editable recipe format. The first-of-its-kind culinary operating system created for chefs by chefs has laser-accurate food costing, intuitive scaling, built-in conversions and yields, docs for training materials, and photo and video sharing.",
+              "url" : "https://www.getmeez.com/"
+            },
+            {
+              "product_id" : 218718,
+              "seo_product_id" : 218718,
+              "seo_slug" : "Lightspeed-Retail",
+              "vendor_name" : "Lightspeed",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/b882c63b-4160-43c2-9157-5e57744113d9.png",
+              "rating" : 4.2,
+              "total_reviews" : 869,
+              "slug" : "Lightspeed-Retail",
+              "product_name" : "Lightspeed Retail",
+              "short_desc" : "This cloud-based POS centralizes inventory management, employee management, sales reporting & accounting across locations and channels.",
+              "features" : "Promo: Save up to $1,000 on our retail digital bundle. This cloud-based POS centralizes inventory management, employee management, sales reporting & accounting across locations and channels.",
+              "url" : "https://www.lightspeedhq1.com"
+            },
+            {
+              "product_id" : 220712,
+              "seo_product_id" : 211981,
+              "seo_slug" : "Toast-POS",
+              "vendor_name" : "Toast",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/6e78f6b7-9575-414b-89f5-46f953ad9cc1.png",
+              "rating" : 4.1,
+              "total_reviews" : 315,
+              "slug" : "Toast-POS",
+              "product_name" : "Toast POS",
+              "short_desc" : "Toast is an all-in-one POS and restaurant management system built to improve efficiency and dramatically cut costs.",
+              "features" : "Toast is an all-in-one POS and restaurant management system built to improve efficiency and dramatically cut costs.",
+              "url" : "https://pos.toasttab.com/restaurant-pos-see-toast-in-action-aw"
+            },
+            {
+              "product_id" : 218526,
+              "seo_product_id" : 218526,
+              "seo_slug" : "Epos-Now",
+              "vendor_name" : "Epos Now",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/0fdb9057-0bab-40d0-9ffa-79ae329ec960.png",
+              "rating" : 3.6,
+              "total_reviews" : 304,
+              "slug" : "Epos-Now",
+              "product_name" : "Epos Now",
+              "short_desc" : "Epos Now is driven by one simple motivation: to help businesses of all sizes reach their full potential through the power of the cloud.",
+              "features" : "Epos Now helps more than 40,000 businesses across three continents leverage the power of cloud technology to streamline their operations and maximize profitability. ",
+              "url" : "https://www.eposnow.com"
+            },
+            {
+              "product_id" : 222218,
+              "seo_product_id" : 212170,
+              "seo_slug" : "ConnecTeam",
+              "vendor_name" : "Connecteam",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/2eb9cf79-d85e-4c42-b830-38b3ba6e5ea1.png",
+              "rating" : 4.7,
+              "total_reviews" : 155,
+              "slug" : "ConnecTeam",
+              "product_name" : "Connecteam",
+              "short_desc" : "An all-in-one employee app that's both powerful, affordable and easy to use, especially for the mobile workforce. Start for free! ",
+              "features" : "Connecteam is a workforce management app that allows managers to put their business processes on autopilot and focus on business growth while also freeing up employees to be more productive, flexible, and happy. Save time and increase productivity with mobile-first custom checklists, forms, and reports; Schedule shifts and track work hours with GPS time clock; Simplify employee communication, enhance professional skills, manage daily tasks and so much more, all in one app.",
+              "url" : "http://connecteam.com/"
+            }
+          ],
+          "related_categories" : [
+            {
+              "functional_group" : "bakery",
+              "long_name" : "Food Service Distribution",
+              "html_name" : "food-service-distribution-software",
+              "link_name" : "food-service-distribution",
+              "product_count" : 75,
+              "meta_description" : "Find and compare top Food Service Distribution software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Food Service Distribution tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/food-service-distribution-software>Food Service Distribution software</a> automates resource planning, distribution and order fulfillment activities for food distributors and wholesalers.  These applications decrease operating costs and increase efficiency by integrating, automating and tracking the performance of a broad range food industry-specific and general business processes, including:  order entry, invoicing, inventory management, accounts payable and receivable and sales analysis.  <a href=/food-service-distribution-software>Food Service Distribution software</a> is related to <a href=/catering-software>Catering software</a>, <a href=/food-service-management-software>Food Service Management software</a> and <a href=/restaurant-management-software>Restaurant Management software</a>."
+            },
+            {
+              "functional_group" : "bakery",
+              "long_name" : "Food Service Management",
+              "html_name" : "food-service-management-software",
+              "link_name" : "food-service-management",
+              "product_count" : 58,
+              "meta_description" : "Find and compare top Food Service Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Food Service Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/food-service-management-software>Food Service Management software</a> enables inventory control, purchasing, receiving and recipe management for both public and private food service operations.  Organizations use these applications to manage their back office functions as well as their customer relationship and accounting needs.  <a href=/food-service-management-software>Food Service Management software</a> helps to control costs, monitor inventory, and automate labor intensive tasks.  <a href=/food-service-management-software>Food Service Management software</a> is related to <a href=/catering-software>Catering software</a>, <a href=/food-service-distribution-software>Food Service Distribution software</a> and <a href=/restaurant-management-software>Restaurant Management software</a>."
+            },
+            {
+              "functional_group" : "bakery",
+              "long_name" : "Nutrition Analysis",
+              "html_name" : "nutrition-analysis-software",
+              "link_name" : "nutrition-analysis",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Nutrition Analysis software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Nutrition Analysis tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "Nutrition Analysis software can be used in food service and food manufacturing industries to calculate nutritional values for menu items and recipes, generate nutrition and ingredient labels, and ensure compliance with relevant regulations."
+            },
+            {
+              "functional_group" : "bakery",
+              "long_name" : "Restaurant Management",
+              "html_name" : "restaurant-management-software",
+              "link_name" : "restaurant-management",
+              "product_count" : 148,
+              "meta_description" : "Find and compare top Restaurant Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Restaurant Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/restaurant-management-software>Restaurant Management software</a> integrates and automates accounting, scheduling and inventory control for restaurants. Restaurant Management applications typically offer a broad range of features that encompass traditional business necessities such as accounting, customer contact information, supplier data and payroll as well as restaurant-specific requirements such as table reservation management, guest management and menu costing.  These applications also integrate with <a href=\"/point-of-sale-software\">point of sale</a> solutions and onsite or online credit card processing systems.   <a href=/restaurant-management-software>Restaurant Management software</a> is related to <a href=/distribution-software>Food Service Distribution software</a> and <a href=/food-service-management-software>Food Service Management software</a>."
+            },
+            {
+              "functional_group" : "bakery",
+              "long_name" : "Restaurant POS",
+              "html_name" : "restaurant-pos-software",
+              "link_name" : "restaurant-pos",
+              "product_count" : 57,
+              "meta_description" : "Find and compare top Restaurant POS software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Restaurant POS tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/restaurant-pos-software\">Restaurant POS software</a> offers point of sale solutions specifically for the restaurant and bar industries.  This type of software provides ordering, billing, reporting, accounting, table tracking, and receipt printing capabilities for restaurants and bars.  Hardware such as computers, monitors and printers is often included in the purchase of POS systems.  <a href=\"/restaurant-pos-software\">Restaurant POS software</a>  is related to <a href=\"/point-of-sale-software\">POS software</a> and <a href=\"/restaurant-management-software\">Restaurant Management software</a>."
+            }
+          ],
+          "is_upgraded" : false,
+          "enabled" : true,
+          "filter_options" : {
+            "users" : 7,
+            "platform" : 61,
+            "pricing_options" : 2,
+            "category_related_features" : [
+              34606,
+              34607,
+              59119,
+              59120,
+              59122,
+              59123,
+              59126,
+              59128,
+              59130,
+              59132,
+              59133,
+              59137,
+              59138,
+              59139,
+              59141,
+              59142,
+              59143,
+              59144,
+              59145,
+              59147,
+              59152,
+              59153
+            ],
+            "employees" : 15
+          },
+          "sort_options" : {
+            "sort_review_rating" : 0,
+            "most_recent_review" : null
+          },
+          "countries" : "CA,US",
+          "features_tokenized_text" : "billing_&_invoicing customer_management employee_management inventory_management point_of_sale_(pos)",
+          "platform_tokenized_text" : "cloud,saas,web-based desktopwindows desktoplinux on-premisewindows on-premiselinux",
+          "users_tokenized_text" : "1 2-10 11-50",
+          "pricing_tokenized_text" : "monthlysubscription",
+          "badges" : [ ],
+          "bid_spot_us" : 0.0,
+          "currency_code" : "USD",
+          "currency_symbol" : "$",
+          "credit_card_required" : null,
+          "licensing_model" : null,
+          "open_api_offered" : "Unverified",
+          "mobile_urls" : [ ],
+          "integrations" : [
+            {
+              "id" : "fb23d4b4-b33d-4b66-9bba-a6d200b2e0b2",
+              "name" : "BigCommerce"
+            },
+            {
+              "id" : "ed67881a-7782-4957-ad5d-a6d200b601d6",
+              "name" : "QuickBooks"
+            },
+            {
+              "id" : "ff8cc380-8bfb-4161-b5d9-a6d200b68846",
+              "name" : "Shopify"
+            },
+            {
+              "id" : "167b3492-24f8-4060-aa97-a6d200b77ff8",
+              "name" : "WooCommerce"
+            },
+            {
+              "id" : "14f66ecf-7da3-4633-b5e6-a6d200b5007d",
+              "name" : "Adobe Commerce"
+            }
+          ],
+          "supported_countries" : [
+            {
+              "id" : 237,
+              "code" : "US",
+              "name" : "United States of America"
+            }
+          ],
+          "supported_languages" : [
+            {
+              "id" : 152,
+              "code" : "en",
+              "name" : "English",
+              "location" : null
+            }
+          ],
+          "target_industries" : [
+            {
+              "id" : 130,
+              "code" : "20",
+              "name" : "Sporting Goods"
+            },
+            {
+              "id" : 133,
+              "code" : "22",
+              "name" : "Supermarkets"
+            },
+            {
+              "id" : 27,
+              "code" : "24",
+              "name" : "Consumer Electronics"
+            },
+            {
+              "id" : 42,
+              "code" : "63",
+              "name" : "Farming"
+            },
+            {
+              "id" : 98,
+              "code" : "57",
+              "name" : "Oil & Energy"
+            },
+            {
+              "id" : 58,
+              "code" : "31",
+              "name" : "Hospitality"
+            },
+            {
+              "id" : 137,
+              "code" : "21",
+              "name" : "Tobacco"
+            },
+            {
+              "id" : 14,
+              "code" : "49",
+              "name" : "Building Materials"
+            },
+            {
+              "id" : 6,
+              "code" : "19",
+              "name" : "Apparel & Fashion"
+            },
+            {
+              "id" : 8,
+              "code" : "111",
+              "name" : "Arts and Crafts"
+            },
+            {
+              "id" : 79,
+              "code" : "143",
+              "name" : "Luxury Goods & Jewelry"
+            },
+            {
+              "id" : 28,
+              "code" : "25",
+              "name" : "Consumer Goods"
+            },
+            {
+              "id" : 46,
+              "code" : "34",
+              "name" : "Food & Beverages"
+            },
+            {
+              "id" : 126,
+              "code" : "27",
+              "name" : "Retail"
+            },
+            {
+              "id" : 125,
+              "code" : "32",
+              "name" : "Restaurants"
+            },
+            {
+              "id" : 145,
+              "code" : "142",
+              "name" : "Wine and Spirits"
+            }
+          ],
+          "price_range_id" : 1,
+          "aggregated_review_ratings" : {
+            "industry" : {
+              "34" : 4.88,
+              "32" : 4.67,
+              "31" : 5.0,
+              "23" : 5.0,
+              "19" : 5.0,
+              "115" : 4.0,
+              "112" : 5.0,
+              "84" : 5.0,
+              "75" : 5.0,
+              "14" : 5.0,
+              "63" : 5.0,
+              "37" : 4.0,
+              "142" : 5.0,
+              "22" : 3.0,
+              "93" : 4.0,
+              "69" : 4.5,
+              "100" : 4.6,
+              "26" : 5.0,
+              "138" : 3.0,
+              "53" : 5.0,
+              "21" : 4.67,
+              "96" : 4.5,
+              "48" : 4.0,
+              "20" : 4.0,
+              "4" : 4.0,
+              "25" : 4.0,
+              "43" : 4.0,
+              "24" : 5.0,
+              "111" : 5.0,
+              "27" : 4.51,
+              "86" : 5.0,
+              "118" : 5.0,
+              "35" : 5.0
+            },
+            "company_size" : {
+              "501-1000 employees" : 5.0,
+              "1001-5000 employees" : 4.0,
+              "10,001+ employees" : 4.67,
+              "51-200 employees" : 4.67,
+              "11-50 employees" : 4.44,
+              "201-500 employees" : 5.0,
+              "1-10 employees" : 4.58,
+              "Self-employed" : 4.67
+            }
+          },
+          "vct_enabled" : false,
+          "pricing_plans" : [
+            {
+              "created_on_utc" : "2020-02-25T21:46:13Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Flex Monthly",
+              "description" : "It requires Wordplay Process Agreement. Lifetime warranty is available.",
+              "display_order" : 1,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 99.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "24/7 Support"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "Cash Drawer"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Chip Card Reader"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "POS Software"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 5,
+                  "name" : "Receipt Printer"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 6,
+                  "name" : "Scanner"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 7,
+                  "name" : "Touch PC"
+                }
+              ]
+            },
+            {
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Freedom",
+              "description" : "It requires Wordplay Process Agreement and offers a two-year warranty. It comes with a free chip card reader. 2-year warranty is available.",
+              "display_order" : 2,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 999.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : "One Time",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "24/7 Support"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "Cash Drawer"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Chip Card Reader"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "POS Software"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 5,
+                  "name" : "Receipt Printer"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 6,
+                  "name" : "Scanner"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 7,
+                  "name" : "Touch PC"
+                }
+              ]
+            }
+          ],
+          "discount_types" : [ ]
+        }
+      }
+    ]
+  }
+}

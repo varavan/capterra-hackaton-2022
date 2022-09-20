@@ -1,0 +1,4093 @@
+{
+  "took" : 8,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 3,
+    "successful" : 3,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : {
+      "value" : 2,
+      "relation" : "eq"
+    },
+    "max_score" : 10.277467,
+    "hits" : [
+      {
+        "_index" : "product_listings_main_data_upc_vt20220920_043802_utc",
+        "_type" : "_doc",
+        "_id" : "151861_remsup",
+        "_score" : 10.277467,
+        "_source" : {
+          "product_id" : 151861,
+          "seo_product_id" : 226671,
+          "seo_slug" : "FixMeIT",
+          "product_name" : "FixMe.IT",
+          "upc_product_uuid" : "3f73b5d6-0d8b-4c69-a702-a6d200b6e7b3",
+          "old_product_ids" : [
+            226671,
+            162442
+          ],
+          "product_url" : "https://www.techinline.com?utm_medium=cpc&utm_campaign=capterra_ppc",
+          "product_slug" : "FixMe-IT",
+          "former_name" : "FixMe.IT",
+          "logo_filepath" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/105710c7-d691-45a7-8237-0a283997660d.png",
+          "vendor" : {
+            "vendor_id" : 2106900,
+            "vendor_name" : "Techinline",
+            "vendor_url" : "https://www.techinline.com",
+            "year_founded" : 2007,
+            "location" : "Canada",
+            "vendor_opted_out_of_reviews" : true,
+            "is_opted_out_of_reviews" : false,
+            "is_hit_limit" : false,
+            "enabled" : true,
+            "has_vendor_level_page" : false,
+            "slug" : "Techinline",
+            "vendor_page" : false,
+            "paused_campaign" : false
+          },
+          "category_short_name" : "remsup",
+          "category_html_name" : "remote-support-software",
+          "category" : {
+            "id" : 30928,
+            "short_name" : "remsup",
+            "long_name" : "Remote Support",
+            "html_name" : "remote-support-software",
+            "enabled" : true
+          },
+          "best_category" : "remsup",
+          "is_best_category" : true,
+          "highest_cpc_category" : "remdesk",
+          "is_highest_cpc_category" : false,
+          "short_desc" : "Remote support app designed for connecting to client machines within seconds to securely deliver on-demand or unattended support. ",
+          "long_desc" : "Remote support solution designed for delivering instant unattended and on-demand support to clients located anywhere in the world. Starting at just $25 per month, FixMe.IT provides multi-session handling, unlimited on-demand support and access up to 150 unattended machines. Other key features include branding, multi-monitor navigation, two-way desktop sharing, file transfer, drawing tools, session recording, reporting, and much more.",
+          "rating" : 4.8,
+          "number_of_reviews" : 359,
+          "total_reviews" : 365,
+          "ease_of_use_rating" : 4.8,
+          "customer_support_rating" : 4.7,
+          "functionality_rating" : 4.5,
+          "value_for_money_rating" : 4.7,
+          "recommendation_rating" : 9.2,
+          "pricing_enabled" : true,
+          "pricing" : 30.0,
+          "is_per_user" : false,
+          "fee_schedule" : "Per-Month",
+          "pricing_model" : "Other",
+          "pricing_details" : "The unlimited subscription license offers complete freedom over the term of your purchase.\r\nMonthly plan: $30/seat/month\r\nAnnual plan: $300/seat/month",
+          "pricing_created_on" : "2019-08-21T14:47:39Z",
+          "pricing_modified_on" : "2022-06-23T14:42:33Z",
+          "pricing_created_by" : null,
+          "pricing_modified_by" : null,
+          "pricing_vendor_pricing_url" : "https://www.techinline.com/Pricing",
+          "free_trial" : true,
+          "free_version" : false,
+          "target_audience" : "IT professionals from businesses of all sizes and across various industries",
+          "target_users" : [
+            "1",
+            "2-10",
+            "11-50",
+            "51-200"
+          ],
+          "platform" : [
+            {
+              "enabled" : true,
+              "name" : "Cloud, SaaS, Web-Based"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Mac"
+            },
+            {
+              "enabled" : true,
+              "name" : "Desktop Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Linux"
+            },
+            {
+              "enabled" : true,
+              "name" : "On-Premise Windows"
+            },
+            {
+              "enabled" : true,
+              "name" : "On-Premise Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Chromebook"
+            },
+            {
+              "enabled" : false,
+              "name" : "Mobile Android"
+            },
+            {
+              "enabled" : false,
+              "name" : "Mobile iPhone"
+            },
+            {
+              "enabled" : false,
+              "name" : "Mobile iPad"
+            }
+          ],
+          "support" : [
+            {
+              "enabled" : true,
+              "name" : "Email Help Desk"
+            },
+            {
+              "enabled" : true,
+              "name" : "FAQ Forum"
+            },
+            {
+              "enabled" : true,
+              "name" : "Knowledgebase"
+            },
+            {
+              "enabled" : true,
+              "name" : "Phone Support"
+            },
+            {
+              "enabled" : true,
+              "name" : "24/7 Live Rep"
+            },
+            {
+              "enabled" : true,
+              "name" : "Chat"
+            }
+          ],
+          "training" : [
+            {
+              "enabled" : false,
+              "name" : "Not Offered"
+            },
+            {
+              "enabled" : false,
+              "name" : "In-Person"
+            },
+            {
+              "enabled" : true,
+              "name" : "Live Online"
+            },
+            {
+              "enabled" : false,
+              "name" : "Webinars"
+            },
+            {
+              "enabled" : true,
+              "name" : "Documentation"
+            },
+            {
+              "enabled" : true,
+              "name" : "Videos"
+            }
+          ],
+          "media" : [
+            {
+              "product_id" : 151861,
+              "vendor_id" : 2106900,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/561ba2eb-5b07-4cb2-a6b7-9098353e934d.png",
+              "caption" : "FixMe.IT Expert App Home",
+              "weight" : 1,
+              "short_name" : "remsup"
+            },
+            {
+              "product_id" : 151861,
+              "vendor_id" : 2106900,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/746cd032-2519-4735-a9db-b0230122ca74.png",
+              "caption" : "Remote Desktop Control",
+              "weight" : 2,
+              "short_name" : "remsup"
+            },
+            {
+              "product_id" : 151861,
+              "vendor_id" : 2106900,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/824007f1-4c24-4deb-a86e-38127baa81f0.png",
+              "caption" : "FixMe.IT Unattended List",
+              "weight" : 3,
+              "short_name" : "remsup"
+            },
+            {
+              "product_id" : 151861,
+              "vendor_id" : 2106900,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/d778b187-d981-41c4-affd-770aea5cecf6.png",
+              "caption" : "FixMe.IT Client App",
+              "weight" : 4,
+              "short_name" : "remsup"
+            },
+            {
+              "product_id" : 151861,
+              "vendor_id" : 2106900,
+              "media_type" : "VIDEO",
+              "path_url" : "https://www.youtube.com/watch?v=QomSifFrDJE",
+              "caption" : null,
+              "weight" : 0,
+              "short_name" : "remsup"
+            }
+          ],
+          "links" : [
+            {
+              "product_id" : 151861,
+              "functional_group" : "remsup",
+              "html_code" : "https://www.techinline.com/TryItFree?utm_medium=cpc&utm_campaign=capterra_ppc",
+              "link_name" : "Free Trial",
+              "link_priority" : 1.0
+            },
+            {
+              "product_id" : 151861,
+              "functional_group" : "remsup",
+              "html_code" : "https://www.youtube.com/watch?v=Wa1cXOs5OAw",
+              "link_name" : "Free Demo",
+              "link_priority" : 2.0
+            },
+            {
+              "product_id" : 151861,
+              "functional_group" : "remsup",
+              "html_code" : "https://www.techinline.com/Pricing?utm_medium=cpc&utm_campaign=capterra_ppc",
+              "link_name" : "Pricing",
+              "link_priority" : 3.0
+            },
+            {
+              "product_id" : 151861,
+              "functional_group" : "remsup",
+              "html_code" : "https://www.techinline.com/Features?utm_medium=cpc&utm_campaign=capterra_ppc",
+              "link_name" : "Features",
+              "link_priority" : 4.0
+            }
+          ],
+          "features" : [
+            {
+              "category_name" : "Remote Support",
+              "category_features" : [
+                {
+                  "name" : "Diagnostic Tools",
+                  "value" : false,
+                  "id" : "e99b0d55-b36b-47ec-b534-4a703f2dda31",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Access client's system information, including hardware and software configuration, to perform diagnostics"
+                },
+                {
+                  "name" : "File Sharing",
+                  "value" : true,
+                  "id" : "818ff03c-f979-454f-a3c9-112513dbab56",
+                  "avg_rating" : 4.8,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 2.33,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.333,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Digitally share a wide variety of media types"
+                },
+                {
+                  "name" : "Real-Time Chat",
+                  "value" : true,
+                  "id" : "ebcc93e9-b049-4da0-a750-02fa0ea70ec4",
+                  "avg_rating" : 4.8,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 2.67,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.667,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Engage in direct, instant messaging"
+                },
+                {
+                  "name" : "Screen Sharing",
+                  "value" : true,
+                  "id" : "a4e50f33-a0b2-417d-a6b8-faa8213a3312",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.333,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Digitally share screen view with others"
+                },
+                {
+                  "name" : "Session Recording",
+                  "value" : true,
+                  "id" : "48ca3827-76c2-409a-9bf1-fb57f12d55ad",
+                  "avg_rating" : 4.8,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 0.667,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Record active support and chat sessions for auditing and training"
+                },
+                {
+                  "name" : "Session Transfer",
+                  "value" : false,
+                  "id" : "83e6b520-0076-42b4-8142-573eb7ddfb90",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Transfer a support session to another team member"
+                },
+                {
+                  "name" : "Surveys & Feedback",
+                  "value" : false,
+                  "id" : "ac019461-1e0e-49b2-a4f0-bd6e13dedf23",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Gauge satisfaction and receive information for improvement and success"
+                }
+              ]
+            },
+            {
+              "category_name" : "Remote Desktop",
+              "category_features" : [
+                {
+                  "name" : "Access Controls/Permissions",
+                  "value" : true,
+                  "id" : "12cc6bf7-4736-4dfe-bbf9-4d93ec5d227d",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Regulate who can view and use the system by setting permissions and issuing passwords"
+                },
+                {
+                  "name" : "Collaboration Tools",
+                  "value" : false,
+                  "id" : "97efb0d3-9a23-4408-90d4-4db1e3830fbd",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Ability to work collectively on a project while communicating and sharing information within the system in real time"
+                },
+                {
+                  "name" : "Diagnostics Tools",
+                  "value" : false,
+                  "id" : "648ee3b2-a6de-47ba-ba12-86661c2c934c",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Access system information, including hardware and software configuration, to perform diagnostics"
+                },
+                {
+                  "name" : "File Transfer",
+                  "value" : true,
+                  "id" : "cee432e8-0938-47c1-a40c-dde72cc41efd",
+                  "avg_rating" : 4.5,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : "Secure file sharing between multiple endpoints during remote sessions"
+                },
+                {
+                  "name" : "Mobile Access",
+                  "value" : false,
+                  "id" : "15d49235-ad13-4d33-b009-edd50126375b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Access the software remotely via mobile devices"
+                },
+                {
+                  "name" : "Multiple Monitor Access",
+                  "value" : true,
+                  "id" : "d2ef8aaa-eb38-4f00-9519-f65fe68acc21",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Access multiple screens from one centralized location "
+                },
+                {
+                  "name" : "Real-Time Chat",
+                  "value" : true,
+                  "id" : "ebcc93e9-b049-4da0-a750-02fa0ea70ec4",
+                  "avg_rating" : 4.8,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 2.67,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.667,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Engage in direct, instant messaging"
+                },
+                {
+                  "name" : "Remote Access/Control",
+                  "value" : true,
+                  "id" : "81c7ad10-1e57-4d98-ab39-055fed5dd0c6",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : "Access work applications remotely while working from outside the office and/or travelling"
+                },
+                {
+                  "name" : "Remote Printing",
+                  "value" : false,
+                  "id" : "37b2a4b3-fdad-4282-ac59-45a36bb4c4d0",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Print remote documents from multiple devices"
+                },
+                {
+                  "name" : "Reporting/Analytics",
+                  "value" : true,
+                  "id" : "b0c186d0-0194-4300-abba-ca3bc2474bbe",
+                  "avg_rating" : 4.8,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 1.67,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "View and track pertinent metrics"
+                },
+                {
+                  "name" : "Screen Recording",
+                  "value" : false,
+                  "id" : "f8737042-93a4-460f-8380-7fec6064c160",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Record and save a video file with what is happening on your computer screen"
+                },
+                {
+                  "name" : "Screen Sharing",
+                  "value" : true,
+                  "id" : "a4e50f33-a0b2-417d-a6b8-faa8213a3312",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.333,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Digitally share screen view with others"
+                },
+                {
+                  "name" : "Troubleshooting",
+                  "value" : true,
+                  "id" : "34f2978f-32d3-48f9-9c53-a6d3f68b0805",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 0.5,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Take actions to resolve performance issues for devices remotely"
+                }
+              ]
+            }
+          ],
+          "infographics" : [ ],
+          "related_products" : [
+            {
+              "product_id" : 135003,
+              "seo_product_id" : 250743,
+              "seo_slug" : "Slack",
+              "vendor_name" : "Slack",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/91f64896-759a-41ae-8d14-d540f90c5870.png",
+              "rating" : 4.7,
+              "total_reviews" : 22027,
+              "slug" : "Slack",
+              "product_name" : "Slack",
+              "short_desc" : "Slack brings all your communication together in one place. It's real-time messaging, archiving and search for modern teams.",
+              "features" : "Slack is a collaboration hub, where the right people and the right information come together, helping everyone get work done. When your team needs to kick off a project, hire a new employee, deploy some code, review a sales contract, finalize next year's budget, measure an A/B test, plan your next office opening, and more, Slack has you covered. Try Slack with your team for free.",
+              "url" : "https://slack.com/resources/using-slack/the-modern-incident-response?utm_medium=ppc&utm_source=capterra&utm_campaign=cd_ppc_capterra_us_en_remote-support_ob-p_incident-management&campaign=7013a000001ruVhAAI"
+            },
+            {
+              "product_id" : 122252,
+              "seo_product_id" : 122252,
+              "seo_slug" : "TeamViewer",
+              "vendor_name" : "TeamViewer",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/2229d6a9-d354-425e-89ff-879d9de285c9.png",
+              "rating" : 4.6,
+              "total_reviews" : 10493,
+              "slug" : "TeamViewer",
+              "product_name" : "TeamViewer",
+              "short_desc" : "TeamViewer remote support software lets you connect securely to computers, access files and applications, and collaborate.",
+              "features" : "TeamViewer connects any PC, Server, Device on any platform globally in a few seconds. Available in over 30 languages, TeamViewer is a leading remote desktop tool with over 30,000 new downloads every hour. Currently, there are over 2.0 billion live TeamViewer IDs that access the world's largest and fastest remote connection network.We're serious about security, and we put our customers and their clients first when it comes to protecting them with the latest in technology. ",
+              "url" : "https://www.teamviewer.com/en-us/teamviewer-tensor/signup-tensor-trial/?utm_source=capterra&utm_medium=cpc&utm_campaign=CapterraTensor&capterra=capterra"
+            },
+            {
+              "product_id" : 124981,
+              "seo_product_id" : 212052,
+              "seo_slug" : "Freshdesk",
+              "vendor_name" : "Freshworks",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/69d55a02-59f1-4cbf-aabd-353fd6b19bca.png",
+              "rating" : 4.5,
+              "total_reviews" : 2497,
+              "slug" : "Freshdesk",
+              "product_name" : "Freshdesk",
+              "short_desc" : "Freshdesk is an easy-to-use customer service software that helps over 50,000 businesses offer stellar customer support remotely. ",
+              "features" : "Freshdesk is a cloud-based helpdesk that enables you to offer customer service from wherever you are. Using Freshdesk on your laptop or mobile phone, you can assist your customers across email, phone, web, social media, live chat, chatbots, and messaging channels like WhatsApp or Facebook Messenger, from a single platform. You can automate workflows, collaborate with context, set up convenient self-service options, and integrate with tools Zoom or TeamViewer to offer effortless remote support.",
+              "url" : "https://freshdesk.com/lp/home-bex?utm_medium=Capterra_remote&utm_campaign=Capterra_remote&tactic_id=3530090"
+            },
+            {
+              "product_id" : 147830,
+              "seo_product_id" : 226877,
+              "seo_slug" : "ConnectWise-Control",
+              "vendor_name" : "ConnectWise",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/9e26a948-d3c8-4a65-a8ea-bb4cbf71a2d6.png",
+              "rating" : 4.7,
+              "total_reviews" : 1796,
+              "slug" : "ConnectWise-Control",
+              "product_name" : "ConnectWise Control",
+              "short_desc" : " ConnectWise Control provides the ability to view and control devices from anywhere there is an Internet connection.",
+              "features" : "ConnectWise Control (formerly ScreenConnect)  is a fully functional remote support solution. The software gives you the ability to remotely view and control devices from anywhere there is an Internet connection. As a technician, regardless if you primarily support your customers personal computers or a huge enterprise infrastructure, the ability to quickly and effectively resolve problems allows you to save time and improve customer satisfaction.",
+              "url" : "https://info.connectwise.com/control/bof/sem/dual-trial-for-remote-workforce?mcid=REV1293&utm_source=capterra&utm_medium=rs&utm_campaign=REV1293&utm_content=trial&loc=na"
+            },
+            {
+              "product_id" : 149595,
+              "seo_product_id" : 149595,
+              "seo_slug" : "AnyDesk",
+              "vendor_name" : "AnyDesk Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/29cdcfa5-a58d-4c2a-8a6f-daa75d1d2d56.png",
+              "rating" : 4.6,
+              "total_reviews" : 1062,
+              "slug" : "AnyDesk",
+              "product_name" : "AnyDesk",
+              "short_desc" : "AnyDesk is a trailblazing and innovative provider of Remote Desktop Software and offers a fast, easy, and secure Remote Support.",
+              "features" : "AnyDesk is a trailblazing and innovative provider of Remote Desktop Software and offers a fast, easy, and secure solution for Remote Support, Remote Access, and Remote Work. Our customers range from large corporations and government institutions to research facilities, small enterprises, and personal users, connecting devices around the globe.\nFounded in Stuttgart, Germany, in 2014, AnyDesk has reached 500 million downloads and over 100.000 customers worldwide. ",
+              "url" : "https://anydesk.com"
+            },
+            {
+              "product_id" : 181775,
+              "seo_product_id" : 227442,
+              "seo_slug" : "Zoho-Assist",
+              "vendor_name" : "Zoho",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/278f8e25-a26e-48d5-bfcf-7023fd68d960.png",
+              "rating" : 4.6,
+              "total_reviews" : 635,
+              "slug" : "Zoho-Assist",
+              "product_name" : "Zoho Assist",
+              "short_desc" : "Zoho Assist provides a simple and straight forward user interface to connect to remote computers anywhere on the globe.",
+              "features" : "Access your computer or mobile device from anywhere, anytime using Zoho Assist; your one-stop solution for remote support, screen sharing and unattended access. Get started today with one of the industry's most secure, reliable and affordable software. Requires no prior installation. Cross-platform support available. Works across devices. Supports all major web-proxies and firewalls.",
+              "url" : "https://www.zoho.com/assist/?utm_medium=cpc&utm_campaign=RemoteSupport&utm_term=title&utm_content=title"
+            },
+            {
+              "product_id" : 146892,
+              "seo_product_id" : 240794,
+              "seo_slug" : "ISL-Light",
+              "vendor_name" : "ISL Online",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/72f6d1ab-5022-4e78-b772-cf7e6aaadc99.png",
+              "rating" : 4.7,
+              "total_reviews" : 454,
+              "slug" : "ISL-Light",
+              "product_name" : "ISL Light",
+              "short_desc" : "ISL Light remote support software lets you control a remote computer or mobile device. It's cross-platform, secure, fast, customizable.",
+              "features" : "ISL Light is a web-based remote desktop solution that lets you access and control any Windows, Mac or Linux computer in seconds from any computer or mobile device or to provide ad hoc technical support to mobile device users.  Cross-platform, secure, high-speed screen sharing, cloud-based or on-premises license. \r\nRich customization options allow you to rebrand the software to your own corporate identity and apply advanced security measures.",
+              "url" : "https://www.islonline.com/?utm_medium=cpc&utm_campaign=landing+page&utm_content=visit+website&utm_channel=capterra"
+            },
+            {
+              "product_id" : 132997,
+              "seo_product_id" : 234577,
+              "seo_slug" : "Freshservice",
+              "vendor_name" : "Freshworks",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/1ccaf7f2-39be-4e89-97db-cfa1bc29cac1.png",
+              "rating" : 4.5,
+              "total_reviews" : 438,
+              "slug" : "Freshservice",
+              "product_name" : "Freshservice",
+              "short_desc" : "Online ITSM Service Desk with Incident, Problem, Change, Release & Asset Management, in addition to powerful ticketing & automation",
+              "features" : "Freshservice is an intelligent, right-sized ITSM solution that delivers exceptional employee experiences with an intuitive, scalable, no-code solution. With its state-of-the-art AI and ML capabilities, Freshservice helps organizations ease an IT agents workload and improve their productivity by automating mundane tasks. In addition to its AI capabilities, Freshservice is flexible and scalable enough to be used by both: companies relying on legacy systems and modern enterprises.",
+              "url" : "https://freshservice.com?utm_source=Capterra&utm_medium=Listing&utm_campaign=CapterraRemoteSupport&tactic_id=3530091"
+            },
+            {
+              "product_id" : 233343,
+              "seo_product_id" : 227102,
+              "seo_slug" : "JIRA-Service-Management",
+              "vendor_name" : "Atlassian",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/80206a5e-f20e-4288-89cc-6cf2ee871b00.png",
+              "rating" : 4.4,
+              "total_reviews" : 314,
+              "slug" : "JIRA-Service-Management",
+              "product_name" : "JIRA Service Management",
+              "short_desc" : "Jira Service Management is an ITSM software that unlocks high-velocity teams to deliver great service experiences fast and together.\n",
+              "features" : "Jira Service Management is an ITSM solution that unlocks high-velocity IT, dev, operations, and business teams. Empowered teams can deliver great service experiences, without the complexity of traditional ITSM, and coordinate efforts for even more impact through Jira's open collaborative platform. Streamlined workflows, automation rules, queues, SLAs, and a self-service portal all empower IT, dev, operations, and business teams to deliver exceptional service management at scale with no silos. ",
+              "url" : "https://www.atlassian.com/software/jira/service-desk"
+            },
+            {
+              "product_id" : 179422,
+              "seo_product_id" : 133241,
+              "seo_slug" : "DameWare-Remote-Support",
+              "vendor_name" : "SolarWinds",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/445eff17-8ecf-49b8-a33e-44412e7eedbd.png",
+              "rating" : 4.6,
+              "total_reviews" : 231,
+              "slug" : "Dameware-Remote-Support",
+              "product_name" : "Dameware",
+              "short_desc" : "Easy to use and affordable remote control and remote IT administration tool for Windows, Mac, and Linux platforms.",
+              "features" : "Dameware is synonymous with affordable, reliable, and safe remote support software. SolarWinds offers two remote support solutions: on-premises or cloud based. Dameware Remote Everywhere (DRE) is the fast, simple, and lightweight cloud-based version designed to help IT professionals respond to and solve issues quickly. Dameware Remote Support (DRS) is an affordable and easy-to-use on-premises software designed to simplify and accelerate remote IT administration tasks.",
+              "url" : "https://www.dameware.com?CMP=SYN-RVW-CAP-SW_NA_X_RR_CPC_LD_EN_TOOGEN_X-DRE-Q420V1_RS_REG_X-X"
+            }
+          ],
+          "similar_products" : [
+            {
+              "product_id" : 147830,
+              "seo_product_id" : 226877,
+              "seo_slug" : "ConnectWise-Control",
+              "vendor_name" : "ConnectWise",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/9e26a948-d3c8-4a65-a8ea-bb4cbf71a2d6.png",
+              "rating" : 4.7,
+              "total_reviews" : 1796,
+              "slug" : "ConnectWise-Control",
+              "product_name" : "ConnectWise Control",
+              "short_desc" : " ConnectWise Control provides the ability to view and control devices from anywhere there is an Internet connection.",
+              "features" : "ConnectWise Control (formerly ScreenConnect)  is a fully functional remote support solution. The software gives you the ability to remotely view and control devices from anywhere there is an Internet connection. As a technician, regardless if you primarily support your customers personal computers or a huge enterprise infrastructure, the ability to quickly and effectively resolve problems allows you to save time and improve customer satisfaction.",
+              "url" : "https://info.connectwise.com/control/bof/sem/dual-trial-for-remote-workforce?mcid=REV1293&utm_source=capterra&utm_medium=rs&utm_campaign=REV1293&utm_content=trial&loc=na"
+            },
+            {
+              "product_id" : 161344,
+              "seo_product_id" : 39018,
+              "seo_slug" : "LogMeIn-Rescue",
+              "vendor_name" : "GoTo",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8b5a23c9-e565-4100-bcba-f151b0edbc76.png",
+              "rating" : 4.6,
+              "total_reviews" : 142,
+              "slug" : "LogMeIn-Rescue",
+              "product_name" : "Rescue",
+              "short_desc" : "Real-time remote control of a customer's computer over the web for help desks, support softwares, IT organizations, and more.",
+              "features" : "GoTo Rescue is a powerful, easy-to-use remote support solution for PCs, Macs, mobile devices, and more. Rescue is built to serve teams of all sizes, from small helpdesks to the world's largest support organizations, and everyone in between. Rescue helps you provide technical support to your employees, your customers, or both, with a solution that is fast, reliable, flexible, and easy to use.",
+              "url" : "https://www.logmeinrescue.com/free-trial/rescue-trial?utm_source=capterra&utm_medium=review-sites&utm_campaign=default&sfdc=&sfdc=7014P0000022Ww3QAE"
+            },
+            {
+              "product_id" : 124981,
+              "seo_product_id" : 212052,
+              "seo_slug" : "Freshdesk",
+              "vendor_name" : "Freshworks",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/69d55a02-59f1-4cbf-aabd-353fd6b19bca.png",
+              "rating" : 4.5,
+              "total_reviews" : 2497,
+              "slug" : "Freshdesk",
+              "product_name" : "Freshdesk",
+              "short_desc" : "Freshdesk is an easy-to-use customer service software that helps over 50,000 businesses offer stellar customer support remotely. ",
+              "features" : "Freshdesk is a cloud-based helpdesk that enables you to offer customer service from wherever you are. Using Freshdesk on your laptop or mobile phone, you can assist your customers across email, phone, web, social media, live chat, chatbots, and messaging channels like WhatsApp or Facebook Messenger, from a single platform. You can automate workflows, collaborate with context, set up convenient self-service options, and integrate with tools Zoom or TeamViewer to offer effortless remote support.",
+              "url" : "https://freshdesk.com/lp/home-bex?utm_medium=Capterra_home&utm_campaign=Capterra_home&tactic_id=3530090"
+            },
+            {
+              "product_id" : 175092,
+              "seo_product_id" : 175092,
+              "seo_slug" : "JumpCloud-DaaS",
+              "vendor_name" : "JumpCloud",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d441d880-3cc8-4b87-a345-12076d90a1b9.png",
+              "rating" : 4.7,
+              "total_reviews" : 187,
+              "slug" : "JumpCloud-DaaS",
+              "product_name" : "JumpCloud Directory Platform",
+              "short_desc" : "The JumpCloud Directory Platform reimagines the directory as a complete platform for identity, access, and device management.",
+              "features" : "JumpCloud is an open directory platform for secure, frictionless access from any device to any resource, anywhere. JumpClouds mission is to Make Work Happen, providing simple, secure access to corporate technology resources from any device, or any location. The JumpCloud Directory Platform gives IT, MSPs, VARs/Distributors, security operations, and DevOps a single, cloud-based solution to control and manage employee identities, their devices, and apply Zero Trust principles.",
+              "url" : "https://jumpcloud.com/lp/cloud-directory-beansprout?utm_source=Capterra-Paid&utm_medium=Paid-Search&utm_campaign=FA_Pro_Conv_AllGeo_Direct&utm_content=Default_NA_NA_Overview&utm_term=Home"
+            },
+            {
+              "product_id" : 241075,
+              "seo_product_id" : 241075,
+              "seo_slug" : "ManageEngine-Remote-Access-Plus",
+              "vendor_name" : "ManageEngine",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/5374cc5f-6cd8-4bd6-89f9-2d6eb8a48d9a.png",
+              "rating" : 4.4,
+              "total_reviews" : 16,
+              "slug" : "ManageEngine-Remote-Access-Plus",
+              "product_name" : "ManageEngine Remote Access Plus",
+              "short_desc" : "Remote Access Plus is a secure remote support solution \r\nthat lets you remotely govern computers anywhere on the globe",
+              "features" : "Remote Access Plus is a secure and comprehensive enterprise remote support solution \r\nthat helps system administrators and IT help desk technicians in troubleshoot Windows, \r\nMac and Linux computers from a central location. Powerfully built tools like advanced \r\nremote desktop sharing, remote command prompt, registry, Wake on LAN, remote \r\nshutdown, file manager and more enables elite remote assistance and considerably \r\nreduces troubleshooting time from days to minutes. ",
+              "url" : "https://www.manageengine.com/remote-desktop-management/?utm_medium=ppc&utm_campaign=RAP-Dest"
+            },
+            {
+              "product_id" : 165889,
+              "seo_product_id" : 225879,
+              "seo_slug" : "NinjaRMM",
+              "vendor_name" : "NinjaOne",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/60a95eb5-1e03-4585-98e9-f1ff346bfd04.png",
+              "rating" : 4.9,
+              "total_reviews" : 152,
+              "slug" : "NinjaRMM",
+              "product_name" : "NinjaOne",
+              "short_desc" : "NinjaOne's unified IT operations platform includes multiple one-click remote control options as well as full suite remote tools.\n",
+              "features" : "NinjaOne is the leading unified IT operations platform, providing a seamless, single-pane solution to manage endpoints and support end-users. Ninja includes multiple secure one-click remote control options as well as behind-the-scenes remote management tools including a remote terminal, task manager, Windows services manager, file explorer, and registry editor. Pairing remote support tools with proactive monitoring and other features provides a complete solution for endpoint support.",
+              "url" : "https://www.ninjaone.com/?utm_medium=cpc&utm_campaign=it_management"
+            },
+            {
+              "product_id" : 242233,
+              "seo_product_id" : 242233,
+              "seo_slug" : "Impero-Connect",
+              "vendor_name" : "Impero Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/60cd448b-0a3f-446e-b0fe-d28f144aa4a5.jpeg",
+              "rating" : 4.5,
+              "total_reviews" : 18,
+              "slug" : "Impero-Connect",
+              "product_name" : "Impero Connect",
+              "short_desc" : "Over 9 million users make 100+ million connections every day using Impero. Connecting people, data and devices where it matter most.",
+              "features" : "Impero Connect (formerly Netop Remote Control) is a remote access solution that's purpose-built for security. Support any device or server, from desktops and smartphones to highly sensitive ATMs, POS machines, smart factory devices, and medical equipment. \n\nImpero Connect offers flexible deployment options for cloud, on-premises or hybrid environments. Make sure your organization can run effectively and safely, no matter where people and devices connect.\n",
+              "url" : "https://www.imperosoftware.com/free-trial-cloud/?utm_campaign=Capterra%20-%20Connect&utm_source=ppc&utm_medium=capterra"
+            },
+            {
+              "product_id" : 181775,
+              "seo_product_id" : 227442,
+              "seo_slug" : "Zoho-Assist",
+              "vendor_name" : "Zoho",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/278f8e25-a26e-48d5-bfcf-7023fd68d960.png",
+              "rating" : 4.6,
+              "total_reviews" : 635,
+              "slug" : "Zoho-Assist",
+              "product_name" : "Zoho Assist",
+              "short_desc" : "Zoho Assist provides a simple and straight forward user interface to connect to remote computers anywhere on the globe.",
+              "features" : "Access your computer or mobile device from anywhere, anytime using Zoho Assist; your one-stop solution for remote support, screen sharing and unattended access. Get started today with one of the industry's most secure, reliable and affordable software. Requires no prior installation. Cross-platform support available. Works across devices. Supports all major web-proxies and firewalls.",
+              "url" : "https://www.zoho.com/assist/?utm_medium=cpc&utm_campaign=Capterra&utm_term=title&utm_content=title"
+            },
+            {
+              "product_id" : 145125,
+              "seo_product_id" : 145125,
+              "seo_slug" : "dualmon-Remote-Access",
+              "vendor_name" : "dualmon",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/9a206388-5b40-492a-b383-b7a76f279761.png",
+              "rating" : 4.8,
+              "total_reviews" : 152,
+              "slug" : "dualmon-Remote-Access",
+              "product_name" : "dualmon",
+              "short_desc" : "A secure web-based solution for on-demand remote support and remote access. Connect from anywhere, unlimited users and deployments.",
+              "features" : "Remote access and support made easy. Unlimited on-demand remote assistance for only $99/year, and unattended remote access plans starting at just $99/year for 10 computers, making dualmon the price leader for remote access solutions. No installation needed for users to get assistance. Includes 20 seats for support reps, and unlimited sessions. Custom cobranding, session recording, file transfer, remote printing, remote diagnostics, usage reporting, and more. Start your two-week free trial today!",
+              "url" : "https://www.dualmon.com/plans"
+            },
+            {
+              "product_id" : 179422,
+              "seo_product_id" : 133241,
+              "seo_slug" : "DameWare-Remote-Support",
+              "vendor_name" : "SolarWinds",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/445eff17-8ecf-49b8-a33e-44412e7eedbd.png",
+              "rating" : 4.6,
+              "total_reviews" : 231,
+              "slug" : "Dameware-Remote-Support",
+              "product_name" : "Dameware",
+              "short_desc" : "Easy to use and affordable remote control and remote IT administration tool for Windows, Mac, and Linux platforms.",
+              "features" : "Dameware is synonymous with affordable, reliable, and safe remote support software. SolarWinds offers two remote support solutions: on-premises or cloud based. Dameware Remote Everywhere (DRE) is the fast, simple, and lightweight cloud-based version designed to help IT professionals respond to and solve issues quickly. Dameware Remote Support (DRS) is an affordable and easy-to-use on-premises software designed to simplify and accelerate remote IT administration tasks.",
+              "url" : "https://www.dameware.com?CMP=SYN-RVW-CAP-SW_NA_X_PP_CPC_LD_EN_TOOGEN_DWA-DRS-X_X_X_X-FT"
+            },
+            {
+              "product_id" : 252356,
+              "seo_product_id" : 252356,
+              "seo_slug" : "VISULOX",
+              "vendor_name" : "amitego",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/562244f2-a114-4eab-9b59-19ad74f3bd62.png",
+              "rating" : 4.9,
+              "total_reviews" : 13,
+              "slug" : "VISULOX",
+              "product_name" : "VISULOX",
+              "short_desc" : "Tailored Privileged Access Management solution with integrated remote support platform from the leading provider in Germany, since 2003",
+              "features" : "Leading Privileged Access Management solution with integrated remote support platform for secure external access. VISULOX helps to answer the question who did what, where and when in IT infrastructures.\n\nVISULOX is able to control and document privileged user access vpn-free without merging security zones.\n\nVISULOX has modules for multi-factor authentication, session recording, keyboard logging and command controls, ... .\n\nThe solution integrates easily, without changes to servers or clients, \n\n",
+              "url" : "https://www.amitego.com/home/home-privileged-access-management-pam-home/?utm_source=capterra&utm_medium=ppc&utm_campaign=shortlist&utm_id=01&utm_term=PAM"
+            },
+            {
+              "product_id" : 162973,
+              "seo_product_id" : 162973,
+              "seo_slug" : "Splashtop-On-Demand-Support",
+              "vendor_name" : "Splashtop",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/f6899b46-d392-4979-979f-c83f80919ac5.png",
+              "rating" : 4.8,
+              "total_reviews" : 50,
+              "slug" : "Splashtop-On-Demand-Support",
+              "product_name" : "Splashtop SOS",
+              "short_desc" : "Splashtop SOS is a cost-effective, best-in-class, remote support software solution for IT, support, and help desks.",
+              "features" : "Splashtop SOS is the best value remote support software solution for IT, support teams, and help desks. Securely connect to your users computers and mobile devices with a simple session code or with unattended anytime access.\r\n\r\nSplashtop SOS features include: \r\n+ High-performance remote access\r\n+ Remotely view iOS screens in real-time\r\n+ Remote into Android devices\r\n+ Robust security\r\n+ File transfer\r\n+ Remote reboot and reconnect\r\n+ Licensed per technician\r\n\r\nGet started with a free trial!",
+              "url" : "https://www.splashtop.com/sos?utm_medium=cpc&utm_campaign=capterra&capterra=sos"
+            }
+          ],
+          "related_categories" : [
+            {
+              "functional_group" : "remsup",
+              "long_name" : "Call Center",
+              "html_name" : "call-center-software",
+              "link_name" : "call-center",
+              "product_count" : 174,
+              "meta_description" : "Find and compare top Call Center software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Call Center tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs.",
+              "description" : "<a href=/call-center-software>Call Center software</a> automates and standardizes the process of receiving and responding to customer phone calls. These solutions enable better monitoring of the customer experience, workflow management and evaluation of employee performance.  Whether designed for virtual or site-based locations, Call Center applications manage and catalog the process of customer calls and often allow customers to track the progress of their request via the internet.  <a href=/call-center-software>Call Center software</a> is related to <a href=/customer-service-software>Customer Service software</a> and <a href=/help-desk-software>Help Desk software</a>."
+            },
+            {
+              "functional_group" : "remsup",
+              "long_name" : "Complaint Management",
+              "html_name" : "complaint-management-software",
+              "link_name" : "complaint-management",
+              "product_count" : 22,
+              "meta_description" : "Find and compare top Complaint Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Complaint Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs.",
+              "description" : "<a href=\"/complaint-management-software\">Complaint Management software</a> helps to track, organize and resolve customer complaints and maximizes the productivity of the employees who deal with customers directly. These solutions are characterized by the ability to accurately capture, classify and route complaints, enabling communication across the team and insuring compliance. <a href=\"/complaint-management-software\">Complaint Management software</a> is related to <a href=\"/customer-satisfaction-software\">Customer Satisfaction software</a>, <a href=\"/customer-service-software\">Customer Service software</a> and <a href=\"/help-desk-software\">Help Desk software</a>."
+            },
+            {
+              "functional_group" : "remsup",
+              "long_name" : "CRM",
+              "html_name" : "customer-relationship-management-software",
+              "link_name" : "customer-relationship-management",
+              "product_count" : 353,
+              "meta_description" : "Find and compare top Customer Relationship Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Customer Relationship Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "Customer Relationship Management (CRM) software enables customer interaction, support and relationship management.  The purpose of a CRM application is to enable organizations to better manage their customers through the introduction of reliable systems, processes and procedures. <a href=/customer-relationship-management-software>Customer Relationship Management software</a> integrates organizational processes across marketing, sales and customer services.  CRM software is related to <a href=/contract-management-software>Contract Management software</a> and <a href=\"/online-crm-software\">Online CRM software</a>."
+            },
+            {
+              "functional_group" : "remsup",
+              "long_name" : "Customer Service",
+              "html_name" : "customer-service-software",
+              "link_name" : "customer-service",
+              "product_count" : 177,
+              "meta_description" : "Find and compare top Customer Service software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Customer Service tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/customer-service-software>Customer Service software</a> enables an organization to manage and track customer relationships and support services.  From trouble ticket tracking to complaint resolution reporting, <a href=/customer-service-software>Customer Service software</a> solutions allow organizations to manage and assess the quality of their interactions with customers.  Customer Service applications also assist in the management and distribution of an internal knowledge base, providing customer service representatives with the information necessary to resolve customer complaints.  <a href=/customer-service-software>Customer Service software</a> is related to <a href=/call-center-software>Call Center software</a>, <a href=/help-desk-software>Help Desk software</a> and <a href=/knowledge-management-software>Knowledge Management software</a>."
+            },
+            {
+              "functional_group" : "remsup",
+              "long_name" : "Help Desk",
+              "html_name" : "help-desk-software",
+              "link_name" : "help-desk",
+              "product_count" : 188,
+              "meta_description" : "Find and compare top Help Desk software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Help Desk tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/help-desk-software>Help Desk software</a> enables organizations to respond more efficiently to users. Support software can aid in answering technical and functional questions by providing improved methodologies for ticket tracking, IT management and customer service support. Integrating these elements improves the ability of <a href=\"/customer-service-software\">customer service</a> departments to provide fast and effective support to employees, end users and customers.  Help Desk solutions can also facilitate the flow of new information from users, contributing to an organization's existing knowledge base.  <a href=/help-desk-software>Help Desk software</a> is related to <a href=/call-center-software>Call Center software</a> and <a href=/customer-service-software>Customer Service software</a> ."
+            },
+            {
+              "functional_group" : "remsup",
+              "long_name" : "Issue Tracking",
+              "html_name" : "issue-tracking-software",
+              "link_name" : "issue-tracking",
+              "product_count" : 44,
+              "meta_description" : "Find and compare top Issue Tracking software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Issue Tracking tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/issue-tracking-software\">Issue Tracking software</a> helps organizations monitor, manage and resolve issues in a variety of departments, from Financials to Help Desk. These applications keep track of tasks from capture to resolution, producing reports, enforcing compliance and optimizing business resources. <a href=\"/issue-tracking-software\">Issue Tracking software</a> is often web-based and compatible with other software applications. For related solutions see <a href=\"/bug-tracking-software\">Bug Tracking software</a>, <a href=\"/complaint-management-software\">Complaint Management software</a> and <a href=\"/help-desk-software\">Help Desk software</a>."
+            },
+            {
+              "functional_group" : "remsup",
+              "long_name" : "ITSM",
+              "html_name" : "itsm-software",
+              "link_name" : "itsm",
+              "product_count" : 28,
+              "meta_description" : "Find and compare top ITSM software on Capterra, with our free and interactive tool. Quickly browse through hundreds of ITSM tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/itsm-software\">ITSM software</a>, also known as Information Technology Service Management software, focuses on management of internal and external IT support. These applications guide IT organizations through the planning, design, development, delivery, and support of their services. <a href=\"/itsm-software\">ITSM solutions</a> encompass such areas as <a href=\"/help-desk-software\">Help Desk</a> and <a href=\"/it-service-software\">IT Service</a>."
+            },
+            {
+              "functional_group" : "remsup",
+              "long_name" : "Knowledge Management",
+              "html_name" : "knowledge-management-software",
+              "link_name" : "knowledge-management",
+              "product_count" : 118,
+              "meta_description" : "Find and compare top Knowledge Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Knowledge Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/knowledge-management-software>Knowledge Management software</a> offers ways to optimize the utility of intellectual capital and intangible assets by capturing, preserving and organizing institutional knowledge in a measurable format. Knowledge Management solutions allow successful strategies to be transferred and replicated throughout an organization.  Implementation can be inwardly focused on faster learning, new knowledge creation, and innovation or directed outwardly, providing a self-guided service path for customers.  <a href=/knowledge-management-software>Knowledge Management software</a> is related to <a href=/business-intelligence-software>Business Intelligence software</a> and <a href=/document-management-software>Document Management software</a>."
+            },
+            {
+              "functional_group" : "remsup",
+              "long_name" : "Live Chat",
+              "html_name" : "live-chat-software",
+              "link_name" : "live-chat",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Live Chat software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Live Chat tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "Live Chat software helps organizations connect with their customers in real time. Live Chat applications can be used for customer support, lead generation, and customer engagement. This type of software includes widgets that can be integrated into existing websites, as well as more robust stand alone solutions that allow businesses to track customer interactions, response and conversion rates."
+            },
+            {
+              "functional_group" : "remsup",
+              "long_name" : "Online CRM",
+              "html_name" : "online-crm-software",
+              "link_name" : "online-crm",
+              "product_count" : 85,
+              "meta_description" : "Find and compare top Online CRM software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Online CRM tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/online-crm-software\">Online CRM software</a> enables web-based customer interaction, support and relationship management.  Online customer relationship management applications provide customers with access to an organization's knowledge base assets, allowing customers to pursue a self-guided path to resolving product-related issues, either via the web or over the phone.  Online CRM solutions can help increase the efficiency and utility of a call center, website or help desk by empowering customers to resolve issues on their own without engaging with customer service staff.  <a href=\"/online-crm-software\">Online CRM software</a> is related to <a href=/customer-relationship-management-software>Customer Relationship Management software</a>."
+            },
+            {
+              "functional_group" : "remsup",
+              "long_name" : "Remote Monitoring and Management",
+              "html_name" : "remote-monitoring-and-management-software",
+              "link_name" : "remote-monitoring-and-management",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Remote Monitoring and Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Remote Monitoring and Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "Remote Monitoring and Management or RMM software is widely used by managed services providers to perform monitoring, maintenance and troubleshooting for their clients' IT systems."
+            },
+            {
+              "functional_group" : "remsup",
+              "long_name" : "Remote Work",
+              "html_name" : "remote-work-software",
+              "link_name" : "remote-work",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Remote Work software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Remote Work tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "Remote Work software includes a combination of different types of solutions needed for professionals to be efficient and effective in their role from outside a fixed office space. Collaboration and team communication are vital for productive and successful remote work professionals.  Remote Work consists of software like, Softphone, Live Chat, Web Conferencing, Collaboration, Project Management, Remote Support and more. "
+            },
+            {
+              "functional_group" : "remsup",
+              "long_name" : "Screen Sharing",
+              "html_name" : "screen-sharing-software",
+              "link_name" : "screen-sharing",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Screen Sharing software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Screen Sharing tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "Screen Sharing software allows presenters and meeting participants to share the screens of their computers with other participants' computers or with projecting devices."
+            }
+          ],
+          "is_upgraded" : true,
+          "enabled" : true,
+          "filter_options" : {
+            "users" : 15,
+            "platform" : 53,
+            "pricing_options" : 18,
+            "category_related_features" : [
+              25626,
+              25628,
+              25629,
+              25630,
+              25631,
+              29540,
+              29541,
+              29542,
+              47480,
+              47481,
+              47490,
+              47496,
+              47499,
+              47505,
+              47506,
+              47507,
+              47509,
+              47511,
+              47514
+            ],
+            "employees" : 127
+          },
+          "sort_options" : {
+            "sort_review_rating" : 4.669562339782715,
+            "most_recent_review" : "2022-07-08T06:56:44Z"
+          },
+          "countries" : "US,UK,TR,CH,SE,SJ,ES,SI,SK,RS,SM,RU,RO,PT,PL,NO,NL,ME,MC,MD,MT,MK,LU,LT,LI,LV,JE,IT,IM,IE,IS,HU,VA,GG,GL,GR,GI,DE,FR,FI,FO,EE,CZ,CY,HR,BG,BA,BE,BY,AT,AD,AL,AX,DK,BR,PR,BS,AE,IL,HK,ZA,MX,FJ,CK,VI,VG,TC,TT,VC,PM,MF,LC,KN,PA,NI,AN,MS,MQ,JM,HN,GD,DO,CU,DM,CR,KY,BM,BZ,BB,AI,AW,AG,TH,TW,SG,SA,PH,MV,MY,KW,KR,JP,CN,BH,SO,SC,SN,RW,NG,NA,DZ,MU,MG,LS,KE,GH,GM,GA,ET,EG,CM,BW,BJ,AO,VE,UY,SR,PE,PY,EC,CO,CL,BO,AR,SB,WS,PG,PW,MP,NF,NC,VU,NR,FM,MH,KI,PF,GU,AU,NZ,CA",
+          "features_tokenized_text" : "file_sharing real-time_chat screen_sharing session_recording",
+          "platform_tokenized_text" : "cloud,saas,web-based desktopwindows on-premisewindows on-premiselinux",
+          "users_tokenized_text" : "1 2-10 11-50 51-200",
+          "pricing_tokenized_text" : "monthlysubscription freetrial",
+          "badges" : [ ],
+          "bid_spot_us" : 4.0,
+          "currency_code" : "USD",
+          "currency_symbol" : "$",
+          "credit_card_required" : "Unverified",
+          "licensing_model" : null,
+          "open_api_offered" : "No",
+          "mobile_urls" : [ ],
+          "integrations" : [ ],
+          "supported_countries" : [
+            {
+              "id" : 139,
+              "code" : "MH",
+              "name" : "Marshall Islands"
+            },
+            {
+              "id" : 29,
+              "code" : "BA",
+              "name" : "Bosnia and Herzegovina"
+            },
+            {
+              "id" : 164,
+              "code" : "NF",
+              "name" : "Norfolk Island"
+            },
+            {
+              "id" : 79,
+              "code" : "PF",
+              "name" : "French Polynesia"
+            },
+            {
+              "id" : 142,
+              "code" : "MU",
+              "name" : "Mauritius"
+            },
+            {
+              "id" : 190,
+              "code" : "MF",
+              "name" : "Saint Martin"
+            },
+            {
+              "id" : 82,
+              "code" : "GM",
+              "name" : "Gambia"
+            },
+            {
+              "id" : 167,
+              "code" : "NO",
+              "name" : "Norway"
+            },
+            {
+              "id" : 185,
+              "code" : "RW",
+              "name" : "Rwanda"
+            },
+            {
+              "id" : 56,
+              "code" : "HR",
+              "name" : "Croatia"
+            },
+            {
+              "id" : 159,
+              "code" : "NZ",
+              "name" : "New Zealand"
+            },
+            {
+              "id" : 59,
+              "code" : "CY",
+              "name" : "Cyprus"
+            },
+            {
+              "id" : 32,
+              "code" : "BR",
+              "name" : "Brazil"
+            },
+            {
+              "id" : 244,
+              "code" : "VI",
+              "name" : "Virgin Islands (U.S.)"
+            },
+            {
+              "id" : 199,
+              "code" : "SC",
+              "name" : "Seychelles"
+            },
+            {
+              "id" : 205,
+              "code" : "SB",
+              "name" : "Solomon Islands"
+            },
+            {
+              "id" : 165,
+              "code" : "MK",
+              "name" : "North Macedonia"
+            },
+            {
+              "id" : 162,
+              "code" : "NG",
+              "name" : "Nigeria"
+            },
+            {
+              "id" : 108,
+              "code" : "IE",
+              "name" : "Ireland"
+            },
+            {
+              "id" : 196,
+              "code" : "SA",
+              "name" : "Saudi Arabia"
+            },
+            {
+              "id" : 111,
+              "code" : "IT",
+              "name" : "Italy"
+            },
+            {
+              "id" : 65,
+              "code" : "EC",
+              "name" : "Ecuador"
+            },
+            {
+              "id" : 193,
+              "code" : "WS",
+              "name" : "Samoa"
+            },
+            {
+              "id" : 241,
+              "code" : "VE",
+              "name" : "Venezuela"
+            },
+            {
+              "id" : 22,
+              "code" : "BE",
+              "name" : "Belgium"
+            },
+            {
+              "id" : 85,
+              "code" : "GH",
+              "name" : "Ghana"
+            },
+            {
+              "id" : 214,
+              "code" : "SJ",
+              "name" : "Svalbard and Jan Mayen"
+            },
+            {
+              "id" : 88,
+              "code" : "GL",
+              "name" : "Greenland"
+            },
+            {
+              "id" : 2,
+              "code" : "AX",
+              "name" : "Aland Islands"
+            },
+            {
+              "id" : 194,
+              "code" : "SM",
+              "name" : "San Marino"
+            },
+            {
+              "id" : 25,
+              "code" : "BM",
+              "name" : "Bermuda"
+            },
+            {
+              "id" : 234,
+              "code" : "AE",
+              "name" : "United Arab Emirates"
+            },
+            {
+              "id" : 140,
+              "code" : "MQ",
+              "name" : "Martinique"
+            },
+            {
+              "id" : 174,
+              "code" : "PY",
+              "name" : "Paraguay"
+            },
+            {
+              "id" : 10,
+              "code" : "AG",
+              "name" : "Antigua and Barbuda"
+            },
+            {
+              "id" : 191,
+              "code" : "PM",
+              "name" : "Saint Pierre and Miquelon"
+            },
+            {
+              "id" : 188,
+              "code" : "KN",
+              "name" : "Saint Kitts and Nevis"
+            },
+            {
+              "id" : 114,
+              "code" : "JE",
+              "name" : "Jersey"
+            },
+            {
+              "id" : 117,
+              "code" : "KE",
+              "name" : "Kenya"
+            },
+            {
+              "id" : 240,
+              "code" : "VU",
+              "name" : "Vanuatu"
+            },
+            {
+              "id" : 54,
+              "code" : "CR",
+              "name" : "Costa Rica"
+            },
+            {
+              "id" : 243,
+              "code" : "VG",
+              "name" : "Virgin Islands (British)"
+            },
+            {
+              "id" : 91,
+              "code" : "GU",
+              "name" : "Guam"
+            },
+            {
+              "id" : 8,
+              "code" : "AI",
+              "name" : "Anguilla"
+            },
+            {
+              "id" : 126,
+              "code" : "LS",
+              "name" : "Lesotho"
+            },
+            {
+              "id" : 228,
+              "code" : "TR",
+              "name" : "Turkey"
+            },
+            {
+              "id" : 11,
+              "code" : "AR",
+              "name" : "Argentina"
+            },
+            {
+              "id" : 146,
+              "code" : "MD",
+              "name" : "Moldova (the Republic of)"
+            },
+            {
+              "id" : 63,
+              "code" : "DM",
+              "name" : "Dominica"
+            },
+            {
+              "id" : 197,
+              "code" : "SN",
+              "name" : "Senegal"
+            },
+            {
+              "id" : 120,
+              "code" : "KR",
+              "name" : "South Korea"
+            },
+            {
+              "id" : 57,
+              "code" : "CU",
+              "name" : "Cuba"
+            },
+            {
+              "id" : 64,
+              "code" : "DO",
+              "name" : "Dominican Republic"
+            },
+            {
+              "id" : 201,
+              "code" : "SG",
+              "name" : "Singapore"
+            },
+            {
+              "id" : 101,
+              "code" : "HK",
+              "name" : "Hong Kong"
+            },
+            {
+              "id" : 230,
+              "code" : "TC",
+              "name" : "Turks and Caicos Islands"
+            },
+            {
+              "id" : 75,
+              "code" : "FJ",
+              "name" : "Fiji"
+            },
+            {
+              "id" : 18,
+              "code" : "BH",
+              "name" : "Bahrain"
+            },
+            {
+              "id" : 213,
+              "code" : "SR",
+              "name" : "Suriname"
+            },
+            {
+              "id" : 4,
+              "code" : "DZ",
+              "name" : "Algeria"
+            },
+            {
+              "id" : 210,
+              "code" : "ES",
+              "name" : "Spain"
+            },
+            {
+              "id" : 144,
+              "code" : "MX",
+              "name" : "Mexico"
+            },
+            {
+              "id" : 81,
+              "code" : "GA",
+              "name" : "Gabon"
+            },
+            {
+              "id" : 21,
+              "code" : "BY",
+              "name" : "Belarus"
+            },
+            {
+              "id" : 124,
+              "code" : "LV",
+              "name" : "Latvia"
+            },
+            {
+              "id" : 24,
+              "code" : "BJ",
+              "name" : "Benin"
+            },
+            {
+              "id" : 207,
+              "code" : "ZA",
+              "name" : "South Africa"
+            },
+            {
+              "id" : 147,
+              "code" : "MC",
+              "name" : "Monaco"
+            },
+            {
+              "id" : 238,
+              "code" : "UY",
+              "name" : "Uruguay"
+            },
+            {
+              "id" : 150,
+              "code" : "MS",
+              "name" : "Montserrat"
+            },
+            {
+              "id" : 216,
+              "code" : "CH",
+              "name" : "Switzerland"
+            },
+            {
+              "id" : 138,
+              "code" : "MT",
+              "name" : "Malta"
+            },
+            {
+              "id" : 170,
+              "code" : "PW",
+              "name" : "Palau"
+            },
+            {
+              "id" : 110,
+              "code" : "IL",
+              "name" : "Israel"
+            },
+            {
+              "id" : 53,
+              "code" : "CK",
+              "name" : "Cook Islands"
+            },
+            {
+              "id" : 113,
+              "code" : "JP",
+              "name" : "Japan"
+            },
+            {
+              "id" : 179,
+              "code" : "PT",
+              "name" : "Portugal"
+            },
+            {
+              "id" : 7,
+              "code" : "AO",
+              "name" : "Angola"
+            },
+            {
+              "id" : 133,
+              "code" : "MG",
+              "name" : "Madagascar"
+            },
+            {
+              "id" : 176,
+              "code" : "PH",
+              "name" : "Philippines"
+            },
+            {
+              "id" : 27,
+              "code" : "BO",
+              "name" : "Bolivia"
+            },
+            {
+              "id" : 136,
+              "code" : "MV",
+              "name" : "Maldives"
+            },
+            {
+              "id" : 30,
+              "code" : "BW",
+              "name" : "Botswana"
+            },
+            {
+              "id" : 130,
+              "code" : "LT",
+              "name" : "Lithuania"
+            },
+            {
+              "id" : 173,
+              "code" : "PG",
+              "name" : "Papua New Guinea"
+            },
+            {
+              "id" : 60,
+              "code" : "CZ",
+              "name" : "Czechia"
+            },
+            {
+              "id" : 40,
+              "code" : "CM",
+              "name" : "Cameroon"
+            },
+            {
+              "id" : 17,
+              "code" : "BS",
+              "name" : "Bahamas"
+            },
+            {
+              "id" : 20,
+              "code" : "BB",
+              "name" : "Barbados"
+            },
+            {
+              "id" : 13,
+              "code" : "AW",
+              "name" : "Aruba"
+            },
+            {
+              "id" : 226,
+              "code" : "TT",
+              "name" : "Trinidad and Tobago"
+            },
+            {
+              "id" : 84,
+              "code" : "DE",
+              "name" : "Germany"
+            },
+            {
+              "id" : 23,
+              "code" : "BZ",
+              "name" : "Belize"
+            },
+            {
+              "id" : 203,
+              "code" : "SK",
+              "name" : "Slovakia"
+            },
+            {
+              "id" : 87,
+              "code" : "GR",
+              "name" : "Greece"
+            },
+            {
+              "id" : 61,
+              "code" : "DK",
+              "name" : "Denmark"
+            },
+            {
+              "id" : 42,
+              "code" : "KY",
+              "name" : "Cayman Islands"
+            },
+            {
+              "id" : 93,
+              "code" : "GG",
+              "name" : "Guernsey"
+            },
+            {
+              "id" : 45,
+              "code" : "CL",
+              "name" : "Chile"
+            },
+            {
+              "id" : 77,
+              "code" : "FR",
+              "name" : "France"
+            },
+            {
+              "id" : 74,
+              "code" : "FO",
+              "name" : "Faroe Islands"
+            },
+            {
+              "id" : 100,
+              "code" : "HN",
+              "name" : "Honduras"
+            },
+            {
+              "id" : 145,
+              "code" : "FM",
+              "name" : "Micronesia"
+            },
+            {
+              "id" : 103,
+              "code" : "IS",
+              "name" : "Iceland"
+            },
+            {
+              "id" : 180,
+              "code" : "PR",
+              "name" : "Puerto Rico"
+            },
+            {
+              "id" : 154,
+              "code" : "NA",
+              "name" : "Namibia"
+            },
+            {
+              "id" : 183,
+              "code" : "RO",
+              "name" : "Romania"
+            },
+            {
+              "id" : 206,
+              "code" : "SO",
+              "name" : "Somalia"
+            },
+            {
+              "id" : 6,
+              "code" : "AD",
+              "name" : "Andorra"
+            },
+            {
+              "id" : 192,
+              "code" : "VC",
+              "name" : "Saint Vincent and the Grenadines"
+            },
+            {
+              "id" : 218,
+              "code" : "TW",
+              "name" : "Taiwan"
+            },
+            {
+              "id" : 15,
+              "code" : "AT",
+              "name" : "Austria"
+            },
+            {
+              "id" : 35,
+              "code" : "BG",
+              "name" : "Bulgaria"
+            },
+            {
+              "id" : 237,
+              "code" : "US",
+              "name" : "United States of America"
+            },
+            {
+              "id" : 221,
+              "code" : "TH",
+              "name" : "Thailand"
+            },
+            {
+              "id" : 250,
+              "code" : "AN",
+              "name" : "Netherlands Antilles"
+            },
+            {
+              "id" : 70,
+              "code" : "EE",
+              "name" : "Estonia"
+            },
+            {
+              "id" : 99,
+              "code" : "VA",
+              "name" : "Holy See (Vatican City State)"
+            },
+            {
+              "id" : 102,
+              "code" : "HU",
+              "name" : "Hungary"
+            },
+            {
+              "id" : 76,
+              "code" : "FI",
+              "name" : "Finland"
+            },
+            {
+              "id" : 131,
+              "code" : "LU",
+              "name" : "Luxembourg"
+            },
+            {
+              "id" : 157,
+              "code" : "NL",
+              "name" : "Netherlands"
+            },
+            {
+              "id" : 160,
+              "code" : "NI",
+              "name" : "Nicaragua"
+            },
+            {
+              "id" : 166,
+              "code" : "MP",
+              "name" : "Northern Mariana Islands"
+            },
+            {
+              "id" : 189,
+              "code" : "LC",
+              "name" : "Saint Lucia"
+            },
+            {
+              "id" : 235,
+              "code" : "GB",
+              "name" : "United Kingdom of Great Britain and Northern Ireland"
+            },
+            {
+              "id" : 14,
+              "code" : "AU",
+              "name" : "Australia"
+            },
+            {
+              "id" : 41,
+              "code" : "CA",
+              "name" : "Canada"
+            },
+            {
+              "id" : 155,
+              "code" : "NR",
+              "name" : "Nauru"
+            },
+            {
+              "id" : 46,
+              "code" : "CN",
+              "name" : "China"
+            },
+            {
+              "id" : 215,
+              "code" : "SE",
+              "name" : "Sweden"
+            },
+            {
+              "id" : 109,
+              "code" : "IM",
+              "name" : "Isle of Man"
+            },
+            {
+              "id" : 49,
+              "code" : "CO",
+              "name" : "Colombia"
+            },
+            {
+              "id" : 112,
+              "code" : "JM",
+              "name" : "Jamaica"
+            },
+            {
+              "id" : 66,
+              "code" : "EG",
+              "name" : "Egypt"
+            },
+            {
+              "id" : 129,
+              "code" : "LI",
+              "name" : "Liechtenstein"
+            },
+            {
+              "id" : 86,
+              "code" : "GI",
+              "name" : "Gibraltar"
+            },
+            {
+              "id" : 175,
+              "code" : "PE",
+              "name" : "Peru"
+            },
+            {
+              "id" : 149,
+              "code" : "ME",
+              "name" : "Montenegro"
+            },
+            {
+              "id" : 89,
+              "code" : "GD",
+              "name" : "Grenada"
+            },
+            {
+              "id" : 72,
+              "code" : "ET",
+              "name" : "Ethiopia"
+            },
+            {
+              "id" : 172,
+              "code" : "PA",
+              "name" : "Panama"
+            },
+            {
+              "id" : 135,
+              "code" : "MY",
+              "name" : "Malaysia"
+            },
+            {
+              "id" : 184,
+              "code" : "RU",
+              "name" : "Russian Federation"
+            },
+            {
+              "id" : 198,
+              "code" : "RS",
+              "name" : "Serbia"
+            },
+            {
+              "id" : 158,
+              "code" : "NC",
+              "name" : "New Caledonia"
+            },
+            {
+              "id" : 3,
+              "code" : "AL",
+              "name" : "Albania"
+            },
+            {
+              "id" : 178,
+              "code" : "PL",
+              "name" : "Poland"
+            },
+            {
+              "id" : 118,
+              "code" : "KI",
+              "name" : "Kiribati"
+            },
+            {
+              "id" : 204,
+              "code" : "SI",
+              "name" : "Slovenia"
+            },
+            {
+              "id" : 121,
+              "code" : "KW",
+              "name" : "Kuwait"
+            }
+          ],
+          "supported_languages" : [
+            {
+              "id" : 152,
+              "code" : "en",
+              "name" : "English",
+              "location" : null
+            }
+          ],
+          "target_industries" : [
+            {
+              "id" : 62,
+              "code" : "147",
+              "name" : "Industrial Automation"
+            },
+            {
+              "id" : 58,
+              "code" : "31",
+              "name" : "Hospitality"
+            },
+            {
+              "id" : 35,
+              "code" : "132",
+              "name" : "E-Learning"
+            },
+            {
+              "id" : 25,
+              "code" : "4",
+              "name" : "Computer Software"
+            },
+            {
+              "id" : 97,
+              "code" : "100",
+              "name" : "Non-Profit Organization Management"
+            },
+            {
+              "id" : 57,
+              "code" : "14",
+              "name" : "Hospital & Health Care"
+            },
+            {
+              "id" : 84,
+              "code" : "80",
+              "name" : "Marketing and Advertising"
+            },
+            {
+              "id" : 64,
+              "code" : "96",
+              "name" : "Information Technology and Services"
+            },
+            {
+              "id" : 120,
+              "code" : "44",
+              "name" : "Real Estate"
+            }
+          ],
+          "price_range_id" : 1,
+          "aggregated_review_ratings" : {
+            "industry" : {
+              "47" : 4.77,
+              "14" : 4.91,
+              "138" : 4.5,
+              "100" : 5.0,
+              "44" : 5.0,
+              "53" : 5.0,
+              "13" : 5.0,
+              "112" : 5.0,
+              "51" : 5.0,
+              "8" : 4.78,
+              "104" : 4.0,
+              "12" : 5.0,
+              "103" : 4.0,
+              "118" : 4.79,
+              "96" : 4.77,
+              "4" : 4.81,
+              "54" : 5.0,
+              "75" : 5.0,
+              "43" : 4.33,
+              "25" : 5.0,
+              "91" : 5.0,
+              "31" : 5.0,
+              "122" : 4.0,
+              "1" : 4.33,
+              "41" : 4.0,
+              "82" : 5.0,
+              "80" : 5.0,
+              "133" : 5.0,
+              "69" : 5.0,
+              "17" : 4.5,
+              "135" : 5.0,
+              "48" : 5.0,
+              "67" : 5.0,
+              "42" : 4.0,
+              "116" : 4.0,
+              "132" : 4.0,
+              "83" : 5.0,
+              "3" : 4.64,
+              "27" : 4.8,
+              "15" : 5.0,
+              "148" : 4.0,
+              "49" : 5.0,
+              "84" : 4.33,
+              "146" : 5.0,
+              "61" : 4.0,
+              "124" : 5.0,
+              "70" : 5.0,
+              "34" : 5.0,
+              "6" : 5.0,
+              "5" : 4.69,
+              "24" : 5.0,
+              "10" : 5.0,
+              "147" : 5.0
+            },
+            "company_size" : {
+              "11-50 employees" : 4.66,
+              "201-500 employees" : 4.57,
+              "5001-10,000 employees" : 5.0,
+              "Self-employed" : 4.89,
+              "1001-5000 employees" : 4.29,
+              "10,001+ employees" : 4.67,
+              "1-10 employees" : 4.76,
+              "501-1000 employees" : 4.86,
+              "51-200 employees" : 4.83
+            }
+          },
+          "vct_enabled" : true,
+          "pricing_plans" : [
+            {
+              "created_on_utc" : "2019-08-21T14:47:39Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Basic",
+              "description" : "Discounted prices are available for annual billing.",
+              "display_order" : 1,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 30.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Other",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "Drag-and-Drop Interface"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "File Transfer"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Instant Chat"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "Multi-Session Handling"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 5,
+                  "name" : "Multi-Window Control"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 6,
+                  "name" : "Unattended Access"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 7,
+                  "name" : "Whiteboard Tools"
+                }
+              ]
+            }
+          ],
+          "discount_types" : [
+            {
+              "name" : "By Plan Frequency",
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null
+            }
+          ]
+        }
+      },
+      {
+        "_index" : "product_listings_main_data_upc_vt20220920_043802_utc",
+        "_type" : "_doc",
+        "_id" : "226671_ccare",
+        "_score" : 10.277467,
+        "_source" : {
+          "product_id" : 226671,
+          "seo_product_id" : 226671,
+          "seo_slug" : "FixMeIT",
+          "product_name" : "FixMe.IT",
+          "upc_product_uuid" : "3f73b5d6-0d8b-4c69-a702-a6d200b6e7b3",
+          "old_product_ids" : [
+            151861,
+            162442
+          ],
+          "product_url" : "https://www.techinline.com",
+          "product_slug" : "FixMeIT",
+          "former_name" : "FixMe.IT",
+          "logo_filepath" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/105710c7-d691-45a7-8237-0a283997660d.png",
+          "vendor" : {
+            "vendor_id" : 2174134,
+            "vendor_name" : "Techinline",
+            "vendor_url" : "https://www.techinline.com",
+            "year_founded" : 2007,
+            "location" : "Canada",
+            "vendor_opted_out_of_reviews" : true,
+            "is_opted_out_of_reviews" : false,
+            "is_hit_limit" : false,
+            "enabled" : true,
+            "has_vendor_level_page" : false,
+            "slug" : null,
+            "vendor_page" : false,
+            "paused_campaign" : false
+          },
+          "category_short_name" : "ccare",
+          "category_html_name" : "customer-service-software",
+          "category" : {
+            "id" : 22,
+            "short_name" : "ccare",
+            "long_name" : "Customer Service",
+            "html_name" : "customer-service-software",
+            "enabled" : true
+          },
+          "best_category" : "ccare",
+          "is_best_category" : true,
+          "highest_cpc_category" : null,
+          "is_highest_cpc_category" : false,
+          "short_desc" : "Remote support app designed for connecting to client machines within seconds to securely deliver on-demand or unattended support. ",
+          "long_desc" : "Remote support solution designed for delivering instant unattended and on-demand support to clients located anywhere in the world. Starting at just $25 per month, FixMe.IT provides multi-session handling, unlimited on-demand support and access up to 150 unattended machines. Other key features include branding, multi-monitor navigation, two-way desktop sharing, file transfer, drawing tools, session recording, reporting, and much more.",
+          "rating" : 4.8,
+          "number_of_reviews" : 359,
+          "total_reviews" : 365,
+          "ease_of_use_rating" : 4.8,
+          "customer_support_rating" : 4.7,
+          "functionality_rating" : 4.5,
+          "value_for_money_rating" : 4.7,
+          "recommendation_rating" : 9.2,
+          "pricing_enabled" : true,
+          "pricing" : 30.0,
+          "is_per_user" : false,
+          "fee_schedule" : "Per-Month",
+          "pricing_model" : "Other",
+          "pricing_details" : "The unlimited subscription license offers complete freedom over the term of your purchase.\r\nMonthly plan: $30/seat/month\r\nAnnual plan: $300/seat/month",
+          "pricing_created_on" : "2019-08-21T14:47:39Z",
+          "pricing_modified_on" : "2022-06-23T14:42:33Z",
+          "pricing_created_by" : null,
+          "pricing_modified_by" : null,
+          "pricing_vendor_pricing_url" : "https://www.techinline.com/Pricing",
+          "free_trial" : true,
+          "free_version" : false,
+          "target_audience" : "IT professionals from businesses of all sizes and across various industries",
+          "target_users" : [
+            "1",
+            "2-10",
+            "11-50",
+            "51-200"
+          ],
+          "platform" : [
+            {
+              "enabled" : true,
+              "name" : "Cloud, SaaS, Web-Based"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Mac"
+            },
+            {
+              "enabled" : true,
+              "name" : "Desktop Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Linux"
+            },
+            {
+              "enabled" : true,
+              "name" : "On-Premise Windows"
+            },
+            {
+              "enabled" : true,
+              "name" : "On-Premise Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Chromebook"
+            },
+            {
+              "enabled" : false,
+              "name" : "Mobile Android"
+            },
+            {
+              "enabled" : false,
+              "name" : "Mobile iPhone"
+            },
+            {
+              "enabled" : false,
+              "name" : "Mobile iPad"
+            }
+          ],
+          "support" : [
+            {
+              "enabled" : true,
+              "name" : "Email Help Desk"
+            },
+            {
+              "enabled" : true,
+              "name" : "FAQ Forum"
+            },
+            {
+              "enabled" : true,
+              "name" : "Knowledgebase"
+            },
+            {
+              "enabled" : true,
+              "name" : "Phone Support"
+            },
+            {
+              "enabled" : true,
+              "name" : "24/7 Live Rep"
+            },
+            {
+              "enabled" : true,
+              "name" : "Chat"
+            }
+          ],
+          "training" : [
+            {
+              "enabled" : false,
+              "name" : "Not Offered"
+            },
+            {
+              "enabled" : false,
+              "name" : "In-Person"
+            },
+            {
+              "enabled" : true,
+              "name" : "Live Online"
+            },
+            {
+              "enabled" : false,
+              "name" : "Webinars"
+            },
+            {
+              "enabled" : true,
+              "name" : "Documentation"
+            },
+            {
+              "enabled" : true,
+              "name" : "Videos"
+            }
+          ],
+          "media" : [
+            {
+              "product_id" : 226671,
+              "vendor_id" : 2174134,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/561ba2eb-5b07-4cb2-a6b7-9098353e934d.png",
+              "caption" : "FixMe.IT Expert App Home",
+              "weight" : 1,
+              "short_name" : "ccare"
+            },
+            {
+              "product_id" : 226671,
+              "vendor_id" : 2174134,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/746cd032-2519-4735-a9db-b0230122ca74.png",
+              "caption" : "Remote Desktop Control",
+              "weight" : 2,
+              "short_name" : "ccare"
+            },
+            {
+              "product_id" : 226671,
+              "vendor_id" : 2174134,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/824007f1-4c24-4deb-a86e-38127baa81f0.png",
+              "caption" : "FixMe.IT Unattended List",
+              "weight" : 3,
+              "short_name" : "ccare"
+            },
+            {
+              "product_id" : 226671,
+              "vendor_id" : 2174134,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/d778b187-d981-41c4-affd-770aea5cecf6.png",
+              "caption" : "FixMe.IT Client App",
+              "weight" : 4,
+              "short_name" : "ccare"
+            },
+            {
+              "product_id" : 226671,
+              "vendor_id" : 2174134,
+              "media_type" : "VIDEO",
+              "path_url" : "https://www.youtube.com/watch?v=QomSifFrDJE",
+              "caption" : null,
+              "weight" : 0,
+              "short_name" : "ccare"
+            }
+          ],
+          "links" : [ ],
+          "features" : [
+            {
+              "category_name" : "Customer Service",
+              "category_features" : [
+                {
+                  "name" : "Alerts / Escalation",
+                  "value" : false,
+                  "id" : "030d8b13-e19b-4403-ab30-a9111d03d246",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "System notifications about the need to bump priority level of ticket"
+                },
+                {
+                  "name" : "Appointment Management",
+                  "value" : false,
+                  "id" : "6ab35f7f-8e54-47f1-868a-6f35eef38ab5",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Schedule, change or cancel appointments"
+                },
+                {
+                  "name" : "Call Center Management",
+                  "value" : false,
+                  "id" : "2aaef140-e839-40ae-adaa-7984914ee418",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Manage all call center activities including call monitoring, call recording, call answering, call transfer, etc."
+                },
+                {
+                  "name" : "Email Management",
+                  "value" : false,
+                  "id" : "3e196cb4-81ed-4150-b827-eb5e2f1cb2b7",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Sort and organize large volumes of inbound emails."
+                },
+                {
+                  "name" : "Knowledge Base Management",
+                  "value" : false,
+                  "id" : "11996670-18b9-4be4-9392-c7c7d370593d",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Create, store and share information, data, and support articles in a centralized database"
+                },
+                {
+                  "name" : "Live Chat",
+                  "value" : true,
+                  "id" : "9af278c7-ddc8-463b-985f-206165ea83db",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Ability to chat online in real time"
+                },
+                {
+                  "name" : "Performance Metrics",
+                  "value" : false,
+                  "id" : "28071df9-b91d-44b7-9721-10fe2f036819",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "A set of indicators that tracks how well an organization, a division, or a particular project are performing"
+                },
+                {
+                  "name" : "Queue Management",
+                  "value" : false,
+                  "id" : "7d43eb22-86be-4b4c-a60d-f8fc5d1c7607",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Monitor wait time and abandonment for incoming requests that have not been routed"
+                },
+                {
+                  "name" : "Self Service Portal",
+                  "value" : false,
+                  "id" : "80f0258d-e261-4136-ba81-a5251a304f8e",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Gateway through which end users can access the system"
+                },
+                {
+                  "name" : "Social Media Integration",
+                  "value" : false,
+                  "id" : "2a14fe93-3eb6-48a4-906a-dabca8d98cc2",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Integrate with Facebook, Twitter, LinkedIn, etc."
+                },
+                {
+                  "name" : "Surveys & Feedback",
+                  "value" : false,
+                  "id" : "ac019461-1e0e-49b2-a4f0-bd6e13dedf23",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Gauge satisfaction and receive information for improvement and success"
+                },
+                {
+                  "name" : "Virtual Assistant",
+                  "value" : false,
+                  "id" : "2c3ab594-fc03-47d0-85af-ba2a74b42bb9",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "AI program that learns to perform repetitive data-driven actions such as content or product recommendation, chat automation, etc."
+                },
+                {
+                  "name" : "Workflow Management",
+                  "value" : false,
+                  "id" : "c4c63af2-2e9e-4f8b-b965-20e94a16a8b9",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Create, design, and automate processes within the software"
+                }
+              ]
+            },
+            {
+              "category_name" : "ITSM",
+              "category_features" : [
+                {
+                  "name" : "Asset Tracking",
+                  "value" : false,
+                  "id" : "7a68e3da-4795-4a26-8f60-a10726bd67bf",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Monitor assets (i.e. equipments, tools, software, hardware, etc.) lifecycle and usage from acquisition to retirement"
+                },
+                {
+                  "name" : "Availability Management",
+                  "value" : false,
+                  "id" : "221d3200-b21c-45d1-846b-af50134d103d",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Monitor and analyze availability issues to help design and plan the improvement of service availability"
+                },
+                {
+                  "name" : "Change Management",
+                  "value" : false,
+                  "id" : "88690ea4-3a57-4107-8f87-e663ec585c55",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Track and monitor efficient handling of all IT service changes/transitions"
+                },
+                {
+                  "name" : "Configuration Management",
+                  "value" : false,
+                  "id" : "528fda03-a785-4d14-bc68-9176e0c2e89a",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Identify and maintain components (i.e. servers, configuration information, software, etc.) and their relationships across all service"
+                },
+                {
+                  "name" : "Contract/License Management",
+                  "value" : false,
+                  "id" : "efd314c0-e308-412f-9ff3-8bd8745c3096",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track, store, and maintain contracts/licenses that come with procured products or services to ensure they are adhered to"
+                },
+                {
+                  "name" : "Incident Management",
+                  "value" : false,
+                  "id" : "14c6e4ea-d58a-4310-a2a5-6dee917c8da5",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Identify, resolve and restore unplanned service failures/disruptions or injuries"
+                },
+                {
+                  "name" : "Problem Management",
+                  "value" : false,
+                  "id" : "fc18150e-3d30-40eb-9227-b95f88315c26",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Identify and solve underlying cause of incident(s), and prevent future incidents from occurring"
+                },
+                {
+                  "name" : "Project Management",
+                  "value" : false,
+                  "id" : "394feaf8-a547-4e78-a56b-fa8161c4405a",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Plan and coordinate all the resources, costs and time needed to execute assignments"
+                },
+                {
+                  "name" : "Release Management",
+                  "value" : false,
+                  "id" : "31c07e1f-cd00-47a8-ae55-0ab266773573",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Plan and coordinate the testing/deployment of IT service releases (i.e. service changes)"
+                },
+                {
+                  "name" : "Self Service Portal",
+                  "value" : false,
+                  "id" : "80f0258d-e261-4136-ba81-a5251a304f8e",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Gateway through which end users can access the system"
+                }
+              ]
+            }
+          ],
+          "infographics" : [ ],
+          "related_products" : [
+            {
+              "product_id" : 135003,
+              "seo_product_id" : 250743,
+              "seo_slug" : "Slack",
+              "vendor_name" : "Slack",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/91f64896-759a-41ae-8d14-d540f90c5870.png",
+              "rating" : 4.7,
+              "total_reviews" : 22027,
+              "slug" : "Slack",
+              "product_name" : "Slack",
+              "short_desc" : "Slack brings all your communication together in one place. It's real-time messaging, archiving and search for modern teams.",
+              "features" : "Slack is a collaboration hub, where the right people and the right information come together, helping everyone get work done. When your team needs to kick off a project, hire a new employee, deploy some code, review a sales contract, finalize next year's budget, measure an A/B test, plan your next office opening, and more, Slack has you covered. Try Slack with your team for free.",
+              "url" : "https://slack.com/resources/why-use-slack/transform-your-customer-experience-with-slack-for-support-teams?utm_medium=ppc&utm_source=capterra&utm_campaign=cd_ppc_capterra_us_en_customer-service_ob-p_transform-ce&campaign=7013a000001ruVTAAY"
+            },
+            {
+              "product_id" : 226233,
+              "seo_product_id" : 589,
+              "seo_slug" : "Salesforce",
+              "vendor_name" : "Salesforce",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/f11ea590-5812-4ce0-a108-3837d065513d.png",
+              "rating" : 4.4,
+              "total_reviews" : 17167,
+              "slug" : "Salesforce-Sales-Cloud",
+              "product_name" : "Salesforce Sales Cloud",
+              "short_desc" : "Drive growth with Sales Cloud 360, the best-in-class sales solution that drives rep productivity on the world's #1 CRM platform.",
+              "features" : "Drive growth with Sales Cloud 360, the best-in-class sales solution that has helped power the world's best sales teams on the world's #1 CRM platform. Firms of all sizes, industries, and geographies, realize value faster with Sales Cloud 360. Increase rep productivity with data driven selling by quickly deploying industry-specific apps and best practice processes.  You also get access to 150,000+ sales organizations and a 2 million user-strong community that are passionate about sales growth. ",
+              "url" : "https://www.salesforce.com/products/sales-cloud/overview/"
+            },
+            {
+              "product_id" : 237272,
+              "seo_product_id" : 733,
+              "seo_slug" : "WebEx-Meeting-Center",
+              "vendor_name" : "Cisco",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e60c0fa1-f0d4-40ac-a412-0b2261b1f9a0.png",
+              "rating" : 4.4,
+              "total_reviews" : 6438,
+              "slug" : "Webex",
+              "product_name" : "Webex",
+              "short_desc" : "Webex brings together Calling, Meeting and Messaging modes of collaboration into a seamless, inclusive and intelligent experience.",
+              "features" : "Webex brings together Calling, Meeting and Messaging modes of collaboration into a seamless, inclusive and intelligent experience.\n\nMake meetings more interactive and engaging\n-\tReduce disruptions with background noise removal and voice enhancement\n-\tEnable audiences to share their reactions with animated emojis and gesture recognition\n-\tImprove audience engagement with next-gen dynamic polling and Q&A by Slido\n-\tCustomize the stage layout to focus on the content and people that matters most",
+              "url" : "https://ad.doubleclick.net/ddm/trackclk/N7442.813334CAPTERRA.COM/B26514157.315259604;dc_trk_aid=507616931;dc_trk_cid=158630622;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd="
+            },
+            {
+              "product_id" : 164283,
+              "seo_product_id" : 226798,
+              "seo_slug" : "Zendesk",
+              "vendor_name" : "Zendesk",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/20f0b4b6-a84c-436b-854e-81f894defdbf.png",
+              "rating" : 4.4,
+              "total_reviews" : 3001,
+              "slug" : "Zendesk",
+              "product_name" : "Zendesk",
+              "short_desc" : "Zendesk Support is the leading help desk software built to improve customer satisfaction.",
+              "features" : "Zendesk offers the industry leading customer service solution. On average, it increases customer satisfaction by 25% and agent productivity by 30% at any scale. All your customer interactions live in a single, dynamic interface with features like web widgets, pre-defined ticket responses, and a full customer history. Get up and running quickly, and expect to see results even faster.",
+              "url" : "https://www.zendesk.com/lp/pl-support/?utm_source=capterra&utm_medium=paidlisting&utm_campaign=PL_CAP_AM_US_EN_N_Sup_Pro_CustomerService_T1_A_H&utm_term=customerservice"
+            },
+            {
+              "product_id" : 124981,
+              "seo_product_id" : 212052,
+              "seo_slug" : "Freshdesk",
+              "vendor_name" : "Freshworks",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/69d55a02-59f1-4cbf-aabd-353fd6b19bca.png",
+              "rating" : 4.5,
+              "total_reviews" : 2497,
+              "slug" : "Freshdesk",
+              "product_name" : "Freshdesk",
+              "short_desc" : "Freshdesk is an easy-to-use customer service software that helps over 50,000 businesses worldwide create stellar customer experiences.",
+              "features" : "Freshdesk is a cloud-based helpdesk system that offers powerful solutions for customer service. Freshdesk unifies conversations from email, phone, web, chat and social, and helps you resolve issues across channels effortlessly. With Freshdesk, you can also automate workflows, offer convenient self-service options, manage SLAs, and generate reports. Freshdesk is used by over 50,000 customers, including Bridgestone, HP, Harvard University and DHL.",
+              "url" : "https://freshdesk.com/lp/customer-service-software-bex?utm_medium=Capterra_custserv&utm_campaign=Capterra_custserv&tactic_id=3530090"
+            },
+            {
+              "product_id" : 147830,
+              "seo_product_id" : 226877,
+              "seo_slug" : "ConnectWise-Control",
+              "vendor_name" : "ConnectWise",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/9e26a948-d3c8-4a65-a8ea-bb4cbf71a2d6.png",
+              "rating" : 4.7,
+              "total_reviews" : 1796,
+              "slug" : "ConnectWise-Control",
+              "product_name" : "ConnectWise Control",
+              "short_desc" : "ConnectWise Control provides the ability to view and control devices from anywhere there is an Internet connection.",
+              "features" : "ConnectWise Control (formerly ScreenConnect) is a fully functional remote support solution. The software gives you the ability to remotely view and control devices from anywhere there is an Internet connection. As a technician, regardless if you primarily support your customers personal computers or a huge enterprise infrastructure, the ability to quickly and effectively resolve problems allows you to save time and improve customer satisfaction.",
+              "url" : "https://info.connectwise.com/control/bof/sem/dual-trial-for-remote-workforce?mcid=REV1289&utm_source=capterra&utm_medium=rs&utm_campaign=REV1289&utm_content=trial&loc=na"
+            },
+            {
+              "product_id" : 169505,
+              "seo_product_id" : 212496,
+              "seo_slug" : "Zoho-Desk",
+              "vendor_name" : "Zoho",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/416ba524-b4d4-4d34-b5dc-f319972a0276.png",
+              "rating" : 4.5,
+              "total_reviews" : 1743,
+              "slug" : "Zoho-Desk",
+              "product_name" : "Zoho Desk",
+              "short_desc" : "Put customer service at the heart of your company. Make agents more productive, managers more impactful and customers more empowered.\n",
+              "features" : "Zoho Desk is the industry's favourite customer service software with contextual AI that helps you to streamline your customer care, automating routine and managing multiple customer interactions gets easier on cloud. This includes conversations spread across various channels like email, phone, social media, live chat, and more, all from a single interface. Naturally, our free plan gives you 3 users free to help you get a head start with your customer service operations.",
+              "url" : "https://www.zoho.com/desk/lp/customer-service.html?utm_source=capterra&utm_medium=cpc&utm_campaign=review-websites&utm_term=css"
+            },
+            {
+              "product_id" : 62194,
+              "seo_product_id" : 62194,
+              "seo_slug" : "LiveChat",
+              "vendor_name" : "LiveChat Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/3cec1dd9-4fec-4944-8da3-cca9756ca1b4.png",
+              "rating" : 4.7,
+              "total_reviews" : 1253,
+              "slug" : "LiveChat",
+              "product_name" : "LiveChat",
+              "short_desc" : "LiveChat enables you to have real-time conversations with your customers while they are on your website.",
+              "features" : "LiveChat provides a cost-effective way for your support team to deliver a great experience across the entire customer journey. It makes customer service more efficient by letting you hold multiple chat sessions at the same time, send canned responses to frequently asked questions, add chat tags, review chat transcripts and send files to customers through the chat window.\r\n",
+              "url" : "https://www.livechatinc.com/try-livechat/?utm_medium=referral&utm_campaign=destination-link&utm_content=customer-service"
+            },
+            {
+              "product_id" : 102188,
+              "seo_product_id" : 226262,
+              "seo_slug" : "LiveAgent",
+              "vendor_name" : "QualityUnit",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/72e94d6f-e43a-417d-9e8a-8d774fe6e086.png",
+              "rating" : 4.7,
+              "total_reviews" : 1139,
+              "slug" : "LiveAgent",
+              "product_name" : "LiveAgent",
+              "short_desc" : "Great customer service starts with better customer service software. Impress your customers and increase their satisfaction.",
+              "features" : "LiveAgent is a fully-featured Customer Service software with over 195+ integrations. \n\nStreamline all communication channels and manage them from a single shared company inbox. Enjoy social media integrations, unlimited ticket browsing history, call recordings, hybrid ticket streams, and more.\n\nCompanies like BMW, Yamaha, Huawei, Orange or Forbesfone use LiveAgent to deliver customer wow to 150M end users worldwide. \n\nStart with a 14-Day free trial, no credit card needed, no contracts.",
+              "url" : "https://www.liveagent.com/?utm_source=capterra&utm_medium=cpc&utm_campaign=cust-service#capterra"
+            },
+            {
+              "product_id" : 134347,
+              "seo_product_id" : 134347,
+              "seo_slug" : "Intercom",
+              "vendor_name" : "Intercom",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/6a454b39-277e-4602-aaed-5412bfd47102.png",
+              "rating" : 4.5,
+              "total_reviews" : 839,
+              "slug" : "Intercom",
+              "product_name" : "Intercom",
+              "short_desc" : "Increase customer satisfaction and team efficiency with Intercom's market-leading messenger, smart automation and self-service tools.",
+              "features" : "Intercom enables personalized customer service at scale, increasing customer satisfaction and support team efficiency. Powered by a modern messenger, smart automation and self-service tools, along with all the features you need from a modern support solution including a next-gen omnichannel inbox, conversation routing, workload management, reporting and more.\n",
+              "url" : "https://www.intercom.com/drlp/customer-support-solutions?utm_medium=review&utm_term=capt_rev_pm_acq_core_demo_pros_kw_cservice_sb_alld_namer_us_en"
+            },
+            {
+              "product_id" : 87908,
+              "seo_product_id" : 212239,
+              "seo_slug" : "TeamSupport",
+              "vendor_name" : "TeamSupport",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e85270b5-16e7-4c93-8837-afe44de85442.png",
+              "rating" : 4.5,
+              "total_reviews" : 807,
+              "slug" : "TeamSupport",
+              "product_name" : "TeamSupport",
+              "short_desc" : "Easy to implement web-based Customer Service software with a focus on B2B customer management and team collaboration.",
+              "features" : "TeamSupport is a post-sale customer support software solution built specifically for the unique needs of B2B technology-enabled companies. Built around the entire B2B customer, rather than a focus on each individual contact or ticket, TeamSupport helps solve for sophisticated client needs, fuels successful client interactions, and ultimately results in increased lifetime customer value. Nationally recognized TeamSupport suite of solutions includes TeamInsights, and TeamSuccess.",
+              "url" : "https://www.teamsupport.com/customer-support?utm_campaign=capterra_customerservice&utm_source=ppc&utm_medium=customer%20support%20webpage&utm_term=customer%20service"
+            }
+          ],
+          "similar_products" : [
+            {
+              "product_id" : 164283,
+              "seo_product_id" : 226798,
+              "seo_slug" : "Zendesk",
+              "vendor_name" : "Zendesk",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/20f0b4b6-a84c-436b-854e-81f894defdbf.png",
+              "rating" : 4.4,
+              "total_reviews" : 3001,
+              "slug" : "Zendesk",
+              "product_name" : "Zendesk",
+              "short_desc" : "Zendesk Support is the leading help desk software built to improve customer satisfaction.",
+              "features" : "Zendesk offers the industry leading customer service solution. On average, it increases customer satisfaction by 25% and agent productivity by 30% at any scale. All your customer interactions live in a single, dynamic interface with features like web widgets, pre-defined ticket responses, and a full customer history. Get up and running quickly, and expect to see results even faster.",
+              "url" : "http://www.zendesk.com/?utm_medium=paidlisting&utm_campaign=PL_CAP_AM_US_EN_N_Sup_Pro_HelpDesk_T1_A_H&utm_term=helpdesk"
+            },
+            {
+              "product_id" : 134347,
+              "seo_product_id" : 134347,
+              "seo_slug" : "Intercom",
+              "vendor_name" : "Intercom",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/6a454b39-277e-4602-aaed-5412bfd47102.png",
+              "rating" : 4.5,
+              "total_reviews" : 839,
+              "slug" : "Intercom",
+              "product_name" : "Intercom",
+              "short_desc" : "Increase customer satisfaction and team efficiency with Intercom's market-leading messenger, smart automation and self-service tools.",
+              "features" : "Intercom enables personalized customer service at scale, increasing customer satisfaction and support team efficiency. Powered by a modern messenger, smart automation and self-service tools, along with all the features you need from a modern support solution including a next-gen omnichannel inbox, conversation routing, workload management, reporting and more.\n",
+              "url" : "https://www.intercom.com/drlp/business-growth-sb?utm_medium=review&utm_term=capt_rev_pm_acq_core_demo_pros_kw_profile_sb_alld_namer_us_en"
+            },
+            {
+              "product_id" : 136909,
+              "seo_product_id" : 221252,
+              "seo_slug" : "Help-Scout",
+              "vendor_name" : "Help Scout",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/34756fb0-d130-4e3d-aedd-da75027afbc7.png",
+              "rating" : 4.7,
+              "total_reviews" : 181,
+              "slug" : "Help-Scout",
+              "product_name" : "Help Scout",
+              "short_desc" : "Help Scout's customer service software has the features you need to keep things simple, move fast, and focus on delighting customers.",
+              "features" : "With Help Scout, you can be available everywhere your customers need help, while giving your team the collaboration, organization, and automation tools they need to move faster. Deliver email, self-service, and live chat support from one powerful platform that feels just like your inbox. Answer 52% more emails with ease and reduce your support volume by 30%. You'll have happier customers and fewer support requests - everyone wins.",
+              "url" : "https://www.helpscout.com/platform/?utm_source=paid"
+            },
+            {
+              "product_id" : 87908,
+              "seo_product_id" : 212239,
+              "seo_slug" : "TeamSupport",
+              "vendor_name" : "TeamSupport",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e85270b5-16e7-4c93-8837-afe44de85442.png",
+              "rating" : 4.5,
+              "total_reviews" : 807,
+              "slug" : "TeamSupport",
+              "product_name" : "TeamSupport",
+              "short_desc" : "Easy to implement web-based Customer Service software with a focus on B2B customer management and team collaboration.",
+              "features" : "TeamSupport is a post-sale customer support software solution built specifically for the unique needs of B2B technology-enabled companies. Built around the entire B2B customer, rather than a focus on each individual contact or ticket, TeamSupport helps solve for sophisticated client needs, fuels successful client interactions, and ultimately results in increased lifetime customer value. Nationally recognized TeamSupport suite of solutions includes TeamInsights, and TeamSuccess.",
+              "url" : "https://info.gartnerdigitalmarkets.com/teamsupport-gdm-lp/?category=help-desk&utm_channel=capterra"
+            },
+            {
+              "product_id" : 132901,
+              "seo_product_id" : 226560,
+              "seo_slug" : "Front",
+              "vendor_name" : "Front",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/60d95cd1-3673-4923-a6d6-958f305517c1.png",
+              "rating" : 4.5,
+              "total_reviews" : 223,
+              "slug" : "Front",
+              "product_name" : "Front",
+              "short_desc" : "Front is more than a communication hub - it's how 7500+ companies build lasting business relationships.",
+              "features" : "Yes-you can scale and keep the human touch. Front is a customer communication hub that combines the simplicity of the email inbox with the automation and insights of a CRM. Front makes it easy for teams to send personalized replies faster, organize messages across channels, and always delight a customer. As your needs change, Front's flexible workflows change with you. Teams of 5 and 5,000 alike use Front to scale their communication without compromising on quality or efficiency.\n",
+              "url" : "https://front.com/lp/why-front?utm_medium=cpc&utm_campaign=capterra-default&utm_source=capterra"
+            },
+            {
+              "product_id" : 169505,
+              "seo_product_id" : 212496,
+              "seo_slug" : "Zoho-Desk",
+              "vendor_name" : "Zoho",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/416ba524-b4d4-4d34-b5dc-f319972a0276.png",
+              "rating" : 4.5,
+              "total_reviews" : 1743,
+              "slug" : "Zoho-Desk",
+              "product_name" : "Zoho Desk",
+              "short_desc" : "Put customer service at the heart of your company. Make agents more productive, managers more impactful and customers more empowered.\n",
+              "features" : "Zoho Desk is the industry's favourite customer service software with contextual AI that helps you to streamline your customer care, automating routine and managing multiple customer interactions gets easier on cloud. This includes conversations spread across various channels like email, phone, social media, live chat, and more, all from a single interface. Naturally, our free plan gives you 3 users free to help you get a head start with your customer service operations.",
+              "url" : "https://www.zoho.com/desk/?utm_medium=cpc&utm_campaign=review-website"
+            },
+            {
+              "product_id" : 124981,
+              "seo_product_id" : 212052,
+              "seo_slug" : "Freshdesk",
+              "vendor_name" : "Freshworks",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/69d55a02-59f1-4cbf-aabd-353fd6b19bca.png",
+              "rating" : 4.5,
+              "total_reviews" : 2497,
+              "slug" : "Freshdesk",
+              "product_name" : "Freshdesk",
+              "short_desc" : "Freshdesk is an easy-to-use customer service software that helps over 50,000 businesses worldwide create stellar customer experiences.",
+              "features" : "Freshdesk is a cloud-based helpdesk system that offers powerful solutions for customer service. Freshdesk unifies conversations from email, phone, web, chat and social, and helps you resolve issues across channels effortlessly. With Freshdesk, you can also automate workflows, offer convenient self-service options, manage SLAs, and generate reports. Freshdesk is used by over 50,000 customers, including Bridgestone, HP, Harvard University and DHL.",
+              "url" : "https://freshdesk.com/lp/home-bex?utm_medium=Capterra_home&utm_campaign=Capterra_home&tactic_id=3530090"
+            },
+            {
+              "product_id" : 202805,
+              "seo_product_id" : 202805,
+              "seo_slug" : "Stonly",
+              "vendor_name" : "Stonly",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/ea9c3693-a5f2-41cf-beda-28d7629ad91e.png",
+              "rating" : 4.5,
+              "total_reviews" : 8,
+              "slug" : "Stonly",
+              "product_name" : "Stonly",
+              "short_desc" : "Unnecessary support tickets are costly. Add interactive guides to high ticket articles to decrease tickets & drive self-serve success.\n",
+              "features" : "Allow users to self-serve toward success where and when it's needed with Stonly. Build interactive guides that adapt to each customer's situation and provide them with the exact information they need to be successful. Add guides to your website with no code, include them in your help center or build an interactive knowledge base. See why 1,000's of companies trust Stonly to provide unparalleled support.\n\n\n",
+              "url" : "https://stonly.com"
+            },
+            {
+              "product_id" : 164470,
+              "seo_product_id" : 224753,
+              "seo_slug" : "Ada",
+              "vendor_name" : "Ada",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/9c0b9595-be77-459b-8d14-2f771231fa18.png",
+              "rating" : 5.0,
+              "total_reviews" : 5,
+              "slug" : "Ada-Support",
+              "product_name" : "Ada",
+              "short_desc" : "Ada is an easy to use customer support automation platform.",
+              "features" : "As the market leader in Automated Customer Experience (ACX), Ada personalizes customer engagement by putting the power of AI in the hands of the people who know your business best. With Ada, it's simple for non-technical teams to build an automated, enterprise-class chatbot platform that solves 70%+ of customer inquiries.",
+              "url" : "https://info.ada.cx/customer-service-automation-platform-ada-support?utm_medium=cpc&utm_campaign=capterra"
+            },
+            {
+              "product_id" : 158128,
+              "seo_product_id" : 223372,
+              "seo_slug" : "Kustomer",
+              "vendor_name" : "Kustomer",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/78c5ff58-4af4-4fc4-8014-07127daa159e.png",
+              "rating" : 4.5,
+              "total_reviews" : 35,
+              "slug" : "Kustomer",
+              "product_name" : "Kustomer",
+              "short_desc" : "Kustomer is the omnichannel SaaS CRM platform reimagining enterprise customer service to deliver standout experiences.",
+              "features" : "Kustomer is the top-rated CRM, helping top brands deliver modern customer service that creates customers for life. Powered by AI, Kustomer scales to meet the needs of contact centers and businesses, enabling companies to deliver effortless, consistent and personalized service and support through a single timeline view.\r\n\r\nFounded in 2015 by serial entrepreneurs Brad Birnbaum and Jeremy Suriel, Kustomer has raised over $174M in venture funding.",
+              "url" : "https://www.kustomer.com/lp/customer-support-software-review/?utm_source=capterra&utm_medium=cpc&utm_campaign=customer-support&utm_content=listing"
+            },
+            {
+              "product_id" : 136189,
+              "seo_product_id" : 213787,
+              "seo_slug" : "Salesforce-Service-Cloud",
+              "vendor_name" : "Salesforce",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/b35a4371-bfba-4d15-99c4-156fcd413b7b.png",
+              "rating" : 4.4,
+              "total_reviews" : 568,
+              "slug" : "Salesforce",
+              "product_name" : "Salesforce Service Cloud",
+              "short_desc" : "The worlds #1 customer service platform, empowers every service employee with the innovative tools, and unified data.",
+              "features" : "Deliver great service and a flexible agent experience, from anywhere. Give agents a holistic view of every customer, whether they're in the contact center or working remote. Scale and optimize service by leveraging AI and integrating popular support channels - like phone, messaging, and chat - directly into the agent workspace. Resolve cases faster by combining automated processes with easy access to the full details, context, and history of every case and customer interaction.",
+              "url" : "https://www.salesforce.com/form/sem/customer-support/?d=7010M000002NZD7Q..."
+            },
+            {
+              "product_id" : 155934,
+              "seo_product_id" : 226320,
+              "seo_slug" : "Supportbench",
+              "vendor_name" : "Supportbench Services",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/6610d170-0110-43d2-94a7-97b97d04c301.png",
+              "rating" : 4.7,
+              "total_reviews" : 31,
+              "slug" : "Supportbench",
+              "product_name" : "Supportbench",
+              "short_desc" : "Ticket Management, Customer Success, Customer Experience, Knowledge Base, NPS, CSAT, CES, Customer portal, Mobile apps, CRM data Sync",
+              "features" : "Ticketing software Easy to use, Affordable, and Scalable. Built to manage the complexities that teams need to drive customer success and retention. We do this by unifying survey tools, NPS, CSAT, knowledge base, data synchronizations to Salesforce, dashboards, analytics, scheduling tools, team scorecards, and customer success health scoring.",
+              "url" : "https://discover.supportbench.com/the-future-of-the-b2b?utm_source=capterra&utm_medium=referral&utm_content=landingpage"
+            },
+            {
+              "product_id" : 161117,
+              "seo_product_id" : 224727,
+              "seo_slug" : "Avochato",
+              "vendor_name" : "Avochato",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/937f05f3-8717-4b38-9a29-b161863967df.png",
+              "rating" : 4.7,
+              "total_reviews" : 129,
+              "slug" : "Avochato",
+              "product_name" : "Avochato",
+              "short_desc" : "SMS texting and live chat for business has never been easier than with Avochato's solutions for teams, marketers and contact centers. ",
+              "features" : "SMS texting and live chat has never been easier than with Avochato's solutions for teams, marketers and contact centers.  With no programming required, you can setup your Avochato phone number in minutes to text your prospects, customers, or staff. Segment, import, and broadcast to your contacts to scale your teams communications.\r\n\r\nAvochato integrates with platforms such as Salesforce, Slack, MS Teams, and Zapier. Enable prospects to text you from a Google Ad with the AdWords API integration.",
+              "url" : "https://www.avochato.com/freetrial?utm_medium=LP1&utm_campaign=basic-info&utm_content=free_trial"
+            }
+          ],
+          "related_categories" : [
+            {
+              "functional_group" : "ccare",
+              "long_name" : "Call Center",
+              "html_name" : "call-center-software",
+              "link_name" : "call-center",
+              "product_count" : 174,
+              "meta_description" : "Find and compare top Call Center software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Call Center tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs.",
+              "description" : "<a href=/call-center-software>Call Center software</a> automates and standardizes the process of receiving and responding to customer phone calls. These solutions enable better monitoring of the customer experience, workflow management and evaluation of employee performance.  Whether designed for virtual or site-based locations, Call Center applications manage and catalog the process of customer calls and often allow customers to track the progress of their request via the internet.  <a href=/call-center-software>Call Center software</a> is related to <a href=/customer-service-software>Customer Service software</a> and <a href=/help-desk-software>Help Desk software</a>."
+            },
+            {
+              "functional_group" : "ccare",
+              "long_name" : "Complaint Management",
+              "html_name" : "complaint-management-software",
+              "link_name" : "complaint-management",
+              "product_count" : 22,
+              "meta_description" : "Find and compare top Complaint Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Complaint Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs.",
+              "description" : "<a href=\"/complaint-management-software\">Complaint Management software</a> helps to track, organize and resolve customer complaints and maximizes the productivity of the employees who deal with customers directly. These solutions are characterized by the ability to accurately capture, classify and route complaints, enabling communication across the team and insuring compliance. <a href=\"/complaint-management-software\">Complaint Management software</a> is related to <a href=\"/customer-satisfaction-software\">Customer Satisfaction software</a>, <a href=\"/customer-service-software\">Customer Service software</a> and <a href=\"/help-desk-software\">Help Desk software</a>."
+            },
+            {
+              "functional_group" : "ccare",
+              "long_name" : "Contact Center",
+              "html_name" : "contact-center-software",
+              "link_name" : "contact-center",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Contact Center software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Contact Center tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs.",
+              "description" : "Contact Center software automates and standardizes the process of receiving and responding to customer requests across different communication channels."
+            },
+            {
+              "functional_group" : "ccare",
+              "long_name" : "CRM",
+              "html_name" : "customer-relationship-management-software",
+              "link_name" : "customer-relationship-management",
+              "product_count" : 353,
+              "meta_description" : "Find and compare top Customer Relationship Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Customer Relationship Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "Customer Relationship Management (CRM) software enables customer interaction, support and relationship management.  The purpose of a CRM application is to enable organizations to better manage their customers through the introduction of reliable systems, processes and procedures. <a href=/customer-relationship-management-software>Customer Relationship Management software</a> integrates organizational processes across marketing, sales and customer services.  CRM software is related to <a href=/contract-management-software>Contract Management software</a> and <a href=\"/online-crm-software\">Online CRM software</a>."
+            },
+            {
+              "functional_group" : "ccare",
+              "long_name" : "Help Desk",
+              "html_name" : "help-desk-software",
+              "link_name" : "help-desk",
+              "product_count" : 188,
+              "meta_description" : "Find and compare top Help Desk software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Help Desk tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/help-desk-software>Help Desk software</a> enables organizations to respond more efficiently to users. Support software can aid in answering technical and functional questions by providing improved methodologies for ticket tracking, IT management and customer service support. Integrating these elements improves the ability of <a href=\"/customer-service-software\">customer service</a> departments to provide fast and effective support to employees, end users and customers.  Help Desk solutions can also facilitate the flow of new information from users, contributing to an organization's existing knowledge base.  <a href=/help-desk-software>Help Desk software</a> is related to <a href=/call-center-software>Call Center software</a> and <a href=/customer-service-software>Customer Service software</a> ."
+            },
+            {
+              "functional_group" : "ccare",
+              "long_name" : "Live Chat",
+              "html_name" : "live-chat-software",
+              "link_name" : "live-chat",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Live Chat software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Live Chat tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "Live Chat software helps organizations connect with their customers in real time. Live Chat applications can be used for customer support, lead generation, and customer engagement. This type of software includes widgets that can be integrated into existing websites, as well as more robust stand alone solutions that allow businesses to track customer interactions, response and conversion rates."
+            },
+            {
+              "functional_group" : "ccare",
+              "long_name" : "Online CRM",
+              "html_name" : "online-crm-software",
+              "link_name" : "online-crm",
+              "product_count" : 85,
+              "meta_description" : "Find and compare top Online CRM software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Online CRM tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/online-crm-software\">Online CRM software</a> enables web-based customer interaction, support and relationship management.  Online customer relationship management applications provide customers with access to an organization's knowledge base assets, allowing customers to pursue a self-guided path to resolving product-related issues, either via the web or over the phone.  Online CRM solutions can help increase the efficiency and utility of a call center, website or help desk by empowering customers to resolve issues on their own without engaging with customer service staff.  <a href=\"/online-crm-software\">Online CRM software</a> is related to <a href=/customer-relationship-management-software>Customer Relationship Management software</a>."
+            }
+          ],
+          "is_upgraded" : false,
+          "enabled" : true,
+          "filter_options" : {
+            "users" : 15,
+            "platform" : 53,
+            "pricing_options" : 18,
+            "category_related_features" : [
+              18371,
+              48963,
+              48972
+            ],
+            "employees" : 127
+          },
+          "sort_options" : {
+            "sort_review_rating" : 4.65749979019165,
+            "most_recent_review" : "2022-07-08T06:56:44Z"
+          },
+          "countries" : "ALL",
+          "features_tokenized_text" : "live_chat",
+          "platform_tokenized_text" : "cloud,saas,web-based desktopwindows on-premisewindows on-premiselinux",
+          "users_tokenized_text" : "1 2-10 11-50 51-200",
+          "pricing_tokenized_text" : "monthlysubscription freetrial",
+          "badges" : [ ],
+          "bid_spot_us" : 0.0,
+          "currency_code" : "USD",
+          "currency_symbol" : "$",
+          "credit_card_required" : "Unverified",
+          "licensing_model" : null,
+          "open_api_offered" : "No",
+          "mobile_urls" : [ ],
+          "integrations" : [ ],
+          "supported_countries" : [
+            {
+              "id" : 139,
+              "code" : "MH",
+              "name" : "Marshall Islands"
+            },
+            {
+              "id" : 29,
+              "code" : "BA",
+              "name" : "Bosnia and Herzegovina"
+            },
+            {
+              "id" : 164,
+              "code" : "NF",
+              "name" : "Norfolk Island"
+            },
+            {
+              "id" : 79,
+              "code" : "PF",
+              "name" : "French Polynesia"
+            },
+            {
+              "id" : 142,
+              "code" : "MU",
+              "name" : "Mauritius"
+            },
+            {
+              "id" : 190,
+              "code" : "MF",
+              "name" : "Saint Martin"
+            },
+            {
+              "id" : 82,
+              "code" : "GM",
+              "name" : "Gambia"
+            },
+            {
+              "id" : 167,
+              "code" : "NO",
+              "name" : "Norway"
+            },
+            {
+              "id" : 185,
+              "code" : "RW",
+              "name" : "Rwanda"
+            },
+            {
+              "id" : 56,
+              "code" : "HR",
+              "name" : "Croatia"
+            },
+            {
+              "id" : 159,
+              "code" : "NZ",
+              "name" : "New Zealand"
+            },
+            {
+              "id" : 59,
+              "code" : "CY",
+              "name" : "Cyprus"
+            },
+            {
+              "id" : 32,
+              "code" : "BR",
+              "name" : "Brazil"
+            },
+            {
+              "id" : 244,
+              "code" : "VI",
+              "name" : "Virgin Islands (U.S.)"
+            },
+            {
+              "id" : 199,
+              "code" : "SC",
+              "name" : "Seychelles"
+            },
+            {
+              "id" : 205,
+              "code" : "SB",
+              "name" : "Solomon Islands"
+            },
+            {
+              "id" : 165,
+              "code" : "MK",
+              "name" : "North Macedonia"
+            },
+            {
+              "id" : 162,
+              "code" : "NG",
+              "name" : "Nigeria"
+            },
+            {
+              "id" : 108,
+              "code" : "IE",
+              "name" : "Ireland"
+            },
+            {
+              "id" : 196,
+              "code" : "SA",
+              "name" : "Saudi Arabia"
+            },
+            {
+              "id" : 111,
+              "code" : "IT",
+              "name" : "Italy"
+            },
+            {
+              "id" : 65,
+              "code" : "EC",
+              "name" : "Ecuador"
+            },
+            {
+              "id" : 193,
+              "code" : "WS",
+              "name" : "Samoa"
+            },
+            {
+              "id" : 241,
+              "code" : "VE",
+              "name" : "Venezuela"
+            },
+            {
+              "id" : 22,
+              "code" : "BE",
+              "name" : "Belgium"
+            },
+            {
+              "id" : 85,
+              "code" : "GH",
+              "name" : "Ghana"
+            },
+            {
+              "id" : 214,
+              "code" : "SJ",
+              "name" : "Svalbard and Jan Mayen"
+            },
+            {
+              "id" : 88,
+              "code" : "GL",
+              "name" : "Greenland"
+            },
+            {
+              "id" : 2,
+              "code" : "AX",
+              "name" : "Aland Islands"
+            },
+            {
+              "id" : 194,
+              "code" : "SM",
+              "name" : "San Marino"
+            },
+            {
+              "id" : 25,
+              "code" : "BM",
+              "name" : "Bermuda"
+            },
+            {
+              "id" : 234,
+              "code" : "AE",
+              "name" : "United Arab Emirates"
+            },
+            {
+              "id" : 140,
+              "code" : "MQ",
+              "name" : "Martinique"
+            },
+            {
+              "id" : 174,
+              "code" : "PY",
+              "name" : "Paraguay"
+            },
+            {
+              "id" : 10,
+              "code" : "AG",
+              "name" : "Antigua and Barbuda"
+            },
+            {
+              "id" : 191,
+              "code" : "PM",
+              "name" : "Saint Pierre and Miquelon"
+            },
+            {
+              "id" : 188,
+              "code" : "KN",
+              "name" : "Saint Kitts and Nevis"
+            },
+            {
+              "id" : 114,
+              "code" : "JE",
+              "name" : "Jersey"
+            },
+            {
+              "id" : 117,
+              "code" : "KE",
+              "name" : "Kenya"
+            },
+            {
+              "id" : 240,
+              "code" : "VU",
+              "name" : "Vanuatu"
+            },
+            {
+              "id" : 54,
+              "code" : "CR",
+              "name" : "Costa Rica"
+            },
+            {
+              "id" : 243,
+              "code" : "VG",
+              "name" : "Virgin Islands (British)"
+            },
+            {
+              "id" : 91,
+              "code" : "GU",
+              "name" : "Guam"
+            },
+            {
+              "id" : 8,
+              "code" : "AI",
+              "name" : "Anguilla"
+            },
+            {
+              "id" : 126,
+              "code" : "LS",
+              "name" : "Lesotho"
+            },
+            {
+              "id" : 228,
+              "code" : "TR",
+              "name" : "Turkey"
+            },
+            {
+              "id" : 11,
+              "code" : "AR",
+              "name" : "Argentina"
+            },
+            {
+              "id" : 146,
+              "code" : "MD",
+              "name" : "Moldova (the Republic of)"
+            },
+            {
+              "id" : 63,
+              "code" : "DM",
+              "name" : "Dominica"
+            },
+            {
+              "id" : 197,
+              "code" : "SN",
+              "name" : "Senegal"
+            },
+            {
+              "id" : 120,
+              "code" : "KR",
+              "name" : "South Korea"
+            },
+            {
+              "id" : 57,
+              "code" : "CU",
+              "name" : "Cuba"
+            },
+            {
+              "id" : 64,
+              "code" : "DO",
+              "name" : "Dominican Republic"
+            },
+            {
+              "id" : 201,
+              "code" : "SG",
+              "name" : "Singapore"
+            },
+            {
+              "id" : 101,
+              "code" : "HK",
+              "name" : "Hong Kong"
+            },
+            {
+              "id" : 230,
+              "code" : "TC",
+              "name" : "Turks and Caicos Islands"
+            },
+            {
+              "id" : 75,
+              "code" : "FJ",
+              "name" : "Fiji"
+            },
+            {
+              "id" : 18,
+              "code" : "BH",
+              "name" : "Bahrain"
+            },
+            {
+              "id" : 213,
+              "code" : "SR",
+              "name" : "Suriname"
+            },
+            {
+              "id" : 4,
+              "code" : "DZ",
+              "name" : "Algeria"
+            },
+            {
+              "id" : 210,
+              "code" : "ES",
+              "name" : "Spain"
+            },
+            {
+              "id" : 144,
+              "code" : "MX",
+              "name" : "Mexico"
+            },
+            {
+              "id" : 81,
+              "code" : "GA",
+              "name" : "Gabon"
+            },
+            {
+              "id" : 21,
+              "code" : "BY",
+              "name" : "Belarus"
+            },
+            {
+              "id" : 124,
+              "code" : "LV",
+              "name" : "Latvia"
+            },
+            {
+              "id" : 24,
+              "code" : "BJ",
+              "name" : "Benin"
+            },
+            {
+              "id" : 207,
+              "code" : "ZA",
+              "name" : "South Africa"
+            },
+            {
+              "id" : 147,
+              "code" : "MC",
+              "name" : "Monaco"
+            },
+            {
+              "id" : 238,
+              "code" : "UY",
+              "name" : "Uruguay"
+            },
+            {
+              "id" : 150,
+              "code" : "MS",
+              "name" : "Montserrat"
+            },
+            {
+              "id" : 216,
+              "code" : "CH",
+              "name" : "Switzerland"
+            },
+            {
+              "id" : 138,
+              "code" : "MT",
+              "name" : "Malta"
+            },
+            {
+              "id" : 170,
+              "code" : "PW",
+              "name" : "Palau"
+            },
+            {
+              "id" : 110,
+              "code" : "IL",
+              "name" : "Israel"
+            },
+            {
+              "id" : 53,
+              "code" : "CK",
+              "name" : "Cook Islands"
+            },
+            {
+              "id" : 113,
+              "code" : "JP",
+              "name" : "Japan"
+            },
+            {
+              "id" : 179,
+              "code" : "PT",
+              "name" : "Portugal"
+            },
+            {
+              "id" : 7,
+              "code" : "AO",
+              "name" : "Angola"
+            },
+            {
+              "id" : 133,
+              "code" : "MG",
+              "name" : "Madagascar"
+            },
+            {
+              "id" : 176,
+              "code" : "PH",
+              "name" : "Philippines"
+            },
+            {
+              "id" : 27,
+              "code" : "BO",
+              "name" : "Bolivia"
+            },
+            {
+              "id" : 136,
+              "code" : "MV",
+              "name" : "Maldives"
+            },
+            {
+              "id" : 30,
+              "code" : "BW",
+              "name" : "Botswana"
+            },
+            {
+              "id" : 130,
+              "code" : "LT",
+              "name" : "Lithuania"
+            },
+            {
+              "id" : 173,
+              "code" : "PG",
+              "name" : "Papua New Guinea"
+            },
+            {
+              "id" : 60,
+              "code" : "CZ",
+              "name" : "Czechia"
+            },
+            {
+              "id" : 40,
+              "code" : "CM",
+              "name" : "Cameroon"
+            },
+            {
+              "id" : 17,
+              "code" : "BS",
+              "name" : "Bahamas"
+            },
+            {
+              "id" : 20,
+              "code" : "BB",
+              "name" : "Barbados"
+            },
+            {
+              "id" : 13,
+              "code" : "AW",
+              "name" : "Aruba"
+            },
+            {
+              "id" : 226,
+              "code" : "TT",
+              "name" : "Trinidad and Tobago"
+            },
+            {
+              "id" : 84,
+              "code" : "DE",
+              "name" : "Germany"
+            },
+            {
+              "id" : 23,
+              "code" : "BZ",
+              "name" : "Belize"
+            },
+            {
+              "id" : 203,
+              "code" : "SK",
+              "name" : "Slovakia"
+            },
+            {
+              "id" : 87,
+              "code" : "GR",
+              "name" : "Greece"
+            },
+            {
+              "id" : 61,
+              "code" : "DK",
+              "name" : "Denmark"
+            },
+            {
+              "id" : 42,
+              "code" : "KY",
+              "name" : "Cayman Islands"
+            },
+            {
+              "id" : 93,
+              "code" : "GG",
+              "name" : "Guernsey"
+            },
+            {
+              "id" : 45,
+              "code" : "CL",
+              "name" : "Chile"
+            },
+            {
+              "id" : 77,
+              "code" : "FR",
+              "name" : "France"
+            },
+            {
+              "id" : 74,
+              "code" : "FO",
+              "name" : "Faroe Islands"
+            },
+            {
+              "id" : 100,
+              "code" : "HN",
+              "name" : "Honduras"
+            },
+            {
+              "id" : 145,
+              "code" : "FM",
+              "name" : "Micronesia"
+            },
+            {
+              "id" : 103,
+              "code" : "IS",
+              "name" : "Iceland"
+            },
+            {
+              "id" : 180,
+              "code" : "PR",
+              "name" : "Puerto Rico"
+            },
+            {
+              "id" : 154,
+              "code" : "NA",
+              "name" : "Namibia"
+            },
+            {
+              "id" : 183,
+              "code" : "RO",
+              "name" : "Romania"
+            },
+            {
+              "id" : 206,
+              "code" : "SO",
+              "name" : "Somalia"
+            },
+            {
+              "id" : 6,
+              "code" : "AD",
+              "name" : "Andorra"
+            },
+            {
+              "id" : 192,
+              "code" : "VC",
+              "name" : "Saint Vincent and the Grenadines"
+            },
+            {
+              "id" : 218,
+              "code" : "TW",
+              "name" : "Taiwan"
+            },
+            {
+              "id" : 15,
+              "code" : "AT",
+              "name" : "Austria"
+            },
+            {
+              "id" : 35,
+              "code" : "BG",
+              "name" : "Bulgaria"
+            },
+            {
+              "id" : 237,
+              "code" : "US",
+              "name" : "United States of America"
+            },
+            {
+              "id" : 221,
+              "code" : "TH",
+              "name" : "Thailand"
+            },
+            {
+              "id" : 250,
+              "code" : "AN",
+              "name" : "Netherlands Antilles"
+            },
+            {
+              "id" : 70,
+              "code" : "EE",
+              "name" : "Estonia"
+            },
+            {
+              "id" : 99,
+              "code" : "VA",
+              "name" : "Holy See (Vatican City State)"
+            },
+            {
+              "id" : 102,
+              "code" : "HU",
+              "name" : "Hungary"
+            },
+            {
+              "id" : 76,
+              "code" : "FI",
+              "name" : "Finland"
+            },
+            {
+              "id" : 131,
+              "code" : "LU",
+              "name" : "Luxembourg"
+            },
+            {
+              "id" : 157,
+              "code" : "NL",
+              "name" : "Netherlands"
+            },
+            {
+              "id" : 160,
+              "code" : "NI",
+              "name" : "Nicaragua"
+            },
+            {
+              "id" : 166,
+              "code" : "MP",
+              "name" : "Northern Mariana Islands"
+            },
+            {
+              "id" : 189,
+              "code" : "LC",
+              "name" : "Saint Lucia"
+            },
+            {
+              "id" : 235,
+              "code" : "GB",
+              "name" : "United Kingdom of Great Britain and Northern Ireland"
+            },
+            {
+              "id" : 14,
+              "code" : "AU",
+              "name" : "Australia"
+            },
+            {
+              "id" : 41,
+              "code" : "CA",
+              "name" : "Canada"
+            },
+            {
+              "id" : 155,
+              "code" : "NR",
+              "name" : "Nauru"
+            },
+            {
+              "id" : 46,
+              "code" : "CN",
+              "name" : "China"
+            },
+            {
+              "id" : 215,
+              "code" : "SE",
+              "name" : "Sweden"
+            },
+            {
+              "id" : 109,
+              "code" : "IM",
+              "name" : "Isle of Man"
+            },
+            {
+              "id" : 49,
+              "code" : "CO",
+              "name" : "Colombia"
+            },
+            {
+              "id" : 112,
+              "code" : "JM",
+              "name" : "Jamaica"
+            },
+            {
+              "id" : 66,
+              "code" : "EG",
+              "name" : "Egypt"
+            },
+            {
+              "id" : 129,
+              "code" : "LI",
+              "name" : "Liechtenstein"
+            },
+            {
+              "id" : 86,
+              "code" : "GI",
+              "name" : "Gibraltar"
+            },
+            {
+              "id" : 175,
+              "code" : "PE",
+              "name" : "Peru"
+            },
+            {
+              "id" : 149,
+              "code" : "ME",
+              "name" : "Montenegro"
+            },
+            {
+              "id" : 89,
+              "code" : "GD",
+              "name" : "Grenada"
+            },
+            {
+              "id" : 72,
+              "code" : "ET",
+              "name" : "Ethiopia"
+            },
+            {
+              "id" : 172,
+              "code" : "PA",
+              "name" : "Panama"
+            },
+            {
+              "id" : 135,
+              "code" : "MY",
+              "name" : "Malaysia"
+            },
+            {
+              "id" : 184,
+              "code" : "RU",
+              "name" : "Russian Federation"
+            },
+            {
+              "id" : 198,
+              "code" : "RS",
+              "name" : "Serbia"
+            },
+            {
+              "id" : 158,
+              "code" : "NC",
+              "name" : "New Caledonia"
+            },
+            {
+              "id" : 3,
+              "code" : "AL",
+              "name" : "Albania"
+            },
+            {
+              "id" : 178,
+              "code" : "PL",
+              "name" : "Poland"
+            },
+            {
+              "id" : 118,
+              "code" : "KI",
+              "name" : "Kiribati"
+            },
+            {
+              "id" : 204,
+              "code" : "SI",
+              "name" : "Slovenia"
+            },
+            {
+              "id" : 121,
+              "code" : "KW",
+              "name" : "Kuwait"
+            }
+          ],
+          "supported_languages" : [
+            {
+              "id" : 152,
+              "code" : "en",
+              "name" : "English",
+              "location" : null
+            }
+          ],
+          "target_industries" : [
+            {
+              "id" : 62,
+              "code" : "147",
+              "name" : "Industrial Automation"
+            },
+            {
+              "id" : 58,
+              "code" : "31",
+              "name" : "Hospitality"
+            },
+            {
+              "id" : 35,
+              "code" : "132",
+              "name" : "E-Learning"
+            },
+            {
+              "id" : 25,
+              "code" : "4",
+              "name" : "Computer Software"
+            },
+            {
+              "id" : 97,
+              "code" : "100",
+              "name" : "Non-Profit Organization Management"
+            },
+            {
+              "id" : 57,
+              "code" : "14",
+              "name" : "Hospital & Health Care"
+            },
+            {
+              "id" : 84,
+              "code" : "80",
+              "name" : "Marketing and Advertising"
+            },
+            {
+              "id" : 64,
+              "code" : "96",
+              "name" : "Information Technology and Services"
+            },
+            {
+              "id" : 120,
+              "code" : "44",
+              "name" : "Real Estate"
+            }
+          ],
+          "price_range_id" : 1,
+          "aggregated_review_ratings" : {
+            "industry" : {
+              "24" : 5.0,
+              "13" : 5.0,
+              "41" : 4.0,
+              "118" : 4.79,
+              "146" : 5.0,
+              "80" : 5.0,
+              "6" : 5.0,
+              "67" : 5.0,
+              "100" : 5.0,
+              "70" : 5.0,
+              "34" : 5.0,
+              "43" : 4.33,
+              "14" : 4.91,
+              "61" : 4.0,
+              "83" : 5.0,
+              "47" : 4.77,
+              "48" : 5.0,
+              "82" : 5.0,
+              "116" : 4.0,
+              "147" : 5.0,
+              "44" : 5.0,
+              "133" : 5.0,
+              "122" : 4.0,
+              "135" : 5.0,
+              "84" : 4.33,
+              "124" : 5.0,
+              "96" : 4.77,
+              "103" : 4.0,
+              "10" : 5.0,
+              "51" : 5.0,
+              "3" : 4.64,
+              "54" : 5.0,
+              "25" : 5.0,
+              "8" : 4.78,
+              "42" : 4.0,
+              "12" : 5.0,
+              "75" : 5.0,
+              "4" : 4.81,
+              "1" : 4.33,
+              "17" : 4.5,
+              "31" : 5.0,
+              "91" : 5.0,
+              "148" : 4.0,
+              "138" : 4.5,
+              "15" : 5.0,
+              "104" : 4.0,
+              "53" : 5.0,
+              "112" : 5.0,
+              "27" : 4.8,
+              "132" : 4.0,
+              "69" : 5.0,
+              "49" : 5.0,
+              "5" : 4.69
+            },
+            "company_size" : {
+              "10,001+ employees" : 4.67,
+              "501-1000 employees" : 4.86,
+              "1001-5000 employees" : 4.29,
+              "11-50 employees" : 4.66,
+              "5001-10,000 employees" : 5.0,
+              "1-10 employees" : 4.76,
+              "Self-employed" : 4.89,
+              "201-500 employees" : 4.57,
+              "51-200 employees" : 4.83
+            }
+          },
+          "vct_enabled" : false,
+          "pricing_plans" : [
+            {
+              "created_on_utc" : "2019-08-21T14:47:39Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Basic",
+              "description" : "Discounted prices are available for annual billing.",
+              "display_order" : 1,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 30.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Other",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "Drag-and-Drop Interface"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "File Transfer"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Instant Chat"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "Multi-Session Handling"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 5,
+                  "name" : "Multi-Window Control"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 6,
+                  "name" : "Unattended Access"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 7,
+                  "name" : "Whiteboard Tools"
+                }
+              ]
+            }
+          ],
+          "discount_types" : [
+            {
+              "name" : "By Plan Frequency",
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

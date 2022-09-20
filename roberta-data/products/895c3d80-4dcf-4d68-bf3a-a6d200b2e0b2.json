@@ -1,0 +1,1803 @@
+{
+  "took" : 5,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 3,
+    "successful" : 3,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : {
+      "value" : 1,
+      "relation" : "eq"
+    },
+    "max_score" : 10.865253,
+    "hits" : [
+      {
+        "_index" : "product_listings_main_data_upc_vt20220920_043802_utc",
+        "_type" : "_doc",
+        "_id" : "84093_staffing",
+        "_score" : 10.865253,
+        "_source" : {
+          "product_id" : 84093,
+          "seo_product_id" : 221692,
+          "seo_slug" : "Big-Biller",
+          "product_name" : "Top Echelon",
+          "upc_product_uuid" : "895c3d80-4dcf-4d68-bf3a-a6d200b2e0b2",
+          "old_product_ids" : [
+            221692,
+            143352
+          ],
+          "product_url" : "https://www.topechelon.com/recruiting-software/?utm_category=Review%20Site&utm_source=Capterra&utm_form=BB%20Trial%20&utm_campaign=Capterra",
+          "product_slug" : "Top-Echelon",
+          "former_name" : "Big Biller",
+          "logo_filepath" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/c21ecf3a-be5a-431e-990d-607b3f00bcee.png",
+          "vendor" : {
+            "vendor_id" : 2052544,
+            "vendor_name" : "Top Echelon",
+            "vendor_url" : "http://www.topechelon.com",
+            "year_founded" : 1988,
+            "location" : "United States",
+            "vendor_opted_out_of_reviews" : true,
+            "is_opted_out_of_reviews" : false,
+            "is_hit_limit" : false,
+            "enabled" : true,
+            "has_vendor_level_page" : false,
+            "slug" : null,
+            "vendor_page" : false,
+            "paused_campaign" : false
+          },
+          "category_short_name" : "staffing",
+          "category_html_name" : "staffing-agency-software",
+          "category" : {
+            "id" : 31575,
+            "short_name" : "staffing",
+            "long_name" : "Staffing Agency",
+            "html_name" : "staffing-agency-software",
+            "enabled" : true
+          },
+          "best_category" : "staffing",
+          "is_best_category" : true,
+          "highest_cpc_category" : "staffing",
+          "is_highest_cpc_category" : true,
+          "short_desc" : "Top Echelon Recruiting Software saves you time by combining ATS and CRM features into one simple and customizable recruitment solution.",
+          "long_desc" : "Top Echelon Recruiting Software combines applicant tracking and CRM features into one simple and affordable solution that streamlines the recruitment process from sourcing, posting, qualifying, interviewing through to placement. Every recruiting team is unique, which is why customizing fields, activities, screens and workflows are so popular.  It's intuitive interface and time saving features makes it ideal for growing recruiting companies and teams. Free training and support. Try it for free.",
+          "rating" : 4.6,
+          "number_of_reviews" : 289,
+          "total_reviews" : 409,
+          "ease_of_use_rating" : 4.5,
+          "customer_support_rating" : 4.6,
+          "functionality_rating" : 4.3,
+          "value_for_money_rating" : 4.5,
+          "recommendation_rating" : 8.8,
+          "pricing_enabled" : true,
+          "pricing" : 75.0,
+          "is_per_user" : true,
+          "fee_schedule" : "Per-Month",
+          "pricing_model" : "Per User",
+          "pricing_details" : "You can try Top Echelon's top ATS FREE for 15 days and you do NOT need a credit card to start your trial!\n\nIn addition, you can purchase the software on a monthly basis or an annual basis. The monthly price is $75 per user, while the annual price is $63.75 per user, which is a 15% discount off the monthly price. (An annual subscription is billed in advance in 12-month increments.)\n\nTop Echelon's ATS is one of the most powerful and affordable recruiting software packages on the market. Visit https://www.topechelon.com for more information!",
+          "pricing_created_on" : "2019-08-21T14:47:39Z",
+          "pricing_modified_on" : "2022-06-23T14:42:33Z",
+          "pricing_created_by" : null,
+          "pricing_modified_by" : null,
+          "pricing_vendor_pricing_url" : "https://www.topechelon.com/pricing/",
+          "free_trial" : true,
+          "free_version" : false,
+          "target_audience" : "Top Echelon Recruiting Software is designed as a front office applicant tracking and CRM solution for contingency, retained and contract staffing recruitment and search companies in the US and Canada.",
+          "target_users" : [
+            "1",
+            "2-10",
+            "11-50",
+            "51-200"
+          ],
+          "platform" : [
+            {
+              "enabled" : true,
+              "name" : "Cloud, SaaS, Web-Based"
+            },
+            {
+              "enabled" : true,
+              "name" : "Desktop Mac"
+            },
+            {
+              "enabled" : true,
+              "name" : "Desktop Windows"
+            },
+            {
+              "enabled" : true,
+              "name" : "Desktop Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Chromebook"
+            },
+            {
+              "enabled" : false,
+              "name" : "Mobile Android"
+            },
+            {
+              "enabled" : false,
+              "name" : "Mobile iPhone"
+            },
+            {
+              "enabled" : false,
+              "name" : "Mobile iPad"
+            }
+          ],
+          "support" : [
+            {
+              "enabled" : true,
+              "name" : "Email Help Desk"
+            },
+            {
+              "enabled" : true,
+              "name" : "FAQ Forum"
+            },
+            {
+              "enabled" : true,
+              "name" : "Knowledgebase"
+            },
+            {
+              "enabled" : true,
+              "name" : "Phone Support"
+            },
+            {
+              "enabled" : false,
+              "name" : "24/7 Live Rep"
+            },
+            {
+              "enabled" : true,
+              "name" : "Chat"
+            }
+          ],
+          "training" : [
+            {
+              "enabled" : false,
+              "name" : "Not Offered"
+            },
+            {
+              "enabled" : false,
+              "name" : "In-Person"
+            },
+            {
+              "enabled" : true,
+              "name" : "Live Online"
+            },
+            {
+              "enabled" : true,
+              "name" : "Webinars"
+            },
+            {
+              "enabled" : true,
+              "name" : "Documentation"
+            },
+            {
+              "enabled" : true,
+              "name" : "Videos"
+            }
+          ],
+          "media" : [
+            {
+              "product_id" : 84093,
+              "vendor_id" : 2052544,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/6edb5584-6a40-4e92-a9d3-a6bec2a032fb.png",
+              "caption" : "Jobs Dashboard",
+              "weight" : 1,
+              "short_name" : "staffing"
+            },
+            {
+              "product_id" : 84093,
+              "vendor_id" : 2052544,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/8d5dbe3c-683c-4de5-9e19-d054f07364c6.png",
+              "caption" : "Main Dashboard",
+              "weight" : 2,
+              "short_name" : "staffing"
+            },
+            {
+              "product_id" : 84093,
+              "vendor_id" : 2052544,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/65771ed8-39fd-4879-b7c1-0398a77291aa.png",
+              "caption" : "Candidate Record",
+              "weight" : 3,
+              "short_name" : "staffing"
+            },
+            {
+              "product_id" : 84093,
+              "vendor_id" : 2052544,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/1f61247c-3eb7-441b-8ead-3cabcb67970b.png",
+              "caption" : "Pipeline",
+              "weight" : 4,
+              "short_name" : "staffing"
+            },
+            {
+              "product_id" : 84093,
+              "vendor_id" : 2052544,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/7165e9cb-5601-4384-b706-19184eb027ae.png",
+              "caption" : "Reports",
+              "weight" : 5,
+              "short_name" : "staffing"
+            },
+            {
+              "product_id" : 84093,
+              "vendor_id" : 2052544,
+              "media_type" : "VIDEO",
+              "path_url" : "https://vimeo.com/255085504/486d979ee3",
+              "caption" : null,
+              "weight" : 0,
+              "short_name" : "staffing"
+            }
+          ],
+          "links" : [
+            {
+              "product_id" : 84093,
+              "functional_group" : "staffing",
+              "html_code" : "https://teapi.topechelon.com/BigBiller/Trial/?utm_category=Review%20Site&utm_source=Capterra&utm_form=BB%20Trial&utm_campaign=Capterra",
+              "link_name" : "Free Trial",
+              "link_priority" : 1.0
+            },
+            {
+              "product_id" : 84093,
+              "functional_group" : "staffing",
+              "html_code" : "https://www.topechelon.com/request-a-demo/?utm_category=Review%20Site&utm_source=Capterra&utm_form=BB%20Trial&utm_campaign=Capterra",
+              "link_name" : "Free Demo",
+              "link_priority" : 2.0
+            },
+            {
+              "product_id" : 84093,
+              "functional_group" : "staffing",
+              "html_code" : "https://www.topechelon.com/pricing/?utm_category=Review%20Site&utm_source=Capterra&utm_form=BB%20Trial&utm_campaign=Capterra",
+              "link_name" : "Pricing",
+              "link_priority" : 3.0
+            }
+          ],
+          "features" : [
+            {
+              "category_name" : "Staffing Agency",
+              "category_features" : [
+                {
+                  "name" : "Billing & Invoicing",
+                  "value" : false,
+                  "id" : "b9829f5b-1e19-49e7-b343-c2286973de15",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Create and manage monetary interactions between parties (ie. bills and invoices)"
+                },
+                {
+                  "name" : "CRM",
+                  "value" : true,
+                  "id" : "cdf8cb63-9596-4430-bcbb-92162fc532bf",
+                  "avg_rating" : 4.4,
+                  "cnt_rating" : 24,
+                  "avg_importance" : 2.33,
+                  "cnt_importance" : 15,
+                  "cnt_time_used" : 19,
+                  "pct_time_used" : 0.789,
+                  "cnt_time_critical" : 19,
+                  "pct_time_critical" : 0.316,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Contact and lead management to track interactions and notes about clients and prospects"
+                },
+                {
+                  "name" : "Candidate Management",
+                  "value" : true,
+                  "id" : "6c0fff9a-2923-4f3f-b4c6-48f71f9145fb",
+                  "avg_rating" : 4.8,
+                  "cnt_rating" : 53,
+                  "avg_importance" : 2.72,
+                  "cnt_importance" : 39,
+                  "cnt_time_used" : 40,
+                  "pct_time_used" : 0.975,
+                  "cnt_time_critical" : 40,
+                  "pct_time_critical" : 0.7,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : "Build, track, and maintain relationships with candidates."
+                },
+                {
+                  "name" : "Interview Management",
+                  "value" : true,
+                  "id" : "a5a7c90a-c4ba-4ab1-827e-2897cb3bcf70",
+                  "avg_rating" : 4.3,
+                  "cnt_rating" : 17,
+                  "avg_importance" : 2.64,
+                  "cnt_importance" : 14,
+                  "cnt_time_used" : 16,
+                  "pct_time_used" : 0.875,
+                  "cnt_time_critical" : 16,
+                  "pct_time_critical" : 0.625,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Create and track interviews with a reminder system"
+                },
+                {
+                  "name" : "Job Posting",
+                  "value" : true,
+                  "id" : "1e13bf2b-cf85-46ba-a81c-a81e7568295d",
+                  "avg_rating" : 4.3,
+                  "cnt_rating" : 41,
+                  "avg_importance" : 2.27,
+                  "cnt_importance" : 22,
+                  "cnt_time_used" : 39,
+                  "pct_time_used" : 0.564,
+                  "cnt_time_critical" : 39,
+                  "pct_time_critical" : 0.205,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : "Post, track, and manage open jobs on multiple channels (e.g. job board, company's career site)"
+                },
+                {
+                  "name" : "Job Requisition",
+                  "value" : true,
+                  "id" : "5ed78099-040e-4b22-803c-b4f4d80d8ce7",
+                  "avg_rating" : 4.6,
+                  "cnt_rating" : 18,
+                  "avg_importance" : 2.31,
+                  "cnt_importance" : 13,
+                  "cnt_time_used" : 15,
+                  "pct_time_used" : 0.867,
+                  "cnt_time_critical" : 15,
+                  "pct_time_critical" : 0.267,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Request a new hire, explain the need, and determine available budget"
+                },
+                {
+                  "name" : "Onboarding",
+                  "value" : false,
+                  "id" : "762df836-d23c-4432-9000-0b1f4d71adc7",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Process of familiarizing new stakeholders with the company, a new location, or a service"
+                },
+                {
+                  "name" : "Payroll Management",
+                  "value" : false,
+                  "id" : "58379ec3-0f90-4b52-ac75-25f0b72a102d",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track and process employee payroll (salaries, wages, etc.)"
+                },
+                {
+                  "name" : "Resume Parsing",
+                  "value" : true,
+                  "id" : "d39ee33a-ce0d-400c-89e5-95cabe122b01",
+                  "avg_rating" : 4.7,
+                  "cnt_rating" : 30,
+                  "avg_importance" : 2.79,
+                  "cnt_importance" : 24,
+                  "cnt_time_used" : 24,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 24,
+                  "pct_time_critical" : 0.792,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Conversion of a resume into a a structured form for storage purposes"
+                },
+                {
+                  "name" : "Self Service Portal",
+                  "value" : true,
+                  "id" : "80f0258d-e261-4136-ba81-a5251a304f8e",
+                  "avg_rating" : 4.2,
+                  "cnt_rating" : 116,
+                  "avg_importance" : 1.8,
+                  "cnt_importance" : 71,
+                  "cnt_time_used" : 88,
+                  "pct_time_used" : 0.807,
+                  "cnt_time_critical" : 88,
+                  "pct_time_critical" : 0.091,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Gateway through which end users can access the system"
+                },
+                {
+                  "name" : "Temporary Staffing",
+                  "value" : false,
+                  "id" : "5f6b9665-15fd-4ada-9e3c-180b4a081d6e",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Software addresses specific issues of agencies that provide temporary workforce to their clients"
+                }
+              ]
+            },
+            {
+              "category_name" : "Recruiting",
+              "category_features" : [
+                {
+                  "name" : "Assessment Management",
+                  "value" : false,
+                  "id" : "10f60c73-3636-440c-89fa-7be5d6722b68",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Create tests or questionnaires"
+                },
+                {
+                  "name" : "Background Screening",
+                  "value" : false,
+                  "id" : "f2abaaa3-a875-4b5b-927d-d1e9c6f8b3c7",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Check individuals' criminal, financial, and other records"
+                },
+                {
+                  "name" : "CRM",
+                  "value" : true,
+                  "id" : "cdf8cb63-9596-4430-bcbb-92162fc532bf",
+                  "avg_rating" : 4.4,
+                  "cnt_rating" : 24,
+                  "avg_importance" : 2.33,
+                  "cnt_importance" : 15,
+                  "cnt_time_used" : 19,
+                  "pct_time_used" : 0.789,
+                  "cnt_time_critical" : 19,
+                  "pct_time_critical" : 0.316,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Contact and lead management to track interactions and notes about clients and prospects"
+                },
+                {
+                  "name" : "Internal HR",
+                  "value" : true,
+                  "id" : "a93efb4e-6335-44a8-bf38-531dcc5b6040",
+                  "avg_rating" : 3.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Recruiting software for internal recruiters or HR hiring managers"
+                },
+                {
+                  "name" : "Interview Management",
+                  "value" : true,
+                  "id" : "a5a7c90a-c4ba-4ab1-827e-2897cb3bcf70",
+                  "avg_rating" : 4.3,
+                  "cnt_rating" : 17,
+                  "avg_importance" : 2.64,
+                  "cnt_importance" : 14,
+                  "cnt_time_used" : 16,
+                  "pct_time_used" : 0.875,
+                  "cnt_time_critical" : 16,
+                  "pct_time_critical" : 0.625,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : "Create and track interviews with a reminder system"
+                },
+                {
+                  "name" : "Job Posting",
+                  "value" : true,
+                  "id" : "1e13bf2b-cf85-46ba-a81c-a81e7568295d",
+                  "avg_rating" : 4.3,
+                  "cnt_rating" : 41,
+                  "avg_importance" : 2.27,
+                  "cnt_importance" : 22,
+                  "cnt_time_used" : 39,
+                  "pct_time_used" : 0.564,
+                  "cnt_time_critical" : 39,
+                  "pct_time_critical" : 0.205,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : "Post, track, and manage open jobs on multiple channels (e.g. job board, company's career site)"
+                },
+                {
+                  "name" : "Job Requisition",
+                  "value" : true,
+                  "id" : "5ed78099-040e-4b22-803c-b4f4d80d8ce7",
+                  "avg_rating" : 4.6,
+                  "cnt_rating" : 18,
+                  "avg_importance" : 2.31,
+                  "cnt_importance" : 13,
+                  "cnt_time_used" : 15,
+                  "pct_time_used" : 0.867,
+                  "cnt_time_critical" : 15,
+                  "pct_time_critical" : 0.267,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Request a new hire, explain the need, and determine available budget"
+                },
+                {
+                  "name" : "Onboarding",
+                  "value" : false,
+                  "id" : "762df836-d23c-4432-9000-0b1f4d71adc7",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Process of familiarizing new stakeholders with the company, a new location, or a service"
+                },
+                {
+                  "name" : "Recruiting Firms",
+                  "value" : true,
+                  "id" : "601fa952-49e0-44c7-bb9a-322a9ce2e66a",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Recruiting software for external or 3rd party recruiting firms"
+                },
+                {
+                  "name" : "Reference Checking",
+                  "value" : true,
+                  "id" : "36b23f9c-a820-4b72-a9ac-c566db06505e",
+                  "avg_rating" : 3.4,
+                  "cnt_rating" : 5,
+                  "avg_importance" : 1.25,
+                  "cnt_importance" : 4,
+                  "cnt_time_used" : 11,
+                  "pct_time_used" : 0.364,
+                  "cnt_time_critical" : 11,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Automates and streamlines the collection of reference information"
+                },
+                {
+                  "name" : "Resume Parsing",
+                  "value" : true,
+                  "id" : "d39ee33a-ce0d-400c-89e5-95cabe122b01",
+                  "avg_rating" : 4.7,
+                  "cnt_rating" : 30,
+                  "avg_importance" : 2.79,
+                  "cnt_importance" : 24,
+                  "cnt_time_used" : 24,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 24,
+                  "pct_time_critical" : 0.792,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Conversion of a resume into a a structured form for storage purposes"
+                },
+                {
+                  "name" : "Self Service Portal",
+                  "value" : true,
+                  "id" : "80f0258d-e261-4136-ba81-a5251a304f8e",
+                  "avg_rating" : 4.2,
+                  "cnt_rating" : 116,
+                  "avg_importance" : 1.8,
+                  "cnt_importance" : 71,
+                  "cnt_time_used" : 88,
+                  "pct_time_used" : 0.807,
+                  "cnt_time_critical" : 88,
+                  "pct_time_critical" : 0.091,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Gateway through which end users can access the system"
+                }
+              ]
+            },
+            {
+              "category_name" : "Recruiting Agency",
+              "category_features" : [
+                {
+                  "name" : "Applicant Tracking",
+                  "value" : true,
+                  "id" : "3db9a526-5abf-4d8a-812f-c15d6e6e8da1",
+                  "avg_rating" : 4.6,
+                  "cnt_rating" : 152,
+                  "avg_importance" : 2.64,
+                  "cnt_importance" : 119,
+                  "cnt_time_used" : 122,
+                  "pct_time_used" : 0.975,
+                  "cnt_time_critical" : 122,
+                  "pct_time_critical" : 0.639,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Assessment Management",
+                  "value" : false,
+                  "id" : "10f60c73-3636-440c-89fa-7be5d6722b68",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Background Screening",
+                  "value" : false,
+                  "id" : "f2abaaa3-a875-4b5b-927d-d1e9c6f8b3c7",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Billing & Invoicing",
+                  "value" : false,
+                  "id" : "b9829f5b-1e19-49e7-b343-c2286973de15",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Create and manage monetary interactions between parties (ie. bills and invoices)"
+                },
+                {
+                  "name" : "CRM",
+                  "value" : true,
+                  "id" : "cdf8cb63-9596-4430-bcbb-92162fc532bf",
+                  "avg_rating" : 4.4,
+                  "cnt_rating" : 24,
+                  "avg_importance" : 2.33,
+                  "cnt_importance" : 15,
+                  "cnt_time_used" : 19,
+                  "pct_time_used" : 0.789,
+                  "cnt_time_critical" : 19,
+                  "pct_time_critical" : 0.316,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Contact and lead management to track interactions and notes about clients and prospects"
+                },
+                {
+                  "name" : "Candidate Management",
+                  "value" : true,
+                  "id" : "6c0fff9a-2923-4f3f-b4c6-48f71f9145fb",
+                  "avg_rating" : 4.8,
+                  "cnt_rating" : 53,
+                  "avg_importance" : 2.72,
+                  "cnt_importance" : 39,
+                  "cnt_time_used" : 40,
+                  "pct_time_used" : 0.975,
+                  "cnt_time_critical" : 40,
+                  "pct_time_critical" : 0.7,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Build, track, and maintain relationships with candidates."
+                },
+                {
+                  "name" : "Interview Management",
+                  "value" : true,
+                  "id" : "a5a7c90a-c4ba-4ab1-827e-2897cb3bcf70",
+                  "avg_rating" : 4.3,
+                  "cnt_rating" : 17,
+                  "avg_importance" : 2.64,
+                  "cnt_importance" : 14,
+                  "cnt_time_used" : 16,
+                  "pct_time_used" : 0.875,
+                  "cnt_time_critical" : 16,
+                  "pct_time_critical" : 0.625,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Create and track interviews with a reminder system"
+                },
+                {
+                  "name" : "Job Posting",
+                  "value" : true,
+                  "id" : "1e13bf2b-cf85-46ba-a81c-a81e7568295d",
+                  "avg_rating" : 4.3,
+                  "cnt_rating" : 41,
+                  "avg_importance" : 2.27,
+                  "cnt_importance" : 22,
+                  "cnt_time_used" : 39,
+                  "pct_time_used" : 0.564,
+                  "cnt_time_critical" : 39,
+                  "pct_time_critical" : 0.205,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Post, track, and manage open jobs on multiple channels (e.g. job board, company's career site)"
+                },
+                {
+                  "name" : "Lead Management",
+                  "value" : true,
+                  "id" : "995266c2-fafb-456e-b73c-3d394a240ae3",
+                  "avg_rating" : 4.3,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 2.33,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.667,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Resume Parsing",
+                  "value" : true,
+                  "id" : "d39ee33a-ce0d-400c-89e5-95cabe122b01",
+                  "avg_rating" : 4.7,
+                  "cnt_rating" : 30,
+                  "avg_importance" : 2.79,
+                  "cnt_importance" : 24,
+                  "cnt_time_used" : 24,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 24,
+                  "pct_time_critical" : 0.792,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Conversion of a resume into a a structured form for storage purposes"
+                },
+                {
+                  "name" : "Resume Search",
+                  "value" : true,
+                  "id" : "1299ca79-31a6-4a38-80f5-7edeb30591fd",
+                  "avg_rating" : 4.5,
+                  "cnt_rating" : 49,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 30,
+                  "cnt_time_used" : 33,
+                  "pct_time_used" : 0.909,
+                  "cnt_time_critical" : 33,
+                  "pct_time_critical" : 0.485,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Self Service Portal",
+                  "value" : true,
+                  "id" : "80f0258d-e261-4136-ba81-a5251a304f8e",
+                  "avg_rating" : 4.2,
+                  "cnt_rating" : 116,
+                  "avg_importance" : 1.8,
+                  "cnt_importance" : 71,
+                  "cnt_time_used" : 88,
+                  "pct_time_used" : 0.807,
+                  "cnt_time_critical" : 88,
+                  "pct_time_critical" : 0.091,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Gateway through which end users can access the system"
+                }
+              ]
+            }
+          ],
+          "infographics" : [
+            {
+              "product_id" : 84093,
+              "html_name" : "recruiting-software",
+              "infographic_type" : "general_t20",
+              "infographic_title" : null
+            }
+          ],
+          "related_products" : [
+            {
+              "product_id" : 130706,
+              "seo_product_id" : 130706,
+              "seo_slug" : "ZipRecruiter",
+              "vendor_name" : "ZipRecruiter",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/734ab7bc-0a02-445a-a890-17f1095fa00c.png",
+              "rating" : 4.2,
+              "total_reviews" : 10453,
+              "slug" : "ZipRecruiter",
+              "product_name" : "ZipRecruiter",
+              "short_desc" : "ZipRecruiter's smart matching technology quickly finds great candidates and invites them to apply to your staffing agency jobs.",
+              "features" : "Rated #1 by employers in the U.S.,* ZipRecruiter makes it easy for your staffing agency to find quality candidates, fast. With one click, we send your jobs to 100+ of the web?s top job sites. Then, our powerful matching technology scans thousands of resumes to identify top talent and invite them to apply. The result? 4 out of 5 employers who post on ZipRecruiter get a quality candidate through the site within the first day. *Based on Trustpilot rating of hiring sites with over 1,000 reviews.",
+              "url" : "https://www.ziprecruiter.com/post-a-job?utm_source=dglem.capterra-search.cmp-staffingagency&utm_medium=cpc&tsid=180000350"
+            },
+            {
+              "product_id" : 143211,
+              "seo_product_id" : 140532,
+              "seo_slug" : "Bullhorn-CRM",
+              "vendor_name" : "Bullhorn",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/2e8bf8da-9628-4023-9282-a9a032654158.png",
+              "rating" : 4.1,
+              "total_reviews" : 997,
+              "slug" : "Bullhorn-Recruiting-Software",
+              "product_name" : "Bullhorn ATS & CRM",
+              "short_desc" : "Automate every part of the recruiting lifecycle with Bullhorn's recruiting software built for staffing and recruiting agencies.",
+              "features" : "Bullhorn is the global leader in software for the staffing and recruiting industry. More than 10,000 staffing companies rely on Bullhorn's cloud-based platform to drive sales, build relationships, and power their staffing processes from start to finish. Headquartered in Boston, with offices around the world, Bullhorn is founder-led and employs more than 950 people globally. To learn more, visit www.bullhorn.com or follow @Bullhorn on Twitter.",
+              "url" : "https://www.bullhorn.com/ppc/bullhorn_ats_capterra/?LS=PPC&LSD=Capterra_StaffingAgency&LA=Dest&LAD=&utm_source=capterra&utm_medium=cpc&utm_campaign=capterra_staffingagency_dest"
+            },
+            {
+              "product_id" : 125768,
+              "seo_product_id" : 227446,
+              "seo_slug" : "Zoho-Recruit",
+              "vendor_name" : "Zoho",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/2c4891e5-6e25-4f72-8719-8ca2f8bf42b4.png",
+              "rating" : 4.4,
+              "total_reviews" : 829,
+              "slug" : "Zoho-Recruit",
+              "product_name" : "Zoho Recruit",
+              "short_desc" : "Zoho Recruit's cloud-based solution for staffing agencies helps you source, engage, and hire the right candidates for every client.",
+              "features" : "Automate and manage your staffing agency's recruitment and sourcing operations. From posting your jobs to keeping applicants connected and engaged throughout, Zoho Recruit lets you manage your entire pipeline from one place. Eliminate routine tasks such as scheduling interviews by automating your recruitment system, and free up your schedule for more better candidate and client engagement.",
+              "url" : "https://www.zoho.com/recruit/?utm_medium=cpc&utm_campaign=ats"
+            },
+            {
+              "product_id" : 135562,
+              "seo_product_id" : 226634,
+              "seo_slug" : "CEIPAL-ATS",
+              "vendor_name" : "CEIPAL",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/10b569d7-5da1-4204-b5cb-d0aab26c4327.png",
+              "rating" : 4.4,
+              "total_reviews" : 488,
+              "slug" : "CEIPAL-ATS",
+              "product_name" : "CEIPAL ATS",
+              "short_desc" : "See why Staffing Agencies love CEIPAL to identify vacancies, source & screen applicants, & then place & digitally onboard them!",
+              "features" : "CEIPAL is the leading ATS for IT & Engineering staffing firms. CEIPAL lets you easily manage job requisition & posting and quickly identify the best candidates using AI keyword matching. Use CEIPAL to manage interviews, give feedback, onboard applicants, & generate comprehensive reports. Our fully scalable, fully integrated ATS & CRM can help your Staffing Agency get better value, superior candidates, & more hires.",
+              "url" : "https://www.ceipal.com/free-trial-na-2022_b?utm_campaign=Gartner_BDR_US&utm_source=ppc&utm_term=staffing_agency&utm_content=default_page"
+            },
+            {
+              "product_id" : 133064,
+              "seo_product_id" : 224102,
+              "seo_slug" : "Crelate-Talent",
+              "vendor_name" : "Crelate",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/86e516ea-014b-445f-b8f5-02810ee7a95b.jpeg",
+              "rating" : 4.5,
+              "total_reviews" : 336,
+              "slug" : "Crelate-Talent",
+              "product_name" : "Crelate",
+              "short_desc" : "We understand what your staffing agency needs: a fast, smart, and flexible ATS with the power of a recruiting CRM. ",
+              "features" : "Crelate's front, middle, and back-office software help Staffing Agencies access data faster than you ever expected. Nimble search tools let you deliver the best candidate before your competition. Make informed business decisions with real-time metrics. Complete more tasks with integrated phone, text, email, email templates, and bulk actions. Lower costs with a free unlimited parsing tool. Transparent pricing, and industry leading customer support protect, your money and your time.",
+              "url" : "https://get.crelate.com/staffing-agency?r=3003&utm_source=capterra&utm_medium=listing-service&utm_campaign=capterra_directory_staffing_agency"
+            },
+            {
+              "product_id" : 81956,
+              "seo_product_id" : 81956,
+              "seo_slug" : "ScheduleFlex",
+              "vendor_name" : "Shiftboard",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/13cd2d07-4b8c-4091-80c0-c11a75ca900c.png",
+              "rating" : 4.4,
+              "total_reviews" : 236,
+              "slug" : "ScheduleFlex",
+              "product_name" : "ScheduleFlex",
+              "short_desc" : "Shiftboard's ScheduleFlex is purpose-built for dynamic operations that frequently adjust staffing levels to support  business needs.",
+              "features" : "Shiftboard's ScheduleFlex is purpose-built for dynamic operations that frequently adjust staffing levels to support ever-changing business needs. ScheduleFlex helps front-line operations maintain high shift coverage, reduce labor costs, and control the daily chaos of workforce scheduling. Organizations in dynamic scheduling industries, such as manufacturing, healthcare, staffing, and public safety, depend on ScheduleFlex to keep their mission critical operations running smoothly, 24/7.",
+              "url" : "https://www.shiftboard.com/?utm_campaign=Software%20Review%20Site&utm_medium=EmployeeScheduling-VisitWebsite"
+            },
+            {
+              "product_id" : 174348,
+              "seo_product_id" : 245786,
+              "seo_slug" : "Recruit-CRM",
+              "vendor_name" : "Workforce Cloud Tech",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/da5e3423-29b2-4f18-ac89-819b8bbfe7ac.png",
+              "rating" : 4.9,
+              "total_reviews" : 218,
+              "slug" : "Recruit-CRM",
+              "product_name" : "Recruit CRM",
+              "short_desc" : "Recruit CRM is a cloud-based software that helps recruitment and staffing firms manage all their work on one simple platform.",
+              "features" : "Recruitment Agencies across 75+ countries trust Recruit CRM. \n\nRecruit CRM is an end-to-end ATS + CRM system designed for recruitment & executive search businesses. Manage candidates, clients, contacts, email, phone calls & post jobs to your website. We also have a powerful AI resume parser that can even parse resumes directly from your emails. \n\nA straightforward kanban view for both sales & recruitment, email triggers & boolean search makes Recruit CRM the absolute best option for agencies. ",
+              "url" : "https://recruitcrm.io/?utm_source=Capterra&utm_medium=CPC&utm_campaign=Capterra%20Global%20%20Ads&utm_content=Reviews"
+            },
+            {
+              "product_id" : 172778,
+              "seo_product_id" : 172778,
+              "seo_slug" : "Nowsta",
+              "vendor_name" : "Nowsta",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/beb2592d-75e4-47ed-bd81-cb6ed581ad22.png",
+              "rating" : 4.9,
+              "total_reviews" : 177,
+              "slug" : "Nowsta",
+              "product_name" : "Nowsta",
+              "short_desc" : "Cloud-based workforce management solution that enables businesses to schedule staff shifts, track work hours, process payroll and more.",
+              "features" : "It's time to take the stress out of managing hourly staff. Nowsta is a comprehensive workforce management platform that puts scheduling, time tracking, and payroll under one roof. Build your schedule in minutes, send open shifts to staff instantly via mobile app, and watch them respond faster than ever before. Track time and attendance with pinpoint accuracy, get notified of lateness or absences, then import the data to your payroll provider in just a few clicks. Sign up for a demo today!",
+              "url" : "https://bit.ly/3EeHjk3"
+            },
+            {
+              "product_id" : 76635,
+              "seo_product_id" : 216963,
+              "seo_slug" : "Avionte",
+              "vendor_name" : "Avionte",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/2fde5eed-e19a-4c25-828a-befe23517c4b.png",
+              "rating" : 4.0,
+              "total_reviews" : 158,
+              "slug" : "Avionte-for-Staffing-Firms",
+              "product_name" : "Avionte",
+              "short_desc" : "The staffing and recruiting industrys most comprehensive end-to-end software solution.",
+              "features" : "Avionte is a leader in enterprise staffing and recruiting software, offering a full suite of innovative end-to-end staffing solutions throughout the U.S. and Canada. Avionte provides a robust platform that includes CRM, recruiting, onboarding, payroll, billing and business intelligence complemented by an ecosystem of strategic technology partners to permit customized solutions tailored to the needs of clerical, light industrial, IT, professional and healthcare staffing firms.",
+              "url" : "https://hubs.ly/H0qVkBG0"
+            },
+            {
+              "product_id" : 165636,
+              "seo_product_id" : 225082,
+              "seo_slug" : "Recruiterflow",
+              "vendor_name" : "Recruiterflow",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/6dd42878-3adf-47c5-9deb-4f14d40e00e5.png",
+              "rating" : 4.7,
+              "total_reviews" : 135,
+              "slug" : "Recruiterflow",
+              "product_name" : "Recruiterflow",
+              "short_desc" : "The only software you need to run a successful staffing business. Nurture candidates, get more sales and close jobs faster. ",
+              "features" : "Recruiterflow helps modern staffing firms automate their recruiting and make more placements. With social soucing, rules based email automation engine and wide job board integration, it makes sure that you never miss a placement and not a single candidate falls through the cracks. It makes sure that all your repetitive tasks are automated and you can spend more time doing what you do best - building relationships.",
+              "url" : "https://recruiterflow.com/?utm_source=capterra&utm_medium=cpc&utm_campaign=staffingagency"
+            }
+          ],
+          "similar_products" : [
+            {
+              "product_id" : 135562,
+              "seo_product_id" : 226634,
+              "seo_slug" : "CEIPAL-ATS",
+              "vendor_name" : "CEIPAL",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/10b569d7-5da1-4204-b5cb-d0aab26c4327.png",
+              "rating" : 4.4,
+              "total_reviews" : 488,
+              "slug" : "CEIPAL-ATS",
+              "product_name" : "CEIPAL ATS",
+              "short_desc" : "See why Staffing Agencies love CEIPAL to identify vacancies, source & screen applicants, & then place & digitally onboard them!",
+              "features" : "CEIPAL is the leading ATS for IT & Engineering staffing firms. CEIPAL lets you easily manage job requisition & posting and quickly identify the best candidates using AI keyword matching. Use CEIPAL to manage interviews, give feedback, onboard applicants, & generate comprehensive reports. Our fully scalable, fully integrated ATS & CRM can help your Staffing Agency get better value, superior candidates, & more hires.",
+              "url" : "https://www.ceipal.com/free-trial-na-2022_b?utm_campaign=Gartner_BDR_US&utm_source=ppc&utm_term=default_page&utm_content=default_page"
+            },
+            {
+              "product_id" : 133064,
+              "seo_product_id" : 224102,
+              "seo_slug" : "Crelate-Talent",
+              "vendor_name" : "Crelate",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/86e516ea-014b-445f-b8f5-02810ee7a95b.jpeg",
+              "rating" : 4.5,
+              "total_reviews" : 336,
+              "slug" : "Crelate-Talent",
+              "product_name" : "Crelate",
+              "short_desc" : "We understand what your staffing agency needs: a fast, smart, and flexible ATS with the power of a recruiting CRM. ",
+              "features" : "Crelate's front, middle, and back-office software help Staffing Agencies access data faster than you ever expected. Nimble search tools let you deliver the best candidate before your competition. Make informed business decisions with real-time metrics. Complete more tasks with integrated phone, text, email, email templates, and bulk actions. Lower costs with a free unlimited parsing tool. Transparent pricing, and industry leading customer support protect, your money and your time.",
+              "url" : "https://get.crelate.com/applicant-tracking?r=3000"
+            },
+            {
+              "product_id" : 181145,
+              "seo_product_id" : 221826,
+              "seo_slug" : "Manatal-",
+              "vendor_name" : "Manatal",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/5f46323b-bc2d-4815-9717-d7739dcb9060.png",
+              "rating" : 4.7,
+              "total_reviews" : 114,
+              "slug" : "Manatal",
+              "product_name" : "Manatal ",
+              "short_desc" : "Applicant tracking software that enables agencies to transform their recruitment, place top talent and better manage their clients.",
+              "features" : "Manatal is the next generation of recruitment software, built with the latest technologies and designed to streamline recruitment processes from sourcing to onboarding. Place faster and funnel your recruitment channels into one intuitive platform. Manage your current and future clients with our CRM feature. Leverage the social media enrichment and AI features, improve collaboration, access a full reporting suite and much more. Transform the way you recruit with Manatal's cloud-based hiring tool.",
+              "url" : "https://www.manatal.com/?utm_source=capterra&utm_medium=page"
+            },
+            {
+              "product_id" : 252424,
+              "seo_product_id" : 252424,
+              "seo_slug" : "WurkNow",
+              "vendor_name" : "WurkNow",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/aeecfb26-0a7e-421d-8397-ee594b6b808a.jpeg",
+              "rating" : 0.0,
+              "total_reviews" : 0,
+              "slug" : "WurkNow",
+              "product_name" : "WurkNow",
+              "short_desc" : "WurkNow is defining the future of hourly work management by providing practical workforce technology for robust productivity & growth.",
+              "features" : "Redesign the employment experience! WurkNow seamlessly integrates people and tech by combining the entire employment process into a single, digital experience that is unmatched. Our software provides error-free time tracking, automated employee scheduling, collaborative time card approvals and rapid job placement.\n\nIdeal for Staffing agencies with at least 100 hourly workers and direct employers with 500+ employees.\n\nAccelerate your growth and productivity!\n",
+              "url" : "https://pages.wurknow.com/capt_lp_22-0_staffing"
+            },
+            {
+              "product_id" : 174348,
+              "seo_product_id" : 245786,
+              "seo_slug" : "Recruit-CRM",
+              "vendor_name" : "Workforce Cloud Tech",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/da5e3423-29b2-4f18-ac89-819b8bbfe7ac.png",
+              "rating" : 4.9,
+              "total_reviews" : 218,
+              "slug" : "Recruit-CRM",
+              "product_name" : "Recruit CRM",
+              "short_desc" : "Recruit CRM is a cloud-based software that helps recruitment and staffing firms manage all their work on one simple platform.",
+              "features" : "Recruitment Agencies across 75+ countries trust Recruit CRM. \n\nRecruit CRM is an end-to-end ATS + CRM system designed for recruitment & executive search businesses. Manage candidates, clients, contacts, email, phone calls & post jobs to your website. We also have a powerful AI resume parser that can even parse resumes directly from your emails. \n\nA straightforward kanban view for both sales & recruitment, email triggers & boolean search makes Recruit CRM the absolute best option for agencies. ",
+              "url" : "https://recruitcrm.io/?utm_source=Capterra&utm_medium=CPC&utm_campaign=Capterra%20Global%20%20Ads&utm_content=Reviews"
+            },
+            {
+              "product_id" : 135918,
+              "seo_product_id" : 226171,
+              "seo_slug" : "JobAdder",
+              "vendor_name" : "Job Adder",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/9587e904-634c-4d71-9941-00e793ed723d.png",
+              "rating" : 4.4,
+              "total_reviews" : 113,
+              "slug" : "JobAdder",
+              "product_name" : "JobAdder",
+              "short_desc" : "JobAdders Intuitive, Cloud Based System Gives Your *Staffing Agency* A Competitive Advantage. Find And Place The Right Candidates Fast",
+              "features" : "**Staffing Software** Built for Recruitment and Staffing Agencies and In-House Teams - all jobs, candidates, communication and tasks are streamlined through JobAdders user-friendly, customisable dashboard\n",
+              "url" : "https://jobadder.com/in-house-teams/?utm_source=capterra&utm_medium=ppc&utm_campaign=capterra-ongoing&utm_term=In-house_recruitment_software"
+            },
+            {
+              "product_id" : 76635,
+              "seo_product_id" : 216963,
+              "seo_slug" : "Avionte",
+              "vendor_name" : "Avionte",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/2fde5eed-e19a-4c25-828a-befe23517c4b.png",
+              "rating" : 4.0,
+              "total_reviews" : 158,
+              "slug" : "Avionte-for-Staffing-Firms",
+              "product_name" : "Avionte",
+              "short_desc" : "The staffing and recruiting industrys most comprehensive end-to-end software solution.",
+              "features" : "Avionte is a leader in enterprise staffing and recruiting software, offering a full suite of innovative end-to-end staffing solutions throughout the U.S. and Canada. Avionte provides a robust platform that includes CRM, recruiting, onboarding, payroll, billing and business intelligence complemented by an ecosystem of strategic technology partners to permit customized solutions tailored to the needs of clerical, light industrial, IT, professional and healthcare staffing firms.",
+              "url" : "https://hubs.ly/H0qVkBG0"
+            },
+            {
+              "product_id" : 165636,
+              "seo_product_id" : 225082,
+              "seo_slug" : "Recruiterflow",
+              "vendor_name" : "Recruiterflow",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/6dd42878-3adf-47c5-9deb-4f14d40e00e5.png",
+              "rating" : 4.7,
+              "total_reviews" : 135,
+              "slug" : "Recruiterflow",
+              "product_name" : "Recruiterflow",
+              "short_desc" : "The only software you need to run a successful staffing business. Nurture candidates, get more sales and close jobs faster. ",
+              "features" : "Recruiterflow helps modern staffing firms automate their recruiting and make more placements. With social soucing, rules based email automation engine and wide job board integration, it makes sure that you never miss a placement and not a single candidate falls through the cracks. It makes sure that all your repetitive tasks are automated and you can spend more time doing what you do best - building relationships.",
+              "url" : "https://recruiterflow.com/?utm_source=capterra&utm_medium=cpc&utm_campaign=recruiting"
+            },
+            {
+              "product_id" : 219078,
+              "seo_product_id" : 219078,
+              "seo_slug" : "Greenfield-Solutions",
+              "vendor_name" : "Greenfield",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/6ca8197f-55ea-4888-97d5-77e24c8f3cb8.png",
+              "rating" : 4.9,
+              "total_reviews" : 24,
+              "slug" : "Greenfield-Solutions",
+              "product_name" : "Greenfield",
+              "short_desc" : "We develop tools that allow staffing firms to manage their front and back office operations with ease.",
+              "features" : "Greenfield develops software that streamlines the everyday processes that matter to staffing firms, saving time and money by simplifying front and back office tasks and processes.\r\n\r\nOur software is rigorously tested in real-world applications and backed by personalized service from highly trained platform experts, ensuring optimal performance.\r\n\r\nOur solution has been trusted by leading firms for nearly three decades, while constantly evolving to meet the ever-changing needs of staffing pros.\r\n",
+              "url" : "https://info.gartnerdigitalmarkets.com/greenfield-gdm-lp/"
+            },
+            {
+              "product_id" : 125768,
+              "seo_product_id" : 227446,
+              "seo_slug" : "Zoho-Recruit",
+              "vendor_name" : "Zoho",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/2c4891e5-6e25-4f72-8719-8ca2f8bf42b4.png",
+              "rating" : 4.4,
+              "total_reviews" : 829,
+              "slug" : "Zoho-Recruit",
+              "product_name" : "Zoho Recruit",
+              "short_desc" : "Zoho Recruit's cloud-based solution for staffing agencies helps you source, engage, and hire the right candidates for every client.",
+              "features" : "Automate and manage your staffing agency's recruitment and sourcing operations. From posting your jobs to keeping applicants connected and engaged throughout, Zoho Recruit lets you manage your entire pipeline from one place. Eliminate routine tasks such as scheduling interviews by automating your recruitment system, and free up your schedule for more better candidate and client engagement.",
+              "url" : "https://www.zoho.com/recruit/?utm_medium=cpc&utm_campaign=ats"
+            },
+            {
+              "product_id" : 212818,
+              "seo_product_id" : 212818,
+              "seo_slug" : "Scissors",
+              "vendor_name" : "Scissors",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/1a377b0e-54e1-48e6-ae78-8196d3d4af84.png",
+              "rating" : 4.4,
+              "total_reviews" : 5,
+              "slug" : "Scissors",
+              "product_name" : "Scissors",
+              "short_desc" : "Custom temp staffing software. Cut through admin with intelligent workforce management tools, delight candidates and clients.",
+              "features" : "Skyrocket revenue up to 13X in 36 months with Scissors. Cut through admin with intelligent workforce management tools like automated candidate search, compliance monitoring & timesheets. Instant in-app chat and two-click apply will delight workers. Custom branded mobile & web apps are a seamless extension of your brand, helping you stand out in the saturated recruitment market and wow your clients. Fantastic personalised support from our success & development team for your entire subscription.",
+              "url" : "https://www.scissorsapp.com/"
+            },
+            {
+              "product_id" : 125622,
+              "seo_product_id" : 224074,
+              "seo_slug" : "HiringThing",
+              "vendor_name" : "HiringThing",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/ed3a9f65-4443-4324-a158-b31199270057.png",
+              "rating" : 4.4,
+              "total_reviews" : 89,
+              "slug" : "HiringThing",
+              "product_name" : "HiringThing",
+              "short_desc" : "HiringThing is an integrated recruiting platform that creates seamless hiring experiences.",
+              "features" : "HiringThing's solution enables customized recruiting solutions for Staffing Agencies, allowing for multiple searches and client management. Our award-winning applicant tracking system makes it easy to post jobs online, manage applicants, and hire great employees. Our feature-rich and API driven recruiting software creates seamless hiring experiences, enabling Hiring Happiness for all.",
+              "url" : "https://www.hiringthing.com/capterra/?utm_source=capterra&utm_medium=cpc&utm_campaign=capterra"
+            }
+          ],
+          "related_categories" : [
+            {
+              "functional_group" : "staffing",
+              "long_name" : "Applicant Tracking",
+              "html_name" : "applicant-tracking-software",
+              "link_name" : "applicant-tracking",
+              "product_count" : 238,
+              "meta_description" : "Find and compare top Applicant Tracking software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Applicant Tracking tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/applicant-tracking-software>Applicant Tracking software</a> allows organizations to easily manage the hiring process by maintaining a database of applicant and job information.  Applicant Tracking solutions can be used by organizations to collect applicant information and then filter, grade and match candidates' skills against job requirements.  Many Applicant Tracking Systems (ATS) include an interface that allows recruiters to manage all of an organization's job openings.  <a href=/applicant-tracking-software>Applicant Tracking software</a> is related to <a href=/human-resource-software>Human Resource software</a> and <a href=/workforce-management-software>Workforce Management software</a>."
+            },
+            {
+              "functional_group" : "staffing",
+              "long_name" : "Background Check",
+              "html_name" : "background-check-software",
+              "link_name" : "background-check",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Background Check software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Background Check tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "Background Check software helps organizations verify sensitive information provided by organizations and individuals as part of the process of seeking employmment or soliciting services. "
+            },
+            {
+              "functional_group" : "staffing",
+              "long_name" : "Credentialing",
+              "html_name" : "credentialing-software",
+              "link_name" : "credentialing",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Credentialing software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Credentialing tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/credentialing-software\">Credentialing software</a> provides automation tools to medical practices and hospitals for credential and privileging management. Stay compliant with automated workflows, system alerts, paperwork management, and accurate reporting. Buyers looking for credentialing software may also be interested in <a href=\"/dental-software\">Dental Software</a>, <a href=\"/hospital-management-software\">Hospital Management software</a>, <a href=\"/mental-health-software\">Mental Health software</a>, <a href=\"/chiropractic-software\">Chiropractic software</a>, <a href=\"/medical-practice-management-software\">Medical Practice Management software</a>, <a href=\"/optometry-software\">Optometry software</a>, and <a href=\"/pediatric-software\">Pediatric software</a>."
+            },
+            {
+              "functional_group" : "staffing",
+              "long_name" : "Human Resources",
+              "html_name" : "human-resource-software",
+              "link_name" : "human-resource",
+              "product_count" : 258,
+              "meta_description" : "Find and compare top Human Resource software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Human Resource tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/human-resource-software>Human Resource software</a>, also known as a Human Resources Information System (HRIS) or Human Resources Management System (HRMS), enables an organization to manage employee records and information.  Human Resource Management software allows you to organize contact details, department, attendance, salary, training, benefits and more.   Many Human Resource Management systems and resource management software also interface with applicant tracking and payroll software.  <a href=/human-resource-software>Human Resource Management software</a> is related to <a href=/applicant-tracking-software>Applicant Tracking software</a>, <a href=/payroll-software>Payroll software</a>, <a href=/performance-appraisal-software>Performance Appraisal software</a> and <a href=/workforce-management-software>Workforce Management software</a>."
+            },
+            {
+              "functional_group" : "staffing",
+              "long_name" : "Onboarding",
+              "html_name" : "onboarding-software",
+              "link_name" : "onboarding",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Onboarding software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Onboarding tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "Onboarding software eliminates the need for paper forms and automates workflows associated with getting a new hire up and running with the company."
+            },
+            {
+              "functional_group" : "staffing",
+              "long_name" : "Pre-employment Testing",
+              "html_name" : "pre-employment-testing-software",
+              "link_name" : "pre-employment-testing",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Pre-employment Testing software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Pre-employment Testing tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/pre-employment-testing-software\">Pre-employment Testing software</a> gives HR departments and hiring managers the ability to evaluate job candidates quickly with computer based assessments.  With Pre-employment Testing software you can measure a candidate's job skills, aptitude, and temperament prior to interviews or hiring.  Looking for other ways to streamline your application and hiring process?  Check out <a href=\"/applicant-tracking-software\">Applicant Tracking software</a>, <a href=\"/human-resource-software\">Human Resource software</a>, <a href=\"/recruiting-software\">Recruiting software</a>, and <a href=\"/talent-management-software\">Talent Management software</a>.  "
+            },
+            {
+              "functional_group" : "staffing",
+              "long_name" : "Recruiting",
+              "html_name" : "recruiting-software",
+              "link_name" : "recruiting",
+              "product_count" : 234,
+              "meta_description" : "Find and compare top Recruiting software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Recruiting tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/recruiting-software\">Recruiting software</a> helps recruiting, staffing and hiring agencies manage their operations by maintaining a database of applicant and job information. These solutions are used by organizations to collect applicant information and then filter, grade and match candidates skills against job requirements. Recruiting software is related to <a href=\"/applicant-tracking-software\">Applicant Tracking software</a>, <a href=\"/human-resource-software\">Human Resource software</a>, <a href=\"/talent-management-software\">Talent Management software</a> and <a href=\"/workforce-management-software\">Workforce Management software</a>."
+            },
+            {
+              "functional_group" : "staffing",
+              "long_name" : "Recruiting Agency",
+              "html_name" : "recruiting-agency-software",
+              "link_name" : "recruiting-agency",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Recruiting Agency software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Recruiting Agency tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "Recruitment Agency software helps agencies hire full-time employees for organizations and streamline the entire recruitment process, from job posting and candidate sourcing to applicant tracking and interview management. \r\n"
+            },
+            {
+              "functional_group" : "staffing",
+              "long_name" : "Reference Check",
+              "html_name" : "reference-check-software",
+              "link_name" : "reference-check",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Reference Check software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Reference Check tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "Reference Check software streamlines and automates the process of requesting and collecting job references. There are two types of Reference Check software. In the first type, candidates provide their referees? contact information to recruiters who then reach out to the referees through Reference Check software. The second type of software is a platform accessible by referees, candidates, recruiters, and HR professionals that allows candidates to reach out to the referees and collect references directly. "
+            },
+            {
+              "functional_group" : "staffing",
+              "long_name" : "Video Interviewing",
+              "html_name" : "video-interviewing-software",
+              "link_name" : "video-interviewing",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Video Interviewing software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Video Interviewing tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs.",
+              "description" : "Video interviewing software speeds up and simplifies recruiting by eliminating the need for multiple in-person interviews."
+            }
+          ],
+          "is_upgraded" : true,
+          "enabled" : true,
+          "filter_options" : {
+            "users" : 15,
+            "platform" : 15,
+            "pricing_options" : 18,
+            "category_related_features" : [
+              29544,
+              29546,
+              29547,
+              29548,
+              29549,
+              29551,
+              29553,
+              29554,
+              65788,
+              65790,
+              65792,
+              65793,
+              65797,
+              65799,
+              65800,
+              65802,
+              65803,
+              65805,
+              65808,
+              65809,
+              65810,
+              65812,
+              65813,
+              65814,
+              65815,
+              65816,
+              65822,
+              65825
+            ],
+            "employees" : 31
+          },
+          "sort_options" : {
+            "sort_review_rating" : 4.523826599121094,
+            "most_recent_review" : "2022-08-30T11:55:54Z"
+          },
+          "countries" : "US,CA",
+          "features_tokenized_text" : "candidate_management crm interview_management job_posting job_requisition resume_parsing self_service_portal",
+          "platform_tokenized_text" : "cloud,saas,web-based desktopmac desktopwindows desktoplinux",
+          "users_tokenized_text" : "1 2-10 11-50 51-200",
+          "pricing_tokenized_text" : "monthlysubscription freetrial",
+          "badges" : [
+            {
+              "id" : 2136,
+              "category_short_name" : "Recruiting",
+              "category_html_name" : "recruiting-software",
+              "published_year" : 2020,
+              "badge_type" : "Top 20"
+            }
+          ],
+          "bid_spot_us" : 11.0,
+          "currency_code" : "USD",
+          "currency_symbol" : "$",
+          "credit_card_required" : "No",
+          "licensing_model" : null,
+          "open_api_offered" : "Unverified",
+          "mobile_urls" : [ ],
+          "integrations" : [
+            {
+              "id" : "498cb0d5-8b49-44b0-8197-a78a00b59c0c",
+              "name" : "Gmail"
+            },
+            {
+              "id" : "d21b7cd3-66d4-4aee-90ea-a78a00b5b44d",
+              "name" : "Google Calendar"
+            }
+          ],
+          "supported_countries" : [
+            {
+              "id" : 237,
+              "code" : "US",
+              "name" : "United States of America"
+            },
+            {
+              "id" : 41,
+              "code" : "CA",
+              "name" : "Canada"
+            }
+          ],
+          "supported_languages" : [
+            {
+              "id" : 152,
+              "code" : "en",
+              "name" : "English",
+              "location" : null
+            }
+          ],
+          "target_industries" : [
+            {
+              "id" : 84,
+              "code" : "80",
+              "name" : "Marketing and Advertising"
+            },
+            {
+              "id" : 78,
+              "code" : "116",
+              "name" : "Logistics and Supply Chain"
+            },
+            {
+              "id" : 9,
+              "code" : "53",
+              "name" : "Automotive"
+            },
+            {
+              "id" : 41,
+              "code" : "122",
+              "name" : "Facilities Services"
+            },
+            {
+              "id" : 81,
+              "code" : "11",
+              "name" : "Management Consulting"
+            },
+            {
+              "id" : 35,
+              "code" : "132",
+              "name" : "E-Learning"
+            },
+            {
+              "id" : 26,
+              "code" : "48",
+              "name" : "Construction"
+            },
+            {
+              "id" : 29,
+              "code" : "91",
+              "name" : "Consumer Services"
+            },
+            {
+              "id" : 58,
+              "code" : "31",
+              "name" : "Hospitality"
+            },
+            {
+              "id" : 126,
+              "code" : "27",
+              "name" : "Retail"
+            },
+            {
+              "id" : 43,
+              "code" : "43",
+              "name" : "Financial Services"
+            },
+            {
+              "id" : 132,
+              "code" : "104",
+              "name" : "Staffing and Recruiting"
+            },
+            {
+              "id" : 52,
+              "code" : "75",
+              "name" : "Government Administration"
+            },
+            {
+              "id" : 139,
+              "code" : "92",
+              "name" : "Transportation/Trucking/Railroad"
+            },
+            {
+              "id" : 86,
+              "code" : "126",
+              "name" : "Media Production"
+            },
+            {
+              "id" : 46,
+              "code" : "34",
+              "name" : "Food & Beverages"
+            },
+            {
+              "id" : 120,
+              "code" : "44",
+              "name" : "Real Estate"
+            },
+            {
+              "id" : 11,
+              "code" : "41",
+              "name" : "Banking"
+            },
+            {
+              "id" : 105,
+              "code" : "15",
+              "name" : "Pharmaceuticals"
+            },
+            {
+              "id" : 62,
+              "code" : "147",
+              "name" : "Industrial Automation"
+            },
+            {
+              "id" : 59,
+              "code" : "137",
+              "name" : "Human Resources"
+            },
+            {
+              "id" : 85,
+              "code" : "135",
+              "name" : "Mechanical or Industrial Engineering"
+            },
+            {
+              "id" : 42,
+              "code" : "63",
+              "name" : "Farming"
+            },
+            {
+              "id" : 57,
+              "code" : "14",
+              "name" : "Hospital & Health Care"
+            },
+            {
+              "id" : 134,
+              "code" : "8",
+              "name" : "Telecommunications"
+            },
+            {
+              "id" : 64,
+              "code" : "96",
+              "name" : "Information Technology and Services"
+            },
+            {
+              "id" : 97,
+              "code" : "100",
+              "name" : "Non-Profit Organization Management"
+            },
+            {
+              "id" : 140,
+              "code" : "59",
+              "name" : "Utilities"
+            },
+            {
+              "id" : 74,
+              "code" : "10",
+              "name" : "Legal Services"
+            },
+            {
+              "id" : 1,
+              "code" : "47",
+              "name" : "Accounting"
+            },
+            {
+              "id" : 98,
+              "code" : "57",
+              "name" : "Oil & Energy"
+            },
+            {
+              "id" : 25,
+              "code" : "4",
+              "name" : "Computer Software"
+            },
+            {
+              "id" : 65,
+              "code" : "42",
+              "name" : "Insurance"
+            }
+          ],
+          "price_range_id" : 1,
+          "aggregated_review_ratings" : {
+            "industry" : {
+              "17" : 4.2,
+              "45" : 4.0,
+              "31" : 4.27,
+              "4" : 4.5,
+              "11" : 5.0,
+              "83" : 4.0,
+              "1" : 5.0,
+              "13" : 4.0,
+              "14" : 4.57,
+              "32" : 5.0,
+              "86" : 4.0,
+              "15" : 5.0,
+              "80" : 4.0,
+              "54" : 5.0,
+              "146" : 4.0,
+              "51" : 4.0,
+              "23" : 5.0,
+              "27" : 5.0,
+              "49" : 5.0,
+              "98" : 5.0,
+              "112" : 4.67,
+              "42" : 4.5,
+              "121" : 5.0,
+              "123" : 5.0,
+              "25" : 5.0,
+              "70" : 3.0,
+              "41" : 5.0,
+              "122" : 5.0,
+              "56" : 5.0,
+              "96" : 4.82,
+              "105" : 5.0,
+              "76" : 4.0,
+              "3" : 5.0,
+              "117" : 4.0,
+              "104" : 4.51,
+              "95" : 5.0,
+              "116" : 5.0,
+              "9" : 3.0,
+              "118" : 5.0,
+              "7" : 3.0,
+              "55" : 4.0,
+              "10" : 5.0,
+              "137" : 4.78,
+              "135" : 5.0,
+              "43" : 4.5,
+              "84" : 5.0,
+              "124" : 5.0,
+              "82" : 5.0,
+              "12" : 4.33,
+              "47" : 4.69,
+              "34" : 4.5,
+              "48" : 5.0,
+              "53" : 5.0
+            },
+            "company_size" : {
+              "1001-5000 employees" : 4.0,
+              "501-1000 employees" : 4.5,
+              "1-10 employees" : 4.56,
+              "Self-employed" : 4.7,
+              "11-50 employees" : 4.7,
+              "201-500 employees" : 4.25,
+              "51-200 employees" : 4.27
+            }
+          },
+          "vct_enabled" : false,
+          "pricing_plans" : [
+            {
+              "created_on_utc" : "2019-08-21T14:47:39Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Basic",
+              "description" : "Users can avail this plan at $63.75/ month on an annual subscription. ",
+              "display_order" : 1,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 75.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Per User",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "Advanced Search"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "Advanced User Permissions"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Browser Extension"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "Calendar Integration"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 5,
+                  "name" : "Career Page"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 6,
+                  "name" : "Custom Fields"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 7,
+                  "name" : "Custom Reports"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 8,
+                  "name" : "Email Integration"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 9,
+                  "name" : "Free Support and Training"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 10,
+                  "name" : "Full Text Searching"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 11,
+                  "name" : "GDPR & CCPA Compliance Tools"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 12,
+                  "name" : "Hotlists"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 13,
+                  "name" : "Job Board Integration"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 14,
+                  "name" : "Merge Records"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 15,
+                  "name" : "Notification System"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 16,
+                  "name" : "Pipeline Management"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 17,
+                  "name" : "Record Management"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 18,
+                  "name" : "Resume Parsing"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 19,
+                  "name" : "Texting"
+                }
+              ]
+            }
+          ],
+          "discount_types" : [
+            {
+              "name" : "By Plan Frequency",
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

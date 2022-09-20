@@ -1,0 +1,2012 @@
+{
+  "took" : 8,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 3,
+    "successful" : 3,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : {
+      "value" : 1,
+      "relation" : "eq"
+    },
+    "max_score" : 11.37608,
+    "hits" : [
+      {
+        "_index" : "product_listings_main_data_upc_vt20220920_043802_utc",
+        "_type" : "_doc",
+        "_id" : "111529_eproc",
+        "_score" : 11.37608,
+        "_source" : {
+          "product_id" : 111529,
+          "seo_product_id" : 111529,
+          "seo_slug" : "Market-Dojo",
+          "product_name" : "Market Dojo",
+          "upc_product_uuid" : "14fce06b-6bcb-4e00-b663-a6d200b50e78",
+          "old_product_ids" : [ ],
+          "product_url" : "https://marketdojo.com/sourcing-dojo/",
+          "product_slug" : "Market-Dojo",
+          "former_name" : "Market Dojo",
+          "logo_filepath" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4723dca0-ca55-4a88-a3af-54dea11279e6.png",
+          "vendor" : {
+            "vendor_id" : 2075083,
+            "vendor_name" : "Market Dojo",
+            "vendor_url" : "http://www.marketdojo.com",
+            "year_founded" : 2010,
+            "location" : "United Kingdom",
+            "vendor_opted_out_of_reviews" : true,
+            "is_opted_out_of_reviews" : false,
+            "is_hit_limit" : false,
+            "enabled" : true,
+            "has_vendor_level_page" : false,
+            "slug" : null,
+            "vendor_page" : false,
+            "paused_campaign" : false
+          },
+          "category_short_name" : "eproc",
+          "category_html_name" : "procurement-software",
+          "category" : {
+            "id" : 7,
+            "short_name" : "eproc",
+            "long_name" : "Procurement",
+            "html_name" : "procurement-software",
+            "enabled" : true
+          },
+          "best_category" : "eproc",
+          "is_best_category" : true,
+          "highest_cpc_category" : null,
+          "is_highest_cpc_category" : false,
+          "short_desc" : "Supplier management and sourcing software for organisations wanting to digitalise their procurement processes quickly and easily.",
+          "long_desc" : "Market Dojo enables procurement professionals worldwide to solve inefficient sourcing and supplier management processes by digitalising these activities quickly and easily. More flexible than legacy software, with no implementation fees, Market Dojo empowers users through a self-service platform to control their costs, mitigate risk and centralise data. Modules include: sourcing; supplier onboarding and relationship management; contract management; opportunity analysis; and tailspend management.",
+          "rating" : 4.6,
+          "number_of_reviews" : 83,
+          "total_reviews" : 82,
+          "ease_of_use_rating" : 4.6,
+          "customer_support_rating" : 4.9,
+          "functionality_rating" : 4.3,
+          "value_for_money_rating" : 4.6,
+          "recommendation_rating" : 9.2,
+          "pricing_enabled" : true,
+          "pricing" : 0.0,
+          "is_per_user" : true,
+          "fee_schedule" : "Per-Month",
+          "pricing_model" : "Per User",
+          "pricing_details" : "Monthly and annual licenses available ranging from #50-#500 per month, depending on which module you choose.",
+          "pricing_created_on" : "2019-08-21T14:47:39Z",
+          "pricing_modified_on" : "2022-06-23T14:42:33Z",
+          "pricing_created_by" : null,
+          "pricing_modified_by" : null,
+          "pricing_vendor_pricing_url" : "https://marketdojo.com/sourcing-dojo/",
+          "free_trial" : true,
+          "free_version" : false,
+          "target_audience" : "Organisations, in any industry, who want to get the most from their supplier engagement and procurement activities. Streamline processes, reduce risk, and effectively manage supply chain decisions. ",
+          "target_users" : [
+            "1",
+            "2-10",
+            "11-50",
+            "51-200",
+            "201-500",
+            "501-1000",
+            "1000+"
+          ],
+          "platform" : [
+            {
+              "enabled" : true,
+              "name" : "Cloud, SaaS, Web-Based"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Mac"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Chromebook"
+            },
+            {
+              "enabled" : false,
+              "name" : "Mobile Android"
+            },
+            {
+              "enabled" : false,
+              "name" : "Mobile iPhone"
+            },
+            {
+              "enabled" : false,
+              "name" : "Mobile iPad"
+            }
+          ],
+          "support" : [
+            {
+              "enabled" : true,
+              "name" : "Email Help Desk"
+            },
+            {
+              "enabled" : true,
+              "name" : "FAQ Forum"
+            },
+            {
+              "enabled" : true,
+              "name" : "Knowledgebase"
+            },
+            {
+              "enabled" : true,
+              "name" : "Phone Support"
+            },
+            {
+              "enabled" : false,
+              "name" : "24/7 Live Rep"
+            },
+            {
+              "enabled" : true,
+              "name" : "Chat"
+            }
+          ],
+          "training" : [
+            {
+              "enabled" : false,
+              "name" : "Not Offered"
+            },
+            {
+              "enabled" : true,
+              "name" : "In-Person"
+            },
+            {
+              "enabled" : true,
+              "name" : "Live Online"
+            },
+            {
+              "enabled" : true,
+              "name" : "Webinars"
+            },
+            {
+              "enabled" : true,
+              "name" : "Documentation"
+            },
+            {
+              "enabled" : true,
+              "name" : "Videos"
+            }
+          ],
+          "media" : [
+            {
+              "product_id" : 111529,
+              "vendor_id" : 2075083,
+              "media_type" : "VIDEO",
+              "path_url" : "https://www.youtube.com/watch?v=6BdFVIA98Dw",
+              "caption" : null,
+              "weight" : 0,
+              "short_name" : "eproc"
+            },
+            {
+              "product_id" : 111529,
+              "vendor_id" : 2075083,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/4b604f1b-f81e-4f4f-9d73-167471c9953a.png",
+              "caption" : "Sourcing Dojo Flow Diagram",
+              "weight" : 1,
+              "short_name" : "eproc"
+            },
+            {
+              "product_id" : 111529,
+              "vendor_id" : 2075083,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/c19ae5c2-335c-4bc6-8516-661f0d6bd707.png",
+              "caption" : "SIM Dojo Flow Diagram",
+              "weight" : 2,
+              "short_name" : "eproc"
+            },
+            {
+              "product_id" : 111529,
+              "vendor_id" : 2075083,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/19281aaa-c6e4-418a-9734-dccd309193df.png",
+              "caption" : "Contract Dojo Flow Diagram",
+              "weight" : 3,
+              "short_name" : "eproc"
+            },
+            {
+              "product_id" : 111529,
+              "vendor_id" : 2075083,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/bcbd7936-b4cd-4c17-abcc-4a36040663bd.png",
+              "caption" : "SRM Dojo Flow Diagram",
+              "weight" : 4,
+              "short_name" : "eproc"
+            },
+            {
+              "product_id" : 111529,
+              "vendor_id" : 2075083,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/81d929b5-7d9e-4afd-bc21-4fa4184bc37a.png",
+              "caption" : "Quick Quotes Flow Diagram",
+              "weight" : 5,
+              "short_name" : "eproc"
+            }
+          ],
+          "links" : [
+            {
+              "product_id" : 111529,
+              "functional_group" : "eproc",
+              "html_code" : "https://secure.marketdojo.com/signup?user_signup_reason=sourcing_and_tenders",
+              "link_name" : "Free Trial",
+              "link_priority" : 1.0
+            },
+            {
+              "product_id" : 111529,
+              "functional_group" : "eproc",
+              "html_code" : "https://marketdojo.com/sourcing-dojo/",
+              "link_name" : "Free Demo",
+              "link_priority" : 2.0
+            },
+            {
+              "product_id" : 111529,
+              "functional_group" : "eproc",
+              "html_code" : "https://marketdojo.com/sourcing-dojo/",
+              "link_name" : "Pricing",
+              "link_priority" : 3.0
+            },
+            {
+              "product_id" : 111529,
+              "functional_group" : "eproc",
+              "html_code" : "https://marketdojo.com/contract-dojo-product/",
+              "link_name" : "Contracts",
+              "link_priority" : 4.0
+            },
+            {
+              "product_id" : 111529,
+              "functional_group" : "eproc",
+              "html_code" : "https://marketdojo.com/sim-dojo/",
+              "link_name" : "Supplier Onboarding",
+              "link_priority" : 5.0
+            }
+          ],
+          "features" : [
+            {
+              "category_name" : "Procurement",
+              "category_features" : [
+                {
+                  "name" : "Cataloging/Categorization",
+                  "value" : true,
+                  "id" : "3471f5d5-7c7c-467c-a5e2-aec6fc75b37e",
+                  "avg_rating" : 4.8,
+                  "cnt_rating" : 5,
+                  "avg_importance" : 2.67,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.667,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Create and manage digital catalog of products/services with their details, specification, and price"
+                },
+                {
+                  "name" : "Contract/License Management",
+                  "value" : true,
+                  "id" : "efd314c0-e308-412f-9ff3-8bd8745c3096",
+                  "avg_rating" : 4.7,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Track, store, and access client/customer contracts"
+                },
+                {
+                  "name" : "Fixed Asset Management",
+                  "value" : false,
+                  "id" : "6b4d33b4-8606-4113-b768-95cbe8b7d88d",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Centralized database to track details of fixed assets such as depreciation and maintenance scheduling/history"
+                },
+                {
+                  "name" : "Inventory Management",
+                  "value" : false,
+                  "id" : "80f46038-6ae8-4725-8064-788b20380eeb",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track and manage the quantity of resources on hand to maintain proper supply"
+                },
+                {
+                  "name" : "Invoice Processing",
+                  "value" : false,
+                  "id" : "5f8f8f76-1a67-44af-8cdc-af5336b6227a",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Create, process, execute and manage suppliers invoices till the payment is made"
+                },
+                {
+                  "name" : "Purchase Order Management",
+                  "value" : false,
+                  "id" : "a9f6bc9b-faba-4d7a-95c4-d72a86ef6937",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Create, send, and track purchase orders and their statuses"
+                },
+                {
+                  "name" : "Receiving/Putaway Management",
+                  "value" : false,
+                  "id" : "225a2a5c-0cc9-45a1-9b17-000092e5cf05",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Manage process from initial receipt of a load to when it is stocked in its final destination within a warehouse"
+                },
+                {
+                  "name" : "Requisition Management",
+                  "value" : true,
+                  "id" : "19b32b58-b5e4-423d-9cff-3d153a687022",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Review, approve and cancel requests for goods/services to be purchased"
+                },
+                {
+                  "name" : "Sourcing Management",
+                  "value" : true,
+                  "id" : "93b5e32f-a2ee-46af-9d88-f0ba991d00e0",
+                  "avg_rating" : 4.5,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Negotiate best prices and choose the right vendor for various purchases"
+                },
+                {
+                  "name" : "Spend Management",
+                  "value" : false,
+                  "id" : "fbc16671-865c-4c7a-a69c-de2050f554b3",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Track the amount of money spent on a certain product or with a certain supplier"
+                },
+                {
+                  "name" : "Supplier Management",
+                  "value" : true,
+                  "id" : "aa61511b-b73d-4fbb-a5f4-0ea85d124fcb",
+                  "avg_rating" : 3.8,
+                  "cnt_rating" : 6,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Manage various aspects of the relationship with suppliers (e.g. interactions, history)"
+                }
+              ]
+            },
+            {
+              "category_name" : "Sourcing",
+              "category_features" : [
+                {
+                  "name" : "Auction Management",
+                  "value" : true,
+                  "id" : "9bdd83e5-8882-4592-ab12-b2432ac9579c",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Budget Management",
+                  "value" : false,
+                  "id" : "d55a0076-7fd6-409b-b8ff-eaaa13415063",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Collaboration Tools",
+                  "value" : true,
+                  "id" : "97efb0d3-9a23-4408-90d4-4db1e3830fbd",
+                  "avg_rating" : 4.7,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Ability to work collectively on a project while communicating and sharing information within the system in real time"
+                },
+                {
+                  "name" : "Compliance Management",
+                  "value" : true,
+                  "id" : "067f6bae-1749-483f-ac79-6c2c3c4114c8",
+                  "avg_rating" : 4.8,
+                  "cnt_rating" : 6,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 0.667,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.333,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Contract/License Management",
+                  "value" : true,
+                  "id" : "efd314c0-e308-412f-9ff3-8bd8745c3096",
+                  "avg_rating" : 4.7,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Requisition Management",
+                  "value" : true,
+                  "id" : "19b32b58-b5e4-423d-9cff-3d153a687022",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Rfx Management",
+                  "value" : true,
+                  "id" : "bdf05028-ce11-4747-860d-d80ba5e0de66",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Risk Assessment",
+                  "value" : false,
+                  "id" : "2f19c4d6-3603-4e7f-a065-732fa92a5611",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Spend Analysis",
+                  "value" : false,
+                  "id" : "86629451-f1cc-4eea-9d7a-532d9c0eff95",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Supplier Management",
+                  "value" : true,
+                  "id" : "aa61511b-b73d-4fbb-a5f4-0ea85d124fcb",
+                  "avg_rating" : 3.8,
+                  "cnt_rating" : 6,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Supplier Qualification",
+                  "value" : true,
+                  "id" : "e3d13f30-b697-4a07-a0c5-d65df84e9b08",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Supplier Risk Management",
+                  "value" : true,
+                  "id" : "a72d0499-9fe7-4b84-a710-a7de47c5a8c2",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Supplier Web Portal",
+                  "value" : true,
+                  "id" : "935a2f32-6313-4f84-bb2a-151f0196f1b0",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Template Management",
+                  "value" : true,
+                  "id" : "f6364f68-ad3c-4d2c-b40b-6e1f41bbea7e",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Workflow Management",
+                  "value" : false,
+                  "id" : "c4c63af2-2e9e-4f8b-b965-20e94a16a8b9",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                }
+              ]
+            }
+          ],
+          "infographics" : [
+            {
+              "product_id" : 111529,
+              "html_name" : "procurement-software",
+              "infographic_type" : "general_t20",
+              "infographic_title" : null
+            }
+          ],
+          "related_products" : [
+            {
+              "product_id" : 227399,
+              "seo_product_id" : 227399,
+              "seo_slug" : "QuickBooks-Commerce",
+              "vendor_name" : "Intuit",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/a04a169b-1159-4018-9bf6-d3f3f966fa7d.png",
+              "rating" : 4.5,
+              "total_reviews" : 480,
+              "slug" : "QuickBooks-Commerce",
+              "product_name" : "QuickBooks Commerce",
+              "short_desc" : "QuickBooks Commerce enables you to manage inventory and orders for your multichannel business and keep track of products.",
+              "features" : "QuickBooks Commerce enables you to manage inventory and orders for your multichannel business and keep track of your products as you sell and restock across multiple warehouse locations and channels. \n\nQuickBooks Commerce allows brands to automate and integrate their commerce platforms and get powerful insights into all their sales data on-demand.",
+              "url" : "https://www.tradegecko.com/"
+            },
+            {
+              "product_id" : 135618,
+              "seo_product_id" : 135618,
+              "seo_slug" : "Odoo",
+              "vendor_name" : "Odoo",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/17efceca-38ea-4e7e-83dc-2cdd9fb0987f.png",
+              "rating" : 4.1,
+              "total_reviews" : 463,
+              "slug" : "Odoo",
+              "product_name" : "Odoo ",
+              "short_desc" : "Procurement tools manage suppliers by automating numerous processes. Avoid stock-outs & overspending on excessive materials with Odoo.",
+              "features" : "Manage suppliers and purchase orders easily with Odoo. Odoo?s procurement tools are tailor-made to help users efficiently run their business with less stock, and ensures they avoid frustrating stock-outs. Easily configure ?Min-Max? stock quantities with Odoo?s user-friendly reordering rules, stock levels, sales forecasts, and automatic routes (Replenish on Order). Users can quickly import vendor price lists and lead times, in order to stay updated on products? pricing and shipping details.",
+              "url" : "https://www.odoo.com/page/purchase?utm_campaign=procurement&utm_medium=cpc-review&utm_source=capterra"
+            },
+            {
+              "product_id" : 136321,
+              "seo_product_id" : 220381,
+              "seo_slug" : "ProcurementExpresscom",
+              "vendor_name" : "ProcurementExpress.com",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/b671c54f-8fa2-47e7-9265-2d48f2795a61.png",
+              "rating" : 4.7,
+              "total_reviews" : 368,
+              "slug" : "ProcurementExpress-com",
+              "product_name" : "ProcurementExpress.com",
+              "short_desc" : "360+ 4.7/5 reviews. Simple yet, fully featured. The highest rated procurement software. ",
+              "features" : "Simple Procurement software that allows team members to create purchase requests on the go that can get approved by pre-defined approvers - from any device. All relevant comments & docs can get attached to the PO & managed for reporting & auditing. Eliminate spending mistakes & keep team members accountable for company card purchasing. View and manage budgets in real-time for insightful decision-making for each purchase. Draw accurate reports with a click of a button for the accountant.",
+              "url" : "https://app.procurementexpress.com/users/sign_up?utm_source=capterra&utm_medium=procurement"
+            },
+            {
+              "product_id" : 144848,
+              "seo_product_id" : 222000,
+              "seo_slug" : "Pipefy",
+              "vendor_name" : "Pipefy",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/06e32786-d6a3-46c1-8727-2f04051245b7.png",
+              "rating" : 4.6,
+              "total_reviews" : 275,
+              "slug" : "Pipefy",
+              "product_name" : "Pipefy",
+              "short_desc" : "Automate and integrate your processes to gain full control and visibility of your procurement operations with Pipefy.",
+              "features" : "Gain full control and visibility of your procurement operations with Pipefy.\n\nThe process management platform helps you ensure requisitions and purchase orders are being processed quickly and accurately, and allows you to integrate your accounting software or other legacy tools to scale your operation. \n\nBuild an error-proof procurement operation with digital workflows that reduce the risk of human error. Try Pipefy for free.\n",
+              "url" : "https://www.pipefy.com/lp/procurement-cd/?utm_medium=cpc&utm_source=capterra&utm_campaign=capterra_perf_usa_usa_mktplace_na_fin_procurement"
+            },
+            {
+              "product_id" : 152293,
+              "seo_product_id" : 152293,
+              "seo_slug" : "SAP-S-4HANA",
+              "vendor_name" : "SAP",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/b557c346-6092-4469-b559-1adc202e5270.png",
+              "rating" : 4.3,
+              "total_reviews" : 263,
+              "slug" : "SAP-S-4HANA",
+              "product_name" : "SAP S/4HANA Cloud",
+              "short_desc" : "Discover SAP S/4HANA Cloud, a complete ERP system with embedded AI and machine learning.",
+              "features" : "SAP S/4HANA Cloud is a complete enterprise resource planning (ERP) system with built-in intelligent technologies, including AI, machine learning, and advanced analytics. It helps companies adopt new business models, manage business change at speed, orchestrate internal and external resources, and use the predictive power of AI. Benefit from tight, native integration between processes, industry depth, and a consistent in-memory data model. ",
+              "url" : "https://info.gartnerdigitalmarkets.com/sap-s4hana-erp-gdm-lp?category=procurement"
+            },
+            {
+              "product_id" : 129726,
+              "seo_product_id" : 226164,
+              "seo_slug" : "RFP360",
+              "vendor_name" : "RFP360",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/0a5b710b-27b4-46e1-98c8-454fa64aef9a.png",
+              "rating" : 4.4,
+              "total_reviews" : 252,
+              "slug" : "RFP365",
+              "product_name" : "RFP360",
+              "short_desc" : "RFP360 streamlines how you engage vendors, collaborate with colleagues, request information, issue RFPs and evaluate responses.",
+              "features" : "RFP360 empowers you to manage all RFPs and tenders in a template library, simplifying, standardizing and improving every request you issue. You can assign tasks, set deadlines, collaborate and communicate with stakeholders, suppliers and scorers in one solution. Our vendor evaluation features enable you to collect, score and compare RFP responses in a single view, driving more informed and objective buying decisions. And dashboards and reports offer insight into current and previous activity.",
+              "url" : "https://info.gartnerdigitalmarkets.com/rfp360-gdm-lp/?utm_campaign=capterra&category=procurement"
+            },
+            {
+              "product_id" : 141589,
+              "seo_product_id" : 225343,
+              "seo_slug" : "Spendwise",
+              "vendor_name" : "Spendwise",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/60c84207-27d0-4f7e-bbfa-e44fc3aed0f4.png",
+              "rating" : 4.5,
+              "total_reviews" : 204,
+              "slug" : "Officewise",
+              "product_name" : "Spendwise",
+              "short_desc" : "Spendwise is an affordable easy-to-use online system that helps you control spending saving you time and money.",
+              "features" : "Spendwise is an affordable easy-to-use online system that helps you control spending saving you time and money.  Users can create purchase orders, submit them for approval, approve or reject them, and send them directly to vendors.  Users can also keep track of items and bills received from vendors.  Spendwise is web-based so you don't have to install software and you can access it from anywhere.  Visit our website for more information and sign up for a Free Trial and/or Demo!",
+              "url" : "https://secure.spendwise.com/home/purchase_order_landing?utm_medium=cpc&utm_campaign=procurement"
+            },
+            {
+              "product_id" : 148522,
+              "seo_product_id" : 212163,
+              "seo_slug" : "Precoro",
+              "vendor_name" : "Precoro",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/9b562a95-f54a-4945-9f53-d59ea01e8871.png",
+              "rating" : 4.8,
+              "total_reviews" : 161,
+              "slug" : "Precoro",
+              "product_name" : "Precoro",
+              "short_desc" : "Save time and money by eliminating manual work. Streamlined approvals, real-time budgeting, PRs, POs, invoices - all in one software.",
+              "features" : "Gain overall control and visibility of your procurement workflow with a holistic cloud-based solution. Transform your time-consuming procurement operations into convenient and automated procedures. Document creation just in a few clicks. Approve documents 2,5x faster, and reduce manual data entry at least by 80%. Precoro provides integrations with NetSuite, Quickbooks, Amazon Business Punch-in, and a free API for implementing other accounting solutions. ",
+              "url" : "https://get.precoro.com/procurement-software/?utm_source=capterra&utm_medium=cpc&utm_campaign=procurement"
+            },
+            {
+              "product_id" : 129758,
+              "seo_product_id" : 224569,
+              "seo_slug" : "Procurify",
+              "vendor_name" : "Procurify",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4fbec6ff-12fe-4cbc-a11a-892c86724435.png",
+              "rating" : 4.5,
+              "total_reviews" : 138,
+              "slug" : "Procurify",
+              "product_name" : "Procurify",
+              "short_desc" : "Procurify helps you gain unparalleled control and visibility with streamlined workflows, real-time data, and innovative features.",
+              "features" : "Procurify is the go to end-to-end procurement software that lets businesses track, control, and analyze all spending to simplify and scale their spend management process. Simple and easy to use, Procurify's intuitive interface empowers users to proactively track, control, and analyze spending. Keep all of your records centralized and reduce rogue spending with Amazon Business and Staples PunchOut integration. Procurify integrates seamlessly with Netsuite, Quickbooks and other ERP systems.",
+              "url" : "https://start.procurify.com/procurement-software/?utm_source=capterra&utm_medium=referral&utm_campaign=2005_General_Procurement_Demo_WebRef_MKTGt"
+            },
+            {
+              "product_id" : 236696,
+              "seo_product_id" : 236696,
+              "seo_slug" : "Adoddle",
+              "vendor_name" : "Asite Solutions",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/44ddf40a-ef88-4407-a58d-8c1bdacf5cce.png",
+              "rating" : 3.6,
+              "total_reviews" : 117,
+              "slug" : "Adoddle",
+              "product_name" : "Asite",
+              "short_desc" : "The Asite Platform is cloud-based and enables seamless collaboration across disciplines, from concept to completion and beyond.",
+              "features" : "The Asite Platform provides everyone across the construction supply chain access to key information regardless of location or device, enabling project teams to store and manage all data in one central and secure repository. \n\nThe vast range of solutions Asite offers enable increased collaboration and efficiency both on the construction site and in the back-office. This results in fewer mistakes, delivering huge time and cost savings. \n",
+              "url" : "http://www.asite.com/"
+            },
+            {
+              "product_id" : 30088,
+              "seo_product_id" : 30088,
+              "seo_slug" : "eBuyerAssist",
+              "vendor_name" : "Eyvo",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8be5338a-53ff-4cd8-8456-4720354b50df.png",
+              "rating" : 4.9,
+              "total_reviews" : 69,
+              "slug" : "eBuyerAssist",
+              "product_name" : "eBuyerAssist Platform",
+              "short_desc" : "Full purchasing workflow solution hosted in the cloud  from req-to-check many plugin options/integrations, and Global 24/7 Support.",
+              "features" : "Your complete purchase order workflow tool hosted in the Cloud. From point of requisition to placement of your order to the vendor  eBA has many features only found in more expensive solutions from online approvals, public RFPs, sealed vendor bidding, a receiving module, invoice matching, full legacy accounts integration, assets & inventory management, GDPR compliant, vendor portals the list goes on.  All in an easy to use simple interface  - see why we have the highest reviews,  contact us now.",
+              "url" : "https://www.e-procurement.com/landing/"
+            }
+          ],
+          "similar_products" : [
+            {
+              "product_id" : 129758,
+              "seo_product_id" : 224569,
+              "seo_slug" : "Procurify",
+              "vendor_name" : "Procurify",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4fbec6ff-12fe-4cbc-a11a-892c86724435.png",
+              "rating" : 4.5,
+              "total_reviews" : 138,
+              "slug" : "Procurify",
+              "product_name" : "Procurify",
+              "short_desc" : "Procurify helps you gain unparalleled control and visibility with streamlined workflows, real-time data, and innovative features.",
+              "features" : "Procurify is the go to end-to-end procurement software that lets businesses track, control, and analyze all spending to simplify and scale their spend management process. Simple and easy to use, Procurify's intuitive interface empowers users to proactively track, control, and analyze spending. Keep all of your records centralized and reduce rogue spending with Amazon Business and Staples PunchOut integration. Procurify integrates seamlessly with Netsuite, Quickbooks and other ERP systems.",
+              "url" : "https://start.procurify.com/purchasing?utm_source=capterra&utm_medium=referral&utm_campaign=2005_General_Default_Demo_WebRef_MKTGt"
+            },
+            {
+              "product_id" : 136321,
+              "seo_product_id" : 220381,
+              "seo_slug" : "ProcurementExpresscom",
+              "vendor_name" : "ProcurementExpress.com",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/b671c54f-8fa2-47e7-9265-2d48f2795a61.png",
+              "rating" : 4.7,
+              "total_reviews" : 368,
+              "slug" : "ProcurementExpress-com",
+              "product_name" : "ProcurementExpress.com",
+              "short_desc" : "360+ 4.7/5 reviews. Simple yet, fully featured. The highest rated procurement software. ",
+              "features" : "Simple Procurement software that allows team members to create purchase requests on the go that can get approved by pre-defined approvers - from any device. All relevant comments & docs can get attached to the PO & managed for reporting & auditing. Eliminate spending mistakes & keep team members accountable for company card purchasing. View and manage budgets in real-time for insightful decision-making for each purchase. Draw accurate reports with a click of a button for the accountant.",
+              "url" : "https://app.procurementexpress.com/users/sign_up?utm_source=capterra&utm_medium=default"
+            },
+            {
+              "product_id" : 161813,
+              "seo_product_id" : 221335,
+              "seo_slug" : "Negotiatus",
+              "vendor_name" : "Order",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/608748e2-a1ae-4183-a0c6-1c8c9e5b0a99.png",
+              "rating" : 4.4,
+              "total_reviews" : 56,
+              "slug" : "Order-Software",
+              "product_name" : "Order",
+              "short_desc" : "Simplify your purchasing by centralizing it onto 1 platform with the proper guardrails in place to ensure compliance and cost savings.",
+              "features" : "Order simplifies buying for businesses by centralizing it onto one platform. With Order, all the products your company needs to operate can be found in one place with the approval and budgeting guardrails needed to ensure compliance. Placing recurring orders is as simple as one click with saved product lists, and saving on purchases hasn't been easier with Order's $4 billion in purchasing power and strategic sourcing that ensures you always pay the lowest prices for your products. ",
+              "url" : "https://get.order.co/demo-request/?utm_source=Capterra&utm_medium=ppc"
+            },
+            {
+              "product_id" : 129726,
+              "seo_product_id" : 226164,
+              "seo_slug" : "RFP360",
+              "vendor_name" : "RFP360",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/0a5b710b-27b4-46e1-98c8-454fa64aef9a.png",
+              "rating" : 4.4,
+              "total_reviews" : 252,
+              "slug" : "RFP365",
+              "product_name" : "RFP360",
+              "short_desc" : "RFP360 streamlines how you engage vendors, collaborate with colleagues, request information, issue RFPs and evaluate responses.",
+              "features" : "RFP360 empowers you to manage all RFPs and tenders in a template library, simplifying, standardizing and improving every request you issue. You can assign tasks, set deadlines, collaborate and communicate with stakeholders, suppliers and scorers in one solution. Our vendor evaluation features enable you to collect, score and compare RFP responses in a single view, driving more informed and objective buying decisions. And dashboards and reports offer insight into current and previous activity.",
+              "url" : "https://info.gartnerdigitalmarkets.com/rfp360-gdm-lp?utm_campaign=capterra"
+            },
+            {
+              "product_id" : 101629,
+              "seo_product_id" : 223447,
+              "seo_slug" : "PROACTIS",
+              "vendor_name" : "Proactis",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e36e6f90-478e-4531-b3e2-c9de331a73b9.png",
+              "rating" : 4.4,
+              "total_reviews" : 13,
+              "slug" : "PROACTIS",
+              "product_name" : "PROACTIS",
+              "short_desc" : "Proactis drives true cost savings & efficiency in smart & powerful procurement solutions to simplify, track & analyze 100% of process. ",
+              "features" : "Over 3 million Proactis procurement users have realized faster time to value, scalability, and agility to move at the accelerating pace of change and procurement automation. Proactis significantly reduces costs and budget overruns with our market-leading procurement automation solution that unifies procurement and finance processes. You can now achieve real cost savings, spend control & visibility, & process improvements together in a smart, intuitive cloud platform. Schedule a free demo today.",
+              "url" : "https://info.gartnerdigitalmarkets.com/proactis-gdm-lp"
+            },
+            {
+              "product_id" : 83439,
+              "seo_product_id" : 5681,
+              "seo_slug" : "eRequester",
+              "vendor_name" : "Fraxion",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4750d5a4-530c-4c57-a7b5-39f03dee17c0.png",
+              "rating" : 4.3,
+              "total_reviews" : 47,
+              "slug" : "Fraxion-Spend-Management",
+              "product_name" : "Fraxion",
+              "short_desc" : "Best-in-class procure-to-pay software for businesses that require ease of use, transparency, insights, and proactive spend controls.",
+              "features" : "A cloud-based procure-to-pay solution for proactive spend management. Trusted by cross-industry organizations worldwide to automate procurement workflows and manage requisition-to-PO processes and expenses with multi-level approvals, budget control, policy compliance, AP workflow management, and spend analysis. Fraxion enables PunchOut and Catalog procurement with strategic vendors. Easy to use and effective as a standalone solution or with seamless ERP integrations.",
+              "url" : "https://www.fraxion.biz/fraxion-solutions"
+            },
+            {
+              "product_id" : 141589,
+              "seo_product_id" : 225343,
+              "seo_slug" : "Spendwise",
+              "vendor_name" : "Spendwise",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/60c84207-27d0-4f7e-bbfa-e44fc3aed0f4.png",
+              "rating" : 4.5,
+              "total_reviews" : 204,
+              "slug" : "Officewise",
+              "product_name" : "Spendwise",
+              "short_desc" : "Spendwise is an affordable easy-to-use online system that helps you control spending saving you time and money.",
+              "features" : "Spendwise is an affordable easy-to-use online system that helps you control spending saving you time and money.  Users can create purchase orders, submit them for approval, approve or reject them, and send them directly to vendors.  Users can also keep track of items and bills received from vendors.  Spendwise is web-based so you don't have to install software and you can access it from anywhere.  Visit our website for more information and sign up for a Free Trial and/or Demo!",
+              "url" : "https://secure.spendwise.com/home/purchase_order_landing?utm_medium=cpc&utm_campaign=purchasing"
+            },
+            {
+              "product_id" : 176776,
+              "seo_product_id" : 230577,
+              "seo_slug" : "TeamPay",
+              "vendor_name" : "Teampay",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/a55a8aca-b493-4612-b3be-a2d4becf7a42.png",
+              "rating" : 4.6,
+              "total_reviews" : 13,
+              "slug" : "TeamPay",
+              "product_name" : "Teampay",
+              "short_desc" : "Say goodbye to outdated Procure-to-Pay systems and hello to your modern procurement process with Teampay.",
+              "features" : "Say goodbye to outdated Procure-to-Pay systems and modernize your procurement process. Teampay's intuitive purchasing software automates and simplifies all purchases from end-to-end. While finance teams maintain total control, managers and employees get real-time visibility into company spend and make quick, compliant purchases. Save time with automation, set proactive spend controls, issue payment methods instantly, and see rapid time-to-value.",
+              "url" : "https://www.teampay.co/features/spend-management-software/?utm_medium=referral&utm_campaign=organic-listing&utm_term=default"
+            },
+            {
+              "product_id" : 148522,
+              "seo_product_id" : 212163,
+              "seo_slug" : "Precoro",
+              "vendor_name" : "Precoro",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/9b562a95-f54a-4945-9f53-d59ea01e8871.png",
+              "rating" : 4.8,
+              "total_reviews" : 161,
+              "slug" : "Precoro",
+              "product_name" : "Precoro",
+              "short_desc" : "Save time and money by eliminating manual work. Streamlined approvals, real-time budgeting, PRs, POs, invoices - all in one software.",
+              "features" : "Gain overall control and visibility of your procurement workflow with a holistic cloud-based solution. Transform your time-consuming procurement operations into convenient and automated procedures. Document creation just in a few clicks. Approve documents 2,5x faster, and reduce manual data entry at least by 80%. Precoro provides integrations with NetSuite, Quickbooks, Amazon Business Punch-in, and a free API for implementing other accounting solutions. ",
+              "url" : "https://get.precoro.com/procurement-software/?utm_source=capterra&utm_medium=cpc"
+            },
+            {
+              "product_id" : 136077,
+              "seo_product_id" : 212271,
+              "seo_slug" : "Tradogram",
+              "vendor_name" : "Tradogram Inc.",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/3773550e-0d8e-4ecd-9114-5185c2cfdf2d.png",
+              "rating" : 4.5,
+              "total_reviews" : 45,
+              "slug" : "Tradogram",
+              "product_name" : "Tradogram",
+              "short_desc" : "Manage your direct & indirect purchasing on your own private procurement platform. Free version available.",
+              "features" : "Simple Procurement Software to manage all your company's spending. Tradogram provides configurable tools to streamline your Requisitions, Purchase Orders, RFQs/RFPs, Contracts, Receiving and Invoice Matching. Also, manage the process with User Permissions, Approvals, Budgets, Items Catalog, Supplier Management, Projects & much more. The latest cloud technology with top security & performance criteria. Get your FREE account today & see how easy it is to use!",
+              "url" : "https://tradogram.com/"
+            },
+            {
+              "product_id" : 204916,
+              "seo_product_id" : 225502,
+              "seo_slug" : "Kissflow-Procurement-Cloud",
+              "vendor_name" : "Kissflow",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/b2af2acb-24b4-48bf-8d53-57ff81186f0e.png",
+              "rating" : 4.3,
+              "total_reviews" : 11,
+              "slug" : "Kissflow-Procurement-Cloud",
+              "product_name" : "Kissflow Procurement Cloud",
+              "short_desc" : "Kissflow brings you the #1 Procurement cloud solution which is flexible and has purchasing to vendor management, all in one platform.",
+              "features" : "Kissflow Procurement Cloud is the #1 flexible procurement solutions which has everything from purchasing to vendor management, all in one platform. It has all everything include Purchase Orders, Purchase Requisition, Vendor Management, Purchase Invoicing, Analytics, and Integrations.",
+              "url" : "https://kissflow.com/procurement/?utm_medium=ppc&utm_campaign=Gartner-ProcurementSoftware&utm_kf_source=Gartner-ProcurementSoftware"
+            },
+            {
+              "product_id" : 152293,
+              "seo_product_id" : 152293,
+              "seo_slug" : "SAP-S-4HANA",
+              "vendor_name" : "SAP",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/b557c346-6092-4469-b559-1adc202e5270.png",
+              "rating" : 4.3,
+              "total_reviews" : 263,
+              "slug" : "SAP-S-4HANA",
+              "product_name" : "SAP S/4HANA Cloud",
+              "short_desc" : "Discover SAP S/4HANA Cloud, a complete ERP system with embedded AI and machine learning.",
+              "features" : "SAP S/4HANA Cloud is a complete enterprise resource planning (ERP) system with built-in intelligent technologies, including AI, machine learning, and advanced analytics. It helps companies adopt new business models, manage business change at speed, orchestrate internal and external resources, and use the predictive power of AI. Benefit from tight, native integration between processes, industry depth, and a consistent in-memory data model. ",
+              "url" : "https://info.gartnerdigitalmarkets.com/sap-s4hana-erp-gdm-lp"
+            },
+            {
+              "product_id" : 30088,
+              "seo_product_id" : 30088,
+              "seo_slug" : "eBuyerAssist",
+              "vendor_name" : "Eyvo",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8be5338a-53ff-4cd8-8456-4720354b50df.png",
+              "rating" : 4.9,
+              "total_reviews" : 69,
+              "slug" : "eBuyerAssist",
+              "product_name" : "eBuyerAssist Platform",
+              "short_desc" : "Full purchasing workflow solution hosted in the cloud  from req-to-check many plugin options/integrations, and Global 24/7 Support.",
+              "features" : "Your complete purchase order workflow tool hosted in the Cloud. From point of requisition to placement of your order to the vendor  eBA has many features only found in more expensive solutions from online approvals, public RFPs, sealed vendor bidding, a receiving module, invoice matching, full legacy accounts integration, assets & inventory management, GDPR compliant, vendor portals the list goes on.  All in an easy to use simple interface  - see why we have the highest reviews,  contact us now.",
+              "url" : "https://www.e-procurement.com/landing/"
+            }
+          ],
+          "related_categories" : [
+            {
+              "functional_group" : "eproc",
+              "long_name" : "Accounting",
+              "html_name" : "accounting-software",
+              "link_name" : "accounting",
+              "product_count" : 240,
+              "meta_description" : "Find and compare top Accounting software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Accounting tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/accounting-software\">Accounting software</a> automates an organization's financial functions and transactions with modules including accounts payable, accounts receivable, payroll, billing and general ledger.  Integration of Accounting applications allows for comprehensive, real-time, on-demand analysis of an organization's financial status.  Toolsets within Accounting solutions can often be customized to the specific needs of an organization.  <a href=\"/accounting-software\">Accounting software</a> is related to <a href=\"/audit-software\">Audit software</a>, <a href=\"/billing-and-invoicing-software\">Billing and Invoicing software</a>, <a href=\"/compliance-software\">Compliance software</a> and <a href=\"/financial-reporting-software\">Financial Reporting software</a>."
+            },
+            {
+              "functional_group" : "eproc",
+              "long_name" : "Contract Management",
+              "html_name" : "contract-management-software",
+              "link_name" : "contract-management",
+              "product_count" : 88,
+              "meta_description" : "Find and compare top Contract Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Contract Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/contract-management-software>Contract Management software</a> automates the creation, tracking, and monitoring of contracts and agreements.  <a href=/contract-management-software>Contract Management software</a> also allows for the company-wide sharing of contract documents and management of differing document versions. These contract management applications often provide top-down control and monitoring of contract status, key dates, and personnel responsibilities.  <a href=/contract-management-software>Contract Management software</a> is related to <a href=/customer-relationship-management-software>Customer Relationship Management software</a>. "
+            },
+            {
+              "functional_group" : "eproc",
+              "long_name" : "Purchasing",
+              "html_name" : "purchasing-software",
+              "link_name" : "purchasing",
+              "product_count" : 104,
+              "meta_description" : "Find and compare top Purchasing software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Purchasing tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/purchasing-software\">Purchasing software</a> automates the procurement cycle for the purchasing of direct and indirect goods and services.  These applications include important security, <a href=\"/compliance-software\">compliance</a> and <a href=\"/reporting-software\">reporting</a> features, enabling an accurate and efficient purchase order and requisition process. Purchasing solutions often offer integrated tools for invoice approval, inventory control, and asset management, as well as customer service and work order management.  <a href=\"/purchasing-software\">Purchasing software</a> is related to <a href=\"/billing-and-invoicing-software\">Billing and Invoicing software</a>, <a href=\"/procurement-software\">Procurement software</a> and <a href=\"/vendor-management-software\">Vendor Management software</a>."
+            },
+            {
+              "functional_group" : "eproc",
+              "long_name" : "Sourcing",
+              "html_name" : "sourcing-software",
+              "link_name" : "sourcing",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Sourcing software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Sourcing tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/sourcing-software\">Sourcing software</a> helps procurement specialists manage RFPS and the requisition process from quoting to award and purchasing. Select and manage suppliers,create a competitive bidding process with auction tools, and track project savings with reporting dashboards. Buyers looking for Sourcing software may also be interested in <a href=\"/procurement-software\">Procurement software</a>, <a href=\"purchasing-software\">Purchasing software</a>, <a href=\"supply-chain-management-software\">Supply Chain Management software</a>, <a href=\"/vendor-management-software\">Vendor Management software</a>, and <a href=\"/contract-management-software\">Contract Management software</a>."
+            },
+            {
+              "functional_group" : "eproc",
+              "long_name" : "Spend Management",
+              "html_name" : "spend-management-software",
+              "link_name" : "spend-management",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Spend Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Spend Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "Spend Management software helps companies track and report on actual expenditures as well as control these expenditures through tools that limit amounts that can be spent by employees."
+            },
+            {
+              "functional_group" : "eproc",
+              "long_name" : "Supply Chain Management",
+              "html_name" : "supply-chain-management-software",
+              "link_name" : "supply-chain-management",
+              "product_count" : 217,
+              "meta_description" : "Find and compare top Supply Chain Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Supply Chain Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/supply-chain-management-software>Supply Chain Management software</a> automates the flow of processes from raw materials through to delivery of finished goods to the consumer.  These applications allow for organization-wide order processing, transportation and <a href=\"/warehouse-management-software\">warehouse management</a> along with planning and forecasting tools.  <a href=/supply-chain-management-software>Supply Chain Management software</a> provides for efficient operation through the distribution and synchronization of this key data across multiple locations and throughout an enterprise.  <a href=/supply-chain-management-software>Supply Chain Management software</a> is related to <a href=/inventory-management-software>Inventory Management software</a>."
+            },
+            {
+              "functional_group" : "eproc",
+              "long_name" : "Vendor Management",
+              "html_name" : "vendor-management-software",
+              "link_name" : "vendor-management",
+              "product_count" : 69,
+              "meta_description" : "Find and compare top Vendor Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Vendor Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs.",
+              "description" : "<a href=\"/vendor-management-software\">Vendor Management software</a> helps manage costs, track progress, and report on relationship and product quality of third-party vendors.  When an organization uses multiple vendors, <a href=\"/vendor-management-software\">Vendor Management software</a> can enhance productivity and collaboration of the vendor projects.  This type of software often includes information databasing, vendor scoring, RFP and bidding functionality, and performance tracking.  <a href=\"/vendor-management-software\">Vendor Management software</a> is related to <a href=\"/contract-management-software\">Contract Management software</a>, <a href=\"/proposal-management-software\">Proposal Management software</a>, <a href=\"/procurement-software\">Procurement software</a>, and <a href=\"/purchasing-software\">Purchasing software</a>."
+            }
+          ],
+          "is_upgraded" : false,
+          "enabled" : true,
+          "filter_options" : {
+            "users" : 127,
+            "platform" : 1,
+            "pricing_options" : 18,
+            "category_related_features" : [
+              19684,
+              19691,
+              19694,
+              38482,
+              38639,
+              40940,
+              40941,
+              40943,
+              48485,
+              48486,
+              48487,
+              48488,
+              48492,
+              48494,
+              48495,
+              48497,
+              48498,
+              48499,
+              48500,
+              48501,
+              48502,
+              48504,
+              48505,
+              48506,
+              48508,
+              48511,
+              48513,
+              48516,
+              48517,
+              48519
+            ],
+            "employees" : 127
+          },
+          "sort_options" : {
+            "sort_review_rating" : 4.571044445037842,
+            "most_recent_review" : "2022-09-07T16:54:04Z"
+          },
+          "countries" : "ALL",
+          "features_tokenized_text" : "cataloging/categorization contract/license_management requisition_management sourcing_management supplier_management",
+          "platform_tokenized_text" : "cloud,saas,web-based",
+          "users_tokenized_text" : "1 2-10 11-50 51-200 201-500 501-1000 1000+",
+          "pricing_tokenized_text" : "monthlysubscription freetrial",
+          "badges" : [
+            {
+              "id" : 2050,
+              "category_short_name" : "Procurement",
+              "category_html_name" : "procurement-software",
+              "published_year" : 2020,
+              "badge_type" : "Top 20"
+            }
+          ],
+          "bid_spot_us" : 0.0,
+          "currency_code" : "GBP",
+          "currency_symbol" : "#",
+          "credit_card_required" : "Unverified",
+          "licensing_model" : "Proprietary",
+          "open_api_offered" : "Yes",
+          "mobile_urls" : [ ],
+          "integrations" : [ ],
+          "supported_countries" : [
+            {
+              "id" : 13,
+              "code" : "AW",
+              "name" : "Aruba"
+            },
+            {
+              "id" : 14,
+              "code" : "AU",
+              "name" : "Australia"
+            },
+            {
+              "id" : 32,
+              "code" : "BR",
+              "name" : "Brazil"
+            },
+            {
+              "id" : 36,
+              "code" : "BF",
+              "name" : "Burkina Faso"
+            },
+            {
+              "id" : 41,
+              "code" : "CA",
+              "name" : "Canada"
+            },
+            {
+              "id" : 49,
+              "code" : "CO",
+              "name" : "Colombia"
+            },
+            {
+              "id" : 64,
+              "code" : "DO",
+              "name" : "Dominican Republic"
+            },
+            {
+              "id" : 77,
+              "code" : "FR",
+              "name" : "France"
+            },
+            {
+              "id" : 81,
+              "code" : "GA",
+              "name" : "Gabon"
+            },
+            {
+              "id" : 84,
+              "code" : "DE",
+              "name" : "Germany"
+            },
+            {
+              "id" : 87,
+              "code" : "GR",
+              "name" : "Greece"
+            },
+            {
+              "id" : 104,
+              "code" : "IN",
+              "name" : "India"
+            },
+            {
+              "id" : 108,
+              "code" : "IE",
+              "name" : "Ireland"
+            },
+            {
+              "id" : 110,
+              "code" : "IL",
+              "name" : "Israel"
+            },
+            {
+              "id" : 116,
+              "code" : "KZ",
+              "name" : "Kazakhstan"
+            },
+            {
+              "id" : 123,
+              "code" : "LA",
+              "name" : "Lao People's Democratic Republic"
+            },
+            {
+              "id" : 135,
+              "code" : "MY",
+              "name" : "Malaysia"
+            },
+            {
+              "id" : 144,
+              "code" : "MX",
+              "name" : "Mexico"
+            },
+            {
+              "id" : 147,
+              "code" : "MC",
+              "name" : "Monaco"
+            },
+            {
+              "id" : 157,
+              "code" : "NL",
+              "name" : "Netherlands"
+            },
+            {
+              "id" : 159,
+              "code" : "NZ",
+              "name" : "New Zealand"
+            },
+            {
+              "id" : 197,
+              "code" : "SN",
+              "name" : "Senegal"
+            },
+            {
+              "id" : 165,
+              "code" : "MK",
+              "name" : "North Macedonia"
+            },
+            {
+              "id" : 167,
+              "code" : "NO",
+              "name" : "Norway"
+            },
+            {
+              "id" : 168,
+              "code" : "OM",
+              "name" : "Oman"
+            },
+            {
+              "id" : 176,
+              "code" : "PH",
+              "name" : "Philippines"
+            },
+            {
+              "id" : 178,
+              "code" : "PL",
+              "name" : "Poland"
+            },
+            {
+              "id" : 183,
+              "code" : "RO",
+              "name" : "Romania"
+            },
+            {
+              "id" : 184,
+              "code" : "RU",
+              "name" : "Russian Federation"
+            },
+            {
+              "id" : 198,
+              "code" : "RS",
+              "name" : "Serbia"
+            },
+            {
+              "id" : 204,
+              "code" : "SI",
+              "name" : "Slovenia"
+            },
+            {
+              "id" : 207,
+              "code" : "ZA",
+              "name" : "South Africa"
+            },
+            {
+              "id" : 210,
+              "code" : "ES",
+              "name" : "Spain"
+            },
+            {
+              "id" : 215,
+              "code" : "SE",
+              "name" : "Sweden"
+            },
+            {
+              "id" : 228,
+              "code" : "TR",
+              "name" : "Turkey"
+            },
+            {
+              "id" : 234,
+              "code" : "AE",
+              "name" : "United Arab Emirates"
+            },
+            {
+              "id" : 235,
+              "code" : "GB",
+              "name" : "United Kingdom of Great Britain and Northern Ireland"
+            },
+            {
+              "id" : 237,
+              "code" : "US",
+              "name" : "United States of America"
+            },
+            {
+              "id" : 242,
+              "code" : "VN",
+              "name" : "Viet Nam"
+            },
+            {
+              "id" : 8,
+              "code" : "AI",
+              "name" : "Anguilla"
+            }
+          ],
+          "supported_languages" : [
+            {
+              "id" : 21,
+              "code" : "ar",
+              "name" : "Arabic",
+              "location" : null
+            },
+            {
+              "id" : 112,
+              "code" : "zh",
+              "name" : "Chinese (Simplified)",
+              "location" : null
+            },
+            {
+              "id" : 115,
+              "code" : "zh-Hant",
+              "name" : "Chinese (Traditional)",
+              "location" : null
+            },
+            {
+              "id" : 140,
+              "code" : "nl",
+              "name" : "Dutch",
+              "location" : null
+            },
+            {
+              "id" : 152,
+              "code" : "en",
+              "name" : "English",
+              "location" : null
+            },
+            {
+              "id" : 273,
+              "code" : "fr",
+              "name" : "French",
+              "location" : null
+            },
+            {
+              "id" : 348,
+              "code" : "de",
+              "name" : "German",
+              "location" : null
+            },
+            {
+              "id" : 356,
+              "code" : "el",
+              "name" : "Greek",
+              "location" : null
+            },
+            {
+              "id" : 384,
+              "code" : "id",
+              "name" : "Indonesian",
+              "location" : null
+            },
+            {
+              "id" : 396,
+              "code" : "it",
+              "name" : "Italian",
+              "location" : null
+            },
+            {
+              "id" : 401,
+              "code" : "ja",
+              "name" : "Japanese",
+              "location" : null
+            },
+            {
+              "id" : 439,
+              "code" : "ko",
+              "name" : "Korean",
+              "location" : null
+            },
+            {
+              "id" : 539,
+              "code" : "no",
+              "name" : "Norwegian (Bokmal)",
+              "location" : null
+            },
+            {
+              "id" : 565,
+              "code" : "pl",
+              "name" : "Polish",
+              "location" : null
+            },
+            {
+              "id" : 567,
+              "code" : "pt",
+              "name" : "Portuguese",
+              "location" : null
+            },
+            {
+              "id" : 594,
+              "code" : "ro",
+              "name" : "Romanian",
+              "location" : null
+            },
+            {
+              "id" : 603,
+              "code" : "ru",
+              "name" : "Russian",
+              "location" : null
+            },
+            {
+              "id" : 670,
+              "code" : "sl",
+              "name" : "Slovenian",
+              "location" : null
+            },
+            {
+              "id" : 684,
+              "code" : "es",
+              "name" : "Spanish",
+              "location" : null
+            },
+            {
+              "id" : 718,
+              "code" : "sv",
+              "name" : "Swedish",
+              "location" : null
+            },
+            {
+              "id" : 751,
+              "code" : "th",
+              "name" : "Thai",
+              "location" : null
+            },
+            {
+              "id" : 765,
+              "code" : "tr",
+              "name" : "Turkish",
+              "location" : null
+            },
+            {
+              "id" : 794,
+              "code" : "vi",
+              "name" : "Vietnamese",
+              "location" : null
+            }
+          ],
+          "target_industries" : [
+            {
+              "id" : 9,
+              "code" : "53",
+              "name" : "Automotive"
+            },
+            {
+              "id" : 77,
+              "code" : "85",
+              "name" : "Libraries"
+            },
+            {
+              "id" : 49,
+              "code" : "26",
+              "name" : "Furniture"
+            },
+            {
+              "id" : 14,
+              "code" : "49",
+              "name" : "Building Materials"
+            },
+            {
+              "id" : 98,
+              "code" : "57",
+              "name" : "Oil & Energy"
+            },
+            {
+              "id" : 17,
+              "code" : "54",
+              "name" : "Chemicals"
+            },
+            {
+              "id" : 57,
+              "code" : "14",
+              "name" : "Hospital & Health Care"
+            },
+            {
+              "id" : 15,
+              "code" : "138",
+              "name" : "Business Supplies and Equipment"
+            },
+            {
+              "id" : 78,
+              "code" : "116",
+              "name" : "Logistics and Supply Chain"
+            },
+            {
+              "id" : 69,
+              "code" : "45",
+              "name" : "Investment Banking"
+            },
+            {
+              "id" : 108,
+              "code" : "117",
+              "name" : "Plastics"
+            },
+            {
+              "id" : 103,
+              "code" : "61",
+              "name" : "Paper & Forest Products"
+            },
+            {
+              "id" : 129,
+              "code" : "58",
+              "name" : "Shipbuilding"
+            },
+            {
+              "id" : 51,
+              "code" : "145",
+              "name" : "Glass, Ceramics & Concrete"
+            },
+            {
+              "id" : 91,
+              "code" : "56",
+              "name" : "Mining & Metals"
+            },
+            {
+              "id" : 28,
+              "code" : "25",
+              "name" : "Consumer Goods"
+            },
+            {
+              "id" : 6,
+              "code" : "19",
+              "name" : "Apparel & Fashion"
+            },
+            {
+              "id" : 29,
+              "code" : "91",
+              "name" : "Consumer Services"
+            },
+            {
+              "id" : 102,
+              "code" : "146",
+              "name" : "Packaging and Containers"
+            },
+            {
+              "id" : 62,
+              "code" : "147",
+              "name" : "Industrial Automation"
+            },
+            {
+              "id" : 43,
+              "code" : "43",
+              "name" : "Financial Services"
+            },
+            {
+              "id" : 46,
+              "code" : "34",
+              "name" : "Food & Beverages"
+            },
+            {
+              "id" : 105,
+              "code" : "15",
+              "name" : "Pharmaceuticals"
+            },
+            {
+              "id" : 53,
+              "code" : "148",
+              "name" : "Government Relations"
+            },
+            {
+              "id" : 139,
+              "code" : "92",
+              "name" : "Transportation/Trucking/Railroad"
+            },
+            {
+              "id" : 36,
+              "code" : "112",
+              "name" : "Electrical/Electronic Manufacturing"
+            },
+            {
+              "id" : 64,
+              "code" : "96",
+              "name" : "Information Technology and Services"
+            },
+            {
+              "id" : 27,
+              "code" : "24",
+              "name" : "Consumer Electronics"
+            },
+            {
+              "id" : 32,
+              "code" : "1",
+              "name" : "Defense & Space"
+            },
+            {
+              "id" : 23,
+              "code" : "3",
+              "name" : "Computer Hardware"
+            },
+            {
+              "id" : 25,
+              "code" : "4",
+              "name" : "Computer Software"
+            },
+            {
+              "id" : 48,
+              "code" : "101",
+              "name" : "Fund-Raising"
+            },
+            {
+              "id" : 135,
+              "code" : "60",
+              "name" : "Textiles"
+            },
+            {
+              "id" : 12,
+              "code" : "12",
+              "name" : "Biotechnology"
+            },
+            {
+              "id" : 137,
+              "code" : "21",
+              "name" : "Tobacco"
+            },
+            {
+              "id" : 81,
+              "code" : "11",
+              "name" : "Management Consulting"
+            },
+            {
+              "id" : 39,
+              "code" : "110",
+              "name" : "Events Services"
+            }
+          ],
+          "price_range_id" : 1,
+          "aggregated_review_ratings" : {
+            "industry" : {
+              "124" : 5.0,
+              "135" : 4.5,
+              "133" : 5.0,
+              "23" : 5.0,
+              "101" : 5.0,
+              "110" : 5.0,
+              "96" : 4.25,
+              "59" : 5.0,
+              "117" : 5.0,
+              "144" : 4.5,
+              "4" : 5.0,
+              "52" : 5.0,
+              "69" : 4.0,
+              "86" : 5.0,
+              "25" : 4.0,
+              "29" : 4.0,
+              "49" : 5.0,
+              "56" : 5.0,
+              "41" : 5.0,
+              "55" : 5.0,
+              "116" : 5.0,
+              "43" : 4.33,
+              "80" : 5.0,
+              "11" : 4.75,
+              "14" : 4.0,
+              "44" : 5.0,
+              "48" : 4.5,
+              "21" : 5.0,
+              "53" : 4.67,
+              "3" : 5.0,
+              "146" : 4.0,
+              "121" : 4.0,
+              "27" : 4.67,
+              "54" : 4.0,
+              "8" : 5.0
+            },
+            "company_size" : {
+              "51-200 employees" : 5.0,
+              "201-500 employees" : 4.67,
+              "1001-5000 employees" : 4.42,
+              "501-1000 employees" : 4.6,
+              "Self-employed" : 5.0,
+              "10,001+ employees" : 4.71,
+              "1-10 employees" : 4.57,
+              "5001-10,000 employees" : 4.25,
+              "11-50 employees" : 4.86
+            }
+          },
+          "vct_enabled" : false,
+          "pricing_plans" : [
+            {
+              "created_on_utc" : "2019-08-21T14:47:39Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Free",
+              "description" : "Free plan for a single user with complete Sandpit functionality ",
+              "display_order" : 1,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 0.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Per User",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "Excel Integration"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "Live Messaging"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Lot Matrix"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "Quick Quotes Modules"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 5,
+                  "name" : "Rfx Functionality"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 6,
+                  "name" : "Standard Reporting"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 7,
+                  "name" : "Templates and Libraries"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 8,
+                  "name" : "User Management"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 9,
+                  "name" : "Weighted Events"
+                }
+              ]
+            },
+            {
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Monthly License ",
+              "description" : "Monthly license for a single user with unlimited sourcing events ",
+              "display_order" : 2,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 500.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Per User",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "Account Management"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "Advanced Reporting"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Excel Integration"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "Live Messaging"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 5,
+                  "name" : "Lot Matrix"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 6,
+                  "name" : "Quick Quotes Modules"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 7,
+                  "name" : "Rfx Functionality"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 8,
+                  "name" : "Sourcing Portal"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 9,
+                  "name" : "Standard Reporting"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 10,
+                  "name" : "Templates and Libraries"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 11,
+                  "name" : "User Management"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 12,
+                  "name" : "Weighted Events"
+                }
+              ]
+            }
+          ],
+          "discount_types" : [
+            {
+              "name" : "By Plan Frequency",
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,3705 @@
+{
+  "took" : 10,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 3,
+    "successful" : 3,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : {
+      "value" : 2,
+      "relation" : "eq"
+    },
+    "max_score" : 10.083141,
+    "hits" : [
+      {
+        "_index" : "product_listings_main_data_upc_vt20220920_043802_utc",
+        "_type" : "_doc",
+        "_id" : "42550_amm",
+        "_score" : 10.083141,
+        "_source" : {
+          "product_id" : 42550,
+          "seo_product_id" : 49729,
+          "seo_slug" : "ClubExpress",
+          "product_name" : "ClubExpress",
+          "upc_product_uuid" : "d74958de-cb09-4c25-b773-a6d200b34999",
+          "old_product_ids" : [
+            49729,
+            212252
+          ],
+          "product_url" : "http://www.clubexpress.com/landing.aspx?source=CapterraMM",
+          "product_slug" : "ClubExpress",
+          "former_name" : "ClubExpress",
+          "logo_filepath" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/193cf2bf-9aa2-4d21-b79b-7d9a137c18d1.png",
+          "vendor" : {
+            "vendor_id" : 2022344,
+            "vendor_name" : "ClubExpress",
+            "vendor_url" : "http://www.clubexpress.com",
+            "year_founded" : 2002,
+            "location" : "United States",
+            "vendor_opted_out_of_reviews" : true,
+            "is_opted_out_of_reviews" : false,
+            "is_hit_limit" : false,
+            "enabled" : true,
+            "has_vendor_level_page" : false,
+            "slug" : null,
+            "vendor_page" : false,
+            "paused_campaign" : false
+          },
+          "category_short_name" : "amm",
+          "category_html_name" : "membership-management-software",
+          "category" : {
+            "id" : 20045,
+            "short_name" : "amm",
+            "long_name" : "Membership Management",
+            "html_name" : "membership-management-software",
+            "enabled" : true
+          },
+          "best_category" : "amm",
+          "is_best_category" : true,
+          "highest_cpc_category" : "assman",
+          "is_highest_cpc_category" : false,
+          "short_desc" : "The complete front office and back office for your club or association: website, member database, events, forums, and much more.",
+          "long_desc" : "ClubExpress is the economical Internet-based solution for smaller professional and trade associations (25-5000 members). ClubExpress combines your association web site with the membership database, online member signups/renewals/expirations, event calendar & registration, credit-card processing, membership directory, committees, forums, documents, interests, benefits, etc. We use state-of-the-art security, there's no advertising and associations own their data at all times.",
+          "rating" : 4.3,
+          "number_of_reviews" : 495,
+          "total_reviews" : 467,
+          "ease_of_use_rating" : 3.7,
+          "customer_support_rating" : 4.6,
+          "functionality_rating" : 4.0,
+          "value_for_money_rating" : 4.4,
+          "recommendation_rating" : 8.1,
+          "pricing_enabled" : true,
+          "pricing" : 24.0,
+          "is_per_user" : true,
+          "fee_schedule" : "Per-Month",
+          "pricing_model" : "Per User",
+          "pricing_details" : "ClubExpress pricing is based on the number of active members in the database. The minimum monthly fee is $24, equivalent to 60 members. Then $0.40 per member per month up to 100 members, and then discounts kick in for larger and larger groups. Our pricing is all inclusive; these fees cover all functionality, unlimited pages, documents, disk space, traffic, blast emails, etc., as well as unlimited toll-free support for admins and members!",
+          "pricing_created_on" : "2019-08-21T14:47:39Z",
+          "pricing_modified_on" : "2022-06-23T14:42:33Z",
+          "pricing_created_by" : null,
+          "pricing_modified_by" : null,
+          "pricing_vendor_pricing_url" : "https://www.clubexpress.com/content.aspx",
+          "free_trial" : true,
+          "free_version" : false,
+          "target_audience" : "Professional and trade associations (25-5000 members)\nClubs that people join through their personal lives (same member range)",
+          "target_users" : [
+            "1",
+            "2-10",
+            "11-50",
+            "51-200",
+            "201-500",
+            "501-1000",
+            "1000+"
+          ],
+          "platform" : [
+            {
+              "enabled" : true,
+              "name" : "Cloud, SaaS, Web-Based"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Mac"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Chromebook"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile Android"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPhone"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPad"
+            }
+          ],
+          "support" : [
+            {
+              "enabled" : true,
+              "name" : "Email Help Desk"
+            },
+            {
+              "enabled" : true,
+              "name" : "FAQ Forum"
+            },
+            {
+              "enabled" : true,
+              "name" : "Knowledgebase"
+            },
+            {
+              "enabled" : true,
+              "name" : "Phone Support"
+            },
+            {
+              "enabled" : false,
+              "name" : "24/7 Live Rep"
+            },
+            {
+              "enabled" : true,
+              "name" : "Chat"
+            }
+          ],
+          "training" : [
+            {
+              "enabled" : false,
+              "name" : "Not Offered"
+            },
+            {
+              "enabled" : true,
+              "name" : "In-Person"
+            },
+            {
+              "enabled" : false,
+              "name" : "Live Online"
+            },
+            {
+              "enabled" : true,
+              "name" : "Webinars"
+            },
+            {
+              "enabled" : true,
+              "name" : "Documentation"
+            },
+            {
+              "enabled" : true,
+              "name" : "Videos"
+            }
+          ],
+          "media" : [
+            {
+              "product_id" : 42550,
+              "vendor_id" : 2022344,
+              "media_type" : "VIDEO",
+              "path_url" : "http://youtu.be/96y8mTwyj4I",
+              "caption" : null,
+              "weight" : 0,
+              "short_name" : "amm"
+            }
+          ],
+          "links" : [
+            {
+              "product_id" : 42550,
+              "functional_group" : "amm",
+              "html_code" : "http://www.clubexpress.com/trial",
+              "link_name" : "Free Trial",
+              "link_priority" : 1.0
+            },
+            {
+              "product_id" : 42550,
+              "functional_group" : "amm",
+              "html_code" : "http://www.clubexpress.com/videos",
+              "link_name" : "Free Demo",
+              "link_priority" : 2.0
+            },
+            {
+              "product_id" : 42550,
+              "functional_group" : "amm",
+              "html_code" : "http://www.clubexpress.com/pricing",
+              "link_name" : "Pricing",
+              "link_priority" : 3.0
+            }
+          ],
+          "features" : [
+            {
+              "category_name" : "Membership Management",
+              "category_features" : [
+                {
+                  "name" : "Application Management",
+                  "value" : true,
+                  "id" : "71bf112b-e022-449e-93d0-ded0769b0e03",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Track and manage the applications of potential future members "
+                },
+                {
+                  "name" : "Committee Management",
+                  "value" : true,
+                  "id" : "2062b666-4151-459e-b1ad-6709fba623cf",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Manage subgroups of members and their membership"
+                },
+                {
+                  "name" : "Dues Management",
+                  "value" : true,
+                  "id" : "36bfa04f-d225-4c76-a130-40fb15f7392b",
+                  "avg_rating" : 4.2,
+                  "cnt_rating" : 18,
+                  "avg_importance" : 2.36,
+                  "cnt_importance" : 14,
+                  "cnt_time_used" : 15,
+                  "pct_time_used" : 0.933,
+                  "cnt_time_critical" : 15,
+                  "pct_time_critical" : 0.4,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track and collect membership dues"
+                },
+                {
+                  "name" : "Email Marketing",
+                  "value" : true,
+                  "id" : "3e3bef6d-cbd8-43e1-83e6-eaf601c17a48",
+                  "avg_rating" : 0.0,
+                  "cnt_rating" : 0,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Create and send email blasts/campaigns"
+                },
+                {
+                  "name" : "Event Management",
+                  "value" : true,
+                  "id" : "cdc3bb9d-3c31-48ba-a01c-5101adc90c87",
+                  "avg_rating" : 4.1,
+                  "cnt_rating" : 18,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 16,
+                  "cnt_time_used" : 19,
+                  "pct_time_used" : 0.842,
+                  "cnt_time_critical" : 19,
+                  "pct_time_critical" : 0.474,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Schedule and manage the logistics of activities and other gatherings"
+                },
+                {
+                  "name" : "Member Database",
+                  "value" : true,
+                  "id" : "23bf5db1-24fa-4ac1-9554-5b792002f062",
+                  "avg_rating" : 4.4,
+                  "cnt_rating" : 29,
+                  "avg_importance" : 2.73,
+                  "cnt_importance" : 22,
+                  "cnt_time_used" : 22,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 22,
+                  "pct_time_critical" : 0.727,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Add, store and access information pertaining to members"
+                },
+                {
+                  "name" : "Member Directory",
+                  "value" : true,
+                  "id" : "c7063ef4-072f-4b69-871a-cb2c75d335a3",
+                  "avg_rating" : 4.2,
+                  "cnt_rating" : 18,
+                  "avg_importance" : 2.58,
+                  "cnt_importance" : 12,
+                  "cnt_time_used" : 13,
+                  "pct_time_used" : 0.923,
+                  "cnt_time_critical" : 13,
+                  "pct_time_critical" : 0.615,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Online or printable list/directory of members (for external use)"
+                },
+                {
+                  "name" : "Member Portal",
+                  "value" : true,
+                  "id" : "ff1b6b10-f56f-4029-9128-fcb402ca73d1",
+                  "avg_rating" : 4.4,
+                  "cnt_rating" : 14,
+                  "avg_importance" : 2.42,
+                  "cnt_importance" : 12,
+                  "cnt_time_used" : 12,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 12,
+                  "pct_time_critical" : 0.417,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Online gateway through which members can access/update personal information"
+                },
+                {
+                  "name" : "Member Types",
+                  "value" : true,
+                  "id" : "1b5a9d8c-b455-4851-8efa-941127e9b89f",
+                  "avg_rating" : 4.1,
+                  "cnt_rating" : 7,
+                  "avg_importance" : 1.75,
+                  "cnt_importance" : 4,
+                  "cnt_time_used" : 4,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 4,
+                  "pct_time_critical" : 0.25,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Handle various types of membership based on groupings"
+                },
+                {
+                  "name" : "Membership Renewals",
+                  "value" : true,
+                  "id" : "3d543103-7eeb-4c9b-b519-97d59af4e392",
+                  "avg_rating" : 4.2,
+                  "cnt_rating" : 28,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 22,
+                  "cnt_time_used" : 23,
+                  "pct_time_used" : 0.957,
+                  "cnt_time_critical" : 23,
+                  "pct_time_critical" : 0.522,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Conveniently automatically renew memberships at the end of subscriptions "
+                },
+                {
+                  "name" : "Payment Processing",
+                  "value" : true,
+                  "id" : "aa036a7c-8608-45a0-9f5f-7649beee9dfb",
+                  "avg_rating" : 4.5,
+                  "cnt_rating" : 32,
+                  "avg_importance" : 2.38,
+                  "cnt_importance" : 26,
+                  "cnt_time_used" : 29,
+                  "pct_time_used" : 0.897,
+                  "cnt_time_critical" : 29,
+                  "pct_time_critical" : 0.379,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Accept, record, and reconcile financial transactions"
+                },
+                {
+                  "name" : "Website Management",
+                  "value" : true,
+                  "id" : "308d2b02-05de-4b5d-a6e9-90abf3120b67",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 12,
+                  "avg_importance" : 2.4,
+                  "cnt_importance" : 10,
+                  "cnt_time_used" : 10,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 10,
+                  "pct_time_critical" : 0.4,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Website builder or integration with 3rd party site"
+                }
+              ]
+            },
+            {
+              "category_name" : "Association Management",
+              "category_features" : [
+                {
+                  "name" : "Chapter Management",
+                  "value" : true,
+                  "id" : "8b1a8564-91b3-41ac-9e26-a1c96a55841e",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Committee Management",
+                  "value" : true,
+                  "id" : "2062b666-4151-459e-b1ad-6709fba623cf",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Dues Management",
+                  "value" : true,
+                  "id" : "36bfa04f-d225-4c76-a130-40fb15f7392b",
+                  "avg_rating" : 4.2,
+                  "cnt_rating" : 18,
+                  "avg_importance" : 2.36,
+                  "cnt_importance" : 14,
+                  "cnt_time_used" : 15,
+                  "pct_time_used" : 0.933,
+                  "cnt_time_critical" : 15,
+                  "pct_time_critical" : 0.4,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Election Management",
+                  "value" : true,
+                  "id" : "ec9620f3-9c07-4f43-b15b-3a57c3aa5116",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Email Marketing",
+                  "value" : true,
+                  "id" : "3e3bef6d-cbd8-43e1-83e6-eaf601c17a48",
+                  "avg_rating" : 0.0,
+                  "cnt_rating" : 0,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Create and send email blasts/campaigns"
+                },
+                {
+                  "name" : "Event Management",
+                  "value" : true,
+                  "id" : "cdc3bb9d-3c31-48ba-a01c-5101adc90c87",
+                  "avg_rating" : 4.1,
+                  "cnt_rating" : 18,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 16,
+                  "cnt_time_used" : 19,
+                  "pct_time_used" : 0.842,
+                  "cnt_time_critical" : 19,
+                  "pct_time_critical" : 0.474,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Schedule and manage the logistics of activities and other gatherings"
+                },
+                {
+                  "name" : "Financial Management",
+                  "value" : true,
+                  "id" : "fc815203-a56a-487e-bf87-85a63b7216d4",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Provide a comprehensive overview of organization's finances"
+                },
+                {
+                  "name" : "Fundraising Management",
+                  "value" : true,
+                  "id" : "632182d5-1542-410d-82b8-8963cd47a256",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Activities related to raising money for a specific cause"
+                },
+                {
+                  "name" : "Jobs Board",
+                  "value" : true,
+                  "id" : "de2a851d-e456-42ff-b3d3-b9e69f94b1eb",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Member Communities",
+                  "value" : true,
+                  "id" : "17534da4-2168-4f58-bc04-b81c29598957",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Member Directory",
+                  "value" : true,
+                  "id" : "c7063ef4-072f-4b69-871a-cb2c75d335a3",
+                  "avg_rating" : 4.2,
+                  "cnt_rating" : 18,
+                  "avg_importance" : 2.58,
+                  "cnt_importance" : 12,
+                  "cnt_time_used" : 13,
+                  "pct_time_used" : 0.923,
+                  "cnt_time_critical" : 13,
+                  "pct_time_critical" : 0.615,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Online or printable list/directory of members (for external use)"
+                },
+                {
+                  "name" : "Member Portal",
+                  "value" : true,
+                  "id" : "ff1b6b10-f56f-4029-9128-fcb402ca73d1",
+                  "avg_rating" : 4.4,
+                  "cnt_rating" : 14,
+                  "avg_importance" : 2.42,
+                  "cnt_importance" : 12,
+                  "cnt_time_used" : 12,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 12,
+                  "pct_time_critical" : 0.417,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Membership Management",
+                  "value" : true,
+                  "id" : "e0ec230c-01cc-4e78-ac4a-ec6d4cc61b40",
+                  "avg_rating" : 4.3,
+                  "cnt_rating" : 26,
+                  "avg_importance" : 2.68,
+                  "cnt_importance" : 22,
+                  "cnt_time_used" : 22,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 22,
+                  "pct_time_critical" : 0.682,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Database of members to track personal information of individuals and families"
+                },
+                {
+                  "name" : "Website Management",
+                  "value" : true,
+                  "id" : "308d2b02-05de-4b5d-a6e9-90abf3120b67",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 12,
+                  "avg_importance" : 2.4,
+                  "cnt_importance" : 10,
+                  "cnt_time_used" : 10,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 10,
+                  "pct_time_critical" : 0.4,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                }
+              ]
+            }
+          ],
+          "infographics" : [
+            {
+              "product_id" : 42550,
+              "html_name" : "association-management-software",
+              "infographic_type" : "general_t20",
+              "infographic_title" : null
+            },
+            {
+              "product_id" : 42550,
+              "html_name" : "membership-management-software",
+              "infographic_type" : "general_t20",
+              "infographic_title" : null
+            },
+            {
+              "product_id" : 42550,
+              "html_name" : "membership-management-software",
+              "infographic_type" : "popular",
+              "infographic_title" : null
+            }
+          ],
+          "related_products" : [
+            {
+              "product_id" : 153752,
+              "seo_product_id" : 226850,
+              "seo_slug" : "Vagaro",
+              "vendor_name" : "Vagaro",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4e2671a7-72b7-4638-9434-190c249607a3.png",
+              "rating" : 4.7,
+              "total_reviews" : 2773,
+              "slug" : "Vagaro",
+              "product_name" : "Vagaro",
+              "short_desc" : "Manage memberships & waivers, get booked 24/7, seamlessly process payments, send marketing emails & run reports. Starts at $25/month.",
+              "features" : "Use our all-in-one membership management software & app to manage and grow your business. Get booked & paid 24/7. Stay safe with 100% contactless check-in & checkout. Advertise your virtual and in-person classes on the Vagaro Marketplace. Reduce no-shows with automated reminders. Manage classes and memberships on any device. Send waivers and forms. Vagaro Pro is the most downloaded/reviewed Apple & Android App. Prices start @ $25/month. Sign up for a Free 1 Month Trial.",
+              "url" : "https://sales.vagaro.com/memberships?utm_campaign=membershipmanagementsoftware&utm_medium=cpc"
+            },
+            {
+              "product_id" : 143461,
+              "seo_product_id" : 143461,
+              "seo_slug" : "Squarespace",
+              "vendor_name" : "Squarespace",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/713f882b-f7a1-4f3f-a484-7af2fe13f5c3.png",
+              "rating" : 4.6,
+              "total_reviews" : 2497,
+              "slug" : "Squarespace",
+              "product_name" : "Squarespace",
+              "short_desc" : "Squarespace is the all-in-one platform to build a beautiful website, online store, or portfolio.",
+              "features" : "Squarespace is the all-in-one platform to build a beautiful online presence. Look like an expert right from the start with award-winning templates for your website, online store, or portfolio. Customize the design to fit your personal style and professional needs. Get found in search by more people with powerful SEO tools. Learn where your website traffic is coming from, what your visitors are looking for, and how they're interacting with your content or products with in-depth Analytics tools.",
+              "url" : "https://www.squarespace.com/website-design/?channel=paid_community&subchannel=capterra&campaign=default"
+            },
+            {
+              "product_id" : 40229,
+              "seo_product_id" : 40229,
+              "seo_slug" : "MINDBODY",
+              "vendor_name" : "Mindbody",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/1854606b-f0fe-4cdf-af6b-c17b97a93780.png",
+              "rating" : 4.0,
+              "total_reviews" : 2340,
+              "slug" : "MINDBODY",
+              "product_name" : "Mindbody",
+              "short_desc" : "Mindbody wellness business management software is tailored to businesses that need business and membership management systems. ",
+              "features" : "Mindbody empowers your members to own their wellness experience. From member profiles and automated reminders to self check-in, your all-in-one software will keep everyone moving. Plus, with a custom app, members can update their info and schedule on the go?from the comfort of your brand. Manage and grow your community with ease. Schedule your free demo today.",
+              "url" : "https://www.mindbodyonline.com/business/lp/mindbody?3FcampaignID=7013i000000Iqs0AAC&referralSource=Paid+Search&primaryMarket=&utm_campaign=Membership+Management&utm_medium=thirdpartyreview&utm_source=capterra"
+            },
+            {
+              "product_id" : 133173,
+              "seo_product_id" : 129236,
+              "seo_slug" : "Brilliant-Directories",
+              "vendor_name" : "Brilliant Directories",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/eecf3b20-7034-423c-afbb-8136d7ad0972.png",
+              "rating" : 4.7,
+              "total_reviews" : 639,
+              "slug" : "Brilliant-Directories",
+              "product_name" : "Brilliant Directories",
+              "short_desc" : "Affordable, All-In-One Solution to streamline website management,  membership dues, email marketing and more. Try a Demo!",
+              "features" : "---- TRY OUR 7-DAY FREE TRIAL:\nhttps://www.brilliantdirectories.com/trial  ----\n\nBrilliant Directories offers an Affordable, All-In-One Member Management Solution to streamline all aspects of your membership website or association.  A complete, turn-key solution with quick setup and free, unlimited support from real people. Includes website design, online payment processing, multi-level memberships, past due monitoring, premium member's only content, and more. ",
+              "url" : "https://get.brilliantdirectories.com/best-online-membership-platform"
+            },
+            {
+              "product_id" : 9755,
+              "seo_product_id" : 9755,
+              "seo_slug" : "Donarius",
+              "vendor_name" : "Nuverb Systems",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/7c30964c-f210-4c32-80bb-c5486d94d8be.png",
+              "rating" : 4.6,
+              "total_reviews" : 583,
+              "slug" : "Donarius",
+              "product_name" : "Donarius",
+              "short_desc" : "Track donors, donations and pledges for your church.  Accept online donations (integrated with most online giving providers).",
+              "features" : "\"Save time and get more done, with fewer headaches.\" Easily keep track of your members, dues, contributions, pledges and more... Starts at $47.98 (one-time cost, no monthly fees; no attendance tracking, accounting or payroll) Print or email yearly tax receipts and quarterly statements. Print membership photo directory.  Share data like web-based software without the monthly fee, using DropBox or Google Drive.  Exports data to QuickBooks.  PC or Mac.",
+              "url" : "https://info.gartnerdigitalmarkets.com/donarius-gdm-lp/?category=membership-managment"
+            },
+            {
+              "product_id" : 57588,
+              "seo_product_id" : 57588,
+              "seo_slug" : "StarChapter",
+              "vendor_name" : "Star Chapter",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/16500611-dac0-4c0f-92d8-39b48f4f6370.png",
+              "rating" : 4.3,
+              "total_reviews" : 526,
+              "slug" : "StarChapter",
+              "product_name" : "StarChapter",
+              "short_desc" : "Membership Management Software for board volunteers who want to grow their membership while saving time!",
+              "features" : "Want to grow your membership? Let StarChapter manage your membership data and increase retention rates so, you have more time for outreach. The software combines emails, event registration, membership, website design, and payment processing. Our StarChapter Project Manager will set up your service with you, coordinate the project for you, and train users even when the board transitions. Get access to 24/7 online technical support and industry resources.",
+              "url" : "http://www.starchapter.com/downloads/newlandingpage04.html?source=capterra"
+            },
+            {
+              "product_id" : 76116,
+              "seo_product_id" : 221194,
+              "seo_slug" : "Wild-Apricot",
+              "vendor_name" : "Personify",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/3143d257-d391-4bbd-8a61-75eeb83c40fb.png",
+              "rating" : 4.5,
+              "total_reviews" : 519,
+              "slug" : "Wild-Apricot",
+              "product_name" : "Wild Apricot",
+              "short_desc" : "Easily manage your members, process payments, send out emails, register event attendees, create a website and more.",
+              "features" : "WildApricot is a complete membership management system, designed to fit your organizations needs. Easily manage your contacts, process payments, send out emails, register event attendees, create a website and more. With a self serve design and a user friendly interface, you have the freedom to customize every aspect of your membership management system. If you need help at any step of the way, our support team and community of experts are ready to help guide you and share their best practices.",
+              "url" : "https://freetrial.wildapricot.com/wildapricot-membership-management-software/?utm_medium=cpc&utm_campaign=membership-management-capterra"
+            },
+            {
+              "product_id" : 102088,
+              "seo_product_id" : 224994,
+              "seo_slug" : "Neon-CRM",
+              "vendor_name" : "Neon One",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/944471b7-c55a-4525-a87d-d205d8608f0a.png",
+              "rating" : 4.4,
+              "total_reviews" : 479,
+              "slug" : "NeonCRM",
+              "product_name" : "Neon CRM",
+              "short_desc" : "Increase engagement & revenue with a sophisticated membership management solution designed to support both nonprofits & associations.\n",
+              "features" : "Increase engagement & drive more revenue with Neon CRM, a sophisticated membership management solution designed to support both nonprofits and associations.\n\nBuild better relationships with event and experience management, activity tracking, marketing tools, and more!\n\nPut your members in control with a member log-in portal to check their membership status, a custom member directory, and exclusive content. \n\nReady for a more intuitive approach to member management?\n",
+              "url" : "https://neonone.com/l/membership-management-software-request-a-demo-ga/?utm_source=capterra&utm_medium=cpc&utm_campaign=capterra_bofu_neon_crm_membership_mgmt&utm_content=destination"
+            },
+            {
+              "product_id" : 133851,
+              "seo_product_id" : 16081,
+              "seo_slug" : "MemberClicks",
+              "vendor_name" : "Personify",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/abc0f9f4-77fb-4803-ba40-3f3425567fa9.png",
+              "rating" : 4.4,
+              "total_reviews" : 447,
+              "slug" : "MemberClicks",
+              "product_name" : "MemberClicks",
+              "short_desc" : "Simplify membership management with MemberClicks; the all-in-one solution for staff who need to save time and grow their membership. ",
+              "features" : "MemberClicks has everything you need to save time and grow your membership. Automate essential tasks, such as finances, membership management, and events. Engage members with email nurturing, online learning, job postings, and more. Today, over 3,000 clients across North America trust MemberClicks to fulfill their missions. ",
+              "url" : "https://info.gartnerdigitalmarkets.com/memberclicks-gdm-lp?utm_medium=softwarereviewsites&utm_campaign=membership-management"
+            },
+            {
+              "product_id" : 145039,
+              "seo_product_id" : 220849,
+              "seo_slug" : "WellnessLiving",
+              "vendor_name" : "WellnessLiving Systems",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/f1c27aee-4844-461b-a229-605a9ce44a0c.png",
+              "rating" : 4.4,
+              "total_reviews" : 322,
+              "slug" : "WellnessLiving",
+              "product_name" : "WellnessLiving",
+              "short_desc" : "Online booking, resource scheduling, lead generation, and reporting solution for every business.",
+              "features" : "An all-in-one solution for your business! We feature a sophisticated scheduler for all your appointments and classes, email marketing, merchant processing, payroll, reputation management, robust reporting, a rewards program, and many more features. There are no pricey add-on fees to embed your schedule into your site, generate reviews, send emails/SMS notifications, rewards program, marketing automations, or anything else. WellnessLiving was built by our customers, for our customers!",
+              "url" : "https://discover.wellnessliving.com/capterra-membership-management"
+            }
+          ],
+          "similar_products" : [
+            {
+              "product_id" : 134209,
+              "seo_product_id" : 223690,
+              "seo_slug" : "Glue-Up",
+              "vendor_name" : "Glue Up",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/767f0c5d-872b-4c45-93f5-2a316ddf9d32.png",
+              "rating" : 4.5,
+              "total_reviews" : 92,
+              "slug" : "Glue-Up",
+              "product_name" : "Glue Up",
+              "short_desc" : "Retain, engage, and grow your member community with a software that automates your membership processes and maximizes retention. ",
+              "features" : "Perfect for Associations, Chambers of Commerce and business networks worldwide. Glue Up (formerly EventBank) is an all-in-one cloud software that integrates a world class CRM to the best membership and event management, email marketing, and finance tools. Unlock new paths for growth and collect membership dues with a platform that consolidates all of your operations in one place. The platform comes with 2 mobile apps: one for you to manage your organization, and one for your community.",
+              "url" : "https://glueup.com/lp/event-management-cpt?utm_medium=lp&utm_campaign=PPC&utm_term=event-management"
+            },
+            {
+              "product_id" : 76116,
+              "seo_product_id" : 221194,
+              "seo_slug" : "Wild-Apricot",
+              "vendor_name" : "Personify",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/3143d257-d391-4bbd-8a61-75eeb83c40fb.png",
+              "rating" : 4.5,
+              "total_reviews" : 519,
+              "slug" : "Wild-Apricot",
+              "product_name" : "Wild Apricot",
+              "short_desc" : "Easily manage your members, process payments, send out emails, register event attendees, create a website and more.",
+              "features" : "WildApricot is a complete membership management system, designed to fit your organizations needs. Easily manage your contacts, process payments, send out emails, register event attendees, create a website and more. With a self serve design and a user friendly interface, you have the freedom to customize every aspect of your membership management system. If you need help at any step of the way, our support team and community of experts are ready to help guide you and share their best practices.",
+              "url" : "https://www.wildapricot.com/welcome?utm_medium=cpc&utm_campaign=membership-management-capterra"
+            },
+            {
+              "product_id" : 142416,
+              "seo_product_id" : 226300,
+              "seo_slug" : "Member365",
+              "vendor_name" : "Member365",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/ef8290fb-536d-4723-bba0-6433004e0de3.png",
+              "rating" : 4.1,
+              "total_reviews" : 28,
+              "slug" : "Member365",
+              "product_name" : "Member365",
+              "short_desc" : "Stop juggling multiple software - Simplify your membership management system with Member365.",
+              "features" : "Member365 combines the functionality of your email campaign manager, financial software, and CRM to create a platform custom-made for Membership Managers.\r\n\r\nAutomate busy work to spend less time managing member data, and more time understanding member needs. Create email campaigns in seconds by building lists from your Member365 CRM. Understand who is likely to churn, and more, with Engagement Analytics.\r\n\r\nWith Member365, your work is about managing members, not just their data. ",
+              "url" : "https://member365.com/"
+            },
+            {
+              "product_id" : 147279,
+              "seo_product_id" : 221942,
+              "seo_slug" : "Hivebrite",
+              "vendor_name" : "Hivebrite",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/2c8f1a67-e7b3-44db-af26-4a6f7cfd2205.png",
+              "rating" : 4.5,
+              "total_reviews" : 48,
+              "slug" : "Hivebrite",
+              "product_name" : "Hivebrite",
+              "short_desc" : "Unlock the potential of your community with the most flexible and powerful all-in-one solution for community management and engagement.",
+              "features" : "Unlock the potential of your community with Hivebrite, the most advanced all-in-one community management and engagement platform. Easy to set up and fully branded to match your colors, Hivebrite helps you build brand engagement and create opportunities for your private community. Manage your member database, centralize the communication with your members, create events and collect online memberships, all from a single user-friendly interface.",
+              "url" : "https://hivebrite.com/?utm_source=capterra&utm_medium=cpc&utm_term=community"
+            },
+            {
+              "product_id" : 133851,
+              "seo_product_id" : 16081,
+              "seo_slug" : "MemberClicks",
+              "vendor_name" : "Personify",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/abc0f9f4-77fb-4803-ba40-3f3425567fa9.png",
+              "rating" : 4.4,
+              "total_reviews" : 447,
+              "slug" : "MemberClicks",
+              "product_name" : "MemberClicks",
+              "short_desc" : "Simplify membership management with MemberClicks; the all-in-one solution for staff who need to save time and grow their membership. ",
+              "features" : "MemberClicks has everything you need to save time and grow your membership. Automate essential tasks, such as finances, membership management, and events. Engage members with email nurturing, online learning, job postings, and more. Today, over 3,000 clients across North America trust MemberClicks to fulfill their missions. ",
+              "url" : "https://info.gartnerdigitalmarkets.com/memberclicks-gdm-lp?utm_medium=softwarereviewsites&utm_campaign=membership-management"
+            },
+            {
+              "product_id" : 76329,
+              "seo_product_id" : 212148,
+              "seo_slug" : "YourMembership",
+              "vendor_name" : "Community Brands",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/20dab323-7cc6-4736-9206-81162e15c1cb.png",
+              "rating" : 3.9,
+              "total_reviews" : 147,
+              "slug" : "YourMembership",
+              "product_name" : "YourMembership",
+              "short_desc" : "YourMembership is an affordable, all-in-one member management software built for small to mid-sized associations and nonprofits.",
+              "features" : "YourMembership empowers associations, nonprofits and other member-based organizations to deliver more value to their members while streamlining administrative processes. Built for small to mid-sized organizations, the cloud-based membership management software is a comprehensive solution including: membership management, event management, e-Commerce, payments, email marketing, online community, advanced dashboards, and more!",
+              "url" : "https://www.yourmembership.com/products/member-software-associations-capterra/?utm_campaign=LG-YM-PPC-Capterra&utm_source=capterra&utm_medium=ppc&utm_term=categorylisting&utm_content=default"
+            },
+            {
+              "product_id" : 47310,
+              "seo_product_id" : 47310,
+              "seo_slug" : "MemberLeap",
+              "vendor_name" : "Vieth Consulting",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/81f6ef34-bee2-4cba-aa1e-c40ed83467d3.png",
+              "rating" : 4.8,
+              "total_reviews" : 65,
+              "slug" : "MemberLeap",
+              "product_name" : "MemberLeap",
+              "short_desc" : "SaaS solution that provides an organization with a member database, website content tools, online event registration, and much more!",
+              "features" : "Our affordable and easy to use software can streamline your member-based organization's administrative processes; retain and grow your membership; and generate revenue. Our intuitive association management features can help you track dues; communicate and engage with members and prospects; update your website; host in-person events and virtual events with our Zoom interface; conduct calls for proposals; track donations; integrate with QuickBooks; manage committees; and more. Try a free demo!",
+              "url" : "https://info.gartnerdigitalmarkets.com/memberleap-gdm-lp"
+            },
+            {
+              "product_id" : 134351,
+              "seo_product_id" : 239268,
+              "seo_slug" : "Zen-Planner",
+              "vendor_name" : "Daxko",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/53de4f60-054a-4c22-9e8e-bed1aca3311d.png",
+              "rating" : 4.3,
+              "total_reviews" : 233,
+              "slug" : "Zen-Planner",
+              "product_name" : "Zen Planner",
+              "short_desc" : "Gym membership management software with payment processing, Integrated Websites, virtual training, scheduling, automation & more.",
+              "features" : "Our comprehensive, membership management software provides everything you need to turn your passion into a successful business. With payment processing & auto-billing, lead-generating websites + digital marketing, virtual classes, scheduling, retail, automation, member & staff apps, in-depth reporting & more, you have everything required to grow, nurture & retain your members. ",
+              "url" : "https://info.zenplanner.com/software-for-fitness-businesses-live-demo-lf-oa"
+            },
+            {
+              "product_id" : 148692,
+              "seo_product_id" : 220284,
+              "seo_slug" : "Join-It",
+              "vendor_name" : "Join It",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d759ad7d-3926-44aa-afe4-7c6c587a2a12.png",
+              "rating" : 4.7,
+              "total_reviews" : 75,
+              "slug" : "Join-It",
+              "product_name" : "Join It",
+              "short_desc" : "Used by organizations to manage their memberships, integrate their other SaaS platforms, & automate their critical tasks.",
+              "features" : "Join It is a membership management service that enables organizations to effectively keep track, manage, and grow their community. At our core, we provide a simple database and dashboard interface for organization leaders to monitor developments in their membership. We then integrate this database context with best in class service providers to automate other essential components of an organization, like payment processing, email communication, and event organization.",
+              "url" : "https://joinit.com/how-it-works?utm_source=capterra&utm_medium=PPC"
+            },
+            {
+              "product_id" : 40229,
+              "seo_product_id" : 40229,
+              "seo_slug" : "MINDBODY",
+              "vendor_name" : "Mindbody",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/1854606b-f0fe-4cdf-af6b-c17b97a93780.png",
+              "rating" : 4.0,
+              "total_reviews" : 2340,
+              "slug" : "MINDBODY",
+              "product_name" : "Mindbody",
+              "short_desc" : "Mindbody wellness business management software is tailored to businesses that need business and membership management systems. ",
+              "features" : "Mindbody empowers your members to own their wellness experience. From member profiles and automated reminders to self check-in, your all-in-one software will keep everyone moving. Plus, with a custom app, members can update their info and schedule on the go?from the comfort of your brand. Manage and grow your community with ease. Schedule your free demo today.",
+              "url" : "https://www.mindbodyonline.com/business/lp/meet-mindbody?landing=ycampaignID=%207013i000000Iqs0AAC&referralSource=Paid+Search&primaryMarket=&utm_campaign=default_url&utm_medium=thirdpartyreview&utm_source=capterra"
+            },
+            {
+              "product_id" : 198905,
+              "seo_product_id" : 248110,
+              "seo_slug" : "SmartRec",
+              "vendor_name" : "Amilia",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/c2c95e52-1721-4ec4-87c9-5e79d7b4a7b9.png",
+              "rating" : 4.3,
+              "total_reviews" : 114,
+              "slug" : "SmartRec",
+              "product_name" : "SmartRec",
+              "short_desc" : "SmartRec by Amilia is the smartest and easiest way to offer, manage, and sell activities. Engage communities online effortlessly.  ",
+              "features" : "Amilia SmartRec empowers businesses, community organizations and Parks & Recreation agencies to better serve their community with activities.  \n\nWe make it easy for your community to find, register and pay for activities online. You'll save time and get to do more of what you love - it's eCommerce for activities!  \n\nWhen your registration process is simple and effortlessly accessed by your community, you'll generate even more engagement. Not to mention, you'll see a huge bump in signups. ",
+              "url" : "https://www.amilia.com/library/business-smartrec?utm_source=referral&utm_medium=capterra&utm_campaign=ongoingcapterra2022&utm_content=ppc&utm_term=en"
+            },
+            {
+              "product_id" : 136861,
+              "seo_product_id" : 239255,
+              "seo_slug" : "GloFox",
+              "vendor_name" : "Glofox",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e5396bad-e54a-43ef-af60-adb0a61bef58.png",
+              "rating" : 4.5,
+              "total_reviews" : 227,
+              "slug" : "Glofox",
+              "product_name" : "Glofox",
+              "short_desc" : "Our gym and fitness studio membership management system is the all-in-1 place to manage your daily admin tasks & increase revenue.",
+              "features" : "Our gym and fitness studio membership management software gives you an all-in-1 place to manage your daily admin tasks & increase revenue. Enhance your member's experience with a mobile app they can use to book classes, make purchases and engage with your studio. With our website schedule integrations, make sure your members can easily find and view your class schedule. We also provide a check-in kiosk which will free up time before a class for you to engage with your members and prospects.",
+              "url" : "https://www.glofox.com/gym-management-software-revenue/?utm_source=ppc&utm_medium=capterra"
+            },
+            {
+              "product_id" : 153752,
+              "seo_product_id" : 226850,
+              "seo_slug" : "Vagaro",
+              "vendor_name" : "Vagaro",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4e2671a7-72b7-4638-9434-190c249607a3.png",
+              "rating" : 4.7,
+              "total_reviews" : 2773,
+              "slug" : "Vagaro",
+              "product_name" : "Vagaro",
+              "short_desc" : "Manage memberships & waivers, get booked 24/7, seamlessly process payments, send marketing emails & run reports. Starts at $25/month.",
+              "features" : "Use our all-in-one membership management software & app to manage and grow your business. Get booked & paid 24/7. Stay safe with 100% contactless check-in & checkout. Advertise your virtual and in-person classes on the Vagaro Marketplace. Reduce no-shows with automated reminders. Manage classes and memberships on any device. Send waivers and forms. Vagaro Pro is the most downloaded/reviewed Apple & Android App. Prices start @ $25/month. Sign up for a Free 1 Month Trial.",
+              "url" : "https://sales.vagaro.com/?utm_source=capterra&utm_medium=cpc&utm_content=main"
+            }
+          ],
+          "related_categories" : [
+            {
+              "functional_group" : "amm",
+              "long_name" : "Association Management",
+              "html_name" : "association-management-software",
+              "link_name" : "association-management",
+              "product_count" : 127,
+              "meta_description" : "Find and compare top Association Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Association Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/association-management-software>Association Management software</a> automates management functions including fundraising, membership, event management and other operations.  These software packages typically offer many features to empower and inform association members, as well as administration and business process tools for association managers. Associations use these applications to communicate with their constituents, share resources, promote events, collect fees and recruit new members.  <a href=/association-management-software>Association Management software</a> is related to <a href=/membership-management-software>Membership Management software</a>."
+            },
+            {
+              "functional_group" : "amm",
+              "long_name" : "Church Management",
+              "html_name" : "church-management-software",
+              "link_name" : "church-management",
+              "product_count" : 187,
+              "meta_description" : "Find and compare top Church Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Church Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs.",
+              "description" : "<a href=\"/church-management-software\">Church Management software</a> handles functions such as accounting, donation tracking, service attendance, membership, schedules and activities.  Churches use these applications to automate and organize administrative functions including document creation, outreach and event scheduling.  Management software helps churches better track resources and foster communication among administrators as well as staff, ministry leaders, members and visitors.  <a href=\"/church-management-software\">Church Management software</a> is related to <a href=\"/fund-accounting-software\">Fund Accounting software</a>, <a href=\"/fundraising-software\">Fundraising software</a> and <a href=\"/membership-management-software\">Membership Management software</a>."
+            },
+            {
+              "functional_group" : "amm",
+              "long_name" : "Club Management",
+              "html_name" : "club-management-software",
+              "link_name" : "club-management",
+              "product_count" : 119,
+              "meta_description" : "Find and compare top Club Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Club Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs.",
+              "description" : "<a href=\"/club-management-software\">Club Management software</a> automates management functions including membership, fees, dues and other operations for fitness, social and civic clubs or other similar organizations.  These applications offer integrated solutions for access management as well as sales and marketing tools for club facilities.  Club Management solutions also help track business performances through automated reporting and forecasting on sales performance, member retention rates and revenue generation. <a href=\"/club-management-software\">Club Management software</a> is related to <a href=\"/membership-management-software\">Membership Management software</a>, <a href=\"/visitor-management-software\">Visitor Management software</a>, and <a href=\"/registration-software\">Registration software</a>."
+            },
+            {
+              "functional_group" : "amm",
+              "long_name" : "Directory",
+              "html_name" : "directory-software",
+              "link_name" : "directory",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Directory software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Directory tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "Directory software is used to create product and services classifieds, informational portals and membership lists with or without monetization options."
+            },
+            {
+              "functional_group" : "amm",
+              "long_name" : "Fundraising",
+              "html_name" : "fundraising-software",
+              "link_name" : "fundraising",
+              "product_count" : 141,
+              "meta_description" : "Find and compare top Fundraising software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Fundraising tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/fundraising-software>Fundraising software</a> manages donor and pledge information associated with fundraising campaigns. Development professionals use Fundraising applications to enhance their ability to locate, manage and grow donor sources.  <a href=/fundraising-software>Fundraising software</a> facilitates cost effective targeting of likely donors, tracks pledges, and manages contributions and donor relationship management. These applications also provide a variety of tools allowing fundraisers to track the effectiveness of their development campaigns.  <a href=/fundraising-software>Fundraising software</a> is related to <a href=/church-management-software>Church Management software</a>, <a href=/event-management-software>Event Management software</a> and <a href=/political-campaign-software>Political Campaign software</a>."
+            },
+            {
+              "functional_group" : "amm",
+              "long_name" : "Nonprofit",
+              "html_name" : "nonprofit-software",
+              "link_name" : "nonprofit",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Nonprofit software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Nonprofit tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "Nonprofit software automates all aspects of nonprofit operations from database management, to fundraising, to accounting and CRM. Nonprofit software is related to Donation Management software and Nonprofit Accounting software."
+            }
+          ],
+          "is_upgraded" : true,
+          "enabled" : true,
+          "filter_options" : {
+            "users" : 127,
+            "platform" : 897,
+            "pricing_options" : 18,
+            "category_related_features" : [
+              19463,
+              19471,
+              19472,
+              19473,
+              30338,
+              36633,
+              38416,
+              38417,
+              38420,
+              38422,
+              38648,
+              39462,
+              40063,
+              40064,
+              40065,
+              41680,
+              48731,
+              48732,
+              48734,
+              48735,
+              48736,
+              48738,
+              48739,
+              48743,
+              48747,
+              48748,
+              48749,
+              48752,
+              48753,
+              48756,
+              48757,
+              48759,
+              48760,
+              48762,
+              48763
+            ],
+            "employees" : 7
+          },
+          "sort_options" : {
+            "sort_review_rating" : 4.252800464630127,
+            "most_recent_review" : "2022-09-15T20:58:27Z"
+          },
+          "countries" : "US,NZ,ES,AU,UK,CA",
+          "features_tokenized_text" : "application_management committee_management dues_management email_marketing event_management member_database member_directory member_portal member_types membership_renewals payment_processing website_management",
+          "platform_tokenized_text" : "cloud,saas,web-based mobileandroid mobileiphone mobileipad",
+          "users_tokenized_text" : "1 2-10 11-50 51-200 201-500 501-1000 1000+",
+          "pricing_tokenized_text" : "monthlysubscription freetrial",
+          "badges" : [
+            {
+              "id" : 2140,
+              "category_short_name" : "Membership Management",
+              "category_html_name" : "membership-management-software",
+              "published_year" : 2020,
+              "badge_type" : "Top 20"
+            },
+            {
+              "id" : 2053,
+              "category_short_name" : "Association Management",
+              "category_html_name" : "association-management-software",
+              "published_year" : 2020,
+              "badge_type" : "Top 20"
+            }
+          ],
+          "bid_spot_us" : 31.0,
+          "currency_code" : "USD",
+          "currency_symbol" : "$",
+          "credit_card_required" : "Unverified",
+          "licensing_model" : null,
+          "open_api_offered" : "Unverified",
+          "mobile_urls" : [
+            {
+              "name" : "iOS",
+              "url" : "https://itunes.apple.com/us/app/northwest-balloon-club/id1145983041?mt=8"
+            },
+            {
+              "name" : "Android",
+              "url" : "https://play.google.com/store/apps/details?id=com.clubexpress.democlub"
+            }
+          ],
+          "integrations" : [
+            {
+              "id" : "e78e1eb5-af49-4968-bb2f-a78a00b607b6",
+              "name" : "Google Maps"
+            },
+            {
+              "id" : "44278a9e-09e7-4c4b-92d9-1a3739abe0ec",
+              "name" : "QuickBooks Online Advanced"
+            },
+            {
+              "id" : "01ec8cd2-dd68-43c4-89e6-a6d200b2cab3",
+              "name" : "Authorize.Net"
+            },
+            {
+              "id" : "16f6d9b6-3101-4679-a0af-a6d200b5a51b",
+              "name" : "PayPal"
+            },
+            {
+              "id" : "bcdd9473-58dd-4c24-a82a-a6d200b601d6",
+              "name" : "Quickbooks Online"
+            },
+            {
+              "id" : "b7720443-e1ad-4c10-a2e1-d9a8dd6a30bc",
+              "name" : "Meta for Business"
+            },
+            {
+              "id" : "7d5d66f3-669a-454e-b210-9013743333c5",
+              "name" : "Twitter"
+            },
+            {
+              "id" : "b26c328d-d8c9-45ca-8138-08ecdf1ddf02",
+              "name" : "LinkedIn for Business"
+            },
+            {
+              "id" : "d21b7cd3-66d4-4aee-90ea-a78a00b5b44d",
+              "name" : "Google Calendar"
+            }
+          ],
+          "supported_countries" : [
+            {
+              "id" : 108,
+              "code" : "IE",
+              "name" : "Ireland"
+            },
+            {
+              "id" : 159,
+              "code" : "NZ",
+              "name" : "New Zealand"
+            },
+            {
+              "id" : 237,
+              "code" : "US",
+              "name" : "United States of America"
+            },
+            {
+              "id" : 235,
+              "code" : "GB",
+              "name" : "United Kingdom of Great Britain and Northern Ireland"
+            },
+            {
+              "id" : 14,
+              "code" : "AU",
+              "name" : "Australia"
+            },
+            {
+              "id" : 41,
+              "code" : "CA",
+              "name" : "Canada"
+            }
+          ],
+          "supported_languages" : [
+            {
+              "id" : 152,
+              "code" : "en",
+              "name" : "English",
+              "location" : null
+            }
+          ],
+          "target_industries" : [
+            {
+              "id" : 97,
+              "code" : "100",
+              "name" : "Non-Profit Organization Management"
+            },
+            {
+              "id" : 57,
+              "code" : "14",
+              "name" : "Hospital & Health Care"
+            },
+            {
+              "id" : 55,
+              "code" : "124",
+              "name" : "Health, Wellness and Fitness"
+            },
+            {
+              "id" : 131,
+              "code" : "33",
+              "name" : "Sports"
+            },
+            {
+              "id" : 121,
+              "code" : "40",
+              "name" : "Recreational Facilities and Services"
+            },
+            {
+              "id" : 113,
+              "code" : "102",
+              "name" : "Program Development"
+            },
+            {
+              "id" : 58,
+              "code" : "31",
+              "name" : "Hospitality"
+            },
+            {
+              "id" : 50,
+              "code" : "29",
+              "name" : "Gambling & Casinos"
+            },
+            {
+              "id" : 44,
+              "code" : "38",
+              "name" : "Fine Art"
+            },
+            {
+              "id" : 38,
+              "code" : "86",
+              "name" : "Environmental Services"
+            },
+            {
+              "id" : 104,
+              "code" : "39",
+              "name" : "Performing Arts"
+            },
+            {
+              "id" : 56,
+              "code" : "68",
+              "name" : "Higher Education"
+            },
+            {
+              "id" : 66,
+              "code" : "74",
+              "name" : "International Affairs"
+            },
+            {
+              "id" : 29,
+              "code" : "91",
+              "name" : "Consumer Services"
+            },
+            {
+              "id" : 109,
+              "code" : "107",
+              "name" : "Political Organization"
+            },
+            {
+              "id" : 112,
+              "code" : "105",
+              "name" : "Professional Training & Coaching"
+            },
+            {
+              "id" : 35,
+              "code" : "132",
+              "name" : "E-Learning"
+            }
+          ],
+          "price_range_id" : 1,
+          "aggregated_review_ratings" : {
+            "industry" : {
+              "111" : 4.45,
+              "98" : 5.0,
+              "55" : 5.0,
+              "38" : 4.5,
+              "148" : 3.0,
+              "108" : 5.0,
+              "71" : 4.0,
+              "47" : 5.0,
+              "85" : 2.0,
+              "78" : 4.5,
+              "139" : 4.33,
+              "125" : 3.0,
+              "40" : 4.48,
+              "68" : 5.0,
+              "42" : 3.5,
+              "64" : 4.0,
+              "10" : 1.0,
+              "37" : 5.0,
+              "33" : 4.33,
+              "124" : 4.35,
+              "94" : 4.0,
+              "136" : 5.0,
+              "101" : 4.0,
+              "76" : 5.0,
+              "53" : 4.64,
+              "107" : 4.33,
+              "100" : 4.14,
+              "89" : 3.0,
+              "15" : 3.0,
+              "99" : 3.0,
+              "86" : 3.0,
+              "91" : 4.5,
+              "110" : 3.83,
+              "1" : 3.0,
+              "90" : 4.33,
+              "52" : 3.5,
+              "95" : 4.33,
+              "88" : 3.71,
+              "31" : 4.67,
+              "79" : 3.5,
+              "103" : 3.0,
+              "17" : 5.0,
+              "142" : 3.5,
+              "77" : 4.0,
+              "84" : 5.0,
+              "138" : 3.0,
+              "14" : 4.38,
+              "104" : 5.0,
+              "3" : 2.0,
+              "137" : 4.33,
+              "74" : 5.0,
+              "11" : 4.0,
+              "120" : 1.0,
+              "132" : 3.0,
+              "69" : 4.5,
+              "43" : 4.5,
+              "4" : 3.5,
+              "96" : 5.0,
+              "73" : 5.0,
+              "39" : 4.0,
+              "75" : 5.0,
+              "28" : 4.4,
+              "48" : 4.0,
+              "19" : 4.5,
+              "13" : 5.0,
+              "30" : 4.71,
+              "144" : 4.0,
+              "131" : 3.25,
+              "118" : 4.0,
+              "115" : 5.0,
+              "105" : 3.8,
+              "44" : 2.0,
+              "46" : 4.5,
+              "80" : 5.0
+            },
+            "company_size" : {
+              "11-50 employees" : 4.06,
+              "51-200 employees" : 4.34,
+              "201-500 employees" : 4.35,
+              "1001-5000 employees" : 4.5,
+              "Self-employed" : 4.21,
+              "1-10 employees" : 4.12,
+              "501-1000 employees" : 4.28,
+              "5001-10,000 employees" : 4.25
+            }
+          },
+          "vct_enabled" : false,
+          "pricing_plans" : [
+            {
+              "created_on_utc" : "2019-08-21T14:47:39Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "MONTHLY HOSTING FEE",
+              "description" : "The plan charges for only active members. It further charges an one-time setup fee.",
+              "display_order" : 1,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 24.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Per User",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "Disk Space"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "Internet Traffic"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Unlimited Telephone and Email Support for Admins and Members"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "Unlimited Upload of Photos and Documents"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 5,
+                  "name" : "Website Hosting"
+                }
+              ]
+            }
+          ],
+          "discount_types" : [ ]
+        }
+      },
+      {
+        "_index" : "product_listings_main_data_upc_vt20220920_043802_utc",
+        "_type" : "_doc",
+        "_id" : "212252_webbuild",
+        "_score" : 10.083141,
+        "_source" : {
+          "product_id" : 212252,
+          "seo_product_id" : 49729,
+          "seo_slug" : "ClubExpress",
+          "product_name" : "ClubExpress",
+          "upc_product_uuid" : "d74958de-cb09-4c25-b773-a6d200b34999",
+          "old_product_ids" : [
+            49729,
+            42550
+          ],
+          "product_url" : "http://www.clubexpress.com/landing.aspx?source=CapterraMM",
+          "product_slug" : "ClubExpress1",
+          "former_name" : "ClubExpress1",
+          "logo_filepath" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/193cf2bf-9aa2-4d21-b79b-7d9a137c18d1.png",
+          "vendor" : {
+            "vendor_id" : 2152705,
+            "vendor_name" : "ClubExpress",
+            "vendor_url" : "http://www.clubexpress.com",
+            "year_founded" : 2002,
+            "location" : "United States",
+            "vendor_opted_out_of_reviews" : true,
+            "is_opted_out_of_reviews" : false,
+            "is_hit_limit" : false,
+            "enabled" : true,
+            "has_vendor_level_page" : false,
+            "slug" : null,
+            "vendor_page" : false,
+            "paused_campaign" : false
+          },
+          "category_short_name" : "webbuild",
+          "category_html_name" : "website-builder-software",
+          "category" : {
+            "id" : 30935,
+            "short_name" : "webbuild",
+            "long_name" : "Website Builder",
+            "html_name" : "website-builder-software",
+            "enabled" : true
+          },
+          "best_category" : "webbuild",
+          "is_best_category" : true,
+          "highest_cpc_category" : null,
+          "is_highest_cpc_category" : false,
+          "short_desc" : "The complete front office and back office for your club or association: website, member database, events, forums, and much more.",
+          "long_desc" : "ClubExpress is the economical Internet-based solution for smaller professional and trade associations (25-5000 members). ClubExpress combines your association web site with the membership database, online member signups/renewals/expirations, event calendar & registration, credit-card processing, membership directory, committees, forums, documents, interests, benefits, etc. We use state-of-the-art security, there's no advertising and associations own their data at all times.",
+          "rating" : 4.3,
+          "number_of_reviews" : 495,
+          "total_reviews" : 467,
+          "ease_of_use_rating" : 3.7,
+          "customer_support_rating" : 4.6,
+          "functionality_rating" : 4.0,
+          "value_for_money_rating" : 4.4,
+          "recommendation_rating" : 8.1,
+          "pricing_enabled" : true,
+          "pricing" : 24.0,
+          "is_per_user" : true,
+          "fee_schedule" : "Per-Month",
+          "pricing_model" : "Per User",
+          "pricing_details" : "ClubExpress pricing is based on the number of active members in the database. The minimum monthly fee is $24, equivalent to 60 members. Then $0.40 per member per month up to 100 members, and then discounts kick in for larger and larger groups. Our pricing is all inclusive; these fees cover all functionality, unlimited pages, documents, disk space, traffic, blast emails, etc., as well as unlimited toll-free support for admins and members!",
+          "pricing_created_on" : "2019-08-21T14:47:39Z",
+          "pricing_modified_on" : "2022-06-23T14:42:33Z",
+          "pricing_created_by" : null,
+          "pricing_modified_by" : null,
+          "pricing_vendor_pricing_url" : "https://www.clubexpress.com/content.aspx",
+          "free_trial" : true,
+          "free_version" : false,
+          "target_audience" : "Professional and trade associations (25-5000 members)\nClubs that people join through their personal lives (same member range)",
+          "target_users" : [
+            "1",
+            "2-10",
+            "11-50",
+            "51-200",
+            "201-500",
+            "501-1000",
+            "1000+"
+          ],
+          "platform" : [
+            {
+              "enabled" : true,
+              "name" : "Cloud, SaaS, Web-Based"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Mac"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Chromebook"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile Android"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPhone"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPad"
+            }
+          ],
+          "support" : [
+            {
+              "enabled" : true,
+              "name" : "Email Help Desk"
+            },
+            {
+              "enabled" : true,
+              "name" : "FAQ Forum"
+            },
+            {
+              "enabled" : true,
+              "name" : "Knowledgebase"
+            },
+            {
+              "enabled" : true,
+              "name" : "Phone Support"
+            },
+            {
+              "enabled" : false,
+              "name" : "24/7 Live Rep"
+            },
+            {
+              "enabled" : true,
+              "name" : "Chat"
+            }
+          ],
+          "training" : [
+            {
+              "enabled" : false,
+              "name" : "Not Offered"
+            },
+            {
+              "enabled" : true,
+              "name" : "In-Person"
+            },
+            {
+              "enabled" : false,
+              "name" : "Live Online"
+            },
+            {
+              "enabled" : true,
+              "name" : "Webinars"
+            },
+            {
+              "enabled" : true,
+              "name" : "Documentation"
+            },
+            {
+              "enabled" : true,
+              "name" : "Videos"
+            }
+          ],
+          "media" : [
+            {
+              "product_id" : 212252,
+              "vendor_id" : 2152705,
+              "media_type" : "VIDEO",
+              "path_url" : "http://youtu.be/96y8mTwyj4I",
+              "caption" : null,
+              "weight" : 0,
+              "short_name" : "webbuild"
+            }
+          ],
+          "links" : [ ],
+          "features" : [
+            {
+              "category_name" : "Website Builder",
+              "category_features" : [
+                {
+                  "name" : "Auto Update",
+                  "value" : false,
+                  "id" : "0a4b0a86-a2ac-48e0-9a42-df7de1cdfbfb",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Automatic update of information / software"
+                },
+                {
+                  "name" : "Data Import/Export",
+                  "value" : true,
+                  "id" : "11e13892-ecfe-4251-abcd-112d84a38214",
+                  "avg_rating" : 0.0,
+                  "cnt_rating" : 0,
+                  "avg_importance" : 1.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Import or export content "
+                },
+                {
+                  "name" : "Drag & Drop",
+                  "value" : true,
+                  "id" : "ef4e7adb-17df-4712-bd53-957772beafad",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 5,
+                  "pct_time_used" : 0.4,
+                  "cnt_time_critical" : 5,
+                  "pct_time_critical" : 0.2,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Click and object and drag and drop through an interface"
+                },
+                {
+                  "name" : "Landing Pages/Web Forms",
+                  "value" : false,
+                  "id" : "ba097fb8-3f98-4f38-874a-693f1077ec6c",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Create an online form to capture new lead information"
+                },
+                {
+                  "name" : "Online Booking Tools",
+                  "value" : false,
+                  "id" : "fac8780f-8268-4eae-aa51-53e6e3d2df2b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Add tools to web pages to handle online bookings"
+                },
+                {
+                  "name" : "Online Store Builder",
+                  "value" : false,
+                  "id" : "71450374-d00d-475c-9c8a-e8582af5918b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : "Includes functionalities for creating custom eCommerce websites"
+                },
+                {
+                  "name" : "Pre-built Templates",
+                  "value" : false,
+                  "id" : "4fcf7cb6-2c24-438a-bb77-4a7c141c1bc9",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : "Pre-designed layouts and themes"
+                },
+                {
+                  "name" : "Real Time Editing",
+                  "value" : false,
+                  "id" : "2f9ce5ce-8a01-4757-aa3a-01e07bd4fdd4",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Preview and make real-time changes in the web content"
+                },
+                {
+                  "name" : "SEO Management",
+                  "value" : false,
+                  "id" : "5f5a95e0-d83c-4243-b803-cd809d68eb8a",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Facilitate search engine optimization associated to content"
+                },
+                {
+                  "name" : "Survey Builder",
+                  "value" : false,
+                  "id" : "32528b5f-d1c3-41ee-bf60-ce3c1dd25470",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Create and manage surveys"
+                }
+              ]
+            },
+            {
+              "category_name" : "Club Management",
+              "category_features" : [
+                {
+                  "name" : "Attendance Tracking",
+                  "value" : false,
+                  "id" : "f7b89c98-cf63-4aa3-a3d3-2939c8a2ffb3",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Track specific people who attended events or the total number of attendees"
+                },
+                {
+                  "name" : "Billing & Invoicing",
+                  "value" : false,
+                  "id" : "b9829f5b-1e19-49e7-b343-c2286973de15",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Create and manage monetary interactions between parties (ie. bills and invoices)"
+                },
+                {
+                  "name" : "Event Management",
+                  "value" : true,
+                  "id" : "cdc3bb9d-3c31-48ba-a01c-5101adc90c87",
+                  "avg_rating" : 4.1,
+                  "cnt_rating" : 18,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 16,
+                  "cnt_time_used" : 19,
+                  "pct_time_used" : 0.842,
+                  "cnt_time_critical" : 19,
+                  "pct_time_critical" : 0.474,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Schedule and manage the logistics of activities and other gatherings"
+                },
+                {
+                  "name" : "Inventory Management",
+                  "value" : false,
+                  "id" : "80f46038-6ae8-4725-8064-788b20380eeb",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Track and manage the quantity of resources on hand to maintain proper supply"
+                },
+                {
+                  "name" : "Marketing Automation",
+                  "value" : false,
+                  "id" : "11cfdb79-2f7c-4116-97f7-4d6b38740131",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Plan, track, and evaluate marketing activities including promotions, customer outreach, and branding"
+                },
+                {
+                  "name" : "Member Portal",
+                  "value" : true,
+                  "id" : "ff1b6b10-f56f-4029-9128-fcb402ca73d1",
+                  "avg_rating" : 4.4,
+                  "cnt_rating" : 14,
+                  "avg_importance" : 2.42,
+                  "cnt_importance" : 12,
+                  "cnt_time_used" : 12,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 12,
+                  "pct_time_critical" : 0.417,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Online gateway through which members can access/update personal information"
+                },
+                {
+                  "name" : "Membership Management",
+                  "value" : true,
+                  "id" : "e0ec230c-01cc-4e78-ac4a-ec6d4cc61b40",
+                  "avg_rating" : 4.3,
+                  "cnt_rating" : 26,
+                  "avg_importance" : 2.68,
+                  "cnt_importance" : 22,
+                  "cnt_time_used" : 22,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 22,
+                  "pct_time_critical" : 0.682,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Database of members to track personal information of individuals and families"
+                },
+                {
+                  "name" : "Mobile Access",
+                  "value" : true,
+                  "id" : "15d49235-ad13-4d33-b009-edd50126375b",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 14,
+                  "avg_importance" : 2.45,
+                  "cnt_importance" : 11,
+                  "cnt_time_used" : 13,
+                  "pct_time_used" : 0.846,
+                  "cnt_time_critical" : 13,
+                  "pct_time_critical" : 0.385,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Access the software remotely via mobile devices"
+                },
+                {
+                  "name" : "Online Booking",
+                  "value" : false,
+                  "id" : "7bb5b7f3-cec3-4f55-afc3-74dda262a6f6",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "End users can schedule appointments online "
+                },
+                {
+                  "name" : "Payment Processing",
+                  "value" : true,
+                  "id" : "aa036a7c-8608-45a0-9f5f-7649beee9dfb",
+                  "avg_rating" : 4.5,
+                  "cnt_rating" : 32,
+                  "avg_importance" : 2.38,
+                  "cnt_importance" : 26,
+                  "cnt_time_used" : 29,
+                  "pct_time_used" : 0.897,
+                  "cnt_time_critical" : 29,
+                  "pct_time_critical" : 0.379,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Accept, record, and reconcile financial transactions"
+                },
+                {
+                  "name" : "Point of Sale (POS)",
+                  "value" : false,
+                  "id" : "4d8a4211-99b1-45f2-a8d9-03b96a38d16f",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Accept and process financial transactions"
+                },
+                {
+                  "name" : "Team Management",
+                  "value" : false,
+                  "id" : "da72d4d5-71f4-42ae-a8e3-fa05a1f56b06",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Organizing a group of people to accomplish a task"
+                },
+                {
+                  "name" : "Visitor Management",
+                  "value" : false,
+                  "id" : "3c9e8003-22ec-4990-b685-dd1be5c7f11f",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Allow organizations to streamline the check-in process for visitors "
+                },
+                {
+                  "name" : "Website Management",
+                  "value" : true,
+                  "id" : "308d2b02-05de-4b5d-a6e9-90abf3120b67",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 12,
+                  "avg_importance" : 2.4,
+                  "cnt_importance" : 10,
+                  "cnt_time_used" : 10,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 10,
+                  "pct_time_critical" : 0.4,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Website builder or integration with 3rd party site "
+                }
+              ]
+            },
+            {
+              "category_name" : "Fitness",
+              "category_features" : [
+                {
+                  "name" : "Attendance Tracking",
+                  "value" : false,
+                  "id" : "f7b89c98-cf63-4aa3-a3d3-2939c8a2ffb3",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track specific people who attended events or the total number of attendees"
+                },
+                {
+                  "name" : "Billing & Invoicing",
+                  "value" : false,
+                  "id" : "b9829f5b-1e19-49e7-b343-c2286973de15",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Create and manage monetary interactions between parties (i.e. bills and invoices)"
+                },
+                {
+                  "name" : "Class Management",
+                  "value" : false,
+                  "id" : "fe4412c9-ad57-440b-b534-fdfedc014236",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Create and schedule group classes, recurring appointments, and private sessions, etc."
+                },
+                {
+                  "name" : "Contract/License Management",
+                  "value" : false,
+                  "id" : "efd314c0-e308-412f-9ff3-8bd8745c3096",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Track, store, and access client/customer contracts"
+                },
+                {
+                  "name" : "Employee Management",
+                  "value" : false,
+                  "id" : "9510ee6b-fcb0-4f43-94ce-07023453048f",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Tracks employee schedules, availability, performance"
+                },
+                {
+                  "name" : "Event Management",
+                  "value" : true,
+                  "id" : "cdc3bb9d-3c31-48ba-a01c-5101adc90c87",
+                  "avg_rating" : 4.1,
+                  "cnt_rating" : 18,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 16,
+                  "cnt_time_used" : 19,
+                  "pct_time_used" : 0.842,
+                  "cnt_time_critical" : 19,
+                  "pct_time_critical" : 0.474,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Schedule and manage the logistics of activities and other gatherings"
+                },
+                {
+                  "name" : "Inventory Management",
+                  "value" : false,
+                  "id" : "80f46038-6ae8-4725-8064-788b20380eeb",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track and manage the quantity of resources on hand to maintain proper supply"
+                },
+                {
+                  "name" : "Marketing Automation",
+                  "value" : false,
+                  "id" : "11cfdb79-2f7c-4116-97f7-4d6b38740131",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Plan, track, and evaluate marketing activities including promotions, customer outreach, and branding"
+                },
+                {
+                  "name" : "Membership Management",
+                  "value" : true,
+                  "id" : "e0ec230c-01cc-4e78-ac4a-ec6d4cc61b40",
+                  "avg_rating" : 4.3,
+                  "cnt_rating" : 26,
+                  "avg_importance" : 2.68,
+                  "cnt_importance" : 22,
+                  "cnt_time_used" : 22,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 22,
+                  "pct_time_critical" : 0.682,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Database of members to track personal information of individuals and families"
+                },
+                {
+                  "name" : "Online Booking",
+                  "value" : false,
+                  "id" : "7bb5b7f3-cec3-4f55-afc3-74dda262a6f6",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "End users can schedule appointments online"
+                },
+                {
+                  "name" : "Payment Processing",
+                  "value" : true,
+                  "id" : "aa036a7c-8608-45a0-9f5f-7649beee9dfb",
+                  "avg_rating" : 4.5,
+                  "cnt_rating" : 32,
+                  "avg_importance" : 2.38,
+                  "cnt_importance" : 26,
+                  "cnt_time_used" : 29,
+                  "pct_time_used" : 0.897,
+                  "cnt_time_critical" : 29,
+                  "pct_time_critical" : 0.379,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Accept, record, and reconcile financial transactions"
+                },
+                {
+                  "name" : "Self Check-in/Check-out",
+                  "value" : false,
+                  "id" : "9803f8da-f72f-4cf5-89f3-d46474447ce6",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Manage check-ins and check-outs of books"
+                }
+              ]
+            },
+            {
+              "category_name" : "Nonprofit",
+              "category_features" : [
+                {
+                  "name" : "Accounting",
+                  "value" : false,
+                  "id" : "3990e00b-853e-41a0-a871-33607f212727",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Committee Management",
+                  "value" : true,
+                  "id" : "2062b666-4151-459e-b1ad-6709fba623cf",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Donor Management",
+                  "value" : false,
+                  "id" : "66b3ffe9-81de-40fb-8d7d-a2800afd65e0",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Dues Management",
+                  "value" : true,
+                  "id" : "36bfa04f-d225-4c76-a130-40fb15f7392b",
+                  "avg_rating" : 4.2,
+                  "cnt_rating" : 18,
+                  "avg_importance" : 2.36,
+                  "cnt_importance" : 14,
+                  "cnt_time_used" : 15,
+                  "pct_time_used" : 0.933,
+                  "cnt_time_critical" : 15,
+                  "pct_time_critical" : 0.4,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Event Management",
+                  "value" : true,
+                  "id" : "cdc3bb9d-3c31-48ba-a01c-5101adc90c87",
+                  "avg_rating" : 4.1,
+                  "cnt_rating" : 18,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 16,
+                  "cnt_time_used" : 19,
+                  "pct_time_used" : 0.842,
+                  "cnt_time_critical" : 19,
+                  "pct_time_critical" : 0.474,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Fundraising Management",
+                  "value" : true,
+                  "id" : "632182d5-1542-410d-82b8-8963cd47a256",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Activities related to raising money for a specific cause"
+                },
+                {
+                  "name" : "Member Database",
+                  "value" : true,
+                  "id" : "23bf5db1-24fa-4ac1-9554-5b792002f062",
+                  "avg_rating" : 4.4,
+                  "cnt_rating" : 29,
+                  "avg_importance" : 2.73,
+                  "cnt_importance" : 22,
+                  "cnt_time_used" : 22,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 22,
+                  "pct_time_critical" : 0.727,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Membership Management",
+                  "value" : true,
+                  "id" : "e0ec230c-01cc-4e78-ac4a-ec6d4cc61b40",
+                  "avg_rating" : 4.3,
+                  "cnt_rating" : 26,
+                  "avg_importance" : 2.68,
+                  "cnt_importance" : 22,
+                  "cnt_time_used" : 22,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 22,
+                  "pct_time_critical" : 0.682,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Social Media Management",
+                  "value" : false,
+                  "id" : "addc5501-c5de-481d-92ac-cc81b984acc7",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Volunteer Management",
+                  "value" : false,
+                  "id" : "63d4b79e-e6df-4211-b751-6dcb323077d7",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Manage volunteer information and direct volunteer resources"
+                }
+              ]
+            },
+            {
+              "category_name" : "Registration",
+              "category_features" : [
+                {
+                  "name" : "Attendee Tracking",
+                  "value" : false,
+                  "id" : "35bc88a9-3c45-407e-a5e4-fc4367096245",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "A list of registered participants"
+                },
+                {
+                  "name" : "Badge Management",
+                  "value" : false,
+                  "id" : "3111fbfa-7c91-4fee-a5dc-8979013aff24",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Create, manage, and print wearable badges with attendee information"
+                },
+                {
+                  "name" : "Calendar Management",
+                  "value" : false,
+                  "id" : "10dc6d16-b8eb-47be-a3b9-3368fba98bac",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Create, manage, and share multiple calendars"
+                },
+                {
+                  "name" : "Class Registration",
+                  "value" : false,
+                  "id" : "1f38ba6e-5f5d-465c-a18e-6d0783022639",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Online registration for classes"
+                },
+                {
+                  "name" : "Contact Management",
+                  "value" : true,
+                  "id" : "0019f365-3e1b-4e2f-8f1e-cb77ba025078",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Store and find contact information such as names, addresses, and social media accounts"
+                },
+                {
+                  "name" : "Customizable Forms",
+                  "value" : true,
+                  "id" : "f72f5fbe-d8cf-4729-be40-4f024278d399",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 2.33,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 5,
+                  "pct_time_used" : 0.6,
+                  "cnt_time_critical" : 5,
+                  "pct_time_critical" : 0.4,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Customize your contracts and forms so customer's become associated with your brand"
+                },
+                {
+                  "name" : "Event Registration",
+                  "value" : false,
+                  "id" : "240a8133-0d1a-47d1-98e2-5bd9fcf7039f",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Online registration for events"
+                },
+                {
+                  "name" : "Group Registration",
+                  "value" : false,
+                  "id" : "53dd422b-4555-4b36-868f-a614a230c120",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Register a group/batch of attendees"
+                },
+                {
+                  "name" : "Marketing Automation",
+                  "value" : false,
+                  "id" : "11cfdb79-2f7c-4116-97f7-4d6b38740131",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Plan, track, and evaluate marketing activities including promotions, customer outreach, and branding"
+                },
+                {
+                  "name" : "Online Registration",
+                  "value" : true,
+                  "id" : "d390d8f1-b85f-42f0-ac93-f7cd9d46db4e",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 16,
+                  "avg_importance" : 2.31,
+                  "cnt_importance" : 16,
+                  "cnt_time_used" : 16,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 16,
+                  "pct_time_critical" : 0.438,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Real-time registration over the web"
+                },
+                {
+                  "name" : "Onsite Registration",
+                  "value" : false,
+                  "id" : "8e3ae8a6-1991-4ba4-a67d-cedd2ae3916b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "In-person, onsite registration "
+                },
+                {
+                  "name" : "Payment Processing",
+                  "value" : true,
+                  "id" : "aa036a7c-8608-45a0-9f5f-7649beee9dfb",
+                  "avg_rating" : 4.5,
+                  "cnt_rating" : 32,
+                  "avg_importance" : 2.38,
+                  "cnt_importance" : 26,
+                  "cnt_time_used" : 29,
+                  "pct_time_used" : 0.897,
+                  "cnt_time_critical" : 29,
+                  "pct_time_critical" : 0.379,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Accept, record, and reconcile financial transactions"
+                },
+                {
+                  "name" : "Refund Management",
+                  "value" : false,
+                  "id" : "e9c9abda-f7f6-4f98-8c0a-b1ddc26391c7",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Oversee the process of issuing refunds"
+                },
+                {
+                  "name" : "Self Check-in/Check-out",
+                  "value" : false,
+                  "id" : "9803f8da-f72f-4cf5-89f3-d46474447ce6",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Attendees can register online, in advance"
+                },
+                {
+                  "name" : "Surveys & Feedback",
+                  "value" : true,
+                  "id" : "ac019461-1e0e-49b2-a4f0-bd6e13dedf23",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Gauge satisfaction and receive information for improvement and success"
+                }
+              ]
+            },
+            {
+              "category_name" : "Volunteer Management",
+              "category_features" : [
+                {
+                  "name" : "Attendance Tracking",
+                  "value" : false,
+                  "id" : "f7b89c98-cf63-4aa3-a3d3-2939c8a2ffb3",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track specific people who attended events or the total number of attendees "
+                },
+                {
+                  "name" : "Calendar Management",
+                  "value" : false,
+                  "id" : "10dc6d16-b8eb-47be-a3b9-3368fba98bac",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Create, manage, and share multiple calendars"
+                },
+                {
+                  "name" : "Communication Management",
+                  "value" : false,
+                  "id" : "4a459942-0400-418a-b104-e2e7a2b13db1",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Communicate with and outreach to followers/customers/clients in multiple ways"
+                },
+                {
+                  "name" : "Event Management",
+                  "value" : true,
+                  "id" : "cdc3bb9d-3c31-48ba-a01c-5101adc90c87",
+                  "avg_rating" : 4.1,
+                  "cnt_rating" : 18,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 16,
+                  "cnt_time_used" : 19,
+                  "pct_time_used" : 0.842,
+                  "cnt_time_critical" : 19,
+                  "pct_time_critical" : 0.474,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Schedule and manage the logistics of activities and other gatherings "
+                },
+                {
+                  "name" : "Membership Management",
+                  "value" : true,
+                  "id" : "e0ec230c-01cc-4e78-ac4a-ec6d4cc61b40",
+                  "avg_rating" : 4.3,
+                  "cnt_rating" : 26,
+                  "avg_importance" : 2.68,
+                  "cnt_importance" : 22,
+                  "cnt_time_used" : 22,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 22,
+                  "pct_time_critical" : 0.682,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Database of members to track personal information of individuals and families"
+                },
+                {
+                  "name" : "Mobile Access",
+                  "value" : true,
+                  "id" : "15d49235-ad13-4d33-b009-edd50126375b",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 14,
+                  "avg_importance" : 2.45,
+                  "cnt_importance" : 11,
+                  "cnt_time_used" : 13,
+                  "pct_time_used" : 0.846,
+                  "cnt_time_critical" : 13,
+                  "pct_time_critical" : 0.385,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Access the software remotely via mobile devices  "
+                },
+                {
+                  "name" : "Recognition Management",
+                  "value" : false,
+                  "id" : "4260293f-9a6d-4e1b-ad7f-9d704421eaf6",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Track volunteer performance and award those who exceed certain criteria"
+                },
+                {
+                  "name" : "Registration Management",
+                  "value" : false,
+                  "id" : "c6c56efb-bbf9-446b-a9f4-2e083583d7ff",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Make a list of and register attendees for an event"
+                },
+                {
+                  "name" : "Reporting & Statistics",
+                  "value" : true,
+                  "id" : "11226b4a-a4a9-436a-8dce-fb552aef6162",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Scheduling",
+                  "value" : false,
+                  "id" : "0cc5cde1-b9c8-4aaf-9a3b-67ed2aafe507",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Plan availability and assign specific time slots for tasks and resources"
+                },
+                {
+                  "name" : "Self Service Portal",
+                  "value" : false,
+                  "id" : "80f0258d-e261-4136-ba81-a5251a304f8e",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Gateway through which end users can access the system"
+                },
+                {
+                  "name" : "Time Tracking",
+                  "value" : false,
+                  "id" : "e876e7a1-0d30-490c-b2e8-8026ed811aa7",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Volunteer Recruiting",
+                  "value" : false,
+                  "id" : "39d0eebb-60c8-4bac-a4a5-985010bd43a7",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Advertise volunteer opportunities and recruit new volunteers "
+                }
+              ]
+            }
+          ],
+          "infographics" : [ ],
+          "related_products" : [
+            {
+              "product_id" : 223924,
+              "seo_product_id" : 223924,
+              "seo_slug" : "Mailchimp",
+              "vendor_name" : "Intuit",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/247db203-7811-4bdc-9c0a-729dbae623b5.png",
+              "rating" : 4.5,
+              "total_reviews" : 14779,
+              "slug" : "Mailchimp",
+              "product_name" : "Mailchimp",
+              "short_desc" : "Mailchimp's all-in-one Marketing Platform helps small businesses market smarter so you can grow faster. ",
+              "features" : "Mailchimp's all-in-one Marketing Platform helps small businesses market smarter so you can grow faster. As the backbone for your customer relationships, they provide AI-powered, user-friendly tools anyone can use to be successful. Mailchimp puts your audience at the center so you can send marketing emails and automated messages, create targeted ad campaigns, build landing pages, send postcards, facilitate reporting and analytics, and sell online. ",
+              "url" : "http://www.mailchimp.com"
+            },
+            {
+              "product_id" : 143461,
+              "seo_product_id" : 143461,
+              "seo_slug" : "Squarespace",
+              "vendor_name" : "Squarespace",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/713f882b-f7a1-4f3f-a484-7af2fe13f5c3.png",
+              "rating" : 4.6,
+              "total_reviews" : 2497,
+              "slug" : "Squarespace",
+              "product_name" : "Squarespace",
+              "short_desc" : "Squarespace is the all-in-one platform to build a beautiful website, online store, or portfolio.",
+              "features" : "Squarespace is the all-in-one platform to build a beautiful online presence. Look like an expert right from the start with award-winning templates for your website, online store, or portfolio. Customize the design to fit your personal style and professional needs. Get found in search by more people with powerful SEO tools. Learn where your website traffic is coming from, what your visitors are looking for, and how they're interacting with your content or products with in-depth Analytics tools.",
+              "url" : "https://www.squarespace.com/website-design/?channel=paid_community&subchannel=capterra&campaign=website_builder"
+            },
+            {
+              "product_id" : 192624,
+              "seo_product_id" : 31898,
+              "seo_slug" : "Constant-Contact",
+              "vendor_name" : "Constant Contact",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d5bb525e-43fd-44ad-b018-e69dbd4d4817.jpeg",
+              "rating" : 4.3,
+              "total_reviews" : 2067,
+              "slug" : "Constant-Contact",
+              "product_name" : "Constant Contact",
+              "short_desc" : "We deliver the tools to simplify and amplify digital marketing and drive results for your business.",
+              "features" : "Constant Contact delivers for small businesses and nonprofits with powerful tools that simplify and amplify digital marketing. Whether it's driving sales, growing a customer base or engaging an audience, we deliver the performance and guidance to build strong connections and generate powerful results. For more information, visit www.constantcontact.com.",
+              "url" : "https://www.constantcontact.com/website/?utm_source=capterra&utm_medium=social&utm_campaign=review_capterra_listing_paid"
+            },
+            {
+              "product_id" : 182500,
+              "seo_product_id" : 220977,
+              "seo_slug" : "GoDaddy-Website-Builder",
+              "vendor_name" : "GoDaddy",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/3ab9c618-8814-4720-99ef-350107a23983.png",
+              "rating" : 4.1,
+              "total_reviews" : 1022,
+              "slug" : "GoDaddy-Website-Builder",
+              "product_name" : "GoDaddy Website Builder",
+              "short_desc" : "Just pick a template, then customize fonts, colors, and content to match your style.",
+              "features" : "GoDaddy Website Builder is an online editing and publishing tool that helps you create a website, regardless of your technical skill level. Just create an account, pick a design and use the built-in editor to add your own images and text. You can make your website as simple or complex as you'd like. You can even add a full online store complete with product listings, coupons, shopping cart, shipping and multiple payment options.\r\n\r\n",
+              "url" : "https://www.kqzyfj.com/click-100257499-14371833"
+            },
+            {
+              "product_id" : 148516,
+              "seo_product_id" : 212390,
+              "seo_slug" : "Marketing-360",
+              "vendor_name" : "Madwire",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e0d4096b-6fa3-4d66-98e5-8f3ac4c06590.png",
+              "rating" : 4.6,
+              "total_reviews" : 973,
+              "slug" : "Marketing-360",
+              "product_name" : "Marketing 360",
+              "short_desc" : "Start building your website Create a Free Account.",
+              "features" : "Websites 360?, It's Just Better - Build your own site today with our powerful website builder. We power over 20K companies. Our website platform was designed by experienced marketers with the sole purpose of driving sales at the highest possible rate. So not only is our website platform beautiful, but they generate unmatched results. White glove service is also available if you need it. ",
+              "url" : "https://www.marketing360.com/websites/?ref=WebsiteBuilderCategoryCapterraAds"
+            },
+            {
+              "product_id" : 169468,
+              "seo_product_id" : 226016,
+              "seo_slug" : "Elementor",
+              "vendor_name" : "Elementor",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/94607dc4-d068-43ff-9ce3-0a67ca201844.png",
+              "rating" : 4.7,
+              "total_reviews" : 586,
+              "slug" : "Elementor",
+              "product_name" : "Elementor",
+              "short_desc" : "Professional, code-free WordPress website builder. Build responsive, pixel-perfect sites using advanced widgets, templates, & features.",
+              "features" : "Elementor is a free WordPress website builder for professional web creators that want to build amazing, code-free websites. \n\nWith its advanced features, users can create high performing, responsive sites in a whole new and visual way. \n\nOur drag & drop interface allows users to design custom-made, pixel-perfect websites. It also works seamlessly with almost any WordPress theme or plugin, so you can continue to use your favorite tools. \n\nJoin 11M+ happy Elementor users worldwide!\n",
+              "url" : "https://elementor.com/?utm_medium=cpc&utm_campaign=capterra-website-builder"
+            },
+            {
+              "product_id" : 113540,
+              "seo_product_id" : 226875,
+              "seo_slug" : "Bitrix24",
+              "vendor_name" : "Bitrix",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/0d820dd6-6e0b-43de-becb-e9078a2d9fac.png",
+              "rating" : 4.1,
+              "total_reviews" : 527,
+              "slug" : "Bitrix24",
+              "product_name" : "Bitrix24",
+              "short_desc" : "Bitrix24 is the leading free website builder for small businesses. ",
+              "features" : "Bitrix24 is the leading free website builder for small businesses. Free unlimited pages, hosting, bandwidth, CRM and your own domain included. Used by over 8 million companies worldwide.",
+              "url" : "https://www.bitrix24.com/tools/websites/?utm_source=capterra&utm_medium=cpc&utm_campaign=com_sites_capterra-websitebuilder"
+            },
+            {
+              "product_id" : 162588,
+              "seo_product_id" : 216959,
+              "seo_slug" : "HoneyBook",
+              "vendor_name" : "HoneyBook",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/7c248c64-bbf4-404f-9bf9-d90383f75647.png",
+              "rating" : 4.8,
+              "total_reviews" : 499,
+              "slug" : "HoneyBook",
+              "product_name" : "HoneyBook",
+              "short_desc" : "Tools for the modern professional: proposals, contracts, payments, and more.  Try 7 days free when you're ready.",
+              "features" : "HoneyBook helps creative entrepreneurs and freelancers book more clients, manage projects and get paid all in one place. With our business management software, you can automate your busy work and stay on top of all your to-dos, saving time and money so you can grow your business. Its like your own personal assistant.\n\nSmall business owners and freelancers have used HoneyBook to increase their bookings and save time.\n\nFor your first 6 months, get HoneyBook for $1 per month with code ONLY1.",
+              "url" : "https://ad.doubleclick.net/ddm/trackclk/N1580728.4266620CAPTERRA-HONEYBO/B26347654.315915496;dc_trk_aid=508239089;dc_trk_cid=158573843;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd="
+            },
+            {
+              "product_id" : 147664,
+              "seo_product_id" : 147664,
+              "seo_slug" : "EventCreate",
+              "vendor_name" : "EventCreate",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/417807d6-3a26-4623-9f20-28f47310539e.jpeg",
+              "rating" : 4.9,
+              "total_reviews" : 466,
+              "slug" : "EventCreate",
+              "product_name" : "EventCreate",
+              "short_desc" : "Create a beautiful event website in minutes. Trusted by more than 300,000 people worldwide, including planners from Nike and MIT.",
+              "features" : "Create a beautiful event website in minutes. \n\nBuild an event website, collect registrations, sell tickets, send invites, track attendees, and promote your event online. Reliable and secure. \n\nTrusted by more than 500,000 people worldwide, including planners from Nike, MIT and Refinery29.\n\n\n",
+              "url" : "https://www.eventcreate.com/?utm_source=capterra&utm_medium=websitebuilderdirectory&utm_campaign=capterra_ppc"
+            },
+            {
+              "product_id" : 135618,
+              "seo_product_id" : 135618,
+              "seo_slug" : "Odoo",
+              "vendor_name" : "Odoo",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/17efceca-38ea-4e7e-83dc-2cdd9fb0987f.png",
+              "rating" : 4.1,
+              "total_reviews" : 463,
+              "slug" : "Odoo",
+              "product_name" : "Odoo ",
+              "short_desc" : "Create a professional website quickly and easily, with absolutely no coding knowledge, thanks to Odoo's Website Builder!",
+              "features" : "With Odoo?s incredibly innovative, user-friendly Website Builder, anyone can create a beautiful website with absolutely no coding knowledge whatsoever. Configure and manage a website quickly and efficiently with Odoo?s simple tools and easy-to-navigate design. Anchors are generated automatically based on the first title within a section, or the snippet name, as applicable. Odoo 14 now offers new snippets: Countdown, Chart, Table of Contents, Product Catalog, and Dynamic Snippets.",
+              "url" : "https://www.odoo.com/page/website-builder?utm_campaign=website&utm_medium=cpc-review&utm_source=capterra"
+            },
+            {
+              "product_id" : 141178,
+              "seo_product_id" : 141178,
+              "seo_slug" : "Bizness-Apps",
+              "vendor_name" : "Bizness Apps",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/ebe7f91f-c5c5-4996-96a4-232d5a9e5cc4.png",
+              "rating" : 4.7,
+              "total_reviews" : 418,
+              "slug" : "Bizness-Apps",
+              "product_name" : "Bizness Apps",
+              "short_desc" : "Mobile apps for businesses made easy.",
+              "features" : "Learn why 1700+ marketing and design agencies are using the Bizness Apps platform to build mobile apps for small business clients. Offer a new, revenue generating service to your SMB clients while staying ahead of the latest trends in mobile technology.\r\n\r\nWith features like unlimited push notifications, mobile food ordering, reservations, loyalty programs, and coupons our apps directly generate revenue and increase customer engagement.",
+              "url" : "https://www.biznessapps.com/ppcreseller/?utm_source=capterra&utm_medium=cpc&utm_campaign=search__-__nw__-__capterra&c1=CAP_SE_NW&source=USA_INTL&kw=application_development"
+            }
+          ],
+          "similar_products" : [
+            {
+              "product_id" : 141695,
+              "seo_product_id" : 141695,
+              "seo_slug" : "Instapage",
+              "vendor_name" : "Postclick",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/b45050f7-ef58-4201-9f4c-87c40bf423c7.png",
+              "rating" : 4.5,
+              "total_reviews" : 341,
+              "slug" : "Instapage",
+              "product_name" : "Instapage",
+              "short_desc" : "With over two million landing pages at an average conversion rate of over 16%, Instapage is helping leading brands across 100 countries",
+              "features" : "Instapage is the world's most advanced landing page platform, helping digital advertisers create more relevant and impactful advertising by making it easy to build conversion-optimized landing pages in minutes. With lightning-fast loading speeds, a vast collection of templates, built-in optimization tools, and a dedicated support team, you can scale your online presence like never before. Instapage empowers marketers to maximize conversions by creating, personalizing, and optimizing at scale.",
+              "url" : "https://lp.instapage.com/?pcid=137c9ff9-0344-425e-ba69-ce1229b614f7&utm_source=capterra&utm_medium=cpc&utm_campaign=all"
+            },
+            {
+              "product_id" : 151967,
+              "seo_product_id" : 225801,
+              "seo_slug" : "Webcom",
+              "vendor_name" : "Web.com",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4bfda826-6a7a-4c95-b5b5-f5eb2ea3f971.jpeg",
+              "rating" : 2.8,
+              "total_reviews" : 12,
+              "slug" : "web-com",
+              "product_name" : "Web.com",
+              "short_desc" : "\nWeb.com offers a simple, easy to use website builder that gives you what you need at a price that is designed to fit your budget.\n\n",
+              "features" : "With Web.com, you get an easy to use website builder that gives you what you need at a price that is designed to fit your budget. No hidden fees, no advertisements or aggressive sales techniques, just quality tools to help you get started. Whether you're an aspiring small business or just looking to bring your idea to the web for the first time, our drag & drop editing experience makes it simple to create your website and personalize it to meet your specific needs.",
+              "url" : "https://web.yoxl.net/c/1932304/1090792/1642"
+            },
+            {
+              "product_id" : 131883,
+              "seo_product_id" : 233817,
+              "seo_slug" : "Bigcommerce",
+              "vendor_name" : "BigCommerce",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/a2bfb866-bcf7-4c90-b9a0-a87cc8c94b11.png",
+              "rating" : 4.4,
+              "total_reviews" : 215,
+              "slug" : "Bigcommerce",
+              "product_name" : "BigCommerce",
+              "short_desc" : "A leading software-as-a-service (SaaS) ecommerce platform that empowers merchants of all sizes to build, innovate, and grow.",
+              "features" : "BigCommerce (Nasdaq: BIGC) is a leading software-as-a-service (SaaS) ecommerce platform that empowers merchants of all sizes to build, innovate and grow their businesses online. As a leading open SaaS solution, BigCommerce provides merchants enterprise-grade functionality, customization and performance with simplicity and ease-of-use. Tens of thousands of companies across 150 countries and numerous industries use BigCommerce, including Ben & Jerry's, S.C. Johnson, Skullcandy, Sony and Vodafone. ",
+              "url" : "https://bigcommerce.zfrcsk.net/c/1932304/185949/2941"
+            },
+            {
+              "product_id" : 208552,
+              "seo_product_id" : 208552,
+              "seo_slug" : "Webit",
+              "vendor_name" : "Webit",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/99d14597-8539-4d95-a127-627fe76afefc.png",
+              "rating" : 4.7,
+              "total_reviews" : 227,
+              "slug" : "Webit",
+              "product_name" : "Webit",
+              "short_desc" : "Webit is a small-business web solution, offering custom-built websites, dozens of tools and full-service design for just $49 a month. ",
+              "features" : "Webit is an all-in-one, small-business solution designed to help you grow! As a small business too, we know what it takes to grow, so we offer more for less to help you get ahead. Work with a professional designer to create a beautiful website, sell your products & services, follow-up with customers, manage quotes and invoices, and more - you get it all! Our ever-growing tool suite is just $49/month with no contracts or hidden fees. You shouldn't have to pay more to get what you need to succeed.",
+              "url" : "https://www.webit.com/top-rated-website-solution"
+            },
+            {
+              "product_id" : 183648,
+              "seo_product_id" : 183648,
+              "seo_slug" : "Tizra",
+              "vendor_name" : "Tizra",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/ec1d507c-fa26-4d96-968a-c7838b0a16e1.png",
+              "rating" : 4.8,
+              "total_reviews" : 18,
+              "slug" : "Tizra",
+              "product_name" : "Tizra",
+              "short_desc" : "Quickly create a digital library to showcase your content and achieve your goals.",
+              "features" : "Tizra makes it easy to build beautiful resource hubs that unleash the power of your content. Generate more revenue, more engagement, and more impact with Tizra's unique combination of search, access management, ecommerce and curation tools. Start simple, and you can be live in a matter of hours. Or go big with a fully integrated enterprise-scale implementation. Either way, Tizra is the platform of choice for organizations that want to squeeze every ounce of value out of their content investment.",
+              "url" : "https://tizra.com/demo"
+            },
+            {
+              "product_id" : 169468,
+              "seo_product_id" : 226016,
+              "seo_slug" : "Elementor",
+              "vendor_name" : "Elementor",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/94607dc4-d068-43ff-9ce3-0a67ca201844.png",
+              "rating" : 4.7,
+              "total_reviews" : 586,
+              "slug" : "Elementor",
+              "product_name" : "Elementor",
+              "short_desc" : "Professional, code-free WordPress website builder. Build responsive, pixel-perfect sites using advanced widgets, templates, & features.",
+              "features" : "Elementor is a free WordPress website builder for professional web creators that want to build amazing, code-free websites. \n\nWith its advanced features, users can create high performing, responsive sites in a whole new and visual way. \n\nOur drag & drop interface allows users to design custom-made, pixel-perfect websites. It also works seamlessly with almost any WordPress theme or plugin, so you can continue to use your favorite tools. \n\nJoin 11M+ happy Elementor users worldwide!\n",
+              "url" : "https://elementor.com/?utm_medium=cpc&utm_campaign=capterra-default"
+            },
+            {
+              "product_id" : 135618,
+              "seo_product_id" : 135618,
+              "seo_slug" : "Odoo",
+              "vendor_name" : "Odoo",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/17efceca-38ea-4e7e-83dc-2cdd9fb0987f.png",
+              "rating" : 4.1,
+              "total_reviews" : 463,
+              "slug" : "Odoo",
+              "product_name" : "Odoo ",
+              "short_desc" : "Create a professional website quickly and easily, with absolutely no coding knowledge, thanks to Odoo's Website Builder!",
+              "features" : "With Odoo?s incredibly innovative, user-friendly Website Builder, anyone can create a beautiful website with absolutely no coding knowledge whatsoever. Configure and manage a website quickly and efficiently with Odoo?s simple tools and easy-to-navigate design. Anchors are generated automatically based on the first title within a section, or the snippet name, as applicable. Odoo 14 now offers new snippets: Countdown, Chart, Table of Contents, Product Catalog, and Dynamic Snippets.",
+              "url" : "https://www.odoo.com/?utm_campaign=default&utm_medium=cpc-review&utm_source=capterra"
+            },
+            {
+              "product_id" : 153948,
+              "seo_product_id" : 220910,
+              "seo_slug" : "GetResponse",
+              "vendor_name" : "GetResponse",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/5418ffe3-908a-4410-b1f8-71f47144a598.png",
+              "rating" : 4.1,
+              "total_reviews" : 338,
+              "slug" : "GetResponse",
+              "product_name" : "GetResponse",
+              "short_desc" : "Create a unique online presence with an AI-driven, code-free website builder.",
+              "features" : "Get your business online fast and affordably with no experience required. Describe your business and visual preferences to get personalized website templates ready to customize with the easiest drag-and-drop editor. \n",
+              "url" : "https://www.getresponse.com?utm_source=capterra&utm_medium=cpc&utm_campaign=capterra_ppc_main"
+            },
+            {
+              "product_id" : 113540,
+              "seo_product_id" : 226875,
+              "seo_slug" : "Bitrix24",
+              "vendor_name" : "Bitrix",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/0d820dd6-6e0b-43de-becb-e9078a2d9fac.png",
+              "rating" : 4.1,
+              "total_reviews" : 527,
+              "slug" : "Bitrix24",
+              "product_name" : "Bitrix24",
+              "short_desc" : "Bitrix24 is the leading free website builder for small businesses. ",
+              "features" : "Bitrix24 is the leading free website builder for small businesses. Free unlimited pages, hosting, bandwidth, CRM and your own domain included. Used by over 8 million companies worldwide.",
+              "url" : "https://www.bitrix24.com?utm_source=capterra&utm_medium=cpc&utm_campaign=com_brand_capterra-main"
+            },
+            {
+              "product_id" : 129392,
+              "seo_product_id" : 225127,
+              "seo_slug" : "ResNexus",
+              "vendor_name" : "ResNexus",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/c445ac98-5690-42c5-959b-f07b8635e583.png",
+              "rating" : 4.7,
+              "total_reviews" : 295,
+              "slug" : "Reservation-Nexus",
+              "product_name" : "ResNexus",
+              "short_desc" : "Online bookings and guest management system that provides reservation sources tracking, group reservations, calendar with reminders.",
+              "features" : "Online bookings and guest management system that provides reservation sources tracking, group reservations, calendar with reminders, and more. Professional Edition includes yield management, point-of-sale, and email marketing capabilities.",
+              "url" : "https://software-info.gartnerdigitalmarkets.com/resnexus-reservation-and-property-mgmt-gdm/"
+            },
+            {
+              "product_id" : 158081,
+              "seo_product_id" : 158081,
+              "seo_slug" : "Bookmark",
+              "vendor_name" : "Bookmark",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/bcf5238e-7fba-4638-baad-f2fb3072bb58.png",
+              "rating" : 4.6,
+              "total_reviews" : 132,
+              "slug" : "Bookmark",
+              "product_name" : "Bookmark",
+              "short_desc" : "The world's first and fastest Ai-powered website builder and online store solution.",
+              "features" : "The future of website creation and design is here! Bookmark is an Ai-powered website builder which empowers people without any technical skills with the ability to instantly create an exceptional website or online store.\n\nBookmark's Ai software AiDA (your artificial intelligence design assistant) creates the first version of their website in under two minutes by making selections from millions of combinations specific to each user's website needs.",
+              "url" : "https://www.bookmark.com/#a_aid=5a909f7e8c83f&a_bid=af9c0ff3&chan=capterra"
+            },
+            {
+              "product_id" : 147664,
+              "seo_product_id" : 147664,
+              "seo_slug" : "EventCreate",
+              "vendor_name" : "EventCreate",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/417807d6-3a26-4623-9f20-28f47310539e.jpeg",
+              "rating" : 4.9,
+              "total_reviews" : 466,
+              "slug" : "EventCreate",
+              "product_name" : "EventCreate",
+              "short_desc" : "Create a beautiful event website in minutes. Trusted by more than 300,000 people worldwide, including planners from Nike and MIT.",
+              "features" : "Create a beautiful event website in minutes. \n\nBuild an event website, collect registrations, sell tickets, send invites, track attendees, and promote your event online. Reliable and secure. \n\nTrusted by more than 500,000 people worldwide, including planners from Nike, MIT and Refinery29.\n\n\n",
+              "url" : "https://www.eventcreate.com/?utm_source=capterra&utm_medium=directory&utm_campaign=capterra_ppc"
+            },
+            {
+              "product_id" : 153152,
+              "seo_product_id" : 225680,
+              "seo_slug" : "Solodev-CMS",
+              "vendor_name" : "Solodev",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/5075ee0c-a8bc-4810-815e-54300982f63e.jpeg",
+              "rating" : 4.8,
+              "total_reviews" : 11,
+              "slug" : "Web-Experience-Platform",
+              "product_name" : "Solodev CMS",
+              "short_desc" : "Solodev is the CMS for AWS - empowering designers, marketers, and developers to work together to create amazing customer experiences.",
+              "features" : "Solodev DCX is a cloud-first enterprise content management and customer experience platform that lets individuals and teams collaborate on their digital transformation. With Solodev products, users can build amazing websites and applications, share comments, review code, and publish their most ambitious ideas with complete training and 24/7 U.S. support ? all powered by the world?s most secure and scalable cloud infrastructure, Amazon Web Service",
+              "url" : "http://go.solodev.com/capterra-ppc"
+            }
+          ],
+          "related_categories" : [
+            {
+              "functional_group" : "webbuild",
+              "long_name" : "Content Management",
+              "html_name" : "content-management-software",
+              "link_name" : "content-management",
+              "product_count" : 340,
+              "meta_description" : "Find and compare top Content Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Content Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs.",
+              "description" : "<a href=/content-management-software>Content Management (CMS) software</a> (CMS) is used for managing digital content across the enterprise and often refers specifically to managing websites and editing web content. There are many different kinds of CMS solutions on the market including both open-source and proprietary solutions.  Many Content Management solutions allow the creation, modification and removal of content from the web site without extended knowledge of HTML or the expertise of a webmaster.  <a href=/content-management-software>Content Management software</a> is related to <a href=/catalog-management-software>Catalog Management software</a> and <a href=/portal-software>Portal software</a>."
+            },
+            {
+              "functional_group" : "webbuild",
+              "long_name" : "Directory",
+              "html_name" : "directory-software",
+              "link_name" : "directory",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Directory software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Directory tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "Directory software is used to create product and services classifieds, informational portals and membership lists with or without monetization options."
+            },
+            {
+              "functional_group" : "webbuild",
+              "long_name" : "Landing Page",
+              "html_name" : "landing-page-software",
+              "link_name" : "landing-page",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Landing Page software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Landing Page tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/landing-page-software\">Landing Page software</a> helps marketers increase conversions and identify the most effective messaging with A/B testing.  Most Landing Page software integrates with many of the marketing tools you use everyday, like email automation, CRM, and web analytics.  Usually, no coding experience is required to build your own landing pages.  <a href=\"/email-marketing-software\">Email Marketing software</a>, <a href=\"/lead-management-software\">Lead Management software</a>, <a href=\"/marketing-automation-software\">Marketing Automation software</a>, <a href=\"/sales-enablement software\">Sales Enablement software</a>, and <a href=\"/sms-marketing-software\">SMS (Text) Marketing software</a> are closely related to <a href=\"/landing-page-software\">Landing Page software</a>."
+            }
+          ],
+          "is_upgraded" : false,
+          "enabled" : true,
+          "filter_options" : {
+            "users" : 127,
+            "platform" : 897,
+            "pricing_options" : 18,
+            "category_related_features" : [
+              25282,
+              25292,
+              62132,
+              62133,
+              62134,
+              62135,
+              62137,
+              62139,
+              62140,
+              62141,
+              62142,
+              62147,
+              62148,
+              62152,
+              62153,
+              62154,
+              62156,
+              62157,
+              62161,
+              62165
+            ],
+            "employees" : 7
+          },
+          "sort_options" : {
+            "sort_review_rating" : 4.30444860458374,
+            "most_recent_review" : "2022-09-15T20:58:27Z"
+          },
+          "countries" : "ALL",
+          "features_tokenized_text" : "data_import/export drag_&_drop",
+          "platform_tokenized_text" : "cloud,saas,web-based mobileandroid mobileiphone mobileipad",
+          "users_tokenized_text" : "1 2-10 11-50 51-200 201-500 501-1000 1000+",
+          "pricing_tokenized_text" : "monthlysubscription freetrial",
+          "badges" : [ ],
+          "bid_spot_us" : 0.0,
+          "currency_code" : "USD",
+          "currency_symbol" : "$",
+          "credit_card_required" : "Unverified",
+          "licensing_model" : null,
+          "open_api_offered" : "Unverified",
+          "mobile_urls" : [
+            {
+              "name" : "iOS",
+              "url" : "https://itunes.apple.com/us/app/northwest-balloon-club/id1145983041?mt=8"
+            },
+            {
+              "name" : "Android",
+              "url" : "https://play.google.com/store/apps/details?id=com.clubexpress.democlub"
+            }
+          ],
+          "integrations" : [
+            {
+              "id" : "e78e1eb5-af49-4968-bb2f-a78a00b607b6",
+              "name" : "Google Maps"
+            },
+            {
+              "id" : "44278a9e-09e7-4c4b-92d9-1a3739abe0ec",
+              "name" : "QuickBooks Online Advanced"
+            },
+            {
+              "id" : "01ec8cd2-dd68-43c4-89e6-a6d200b2cab3",
+              "name" : "Authorize.Net"
+            },
+            {
+              "id" : "16f6d9b6-3101-4679-a0af-a6d200b5a51b",
+              "name" : "PayPal"
+            },
+            {
+              "id" : "bcdd9473-58dd-4c24-a82a-a6d200b601d6",
+              "name" : "Quickbooks Online"
+            },
+            {
+              "id" : "b7720443-e1ad-4c10-a2e1-d9a8dd6a30bc",
+              "name" : "Meta for Business"
+            },
+            {
+              "id" : "7d5d66f3-669a-454e-b210-9013743333c5",
+              "name" : "Twitter"
+            },
+            {
+              "id" : "b26c328d-d8c9-45ca-8138-08ecdf1ddf02",
+              "name" : "LinkedIn for Business"
+            },
+            {
+              "id" : "d21b7cd3-66d4-4aee-90ea-a78a00b5b44d",
+              "name" : "Google Calendar"
+            }
+          ],
+          "supported_countries" : [
+            {
+              "id" : 108,
+              "code" : "IE",
+              "name" : "Ireland"
+            },
+            {
+              "id" : 159,
+              "code" : "NZ",
+              "name" : "New Zealand"
+            },
+            {
+              "id" : 237,
+              "code" : "US",
+              "name" : "United States of America"
+            },
+            {
+              "id" : 235,
+              "code" : "GB",
+              "name" : "United Kingdom of Great Britain and Northern Ireland"
+            },
+            {
+              "id" : 14,
+              "code" : "AU",
+              "name" : "Australia"
+            },
+            {
+              "id" : 41,
+              "code" : "CA",
+              "name" : "Canada"
+            }
+          ],
+          "supported_languages" : [
+            {
+              "id" : 152,
+              "code" : "en",
+              "name" : "English",
+              "location" : null
+            }
+          ],
+          "target_industries" : [
+            {
+              "id" : 97,
+              "code" : "100",
+              "name" : "Non-Profit Organization Management"
+            },
+            {
+              "id" : 57,
+              "code" : "14",
+              "name" : "Hospital & Health Care"
+            },
+            {
+              "id" : 55,
+              "code" : "124",
+              "name" : "Health, Wellness and Fitness"
+            },
+            {
+              "id" : 131,
+              "code" : "33",
+              "name" : "Sports"
+            },
+            {
+              "id" : 121,
+              "code" : "40",
+              "name" : "Recreational Facilities and Services"
+            },
+            {
+              "id" : 113,
+              "code" : "102",
+              "name" : "Program Development"
+            },
+            {
+              "id" : 58,
+              "code" : "31",
+              "name" : "Hospitality"
+            },
+            {
+              "id" : 50,
+              "code" : "29",
+              "name" : "Gambling & Casinos"
+            },
+            {
+              "id" : 44,
+              "code" : "38",
+              "name" : "Fine Art"
+            },
+            {
+              "id" : 38,
+              "code" : "86",
+              "name" : "Environmental Services"
+            },
+            {
+              "id" : 104,
+              "code" : "39",
+              "name" : "Performing Arts"
+            },
+            {
+              "id" : 56,
+              "code" : "68",
+              "name" : "Higher Education"
+            },
+            {
+              "id" : 66,
+              "code" : "74",
+              "name" : "International Affairs"
+            },
+            {
+              "id" : 29,
+              "code" : "91",
+              "name" : "Consumer Services"
+            },
+            {
+              "id" : 109,
+              "code" : "107",
+              "name" : "Political Organization"
+            },
+            {
+              "id" : 112,
+              "code" : "105",
+              "name" : "Professional Training & Coaching"
+            },
+            {
+              "id" : 35,
+              "code" : "132",
+              "name" : "E-Learning"
+            }
+          ],
+          "price_range_id" : 1,
+          "aggregated_review_ratings" : {
+            "industry" : {
+              "31" : 4.67,
+              "142" : 3.5,
+              "28" : 4.4,
+              "68" : 5.0,
+              "10" : 1.0,
+              "77" : 4.0,
+              "48" : 4.0,
+              "98" : 5.0,
+              "99" : 3.0,
+              "104" : 5.0,
+              "144" : 4.0,
+              "3" : 2.0,
+              "85" : 2.0,
+              "37" : 5.0,
+              "88" : 3.71,
+              "78" : 4.5,
+              "125" : 3.0,
+              "1" : 3.0,
+              "44" : 2.0,
+              "138" : 3.0,
+              "95" : 4.33,
+              "108" : 5.0,
+              "17" : 5.0,
+              "69" : 4.5,
+              "19" : 4.5,
+              "76" : 5.0,
+              "120" : 1.0,
+              "52" : 3.5,
+              "42" : 3.5,
+              "118" : 4.0,
+              "30" : 4.71,
+              "137" : 4.33,
+              "74" : 5.0,
+              "4" : 3.5,
+              "107" : 4.33,
+              "132" : 3.0,
+              "89" : 3.0,
+              "101" : 4.0,
+              "13" : 5.0,
+              "94" : 4.0,
+              "84" : 5.0,
+              "91" : 4.5,
+              "110" : 3.83,
+              "15" : 3.0,
+              "39" : 4.0,
+              "111" : 4.45,
+              "75" : 5.0,
+              "47" : 5.0,
+              "33" : 4.33,
+              "124" : 4.35,
+              "90" : 4.33,
+              "86" : 3.0,
+              "14" : 4.38,
+              "115" : 5.0,
+              "103" : 3.0,
+              "55" : 5.0,
+              "64" : 4.0,
+              "53" : 4.64,
+              "46" : 4.5,
+              "100" : 4.14,
+              "79" : 3.5,
+              "80" : 5.0,
+              "96" : 5.0,
+              "40" : 4.48,
+              "71" : 4.0,
+              "139" : 4.33,
+              "11" : 4.0,
+              "73" : 5.0,
+              "148" : 3.0,
+              "43" : 4.5,
+              "136" : 5.0,
+              "38" : 4.5,
+              "131" : 3.25,
+              "105" : 3.8
+            },
+            "company_size" : {
+              "11-50 employees" : 4.06,
+              "201-500 employees" : 4.35,
+              "1001-5000 employees" : 4.5,
+              "Self-employed" : 4.21,
+              "1-10 employees" : 4.12,
+              "51-200 employees" : 4.34,
+              "5001-10,000 employees" : 4.25,
+              "501-1000 employees" : 4.28
+            }
+          },
+          "vct_enabled" : false,
+          "pricing_plans" : [
+            {
+              "created_on_utc" : "2019-08-21T14:47:39Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "MONTHLY HOSTING FEE",
+              "description" : "The plan charges for only active members. It further charges an one-time setup fee.",
+              "display_order" : 1,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 24.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Per User",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "Disk Space"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "Internet Traffic"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Unlimited Telephone and Email Support for Admins and Members"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "Unlimited Upload of Photos and Documents"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 5,
+                  "name" : "Website Hosting"
+                }
+              ]
+            }
+          ],
+          "discount_types" : [ ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,3251 @@
+{
+  "took" : 7,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 3,
+    "successful" : 3,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : {
+      "value" : 2,
+      "relation" : "eq"
+    },
+    "max_score" : 9.909741,
+    "hits" : [
+      {
+        "_index" : "product_listings_main_data_upc_vt20220920_043802_utc",
+        "_type" : "_doc",
+        "_id" : "105244_manufact",
+        "_score" : 9.909741,
+        "_source" : {
+          "product_id" : 105244,
+          "seo_product_id" : 226072,
+          "seo_slug" : "Genius-ERP",
+          "product_name" : "Genius ERP",
+          "upc_product_uuid" : "064f9a06-e063-4d5d-8397-a6d200b43d99",
+          "old_product_ids" : [
+            226072
+          ],
+          "product_url" : "https://www.geniuserp.com/features",
+          "product_slug" : "Genius-Manufacturing",
+          "former_name" : "Genius Manufacturing",
+          "logo_filepath" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/3ab749bd-f6f2-4143-aa4b-6e5cd5b4991f.png",
+          "vendor" : {
+            "vendor_id" : 2070055,
+            "vendor_name" : "Genius Solutions",
+            "vendor_url" : "http://www.geniuserp.com",
+            "year_founded" : 1990,
+            "location" : "Canada",
+            "vendor_opted_out_of_reviews" : true,
+            "is_opted_out_of_reviews" : false,
+            "is_hit_limit" : false,
+            "enabled" : true,
+            "has_vendor_level_page" : false,
+            "slug" : null,
+            "vendor_page" : false,
+            "paused_campaign" : false
+          },
+          "category_short_name" : "manufact",
+          "category_html_name" : "manufacturing-software",
+          "category" : {
+            "id" : 30918,
+            "short_name" : "manufact",
+            "long_name" : "Manufacturing",
+            "html_name" : "manufacturing-software",
+            "enabled" : true
+          },
+          "best_category" : "manufact",
+          "is_best_category" : true,
+          "highest_cpc_category" : "manufact",
+          "is_highest_cpc_category" : true,
+          "short_desc" : "Genius Solutions is a complete manufacturing software for small to mid-sized custom, make-to-order and engineer-to-order manufacturers.",
+          "long_desc" : "Genius Solutions is a complete manufacturing software system including software, implementation services, and field expertise for small to mid-sized custom manufacturers. Genius ERP is built for manufacturers handling make-to-order, engineer-to-order, and custom-to-order manufacturing. Gain complete oversight and simplify complex manufacturing with accurate estimating, product engineering, inventory control, production planning, scheduling, account management, and field services.",
+          "rating" : 4.2,
+          "number_of_reviews" : 76,
+          "total_reviews" : 79,
+          "ease_of_use_rating" : 4.1,
+          "customer_support_rating" : 4.1,
+          "functionality_rating" : 4.2,
+          "value_for_money_rating" : 4.2,
+          "recommendation_rating" : 8.0,
+          "pricing_enabled" : false,
+          "pricing" : null,
+          "is_per_user" : true,
+          "fee_schedule" : "Per-Year",
+          "pricing_model" : "Per User",
+          "pricing_details" : null,
+          "pricing_created_on" : "2019-08-21T14:47:39Z",
+          "pricing_modified_on" : "2022-04-11T20:39:17Z",
+          "pricing_created_by" : null,
+          "pricing_modified_by" : null,
+          "pricing_vendor_pricing_url" : null,
+          "free_trial" : false,
+          "free_version" : false,
+          "target_audience" : "Custom Machinery & Equipment Manufacturers\nPV, Tank & Process Equipment Manufacturers\nTransportation Equipment Manufacturers \nMold, Tool & Die Manufacturers\nMetal Fabrication and Jobshop\n\n",
+          "target_users" : [
+            "2-10",
+            "11-50",
+            "51-200"
+          ],
+          "platform" : [
+            {
+              "enabled" : true,
+              "name" : "Cloud, SaaS, Web-Based"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Mac"
+            },
+            {
+              "enabled" : true,
+              "name" : "Desktop Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Linux"
+            },
+            {
+              "enabled" : true,
+              "name" : "On-Premise Windows"
+            },
+            {
+              "enabled" : true,
+              "name" : "On-Premise Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Chromebook"
+            },
+            {
+              "enabled" : false,
+              "name" : "Mobile Android"
+            },
+            {
+              "enabled" : false,
+              "name" : "Mobile iPhone"
+            },
+            {
+              "enabled" : false,
+              "name" : "Mobile iPad"
+            }
+          ],
+          "support" : [
+            {
+              "enabled" : true,
+              "name" : "Email Help Desk"
+            },
+            {
+              "enabled" : true,
+              "name" : "FAQ Forum"
+            },
+            {
+              "enabled" : true,
+              "name" : "Knowledgebase"
+            },
+            {
+              "enabled" : true,
+              "name" : "Phone Support"
+            },
+            {
+              "enabled" : false,
+              "name" : "24/7 Live Rep"
+            },
+            {
+              "enabled" : true,
+              "name" : "Chat"
+            }
+          ],
+          "training" : [
+            {
+              "enabled" : false,
+              "name" : "Not Offered"
+            },
+            {
+              "enabled" : true,
+              "name" : "In-Person"
+            },
+            {
+              "enabled" : true,
+              "name" : "Live Online"
+            },
+            {
+              "enabled" : true,
+              "name" : "Webinars"
+            },
+            {
+              "enabled" : true,
+              "name" : "Documentation"
+            },
+            {
+              "enabled" : true,
+              "name" : "Videos"
+            }
+          ],
+          "media" : [
+            {
+              "product_id" : 105244,
+              "vendor_id" : 2070055,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/335625a2-038f-4d21-bbfb-30d4f85fa706.png",
+              "caption" : "Save on engineering time with Genius CAD2BOM. With a push of a button, turn a Solidworks or Inventor model into a fully itemized, complex Bill of Materials?no matter the number of assembly levels?ready for procurement, planning, pricing, and production.",
+              "weight" : 1,
+              "short_name" : "manufact"
+            },
+            {
+              "product_id" : 105244,
+              "vendor_id" : 2070055,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/cf3f73c6-7570-4a3f-bd03-bd43d034aa8b.png",
+              "caption" : "Get visibility of your entire business with a range of reports and analytics available at your fingertips?giving you oversight into every aspect of your operations. Harness the power of real-time data to make the best decisions for your company. ",
+              "weight" : 2,
+              "short_name" : "manufact"
+            },
+            {
+              "product_id" : 105244,
+              "vendor_id" : 2070055,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/db681e79-9e65-44a3-a1f7-807cc0c4d269.png",
+              "caption" : "Accurately know your inventory levels every second of the day. Track all of your inventory needs?including on mobile devices?to control your costs and replenish stock based on actual on-the-job demand with one simplified and fully integrated system.",
+              "weight" : 3,
+              "short_name" : "manufact"
+            },
+            {
+              "product_id" : 105244,
+              "vendor_id" : 2070055,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/4dd8fce4-831e-4003-9a6f-0a0047ae9537.jpeg",
+              "caption" : "Use Genius ERP to manage every job in your shop, and balance shifting priorities, to maximize your throughput. Real-time data tracks job progress, identifies production bottlenecks, measures system performance, and tracks costs for each job in your shop.",
+              "weight" : 4,
+              "short_name" : "manufact"
+            },
+            {
+              "product_id" : 105244,
+              "vendor_id" : 2070055,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/aa0d6374-ffde-4d69-809a-eaab49d950a5.png",
+              "caption" : "Genius ERP has two scheduling systems?traditional plus the only DBR scheduling system available within an ERP. Choose the right solution to schedule your shop with precision, and ensure jobs are always completed on time and within budget.",
+              "weight" : 5,
+              "short_name" : "manufact"
+            },
+            {
+              "product_id" : 105244,
+              "vendor_id" : 2070055,
+              "media_type" : "VIDEO",
+              "path_url" : "https://www.youtube.com/watch?v=PewKbJ1hE70&t=4s",
+              "caption" : null,
+              "weight" : 0,
+              "short_name" : "manufact"
+            }
+          ],
+          "links" : [
+            {
+              "product_id" : 105244,
+              "functional_group" : "manufact",
+              "html_code" : "https://www.geniuserp.com/features",
+              "link_name" : "Free Demo",
+              "link_priority" : 2.0
+            },
+            {
+              "product_id" : 105244,
+              "functional_group" : "manufact",
+              "html_code" : "https://www.geniuserp.com/genius-insights",
+              "link_name" : "Genius Insights",
+              "link_priority" : 4.0
+            },
+            {
+              "product_id" : 105244,
+              "functional_group" : "manufact",
+              "html_code" : "https://www.geniuserp.com/webinars-list",
+              "link_name" : "Genius Demo Webinars",
+              "link_priority" : 5.0
+            }
+          ],
+          "features" : [
+            {
+              "category_name" : "Manufacturing",
+              "category_features" : [
+                {
+                  "name" : "Accounting Integration",
+                  "value" : true,
+                  "id" : "e5b123de-985a-4bfe-9c73-ad26e5cdc6d3",
+                  "avg_rating" : 4.5,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 1.75,
+                  "cnt_importance" : 4,
+                  "cnt_time_used" : 4,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 4,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Integrate with a third party accounting system"
+                },
+                {
+                  "name" : "ERP",
+                  "value" : true,
+                  "id" : "8b680380-d44e-4aa7-a148-a010bc18d2a4",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Enterprise resource planning systems for manufacturers to integrate multiple parts of the supply chain"
+                },
+                {
+                  "name" : "MES",
+                  "value" : true,
+                  "id" : "cc610b1b-6607-479e-bd2a-db1ed9be5ef5",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Manufacturing execution systems focus on quality control in the production process."
+                },
+                {
+                  "name" : "Maintenance Management",
+                  "value" : false,
+                  "id" : "73ed8cb7-a67f-4a46-8acb-4fd73409c5e8",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Assess and plan maintenance operations and updates to ensure longevity of physical assets"
+                },
+                {
+                  "name" : "Material Requirements Planning",
+                  "value" : true,
+                  "id" : "8bf14b8c-a2bb-4002-8733-3d3f9e1e6a85",
+                  "avg_rating" : 4.8,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 2.33,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.333,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Material requirements planning software manages the scheduling and inventory control for manufacturers."
+                },
+                {
+                  "name" : "Purchase Order Management",
+                  "value" : true,
+                  "id" : "a9f6bc9b-faba-4d7a-95c4-d72a86ef6937",
+                  "avg_rating" : 4.6,
+                  "cnt_rating" : 12,
+                  "avg_importance" : 2.25,
+                  "cnt_importance" : 12,
+                  "cnt_time_used" : 12,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 12,
+                  "pct_time_critical" : 0.333,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Create, send, and track purchase orders and their statuses"
+                },
+                {
+                  "name" : "Quality Management",
+                  "value" : true,
+                  "id" : "de6610d2-7599-47d5-865e-ee0a7d45e210",
+                  "avg_rating" : 3.2,
+                  "cnt_rating" : 5,
+                  "avg_importance" : 2.25,
+                  "cnt_importance" : 4,
+                  "cnt_time_used" : 5,
+                  "pct_time_used" : 0.8,
+                  "cnt_time_critical" : 5,
+                  "pct_time_critical" : 0.2,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Focuses on improving production processes by collecting data and spotting bottlenecks or other challenges."
+                },
+                {
+                  "name" : "Quotes/Estimates",
+                  "value" : true,
+                  "id" : "96125292-fba0-4c4b-b429-6afba9eccf8c",
+                  "avg_rating" : 3.8,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 4,
+                  "cnt_time_used" : 4,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 4,
+                  "pct_time_critical" : 0.25,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Generate quotes and estimates forms to send to customers"
+                },
+                {
+                  "name" : "Reporting/Analytics",
+                  "value" : true,
+                  "id" : "b0c186d0-0194-4300-abba-ca3bc2474bbe",
+                  "avg_rating" : 4.1,
+                  "cnt_rating" : 19,
+                  "avg_importance" : 2.41,
+                  "cnt_importance" : 17,
+                  "cnt_time_used" : 17,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 17,
+                  "pct_time_critical" : 0.412,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "View and track pertinent metrics"
+                },
+                {
+                  "name" : "Safety Management",
+                  "value" : false,
+                  "id" : "f1de59b2-d6bd-418e-8a6c-a3925f67591d",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Tracks important safety documents, performance metrics and helps to prove compliance"
+                },
+                {
+                  "name" : "Shipping Management",
+                  "value" : true,
+                  "id" : "fb1c8d2b-071c-4181-8188-48ff121fb41a",
+                  "avg_rating" : 3.7,
+                  "cnt_rating" : 6,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 4,
+                  "cnt_time_used" : 4,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 4,
+                  "pct_time_critical" : 0.25,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Organize and track orders being sent and delivered to customers"
+                }
+              ]
+            },
+            {
+              "category_name" : "Enterprise Resource Planning",
+              "category_features" : [
+                {
+                  "name" : "CRM",
+                  "value" : true,
+                  "id" : "cdf8cb63-9596-4430-bcbb-92162fc532bf",
+                  "avg_rating" : 3.3,
+                  "cnt_rating" : 7,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 6,
+                  "cnt_time_used" : 10,
+                  "pct_time_used" : 0.6,
+                  "cnt_time_critical" : 10,
+                  "pct_time_critical" : 0.2,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Contact and lead management to track interactions and notes about clients and prospects"
+                },
+                {
+                  "name" : "Distribution Management",
+                  "value" : false,
+                  "id" : "4f2aaba7-0d9c-4925-89f5-08fbb233e4d6",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Financial management for all distribution-related activities, including inventory, warehouse, purchasing, sales, etc."
+                },
+                {
+                  "name" : "Enterprise Asset Management",
+                  "value" : false,
+                  "id" : "f73b82e9-e690-4fdf-90db-6f6394a5e46c",
+                  "avg_rating" : 4.2,
+                  "cnt_rating" : 6,
+                  "avg_importance" : 2.4,
+                  "cnt_importance" : 5,
+                  "cnt_time_used" : 7,
+                  "pct_time_used" : 0.714,
+                  "cnt_time_critical" : 7,
+                  "pct_time_critical" : 0.286,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Helps users manage the maintenance of assets; offers reporting to identify areas for improvement."
+                },
+                {
+                  "name" : "Financial Management",
+                  "value" : true,
+                  "id" : "fc815203-a56a-487e-bf87-85a63b7216d4",
+                  "avg_rating" : 3.6,
+                  "cnt_rating" : 14,
+                  "avg_importance" : 2.18,
+                  "cnt_importance" : 11,
+                  "cnt_time_used" : 12,
+                  "pct_time_used" : 0.917,
+                  "cnt_time_critical" : 12,
+                  "pct_time_critical" : 0.25,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Provide a comprehensive overview of organization's finances"
+                },
+                {
+                  "name" : "HR Management",
+                  "value" : false,
+                  "id" : "1973f211-a22c-41f4-9854-fa87420e9536",
+                  "avg_rating" : 3.8,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 1.75,
+                  "cnt_importance" : 4,
+                  "cnt_time_used" : 5,
+                  "pct_time_used" : 0.8,
+                  "cnt_time_critical" : 5,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Automates core HR functions as well as strategic HR activities such as talent management, employee evaluation and learning management."
+                },
+                {
+                  "name" : "Integrated Business Operations",
+                  "value" : true,
+                  "id" : "7c7dd2b7-c5c4-4d4d-9b31-7164c2d728a8",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : "Integrated suite of industry-specific operations management applications (Supply Chain, HR, Project Management, Manufacturing, etc.)"
+                },
+                {
+                  "name" : "Inventory Management",
+                  "value" : true,
+                  "id" : "80f46038-6ae8-4725-8064-788b20380eeb",
+                  "avg_rating" : 4.4,
+                  "cnt_rating" : 18,
+                  "avg_importance" : 2.67,
+                  "cnt_importance" : 18,
+                  "cnt_time_used" : 18,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 18,
+                  "pct_time_critical" : 0.667,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track and manage the quantity of resources on hand to maintain proper supply"
+                },
+                {
+                  "name" : "Manufacturing Planning",
+                  "value" : true,
+                  "id" : "1df8ac8b-bb9e-43ef-a866-031e13e2fe0f",
+                  "avg_rating" : 4.2,
+                  "cnt_rating" : 13,
+                  "avg_importance" : 2.58,
+                  "cnt_importance" : 12,
+                  "cnt_time_used" : 12,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 12,
+                  "pct_time_critical" : 0.583,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Supports the effective planning of manufacturing production based on materials, labor, and machinery."
+                },
+                {
+                  "name" : "Order Management",
+                  "value" : true,
+                  "id" : "3cca1a0a-36cc-4cfa-b90c-706cfd9542b6",
+                  "avg_rating" : 4.6,
+                  "cnt_rating" : 7,
+                  "avg_importance" : 2.25,
+                  "cnt_importance" : 8,
+                  "cnt_time_used" : 8,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 8,
+                  "pct_time_critical" : 0.25,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Organize, track, monitor and execute customer orders for goods, investments, or any other purcahses"
+                },
+                {
+                  "name" : "Project Management",
+                  "value" : true,
+                  "id" : "394feaf8-a547-4e78-a56b-fa8161c4405a",
+                  "avg_rating" : 3.8,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 4,
+                  "pct_time_used" : 0.75,
+                  "cnt_time_critical" : 4,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Plan and coordinate all the resources, costs and time needed to execute assignments"
+                },
+                {
+                  "name" : "Purchase Order Management",
+                  "value" : true,
+                  "id" : "a9f6bc9b-faba-4d7a-95c4-d72a86ef6937",
+                  "avg_rating" : 4.6,
+                  "cnt_rating" : 12,
+                  "avg_importance" : 2.25,
+                  "cnt_importance" : 12,
+                  "cnt_time_used" : 12,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 12,
+                  "pct_time_critical" : 0.333,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Create, send, and track purchase orders and their statuses"
+                },
+                {
+                  "name" : "Reporting/Analytics",
+                  "value" : true,
+                  "id" : "b0c186d0-0194-4300-abba-ca3bc2474bbe",
+                  "avg_rating" : 4.1,
+                  "cnt_rating" : 19,
+                  "avg_importance" : 2.41,
+                  "cnt_importance" : 17,
+                  "cnt_time_used" : 17,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 17,
+                  "pct_time_critical" : 0.412,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "View and track pertinent metrics"
+                },
+                {
+                  "name" : "Supply Chain Management",
+                  "value" : true,
+                  "id" : "a0d7d90c-2a71-423a-b2a5-2bfdcb91a8ff",
+                  "avg_rating" : 4.3,
+                  "cnt_rating" : 10,
+                  "avg_importance" : 2.36,
+                  "cnt_importance" : 11,
+                  "cnt_time_used" : 11,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 11,
+                  "pct_time_critical" : 0.455,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Supports the planning and execution of supply chain transactions to  from raw materials procurement to production and delivery."
+                },
+                {
+                  "name" : "Warehouse Management",
+                  "value" : true,
+                  "id" : "7753b90c-778c-4e25-8322-71085d53c9de",
+                  "avg_rating" : 4.4,
+                  "cnt_rating" : 9,
+                  "avg_importance" : 2.33,
+                  "cnt_importance" : 9,
+                  "cnt_time_used" : 10,
+                  "pct_time_used" : 0.9,
+                  "cnt_time_critical" : 10,
+                  "pct_time_critical" : 0.3,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Software specialized for managing warehouses and tracking where inventory is located within the warehouses"
+                }
+              ]
+            },
+            {
+              "category_name" : "MRP",
+              "category_features" : [
+                {
+                  "name" : "Bills of Material",
+                  "value" : true,
+                  "id" : "b7186da0-ff2c-4a18-97e2-6e6088d820aa",
+                  "avg_rating" : 4.2,
+                  "cnt_rating" : 9,
+                  "avg_importance" : 2.57,
+                  "cnt_importance" : 7,
+                  "cnt_time_used" : 7,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 7,
+                  "pct_time_critical" : 0.571,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Access to a library of manufacturing parts, models, and specs"
+                },
+                {
+                  "name" : "Document Management",
+                  "value" : true,
+                  "id" : "a55b34ad-b6ec-4072-b3bd-a7151f7843de",
+                  "avg_rating" : 4.3,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.333,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Collect, upload, store, and share all documents in a centralized location making it easier for everyone involved to access information "
+                },
+                {
+                  "name" : "Inventory Management",
+                  "value" : true,
+                  "id" : "80f46038-6ae8-4725-8064-788b20380eeb",
+                  "avg_rating" : 4.4,
+                  "cnt_rating" : 18,
+                  "avg_importance" : 2.67,
+                  "cnt_importance" : 18,
+                  "cnt_time_used" : 18,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 18,
+                  "pct_time_critical" : 0.667,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Track and manage the quantity of resources on hand to maintain proper supply"
+                },
+                {
+                  "name" : "Order Management",
+                  "value" : true,
+                  "id" : "3cca1a0a-36cc-4cfa-b90c-706cfd9542b6",
+                  "avg_rating" : 4.6,
+                  "cnt_rating" : 7,
+                  "avg_importance" : 2.25,
+                  "cnt_importance" : 8,
+                  "cnt_time_used" : 8,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 8,
+                  "pct_time_critical" : 0.25,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : "Organize, track, monitor and execute customer orders for goods, investments, or any other purcahses"
+                },
+                {
+                  "name" : "Production Scheduling",
+                  "value" : true,
+                  "id" : "0415ea3a-f8a9-43d2-bc2d-9d93172a6e4a",
+                  "avg_rating" : 3.7,
+                  "cnt_rating" : 7,
+                  "avg_importance" : 2.6,
+                  "cnt_importance" : 5,
+                  "cnt_time_used" : 7,
+                  "pct_time_used" : 0.714,
+                  "cnt_time_critical" : 7,
+                  "pct_time_critical" : 0.571,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Assigns jobs to specific machinery, factoring in available capacity, current work load, etc."
+                },
+                {
+                  "name" : "Quality Management",
+                  "value" : true,
+                  "id" : "de6610d2-7599-47d5-865e-ee0a7d45e210",
+                  "avg_rating" : 3.2,
+                  "cnt_rating" : 5,
+                  "avg_importance" : 2.25,
+                  "cnt_importance" : 4,
+                  "cnt_time_used" : 5,
+                  "pct_time_used" : 0.8,
+                  "cnt_time_critical" : 5,
+                  "pct_time_critical" : 0.2,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Focuses on improving production processes by collecting data and spotting bottlenecks or other challenges."
+                },
+                {
+                  "name" : "Quotes/Estimates",
+                  "value" : true,
+                  "id" : "96125292-fba0-4c4b-b429-6afba9eccf8c",
+                  "avg_rating" : 3.8,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 4,
+                  "cnt_time_used" : 4,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 4,
+                  "pct_time_critical" : 0.25,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Create and manage quotes within the system"
+                },
+                {
+                  "name" : "Reporting/Analytics",
+                  "value" : true,
+                  "id" : "b0c186d0-0194-4300-abba-ca3bc2474bbe",
+                  "avg_rating" : 4.1,
+                  "cnt_rating" : 19,
+                  "avg_importance" : 2.41,
+                  "cnt_importance" : 17,
+                  "cnt_time_used" : 17,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 17,
+                  "pct_time_critical" : 0.412,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : "View and track pertinent metrics"
+                },
+                {
+                  "name" : "Safety Management",
+                  "value" : false,
+                  "id" : "f1de59b2-d6bd-418e-8a6c-a3925f67591d",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Tracks important safety documents, performance metrics and helps to prove compliance."
+                },
+                {
+                  "name" : "Supplier Management",
+                  "value" : true,
+                  "id" : "aa61511b-b73d-4fbb-a5f4-0ea85d124fcb",
+                  "avg_rating" : 4.3,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Manage various aspects of the relationship with suppliers (e.g. interactions, history)"
+                },
+                {
+                  "name" : "Supply Chain Management",
+                  "value" : true,
+                  "id" : "a0d7d90c-2a71-423a-b2a5-2bfdcb91a8ff",
+                  "avg_rating" : 4.3,
+                  "cnt_rating" : 10,
+                  "avg_importance" : 2.36,
+                  "cnt_importance" : 11,
+                  "cnt_time_used" : 11,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 11,
+                  "pct_time_critical" : 0.455,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Supports the planning and execution of supply chain transactions to  from raw materials procurement to production and delivery."
+                }
+              ]
+            }
+          ],
+          "infographics" : [
+            {
+              "product_id" : 105244,
+              "html_name" : "mrp-software",
+              "infographic_type" : "general_t20",
+              "infographic_title" : null
+            },
+            {
+              "product_id" : 105244,
+              "html_name" : "production-scheduling-software",
+              "infographic_type" : "general_t20",
+              "infographic_title" : null
+            }
+          ],
+          "related_products" : [
+            {
+              "product_id" : 226233,
+              "seo_product_id" : 589,
+              "seo_slug" : "Salesforce",
+              "vendor_name" : "Salesforce",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/f11ea590-5812-4ce0-a108-3837d065513d.png",
+              "rating" : 4.4,
+              "total_reviews" : 17167,
+              "slug" : "Salesforce-Sales-Cloud",
+              "product_name" : "Salesforce Sales Cloud",
+              "short_desc" : "Salesforce's manufacturing solutions are transforming the way manufacturers engage across sales, service, marketing, operations, and IT",
+              "features" : "What if you could make sales, service, and marketing as systematic as your physical production? Sales Cloud empowers manufacturers to give their reps instant access to customer, transaction, and order data coupled with power productivity tools like automated workflows for configuration, pricing, and approvals. Reps thus spend more time helping customers to shop for, buy, install, and use their products rather than on data entry and clerical work.",
+              "url" : "https://www.salesforce.com/products/sales-cloud/overview/"
+            },
+            {
+              "product_id" : 265024,
+              "seo_product_id" : 80152,
+              "seo_slug" : "AutoCAD",
+              "vendor_name" : "Autodesk",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/27a50d30-49b3-4fb0-902d-34d05a775b15.png",
+              "rating" : 4.6,
+              "total_reviews" : 2600,
+              "slug" : "AutoCAD",
+              "product_name" : "AutoCAD",
+              "short_desc" : "2D and 3D CAD software with design automation and industry-specific toolsets, plus web and mobile apps.\n",
+              "features" : "CAD software used for precise 2D and 3D drafting, design, and modeling with solids, surfaces, mesh objects, documentation features, and more. It includes features to automate tasks and increase productivity such as comparing drawings, counting, adding objects, and creating tables. It also comes with seven industry-specific toolsets for electrical design, plant design, architecture layout drawings, mechanical design, 3D mapping, adding scanned images, and converting raster images. ",
+              "url" : "https://www.autodesk.com/campaigns/autocad-product-sales?mktvar002=5304251016&utm_medium=mngd-referral&utm_source=adsk-micro&utm_campaign=5304251acadamerautocad-familynameracadcapterra-review&utm_id=5304251016"
+            },
+            {
+              "product_id" : 145635,
+              "seo_product_id" : 152541,
+              "seo_slug" : "UpKeep",
+              "vendor_name" : "UpKeep Technologies",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4e7b9786-fe6c-40d1-a26c-a304326fa220.png",
+              "rating" : 4.6,
+              "total_reviews" : 1234,
+              "slug" : "UpKeep",
+              "product_name" : "UpKeep",
+              "short_desc" : "UpKeep is rated the #1 mobile-first Manufacturing Software to streamline work orders, facility, and asset management. ",
+              "features" : "UpKeep's is a modern manufacturing software solution for your team's maintenance and asset management. From your desktop to your phone and even your tablet, UpKeep is easily accessible from anywhere at any time. Create work orders on-the-go, get notifications when tasks are updated, and receive alerts straight from your app when assets go down making your business run more efficiently than ever before.",
+              "url" : "https://www.upkeep.com/asset-management-software?utm_medium=ppc&utm_term=manufacturing"
+            },
+            {
+              "product_id" : 219273,
+              "seo_product_id" : 1425,
+              "seo_slug" : "JobBOSS",
+              "vendor_name" : "ECI Software Solutions",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/6f948125-3967-4960-86a2-809fc53e2513.jpeg",
+              "rating" : 4.2,
+              "total_reviews" : 856,
+              "slug" : "JobBOSS",
+              "product_name" : "JobBOSS?",
+              "short_desc" : "We help job shops and manufacturers of all kinds work smarter for improved efficiencies, greater flexibility, and bigger profits.",
+              "features" : "ECI Shoptech brings together industry-leading solutions E2 SHOP and JobBOSS to create the next evolution in job shop business management: JobBOSS?. Designed for job shops and make-to-order manufacturers, JobBOSS? provides the flexibility manufacturers need to maximize productivity and profits, while scaling effectively. JobBOSS? gives you insight and visibility into your shop floor like never before with quick estimates and quotes, real-time data collection, flexible scheduling, and much more!",
+              "url" : "https://www.ecisolutions.com/ppc-landing/jobboss2-sa/?utm_source=Capterra&utm_medium=ppc&utm_campaign=Capterra-E2-Shop-Demo-Request"
+            },
+            {
+              "product_id" : 135757,
+              "seo_product_id" : 212456,
+              "seo_slug" : "NetSuite",
+              "vendor_name" : "Oracle",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/70a405ae-214e-4735-8e1f-ce093f53f337.png",
+              "rating" : 4.1,
+              "total_reviews" : 856,
+              "slug" : "NetSuite",
+              "product_name" : "NetSuite",
+              "short_desc" : "Take control of the manufacturing process, from suppliers and raw materials to customers and finished goods with NetSuite.\n",
+              "features" : "NetSuite's unified platform provides end-to-end visibility to maximize manufacturing operations. Manage vendor relationships and automate purchases. Demand and supply planning helps predict future inventory needs, based on historical demand, seasonality, and sales forecasts, and determine how to best execute on those plans. Capacity and production planning optimizes production and schedules machine resources efficiently. Manage inventory with complete visibility across the product life cycle.\n",
+              "url" : "https://6262239.extforms.netsuite.com/app/site/crm/externalleadpage.nl/compid.6262239/.f?formid=1080&h=AAFdikaIwNNx37P6V2JWaS_s29paEflvUXtGFHW2US78bN9zFZ4&leadsource=Online_Capterra_MFG_2023&cid=Online_Capterra_MFG_2023"
+            },
+            {
+              "product_id" : 221060,
+              "seo_product_id" : 212456,
+              "seo_slug" : "NetSuite",
+              "vendor_name" : "Oracle",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/70a405ae-214e-4735-8e1f-ce093f53f337.png",
+              "rating" : 4.1,
+              "total_reviews" : 856,
+              "slug" : "NetSuite",
+              "product_name" : "NetSuite",
+              "short_desc" : "Take control of the manufacturing process, from suppliers and raw materials to customers and finished goods with NetSuite.\n",
+              "features" : "NetSuite's unified platform provides end-to-end visibility to maximize manufacturing operations. Manage vendor relationships and automate purchases. Demand and supply planning helps predict future inventory needs, based on historical demand, seasonality, and sales forecasts, and determine how to best execute on those plans. Capacity and production planning optimizes production and schedules machine resources efficiently. Manage inventory with complete visibility across the product life cycle.\n",
+              "url" : "http://www.netsuite.com/portal/landing/netsuite-compare-page-capterra.html"
+            },
+            {
+              "product_id" : 123794,
+              "seo_product_id" : 57990,
+              "seo_slug" : "Fishbowl",
+              "vendor_name" : "Fishbowl",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4ccaccf1-0e36-45c8-9ccb-4df1733bd616.png",
+              "rating" : 4.2,
+              "total_reviews" : 769,
+              "slug" : "Fishbowl",
+              "product_name" : "Fishbowl",
+              "short_desc" : "Everything you need for complete manufacturing, inventory management and order control. ",
+              "features" : "Gain the competitive advantage and accelerate your growth with Fishbowl. Our complete manufacturing, inventory and warehouse management solution is industry-leading for inventory accuracy and increased visibility into your business, allowing you to reduce costs and maximize profits. Count on us for leading edge technology with customer service excellence to elevate your organization.",
+              "url" : "https://try.fishbowlinventory.com/capterra-manufacturing?utm_source=capterra&utm_medium=cpc&utm_campaign=Manufacturing"
+            },
+            {
+              "product_id" : 78431,
+              "seo_product_id" : 226534,
+              "seo_slug" : "inFlow-Inventory",
+              "vendor_name" : "Archon Systems",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e1047f24-4669-4b7e-8207-13378158e9f8.png",
+              "rating" : 4.6,
+              "total_reviews" : 438,
+              "slug" : "inFlow-Inventory",
+              "product_name" : "inFlow Inventory",
+              "short_desc" : "Powerful manufacturing software used in 90+ countries worldwide. Manage components and BOMs, and track costs automatically.",
+              "features" : "Measure once and build once with great manufacturing software.\r\ninFlow helps you track components and costs on every assembly. as well as create custom builds.\r\n\r\nAnd because inFlow is also full-fledged inventory software, you can easily track stock, manage orders and invoices, and generate new POs to keep business moving. \r\n\r\nWorld-class support available via live chat, email, and phone. \r\n\r\nClick Visit Website to get your 14 day free trial now.",
+              "url" : "https://www.inflowinventory.com/capterra?utm_source=capterra&utm_medium=paid&utm_campaign=capterra%20manufacturing"
+            },
+            {
+              "product_id" : 164681,
+              "seo_product_id" : 223941,
+              "seo_slug" : "Onshape",
+              "vendor_name" : "Onshape",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/ac315232-594c-4f61-94eb-0683f853e92c.png",
+              "rating" : 4.5,
+              "total_reviews" : 297,
+              "slug" : "Onshape",
+              "product_name" : "Onshape",
+              "short_desc" : "Onshape is the only product development platform that unites CAD, data management, collaboration tools and real-time analytics.",
+              "features" : "Onshape is a next-generation SaaS design platform that speeds up product development. Its an all-in-one system that combines CAD, release management, workflow, collaboration, analytics, admin tools, and an API with more than 50 engineering applications. Onshape helps extended design teams work together faster and helps executives make better business decisions with real-time analytics and unprecedented visibility into their companys design and manufacturing processes.",
+              "url" : "https://www.onshape.com/lp/3d-cad-free-trial-ad?utm_campaign=2017Q3-Trial-PPCCapterra&utm_medium=paidreview&content_download_source=capterra-paidreview"
+            },
+            {
+              "product_id" : 133038,
+              "seo_product_id" : 221127,
+              "seo_slug" : "DEAR-Systems",
+              "vendor_name" : "DEAR Systems",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/0cc771b5-698c-4197-889d-7a599a92e427.png",
+              "rating" : 4.3,
+              "total_reviews" : 289,
+              "slug" : "DEAR-Inventory",
+              "product_name" : "DEAR Systems",
+              "short_desc" : "Manufacturing inventory management at prices SMBs can afford. Define production processes, trace components, and more. ",
+              "features" : "DEAR brings powerful inventory management with manufacturing features at prices small to medium businesses can afford. Manage stock levels of raw materials, components, and finished products. Define complex production processes and schedules around resource capacity. Trace components through each stage of manufacture, essential for food and drink production. Automatically generate accurate accounting transactions for every stage of purchase, manufacture, and sale. ",
+              "url" : "https://dearsystems.com/manufacturing-industry/?utm_campaign=Capterra&utm_source=ppc&utm_term=free-trial"
+            },
+            {
+              "product_id" : 103908,
+              "seo_product_id" : 27414,
+              "seo_slug" : "IQMS-Accounting",
+              "vendor_name" : "Dassault Systemes",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/328c9461-b2da-4640-862a-ed58ea191cec.png",
+              "rating" : 4.1,
+              "total_reviews" : 286,
+              "slug" : "IQMS-ERP-Software",
+              "product_name" : "DELMIAworks",
+              "short_desc" : "Reliable, real-time extended ERP software with lean and agile functionality developed especially for mid-market manufacturing companies",
+              "features" : "DELMIAworks (formerly IQMS) ERP software provides discrete and process manufacturers with a single solution to manage and monitor the entire manufacturing process. The comprehensive solution allows for a modular and scalable approach while eliminating data silos. DELMIAworks increases cross department visibility and efficiently with a complete real-time manufacturing, accounting, and supply chain system that includes Quality, EDI, WMS, MRP, production/process monitoring and more.",
+              "url" : "https://erp.iqms.com/iqms-delmiaworks-gdm-lp/?utm_medium=PPC&utm_term=Manufacturing"
+            }
+          ],
+          "similar_products" : [
+            {
+              "product_id" : 153796,
+              "seo_product_id" : 221644,
+              "seo_slug" : "Prodsmart",
+              "vendor_name" : "Prodsmart",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/519f7dcc-1927-41e5-9880-3838c272fb64.png",
+              "rating" : 4.7,
+              "total_reviews" : 73,
+              "slug" : "Prodsmart",
+              "product_name" : "Prodsmart",
+              "short_desc" : "Manage your production floor with Autodesk Prodsmart. Eliminate unnecessary costs, and speed up time to market.",
+              "features" : "Autodesk Prodsmart is a Manufacturing Execution System for all levels of production, giving you the solution you need for keeping on top of production. Gain insights to predict machine downtime, track production progress, identify bottlenecks and eliminate waste through a fully digital and automated operations tool. Track orders and shipping, schedule and manage your production, all with real-time production visibility from any device. ",
+              "url" : "https://prodsmart.com/"
+            },
+            {
+              "product_id" : 123794,
+              "seo_product_id" : 57990,
+              "seo_slug" : "Fishbowl",
+              "vendor_name" : "Fishbowl",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4ccaccf1-0e36-45c8-9ccb-4df1733bd616.png",
+              "rating" : 4.2,
+              "total_reviews" : 769,
+              "slug" : "Fishbowl",
+              "product_name" : "Fishbowl",
+              "short_desc" : "Everything you need for complete manufacturing, inventory management and order control. ",
+              "features" : "Gain the competitive advantage and accelerate your growth with Fishbowl. Our complete manufacturing, inventory and warehouse management solution is industry-leading for inventory accuracy and increased visibility into your business, allowing you to reduce costs and maximize profits. Count on us for leading edge technology with customer service excellence to elevate your organization.",
+              "url" : "https://try.fishbowlinventory.com/freetrialprogressiveform-capterra/?utm_source=capterra&utm_medium=cpc&utm_campaign=Default"
+            },
+            {
+              "product_id" : 172888,
+              "seo_product_id" : 224107,
+              "seo_slug" : "Katana",
+              "vendor_name" : "Katana Technologies",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/c9fd2994-0b1c-4f83-9fd8-09ce5c7bd958.png",
+              "rating" : 4.7,
+              "total_reviews" : 138,
+              "slug" : "Katana-MRP",
+              "product_name" : "Katana Manufacturing ERP",
+              "short_desc" : "Manufacturing ERP software for total visibility. Manage all the moving parts of your business - inventory, sales, and beyond.",
+              "features" : "Katana is a manufacturing ERP that gives you a live look at your business. Features include live inventory and manufacturing management, batch tracking for end-to-end traceability, a Shop Floor App for total floor-level control, open API, and a growing channel partner network. Real-time master planning features automate resource allocation based on prioritized sales orders and integrations with e-commerce, accounting, CRM, and reporting services to centralize all key operations.",
+              "url" : "https://katanamrp.com/?utm_medium=listing&utm_campaign=software_review_sites&utm_content=main_link"
+            },
+            {
+              "product_id" : 6101,
+              "seo_product_id" : 6101,
+              "seo_slug" : "Arena-PLM",
+              "vendor_name" : "Arena, a PTC Business",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/21ac60aa-dc22-4c11-84b1-73fa83cd6934.png",
+              "rating" : 4.0,
+              "total_reviews" : 30,
+              "slug" : "Arena-PLM",
+              "product_name" : "Arena PLM",
+              "short_desc" : "Arena PLM is designed to help your dispersed teams and supply chain design, develop, and deliver high-quality products to market fast.",
+              "features" : "Arena PLM helps innovative electronic high tech and medical device companies keep their supply chain on the same page. Arena enables internal teams and supply chain partners to collaborate more effectively from early design through volume production. Business-ready integrations with ERP eliminate errors and streamline the transfer of your product information to speed product delivery. For more information, visit ArenaSolutions.com.",
+              "url" : "https://info.gartnerdigitalmarkets.com/arena-plm-gdm-lp"
+            },
+            {
+              "product_id" : 249803,
+              "seo_product_id" : 255334,
+              "seo_slug" : "Merit-for-Life-Science",
+              "vendor_name" : "Merit Solutions",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/c707c8b0-c762-4381-b3bf-31768b8b88f9.png",
+              "rating" : 0.0,
+              "total_reviews" : 0,
+              "slug" : "Merit-for-Life-Science",
+              "product_name" : "Merit for Life Science",
+              "short_desc" : "Merit for Life Science is a cloud-first D365 ERP solution intentionally tailored for biotech, pharma, and medical device organizations.",
+              "features" : "Merit for Life Science with Microsoft Dynamics 365 is a cloud-first ERP solution intentionally tailored\nfor fast-growing biotech, pharmaceutical, and medical device organizations.\n\nIt advances Dynamics 365 finance and operations functionality to help life science organizations drive increased process efficiencies, ready for and support rapid growth, and meet valuation expectations while maintaining FDA CFR 21 part 11, EMA Annex 11, and other country-specific regulatory compliance.",
+              "url" : "https://meritsolutions.com/merit-solutions-for-life-science/"
+            },
+            {
+              "product_id" : 148011,
+              "seo_product_id" : 216298,
+              "seo_slug" : "Mastercontrol",
+              "vendor_name" : "MasterControl",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e93a96a5-dd4e-42f4-8d33-a4b1bc491beb.png",
+              "rating" : 4.6,
+              "total_reviews" : 34,
+              "slug" : "MasterControl",
+              "product_name" : "MasterControl Manufacturing Excellence",
+              "short_desc" : "Our software delivers fully paperless & compliant production record functionality, reducing document creation, review, & approval times",
+              "features" : "MasterControl's Manufacturing Excellence solution delivers the next level of manufacturing efficiency by bridging the gap between performance and quality with digital production records that finally let you go 100% paperless. Manufacturing floors can't afford the production delays, documentation errors, and duplicated efforts that persist with paper-based or hybrid production records. Learn more how MasterControl can help you bridge the gap and go fully paperless.",
+              "url" : "https://www.mastercontrol.com/manufacturing/?utm_campaign=7013x0000023lU4AAI&utm_medium=Directory-Listing&utm_source=CA"
+            },
+            {
+              "product_id" : 135757,
+              "seo_product_id" : 212456,
+              "seo_slug" : "NetSuite",
+              "vendor_name" : "Oracle",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/70a405ae-214e-4735-8e1f-ce093f53f337.png",
+              "rating" : 4.1,
+              "total_reviews" : 856,
+              "slug" : "NetSuite",
+              "product_name" : "NetSuite",
+              "short_desc" : "Take control of the manufacturing process, from suppliers and raw materials to customers and finished goods with NetSuite.\n",
+              "features" : "NetSuite's unified platform provides end-to-end visibility to maximize manufacturing operations. Manage vendor relationships and automate purchases. Demand and supply planning helps predict future inventory needs, based on historical demand, seasonality, and sales forecasts, and determine how to best execute on those plans. Capacity and production planning optimizes production and schedules machine resources efficiently. Manage inventory with complete visibility across the product life cycle.\n",
+              "url" : "https://6262239.extforms.netsuite.com/app/site/crm/externalleadpage.nl?compid=6262239&formid=2332&h=AAFdikaISXcjhmkzuQ25OBfGrJSFmJ9yfiPm280zU3KRQSmNnCM&leadsource=Online_Capterra_NewLP_Accounting_2023&cid=Online_Capterra_NewLP_Accounting_2023"
+            },
+            {
+              "product_id" : 248916,
+              "seo_product_id" : 248916,
+              "seo_slug" : "MES-CAT",
+              "vendor_name" : "T.CON",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/03904dc9-be13-4338-8608-375d5c545fec.png",
+              "rating" : 0.0,
+              "total_reviews" : 0,
+              "slug" : "MES-CAT",
+              "product_name" : "MES CAT",
+              "short_desc" : "20+ companies rely on MES CAT, a scalable, fully SAP-based Manufacturing Execution System that integrates shop floor and ERP data.",
+              "features" : "20+ companies around the globe  already count on T.CON's MES CAT to ensure value creation in every step of their production. MES CAT is a scalable fully SAP-based Manufacturing Execution System that creates a digital link between planning and production levels and the ERP system. Users plan, manage and monitor production in real time, while the MES continuously collects information from all points in production. MES CAT is easy to use for employees and optimized to support their daily tasks. ",
+              "url" : "https://info.gartnerdigitalmarkets.com/tcon-international-gdm-lp"
+            },
+            {
+              "product_id" : 9586,
+              "seo_product_id" : 9586,
+              "seo_slug" : "Aegis-FactoryLogix-MES",
+              "vendor_name" : "Aegis Industrial Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e5cb184a-989b-4fe5-8d4f-fb7e473f851a.png",
+              "rating" : 4.8,
+              "total_reviews" : 15,
+              "slug" : "Aegis-FactoryLogix-MES",
+              "product_name" : "FactoryLogix MES",
+              "short_desc" : "FactoryLogix MES is a suite of modules and devices that adapt to and improve every aspect of your manufacturing operations.",
+              "features" : "Manufacturing Excellence Digitized. FactoryLogix, is a uniquely adaptive manufacturing execution and operations solution, driving enterprise-wide compliance, quality, and efficiency. Designed for today's assembly manufacturing reality, it connects business-critical systems, processes, and people---unleashing the transformative benefits of Industry 4.0.",
+              "url" : "https://info.aiscorp.com/factorylogix-capterra?utm_campaign=Capterra&utm_source=ppc&utm_medium=Capterra&utm_term=Default"
+            },
+            {
+              "product_id" : 144367,
+              "seo_product_id" : 154413,
+              "seo_slug" : "CloudDISPATCH",
+              "vendor_name" : "L2L",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/bc7ba16a-2433-4355-b1e7-b3b4bdf35688.png",
+              "rating" : 4.4,
+              "total_reviews" : 20,
+              "slug" : "CloudDISPATCH",
+              "product_name" : "L2L Smart Manufacturing Platform",
+              "short_desc" : "L2L is the smart manufacturing platform that drives continuous improvement for world-class performance.",
+              "features" : "L2L offers the only smart manufacturing platform that lets global manufacturers achieve world-class performance by driving continuous improvement across production and plant management. It has 4 modules that help manufacturers eliminate waste and maximize production throughput across their operations: CloudDISPATCH, for root-cause problem solving; L2L EAM/CMMS for asset and maintenance management; L2L Production, for production optimization; L2L Insights  for advanced analytics & planning.\n\n",
+              "url" : "http://www.L2L.com"
+            },
+            {
+              "product_id" : 219273,
+              "seo_product_id" : 1425,
+              "seo_slug" : "JobBOSS",
+              "vendor_name" : "ECI Software Solutions",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/6f948125-3967-4960-86a2-809fc53e2513.jpeg",
+              "rating" : 4.2,
+              "total_reviews" : 856,
+              "slug" : "JobBOSS",
+              "product_name" : "JobBOSS?",
+              "short_desc" : "We help job shops and manufacturers of all kinds work smarter for improved efficiencies, greater flexibility, and bigger profits.",
+              "features" : "ECI Shoptech brings together industry-leading solutions E2 SHOP and JobBOSS to create the next evolution in job shop business management: JobBOSS?. Designed for job shops and make-to-order manufacturers, JobBOSS? provides the flexibility manufacturers need to maximize productivity and profits, while scaling effectively. JobBOSS? gives you insight and visibility into your shop floor like never before with quick estimates and quotes, real-time data collection, flexible scheduling, and much more!",
+              "url" : "https://www.ecisolutions.com/ppc-landing/jobboss2-sa/?utm_source=Capterra&utm_medium=ppc&utm_campaign=Capterra-E2-Shop-Demo-Request"
+            },
+            {
+              "product_id" : 103908,
+              "seo_product_id" : 27414,
+              "seo_slug" : "IQMS-Accounting",
+              "vendor_name" : "Dassault Systemes",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/328c9461-b2da-4640-862a-ed58ea191cec.png",
+              "rating" : 4.1,
+              "total_reviews" : 286,
+              "slug" : "IQMS-ERP-Software",
+              "product_name" : "DELMIAworks",
+              "short_desc" : "Reliable, real-time extended ERP software with lean and agile functionality developed especially for mid-market manufacturing companies",
+              "features" : "DELMIAworks (formerly IQMS) ERP software provides discrete and process manufacturers with a single solution to manage and monitor the entire manufacturing process. The comprehensive solution allows for a modular and scalable approach while eliminating data silos. DELMIAworks increases cross department visibility and efficiently with a complete real-time manufacturing, accounting, and supply chain system that includes Quality, EDI, WMS, MRP, production/process monitoring and more.",
+              "url" : "https://erp.iqms.com/iqms-delmiaworks-gdm-lp/?utm_medium=PPC&utm_term=ERP"
+            },
+            {
+              "product_id" : 178763,
+              "seo_product_id" : 225743,
+              "seo_slug" : "Total-ETO",
+              "vendor_name" : "Total ETO",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/504d7156-ffec-4ff4-8ac0-7aea4c7c06d1.png",
+              "rating" : 4.6,
+              "total_reviews" : 19,
+              "slug" : "Total-ETO",
+              "product_name" : "Total ETO",
+              "short_desc" : "Exclusively for Engineer To Order manufacturers, Dynamic Nested BOMs,CAD Integration,Streamlined Purchasing,Real Time Job Costing, more",
+              "features" : "Formerly Questica ETO, Total ETO is built exclusively for Engineer To Order manufacturers. Integrate our Dynamic Nested BOM with your CAD software (SolidWorks, Inventor & More), eliminate duplicate entry and streamline Purchasing, Inventory, Routing, Receiving and Expediting. Get Real Time Job Costing instantly! Integrate with your preferred Accounting (QuickBooks, Sage & More). For over 20 years, Total ETO has you covered.\r\n\r\nAffordable, prices from $35-$85/month/user including implementation.",
+              "url" : "https://totaleto.com/?utm_source=capterra&utm_medium=main&utm_campaign=main&utm_source=capterra"
+            }
+          ],
+          "related_categories" : [
+            {
+              "functional_group" : "manufact",
+              "long_name" : "Manufacturing Execution",
+              "html_name" : "manufacturing-execution-software",
+              "link_name" : "manufacturing-execution",
+              "product_count" : 105,
+              "meta_description" : "Find and compare top Manufacturing Execution software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Manufacturing Execution tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/manufacturing-execution-software\">Manufacturing Execution Systems (MES)</a> automate processes necessary for manufacturing operations.  These applications are designed to increase productivity and improve quality for manufacturers by measuring, monitoring and managing production control activities.  MES software also typically provides features for optimization, analytics and simulation, which aid in production planning, inventory management and replenishment.  Manufacturing Execution Systems are related to <a href=\"/mrp-software\">MRP software</a> and <a href=/production-scheduling-software>Production Scheduling software</a>."
+            },
+            {
+              "functional_group" : "manufact",
+              "long_name" : "MRP",
+              "html_name" : "mrp-software",
+              "link_name" : "mrp",
+              "product_count" : 141,
+              "meta_description" : "Find and compare top Material Requirements Planning (MRP) software on Capterra, with our free and interactive tool. Quickly browse through hundreds of MRP tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/mrp-software\">Material Requirements Planning (MRP) software</a> manages material requirements for manufacturing processes.  These applications are also known as Manufacturing Resources Planning (MRP II) systems.  MRP software enables more efficient business process management for production planning and inventory control, ensuring that materials are readily available to meet production demands.  MRP software is related to <a href=\"/enterprise-resource-planning-software\">Enterprise Resource Planning (ERP) software</a>, <a href=\"/manufacturing-execution-software\">Manufacturing Execution Systems</a> and <a href=/production-scheduling-software>Production Scheduling software</a>."
+            },
+            {
+              "functional_group" : "manufact",
+              "long_name" : "Production Scheduling",
+              "html_name" : "production-scheduling-software",
+              "link_name" : "production-scheduling",
+              "product_count" : 71,
+              "meta_description" : "Find and compare top Production Scheduling software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Production Scheduling tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/production-scheduling-software>Production Scheduling software</a> enables advanced planning and scheduling of production activities within the manufacturing industry. These applications enable organizations to keep track of production resources and capabilities, effectively allocate resources, and operate efficiently.  <a href=/production-scheduling-software>Production Scheduling software</a> also aids manufacturers in forecasting and benchmarking performance, making real-time manufacturing decisions, holding down costs and improving delivery performance.  <a href=/production-scheduling-software>Production Scheduling software</a> is related to <a href=\"/manufacturing-execution-software\">Manufacturing Execution Systems</a> and <a href=\"/mrp-software\">MRP software</a>."
+            }
+          ],
+          "is_upgraded" : true,
+          "enabled" : true,
+          "filter_options" : {
+            "users" : 14,
+            "platform" : 53,
+            "pricing_options" : 4,
+            "category_related_features" : [
+              25594,
+              25595,
+              25597,
+              25598,
+              25599,
+              25600,
+              25601,
+              25602,
+              25603,
+              25604,
+              25605,
+              29557,
+              29559,
+              66529,
+              66531,
+              66532,
+              66533,
+              66534,
+              66535,
+              66536,
+              66537,
+              66538,
+              66539,
+              66540,
+              66541,
+              66542,
+              66543,
+              66544,
+              66545,
+              66547,
+              66548,
+              66549,
+              66551,
+              66552,
+              66553,
+              66554,
+              66555,
+              66556,
+              66557,
+              66558,
+              66559,
+              66560,
+              66561,
+              66562,
+              66563
+            ],
+            "employees" : 30
+          },
+          "sort_options" : {
+            "sort_review_rating" : 4.311387538909912,
+            "most_recent_review" : "2021-10-26T16:09:19Z"
+          },
+          "countries" : "US,CA",
+          "features_tokenized_text" : "accounting_integration erp material_requirements_planning mes purchase_order_management quality_management quotes/estimates reporting/analytics shipping_management",
+          "platform_tokenized_text" : "cloud,saas,web-based desktopwindows on-premisewindows on-premiselinux",
+          "users_tokenized_text" : "2-10 11-50 51-200",
+          "pricing_tokenized_text" : "annualsubscription",
+          "badges" : [
+            {
+              "id" : 2091,
+              "category_short_name" : "Production Scheduling",
+              "category_html_name" : "production-scheduling-software",
+              "published_year" : 2020,
+              "badge_type" : "Top 20"
+            },
+            {
+              "id" : 1701,
+              "category_short_name" : "MRP",
+              "category_html_name" : "mrp-software",
+              "published_year" : 2020,
+              "badge_type" : "Top 20"
+            }
+          ],
+          "bid_spot_us" : 20.0,
+          "currency_code" : "USD",
+          "currency_symbol" : "$",
+          "credit_card_required" : null,
+          "licensing_model" : null,
+          "open_api_offered" : "Yes",
+          "mobile_urls" : [ ],
+          "integrations" : [
+            {
+              "id" : "8a28183a-0b2b-4713-a1bf-a6d200b6a8a1",
+              "name" : "SolidWorks Enterprise PDM"
+            },
+            {
+              "id" : "e3df9c2d-1567-427c-acb2-a6d200b52931",
+              "name" : "Microsoft Power BI"
+            },
+            {
+              "id" : "64e5e74a-71d4-4010-91df-a6d200b6a8a1",
+              "name" : "SolidWorks Premium"
+            },
+            {
+              "id" : "d8314973-7f74-41b5-b4e2-a6d200b2cab3",
+              "name" : "Avalara - inactive"
+            },
+            {
+              "id" : "c2072795-f1bc-4c30-995c-a6d200b49f49",
+              "name" : "Inventor"
+            },
+            {
+              "id" : "ed67881a-7782-4957-ad5d-a6d200b601d6",
+              "name" : "QuickBooks"
+            },
+            {
+              "id" : "5db88122-3156-4a06-87b6-a6d200b6a8a1",
+              "name" : "SolidWorks Simulation Premium"
+            }
+          ],
+          "supported_countries" : [
+            {
+              "id" : 237,
+              "code" : "US",
+              "name" : "United States of America"
+            },
+            {
+              "id" : 41,
+              "code" : "CA",
+              "name" : "Canada"
+            }
+          ],
+          "supported_languages" : [
+            {
+              "id" : 152,
+              "code" : "en",
+              "name" : "English",
+              "location" : null
+            },
+            {
+              "id" : 273,
+              "code" : "fr",
+              "name" : "French",
+              "location" : null
+            }
+          ],
+          "target_industries" : [
+            {
+              "id" : 87,
+              "code" : "17",
+              "name" : "Medical Devices"
+            },
+            {
+              "id" : 28,
+              "code" : "25",
+              "name" : "Consumer Goods"
+            },
+            {
+              "id" : 51,
+              "code" : "145",
+              "name" : "Glass, Ceramics & Concrete"
+            },
+            {
+              "id" : 17,
+              "code" : "54",
+              "name" : "Chemicals"
+            },
+            {
+              "id" : 62,
+              "code" : "147",
+              "name" : "Industrial Automation"
+            },
+            {
+              "id" : 98,
+              "code" : "57",
+              "name" : "Oil & Energy"
+            },
+            {
+              "id" : 129,
+              "code" : "58",
+              "name" : "Shipbuilding"
+            },
+            {
+              "id" : 12,
+              "code" : "12",
+              "name" : "Biotechnology"
+            },
+            {
+              "id" : 46,
+              "code" : "34",
+              "name" : "Food & Beverages"
+            },
+            {
+              "id" : 139,
+              "code" : "92",
+              "name" : "Transportation/Trucking/Railroad"
+            },
+            {
+              "id" : 7,
+              "code" : "50",
+              "name" : "Architecture & Planning"
+            },
+            {
+              "id" : 108,
+              "code" : "117",
+              "name" : "Plastics"
+            },
+            {
+              "id" : 91,
+              "code" : "56",
+              "name" : "Mining & Metals"
+            },
+            {
+              "id" : 14,
+              "code" : "49",
+              "name" : "Building Materials"
+            },
+            {
+              "id" : 102,
+              "code" : "146",
+              "name" : "Packaging and Containers"
+            },
+            {
+              "id" : 85,
+              "code" : "135",
+              "name" : "Mechanical or Industrial Engineering"
+            },
+            {
+              "id" : 78,
+              "code" : "116",
+              "name" : "Logistics and Supply Chain"
+            },
+            {
+              "id" : 9,
+              "code" : "53",
+              "name" : "Automotive"
+            },
+            {
+              "id" : 32,
+              "code" : "1",
+              "name" : "Defense & Space"
+            },
+            {
+              "id" : 64,
+              "code" : "96",
+              "name" : "Information Technology and Services"
+            },
+            {
+              "id" : 27,
+              "code" : "24",
+              "name" : "Consumer Electronics"
+            },
+            {
+              "id" : 36,
+              "code" : "112",
+              "name" : "Electrical/Electronic Manufacturing"
+            },
+            {
+              "id" : 118,
+              "code" : "62",
+              "name" : "Railroad Manufacture"
+            },
+            {
+              "id" : 80,
+              "code" : "55",
+              "name" : "Machinery"
+            }
+          ],
+          "price_range_id" : 1,
+          "aggregated_review_ratings" : {
+            "industry" : {
+              "60" : 4.0,
+              "17" : 4.0,
+              "62" : 4.67,
+              "92" : 4.33,
+              "56" : 3.79,
+              "63" : 5.0,
+              "26" : 4.67,
+              "15" : 5.0,
+              "95" : 4.0,
+              "48" : 4.67,
+              "55" : 4.23,
+              "86" : 3.0,
+              "53" : 4.4,
+              "25" : 4.33,
+              "138" : 3.0,
+              "57" : 3.5,
+              "112" : 4.5,
+              "12" : 3.0,
+              "117" : 3.0,
+              "147" : 3.0,
+              "133" : 5.0,
+              "34" : 5.0,
+              "99" : 5.0,
+              "135" : 4.09
+            },
+            "company_size" : {
+              "501-1000 employees" : 5.0,
+              "1-10 employees" : 4.0,
+              "11-50 employees" : 4.14,
+              "201-500 employees" : 4.75,
+              "10,001+ employees" : 5.0,
+              "51-200 employees" : 4.21
+            }
+          },
+          "vct_enabled" : false,
+          "pricing_plans" : [
+            {
+              "created_on_utc" : "2019-08-21T14:47:39Z",
+              "modified_on_utc" : "2022-04-11T20:39:21Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Basic",
+              "description" : null,
+              "display_order" : 1,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 3000.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Per User",
+              "payment_frequency_name" : "Per Year",
+              "attributes" : [ ]
+            }
+          ],
+          "discount_types" : [ ]
+        }
+      },
+      {
+        "_index" : "product_listings_main_data_upc_vt20220920_043802_utc",
+        "_type" : "_doc",
+        "_id" : "226072_appdevxqm",
+        "_score" : 9.909741,
+        "_source" : {
+          "product_id" : 226072,
+          "seo_product_id" : 226072,
+          "seo_slug" : "Genius-ERP",
+          "product_name" : "Genius ERP",
+          "upc_product_uuid" : "064f9a06-e063-4d5d-8397-a6d200b43d99",
+          "old_product_ids" : [
+            105244
+          ],
+          "product_url" : "https://www.geniuserp.com/features",
+          "product_slug" : "Genius-ERP",
+          "former_name" : "Genius ERP",
+          "logo_filepath" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/3ab749bd-f6f2-4143-aa4b-6e5cd5b4991f.png",
+          "vendor" : {
+            "vendor_id" : 2011102,
+            "vendor_name" : "Genius Solutions",
+            "vendor_url" : "http://www.geniuserp.com",
+            "year_founded" : 1990,
+            "location" : "Canada",
+            "vendor_opted_out_of_reviews" : true,
+            "is_opted_out_of_reviews" : false,
+            "is_hit_limit" : false,
+            "enabled" : true,
+            "has_vendor_level_page" : false,
+            "slug" : null,
+            "vendor_page" : false,
+            "paused_campaign" : false
+          },
+          "category_short_name" : "appdevxqm",
+          "category_html_name" : "quality-management-software",
+          "category" : {
+            "id" : 30099,
+            "short_name" : "appdevxqm",
+            "long_name" : "Quality Management",
+            "html_name" : "quality-management-software",
+            "enabled" : true
+          },
+          "best_category" : "appdevxqm",
+          "is_best_category" : true,
+          "highest_cpc_category" : null,
+          "is_highest_cpc_category" : false,
+          "short_desc" : "Genius Solutions is a complete ERP software solution for small to mid-sized custom, make-to-order and engineer-to-order manufacturers.",
+          "long_desc" : "Genius Solutions is a complete enterprise resource planning (ERP) solution including software, implementation services, and field expertise for small- to mid-sized custom manufacturers. Genius ERP is built for manufacturers handling make-to-order, engineer-to-order, and custom-to-order manufacturing. Gain complete oversight and simplify complex manufacturing with accurate estimating, product engineering, inventory control, production planning, scheduling, account management, and field services.",
+          "rating" : 4.2,
+          "number_of_reviews" : 76,
+          "total_reviews" : 79,
+          "ease_of_use_rating" : 4.1,
+          "customer_support_rating" : 4.1,
+          "functionality_rating" : 4.2,
+          "value_for_money_rating" : 4.2,
+          "recommendation_rating" : 8.0,
+          "pricing_enabled" : false,
+          "pricing" : null,
+          "is_per_user" : true,
+          "fee_schedule" : "Per-Year",
+          "pricing_model" : "Per User",
+          "pricing_details" : null,
+          "pricing_created_on" : "2019-08-21T14:47:39Z",
+          "pricing_modified_on" : "2022-04-11T20:39:17Z",
+          "pricing_created_by" : null,
+          "pricing_modified_by" : null,
+          "pricing_vendor_pricing_url" : null,
+          "free_trial" : false,
+          "free_version" : false,
+          "target_audience" : "Custom Machinery & Equipment Manufacturers\nPV, Tank & Process Equipment Manufacturers\nTransportation Equipment Manufacturers \nMold, Tool & Die Manufacturers\nMetal Fabrication and Jobshop\n\n",
+          "target_users" : [
+            "2-10",
+            "11-50",
+            "51-200"
+          ],
+          "platform" : [
+            {
+              "enabled" : true,
+              "name" : "Cloud, SaaS, Web-Based"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Mac"
+            },
+            {
+              "enabled" : true,
+              "name" : "Desktop Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Linux"
+            },
+            {
+              "enabled" : true,
+              "name" : "On-Premise Windows"
+            },
+            {
+              "enabled" : true,
+              "name" : "On-Premise Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Chromebook"
+            },
+            {
+              "enabled" : false,
+              "name" : "Mobile Android"
+            },
+            {
+              "enabled" : false,
+              "name" : "Mobile iPhone"
+            },
+            {
+              "enabled" : false,
+              "name" : "Mobile iPad"
+            }
+          ],
+          "support" : [
+            {
+              "enabled" : true,
+              "name" : "Email Help Desk"
+            },
+            {
+              "enabled" : true,
+              "name" : "FAQ Forum"
+            },
+            {
+              "enabled" : true,
+              "name" : "Knowledgebase"
+            },
+            {
+              "enabled" : true,
+              "name" : "Phone Support"
+            },
+            {
+              "enabled" : false,
+              "name" : "24/7 Live Rep"
+            },
+            {
+              "enabled" : true,
+              "name" : "Chat"
+            }
+          ],
+          "training" : [
+            {
+              "enabled" : false,
+              "name" : "Not Offered"
+            },
+            {
+              "enabled" : true,
+              "name" : "In-Person"
+            },
+            {
+              "enabled" : true,
+              "name" : "Live Online"
+            },
+            {
+              "enabled" : true,
+              "name" : "Webinars"
+            },
+            {
+              "enabled" : true,
+              "name" : "Documentation"
+            },
+            {
+              "enabled" : true,
+              "name" : "Videos"
+            }
+          ],
+          "media" : [
+            {
+              "product_id" : 226072,
+              "vendor_id" : 2011102,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/335625a2-038f-4d21-bbfb-30d4f85fa706.png",
+              "caption" : "Save on engineering time with Genius CAD2BOM. With a push of a button, turn a Solidworks or Inventor model into a fully itemized, complex Bill of Materials?no matter the number of assembly levels?ready for procurement, planning, pricing, and production.",
+              "weight" : 1,
+              "short_name" : "appdevxqm"
+            },
+            {
+              "product_id" : 226072,
+              "vendor_id" : 2011102,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/cf3f73c6-7570-4a3f-bd03-bd43d034aa8b.png",
+              "caption" : "Get visibility of your entire business with a range of reports and analytics available at your fingertips?giving you oversight into every aspect of your operations. Harness the power of real-time data to make the best decisions for your company. ",
+              "weight" : 2,
+              "short_name" : "appdevxqm"
+            },
+            {
+              "product_id" : 226072,
+              "vendor_id" : 2011102,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/db681e79-9e65-44a3-a1f7-807cc0c4d269.png",
+              "caption" : "Accurately know your inventory levels every second of the day. Track all of your inventory needs?including on mobile devices?to control your costs and replenish stock based on actual on-the-job demand with one simplified and fully integrated system.",
+              "weight" : 3,
+              "short_name" : "appdevxqm"
+            },
+            {
+              "product_id" : 226072,
+              "vendor_id" : 2011102,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/4dd8fce4-831e-4003-9a6f-0a0047ae9537.jpeg",
+              "caption" : "Use Genius ERP to manage every job in your shop, and balance shifting priorities, to maximize your throughput. Real-time data tracks job progress, identifies production bottlenecks, measures system performance, and tracks costs for each job in your shop.",
+              "weight" : 4,
+              "short_name" : "appdevxqm"
+            },
+            {
+              "product_id" : 226072,
+              "vendor_id" : 2011102,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/aa0d6374-ffde-4d69-809a-eaab49d950a5.png",
+              "caption" : "Genius ERP has two scheduling systems?traditional plus the only DBR scheduling system available within an ERP. Choose the right solution to schedule your shop with precision, and ensure jobs are always completed on time and within budget.",
+              "weight" : 5,
+              "short_name" : "appdevxqm"
+            },
+            {
+              "product_id" : 226072,
+              "vendor_id" : 2011102,
+              "media_type" : "VIDEO",
+              "path_url" : "https://www.youtube.com/watch?v=PewKbJ1hE70&t=4s",
+              "caption" : null,
+              "weight" : 0,
+              "short_name" : "appdevxqm"
+            }
+          ],
+          "links" : [ ],
+          "features" : [
+            {
+              "category_name" : "Quality Management",
+              "category_features" : [
+                {
+                  "name" : "Alerts/Notifications",
+                  "value" : false,
+                  "id" : "aef68b72-bd4c-4797-ae8c-4735512de81a",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Audit Management",
+                  "value" : true,
+                  "id" : "f8952cde-adc7-4255-a812-5636017723f5",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Plan, schedule and execute organization's accounts and assets to ensure they all comply with policies, laws, and requirements"
+                },
+                {
+                  "name" : "Audit Trail",
+                  "value" : false,
+                  "id" : "554b6509-32cb-41ed-a6ae-7571e49eb6e5",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Change Management",
+                  "value" : false,
+                  "id" : "88690ea4-3a57-4107-8f87-e663ec585c55",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Track, manage, and analyze organizational/operational changes to reduce associated risks"
+                },
+                {
+                  "name" : "Complaint Management",
+                  "value" : false,
+                  "id" : "690eeecf-ae80-49d6-a457-ad2d89186ad1",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Obtain, monitor, and review customer feedback/complaints relating to products and services to improve customer satisfaction"
+                },
+                {
+                  "name" : "Compliance Management",
+                  "value" : false,
+                  "id" : "067f6bae-1749-483f-ac79-6c2c3c4114c8",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Track and manage non-adherence to policies in a service, product, process, or supplier behavior"
+                },
+                {
+                  "name" : "Corrective and Preventive Actions (CAPA)",
+                  "value" : true,
+                  "id" : "e0db5d46-8bc5-4e96-a473-5135f548980f",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Investigate and take action at root cause or error in products/processes to prevent recurrence of the same error"
+                },
+                {
+                  "name" : "Defect Tracking",
+                  "value" : false,
+                  "id" : "3729b481-e884-4840-a2a0-f59b7780c2b5",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Process of tracking logged defects (errors) in a product or service to create new versions to fix the error"
+                },
+                {
+                  "name" : "Document Coding & Control",
+                  "value" : true,
+                  "id" : "288bf964-66b3-4b8c-80ea-f4e3d27de319",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Manage and control of the creation, approval, and distribution of documents and processes to ensure they meet industry regulations"
+                },
+                {
+                  "name" : "Document Management",
+                  "value" : true,
+                  "id" : "a55b34ad-b6ec-4072-b3bd-a7151f7843de",
+                  "avg_rating" : 4.3,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.333,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Equipment Management",
+                  "value" : false,
+                  "id" : "9ba59a41-84c4-4f19-aa99-f3a877464ac9",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Monitor and maintain equipment used to manufacture and deploy products and services, and to reallocate assets where needed"
+                },
+                {
+                  "name" : "ISO Standards Management",
+                  "value" : false,
+                  "id" : "fb25a46a-7c99-4583-a52c-80a95c560c30",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Track and monitor processes/products to ensure they meet international standards developed by the ISO"
+                },
+                {
+                  "name" : "Maintenance Management",
+                  "value" : false,
+                  "id" : "73ed8cb7-a67f-4a46-8acb-4fd73409c5e8",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Assess and plan maintenance operations and updates to ensure longevity of physical assets"
+                },
+                {
+                  "name" : "Quality Control",
+                  "value" : true,
+                  "id" : "5aaa1957-06d1-478a-ad00-ee2015e9703d",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Risk Management",
+                  "value" : false,
+                  "id" : "2d25bc40-8517-4799-8a87-4d979c453d38",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Identify, evaluate, mitigate, and report on risk"
+                },
+                {
+                  "name" : "Supplier Management",
+                  "value" : true,
+                  "id" : "aa61511b-b73d-4fbb-a5f4-0ea85d124fcb",
+                  "avg_rating" : 4.3,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Supplier Quality Control",
+                  "value" : false,
+                  "id" : "12483fde-f35a-4db1-9aea-2e9d765eb7ed",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Qualify, select, and monitor supply chain partners"
+                },
+                {
+                  "name" : "Task Management",
+                  "value" : false,
+                  "id" : "82ce67d3-ac09-49d0-ae71-5e6401e3e26b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Training Management",
+                  "value" : false,
+                  "id" : "4dc3a3c0-246c-4a15-8750-fa294c8ff58a",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track employee's progression through training programs"
+                },
+                {
+                  "name" : "Workflow Management",
+                  "value" : true,
+                  "id" : "c4c63af2-2e9e-4f8b-b965-20e94a16a8b9",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                }
+              ]
+            },
+            {
+              "category_name" : "Manufacturing Execution",
+              "category_features" : [
+                {
+                  "name" : "Document Management",
+                  "value" : true,
+                  "id" : "a55b34ad-b6ec-4072-b3bd-a7151f7843de",
+                  "avg_rating" : 4.3,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.333,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Collect, upload, store, and share all documents in a centralized location making it easier for everyone involved to access information "
+                },
+                {
+                  "name" : "Forecasting",
+                  "value" : false,
+                  "id" : "af71a358-300d-4111-90b5-828ef869bb49",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Form predictions based on past and present data/trends"
+                },
+                {
+                  "name" : "Inventory Management",
+                  "value" : true,
+                  "id" : "80f46038-6ae8-4725-8064-788b20380eeb",
+                  "avg_rating" : 4.4,
+                  "cnt_rating" : 18,
+                  "avg_importance" : 2.67,
+                  "cnt_importance" : 18,
+                  "cnt_time_used" : 18,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 18,
+                  "pct_time_critical" : 0.667,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track and manage the quantity of resources on hand to maintain proper supply"
+                },
+                {
+                  "name" : "Order Management",
+                  "value" : true,
+                  "id" : "3cca1a0a-36cc-4cfa-b90c-706cfd9542b6",
+                  "avg_rating" : 4.6,
+                  "cnt_rating" : 7,
+                  "avg_importance" : 2.25,
+                  "cnt_importance" : 8,
+                  "cnt_time_used" : 8,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 8,
+                  "pct_time_critical" : 0.25,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Organize, track, monitor and execute customer orders for goods, investments, or any other purchases"
+                },
+                {
+                  "name" : "Quality Management",
+                  "value" : true,
+                  "id" : "de6610d2-7599-47d5-865e-ee0a7d45e210",
+                  "avg_rating" : 3.2,
+                  "cnt_rating" : 5,
+                  "avg_importance" : 2.25,
+                  "cnt_importance" : 4,
+                  "cnt_time_used" : 5,
+                  "pct_time_used" : 0.8,
+                  "cnt_time_critical" : 5,
+                  "pct_time_critical" : 0.2,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Focuses on improving production processes by collecting data and spotting bottlenecks or other challenges."
+                },
+                {
+                  "name" : "Supplier Management",
+                  "value" : true,
+                  "id" : "aa61511b-b73d-4fbb-a5f4-0ea85d124fcb",
+                  "avg_rating" : 4.3,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Manage various aspects of the relationship with suppliers (e.g. interactions, history)"
+                },
+                {
+                  "name" : "Supply Chain Management",
+                  "value" : true,
+                  "id" : "a0d7d90c-2a71-423a-b2a5-2bfdcb91a8ff",
+                  "avg_rating" : 4.3,
+                  "cnt_rating" : 10,
+                  "avg_importance" : 2.36,
+                  "cnt_importance" : 11,
+                  "cnt_time_used" : 11,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 11,
+                  "pct_time_critical" : 0.455,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Supports the planning and execution of supply chain transactions to  from raw materials procurement to production and delivery."
+                },
+                {
+                  "name" : "Traceability",
+                  "value" : true,
+                  "id" : "bdd6b902-004c-42f0-91ae-7cf4875b988c",
+                  "avg_rating" : 4.6,
+                  "cnt_rating" : 5,
+                  "avg_importance" : 2.67,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.667,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Maintain an unbroken record of a product as it moves through the production and distribution system. "
+                }
+              ]
+            },
+            {
+              "category_name" : "Product Lifecycle Management",
+              "category_features" : [
+                {
+                  "name" : "Change Management",
+                  "value" : false,
+                  "id" : "88690ea4-3a57-4107-8f87-e663ec585c55",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Compliance Management",
+                  "value" : false,
+                  "id" : "067f6bae-1749-483f-ac79-6c2c3c4114c8",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Track and manage non-adherence to policies in a service, product, process, or supplier behavior"
+                },
+                {
+                  "name" : "Cost Tracking",
+                  "value" : true,
+                  "id" : "dbe00040-26b9-417e-a04b-7886b914b6fd",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Design Management",
+                  "value" : false,
+                  "id" : "03553fac-4a1c-4e5c-87d2-5efb613b006b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Document Management",
+                  "value" : true,
+                  "id" : "a55b34ad-b6ec-4072-b3bd-a7151f7843de",
+                  "avg_rating" : 4.3,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.333,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Collect, upload, store, and share all documents in a centralized location making it easier for everyone involved to access information "
+                },
+                {
+                  "name" : "Product Data Management",
+                  "value" : true,
+                  "id" : "1a52585c-9665-4a45-8d19-6ccc51eed49e",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Capture, organize and track product-specific data and information in a centralized location"
+                },
+                {
+                  "name" : "Project Management",
+                  "value" : true,
+                  "id" : "394feaf8-a547-4e78-a56b-fa8161c4405a",
+                  "avg_rating" : 3.8,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 4,
+                  "pct_time_used" : 0.75,
+                  "cnt_time_critical" : 4,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Plan and coordinate all the resources, costs and time needed to execute assignments"
+                },
+                {
+                  "name" : "Requirements Management",
+                  "value" : false,
+                  "id" : "4bc8cad3-3f11-45a1-85eb-368a68220d9e",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Supplier Management",
+                  "value" : true,
+                  "id" : "aa61511b-b73d-4fbb-a5f4-0ea85d124fcb",
+                  "avg_rating" : 4.3,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                }
+              ]
+            },
+            {
+              "category_name" : "Production Scheduling",
+              "category_features" : [
+                {
+                  "name" : "Automated Scheduling",
+                  "value" : true,
+                  "id" : "d3a80c3a-594b-4967-a589-55f7a587bd3b",
+                  "avg_rating" : 4.2,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 2.25,
+                  "cnt_importance" : 4,
+                  "cnt_time_used" : 4,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 4,
+                  "pct_time_critical" : 0.25,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Schedules are automatically created based on business need and employee availability and qualifications"
+                },
+                {
+                  "name" : "Capacity Planning",
+                  "value" : true,
+                  "id" : "f857aa9c-fa1d-45f9-9e0f-aaee46265af1",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Determine and plan production capacity based on changing demands "
+                },
+                {
+                  "name" : "Change Management",
+                  "value" : false,
+                  "id" : "88690ea4-3a57-4107-8f87-e663ec585c55",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track and monitor efficient handling of all changes/transitions"
+                },
+                {
+                  "name" : "Material Requirements Planning",
+                  "value" : true,
+                  "id" : "8bf14b8c-a2bb-4002-8733-3d3f9e1e6a85",
+                  "avg_rating" : 4.8,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 2.33,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.333,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Material requirements planning software manages the scheduling and inventory control for manufacturers."
+                },
+                {
+                  "name" : "Quality Management",
+                  "value" : true,
+                  "id" : "de6610d2-7599-47d5-865e-ee0a7d45e210",
+                  "avg_rating" : 3.2,
+                  "cnt_rating" : 5,
+                  "avg_importance" : 2.25,
+                  "cnt_importance" : 4,
+                  "cnt_time_used" : 5,
+                  "pct_time_used" : 0.8,
+                  "cnt_time_critical" : 5,
+                  "pct_time_critical" : 0.2,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Focuses on improving production processes by collecting data and spotting bottlenecks or other challenges."
+                },
+                {
+                  "name" : "Scheduling",
+                  "value" : false,
+                  "id" : "0cc5cde1-b9c8-4aaf-9a3b-67ed2aafe507",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Plan availability and assign specific time slots for tasks and resources"
+                },
+                {
+                  "name" : "What-if Analysis",
+                  "value" : false,
+                  "id" : "c7f1f1c8-22bc-4ac1-a12f-af7647b98086",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Provides varying estimates based on different scenarios"
+                }
+              ]
+            }
+          ],
+          "infographics" : [ ],
+          "related_products" : [
+            {
+              "product_id" : 135004,
+              "seo_product_id" : 225334,
+              "seo_slug" : "Process-Street",
+              "vendor_name" : "Process Street",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/0cd65220-ab56-4714-8ac3-0779284da596.png",
+              "rating" : 4.7,
+              "total_reviews" : 558,
+              "slug" : "Process-Street",
+              "product_name" : "Process Street",
+              "short_desc" : "Process Street is a modern process management platform for teams.",
+              "features" : "Process Street is a modern process management platform for teams. We help teams share their core processes, then transform them into powerful no-code workflows.\n\nStart with employee onboarding to set up new hires for success, then build all sorts of workflows like employee onboarding, client onboarding, and tenant screening.\n\nManage your team wiki and company handbook 100% free.\n\nJoin Salesforce, Colliers, Drift, and 3,000+ other businesses who use Process Street today.\n",
+              "url" : "http://www.process.st/grc-software/quality-management?utm_sourcecapterra&utm_medium=cpc"
+            },
+            {
+              "product_id" : 103908,
+              "seo_product_id" : 27414,
+              "seo_slug" : "IQMS-Accounting",
+              "vendor_name" : "Dassault Systemes",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/328c9461-b2da-4640-862a-ed58ea191cec.png",
+              "rating" : 4.1,
+              "total_reviews" : 286,
+              "slug" : "IQMS-ERP-Software",
+              "product_name" : "DELMIAworks",
+              "short_desc" : "Reliable, real-time extended ERP software with lean and agile functionality developed especially for mid-market manufacturing companies",
+              "features" : "DELMIAworks (formerly IQMS) ERP software provides discrete and process manufacturers with a single solution to manage and monitor the entire manufacturing process. The comprehensive solution allows for a modular and scalable approach while eliminating data silos. DELMIAworks increases cross department visibility and efficiently with a complete real-time manufacturing, accounting, and supply chain system that includes Quality, EDI, WMS, MRP, production/process monitoring and more.",
+              "url" : "https://erp.iqms.com/iqms-delmiaworks-gdm-lp/?utm_medium=PPC&utm_term=quality-management"
+            },
+            {
+              "product_id" : 184185,
+              "seo_product_id" : 226225,
+              "seo_slug" : "WinTeam",
+              "vendor_name" : "TEAM Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/385f7148-6eb5-4ade-9249-5e026c9f6392.png",
+              "rating" : 4.4,
+              "total_reviews" : 117,
+              "slug" : "WinTeam",
+              "product_name" : "WinTeam",
+              "short_desc" : "WinTeam is a holistic financial, operations and workforce management solution for cleaning and security contractors in North America.",
+              "features" : "WinTeam is a holistic financial, operations & workforce management solution for cleaning & security contractors in North America. Includes accounting & financials, analytics & reporting, HR, compliance & benefits mgmt, payroll, job costing, work/people scheduling, quality assurance & inventory mgmt. It has employee & customer self-service plus time & attendance tracking. Streamline processes, connect back office to field ops & pinpoint profitability by site. Best fit for 100 employees or more.",
+              "url" : "https://show.teamsoftware.com/Demo_Capterra_WinTeam-General"
+            },
+            {
+              "product_id" : 70008,
+              "seo_product_id" : 70008,
+              "seo_slug" : "SpiraTest",
+              "vendor_name" : "Inflectra",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/26be2a2f-55e4-4649-af49-cb4a37bc6579.png",
+              "rating" : 4.0,
+              "total_reviews" : 103,
+              "slug" : "SpiraTest",
+              "product_name" : "SpiraTest",
+              "short_desc" : "A complete QA solution to help you write better requirements, manage your test cases, and track defects.",
+              "features" : "SpiraTest is an integrated Requirements and Quality Management solution that manages your project's Requirements, Test Cases, Releases, Defects, and Issues in one environment, with complete traceability throughout.  After defining your project's requirements, you generate the test cases and test steps that validate the functionality. The test execution modules allow users to run through the tests, logging defects/issues as they go. SpiraTest is Fully Web-Based. Free 30-Day Trial.",
+              "url" : "https://www.inflectra.com/Landing/Quality-Management.aspx?source=CapterraAd&listing=SpiraTest"
+            },
+            {
+              "product_id" : 176109,
+              "seo_product_id" : 176109,
+              "seo_slug" : "Redzone-Productivity",
+              "vendor_name" : "Redzone",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/77ecf7df-3188-42b3-8457-8e44b4dc9bb6.png",
+              "rating" : 4.8,
+              "total_reviews" : 98,
+              "slug" : "Redzone-Productivity",
+              "product_name" : "Redzone",
+              "short_desc" : "Increase plant productivity by 22% in 90 days by activating your frontline teams with Redzone's #1 Connected Workforce Solution. ",
+              "features" : "Redzone has taken the food, beverage, and CPG As the #1 Connected Workforce Solution in manufacturing, Redzone enables frontline teams to contribute their full potential, elevating the frontline with new technology to achieve company goals around productivity and throughput. \n\nConnect and unify production, quality and maintenance to create 'one team' working with purpose to win the day, everyday.\n\nRemarkably Powerful Results in Just 90 Days:\n-  22% Productivity Increase\n-  74% Increase in Engage",
+              "url" : "https://info.gartnerdigitalmarkets.com/rzsoftware-gdm-lp?category=Quality-Management"
+            },
+            {
+              "product_id" : 148577,
+              "seo_product_id" : 216299,
+              "seo_slug" : "Mastercontrol",
+              "vendor_name" : "MasterControl",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/a243c3b5-764f-4af3-a877-b182ae08fe8d.png",
+              "rating" : 4.5,
+              "total_reviews" : 94,
+              "slug" : "MasterControl",
+              "product_name" : "MasterControl Quality Excellence",
+              "short_desc" : "Quality Management Software; includes electronic document control, training control, corrective action, audit, supplier mgmt, and more",
+              "features" : "MasterControl - Quality Excellence helps you automate your quality processes to dramatically improve efficiency, ensure compliance and accelerate time to market. Being used by five of the largest regulatory agencies in the United States. A leading software-as-a-service (SaaS) provider, MasterControl helps companies get their life-improving products to market sooner. And it's not just quality, MasterControl has solutions for the entire product lifecycle.",
+              "url" : "https://www.mastercontrol.com/ppc/quality-management-software/?utm_campaign=7013x000001y83QAAQ&utm_medium=Directory-Listing&utm_source=CA"
+            },
+            {
+              "product_id" : 41970,
+              "seo_product_id" : 41970,
+              "seo_slug" : "Quality-Management-Software",
+              "vendor_name" : "Cority",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/dec9a0d8-dc42-4113-90b8-582dc190a733.png",
+              "rating" : 4.3,
+              "total_reviews" : 81,
+              "slug" : "Quality-Management-Software",
+              "product_name" : "Cority",
+              "short_desc" : "Leave the paper behind and get the benefits of powerful and easy-to-use software that streamlines your quality management. ",
+              "features" : "Cority Quality Cloud lets you leave the paper behind and get the benefits of powerful and easy-to-use software that streamlines your quality management. Make higher quality a key to your success to stand above the rest.\n\nCority Quality Cloud automates and streamlines shop floor processes, manages the entire nonconformance lifecycle, and supports enterprise-wide continuous improvement initiatives. As a stand-alone EQMS or integrated with EHS, Cority helps make quality a competitive advantage.",
+              "url" : "https://www.iqs.com/quality-management-software-solutions-capterra/"
+            },
+            {
+              "product_id" : 155436,
+              "seo_product_id" : 226886,
+              "seo_slug" : "ProShop",
+              "vendor_name" : "Adion Systems",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/6326a37a-4f40-411a-b258-2f571e087cf1.png",
+              "rating" : 4.9,
+              "total_reviews" : 78,
+              "slug" : "ProShop",
+              "product_name" : "ProShop",
+              "short_desc" : "A comprehensive web-based and 100% paperless shop quality management system for small to medium manufacturing companies.",
+              "features" : "A comprehensive web-based and 100% paperless shop management system for small to medium manufacturing companies.  Built to manage the complex manufacturing environment better than anything else on the market - by an order of magnitude. Never before has there been a system that gives you such insight into every detail of your manufacturing company. ProShop is 100% paperless ERP/MES and QMS software.  We typically replace 3-6 other software systems with ProShop for managing your whole company.",
+              "url" : "https://www.proshoperp.com/quality-management/"
+            },
+            {
+              "product_id" : 127199,
+              "seo_product_id" : 127199,
+              "seo_slug" : "HSEQ-Compliance-Software",
+              "vendor_name" : "Mango",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/04c52fdc-3de1-4aaa-8b96-d954c96d3d8a.png",
+              "rating" : 4.6,
+              "total_reviews" : 77,
+              "slug" : "HSEQ-Compliance-Software",
+              "product_name" : "Mango",
+              "short_desc" : "Integrated QHSE management system software, Cloud-based, helping SMB's manage compliance activities in a single, easy to use solution.",
+              "features" : "Mango helps control and maintain all aspects of your quality, health,  safety (QHSE) management system(s); including: policies, procedures & forms (with single-source document control); accidents & incidents; Audits/Inspections; Improvements (NCR's, CAPA's, etc.); hazard & risk management; and people management (competencies & training).\r\n\r\nIn addition, Mango helps our customers manage their Plant & Equipment (including scheduled maintenance and requests), Food Safety, & compliance calendar.",
+              "url" : "https://www.hsetechnology.com/mango-qhse-software"
+            },
+            {
+              "product_id" : 150242,
+              "seo_product_id" : 226512,
+              "seo_slug" : "Benchmark-ESG-tm--Gensuite",
+              "vendor_name" : "Benchmark ESG | Gensuite",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/813ee0eb-3f64-44bc-aaa5-1f91acf8df83.png",
+              "rating" : 4.3,
+              "total_reviews" : 74,
+              "slug" : "Gensuite",
+              "product_name" : "Benchmark Risk + Compliance",
+              "short_desc" : "Benchmark ESG Quality Management Software helps increase quality standards, meet regulatory requirements & exceed customer expectation.",
+              "features" : "Integrating Benchmark ESG | Gensuite Quality Management Software into your workplace equips your team with the tools necessary to meet expectations and deliver the quality products and solutions that your customers expect. Record non-conformities/defects and initiate follow-up, engage your team through concern reports, perform root cause analyses to identify issues to continuously improve, and more. Boost quality standards, meet compliance requirements & exceed customer expectations.\n",
+              "url" : "https://www.benchmarkdigitalesg.com/lp-quality-management/?utm_source=gartner&utm_medium=cpc&utm_campaign=22Mktg_RISK_EV_Gartner&utm_term=quality-management"
+            },
+            {
+              "product_id" : 141558,
+              "seo_product_id" : 224427,
+              "seo_slug" : "DoneSafe",
+              "vendor_name" : "HSI",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/dcfe7d26-aa11-4f17-846b-f15873af641e.jpeg",
+              "rating" : 4.8,
+              "total_reviews" : 67,
+              "slug" : "DoneSafe",
+              "product_name" : "HSI Donesafe",
+              "short_desc" : "#1 Quality Management to solve ALL your requirements. Simple for workers to use, simple for managers to customize. Try now",
+              "features" : "#1 Quality Management Software solution.\r\nSimple for workers to use and managers to customise on any device. Fast and easy to access, enter and report risk data in real time. A platform with end-to-end functionality. Use our Out-of-the-box templates or build your own to match requirements. Try now.",
+              "url" : "https://donesafe.com/quality-management-software-qms?leadsourcelvl1=MKT+-+Reputational&leadsourcelvl2=Gartner&leadsourcelvl3=Quality+Management"
+            }
+          ],
+          "similar_products" : [
+            {
+              "product_id" : 134050,
+              "seo_product_id" : 222298,
+              "seo_slug" : "Qualio",
+              "vendor_name" : "Qualio",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4fa3bb0f-5973-4490-9c99-dd472a108d73.png",
+              "rating" : 4.7,
+              "total_reviews" : 60,
+              "slug" : "Quality-Management-Software",
+              "product_name" : "Qualio",
+              "short_desc" : "eQMS software for life science companies. 100% FDA/ISO/GxP-compliant. Manage documents, training, events, suppliers, design controls.",
+              "features" : "Qualio is a cloud-based quality management software system designed for life science companies.\n\nQualio empowers medical device, pharmaceutical, biotech and contract organizations to get to market faster, boost revenue and cut risk. Over 500 companies in 80 countries use Qualio to embed and automate GxP, FDA and ISO compliance. Qualio unites your teams, processes and data in a single source of truth that supports a culture of quality and makes your business stronger, fitter and more competitive.",
+              "url" : "https://offers.qualio.com/request-demo-capterra?utm_campaign=capterra-quality&utm_medium=ppc"
+            },
+            {
+              "product_id" : 148577,
+              "seo_product_id" : 216299,
+              "seo_slug" : "Mastercontrol",
+              "vendor_name" : "MasterControl",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/a243c3b5-764f-4af3-a877-b182ae08fe8d.png",
+              "rating" : 4.5,
+              "total_reviews" : 94,
+              "slug" : "MasterControl",
+              "product_name" : "MasterControl Quality Excellence",
+              "short_desc" : "Quality Management Software; includes electronic document control, training control, corrective action, audit, supplier mgmt, and more",
+              "features" : "MasterControl - Quality Excellence helps you automate your quality processes to dramatically improve efficiency, ensure compliance and accelerate time to market. Being used by five of the largest regulatory agencies in the United States. A leading software-as-a-service (SaaS) provider, MasterControl helps companies get their life-improving products to market sooner. And it's not just quality, MasterControl has solutions for the entire product lifecycle.",
+              "url" : "https://www.mastercontrol.com/quality-management-system/?utm_campaign=7013x000001y83QAAQ&utm_medium=Directory-Listing&utm_source=CA"
+            },
+            {
+              "product_id" : 151002,
+              "seo_product_id" : 222105,
+              "seo_slug" : "1factory-Manufacturing-Quality",
+              "vendor_name" : "1factory",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/7ade4621-fb5d-428c-950b-b7f4b07bc245.png",
+              "rating" : 5.0,
+              "total_reviews" : 34,
+              "slug" : "1factory",
+              "product_name" : "1factory",
+              "short_desc" : "Simple Powerful Manufacturing Quality Control Software. Control product quality within your factory and across your supply chain",
+              "features" : "1factory provides easy-to-use yet powerful Manufacturing and Supply Chain Quality Control software. With 1factory, manufacturers can control product quality both within their factories, and across their supply chains. Features include Automatic Drawing Ballooning, QC plans, FAI, AS9102, Automated CMM data Import, Incoming/in-process/Final inspections, Run Charts, SPC, Process Capability (Cpk, Ppk), Gage Calibration Management, NCR, SCAR, CAPA, Audit Findings, PPAP, PFMEA, Supplier Collaboration\n",
+              "url" : "https://1factory.com?source=capterra"
+            },
+            {
+              "product_id" : 108528,
+              "seo_product_id" : 81902,
+              "seo_slug" : "Intellect-BPM",
+              "vendor_name" : "Intellect",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/867e7a53-ac2e-4443-8331-75f08b24dc14.png",
+              "rating" : 4.5,
+              "total_reviews" : 57,
+              "slug" : "Intellect",
+              "product_name" : "Intellect",
+              "short_desc" : "Intellect offers QMS software built on a no-code compliance platform that is easy to use, fast to implement, and highly flexible. ",
+              "features" : "Enhance quality operations and reduce overall quality costs by at least 40% with Intellect QMS. \n\n- Easy to use\n- Fast to implement\n- Highly flexible\n- Best-in-class customer support\n\nIntellect QMS is available out-of-the-box or configure apps to meet your unique business needs with our no-code compliance platform. \n\nAchieve compliance, improve audit metrics, throughput, resolution time, lower cost of quality, and reduce risk, returns, defects and much more. ",
+              "url" : "https://www.intellect.com/request-a-demo?utm_source=capterra&utm_medium=capterra"
+            },
+            {
+              "product_id" : 172042,
+              "seo_product_id" : 74013,
+              "seo_slug" : "EtQ-Reliance",
+              "vendor_name" : "ETQ",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/17a1a950-59ce-463f-ace7-19de45ec88c3.png",
+              "rating" : 4.7,
+              "total_reviews" : 23,
+              "slug" : "Quality-Management-Software",
+              "product_name" : "ETQ Reliance",
+              "short_desc" : "ETQ is the world's most flexible, powerful & easy-to-use advanced QMS for quality-centric organizations in dozens of industries.",
+              "features" : "ETQ is the world's most flexible, powerful & easy-to-use advanced QMS software for quality-centric organizations in dozens of industries. Automate & standardize all aspects of quality, from doc control, training, CAPA, audits, supply chain & so much more. Use applications out-of-the-box or customize to meet your needs. Keep pace with regulations & increased consumer demands. Benefit from improved compliance, enhanced reputation, reduced costs, speed to market & visibility into your supply chain.",
+              "url" : "https://content.etq.com/etq-reliance-qms/p/1?utm_campaign=2021-09-Capterra&utm_source=Capterra&utm_medium=ppc&utm_term=Destination%20URL"
+            },
+            {
+              "product_id" : 97557,
+              "seo_product_id" : 212449,
+              "seo_slug" : "QT9-Quality-Management",
+              "vendor_name" : "QT9 Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/5476711c-7c6c-4ffc-a28a-c0c0bfcca304.png",
+              "rating" : 4.7,
+              "total_reviews" : 61,
+              "slug" : "QT9-Quality-Management",
+              "product_name" : "QT9 QMS",
+              "short_desc" : "Web-Based Quality Management Software. Easily Connect Your Quality Processes. Manage FDA & ISO Compliance. Free Quote, Demo & Trial.",
+              "features" : "QT9 QMS is the easiest way to manage and connect all of your quality management processes in one place. Digitally transform ISO and FDA compliance with real-time Doc Control, CAPA's, Employee Training and more. QT9 QMS is an intuitive cloud-based solution that enables you to automate ISO 9001, ISO 13485, AS9100, FDA 21 CFR Part 820, FDA Part 210/211 compliance with FDA 21 CFR Part 11 compliant electronic signature approvals included to ensure end-to-end traceability. Start a Free Trial Today!",
+              "url" : "https://qt9qms.com/quality-management-software"
+            },
+            {
+              "product_id" : 135978,
+              "seo_product_id" : 222495,
+              "seo_slug" : "Arena-QMS",
+              "vendor_name" : "Arena, a PTC Business",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/90e471f9-a1f1-42b7-9c13-7f7c31a0b023.png",
+              "rating" : 4.5,
+              "total_reviews" : 29,
+              "slug" : "Arena-Quality",
+              "product_name" : "Arena QMS",
+              "short_desc" : "Arena's product-centric QMS connects quality and product processes to simplify regulatory compliance and speed product launches.",
+              "features" : "Arena's product-centric quality management system (QMS) streamlines new product development and introduction (NPDI) by connecting quality and product processes. Arena ensures regulatory compliance to quality standards and regulations including FDA 21 CFR Part 820, Part 11 and ISO 13485. Arena QMS enhances visibility and traceability by controlling quality processes in context with bills of materials (BOMs), SOPs, DMRs, DHFs, specifications, drawings, and training plans. See ArenaSolutions.com.",
+              "url" : "https://info.gartnerdigitalmarkets.com/arena-qms-gdm-lp/?src=pvf1&utm_medium=paid%20trust&utm_campaign=qms&utm_content=free%20demo&category=qms"
+            },
+            {
+              "product_id" : 134093,
+              "seo_product_id" : 222730,
+              "seo_slug" : "Qualtrax",
+              "vendor_name" : "Qualtrax",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/eef5b9ae-16b5-4536-b0f0-c4b09ab38d4e.png",
+              "rating" : 4.9,
+              "total_reviews" : 54,
+              "slug" : "Qualtrax",
+              "product_name" : "Qualtrax",
+              "short_desc" : "Quality management solution that helps users manage documentation, compliance, workflows, risks, employees training and more. ",
+              "features" : "Qualtrax is a complete quality and compliance software system used to manage and control documentation, automate business processes, manage customizable workflows, streamline training management, manage internal and external audits and ensure implementation of critical industry regulations in real-time. Ideal for heavily-regulated industries, where compliance with standards including ISO 17025, 17020, 13485, and 9001, TNI, GFSI, FDA, and FQS are required.",
+              "url" : "https://info.gartnerdigitalmarkets.com/qualtrax-gdm-lp"
+            },
+            {
+              "product_id" : 249803,
+              "seo_product_id" : 255334,
+              "seo_slug" : "Merit-for-Life-Science",
+              "vendor_name" : "Merit Solutions",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/c707c8b0-c762-4381-b3bf-31768b8b88f9.png",
+              "rating" : 0.0,
+              "total_reviews" : 0,
+              "slug" : "Merit-for-Life-Science",
+              "product_name" : "Merit for Life Science",
+              "short_desc" : "Merit for Life Science is a cloud-first D365 ERP solution intentionally tailored for biotech, pharma, and medical device organizations.",
+              "features" : "Merit for Life Science with Microsoft Dynamics 365 is a cloud-first ERP solution intentionally tailored\nfor fast-growing biotech, pharmaceutical, and medical device organizations.\n\nIt advances Dynamics 365 finance and operations functionality to help life science organizations drive increased process efficiencies, ready for and support rapid growth, and meet valuation expectations while maintaining FDA CFR 21 part 11, EMA Annex 11, and other country-specific regulatory compliance.",
+              "url" : "https://meritsolutions.com/merit-solutions-for-life-science/"
+            },
+            {
+              "product_id" : 68590,
+              "seo_product_id" : 226436,
+              "seo_slug" : "Digital-Business-Transformation-Suite",
+              "vendor_name" : "Interfacing",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d2d7372c-e020-4010-997d-830392ba26d8.png",
+              "rating" : 4.8,
+              "total_reviews" : 19,
+              "slug" : "Enterprise-Process-Center-EPC",
+              "product_name" : "Digital Business Transformation Suite",
+              "short_desc" : "Interfacing's EPC ensures full visibility from audit management, CAPA, regulatory training and management of standard operating procedu",
+              "features" : " Interfacing's Enterprise Process Center (EPC) provides a formalized system that documents processes, procedures, and responsibilities for achieving quality policies and objectives.  Our tools ensure full visibility from end-to-end, all the way from the creation and amendment of a regulation to the approval and revision of the content through to the update and retraining of employees for standard operating procedures (SOPs) ",
+              "url" : "https://www.interfacing.com/BPM-Software"
+            },
+            {
+              "product_id" : 65948,
+              "seo_product_id" : 65948,
+              "seo_slug" : "WinSPC",
+              "vendor_name" : "DataNet Quality Systems",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/b47505a7-a861-421d-b8e5-2f472c2e08bc.png",
+              "rating" : 4.6,
+              "total_reviews" : 15,
+              "slug" : "WinSPC",
+              "product_name" : "WinSPC",
+              "short_desc" : "WinSPC applies real-time SPC to manufacturers' processes so they can create the highest quality product for the lowest possible cost.",
+              "features" : "WinSPC helps manufacturers create the highest quality product for the lowest possible cost. It applies real-time statistical process control (SPC) to detect unexpected process changes. Once detected, WinSPC executes your predefined appropriate actions to help your production staff prevent scrap and rework. It documents everything in an audit trail, generates live remote dashboards to share your status, and produces any required customer and compliance reports you visually define.",
+              "url" : "https://www.winspc.com"
+            },
+            {
+              "product_id" : 107192,
+              "seo_product_id" : 221233,
+              "seo_slug" : "QCBD",
+              "vendor_name" : "CAMA Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/17461f16-cd49-46a5-8a38-9664e30538cd.png",
+              "rating" : 4.6,
+              "total_reviews" : 56,
+              "slug" : "QCBD",
+              "product_name" : "QCBD",
+              "short_desc" : "The AFFORDABLE SOLUTION for small to mid-size MANUFACTURING companies. Best value. full featured, QMS Software. Windows 10 (not web).",
+              "features" : "The AFFORDABLE SOLUTION for small to mid-size companies. Designed specifically for MANUFACTURING companies, Quality Collaboration By Design (QCBD) is an integrated Quality Management Software for managing all your quality data. QCBD dramatically reduces the cost of achieving and maintaining compliance to quality management standards such as ISO 9001, ISO 13485, AS9100, TS 16949 and SQF 2000 / ISO 22000.  Window-based application (client-server, not a web application)",
+              "url" : "https://camasoftware.com"
+            },
+            {
+              "product_id" : 16872,
+              "seo_product_id" : 16872,
+              "seo_slug" : "Document-Locator",
+              "vendor_name" : "ColumbiaSoft",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/65e83e26-3db3-414a-901e-068e3e7e63c5.png",
+              "rating" : 4.6,
+              "total_reviews" : 28,
+              "slug" : "Document-Locator",
+              "product_name" : "Document Locator",
+              "short_desc" : "Powerful document control software ideal for centralized control of ISO and related quality program files. ",
+              "features" : "Powerful document control software to manage quality program files including policies, procedures, SOPs, certifications, log files, change records, non-conformance reports, corrective actions, work instructions, and more. Document Locator is a Windows-integrated document control system ideal for ISO and other quality programs. You maintain control in a centralized system that includes version control, approvals, notifications, required reading, reporting, and API for integrations.",
+              "url" : "https://www.documentlocator.com/lp19/quality-management/?utm_source=capterra.com&utm_medium=referral&utm_content=visit-website&utm_campaign=capterra-quality-mgmt"
+            }
+          ],
+          "related_categories" : [
+            {
+              "functional_group" : "appdevxqm",
+              "long_name" : "Compliance",
+              "html_name" : "compliance-software",
+              "link_name" : "compliance",
+              "product_count" : 219,
+              "meta_description" : "Find and compare top Compliance software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Compliance tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs.",
+              "description" : "<a href=\"/compliance-software\">Compliance software</a> enables an organization to monitor internal controls to ensure that standards and regulations are met.  Compliance solutions that focus on financial and accounting compliance standards, such as the Sarbanes-Oxley Act of 2002, help organizations streamline financial documentation, audit trails, and reporting.  Compliance solutions that focus on environmental compliance standards help organizations monitor and report on emissions, hazmat procedures, and regulatory policies.  <a href=\"/compliance-software\">Compliance software</a> is related to <a href=\"/accounting-software\">Accounting software</a>, and <a href=\"/ehs-management-software\">EHS Management software</a>."
+            },
+            {
+              "functional_group" : "appdevxqm",
+              "long_name" : "MRP",
+              "html_name" : "mrp-software",
+              "link_name" : "mrp",
+              "product_count" : 141,
+              "meta_description" : "Find and compare top Material Requirements Planning (MRP) software on Capterra, with our free and interactive tool. Quickly browse through hundreds of MRP tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/mrp-software\">Material Requirements Planning (MRP) software</a> manages material requirements for manufacturing processes.  These applications are also known as Manufacturing Resources Planning (MRP II) systems.  MRP software enables more efficient business process management for production planning and inventory control, ensuring that materials are readily available to meet production demands.  MRP software is related to <a href=\"/enterprise-resource-planning-software\">Enterprise Resource Planning (ERP) software</a>, <a href=\"/manufacturing-execution-software\">Manufacturing Execution Systems</a> and <a href=/production-scheduling-software>Production Scheduling software</a>."
+            },
+            {
+              "functional_group" : "appdevxqm",
+              "long_name" : "Product Lifecycle Management",
+              "html_name" : "product-lifecycle-management-software",
+              "link_name" : "product-lifecycle-management",
+              "product_count" : 87,
+              "meta_description" : "Find and compare top Product Lifecycle Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Product Lifecycle Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/product-lifecycle-management-software\">Product Lifecycle Management (PLM) software</a> integrates each of the processes required to design, build, deploy and maintain products.  Organizations use PLM applications to reduce the time and expenses associated with the development, manufacturing and repair or upgrade of their products.  Product Lifecycle Management solutions aid in identifying and implementing cost-saving changes to the manufacturing processes, optimizing design engineering and centralizing supplier and part inventory data.  <a href=/product-lifecycle-management-software>Product Lifecycle Management software</a> is related to <a href=\"/enterprise-resource-planning-software\">Enterprise Resource Planning (ERP) software</a>, <a href=\"/mrp-software\">MRP software</a> and <a href=/quality-management-software>Quality Management software</a>."
+            }
+          ],
+          "is_upgraded" : false,
+          "enabled" : true,
+          "filter_options" : {
+            "users" : 14,
+            "platform" : 53,
+            "pricing_options" : 4,
+            "category_related_features" : [
+              19822,
+              19824,
+              32250,
+              52002,
+              52003,
+              52006,
+              52009,
+              52012,
+              52016,
+              52019,
+              52021,
+              52023,
+              52027,
+              52028,
+              52029,
+              52031,
+              52033,
+              52035
+            ],
+            "employees" : 30
+          },
+          "sort_options" : {
+            "sort_review_rating" : 4.2381439208984375,
+            "most_recent_review" : "2021-10-26T16:09:19Z"
+          },
+          "countries" : "ALL",
+          "features_tokenized_text" : "audit_management corrective_and_preventive_actions_(capa) document_coding_&_control document_management quality_control supplier_management workflow_management",
+          "platform_tokenized_text" : "cloud,saas,web-based desktopwindows on-premisewindows on-premiselinux",
+          "users_tokenized_text" : "2-10 11-50 51-200",
+          "pricing_tokenized_text" : "annualsubscription",
+          "badges" : [ ],
+          "bid_spot_us" : 0.0,
+          "currency_code" : "USD",
+          "currency_symbol" : "$",
+          "credit_card_required" : null,
+          "licensing_model" : null,
+          "open_api_offered" : "Yes",
+          "mobile_urls" : [ ],
+          "integrations" : [
+            {
+              "id" : "8a28183a-0b2b-4713-a1bf-a6d200b6a8a1",
+              "name" : "SolidWorks Enterprise PDM"
+            },
+            {
+              "id" : "e3df9c2d-1567-427c-acb2-a6d200b52931",
+              "name" : "Microsoft Power BI"
+            },
+            {
+              "id" : "64e5e74a-71d4-4010-91df-a6d200b6a8a1",
+              "name" : "SolidWorks Premium"
+            },
+            {
+              "id" : "d8314973-7f74-41b5-b4e2-a6d200b2cab3",
+              "name" : "Avalara - inactive"
+            },
+            {
+              "id" : "c2072795-f1bc-4c30-995c-a6d200b49f49",
+              "name" : "Inventor"
+            },
+            {
+              "id" : "ed67881a-7782-4957-ad5d-a6d200b601d6",
+              "name" : "QuickBooks"
+            },
+            {
+              "id" : "5db88122-3156-4a06-87b6-a6d200b6a8a1",
+              "name" : "SolidWorks Simulation Premium"
+            }
+          ],
+          "supported_countries" : [
+            {
+              "id" : 237,
+              "code" : "US",
+              "name" : "United States of America"
+            },
+            {
+              "id" : 41,
+              "code" : "CA",
+              "name" : "Canada"
+            }
+          ],
+          "supported_languages" : [
+            {
+              "id" : 152,
+              "code" : "en",
+              "name" : "English",
+              "location" : null
+            },
+            {
+              "id" : 273,
+              "code" : "fr",
+              "name" : "French",
+              "location" : null
+            }
+          ],
+          "target_industries" : [
+            {
+              "id" : 87,
+              "code" : "17",
+              "name" : "Medical Devices"
+            },
+            {
+              "id" : 28,
+              "code" : "25",
+              "name" : "Consumer Goods"
+            },
+            {
+              "id" : 51,
+              "code" : "145",
+              "name" : "Glass, Ceramics & Concrete"
+            },
+            {
+              "id" : 17,
+              "code" : "54",
+              "name" : "Chemicals"
+            },
+            {
+              "id" : 62,
+              "code" : "147",
+              "name" : "Industrial Automation"
+            },
+            {
+              "id" : 98,
+              "code" : "57",
+              "name" : "Oil & Energy"
+            },
+            {
+              "id" : 129,
+              "code" : "58",
+              "name" : "Shipbuilding"
+            },
+            {
+              "id" : 12,
+              "code" : "12",
+              "name" : "Biotechnology"
+            },
+            {
+              "id" : 46,
+              "code" : "34",
+              "name" : "Food & Beverages"
+            },
+            {
+              "id" : 139,
+              "code" : "92",
+              "name" : "Transportation/Trucking/Railroad"
+            },
+            {
+              "id" : 7,
+              "code" : "50",
+              "name" : "Architecture & Planning"
+            },
+            {
+              "id" : 108,
+              "code" : "117",
+              "name" : "Plastics"
+            },
+            {
+              "id" : 91,
+              "code" : "56",
+              "name" : "Mining & Metals"
+            },
+            {
+              "id" : 14,
+              "code" : "49",
+              "name" : "Building Materials"
+            },
+            {
+              "id" : 102,
+              "code" : "146",
+              "name" : "Packaging and Containers"
+            },
+            {
+              "id" : 85,
+              "code" : "135",
+              "name" : "Mechanical or Industrial Engineering"
+            },
+            {
+              "id" : 78,
+              "code" : "116",
+              "name" : "Logistics and Supply Chain"
+            },
+            {
+              "id" : 9,
+              "code" : "53",
+              "name" : "Automotive"
+            },
+            {
+              "id" : 32,
+              "code" : "1",
+              "name" : "Defense & Space"
+            },
+            {
+              "id" : 64,
+              "code" : "96",
+              "name" : "Information Technology and Services"
+            },
+            {
+              "id" : 27,
+              "code" : "24",
+              "name" : "Consumer Electronics"
+            },
+            {
+              "id" : 36,
+              "code" : "112",
+              "name" : "Electrical/Electronic Manufacturing"
+            },
+            {
+              "id" : 118,
+              "code" : "62",
+              "name" : "Railroad Manufacture"
+            },
+            {
+              "id" : 80,
+              "code" : "55",
+              "name" : "Machinery"
+            }
+          ],
+          "price_range_id" : 1,
+          "aggregated_review_ratings" : {
+            "industry" : {
+              "15" : 5.0,
+              "86" : 3.0,
+              "53" : 4.4,
+              "92" : 4.33,
+              "135" : 4.09,
+              "99" : 5.0,
+              "26" : 4.67,
+              "12" : 3.0,
+              "57" : 3.5,
+              "138" : 3.0,
+              "112" : 4.5,
+              "25" : 4.33,
+              "48" : 4.67,
+              "95" : 4.0,
+              "62" : 4.67,
+              "55" : 4.23,
+              "56" : 3.79,
+              "63" : 5.0,
+              "147" : 3.0,
+              "60" : 4.0,
+              "34" : 5.0,
+              "117" : 3.0,
+              "133" : 5.0,
+              "17" : 4.0
+            },
+            "company_size" : {
+              "501-1000 employees" : 5.0,
+              "51-200 employees" : 4.21,
+              "1-10 employees" : 4.0,
+              "10,001+ employees" : 5.0,
+              "201-500 employees" : 4.75,
+              "11-50 employees" : 4.14
+            }
+          },
+          "vct_enabled" : false,
+          "pricing_plans" : [
+            {
+              "created_on_utc" : "2019-08-21T14:47:39Z",
+              "modified_on_utc" : "2022-04-11T20:39:21Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Basic",
+              "description" : null,
+              "display_order" : 1,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 3000.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Per User",
+              "payment_frequency_name" : "Per Year",
+              "attributes" : [ ]
+            }
+          ],
+          "discount_types" : [ ]
+        }
+      }
+    ]
+  }
+}

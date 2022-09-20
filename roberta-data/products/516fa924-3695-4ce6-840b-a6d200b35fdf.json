@@ -1,0 +1,1845 @@
+{
+  "took" : 2,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 3,
+    "successful" : 3,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : {
+      "value" : 1,
+      "relation" : "eq"
+    },
+    "max_score" : 10.865253,
+    "hits" : [
+      {
+        "_index" : "product_listings_main_data_upc_vt20220920_043802_utc",
+        "_type" : "_doc",
+        "_id" : "150822_calltrack",
+        "_score" : 10.865253,
+        "_source" : {
+          "product_id" : 150822,
+          "seo_product_id" : 226498,
+          "seo_slug" : "Convirza",
+          "product_name" : "Convirza",
+          "upc_product_uuid" : "516fa924-3695-4ce6-840b-a6d200b35fdf",
+          "old_product_ids" : [
+            226498
+          ],
+          "product_url" : "https://www.convirza.com/pricing/",
+          "product_slug" : "Convirza",
+          "former_name" : "Convirza",
+          "logo_filepath" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/c0ec6f94-8e75-4297-8d65-9f10185deca1.png",
+          "vendor" : {
+            "vendor_id" : 2106276,
+            "vendor_name" : "Convirza",
+            "vendor_url" : "https://www.convirza.com/",
+            "year_founded" : 2001,
+            "location" : "United States",
+            "vendor_opted_out_of_reviews" : true,
+            "is_opted_out_of_reviews" : false,
+            "is_hit_limit" : true,
+            "enabled" : true,
+            "has_vendor_level_page" : false,
+            "slug" : null,
+            "vendor_page" : false,
+            "paused_campaign" : false
+          },
+          "category_short_name" : "calltrack",
+          "category_html_name" : "call-tracking-software",
+          "category" : {
+            "id" : 30901,
+            "short_name" : "calltrack",
+            "long_name" : "Call Tracking",
+            "html_name" : "call-tracking-software",
+            "enabled" : true
+          },
+          "best_category" : "calltrack",
+          "is_best_category" : true,
+          "highest_cpc_category" : null,
+          "is_highest_cpc_category" : false,
+          "short_desc" : "Call tracking solution that helps businesses record phone conversations, gauge lead quality, track caller activities, and more.",
+          "long_desc" : "Convirza is the first enterprise call tracking and call optimization platform. We combine traditional call tracking with the powerful analysis of phone calls. Convirza uses speech recognition technology and sophisticated algorithms to gauge lead quality, measure conversions and take action with fully-baked marketing automation. We help sophisticated marketers make better decisions, improve close rates and increase revenue.",
+          "rating" : 4.4,
+          "number_of_reviews" : 71,
+          "total_reviews" : 71,
+          "ease_of_use_rating" : 4.2,
+          "customer_support_rating" : 4.6,
+          "functionality_rating" : 4.2,
+          "value_for_money_rating" : 4.3,
+          "recommendation_rating" : 8.0,
+          "pricing_enabled" : true,
+          "pricing" : 0.0,
+          "is_per_user" : false,
+          "fee_schedule" : null,
+          "pricing_model" : "Other",
+          "pricing_details" : "Starter: $0\r\nProfessional: $69\r\nAgency: $179\r\nCustom plans available",
+          "pricing_created_on" : "2019-08-21T14:47:39Z",
+          "pricing_modified_on" : "2022-06-23T14:42:33Z",
+          "pricing_created_by" : null,
+          "pricing_modified_by" : null,
+          "pricing_vendor_pricing_url" : "https://www.convirza.com/call-tracking-pricing/",
+          "free_trial" : true,
+          "free_version" : false,
+          "target_audience" : "Designed for businesses of all sizes, media/publishing agencies, call centers, and more, it is a call recording solution that helps track and analyze calls to understand caller intent and behavior.",
+          "target_users" : [
+            "2-10",
+            "11-50",
+            "51-200",
+            "201-500",
+            "501-1000",
+            "1000+"
+          ],
+          "platform" : [
+            {
+              "enabled" : true,
+              "name" : "Cloud, SaaS, Web-Based"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Mac"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Chromebook"
+            },
+            {
+              "enabled" : false,
+              "name" : "Mobile Android"
+            },
+            {
+              "enabled" : false,
+              "name" : "Mobile iPhone"
+            },
+            {
+              "enabled" : false,
+              "name" : "Mobile iPad"
+            }
+          ],
+          "support" : [
+            {
+              "enabled" : true,
+              "name" : "Email Help Desk"
+            },
+            {
+              "enabled" : true,
+              "name" : "FAQ Forum"
+            },
+            {
+              "enabled" : true,
+              "name" : "Knowledgebase"
+            },
+            {
+              "enabled" : true,
+              "name" : "Phone Support"
+            },
+            {
+              "enabled" : true,
+              "name" : "24/7 Live Rep"
+            },
+            {
+              "enabled" : true,
+              "name" : "Chat"
+            }
+          ],
+          "training" : [
+            {
+              "enabled" : false,
+              "name" : "Not Offered"
+            },
+            {
+              "enabled" : true,
+              "name" : "In-Person"
+            },
+            {
+              "enabled" : true,
+              "name" : "Live Online"
+            },
+            {
+              "enabled" : true,
+              "name" : "Webinars"
+            },
+            {
+              "enabled" : true,
+              "name" : "Documentation"
+            },
+            {
+              "enabled" : true,
+              "name" : "Videos"
+            }
+          ],
+          "media" : [
+            {
+              "product_id" : 150822,
+              "vendor_id" : 2106276,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/bf51e251-1116-4405-868e-20a72ceb8201.png",
+              "caption" : "Conversation Analytics Report",
+              "weight" : 2,
+              "short_name" : "calltrack"
+            },
+            {
+              "product_id" : 150822,
+              "vendor_id" : 2106276,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/7c38284c-5320-43c2-9f15-8f8615fc160d.png",
+              "caption" : "Marketing Dashboard",
+              "weight" : 1,
+              "short_name" : "calltrack"
+            },
+            {
+              "product_id" : 150822,
+              "vendor_id" : 2106276,
+              "media_type" : "VIDEO",
+              "path_url" : "https://www.youtube.com/watch?v=dxC_MSqwSp4",
+              "caption" : null,
+              "weight" : 0,
+              "short_name" : "calltrack"
+            }
+          ],
+          "links" : [
+            {
+              "product_id" : 150822,
+              "functional_group" : "calltrack",
+              "html_code" : "https://www.convirza.com/free-trial/",
+              "link_name" : "Free Trial",
+              "link_priority" : 1.0
+            },
+            {
+              "product_id" : 150822,
+              "functional_group" : "calltrack",
+              "html_code" : "https://www.convirza.com/free-trial/",
+              "link_name" : "Free Demo",
+              "link_priority" : 2.0
+            },
+            {
+              "product_id" : 150822,
+              "functional_group" : "calltrack",
+              "html_code" : "https://www.convirza.com/pricing/",
+              "link_name" : "Pricing",
+              "link_priority" : 3.0
+            }
+          ],
+          "features" : [
+            {
+              "category_name" : "Call Tracking",
+              "category_features" : [
+                {
+                  "name" : "CRM",
+                  "value" : false,
+                  "id" : "cdf8cb63-9596-4430-bcbb-92162fc532bf",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Contact and lead management to track interactions and notes about clients and prospects"
+                },
+                {
+                  "name" : "Call Recording",
+                  "value" : true,
+                  "id" : "a8a46f44-46c5-4816-8a98-45bd6572314a",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 2.67,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.667,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Record the audio of phone conversations for quality assurance purposes"
+                },
+                {
+                  "name" : "Call Routing",
+                  "value" : true,
+                  "id" : "ea563cd1-5d92-4795-a3e1-b5ce03158fed",
+                  "avg_rating" : 4.6,
+                  "cnt_rating" : 5,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "The procedure of sending voice calls to a specific queue based on predetermined criteria"
+                },
+                {
+                  "name" : "Call Tracking Metrics",
+                  "value" : true,
+                  "id" : "ecc0c311-dd74-41f7-b207-02cca245feb5",
+                  "avg_rating" : 4.9,
+                  "cnt_rating" : 7,
+                  "avg_importance" : 2.67,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.667,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Measure campaign influence through collection of keyword tracking and revenue sources"
+                },
+                {
+                  "name" : "Caller ID",
+                  "value" : true,
+                  "id" : "661f92c2-72b9-45d4-9d68-003501df2a83",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Identify the number and contact information of a caller before answering the phone"
+                },
+                {
+                  "name" : "Conversion Tracking",
+                  "value" : true,
+                  "id" : "e20cfa12-6039-4460-b61e-39c240dcf24f",
+                  "avg_rating" : 4.5,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Monitor conversion rates and analyze effectiveness and profitability of marketing efforts"
+                },
+                {
+                  "name" : "IVR / Voice Recognition",
+                  "value" : true,
+                  "id" : "a29db9db-9a52-4c9a-8635-ad623b508295",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : " Recognize/detect varying frequencies in a person?s voice to identify/verify \"who\" is speaking"
+                },
+                {
+                  "name" : "Keyword Tracking",
+                  "value" : true,
+                  "id" : "198ffbfe-5cad-497f-9c89-4181be41fa61",
+                  "avg_rating" : 3.3,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "The activity of gathering data based on keywords used on phonecalls and online."
+                }
+              ]
+            },
+            {
+              "category_name" : "Business Intelligence",
+              "category_features" : [
+                {
+                  "name" : "Ad hoc Reporting",
+                  "value" : false,
+                  "id" : "d1421844-fd86-4bbd-9c00-d7ef5fbd535a",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Generate reports that meet information requirement, as the occasion requires"
+                },
+                {
+                  "name" : "Benchmarking",
+                  "value" : false,
+                  "id" : "304c4e1e-896d-48ab-9cc2-27ebcae4cc4f",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Compare key metrics for the business against prominent players in the industry"
+                },
+                {
+                  "name" : "Dashboard",
+                  "value" : true,
+                  "id" : "bc649e89-65ca-4012-976f-193e4a4ae7d8",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "An assembly of graphs and charts for tracking statistics and metrics "
+                },
+                {
+                  "name" : "Key Performance Indicators",
+                  "value" : false,
+                  "id" : "ac585201-d2e0-40f5-939c-4c87c8ae853c",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Important metrics on which company is evaluated"
+                },
+                {
+                  "name" : "Performance Metrics",
+                  "value" : true,
+                  "id" : "28071df9-b91d-44b7-9721-10fe2f036819",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "A set of indicators that tracks how well an organization, a division, or a particular project are performing"
+                },
+                {
+                  "name" : "Predictive Analytics",
+                  "value" : false,
+                  "id" : "b0d62a12-d80f-45a3-b884-6b6b66e1224e",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Predict future data based on historical data sets"
+                },
+                {
+                  "name" : "Profitability Analysis",
+                  "value" : false,
+                  "id" : "615ff3b3-f0bd-4dc2-ade0-78a59b94a3b9",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Evaluate the degree to which business operations bring monetary gains"
+                },
+                {
+                  "name" : "Publishing / Sharing",
+                  "value" : false,
+                  "id" : "47abfaeb-3c49-4c78-a2aa-e144c7409b8e",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Share pre-configured sets of data organized and presented in a specific manner with the organization"
+                },
+                {
+                  "name" : "Scorecards",
+                  "value" : false,
+                  "id" : "40e7a14e-41f4-4c22-a93c-44a9120a4229",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Capture statistical records to measure achievements or progress towards  a particular goal."
+                },
+                {
+                  "name" : "Strategic Planning",
+                  "value" : false,
+                  "id" : "53835124-ef52-4b4c-b50e-ec7fdbfc59ee",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "At a high level, visualize a preferred outcome, define goals and identify specific steps to achieve them"
+                },
+                {
+                  "name" : "Trend / Problem Indicators",
+                  "value" : false,
+                  "id" : "fec288fa-291b-460d-89e7-dd28c7e4c684",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Visually identify direction of development and areas that require attention"
+                },
+                {
+                  "name" : "Visual Analytics",
+                  "value" : true,
+                  "id" : "e719fa80-0e0a-4e92-8f46-60b684cd588d",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Interact with data visualization elements, such as charts and graphs, to drill down into data"
+                }
+              ]
+            },
+            {
+              "category_name" : "Call Recording",
+              "category_features" : [
+                {
+                  "name" : "Archiving & Retention",
+                  "value" : true,
+                  "id" : "d040ff59-ba51-46e1-936e-4b89133c24ea",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Store call recordings into a more compressed form, usually in a separate location"
+                },
+                {
+                  "name" : "Call Recording",
+                  "value" : true,
+                  "id" : "a8a46f44-46c5-4816-8a98-45bd6572314a",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 2.67,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.667,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Allow businesses to monitor calls over multiple locations on different networks"
+                },
+                {
+                  "name" : "Call Tagging",
+                  "value" : true,
+                  "id" : "9e6ecaa6-789b-4735-a9e6-177f22a47a4d",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Highlight specific time marks for annotation and review purposes"
+                },
+                {
+                  "name" : "Event Triggered Actions",
+                  "value" : true,
+                  "id" : "59bd4ae4-2a94-4322-a5ac-144d2d3b74fc",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Record calls based on customer behavior "
+                },
+                {
+                  "name" : "File Transfer",
+                  "value" : true,
+                  "id" : "cee432e8-0938-47c1-a40c-dde72cc41efd",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Secure file sharing between multiple endpoints"
+                },
+                {
+                  "name" : "On-Demand Recording",
+                  "value" : true,
+                  "id" : "f91ccf22-dc4a-4784-a979-1dcc7b379d20",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Record the audio of phone conversations for quality assurance purposes"
+                },
+                {
+                  "name" : "Recording",
+                  "value" : true,
+                  "id" : "de12fb0f-30bc-4dc5-b452-ff035986caeb",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Record live calls to play later"
+                },
+                {
+                  "name" : "Scheduled Recording",
+                  "value" : false,
+                  "id" : "d4d1f1cb-4efd-4ffb-afa9-d85461822219",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Automatically record calls at predetermined times"
+                }
+              ]
+            },
+            {
+              "category_name" : "IVR",
+              "category_features" : [
+                {
+                  "name" : "Automatic Call Distribution",
+                  "value" : false,
+                  "id" : "1b95ff50-3de0-4187-9508-7b91b7b1de32",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Call Center Management",
+                  "value" : false,
+                  "id" : "2aaef140-e839-40ae-adaa-7984914ee418",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Call Logging",
+                  "value" : false,
+                  "id" : "1d1bda13-276d-4128-af5f-c429b1376e05",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Call Monitoring",
+                  "value" : true,
+                  "id" : "dd35bf91-e674-4d2f-af33-e7bb1a6be581",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Call Recording",
+                  "value" : true,
+                  "id" : "a8a46f44-46c5-4816-8a98-45bd6572314a",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 2.67,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.667,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Call Routing",
+                  "value" : true,
+                  "id" : "ea563cd1-5d92-4795-a3e1-b5ce03158fed",
+                  "avg_rating" : 4.6,
+                  "cnt_rating" : 5,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Callback Scheduling",
+                  "value" : false,
+                  "id" : "9f5d672c-1975-4a0e-a234-ba0bbca32a58",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Campaign Management",
+                  "value" : true,
+                  "id" : "08a976af-4728-4543-8941-8f3c1da99734",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Computer Telephony Integration",
+                  "value" : false,
+                  "id" : "6bd2484b-c0b4-4e9d-bee9-f5f5ebcf64ea",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "IVR / Voice Recognition",
+                  "value" : true,
+                  "id" : "a29db9db-9a52-4c9a-8635-ad623b508295",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Multiple Scripts",
+                  "value" : false,
+                  "id" : "24cb5c06-0491-471b-857f-6938443d4d0f",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Phone Key Input",
+                  "value" : false,
+                  "id" : "dc3e1b5f-cdf0-4677-b42b-e5212ae05558",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Pre-recorded Messages",
+                  "value" : false,
+                  "id" : "acf022ae-9cf1-4a97-9c57-9587c4351add",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Survey/Poll Management",
+                  "value" : false,
+                  "id" : "140bc433-ccfa-4403-861c-e4371d16e682",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Text to Speech",
+                  "value" : false,
+                  "id" : "7a364d3a-ef37-4f20-a5f5-fc58a686c2ac",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Voice Customization",
+                  "value" : false,
+                  "id" : "212af3ce-9062-4cb5-ad30-ad73816770e7",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Voice Mail",
+                  "value" : true,
+                  "id" : "1490b2df-eade-4969-bb72-438981a33596",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                }
+              ]
+            }
+          ],
+          "infographics" : [ ],
+          "related_products" : [
+            {
+              "product_id" : 242188,
+              "seo_product_id" : 242188,
+              "seo_slug" : "RingCentral-MVP",
+              "vendor_name" : "RingCentral",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/3766495d-3c37-44ed-ae0c-4ccd24835955.png",
+              "rating" : 4.2,
+              "total_reviews" : 969,
+              "slug" : "RingCentral-MVP",
+              "product_name" : "RingCentral MVP",
+              "short_desc" : "Complete cloud phone system that is easy to set up and easy to manage.",
+              "features" : "RingCentral MVP is a cloud-based business communications system with enterprise-grade voice, fax, text, online meetings, conferencing, and collaboration.\n\nWith RingCentral MVP, you can easily connect your office, remote and mobile employees under one phone system, regardless of their location.\n\nUnlike expensive, conventional phone systems, RingCentral MVP is purchased, activated, set up, and managed online, which means we manage it and you use it.",
+              "url" : "http://prf.hn/click/?camref=1100lSkt&creativeref=1100l17970&type=cpc"
+            },
+            {
+              "product_id" : 163604,
+              "seo_product_id" : 222025,
+              "seo_slug" : "GoToConnect",
+              "vendor_name" : "GoTo",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/420d013e-1667-4846-a909-0e533179fe7d.jpeg",
+              "rating" : 4.5,
+              "total_reviews" : 615,
+              "slug" : "Jive-Hosted-VoIP",
+              "product_name" : "GoTo Connect",
+              "short_desc" : "GoToConnect combines Jive's VoIP phone systems with GoToMeeting's video conferencing into one simple, reliable and flexible solution.",
+              "features" : "GoToConnect (formerly Jive) combines cloud VoIP phone systems with GoToMeeting's web, audio and video capabilities into one simple, flexible solution. Users can meet, talk, and collaborate via web browser, desktop application, or desk phone with features ranging from virtual voicemail, and call forwarding, to secure video conferencing and screen sharing. For as low as $19.95 a month, GoToConnect eliminates the hassle and expense of managing multiple collaboration solution providers.",
+              "url" : "https://www.goto.com/offer/connect/a?utm_source=capterra&utm_medium=review-sites&utm_campaign=call_tracking&campaignID=7011B000002ZKDFQA4"
+            },
+            {
+              "product_id" : 220536,
+              "seo_product_id" : 220536,
+              "seo_slug" : "Dialpad",
+              "vendor_name" : "Dialpad",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/db8210f5-fd7d-4a5b-8631-b1fbb3ddf3c6.png",
+              "rating" : 4.4,
+              "total_reviews" : 461,
+              "slug" : "Dialpad",
+              "product_name" : "Dialpad",
+              "short_desc" : "Dialpad modernizes communication technology, putting voice, messaging, meetings, and video on any device. ",
+              "features" : "Dialpad is a modern cloud-based Unified Communications system that keeps teams connected by making all of their telephony needs available on any device. Dialpad Talk's native Voice Intelligence features boost productivity with real-time transcription and post-call summaries, including highlighted action items. Plus integrations with G Suite, Office 365, Zendesk, and Salesforce create rapid deployments and automatic syncing with the apps your team uses everyday.",
+              "url" : "https://signup.dialpad.com/support/"
+            },
+            {
+              "product_id" : 135148,
+              "seo_product_id" : 221957,
+              "seo_slug" : "Agile-CRM",
+              "vendor_name" : "Agile CRM",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4dd8e898-253a-4e64-8f55-73d688838bdb.png",
+              "rating" : 4.1,
+              "total_reviews" : 433,
+              "slug" : "Agile-CRM",
+              "product_name" : "Agile CRM",
+              "short_desc" : "Agile CRM is a complete sales, marketing and service suite designed to let SMBs to sell and market like the Fortune 500.",
+              "features" : "Agile CRM Call Recording - Make, receive, record, and analyze calls without leaving your CRM. With Agile?s built-in call recording and advanced telephony capabilities, you can say goodbye to partial recollection of telephone calls, improve sales performance, and always stay on top of your customer and prospect relationships.",
+              "url" : "https://www.agilecrm.com"
+            },
+            {
+              "product_id" : 159578,
+              "seo_product_id" : 159578,
+              "seo_slug" : "CallHippo",
+              "vendor_name" : "CallHippo",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/0933a2a1-8401-453d-9b22-6ac653d9cba1.png",
+              "rating" : 4.2,
+              "total_reviews" : 351,
+              "slug" : "CallHippo",
+              "product_name" : "CallHippo",
+              "short_desc" : "CallHippo is an Easy to Use Phone System while providing world-class support. It can be setup Instant and provide advanced reporting.",
+              "features" : "CallHippo is a modern business phone system that helps you connect with your customers. CallHippo is easy-to-use while offering robust functionality with advanced features like Power Dailer and Automatic call distribution. Our Extensive reporting and seamless integrations empower sales and service teams to have effective conversations with customers. Providing World-Class support 24*7 and Accessible by desktop and mobile-app, CallHippo is trusted by over 5000 companies worldwide.",
+              "url" : "https://callhippo.com/?utm_medium=cpc&utm_campaign=platformPPC"
+            },
+            {
+              "product_id" : 223767,
+              "seo_product_id" : 223767,
+              "seo_slug" : "Twilio-Voice",
+              "vendor_name" : "Twilio",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/5f8535c3-3270-467d-a3bf-db8b9a2d0fc3.png",
+              "rating" : 4.6,
+              "total_reviews" : 306,
+              "slug" : "Twilio-Voice",
+              "product_name" : "Twilio",
+              "short_desc" : "Twilio provides simple, pay-as-you-go APIs for businesses to build scalable, reliable voice and SMS apps for the web or mobile devices.",
+              "features" : "Twilio is the worlds leading cloud communication platform that enables you to engage customers across channels - SMS, voice, video, email, WhatsApp and more. Pay-as-you-go APIs allow businesses to scale communications reliably. ",
+              "url" : "https://www.twilio.com/voice"
+            },
+            {
+              "product_id" : 178819,
+              "seo_product_id" : 222203,
+              "seo_slug" : "EngageBay",
+              "vendor_name" : "EngageBay",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/f68dbd37-d921-4284-a28c-535eb223074a.png",
+              "rating" : 4.6,
+              "total_reviews" : 263,
+              "slug" : "EngageBay-Marketing",
+              "product_name" : "EngageBay",
+              "short_desc" : "EngageBay is a simple, affordable all-in-one marketing, sales and service CRM software to acquire, engage, nurture, close leads.",
+              "features" : "EngageBay is a simple, affordable, all-in-one marketing, sales and service CRM software built for small businesses and startups to acquire, engage, nurture web visitors and convert them to happy customers. Acquire leads through lead generation forms and popups, engage web visitors through beautiful landing pages, nurture them through engaging emails, and automate your marketing funnel through marketing automation - all from one easy to use platform. ",
+              "url" : "https://www.engagebay.com/?utm_medium=listing&utm_source=capterra&utm_campaign=product-listing"
+            },
+            {
+              "product_id" : 182004,
+              "seo_product_id" : 223437,
+              "seo_slug" : "CloudTalk",
+              "vendor_name" : "CloudTalk",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/382dee83-fb49-44a4-8310-01dcd30d39b9.png",
+              "rating" : 4.4,
+              "total_reviews" : 243,
+              "slug" : "CloudTalk",
+              "product_name" : "CloudTalk",
+              "short_desc" : "CloudTalk is a cloud-based phone system for support and sales teams. We make calling easy and fun! Get your FREE trial today!",
+              "features" : "CloudTalk is a smart phone system with advanced call tracking functionality.  Over 2,500 businesses - including DHL, Yves Rocher and Glovo - rely on CloudTalk for its superior call quality and call tracking capabilities. Make things easier for your sales and customer support teams with 70+ tracking features and easy integrations with your existing Helpdesk, CRM and eCommerce systems. It's the perfect phone system for mid-sized companies looking to grow. Try a 14-day trial, absolutely FREE.",
+              "url" : "https://www.cloudtalk.io/signup/?utm_source=capterra&utm_medium=ppc&utm_campaign=calltracking"
+            },
+            {
+              "product_id" : 181835,
+              "seo_product_id" : 223099,
+              "seo_slug" : "CallSource",
+              "vendor_name" : "CallSource",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/18082347-1e0f-40b1-9293-580420ccb28b.png",
+              "rating" : 4.4,
+              "total_reviews" : 193,
+              "slug" : "CallTrack",
+              "product_name" : "CallSource",
+              "short_desc" : "CallSource helps marketers to prove the lift and value of their campaigns by tracking every call back to what drove them to convert.",
+              "features" : "Level up your marketing channels - automatic online and offline call tracking. Keyword level dynamic number insertion with the most accurate analytics available. Businesses who want to improve their marketing by optimizing ads, campaigns, keywords, and their content can thrive with our digital marketing solutions.",
+              "url" : "https://try.callsource.com/website-call-tracking/?utm_medium=cpc"
+            },
+            {
+              "product_id" : 141829,
+              "seo_product_id" : 212329,
+              "seo_slug" : "CallRail",
+              "vendor_name" : "CallRail",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/b895c251-3c99-4dfa-a537-a47bad9765f5.png",
+              "rating" : 4.5,
+              "total_reviews" : 150,
+              "slug" : "CallRail",
+              "product_name" : "CallRail",
+              "short_desc" : "CallRail's Call Tracking helps you understand what makes your phone right and personalize inbound call experiences.",
+              "features" : "CallRail's Call Tracking makes it easy for businesses of all sizes to turn more leads into better customers. Serving more than 200,000 businesses and integrating with leading marketing and sales software, our Call Tracking and analytics solutions helps you understand what makes your phone ring and which ad, campaign, or search term got their attention before you pick up the phone.",
+              "url" : "https://www.callrail.com/?utm_medium=cpc&utm_campaign=capterra_call_tracking"
+            },
+            {
+              "product_id" : 132667,
+              "seo_product_id" : 132667,
+              "seo_slug" : "Close-io",
+              "vendor_name" : "Elastic",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e22da957-23ac-4c83-b45d-7cf1dc495bfb.png",
+              "rating" : 4.7,
+              "total_reviews" : 145,
+              "slug" : "Close-io",
+              "product_name" : "Close",
+              "short_desc" : "Close is the all-in-one sales engagement CRM designed to help SMBs turn more leads into revenue.",
+              "features" : "Close is the sales engagement CRM designed to help SMBs turn more leads into revenue. At Close, were dedicated to the business of the future: smart, agile teams who work remotely. If you're a tech-enabled team who needs to scale without overpaying for enterprise software, you've found the right sales tool. Close lets you email, call, and text your leads, all without add-ons.\n\nPacked with productivity tools like task reminders and Power Dialer, you'll reach more leads and follow up more often.",
+              "url" : "https://close.com/?utm_source=capterra&utm_medium=ref&utm_campaign=2021&utm_content=homepage"
+            }
+          ],
+          "similar_products" : [
+            {
+              "product_id" : 141829,
+              "seo_product_id" : 212329,
+              "seo_slug" : "CallRail",
+              "vendor_name" : "CallRail",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/b895c251-3c99-4dfa-a537-a47bad9765f5.png",
+              "rating" : 4.5,
+              "total_reviews" : 150,
+              "slug" : "CallRail",
+              "product_name" : "CallRail",
+              "short_desc" : "CallRail's Call Tracking helps you understand what makes your phone right and personalize inbound call experiences.",
+              "features" : "CallRail's Call Tracking makes it easy for businesses of all sizes to turn more leads into better customers. Serving more than 200,000 businesses and integrating with leading marketing and sales software, our Call Tracking and analytics solutions helps you understand what makes your phone ring and which ad, campaign, or search term got their attention before you pick up the phone.",
+              "url" : "https://www.callrail.com/?utm_medium=cpc&utm_campaign=capterra_call_tracking"
+            },
+            {
+              "product_id" : 142981,
+              "seo_product_id" : 226317,
+              "seo_slug" : "Invoca",
+              "vendor_name" : "Invoca",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/b9f7c94f-cd2f-41af-9431-569611f7bb36.png",
+              "rating" : 4.8,
+              "total_reviews" : 18,
+              "slug" : "Invoca",
+              "product_name" : "Invoca",
+              "short_desc" : "Invoca is the leading conversation intelligence platform for revenue teams in marketing, contact centers, eCommerce and CX.",
+              "features" : "Invoca's Active Conversation Intelligence platform enables marketing, sales, customer experience, and eCommerce teams to understand and immediately act on the information consumers share via conversations. Through deep integrations with leading technology platforms, revenue teams can turn conversation data into automated action to enhance every digital touchpoint and human interaction, leading to better experiences, more conversions, and higher revenue.",
+              "url" : "https://go.invoca.com/demo-lp-capterra.html"
+            },
+            {
+              "product_id" : 152004,
+              "seo_product_id" : 227410,
+              "seo_slug" : "CallTrackingMetrics",
+              "vendor_name" : "CallTrackingMetrics",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/b19d6b9a-b6c6-4c66-a07d-307843158780.png",
+              "rating" : 4.5,
+              "total_reviews" : 67,
+              "slug" : "Call-tracking-software",
+              "product_name" : "CallTrackingMetrics",
+              "short_desc" : "CTM lets you track & attribute leads, from any source, giving you data to confidently make marketing decisions & increase conversions.",
+              "features" : "CallTrackingMetrics is a global conversation analytics provider giving marketers data to make confident strategy decisions. Over 100,000 users, including The Washington Post, Verizon Connect, and ServiceMaster, rely on CTM to make data-driven advertising decisions. CTM integrates with core tools marketers use every day like Google Ads and Analytics, Hubspot, Salesforce, Zoom, and Facebook. ",
+              "url" : "https://my.calltrackingmetrics.com/calltracking-lp?utm_medium=cpc&utm_campaign=capterra_calltracking"
+            },
+            {
+              "product_id" : 163604,
+              "seo_product_id" : 222025,
+              "seo_slug" : "GoToConnect",
+              "vendor_name" : "GoTo",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/420d013e-1667-4846-a909-0e533179fe7d.jpeg",
+              "rating" : 4.5,
+              "total_reviews" : 615,
+              "slug" : "Jive-Hosted-VoIP",
+              "product_name" : "GoTo Connect",
+              "short_desc" : "GoToConnect combines Jive's VoIP phone systems with GoToMeeting's video conferencing into one simple, reliable and flexible solution.",
+              "features" : "GoToConnect (formerly Jive) combines cloud VoIP phone systems with GoToMeeting's web, audio and video capabilities into one simple, flexible solution. Users can meet, talk, and collaborate via web browser, desktop application, or desk phone with features ranging from virtual voicemail, and call forwarding, to secure video conferencing and screen sharing. For as low as $19.95 a month, GoToConnect eliminates the hassle and expense of managing multiple collaboration solution providers.",
+              "url" : "https://www.goto.com/offer/connect/a?utm_source=capterra&utm_medium=review-sites&utm_campaign=default&campaignID=7011B000002ZKDFQA4"
+            },
+            {
+              "product_id" : 152001,
+              "seo_product_id" : 224296,
+              "seo_slug" : "WhatConverts",
+              "vendor_name" : "WhatConverts",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/5baf147c-4187-4a75-bd07-0ef34da7406a.png",
+              "rating" : 4.9,
+              "total_reviews" : 47,
+              "slug" : "WhatConverts",
+              "product_name" : "WhatConverts",
+              "short_desc" : "Get marketing clarity, with call tracking.\r\nTie phone calls to marketing. Instantly capture phone calls and the marketing responsible.",
+              "features" : "Get marketing clarity, with call tracking.\r\nA new lead management tool built for marketers and business owners to capture and measure your marketing effectiveness. See a clear picture of what marketing is growing sales.\r\nTry our 14 Day Free Trial.\r\n\r\nCapture Calls. Tie phone calls to marketing. Instantly capture phone calls and the marketing responsible.",
+              "url" : "https://www.whatconverts.com/page/better-call-tracking/"
+            },
+            {
+              "product_id" : 181835,
+              "seo_product_id" : 223099,
+              "seo_slug" : "CallSource",
+              "vendor_name" : "CallSource",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/18082347-1e0f-40b1-9293-580420ccb28b.png",
+              "rating" : 4.4,
+              "total_reviews" : 193,
+              "slug" : "CallTrack",
+              "product_name" : "CallSource",
+              "short_desc" : "CallSource helps marketers to prove the lift and value of their campaigns by tracking every call back to what drove them to convert.",
+              "features" : "Level up your marketing channels - automatic online and offline call tracking. Keyword level dynamic number insertion with the most accurate analytics available. Businesses who want to improve their marketing by optimizing ads, campaigns, keywords, and their content can thrive with our digital marketing solutions.",
+              "url" : "https://www.callsource.com/solutions/?utm_medium=cpc"
+            },
+            {
+              "product_id" : 199792,
+              "seo_product_id" : 199792,
+              "seo_slug" : "SGENQuery",
+              "vendor_name" : "SAI",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/a93d82a2-91c3-4b64-a416-711362df075b.jpeg",
+              "rating" : 0.0,
+              "total_reviews" : 0,
+              "slug" : "SGENQuery",
+              "product_name" : "InQuery",
+              "short_desc" : "Sierragold by SAI's InQuery is a fast, reliable & secure call record query application. Access historical and current CDR,  24/7.",
+              "features" : "Sierragold by SAI's InQuery is a web-based, fast, and reliable call record query application running on the Linux OS. It uses a very current database & other technologies ensuring data security, reliability, and ease of use.  The modern interface allows for efficient searches of historical or current call records. The online application is available 24/7 to authorized personnel using today's top web browsers.   \r\n\r\nAt SAI our mission is to help enterprises simplify a complex telecom environment.",
+              "url" : "https://sierragold.com/information-request-form?utm_source=capterra&utm_medium=PPC&utm_campaign=Capterra_PPC"
+            },
+            {
+              "product_id" : 81432,
+              "seo_product_id" : 81432,
+              "seo_slug" : "LiveVox",
+              "vendor_name" : "LiveVox",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/6ab96803-e362-4eac-bc11-f147a640e6fe.png",
+              "rating" : 4.7,
+              "total_reviews" : 30,
+              "slug" : "LiveVox",
+              "product_name" : "LiveVox",
+              "short_desc" : "LiveVox is a next-generation contact center platform integrating omnichannel communications, CRM, Practical AI, and WFO in one solution",
+              "features" : "LiveVox's Call and Screen Recording Capabilities is a fully integrated solution that provides complete visibility on 100% of agent-customer interactions to help drive performance, quality, and compliance via synchronized screen, call, and multichannel recording capabilities. Their Unified platform allows managers to easily search, play, score, and report on multichannel interactions and drop in on live calls.  Recordings are securely stored in the LiveVox cloud and readily accessible.",
+              "url" : "https://livevox.com"
+            },
+            {
+              "product_id" : 126733,
+              "seo_product_id" : 225818,
+              "seo_slug" : "ClickPoint",
+              "vendor_name" : "ClickPoint Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/7c33e1d1-b5ae-4984-9a6c-c44d3e5d7a07.png",
+              "rating" : 4.6,
+              "total_reviews" : 20,
+              "slug" : "SalesExec",
+              "product_name" : "ClickPoint",
+              "short_desc" : "All-in-one sales automation solution that includes call tracking and call routing. Route calls via shotgun, round-robin, or criteria. ",
+              "features" : "ClickPoint is an all-in-one sales and marketing solution to improve sales contact rates dramatically.  \nClickPoint clients contact more than 50% of their leads on average, and reach contact rates as high a as 70%. ClickPoint makes it easy for salespeople to dial their prospects while automated texting and email marketing reach customers at the right time in their buying journey. ",
+              "url" : "https://www.clickpointsoftware.com/lead-management-software.html"
+            },
+            {
+              "product_id" : 130199,
+              "seo_product_id" : 227220,
+              "seo_slug" : "LeadSquared",
+              "vendor_name" : "LeadSquared",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/7e5a618b-25a4-45e3-a86b-7642ea6f585a.png",
+              "rating" : 4.3,
+              "total_reviews" : 123,
+              "slug" : "LeadSquared",
+              "product_name" : "LeadSquared",
+              "short_desc" : "Call Tracking Software that tracks all inbound and outbound calls, increases sales, and analyzes metrics with ease. ",
+              "features" : "LeadSquared's Call Tracking Software integrates perfectly with CallTrackingMetrics to improve caller experience and track all inbound and outbound calls. Capture all inbound phone calls and voicemails, directly make outbound calls, avoid lead duplication, maintain call logs and reports, route incoming calls to the right agents, and more. Monitor the number of calls received, outbound calls made, missed calls, calls that led to conversions, average time spent, etc.   ",
+              "url" : "https://www.leadsquared.com?utm_source=Referral%20Sites&utm_medium=GartnerPPC&utm_campaign=DefaultListing"
+            },
+            {
+              "product_id" : 141932,
+              "seo_product_id" : 223300,
+              "seo_slug" : "Ricochet360",
+              "vendor_name" : "Ricochet360",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/082cf626-78c1-4d16-97f3-0160ab3368a8.png",
+              "rating" : 4.7,
+              "total_reviews" : 26,
+              "slug" : "Ricochet",
+              "product_name" : "Ricochet360",
+              "short_desc" : "Our products include: Auto Dialer, Cloud Phone System, Progressive Dialer, CRM & Lead Management, and Email & SMS Marketing Automation.",
+              "features" : "Ricochet360 is the All-in-One Auto Dialer, CRM/Lead Management, and Marketing Automation Platform that creates predictable revenue outcomes by automating 95% of your agents daily sales workflow. Designed for both inbound & outbound agents looking for a competitive advantage, Ricochet360 enables your team to call a new lead in less than one second, then automatically nurture and engage prospects throughout the entire sales process. \n \n\n",
+              "url" : "https://www.ricochet360.com/auto-dialer-capterra/"
+            },
+            {
+              "product_id" : 145589,
+              "seo_product_id" : 250928,
+              "seo_slug" : "Ringostat",
+              "vendor_name" : "Ringostat",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/cd0c1bf6-df5e-49e7-95b4-19a29995efa8.png",
+              "rating" : 5.0,
+              "total_reviews" : 21,
+              "slug" : "Ringostat",
+              "product_name" : "Ringostat",
+              "short_desc" : "Find out which ads drive calls with Ringostat Call Tracking. Know which ad, campaign, or keyword got attention of your customers.\n",
+              "features" : "Find out which ads drive calls. \nIf your business relies on quality customer conversations, you need Ringostat. Special offer! Get Ringostat with a benefit of up to 30% until 30.09.22\n\nUse call tracking opportunities to maximize marketing impact and generate more sales for the same budget. Ringostat has everything you need to solve this task as efficiently as possible: 97% accuracy, Smart substitution script, Calls segmentation, Recording and listening of calls etc.\n",
+              "url" : "https://ringostat.com/calltracking-day/?utm_campaign=capterra&utm_medium=referral&utm_source=capterra"
+            },
+            {
+              "product_id" : 153696,
+              "seo_product_id" : 153696,
+              "seo_slug" : "CallPage",
+              "vendor_name" : "CallPage",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/3f5a5033-f878-4310-a4ce-cfeb3c067204.png",
+              "rating" : 4.4,
+              "total_reviews" : 31,
+              "slug" : "CallPage",
+              "product_name" : "CallPage",
+              "short_desc" : "Turn website visitors into sales calls.  Use CallPage and provide immediate free phone callback to your leads in 28 seconds.",
+              "features" : "CallPage is an industry leader in providing automatic callback software and call tracking solutions. \n\nWith customizable widgets, CallPage enables businesses to generate up to 75% more inbound calls from their website visitors! Visitors can request instant calls and CallPage will connect them to your consultant in just 28 seconds. \n\nCallPage is also ideal for customer service and call centers.  With call scheduling and voice messaging features, you can improve your customers' experience.\n",
+              "url" : "https://www.callpage.io"
+            }
+          ],
+          "related_categories" : [
+            {
+              "functional_group" : "calltrack",
+              "long_name" : "Business Intelligence",
+              "html_name" : "business-intelligence-software",
+              "link_name" : "business-intelligence",
+              "product_count" : 272,
+              "meta_description" : "Find and compare top Business Intelligence software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Business Intelligence tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs.",
+              "description" : "<a href=\"/business-intelligence-software\">Business Intelligence software</a> enables companies to access, analyze and share information in order to improve decision-making through gathering performance metrics.  By providing an infrastructure for compiling, analyzing and distributing key data, Business Intelligence applications facilitate more accurate reporting and monitoring as well as strategy implementation and assessment.  <a href=\"/business-intelligence-software\">Business Intelligence software</a> is related to <a href=\"/reporting-software\">Reporting software</a>, <a href=\"/knowledge-management-software\">Knowledge Management software</a> and <a href=\"/survey-software\">Survey software</a>."
+            },
+            {
+              "functional_group" : "calltrack",
+              "long_name" : "Call Center",
+              "html_name" : "call-center-software",
+              "link_name" : "call-center",
+              "product_count" : 174,
+              "meta_description" : "Find and compare top Call Center software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Call Center tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs.",
+              "description" : "<a href=/call-center-software>Call Center software</a> automates and standardizes the process of receiving and responding to customer phone calls. These solutions enable better monitoring of the customer experience, workflow management and evaluation of employee performance.  Whether designed for virtual or site-based locations, Call Center applications manage and catalog the process of customer calls and often allow customers to track the progress of their request via the internet.  <a href=/call-center-software>Call Center software</a> is related to <a href=/customer-service-software>Customer Service software</a> and <a href=/help-desk-software>Help Desk software</a>."
+            },
+            {
+              "functional_group" : "calltrack",
+              "long_name" : "Campaign Management",
+              "html_name" : "campaign-management-software",
+              "link_name" : "campaign-management",
+              "product_count" : 67,
+              "meta_description" : "Find and compare top Campaign Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Campaign Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs.",
+              "description" : "<a href=/campaign-management-software>Campaign Management software</a> enables organizations to automate the tracking, delivery, reporting and analysis of marketing campaigns and promotions through the integration of customer data sources and the ability to parse the data through a broad range of analytic searches.  Using this type of marketing campaign reporting allows organizations to evaluate and optimize multiple campaigns for different business sectors based on real-world analysis of their effectiveness. <a href=/campaign-management-software>Campaign Management software</a> is related to <a href=/email-marketing-software>Email Marketing software</a>, <a href=/marketing-automation-software>Marketing Automation software</a> and <a href=/search-marketing-automation-software>Search Marketing Automation software</a>."
+            },
+            {
+              "functional_group" : "calltrack",
+              "long_name" : "Lead Management",
+              "html_name" : "lead-management-software",
+              "link_name" : "lead-management",
+              "product_count" : 137,
+              "meta_description" : "Find and compare top Lead Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Lead Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/lead-management-software>Lead Management software</a> enables the forecasting, collection and tracking of sales leads.  Through the use of Lead Management solutions, organizations can automate and manage their prospect database as well as share and distribute leads throughout the enterprise.  Organizations can also use Lead Management tools to track the progress of leads, analyze the performance of sales staff and marketing campaigns and develop new leads from their existing customer base.  <a href=/lead-management-software>Lead Management software</a> is related to <a href=/contact-management-software>Contact Management software</a> and <a href=/sales-force-automation-software>Sales Force Automation software</a>."
+            },
+            {
+              "functional_group" : "calltrack",
+              "long_name" : "Reporting",
+              "html_name" : "reporting-software",
+              "link_name" : "reporting",
+              "product_count" : 124,
+              "meta_description" : "Find and compare top Reporting software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Reporting tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/reporting-software>Reporting software</a> applications allow real-time access to essential data as well as the rapid generation of multidimensional reports from diverse data sources.  Among many other uses, <a href=/reporting-software>Reporting software</a> can generate financial statements, track the success of sales strategies, monitor responsiveness to regulatory <a href=\"/compliance-software\">compliance</a> concerns and manage internal controls or security audits. <a href=/reporting-software>Reporting software</a> is related to <a href=/business-intelligence-software>Business Intelligence software</a> and <a href=/survey-software>Survey software</a>."
+            },
+            {
+              "functional_group" : "calltrack",
+              "long_name" : "Sales Force Automation",
+              "html_name" : "sales-force-automation-software",
+              "link_name" : "sales-force-automation",
+              "product_count" : 176,
+              "meta_description" : "Find and compare top Sales Force Automation software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Sales Force Automation tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/sales-force-automation-software>Sales Force Automation software</a> manages an organization's sales force functions which can include: lead management, customer account management, contact management, quote management, forecasting, customer demographics and <a href=\"/performance-appraisal-software\">employee performance management</a>. Sales Force Automation applications improve sales productivity while providing a method of distribution for sales analytics throughout an enterprise.  <a href=/sales-force-automation-software>Sales Force Automation software</a> is related to <a href=/commission-software>Commission software</a>, <a href=/contact-management-software>Contact Management software</a>, <a href=/lead-management-software>Lead Management software</a> and <a href=/quoting-software>Quoting software</a>."
+            }
+          ],
+          "is_upgraded" : true,
+          "enabled" : true,
+          "filter_options" : {
+            "users" : 126,
+            "platform" : 1,
+            "pricing_options" : 16,
+            "category_related_features" : [
+              25482,
+              25483,
+              25484,
+              25486,
+              25488,
+              25489,
+              25490,
+              42441,
+              45147,
+              45150,
+              45155,
+              45170,
+              45172,
+              45175,
+              45180,
+              45183,
+              45184,
+              45185,
+              45186
+            ],
+            "employees" : 126
+          },
+          "sort_options" : {
+            "sort_review_rating" : 4.428537368774414,
+            "most_recent_review" : "2021-12-13T15:58:48Z"
+          },
+          "countries" : "US",
+          "features_tokenized_text" : "call_recording call_routing call_tracking_metrics caller_id conversion_tracking ivr_/_voice_recognition keyword_tracking",
+          "platform_tokenized_text" : "cloud,saas,web-based",
+          "users_tokenized_text" : "2-10 11-50 51-200 201-500 501-1000 1000+",
+          "pricing_tokenized_text" : "freetrial",
+          "badges" : [ ],
+          "bid_spot_us" : 0.0,
+          "currency_code" : "USD",
+          "currency_symbol" : "$",
+          "credit_card_required" : "No",
+          "licensing_model" : null,
+          "open_api_offered" : "Unverified",
+          "mobile_urls" : [ ],
+          "integrations" : [ ],
+          "supported_countries" : [
+            {
+              "id" : 237,
+              "code" : "US",
+              "name" : "United States of America"
+            }
+          ],
+          "supported_languages" : [
+            {
+              "id" : 152,
+              "code" : "en",
+              "name" : "English",
+              "location" : null
+            }
+          ],
+          "target_industries" : [
+            {
+              "id" : 63,
+              "code" : "84",
+              "name" : "Information Services"
+            },
+            {
+              "id" : 97,
+              "code" : "100",
+              "name" : "Non-Profit Organization Management"
+            },
+            {
+              "id" : 84,
+              "code" : "80",
+              "name" : "Marketing and Advertising"
+            },
+            {
+              "id" : 117,
+              "code" : "82",
+              "name" : "Publishing"
+            },
+            {
+              "id" : 26,
+              "code" : "48",
+              "name" : "Construction"
+            }
+          ],
+          "price_range_id" : 1,
+          "aggregated_review_ratings" : {
+            "industry" : {
+              "41" : 5.0,
+              "27" : 4.0,
+              "138" : 5.0,
+              "10" : 4.0,
+              "82" : 5.0,
+              "17" : 5.0,
+              "48" : 4.8,
+              "11" : 4.5,
+              "44" : 4.5,
+              "47" : 4.0,
+              "80" : 4.37,
+              "91" : 5.0,
+              "53" : 3.67,
+              "14" : 5.0,
+              "84" : 4.0,
+              "108" : 5.0
+            },
+            "company_size" : {
+              "1001-5000 employees" : 4.0,
+              "201-500 employees" : 4.67,
+              "51-200 employees" : 4.29,
+              "501-1000 employees" : 4.33,
+              "11-50 employees" : 4.37,
+              "10,001+ employees" : 5.0,
+              "1-10 employees" : 4.62,
+              "Self-employed" : 4.2
+            }
+          },
+          "vct_enabled" : false,
+          "pricing_plans" : [
+            {
+              "created_on_utc" : "2019-08-21T14:47:39Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Starter",
+              "description" : "Free trial is available.",
+              "display_order" : 1,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 0.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Other",
+              "payment_frequency_name" : null,
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "$.014 Text Messages"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "$.08 Local Minutes"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "25+ Value-Packed Features Included"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "$4.00 Tracking Numbers"
+                }
+              ]
+            },
+            {
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Professional",
+              "description" : "Free trial is available.",
+              "display_order" : 2,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 69.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "$.012 Text Messages"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "$.05 Local Minutes"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "$2.00 Tracking Numbers"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "25+ Value-Packed Features Included"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 5,
+                  "name" : "API Access"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 6,
+                  "name" : "Professional Support Team"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 7,
+                  "name" : "User-Level Permissions"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 8,
+                  "name" : "White-Glove Onboarding"
+                }
+              ]
+            },
+            {
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Agency",
+              "description" : "Free trial is available.",
+              "display_order" : 3,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 179.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "$.010 Text Messages"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "$.04 Local Minutes"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "$1.00 Tracking Numbers"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "25+ Value-Packed Features Included"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 5,
+                  "name" : "Agency Account Structures"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 6,
+                  "name" : "All Professional Features"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 7,
+                  "name" : "API Access"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 8,
+                  "name" : "Dedicated Account Manager"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 9,
+                  "name" : "Full White Labeling"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 10,
+                  "name" : "Professional Support Team"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 11,
+                  "name" : "User-Level Permissions"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 12,
+                  "name" : "White-Glove Onboarding"
+                }
+              ]
+            },
+            {
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Custom",
+              "description" : "Design a custom call tracking pricing package unique to your needs.",
+              "display_order" : 4,
+              "price_type_name" : "Custom",
+              "custom_price" : "Need to contact the team.",
+              "starting_price" : null,
+              "ending_price" : null,
+              "pricing_model_name" : "Other",
+              "payment_frequency_name" : null,
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "25+ Value-Packed Features Included"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "Bundled Packages"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Enterprise Customizations"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "High Call Volume Pricing"
+                }
+              ]
+            }
+          ],
+          "discount_types" : [ ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,3434 @@
+{
+  "took" : 7,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 3,
+    "successful" : 3,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : {
+      "value" : 1,
+      "relation" : "eq"
+    },
+    "max_score" : 10.865253,
+    "hits" : [
+      {
+        "_index" : "product_listings_main_data_upc_vt20220920_043802_utc",
+        "_type" : "_doc",
+        "_id" : "131882_workxpay",
+        "_score" : 10.865253,
+        "_source" : {
+          "product_id" : 131882,
+          "seo_product_id" : 226104,
+          "seo_slug" : "Gusto",
+          "product_name" : "Gusto",
+          "upc_product_uuid" : "42ee393d-0695-4c41-b194-a6d200b44a29",
+          "old_product_ids" : [
+            226104,
+            169256,
+            175830,
+            153618,
+            153617,
+            157642
+          ],
+          "product_url" : "https://gusto.com/go/payroll-041?utm_campaign=Payroll&utm_source=capterra",
+          "product_slug" : "Gusto",
+          "former_name" : "Gusto",
+          "logo_filepath" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/442879c8-fca4-4a7c-b165-49dc05cf7999.png",
+          "vendor" : {
+            "vendor_id" : 2092849,
+            "vendor_name" : "Gusto",
+            "vendor_url" : "https://gusto.com",
+            "year_founded" : 2011,
+            "location" : "United States",
+            "vendor_opted_out_of_reviews" : true,
+            "is_opted_out_of_reviews" : false,
+            "is_hit_limit" : false,
+            "enabled" : true,
+            "has_vendor_level_page" : false,
+            "slug" : null,
+            "vendor_page" : false,
+            "paused_campaign" : false
+          },
+          "category_short_name" : "workxpay",
+          "category_html_name" : "payroll-software",
+          "category" : {
+            "id" : 30202,
+            "short_name" : "workxpay",
+            "long_name" : "Payroll",
+            "html_name" : "payroll-software",
+            "enabled" : true
+          },
+          "best_category" : "workxpay",
+          "is_best_category" : true,
+          "highest_cpc_category" : "workxpay",
+          "is_highest_cpc_category" : true,
+          "short_desc" : "Gusto is the all-in-one HR platform for growing businesses-one place to hire, pay, insure, and manage your hardworking team.",
+          "long_desc" : "With over a decade of experience, Gusto provides award-winning, all-in-one payroll for businesses of all sizes. With Gusto's streamlined platform, payroll takes just a few clicks. You get unlimited payroll runs, your payroll taxes are automatically filed for you, and you even get help with compliance.\n\nThere's a reason more than 200,000 businesses trust Gusto with their payroll needs. In fact, 85% of surveyed customers say Gusto is easier to use than their last payroll provider.",
+          "rating" : 4.7,
+          "number_of_reviews" : 3395,
+          "total_reviews" : 3572,
+          "ease_of_use_rating" : 4.7,
+          "customer_support_rating" : 4.4,
+          "functionality_rating" : 4.5,
+          "value_for_money_rating" : 4.5,
+          "recommendation_rating" : 8.7,
+          "pricing_enabled" : true,
+          "pricing" : null,
+          "is_per_user" : false,
+          "fee_schedule" : "Per-Month",
+          "pricing_model" : "Other",
+          "pricing_details" : "Simple: For smaller businesses with simple salaries, wages, and pay schedules. $40 per company + $6 per employee per month.\n\nPlus: For businesses with complex hiring, payroll, and team management needs. $80 per company + $12 per employee per month.\n\nConcierge: For businesses with more sophisticated HR, policy, and compliance needs. $149 per company + $12 per employee per month.\n\nPremium: For growing businesses who need premium tools and dedicated support (minimum 25 employees). Talk to sales to create your custom plan.\n\nContractor Only: For companies without W-2 employees. $6 per contractor per month.",
+          "pricing_created_on" : "2019-08-21T14:47:39Z",
+          "pricing_modified_on" : "2022-07-29T11:03:32Z",
+          "pricing_created_by" : null,
+          "pricing_modified_by" : "Ansha Balwant",
+          "pricing_vendor_pricing_url" : "https://gusto.com/product/pricing",
+          "free_trial" : true,
+          "free_version" : false,
+          "target_audience" : "Gusto is the all-in-one HR platform for growing businesses. No matter the size or stage of your company, Gusto puts the tools you need to hire, pay, and manage your team at your fingertips.",
+          "target_users" : [
+            "1",
+            "2-10",
+            "11-50"
+          ],
+          "platform" : [
+            {
+              "enabled" : true,
+              "name" : "Cloud, SaaS, Web-Based"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Mac"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Chromebook"
+            },
+            {
+              "enabled" : false,
+              "name" : "Mobile Android"
+            },
+            {
+              "enabled" : false,
+              "name" : "Mobile iPhone"
+            },
+            {
+              "enabled" : false,
+              "name" : "Mobile iPad"
+            }
+          ],
+          "support" : [
+            {
+              "enabled" : true,
+              "name" : "Email Help Desk"
+            },
+            {
+              "enabled" : true,
+              "name" : "FAQ Forum"
+            },
+            {
+              "enabled" : true,
+              "name" : "Knowledgebase"
+            },
+            {
+              "enabled" : true,
+              "name" : "Phone Support"
+            },
+            {
+              "enabled" : false,
+              "name" : "24/7 Live Rep"
+            },
+            {
+              "enabled" : true,
+              "name" : "Chat"
+            }
+          ],
+          "training" : [
+            {
+              "enabled" : false,
+              "name" : "Not Offered"
+            },
+            {
+              "enabled" : false,
+              "name" : "In-Person"
+            },
+            {
+              "enabled" : true,
+              "name" : "Live Online"
+            },
+            {
+              "enabled" : true,
+              "name" : "Webinars"
+            },
+            {
+              "enabled" : true,
+              "name" : "Documentation"
+            },
+            {
+              "enabled" : true,
+              "name" : "Videos"
+            }
+          ],
+          "media" : [
+            {
+              "product_id" : 131882,
+              "vendor_id" : 2092849,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/3c93e903-aef3-421d-9cfe-1f696b9931fb.png",
+              "caption" : null,
+              "weight" : 1,
+              "short_name" : "workxpay"
+            },
+            {
+              "product_id" : 131882,
+              "vendor_id" : 2092849,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/c6d0db06-cb58-49a1-aeb2-1d3d15d69c37.png",
+              "caption" : null,
+              "weight" : 2,
+              "short_name" : "workxpay"
+            },
+            {
+              "product_id" : 131882,
+              "vendor_id" : 2092849,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/cd2b428e-683a-4192-9c35-b69f89d4aed6.png",
+              "caption" : null,
+              "weight" : 3,
+              "short_name" : "workxpay"
+            },
+            {
+              "product_id" : 131882,
+              "vendor_id" : 2092849,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/70635f29-bfc9-423f-9767-fb9e8fc3a8f7.png",
+              "caption" : null,
+              "weight" : 4,
+              "short_name" : "workxpay"
+            },
+            {
+              "product_id" : 131882,
+              "vendor_id" : 2092849,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/e24aaae8-9dc8-4d34-8e9c-b7ae493528cc.png",
+              "caption" : null,
+              "weight" : 5,
+              "short_name" : "workxpay"
+            },
+            {
+              "product_id" : 131882,
+              "vendor_id" : 2092849,
+              "media_type" : "VIDEO",
+              "path_url" : "https://www.youtube.com/watch?v=cNd0xp8sVWU",
+              "caption" : null,
+              "weight" : 0,
+              "short_name" : "workxpay"
+            }
+          ],
+          "links" : [ ],
+          "features" : [
+            {
+              "category_name" : "Payroll",
+              "category_features" : [
+                {
+                  "name" : "401(k) Tracking",
+                  "value" : true,
+                  "id" : "14ac8610-9ddd-4fb7-8483-21a8cead5e79",
+                  "avg_rating" : 4.2,
+                  "cnt_rating" : 41,
+                  "avg_importance" : 2.06,
+                  "cnt_importance" : 17,
+                  "cnt_time_used" : 27,
+                  "pct_time_used" : 0.63,
+                  "cnt_time_critical" : 27,
+                  "pct_time_critical" : 0.185,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Track 401(k) participant contributions and employer match"
+                },
+                {
+                  "name" : "Benefits Management",
+                  "value" : true,
+                  "id" : "2329b8cd-5b3a-4461-8d87-4e4700c374be",
+                  "avg_rating" : 4.4,
+                  "cnt_rating" : 141,
+                  "avg_importance" : 2.35,
+                  "cnt_importance" : 71,
+                  "cnt_time_used" : 101,
+                  "pct_time_used" : 0.703,
+                  "cnt_time_critical" : 101,
+                  "pct_time_critical" : 0.337,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Record employee's benefit plans and selections throughout career progression "
+                },
+                {
+                  "name" : "Check Printing",
+                  "value" : true,
+                  "id" : "d9462a22-ea67-4ab4-b768-a6da8eda6bbc",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 37,
+                  "avg_importance" : 1.6,
+                  "cnt_importance" : 15,
+                  "cnt_time_used" : 36,
+                  "pct_time_used" : 0.417,
+                  "cnt_time_critical" : 36,
+                  "pct_time_critical" : 0.056,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Print paychecks"
+                },
+                {
+                  "name" : "Direct Deposit",
+                  "value" : true,
+                  "id" : "85ba7b6e-8124-4dfd-95c6-fe32983bce3c",
+                  "avg_rating" : 4.7,
+                  "cnt_rating" : 179,
+                  "avg_importance" : 2.6,
+                  "cnt_importance" : 110,
+                  "cnt_time_used" : 114,
+                  "pct_time_used" : 0.965,
+                  "cnt_time_critical" : 114,
+                  "pct_time_critical" : 0.614,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Digitally deposit correct payroll amounts into individual worker bank accounts"
+                },
+                {
+                  "name" : "Multi-Country",
+                  "value" : false,
+                  "id" : "e4ad2ce8-4145-449b-bd27-5bd12f873963",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Pay employees in multiple countries using correct currencies and correct tax deduction amounts"
+                },
+                {
+                  "name" : "Multi-State",
+                  "value" : true,
+                  "id" : "8477befe-a149-47c0-a326-bf09825f4376",
+                  "avg_rating" : 4.3,
+                  "cnt_rating" : 46,
+                  "avg_importance" : 2.48,
+                  "cnt_importance" : 21,
+                  "cnt_time_used" : 34,
+                  "pct_time_used" : 0.618,
+                  "cnt_time_critical" : 34,
+                  "pct_time_critical" : 0.353,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Pay employees in multiple states with correct tax deduction amounts in each"
+                },
+                {
+                  "name" : "Payroll Outsourcing",
+                  "value" : false,
+                  "id" : "5ae1a9e0-7f28-4365-b27a-a3667a1b5116",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Delegate payroll processing to third party vendors"
+                },
+                {
+                  "name" : "Payroll Reporting",
+                  "value" : true,
+                  "id" : "9039d649-4360-42f4-9493-0197293348c3",
+                  "avg_rating" : 4.6,
+                  "cnt_rating" : 184,
+                  "avg_importance" : 2.58,
+                  "cnt_importance" : 106,
+                  "cnt_time_used" : 109,
+                  "pct_time_used" : 0.972,
+                  "cnt_time_critical" : 109,
+                  "pct_time_critical" : 0.578,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "View and track metrics such as payslips, salary and benefits statements, etc."
+                },
+                {
+                  "name" : "Self Service Portal",
+                  "value" : true,
+                  "id" : "80f0258d-e261-4136-ba81-a5251a304f8e",
+                  "avg_rating" : 4.5,
+                  "cnt_rating" : 291,
+                  "avg_importance" : 2.33,
+                  "cnt_importance" : 151,
+                  "cnt_time_used" : 166,
+                  "pct_time_used" : 0.91,
+                  "cnt_time_critical" : 166,
+                  "pct_time_critical" : 0.392,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Gateway through which end users can access the system"
+                },
+                {
+                  "name" : "Tax Compliance",
+                  "value" : true,
+                  "id" : "f4a89304-5f7b-4c79-8c0a-7bbc817ceda2",
+                  "avg_rating" : 4.5,
+                  "cnt_rating" : 173,
+                  "avg_importance" : 2.58,
+                  "cnt_importance" : 106,
+                  "cnt_time_used" : 112,
+                  "pct_time_used" : 0.946,
+                  "cnt_time_critical" : 112,
+                  "pct_time_critical" : 0.616,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Track tax-related transactions, tax remittance and tax reporting for various groups of employees and contractors"
+                },
+                {
+                  "name" : "Vacation/Leave Tracking",
+                  "value" : true,
+                  "id" : "c3be1c69-4dde-4633-9e68-c9096b6b4ac5",
+                  "avg_rating" : 4.4,
+                  "cnt_rating" : 70,
+                  "avg_importance" : 2.31,
+                  "cnt_importance" : 29,
+                  "cnt_time_used" : 50,
+                  "pct_time_used" : 0.58,
+                  "cnt_time_critical" : 50,
+                  "pct_time_critical" : 0.28,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Request, track, and manage time off requests and vacation time"
+                },
+                {
+                  "name" : "W-2 Preparation",
+                  "value" : true,
+                  "id" : "61008832-9630-4108-b0e4-73bbf5815dc2",
+                  "avg_rating" : 4.7,
+                  "cnt_rating" : 158,
+                  "avg_importance" : 2.56,
+                  "cnt_importance" : 87,
+                  "cnt_time_used" : 94,
+                  "pct_time_used" : 0.926,
+                  "cnt_time_critical" : 94,
+                  "pct_time_critical" : 0.606,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Automatically create and distribute W-2/1099 tax forms to employees."
+                },
+                {
+                  "name" : "Wage Garnishment",
+                  "value" : true,
+                  "id" : "24617da6-684d-4b21-b497-95f6eee4ba73",
+                  "avg_rating" : 4.7,
+                  "cnt_rating" : 45,
+                  "avg_importance" : 2.73,
+                  "cnt_importance" : 15,
+                  "cnt_time_used" : 30,
+                  "pct_time_used" : 0.5,
+                  "cnt_time_critical" : 30,
+                  "pct_time_critical" : 0.367,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Automatically subtract garnishments from wages"
+                }
+              ]
+            },
+            {
+              "category_name" : "Benefits Administration",
+              "category_features" : [
+                {
+                  "name" : "ACA Reporting",
+                  "value" : true,
+                  "id" : "48cce10a-9222-423e-8c8b-54e0b7d2d0b7",
+                  "avg_rating" : 4.8,
+                  "cnt_rating" : 13,
+                  "avg_importance" : 2.33,
+                  "cnt_importance" : 6,
+                  "cnt_time_used" : 9,
+                  "pct_time_used" : 0.667,
+                  "cnt_time_critical" : 9,
+                  "pct_time_critical" : 0.222,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Collect data and compile reports to stay in compliance with Affordable Care Act requirements"
+                },
+                {
+                  "name" : "Benefits Administration Outsourcing",
+                  "value" : true,
+                  "id" : "201cbf6f-fb80-40ae-bc9c-75fab65b6c04",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Delegate benefits administration to third party vendors"
+                },
+                {
+                  "name" : "Benefits Dashboard",
+                  "value" : true,
+                  "id" : "30f94928-d2b5-4d90-83b7-f5a973a91803",
+                  "avg_rating" : 4.8,
+                  "cnt_rating" : 13,
+                  "avg_importance" : 2.11,
+                  "cnt_importance" : 9,
+                  "cnt_time_used" : 10,
+                  "pct_time_used" : 0.9,
+                  "cnt_time_critical" : 10,
+                  "pct_time_critical" : 0.2,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : "Visualize benefits that employees selected for themselves or that is on offer by an employer"
+                },
+                {
+                  "name" : "COBRA Administration",
+                  "value" : true,
+                  "id" : "4731f7bc-d26e-4d15-b7b0-471cfc333972",
+                  "avg_rating" : 4.4,
+                  "cnt_rating" : 22,
+                  "avg_importance" : 2.31,
+                  "cnt_importance" : 13,
+                  "cnt_time_used" : 15,
+                  "pct_time_used" : 0.867,
+                  "cnt_time_critical" : 15,
+                  "pct_time_critical" : 0.267,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Manage mandated benefit continuation for employees that no longer work for the company but chose to remain on the company plan"
+                },
+                {
+                  "name" : "Deduction Management",
+                  "value" : true,
+                  "id" : "c6b0cab5-bbe9-423c-a796-ff79ff79a87a",
+                  "avg_rating" : 4.5,
+                  "cnt_rating" : 34,
+                  "avg_importance" : 2.15,
+                  "cnt_importance" : 20,
+                  "cnt_time_used" : 20,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 20,
+                  "pct_time_critical" : 0.3,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Determine what amounts employees should contribute towards their benefits from each paycheck"
+                },
+                {
+                  "name" : "Disability Insurance Administration",
+                  "value" : true,
+                  "id" : "ed1ea0c8-f16d-43c6-98ed-c584db112d01",
+                  "avg_rating" : 4.6,
+                  "cnt_rating" : 20,
+                  "avg_importance" : 2.12,
+                  "cnt_importance" : 8,
+                  "cnt_time_used" : 11,
+                  "pct_time_used" : 0.727,
+                  "cnt_time_critical" : 11,
+                  "pct_time_critical" : 0.182,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Set up and manage short and/or long term disability insurance benefits"
+                },
+                {
+                  "name" : "Employee Benefits Administration",
+                  "value" : true,
+                  "id" : "69a7c836-492c-4e8d-bd78-e47de5c3907c",
+                  "avg_rating" : 4.8,
+                  "cnt_rating" : 40,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 24,
+                  "cnt_time_used" : 24,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 24,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Manage benefit portfolio selection that is available to your employees through workplace and automate related administrative tasks"
+                },
+                {
+                  "name" : "FMLA Administration",
+                  "value" : false,
+                  "id" : "0f3c5770-d534-482e-9be0-e0e4c1ba30f4",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Set up and manage benefits mandated by family and medical act"
+                },
+                {
+                  "name" : "HIPAA Compliant",
+                  "value" : true,
+                  "id" : "b7fa2102-62a3-4477-96a4-c8567bd85229",
+                  "avg_rating" : 4.3,
+                  "cnt_rating" : 26,
+                  "avg_importance" : 2.42,
+                  "cnt_importance" : 12,
+                  "cnt_time_used" : 16,
+                  "pct_time_used" : 0.75,
+                  "cnt_time_critical" : 16,
+                  "pct_time_critical" : 0.375,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Compliant with HIPAA, which sets standards for sensitive patient data protection"
+                },
+                {
+                  "name" : "HSA/FSA Administration",
+                  "value" : true,
+                  "id" : "c80862d0-e9bb-4aa9-9591-35506ee2bd89",
+                  "avg_rating" : 4.6,
+                  "cnt_rating" : 18,
+                  "avg_importance" : 2.22,
+                  "cnt_importance" : 9,
+                  "cnt_time_used" : 12,
+                  "pct_time_used" : 0.75,
+                  "cnt_time_critical" : 12,
+                  "pct_time_critical" : 0.167,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Set up and manage health savings and flexible spending accounts for your employees"
+                },
+                {
+                  "name" : "Health Insurance Administration",
+                  "value" : true,
+                  "id" : "f9f7f216-e20c-44f8-a779-5a371614aec0",
+                  "avg_rating" : 4.5,
+                  "cnt_rating" : 35,
+                  "avg_importance" : 2.56,
+                  "cnt_importance" : 18,
+                  "cnt_time_used" : 21,
+                  "pct_time_used" : 0.857,
+                  "cnt_time_critical" : 21,
+                  "pct_time_critical" : 0.476,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Set up and manage health insurance benefits for employees"
+                },
+                {
+                  "name" : "Life Insurance Administration",
+                  "value" : true,
+                  "id" : "ffcb72bf-0c83-4c35-b7fd-e036db09fe23",
+                  "avg_rating" : 4.8,
+                  "cnt_rating" : 18,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 10,
+                  "cnt_time_used" : 13,
+                  "pct_time_used" : 0.769,
+                  "cnt_time_critical" : 13,
+                  "pct_time_critical" : 0.154,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Set up and manage life insurance benefits for your employees"
+                },
+                {
+                  "name" : "Online Benefits Enrollment",
+                  "value" : true,
+                  "id" : "9acebf2b-652d-4ce9-8824-6921549a5e7e",
+                  "avg_rating" : 4.6,
+                  "cnt_rating" : 69,
+                  "avg_importance" : 2.49,
+                  "cnt_importance" : 37,
+                  "cnt_time_used" : 42,
+                  "pct_time_used" : 0.881,
+                  "cnt_time_critical" : 42,
+                  "pct_time_critical" : 0.524,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Select benefits and provide information needed to participate in a benefit via an online portal"
+                },
+                {
+                  "name" : "Provider Management",
+                  "value" : false,
+                  "id" : "437c6e81-59e2-414c-a8a2-0a3824a7a652",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Chose benefit providers and track their information, such as rates and contract terms, as well as renewal offerings"
+                },
+                {
+                  "name" : "Retirement Plan Management",
+                  "value" : true,
+                  "id" : "725587b3-cabc-4aff-856e-e81268e666ae",
+                  "avg_rating" : 4.4,
+                  "cnt_rating" : 27,
+                  "avg_importance" : 2.42,
+                  "cnt_importance" : 12,
+                  "cnt_time_used" : 18,
+                  "pct_time_used" : 0.667,
+                  "cnt_time_critical" : 18,
+                  "pct_time_critical" : 0.278,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Set up and manage retirement benefits for your employees"
+                }
+              ]
+            },
+            {
+              "category_name" : "Human Resources",
+              "category_features" : [
+                {
+                  "name" : "360 Degree Feedback",
+                  "value" : false,
+                  "id" : "17221459-9050-4a20-ae76-28c661981223",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "A process in which an employee receives feedback and a full analysis of how their peers, managers, and direct reports perceive them. "
+                },
+                {
+                  "name" : "Applicant Tracking",
+                  "value" : true,
+                  "id" : "3db9a526-5abf-4d8a-812f-c15d6e6e8da1",
+                  "avg_rating" : 4.3,
+                  "cnt_rating" : 14,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 6,
+                  "cnt_time_used" : 6,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 6,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Find and manage potential candidates and their applications and resumes through the recruiting life cycle"
+                },
+                {
+                  "name" : "Benefits Management",
+                  "value" : true,
+                  "id" : "2329b8cd-5b3a-4461-8d87-4e4700c374be",
+                  "avg_rating" : 4.4,
+                  "cnt_rating" : 141,
+                  "avg_importance" : 2.35,
+                  "cnt_importance" : 71,
+                  "cnt_time_used" : 101,
+                  "pct_time_used" : 0.703,
+                  "cnt_time_critical" : 101,
+                  "pct_time_critical" : 0.337,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Record employee's benefit plans and selections throughout career progression "
+                },
+                {
+                  "name" : "Compensation Management",
+                  "value" : true,
+                  "id" : "40ff7a9a-d3f9-44b8-8e55-940e919a48d4",
+                  "avg_rating" : 4.5,
+                  "cnt_rating" : 267,
+                  "avg_importance" : 2.4,
+                  "cnt_importance" : 142,
+                  "cnt_time_used" : 159,
+                  "pct_time_used" : 0.893,
+                  "cnt_time_critical" : 159,
+                  "pct_time_critical" : 0.428,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Organize and track payroll, bonuses, and additional company benefits and perks distributed to each employee "
+                },
+                {
+                  "name" : "Employee Database",
+                  "value" : true,
+                  "id" : "e963737d-3456-46ea-85b6-530e546f34c1",
+                  "avg_rating" : 4.6,
+                  "cnt_rating" : 325,
+                  "avg_importance" : 2.21,
+                  "cnt_importance" : 181,
+                  "cnt_time_used" : 206,
+                  "pct_time_used" : 0.879,
+                  "cnt_time_critical" : 206,
+                  "pct_time_critical" : 0.335,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : "Electronic storage of staff contact information and job status"
+                },
+                {
+                  "name" : "Employee Profiles",
+                  "value" : true,
+                  "id" : "bfb0113b-272c-4f7b-8a5c-c916b0bea54f",
+                  "avg_rating" : 4.6,
+                  "cnt_rating" : 309,
+                  "avg_importance" : 2.06,
+                  "cnt_importance" : 170,
+                  "cnt_time_used" : 192,
+                  "pct_time_used" : 0.885,
+                  "cnt_time_critical" : 192,
+                  "pct_time_critical" : 0.276,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Create and view customizable employee profiles to track important information (e.g. job title, manager, contact info, etc.)."
+                },
+                {
+                  "name" : "Onboarding",
+                  "value" : true,
+                  "id" : "762df836-d23c-4432-9000-0b1f4d71adc7",
+                  "avg_rating" : 4.5,
+                  "cnt_rating" : 265,
+                  "avg_importance" : 2.29,
+                  "cnt_importance" : 144,
+                  "cnt_time_used" : 159,
+                  "pct_time_used" : 0.906,
+                  "cnt_time_critical" : 159,
+                  "pct_time_critical" : 0.377,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Process of familiarizing new stakeholders with the company, a new location, or a service"
+                },
+                {
+                  "name" : "Payroll Management",
+                  "value" : true,
+                  "id" : "58379ec3-0f90-4b52-ac75-25f0b72a102d",
+                  "avg_rating" : 4.6,
+                  "cnt_rating" : 397,
+                  "avg_importance" : 2.69,
+                  "cnt_importance" : 239,
+                  "cnt_time_used" : 249,
+                  "pct_time_used" : 0.96,
+                  "cnt_time_critical" : 249,
+                  "pct_time_critical" : 0.683,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Track and process employee payroll (salaries, wages, etc.)"
+                },
+                {
+                  "name" : "Performance Management",
+                  "value" : true,
+                  "id" : "eb784380-a0f0-4ada-a01f-e260ec286bc0",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 13,
+                  "avg_importance" : 1.75,
+                  "cnt_importance" : 4,
+                  "cnt_time_used" : 5,
+                  "pct_time_used" : 0.8,
+                  "cnt_time_critical" : 5,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Organize and manage the accomplishments and development of employees"
+                },
+                {
+                  "name" : "Recruitment Management",
+                  "value" : true,
+                  "id" : "8832db7d-cbf4-4927-a6a6-41a434339fda",
+                  "avg_rating" : 4.3,
+                  "cnt_rating" : 7,
+                  "avg_importance" : 1.67,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 4,
+                  "pct_time_used" : 0.75,
+                  "cnt_time_critical" : 4,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Tools to find, attract and asses potential candidates for open job positions within a company "
+                },
+                {
+                  "name" : "Self Service Portal",
+                  "value" : true,
+                  "id" : "80f0258d-e261-4136-ba81-a5251a304f8e",
+                  "avg_rating" : 4.5,
+                  "cnt_rating" : 291,
+                  "avg_importance" : 2.33,
+                  "cnt_importance" : 151,
+                  "cnt_time_used" : 166,
+                  "pct_time_used" : 0.91,
+                  "cnt_time_critical" : 166,
+                  "pct_time_critical" : 0.392,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Gateway through which end users can access the system"
+                },
+                {
+                  "name" : "Time & Attendance",
+                  "value" : true,
+                  "id" : "55627038-699c-42c8-8f3b-f38a512fad79",
+                  "avg_rating" : 4.4,
+                  "cnt_rating" : 117,
+                  "avg_importance" : 2.32,
+                  "cnt_importance" : 62,
+                  "cnt_time_used" : 90,
+                  "pct_time_used" : 0.689,
+                  "cnt_time_critical" : 90,
+                  "pct_time_critical" : 0.3,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track and manage employee's work hours to improve payroll accuracy "
+                },
+                {
+                  "name" : "Time Off Management",
+                  "value" : true,
+                  "id" : "4e3bad8f-a790-457a-9609-964e1f96ba3d",
+                  "avg_rating" : 4.5,
+                  "cnt_rating" : 104,
+                  "avg_importance" : 2.22,
+                  "cnt_importance" : 59,
+                  "cnt_time_used" : 84,
+                  "pct_time_used" : 0.702,
+                  "cnt_time_critical" : 84,
+                  "pct_time_critical" : 0.274,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Track and manage employee time-off, vacation, and sick leave requests"
+                }
+              ]
+            },
+            {
+              "category_name" : "Onboarding",
+              "category_features" : [
+                {
+                  "name" : "Document Management",
+                  "value" : true,
+                  "id" : "a55b34ad-b6ec-4072-b3bd-a7151f7843de",
+                  "avg_rating" : 4.6,
+                  "cnt_rating" : 38,
+                  "avg_importance" : 2.37,
+                  "cnt_importance" : 19,
+                  "cnt_time_used" : 21,
+                  "pct_time_used" : 0.905,
+                  "cnt_time_critical" : 21,
+                  "pct_time_critical" : 0.381,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Collect, upload, store, and share all documents in a centralized location making it easier for everyone involved to access information "
+                },
+                {
+                  "name" : "E-Verify/I-9 Forms",
+                  "value" : true,
+                  "id" : "cd1f3c33-8dea-49a4-a92b-120a99ed0faf",
+                  "avg_rating" : 4.5,
+                  "cnt_rating" : 30,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 16,
+                  "cnt_time_used" : 20,
+                  "pct_time_used" : 0.8,
+                  "cnt_time_critical" : 20,
+                  "pct_time_critical" : 0.45,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Verify the identity and employment authorization of individuals hired for employment in the United States"
+                },
+                {
+                  "name" : "Electronic Forms",
+                  "value" : true,
+                  "id" : "5790ee3b-535d-4f29-a84a-886ea25ba6ce",
+                  "avg_rating" : 4.5,
+                  "cnt_rating" : 43,
+                  "avg_importance" : 2.55,
+                  "cnt_importance" : 20,
+                  "cnt_time_used" : 21,
+                  "pct_time_used" : 0.952,
+                  "cnt_time_critical" : 21,
+                  "pct_time_critical" : 0.571,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Digital forms that are shared and accessed online"
+                },
+                {
+                  "name" : "Electronic Signature",
+                  "value" : false,
+                  "id" : "129d469f-1e77-489e-ac24-45c91b5277db",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Sign a document within the system"
+                },
+                {
+                  "name" : "Employee Handbook",
+                  "value" : true,
+                  "id" : "778ebb0a-c384-4d6e-b5f5-81819f14d3d6",
+                  "avg_rating" : 3.9,
+                  "cnt_rating" : 18,
+                  "avg_importance" : 2.33,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 7,
+                  "pct_time_used" : 0.429,
+                  "cnt_time_critical" : 7,
+                  "pct_time_critical" : 0.143,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Create and share a new employee handbook with helpful information"
+                },
+                {
+                  "name" : "Job Description Management",
+                  "value" : false,
+                  "id" : "f45473ed-39c7-45c5-9107-2f4bb3e0bfeb",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Create, share, and manage the distribution of job descriptions/duties"
+                },
+                {
+                  "name" : "Orientation Workflow Management",
+                  "value" : true,
+                  "id" : "cc35bb1f-6c13-4341-8f90-169593352087",
+                  "avg_rating" : 4.2,
+                  "cnt_rating" : 33,
+                  "avg_importance" : 1.86,
+                  "cnt_importance" : 14,
+                  "cnt_time_used" : 22,
+                  "pct_time_used" : 0.636,
+                  "cnt_time_critical" : 22,
+                  "pct_time_critical" : 0.182,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Create,assign and specify order of tasks to be completed in order to prepare a new hire for his job role"
+                },
+                {
+                  "name" : "Self Service Portal",
+                  "value" : true,
+                  "id" : "80f0258d-e261-4136-ba81-a5251a304f8e",
+                  "avg_rating" : 4.5,
+                  "cnt_rating" : 291,
+                  "avg_importance" : 2.33,
+                  "cnt_importance" : 151,
+                  "cnt_time_used" : 166,
+                  "pct_time_used" : 0.91,
+                  "cnt_time_critical" : 166,
+                  "pct_time_critical" : 0.392,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Gateway through which end users can access the system"
+                },
+                {
+                  "name" : "Task Management",
+                  "value" : true,
+                  "id" : "82ce67d3-ac09-49d0-ae71-5e6401e3e26b",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 23,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 4,
+                  "cnt_time_used" : 8,
+                  "pct_time_used" : 0.5,
+                  "cnt_time_critical" : 8,
+                  "pct_time_critical" : 0.125,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "A running list of action items and their respective status"
+                },
+                {
+                  "name" : "Training Management",
+                  "value" : true,
+                  "id" : "4dc3a3c0-246c-4a15-8750-fa294c8ff58a",
+                  "avg_rating" : 4.1,
+                  "cnt_rating" : 34,
+                  "avg_importance" : 2.36,
+                  "cnt_importance" : 11,
+                  "cnt_time_used" : 19,
+                  "pct_time_used" : 0.579,
+                  "cnt_time_critical" : 19,
+                  "pct_time_critical" : 0.211,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track employee's progression through training programs "
+                }
+              ]
+            }
+          ],
+          "infographics" : [
+            {
+              "product_id" : 131882,
+              "html_name" : "human-resource-software",
+              "infographic_type" : "general_t20",
+              "infographic_title" : null
+            },
+            {
+              "product_id" : 131882,
+              "html_name" : "payroll-software",
+              "infographic_type" : "general_t20",
+              "infographic_title" : null
+            },
+            {
+              "product_id" : 131882,
+              "html_name" : "payroll-software",
+              "infographic_type" : "popular",
+              "infographic_title" : "Payroll Software"
+            }
+          ],
+          "related_products" : [
+            {
+              "product_id" : 155895,
+              "seo_product_id" : 226199,
+              "seo_slug" : "ADP-Workforce-Now",
+              "vendor_name" : "ADP",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/3f97e69e-54a0-4b38-95b7-c226481cff4c.png",
+              "rating" : 4.4,
+              "total_reviews" : 6074,
+              "slug" : "WorkforceNow",
+              "product_name" : "ADP Workforce Now",
+              "short_desc" : "ADP Workforce Now is a human capital management solution for companies with more than 50 employees. ",
+              "features" : "The core capabilities of the solution are human resources management, payroll, benefits, talent management, compliance, time & labor management, analytics & benchmarking. \r\nThe fully integrated suite is built on a single database, which automates data synchronization across different components and helps users to minimize manual administrative tasks. The platform also integrates with other HR and business applications via the ADP Marketplace and APIs. \r\n\r\n\r\n",
+              "url" : "https://www.adp.com/semlps/2017/payroll.aspx?CID=iP_PPL_Capterra_All_Apr_4_WorkforceNow&elqCampaignId=10271&vendor=capterra"
+            },
+            {
+              "product_id" : 141374,
+              "seo_product_id" : 106730,
+              "seo_slug" : "Quickbooks-Online",
+              "vendor_name" : "Intuit",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d3e4b3cb-cc9c-4e72-b961-5dafcc473f17.png",
+              "rating" : 4.3,
+              "total_reviews" : 5038,
+              "slug" : "QuickBooks-Online",
+              "product_name" : "Quickbooks Online",
+              "short_desc" : "QuickBooks Online is a small business accounting software and app that allows you to manage your business anywhere, anytime.",
+              "features" : "QuickBooks Online is a small business accounting software and app that allows you to manage your business anywhere, anytime. Used by over 4.5 million customers, QuickBooks provides smart tools for your business, yet is easy to use. You can organize your books, manage expenses, send invoices, track inventory, and even run payroll. With QuickBooks Online, you can get organized, save time, and even get paid fast by adding payment features. Best of all, you can try it for free for 30 days.",
+              "url" : "https://ad.doubleclick.net/ddm/trackclk/N5506.813334.CAPTERRA.COM/B21529827.230252180;dc_trk_aid=428199749;dc_trk_cid=106679935;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua="
+            },
+            {
+              "product_id" : 116050,
+              "seo_product_id" : 222924,
+              "seo_slug" : "Patriot-Payroll",
+              "vendor_name" : "Patriot Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/3eac018e-dbfb-472c-b35c-3a5b841809af.png",
+              "rating" : 4.8,
+              "total_reviews" : 2975,
+              "slug" : "Patriot-Payroll",
+              "product_name" : "Patriot Payroll",
+              "short_desc" : "Online payroll solutions for small business owners. Run payroll in 3 easy steps.Low pricing with no surprise fees. Try it free!",
+              "features" : "Best in value, user-friendly, value for money, and customer service according to users over the competition. Made for USA  small business owners with 1-100 employees. Choose the payroll option right for you:\nBasic Payroll - base price $10/mo. + $4 per employee.\nFull Service Payroll - Base price $30/mo + $4 per employee.  You run payroll, but let us handle the payroll tax filings.\nFree direct deposit, or print paychecks. ",
+              "url" : "http://try.patriotsoftware.com/payroll/landing/online-payroll/?utm_medium=cpc&utm_term=Easy-Online-Payroll&utm_campaign=Capterra"
+            },
+            {
+              "product_id" : 133745,
+              "seo_product_id" : 79628,
+              "seo_slug" : "Paycor-Perform",
+              "vendor_name" : "Paycor",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/7780d136-e630-42e5-adce-8f580dc09687.png",
+              "rating" : 4.4,
+              "total_reviews" : 2288,
+              "slug" : "Paycor-Perform",
+              "product_name" : "Paycor",
+              "short_desc" : "Streamline HR and payroll processes and get fast access to employee data using one intuitive platform. Get 3 Months Free Payroll*!",
+              "features" : "Paycor empowers leaders to modernize every aspect of people management so they can focus on what really matters: building winning teams. Processing payroll and managing tax compliance can be a time-consuming task for your team. But with Paycor, businesses can pay employees quickly and confidently from anywhere. Key features include general ledger integration, OnDemand Pay, AutoRun functionality, employee self-service, powerful reporting tools and compliance expertise. Get 3 Months Free Payroll*!",
+              "url" : "https://go.paycor.com/hcm-payroll-services?utm_medium=online_directories&utm_content=Perform%20demo&utm_campaign=Web%20-%20Capterra%20Payroll%20PPC"
+            },
+            {
+              "product_id" : 110968,
+              "seo_product_id" : 224075,
+              "seo_slug" : "BambooHR",
+              "vendor_name" : "BambooHR",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/670d76a5-76f8-4742-a6f9-a42d167cc69d.png",
+              "rating" : 4.6,
+              "total_reviews" : 1817,
+              "slug" : "BambooHR",
+              "product_name" : "BambooHR",
+              "short_desc" : "BambooHR makes running payroll easy, quick, and stress-free by offering a single source of data, a comprehensive payroll solution.\n",
+              "features" : "Instead of spending hours each month manually transferring data and worrying about accuracy, BambooHR makes running your payroll easy, quick, and stress-free. Data updates in BambooHR automatically flow into payroll to virtually eliminate data double entry. And with comprehensive payroll reporting, superior customer support, and full-service tax filing, you'll save time and worry on payroll-setting you free to focus on other important initiatives. \n",
+              "url" : "https://www.bamboohr.com/lp/payroll?utm_source=RS&utm_medium=PAY&utm_campaign=Capt-DE-LiveDemoRe-20220805-01&utm_content=PAY&utm_term=PAY"
+            },
+            {
+              "product_id" : 172127,
+              "seo_product_id" : 220951,
+              "seo_slug" : "Rippling",
+              "vendor_name" : "Rippling",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/0c617aed-05cb-4242-a1ed-7a7e79c76fb7.png",
+              "rating" : 4.9,
+              "total_reviews" : 1640,
+              "slug" : "Rippling",
+              "product_name" : "Rippling",
+              "short_desc" : "Rippling is the #1 Rated Payroll & HR software. Easily manage your Payroll, Benefits, Compliance, and more--all in one, modern system.",
+              "features" : "Rippling is The #1 Rated Payroll & HR Software. You can onboard new hires in 90 seconds, run payroll with a click, and pay employees or contractors, anywhere. And with Rippling, you can also manage your people's offer letters, I-9's, health insurance, time off, and more -- 100% online and paperlessly. All in one, modern platform.",
+              "url" : "https://rippling.com/payroll-04?utm_medium=cpc&utm_campaign=list-ranking&utm_term=payroll"
+            },
+            {
+              "product_id" : 132376,
+              "seo_product_id" : 132376,
+              "seo_slug" : "Hubstaff",
+              "vendor_name" : "Hubstaff",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/aaac16f3-d85a-4597-a31c-6205c39cadc2.png",
+              "rating" : 4.6,
+              "total_reviews" : 1269,
+              "slug" : "Hubstaff",
+              "product_name" : "Hubstaff",
+              "short_desc" : "Hubstaff has payroll, invoicing, reporting, scheduling, and more. No credit card is required. Start a free trial today!",
+              "features" : "Improve payment inefficiency with Hubstaff. Manage payroll, reporting, scheduling, and more through one dashboard. Hubstaff integrates with over 30 apps so your business can run more efficiently, including Paypal, Wise, Payoneer, Quickbooks, Gusto, and more. Start automating and sending payments in a snap with Hubstaff. Available for Mac, Windows, Linux, iOS & Android.",
+              "url" : "https://hubstaff.com/features/online_payroll?utm_campaign=Hubstaff%20Signup&utm_source=ppc&utm_medium=Non-Google%20Ads&utm_term=Capterra_Payroll&utm_content=Channels"
+            },
+            {
+              "product_id" : 119841,
+              "seo_product_id" : 225678,
+              "seo_slug" : "Paychex-Flex",
+              "vendor_name" : "Paychex",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/6fd0b8d1-9525-4ab0-ae43-0dc8a613c553.png",
+              "rating" : 4.1,
+              "total_reviews" : 1194,
+              "slug" : "Paychex-Flex",
+              "product_name" : "Paychex Flex",
+              "short_desc" : "Manage payroll, online or in-house, and save money on time tracking, reports, and processing payroll.",
+              "features" : "Paychex Flex is an all-in-one Payroll & HR solution that you can build on as your business grows or changes. Use it to run payroll and integrate your HR administration, retirement, and insurance management with service the way you want it and our expert knowledge of the regulations that could affect your business. Get 3 months of free payroll processing for a limited time. Click the link to get the details.",
+              "url" : "https://go.paychex.com/small-business-payroll-services?utm_source=Capterra&utm_medium=CPC&utm_campaign=PL_Capterra&campaign_name=PL_Capterra&campaign_id=7010g0000016Yk6"
+            },
+            {
+              "product_id" : 66908,
+              "seo_product_id" : 66908,
+              "seo_slug" : "Workday-HCM",
+              "vendor_name" : "Workday",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/897b7a83-3ab9-4b24-b656-d478dd35b561.png",
+              "rating" : 4.4,
+              "total_reviews" : 912,
+              "slug" : "Workday-HCM",
+              "product_name" : "Workday HCM",
+              "short_desc" : "Cloud-based human resources solution that helps businesses streamline workforce planning, talent management, and payroll processes.",
+              "features" : "Workday HCM is a single, cloud-based solution for workforce planning, talent management, and payroll processes. The solution is used by Fortune 500 and G2k companies to operate with agility and efficiency, and for organizations to be ready for whatever comes next. Unlike rigid HR systems or point solutions, Workday HCM delivers a skills-based HCM foundation and continuously innovates to enable customer success as the impact of technology, alternative work arrangements, and employee expectations evolve.",
+              "url" : "http://www.workday.com"
+            },
+            {
+              "product_id" : 153076,
+              "seo_product_id" : 212114,
+              "seo_slug" : "Homebase",
+              "vendor_name" : "Homebase",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/41d633fe-8106-4081-ab2f-f85a52999b02.png",
+              "rating" : 4.6,
+              "total_reviews" : 852,
+              "slug" : "Homebase",
+              "product_name" : "Homebase",
+              "short_desc" : "The smarter way for a small business to manage an hourly team. Time clocks, scheduling, payroll, messaging, and HR all in one. ",
+              "features" : "Homebase makes work easier for 100,000+ small (but\nmighty) businesses with everything they need to\nmanage and pay an hourly team: employee scheduling, time clocks, payroll, team communication, hiring, onboarding, and compliance. \n \nJust don't call us \"Human Capital Management.\" We're tools built for the busiest businesses, so owners and employees can spend less time on paperwork and more time on what matters. \n\nLearn more at joinhomebase.com.",
+              "url" : "https://joinhomebase.com/payroll/?utm_source=capterra&utm_medium=partner&utm_campaign=payroll"
+            }
+          ],
+          "similar_products" : [
+            {
+              "product_id" : 86714,
+              "seo_product_id" : 86714,
+              "seo_slug" : "WebPay",
+              "vendor_name" : "Paylocity",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/afbb63b0-94f5-4d01-b512-ba6f43a36da5.jpeg",
+              "rating" : 4.3,
+              "total_reviews" : 654,
+              "slug" : "WebPay",
+              "product_name" : "Paylocity",
+              "short_desc" : "Paylocity's comprehensive product suite delivers a unified platform for professionals to make strategic HR and payroll decisions!",
+              "features" : "Paylocity's comprehensive product suite delivers a unified platform for professionals to make strategic decisions in the areas of benefits, core HR, payroll, talent, and workforce management, while cultivating a modern workplace and improving employee engagement. The platform can be accessed 24*7 from any given location using the mobile application. ",
+              "url" : "https://www.paylocity.com/lp/software/hr-payroll/?utm_medium=cpc"
+            },
+            {
+              "product_id" : 110968,
+              "seo_product_id" : 224075,
+              "seo_slug" : "BambooHR",
+              "vendor_name" : "BambooHR",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/670d76a5-76f8-4742-a6f9-a42d167cc69d.png",
+              "rating" : 4.6,
+              "total_reviews" : 1817,
+              "slug" : "BambooHR",
+              "product_name" : "BambooHR",
+              "short_desc" : "BambooHR makes running payroll easy, quick, and stress-free by offering a single source of data, a comprehensive payroll solution.\n",
+              "features" : "Instead of spending hours each month manually transferring data and worrying about accuracy, BambooHR makes running your payroll easy, quick, and stress-free. Data updates in BambooHR automatically flow into payroll to virtually eliminate data double entry. And with comprehensive payroll reporting, superior customer support, and full-service tax filing, you'll save time and worry on payroll-setting you free to focus on other important initiatives. \n",
+              "url" : "https://www.bamboohr.com/pl-pages/applicant-tracking-system?utm_source=RS&utm_medium=ATR&utm_campaign=Capt-DE-LiveDemoRe-20180111-01&utm_content=blank&utm_term=blank"
+            },
+            {
+              "product_id" : 119841,
+              "seo_product_id" : 225678,
+              "seo_slug" : "Paychex-Flex",
+              "vendor_name" : "Paychex",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/6fd0b8d1-9525-4ab0-ae43-0dc8a613c553.png",
+              "rating" : 4.1,
+              "total_reviews" : 1194,
+              "slug" : "Paychex-Flex",
+              "product_name" : "Paychex Flex",
+              "short_desc" : "Manage payroll, online or in-house, and save money on time tracking, reports, and processing payroll.",
+              "features" : "Paychex Flex is an all-in-one Payroll & HR solution that you can build on as your business grows or changes. Use it to run payroll and integrate your HR administration, retirement, and insurance management with service the way you want it and our expert knowledge of the regulations that could affect your business. Get 3 months of free payroll processing for a limited time. Click the link to get the details.",
+              "url" : "https://go.paychex.com/small-business-payroll-services?utm_source=Capterra&utm_medium=CPC&utm_campaign=PL_Capterra&campaign_name=PL_Capterra&campaign_id=7010g0000016Yk6"
+            },
+            {
+              "product_id" : 172127,
+              "seo_product_id" : 220951,
+              "seo_slug" : "Rippling",
+              "vendor_name" : "Rippling",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/0c617aed-05cb-4242-a1ed-7a7e79c76fb7.png",
+              "rating" : 4.9,
+              "total_reviews" : 1640,
+              "slug" : "Rippling",
+              "product_name" : "Rippling",
+              "short_desc" : "Rippling is the #1 Rated Payroll & HR software. Easily manage your Payroll, Benefits, Compliance, and more--all in one, modern system.",
+              "features" : "Rippling is The #1 Rated Payroll & HR Software. You can onboard new hires in 90 seconds, run payroll with a click, and pay employees or contractors, anywhere. And with Rippling, you can also manage your people's offer letters, I-9's, health insurance, time off, and more -- 100% online and paperlessly. All in one, modern platform.",
+              "url" : "https://www.rippling.com/?utm_medium=cpc&utm_campaign=list-ranking&utm_term=default"
+            },
+            {
+              "product_id" : 133745,
+              "seo_product_id" : 79628,
+              "seo_slug" : "Paycor-Perform",
+              "vendor_name" : "Paycor",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/7780d136-e630-42e5-adce-8f580dc09687.png",
+              "rating" : 4.4,
+              "total_reviews" : 2288,
+              "slug" : "Paycor-Perform",
+              "product_name" : "Paycor",
+              "short_desc" : "Streamline HR and payroll processes and get fast access to employee data using one intuitive platform. Get 3 Months Free Payroll*!",
+              "features" : "Paycor empowers leaders to modernize every aspect of people management so they can focus on what really matters: building winning teams. Processing payroll and managing tax compliance can be a time-consuming task for your team. But with Paycor, businesses can pay employees quickly and confidently from anywhere. Key features include general ledger integration, OnDemand Pay, AutoRun functionality, employee self-service, powerful reporting tools and compliance expertise. Get 3 Months Free Payroll*!",
+              "url" : "https://go.paycor.com/hcm-payroll-services?utm_medium=Paid%20listing&utm_content=Perform%20demo&utm_campaign=Web%20-%20Capterra%20Payroll%20PPC"
+            },
+            {
+              "product_id" : 205015,
+              "seo_product_id" : 205015,
+              "seo_slug" : "Deel",
+              "vendor_name" : "Deel",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/19b36ba9-4500-4bd8-ad93-8e4a3264b4dc.png",
+              "rating" : 3.9,
+              "total_reviews" : 12,
+              "slug" : "Deel",
+              "product_name" : "Deel",
+              "short_desc" : "Payroll and compliance built for the worldwide workforce.\nPay your team with one-click payments and let Deel handle taxes and benefits.",
+              "features" : "Deel is global payroll and compliant hiring built for remote teams, where anyone, anywhere can get hired and paid. Instantly hire full-time employees or independent contractors across the world legally, in minutes. \n\nWith Deel, companies take care of payroll and create localized legal contracts in over 150 countries using a tech-enabled self-serve process.\n\nDeel serves more than 4,500 customers, from SMBs to publicly traded companies.",
+              "url" : "https://www.deel.com/?utm_source=capterra&utm_medium=company_profile&utm_campaign=WW_CAPT_profile_click"
+            },
+            {
+              "product_id" : 170266,
+              "seo_product_id" : 246156,
+              "seo_slug" : "Square-Payroll",
+              "vendor_name" : "Square",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/5283006e-b0f1-4c9c-899a-abe57457ff07.png",
+              "rating" : 4.7,
+              "total_reviews" : 573,
+              "slug" : "Square-Payroll",
+              "product_name" : "Square Payroll",
+              "short_desc" : "Set up your whole team: employees, contractors, or both with Square Payroll.",
+              "features" : "Payroll has never been easier with Square Payroll. Square handles your federal and state payroll taxes including withholdings, payments, and filings. Small businesses and large companies can easily pay both hourly and salaried employees. Set your sick leave or paid time off policy for each team member, and Square's online payroll services take care of the rest. Switching providers is also simple - tell us your current provider, upload existing reports, and we take care of the rest.",
+              "url" : "https://squareup.com/t/f_online/d_affiliate/p_capterra/l_us/pr_payroll/?route=payroll"
+            },
+            {
+              "product_id" : 116050,
+              "seo_product_id" : 222924,
+              "seo_slug" : "Patriot-Payroll",
+              "vendor_name" : "Patriot Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/3eac018e-dbfb-472c-b35c-3a5b841809af.png",
+              "rating" : 4.8,
+              "total_reviews" : 2975,
+              "slug" : "Patriot-Payroll",
+              "product_name" : "Patriot Payroll",
+              "short_desc" : "Online payroll solutions for small business owners. Run payroll in 3 easy steps.Low pricing with no surprise fees. Try it free!",
+              "features" : "Best in value, user-friendly, value for money, and customer service according to users over the competition. Made for USA  small business owners with 1-100 employees. Choose the payroll option right for you:\nBasic Payroll - base price $10/mo. + $4 per employee.\nFull Service Payroll - Base price $30/mo + $4 per employee.  You run payroll, but let us handle the payroll tax filings.\nFree direct deposit, or print paychecks. ",
+              "url" : "http://try.patriotsoftware.com/payroll/landing/online-payroll/?utm_medium=cpc&utm_term=Easy-Online-Payroll&utm_campaign=Capterra"
+            },
+            {
+              "product_id" : 167640,
+              "seo_product_id" : 222250,
+              "seo_slug" : "Papaya-Global",
+              "vendor_name" : "Papaya Global",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/67c70114-eb25-46ac-9377-187c7252a9b4.png",
+              "rating" : 4.2,
+              "total_reviews" : 12,
+              "slug" : "Papaya-Platform",
+              "product_name" : "Papaya Global",
+              "short_desc" : "Papaya's payroll automation promotes scalability, compliance, accuracy, and security. It delivers unprecedented visibility & control.",
+              "features" : "Papaya's cloud-based SaaS platform automates global payroll end-to-end - from people to payroll to payments - in over 160 countries. Companies can upgrade their outdated legacy payroll software to Papaya's groundbreaking platform without ripping and replacing their network of local partners.\nPapaya can integrate with the companies' network in one payroll cycle. All payroll data is automatically verified though built-in compliance and accuracy engines to ensure a perfect payroll every time.",
+              "url" : "https://www.papayaglobal.com/paid-payroll-lp/?utm_source=capterra&utm_medium=paid_search&utm_campaign=default_category_capterra"
+            },
+            {
+              "product_id" : 211639,
+              "seo_product_id" : 211639,
+              "seo_slug" : "Remote",
+              "vendor_name" : "Remote Technology",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/b08773f8-f394-42de-bdcd-08817f0ec551.jpeg",
+              "rating" : 4.3,
+              "total_reviews" : 7,
+              "slug" : "Remote",
+              "product_name" : "Remote",
+              "short_desc" : "Manage and pay global contractors and employees with just a few clicks in our easy-to-use global HR and payroll platform.",
+              "features" : "Remote makes it easy to run a remote global organization. Our simple yet powerful platform lets you go from getting salary estimates to issuing your first payslip in just a few clicks. Plus, our streamlined documentation, time off requests, and approval systems keep payroll management simple so you can focus on growing your business.",
+              "url" : "https://remote.com/get-started?utm_medium=organic&utm_campaign=DefaultListing&utm_term=VisitWebsite"
+            },
+            {
+              "product_id" : 250766,
+              "seo_product_id" : 250766,
+              "seo_slug" : "Cloud9HR",
+              "vendor_name" : "Cloud9HR",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/f5ee068a-49fd-40ff-b1d3-3afc6ba1d540.jpeg",
+              "rating" : 0.0,
+              "total_reviews" : 0,
+              "slug" : "Cloud9HR",
+              "product_name" : "Cloud9HR",
+              "short_desc" : "HR/Payroll solution that processes payroll, employee onboarding/management, payroll/tax compliance, payroll reports, benefits, and more",
+              "features" : "Cloud9HR Software is designed for easy navigation and daily use ranging from employee onboarding/management to payroll and supporting reports. With 25 years of Payroll an HR experience we made this software easy to use to achieve accurate payroll and tax compliance for novice to very experienced administrators, PEO's and business owners.  Cloud9HR is for companies that are US based with 1 or more W2 employees.  It supports 1099.  \nYou will be supported by a team of responsive usage experts. ",
+              "url" : "https://info.gartnerdigitalmarkets.com/cloud9hr-gdm-lp/?category="
+            },
+            {
+              "product_id" : 254115,
+              "seo_product_id" : 254115,
+              "seo_slug" : "Atlas",
+              "vendor_name" : " Atlas Technology Solutions",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/c012985e-4154-48f1-ba22-883c36a103b6.jpeg",
+              "rating" : 0.0,
+              "total_reviews" : 0,
+              "slug" : "Atlas",
+              "product_name" : "Atlas",
+              "short_desc" : "Atlas spans all aspects of human experience management, so you can fast-track global ambition and simplify HR set-up.",
+              "features" : "Atlas enables innovative companies to compete in a global economy, believing that businesses should employ whomever they want, wherever the talent exists. As the largest Direct Employer of Record (EOR), Atlas is a technology platform that is supported by experts and delivers flexibility for companies to expand across borders, onboard talent, manage compliance, and pay their global workforce without the need for a local entity or multiple third-party providers. ",
+              "url" : "https://info.gartnerdigitalmarkets.com/atlas-gdm-lp"
+            }
+          ],
+          "related_categories" : [
+            {
+              "functional_group" : "workxpay",
+              "long_name" : "Attendance Tracking",
+              "html_name" : "attendance-tracking-software",
+              "link_name" : "attendance-tracking",
+              "product_count" : 113,
+              "meta_description" : "Find and compare top Attendance Tracking software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Attendance Tracking tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/attendance-tracking-software\">Attendance Tracking software</a> helps organizations manage the whereabouts of their employees.  These applications track an employee's vacation time off, sick time off, overtime, and absences. The software also searches for patterns in absences.  <a href=\"/attendance-tracking-software\">Attendance Tracking software</a> is related to <a href=\"/human-resource-software\">Human Resource software</a>, <a href=\"/payroll-software\">Payroll software</a>, and <a href=\"/time-clock-software\">Time Clock software</a>. "
+            },
+            {
+              "functional_group" : "workxpay",
+              "long_name" : "Benefits Administration",
+              "html_name" : "benefits-administration-software",
+              "link_name" : "benefits-administration",
+              "product_count" : 56,
+              "meta_description" : "Find and compare top Benefits Administration software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Benefits Administration tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/benefits-administration-software\">Benefits Administration software</a> helps HR professionals organize employee information for medical, dental, 401K, disability and retirement benefits.  This software helps ensure compliance with benefit eligibility and COBRA standards, and tracks benefit spending for companies in nearly any industry.  These solutions also include benefit statement software and benefit plan software.  <a href=\"/benefits-administration-software\">Benefits Administration software</a> is related to <a href=\"/human-resource-software\">Human Resource software</a>, <a href=\"/payroll-software\">Payroll software</a>, and <a href=\"/workforce-management-software\">Workforce Management software</a>."
+            },
+            {
+              "functional_group" : "workxpay",
+              "long_name" : "Compensation Management",
+              "html_name" : "compensation-management-software",
+              "link_name" : "compensation-management",
+              "product_count" : 48,
+              "meta_description" : "Find and compare top Compensation Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Compensation Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs.",
+              "description" : "<a href=\"/compensation-management-software\">Compensation Management software</a> helps organizations improve employees' motivation and retention by structuring performance-based benefits, streamlining payment adjustments across the company and tracking compensation payouts. <a href=\"/compensation-management-software\">Compensation Management software</a> is related to <a href=\"/talent-management-software\">Talent Management software</a>, <a href=\"/performance-appraisal-software\">Performance Appraisal software</a>, <a href=\"/commission-software\">Commission software</a> and <a href=\"/payroll-software\">Payroll software</a>."
+            },
+            {
+              "functional_group" : "workxpay",
+              "long_name" : "Human Resources",
+              "html_name" : "human-resource-software",
+              "link_name" : "human-resource",
+              "product_count" : 258,
+              "meta_description" : "Find and compare top Human Resource software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Human Resource tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/human-resource-software>Human Resource software</a>, also known as a Human Resources Information System (HRIS) or Human Resources Management System (HRMS), enables an organization to manage employee records and information.  Human Resource Management software allows you to organize contact details, department, attendance, salary, training, benefits and more.   Many Human Resource Management systems and resource management software also interface with applicant tracking and payroll software.  <a href=/human-resource-software>Human Resource Management software</a> is related to <a href=/applicant-tracking-software>Applicant Tracking software</a>, <a href=/payroll-software>Payroll software</a>, <a href=/performance-appraisal-software>Performance Appraisal software</a> and <a href=/workforce-management-software>Workforce Management software</a>."
+            },
+            {
+              "functional_group" : "workxpay",
+              "long_name" : "Workforce Management",
+              "html_name" : "workforce-management-software",
+              "link_name" : "workforce-management",
+              "product_count" : 205,
+              "meta_description" : "Find and compare top Workforce Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Workforce Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/workforce-management-software>Workforce Management software</a> enables organizations to plan, track, and manage the allocation and requirements of labor resources.  Workforce Management solutions also help organizations develop and retain top talent.  These applications allow businesses to optimize staff scheduling, while reducing labor costs.  <a href=/workforce-management-software>Workforce Management software</a> is related to <a href=/human-resource-software>Human Resource software</a>, <a href=/payroll-software>Payroll software</a>, <a href=/scheduling-software>Scheduling software</a> and <a href=/time-clock-software>Time Clock software</a>."
+            }
+          ],
+          "is_upgraded" : true,
+          "enabled" : true,
+          "filter_options" : {
+            "users" : 7,
+            "platform" : 1,
+            "pricing_options" : 18,
+            "category_related_features" : [
+              19598,
+              19599,
+              19600,
+              19601,
+              19603,
+              19604,
+              19608,
+              19609,
+              19611,
+              19614,
+              19616,
+              19617,
+              37663,
+              50715,
+              50717,
+              50718,
+              50721,
+              50723,
+              50725,
+              50728,
+              50731,
+              50732,
+              50733,
+              50734,
+              50736,
+              50737,
+              50739,
+              50740,
+              50742,
+              50743,
+              50746,
+              50747,
+              50748,
+              50749
+            ],
+            "employees" : 31
+          },
+          "sort_options" : {
+            "sort_review_rating" : 4.635290622711182,
+            "most_recent_review" : "2022-09-06T22:05:46Z"
+          },
+          "countries" : "US",
+          "features_tokenized_text" : "401(k)_tracking benefits_management check_printing direct_deposit multi-state payroll_reporting self_service_portal tax_compliance vacation/leave_tracking w-2_preparation wage_garnishment",
+          "platform_tokenized_text" : "cloud,saas,web-based",
+          "users_tokenized_text" : "1 2-10 11-50",
+          "pricing_tokenized_text" : "monthlysubscription freetrial",
+          "badges" : [
+            {
+              "id" : 2081,
+              "category_short_name" : "Payroll",
+              "category_html_name" : "payroll-software",
+              "published_year" : 2020,
+              "badge_type" : "Top 20"
+            },
+            {
+              "id" : 1900,
+              "category_short_name" : "Human Resources",
+              "category_html_name" : "human-resource-software",
+              "published_year" : 2020,
+              "badge_type" : "Top 20"
+            }
+          ],
+          "bid_spot_us" : 2.0,
+          "currency_code" : "USD",
+          "currency_symbol" : "$",
+          "credit_card_required" : "Unverified",
+          "licensing_model" : null,
+          "open_api_offered" : "Unverified",
+          "mobile_urls" : [ ],
+          "integrations" : [
+            {
+              "id" : "bcdd9473-58dd-4c24-a82a-a6d200b601d6",
+              "name" : "Quickbooks Online"
+            },
+            {
+              "id" : "ccf66c97-1850-41f5-9b62-a6d200b46712",
+              "name" : "Hubstaff"
+            },
+            {
+              "id" : "6ef0e966-567c-4441-9f7e-aa45006d34a3",
+              "name" : "Hubstaff Tasks"
+            },
+            {
+              "id" : "d9a37d42-865e-4399-b86f-a6d200b44a29",
+              "name" : "Greenhouse"
+            },
+            {
+              "id" : "ee7c2759-e5ba-4b0a-8de4-a6d200b4cae0",
+              "name" : "Procare Online"
+            },
+            {
+              "id" : "0eea1212-9ea0-477f-96fb-a86a0056c20e",
+              "name" : "Shopify Plus"
+            },
+            {
+              "id" : "57d1c24e-c76d-4f0a-a03d-069122a3f031",
+              "name" : "Workyard"
+            },
+            {
+              "id" : "d7561b9d-3b36-4d4d-a67a-6c23b7452c32",
+              "name" : "Workforce"
+            },
+            {
+              "id" : "2834981a-18b1-43f2-b52f-f33799c7d22f",
+              "name" : "AttendanceBot"
+            },
+            {
+              "id" : "0b70f432-bc90-4dd0-99d9-a920006a9c8f",
+              "name" : "Homebase AI"
+            },
+            {
+              "id" : "5bd860ec-88e8-470b-9409-a6d200b42fbe",
+              "name" : "Fulfil.IO"
+            },
+            {
+              "id" : "596cb628-f836-49d5-ad05-a6d200b7a22f",
+              "name" : "ZarMoney"
+            },
+            {
+              "id" : "3d3f2d87-f344-4190-b0ae-08f3dcd084a9",
+              "name" : "Bookkeeper360"
+            },
+            {
+              "id" : "885b2837-e739-4034-bcbf-a6d200b49f49",
+              "name" : "QuickBooks Desktop Enterprise"
+            },
+            {
+              "id" : "ed67881a-7782-4957-ad5d-a6d200b601d6",
+              "name" : "QuickBooks"
+            },
+            {
+              "id" : "ab267400-d3da-40e6-84f9-a6d200b2ee7a",
+              "name" : "Bonusly"
+            },
+            {
+              "id" : "44435115-ff25-47df-bf55-a7e000a7a296",
+              "name" : "PerformYard"
+            },
+            {
+              "id" : "e7e2058c-b3c5-4d2a-b27c-a8c400d1960a",
+              "name" : "GoalSpan"
+            },
+            {
+              "id" : "c9e6e19d-a3e0-4e64-9e11-a6d200b28511",
+              "name" : "15Five"
+            },
+            {
+              "id" : "fa5645d7-3ec2-45d7-9b1b-a6d200b28512",
+              "name" : "AccelOps 4"
+            },
+            {
+              "id" : "f099e009-2107-49e3-973f-aa77008fa83d",
+              "name" : "Veryfi OCR API & SDK"
+            },
+            {
+              "id" : "913cdccb-1667-4406-972e-a6d200b33c9d",
+              "name" : "ClienTrak! Spa & Salon Software"
+            },
+            {
+              "id" : "6b937137-dda7-4cd7-8fb8-73ea5392e8e2",
+              "name" : "Vanta"
+            },
+            {
+              "id" : "c5fac23f-c7aa-46f3-a71a-c837df8b99b3",
+              "name" : "Secureframe"
+            },
+            {
+              "id" : "42a2f84b-7f70-4497-8e59-d2f0e00933cf",
+              "name" : "VGS"
+            },
+            {
+              "id" : "326cead6-c9e8-4c6c-aaf1-c2643001d7d5",
+              "name" : "Drata"
+            },
+            {
+              "id" : "9b582cd1-aa19-4443-ad98-a6d200b30c39",
+              "name" : "Buildertrend"
+            },
+            {
+              "id" : "5b3c2075-2a24-4da3-b3e4-a6d200b2fce0",
+              "name" : "Box"
+            },
+            {
+              "id" : "1d4d820d-87c6-4dc4-8416-a745005542f3",
+              "name" : "Boomer"
+            },
+            {
+              "id" : "6cc3eb95-30f8-4acc-89b9-6c843b8e3dfc",
+              "name" : "Autobooks"
+            },
+            {
+              "id" : "e3d6d43b-3d5e-4498-9672-a6d200b2bfa3",
+              "name" : "Asana"
+            },
+            {
+              "id" : "702ea651-394b-4984-bd67-a6d200b29051",
+              "name" : "AccountingSuite"
+            },
+            {
+              "id" : "1d255585-a8cb-41c4-be7a-b8e4fd9f0421",
+              "name" : "neo.tax"
+            },
+            {
+              "id" : "c7f00a1b-c5c0-4be8-8c9b-a6d200b37696",
+              "name" : "monday.com"
+            },
+            {
+              "id" : "093ac2fd-838e-4616-a4f0-a6d200b7e1c4",
+              "name" : "Lattice"
+            },
+            {
+              "id" : "5403b494-e4fc-4de7-9e81-a6d200b46711",
+              "name" : "Housecall Pro"
+            },
+            {
+              "id" : "ae71cc02-7043-47f5-b61c-a6d200b44a28",
+              "name" : "GoToMeeting"
+            },
+            {
+              "id" : "55deb199-2462-4df1-997d-a78a00b635e4",
+              "name" : "Google Workspace"
+            },
+            {
+              "id" : "11a18687-8042-4768-ab33-a6d200b43d9a",
+              "name" : "GitHub"
+            },
+            {
+              "id" : "1b4b590c-3898-442c-9fe6-a6d200b38fc6",
+              "name" : "Dropbox Business"
+            },
+            {
+              "id" : "a5ed58d4-b8f3-4a80-971d-5e3a0441198e",
+              "name" : "WorkforceHub"
+            },
+            {
+              "id" : "431bd4fd-ba5c-4db4-9b32-5d3426aceb69",
+              "name" : "Guideline"
+            },
+            {
+              "id" : "27681a68-b794-4f0c-8ad9-aa84006f58ac",
+              "name" : "Uptick Workforce"
+            },
+            {
+              "id" : "1ed0bb1b-eba6-4147-ac50-a6d200b32f27",
+              "name" : "Webex"
+            },
+            {
+              "id" : "5a30a122-8a98-4b5d-89bc-a6d200b72eb5",
+              "name" : "Trello"
+            },
+            {
+              "id" : "ee97a886-c984-4ef9-8cf7-a6d200b7b61c",
+              "name" : "Boast"
+            },
+            {
+              "id" : "04f9c00d-9aeb-41e1-a2ef-a6d200b28511",
+              "name" : "7shifts"
+            },
+            {
+              "id" : "06c3268a-1de9-47d2-93c4-aa57004395fb",
+              "name" : "Jirav"
+            },
+            {
+              "id" : "8cb705cc-ce56-4a51-82b4-a6d200b7a22f",
+              "name" : "ZipBooks"
+            },
+            {
+              "id" : "3e11ca24-1eac-48a8-a9b9-a6d200b38209",
+              "name" : "Deputy"
+            },
+            {
+              "id" : "52bbb8ca-5bab-4cbc-9527-aa2a003987d1",
+              "name" : "Synder"
+            },
+            {
+              "id" : "2c1d641c-4552-4f6f-9069-a6d200b70c43",
+              "name" : "Time Tracker"
+            },
+            {
+              "id" : "dbe159dd-349b-4579-bbc8-a6d200b7b61c",
+              "name" : "Sunrise"
+            },
+            {
+              "id" : "a8a1ff3e-98d1-4a8c-8beb-a07e205fbffd",
+              "name" : "SpotOn"
+            },
+            {
+              "id" : "504a22a3-6c7f-4dd9-96f6-a6d200b3dcd5",
+              "name" : "Expensify"
+            },
+            {
+              "id" : "69e60297-944f-496e-9587-a6d200b610d3",
+              "name" : "Dext Prepare"
+            },
+            {
+              "id" : "63cd3388-e597-4345-bc5b-a6d200b5d306",
+              "name" : "Procare Solutions"
+            },
+            {
+              "id" : "ff8cc380-8bfb-4161-b5d9-a6d200b68846",
+              "name" : "Shopify"
+            },
+            {
+              "id" : "eab58142-6040-46ce-9341-a6d200b7915e",
+              "name" : "Xero"
+            },
+            {
+              "id" : "ec85f989-a983-4c7a-b7a3-a6d200b2b406",
+              "name" : "ApplicantPRO"
+            },
+            {
+              "id" : "609270fa-b593-415a-9f57-a6d200b42fbe",
+              "name" : "FreshBooks"
+            },
+            {
+              "id" : "2d5bd7a4-6c5c-4e20-8226-a9be006044df",
+              "name" : "Brex"
+            },
+            {
+              "id" : "2a9b23f9-5a03-4869-be37-a6d200b2fce1",
+              "name" : "Breezy"
+            },
+            {
+              "id" : "6626c743-670b-4c0a-8b33-aa650049b584",
+              "name" : "KeldairHR"
+            },
+            {
+              "id" : "2104d9c5-a12f-405b-8a1d-2ccd88e5ad82",
+              "name" : "Sapling"
+            },
+            {
+              "id" : "6f8f3958-6b8c-4702-8b4c-a98a004666e1",
+              "name" : "WizeHire"
+            },
+            {
+              "id" : "bd53e341-2f0c-4860-9420-a6d200b4bc5a",
+              "name" : "JazzHR"
+            },
+            {
+              "id" : "f97b1b4b-28c1-498c-97a2-a6d200b37696",
+              "name" : "Dataddo"
+            },
+            {
+              "id" : "70bffc8f-67ed-498c-ae2b-c61e1b20af0e",
+              "name" : "Traliant"
+            },
+            {
+              "id" : "a0ae1915-9ea3-4f8d-9838-8faf86ee28eb",
+              "name" : "EasyLlama"
+            },
+            {
+              "id" : "aae9623e-331f-4f83-98e8-a84f00b2b814",
+              "name" : "Online Check Writer"
+            },
+            {
+              "id" : "f5c45649-ff31-4cee-9c35-211fe83061a3",
+              "name" : "Brandly"
+            },
+            {
+              "id" : "923839dc-5450-409b-b332-a6d200b676d1",
+              "name" : "Workiz"
+            },
+            {
+              "id" : "a502bbf6-b84e-430f-b7ee-60411485cf19",
+              "name" : "ChartHop"
+            },
+            {
+              "id" : "4a40eb2e-8ee2-4472-a899-a7bd00b367a5",
+              "name" : "SINC"
+            },
+            {
+              "id" : "072c2bd4-e488-48c0-9280-a6d200b548cd",
+              "name" : "allGeo"
+            },
+            {
+              "id" : "166ab878-fee1-4f70-aa73-a6d200b696d4",
+              "name" : "Sling"
+            },
+            {
+              "id" : "9d16268c-dd50-4aa6-837d-a6d200b7b61c",
+              "name" : "ClockShark"
+            },
+            {
+              "id" : "bdf69753-9231-4242-bf87-a6d200b7d5db",
+              "name" : "Homebase"
+            },
+            {
+              "id" : "7887bb24-9153-432a-ac55-a7e100371eed",
+              "name" : "Clover"
+            },
+            {
+              "id" : "682d39ce-54c2-4a01-983e-a6d200b80c8e",
+              "name" : "Upserve"
+            },
+            {
+              "id" : "5500a101-2fed-474f-9f7e-a6de00c5fa29",
+              "name" : "QuickBooks Time"
+            },
+            {
+              "id" : "6f0b36a5-3116-4a4c-af60-a8e200e6e957",
+              "name" : "Trainual"
+            },
+            {
+              "id" : "44278a9e-09e7-4c4b-92d9-1a3739abe0ec",
+              "name" : "QuickBooks Online Advanced"
+            },
+            {
+              "id" : "2c7d29e1-0f37-4a31-b57b-a6d200b5761f",
+              "name" : "OnTheClock.com"
+            },
+            {
+              "id" : "4bf3c6a3-00eb-4e7c-bf8e-a6d200b73cad",
+              "name" : "Vagaro"
+            },
+            {
+              "id" : "7ead8fdf-807a-4d97-adc9-a6d200b77ff8",
+              "name" : "When I Work"
+            },
+            {
+              "id" : "b621a667-38a1-42bf-a830-a8e700c1b066",
+              "name" : "Timeero"
+            },
+            {
+              "id" : "d6c674cf-e6df-41f3-b9df-a6d200b28512",
+              "name" : "Accelo"
+            },
+            {
+              "id" : "0385ab12-8b76-4beb-9afc-a6d200b2b406",
+              "name" : "Aplos"
+            },
+            {
+              "id" : "8974fda0-96cf-44b9-a1c9-a6d200b2d5bd",
+              "name" : "BambooHR"
+            },
+            {
+              "id" : "5b772be0-c981-43c0-87f8-a6d200b2fce0",
+              "name" : "Justworks Hours"
+            },
+            {
+              "id" : "bfe5ab3b-df58-4fd0-a9e7-a6d200b4adc6",
+              "name" : "Veryfi Receipts OCR & Expenses"
+            }
+          ],
+          "supported_countries" : [
+            {
+              "id" : 237,
+              "code" : "US",
+              "name" : "United States of America"
+            }
+          ],
+          "supported_languages" : [
+            {
+              "id" : 152,
+              "code" : "en",
+              "name" : "English",
+              "location" : null
+            }
+          ],
+          "target_industries" : [
+            {
+              "id" : 64,
+              "code" : "96",
+              "name" : "Information Technology and Services"
+            },
+            {
+              "id" : 47,
+              "code" : "23",
+              "name" : "Food Production"
+            },
+            {
+              "id" : 7,
+              "code" : "50",
+              "name" : "Architecture & Planning"
+            },
+            {
+              "id" : 8,
+              "code" : "111",
+              "name" : "Arts and Crafts"
+            },
+            {
+              "id" : 68,
+              "code" : "6",
+              "name" : "Internet"
+            },
+            {
+              "id" : 88,
+              "code" : "13",
+              "name" : "Medical Practice"
+            },
+            {
+              "id" : 28,
+              "code" : "25",
+              "name" : "Consumer Goods"
+            },
+            {
+              "id" : 2,
+              "code" : "94",
+              "name" : "Airlines/Aviation"
+            },
+            {
+              "id" : 111,
+              "code" : "83",
+              "name" : "Printing"
+            },
+            {
+              "id" : 48,
+              "code" : "101",
+              "name" : "Fund-Raising"
+            },
+            {
+              "id" : 19,
+              "code" : "51",
+              "name" : "Civil Engineering"
+            },
+            {
+              "id" : 122,
+              "code" : "89",
+              "name" : "Religious Institutions"
+            },
+            {
+              "id" : 39,
+              "code" : "110",
+              "name" : "Events Services"
+            },
+            {
+              "id" : 99,
+              "code" : "113",
+              "name" : "Online Media"
+            },
+            {
+              "id" : 125,
+              "code" : "32",
+              "name" : "Restaurants"
+            },
+            {
+              "id" : 145,
+              "code" : "142",
+              "name" : "Wine and Spirits"
+            },
+            {
+              "id" : 36,
+              "code" : "112",
+              "name" : "Electrical/Electronic Manufacturing"
+            },
+            {
+              "id" : 142,
+              "code" : "16",
+              "name" : "Veterinary"
+            },
+            {
+              "id" : 106,
+              "code" : "131",
+              "name" : "Philanthropy"
+            },
+            {
+              "id" : 23,
+              "code" : "3",
+              "name" : "Computer Hardware"
+            },
+            {
+              "id" : 83,
+              "code" : "97",
+              "name" : "Market Research"
+            },
+            {
+              "id" : 80,
+              "code" : "55",
+              "name" : "Machinery"
+            },
+            {
+              "id" : 123,
+              "code" : "144",
+              "name" : "Renewables & Environment"
+            },
+            {
+              "id" : 40,
+              "code" : "76",
+              "name" : "Executive Office"
+            },
+            {
+              "id" : 146,
+              "code" : "119",
+              "name" : "Wireless"
+            },
+            {
+              "id" : 117,
+              "code" : "82",
+              "name" : "Publishing"
+            },
+            {
+              "id" : 34,
+              "code" : "69",
+              "name" : "Education Management"
+            },
+            {
+              "id" : 54,
+              "code" : "140",
+              "name" : "Graphic Design"
+            },
+            {
+              "id" : 14,
+              "code" : "49",
+              "name" : "Building Materials"
+            },
+            {
+              "id" : 17,
+              "code" : "54",
+              "name" : "Chemicals"
+            },
+            {
+              "id" : 37,
+              "code" : "28",
+              "name" : "Entertainment"
+            },
+            {
+              "id" : 18,
+              "code" : "90",
+              "name" : "Civic & Social Organization"
+            },
+            {
+              "id" : 12,
+              "code" : "12",
+              "name" : "Biotechnology"
+            },
+            {
+              "id" : 49,
+              "code" : "26",
+              "name" : "Furniture"
+            },
+            {
+              "id" : 89,
+              "code" : "139",
+              "name" : "Mental Health Care"
+            },
+            {
+              "id" : 6,
+              "code" : "19",
+              "name" : "Apparel & Fashion"
+            },
+            {
+              "id" : 115,
+              "code" : "98",
+              "name" : "Public Relations and Communications"
+            },
+            {
+              "id" : 112,
+              "code" : "105",
+              "name" : "Professional Training & Coaching"
+            },
+            {
+              "id" : 13,
+              "code" : "36",
+              "name" : "Broadcast Media"
+            },
+            {
+              "id" : 73,
+              "code" : "9",
+              "name" : "Law Practice"
+            },
+            {
+              "id" : 30,
+              "code" : "18",
+              "name" : "Cosmetics"
+            },
+            {
+              "id" : 56,
+              "code" : "68",
+              "name" : "Higher Education"
+            },
+            {
+              "id" : 33,
+              "code" : "99",
+              "name" : "Design"
+            },
+            {
+              "id" : 27,
+              "code" : "24",
+              "name" : "Consumer Electronics"
+            },
+            {
+              "id" : 87,
+              "code" : "17",
+              "name" : "Medical Devices"
+            },
+            {
+              "id" : 147,
+              "code" : "103",
+              "name" : "Writing and Editing"
+            },
+            {
+              "id" : 4,
+              "code" : "125",
+              "name" : "Alternative Medicine"
+            },
+            {
+              "id" : 126,
+              "code" : "27",
+              "name" : "Retail"
+            },
+            {
+              "id" : 29,
+              "code" : "91",
+              "name" : "Consumer Services"
+            },
+            {
+              "id" : 86,
+              "code" : "126",
+              "name" : "Media Production"
+            },
+            {
+              "id" : 132,
+              "code" : "104",
+              "name" : "Staffing and Recruiting"
+            },
+            {
+              "id" : 58,
+              "code" : "31",
+              "name" : "Hospitality"
+            },
+            {
+              "id" : 9,
+              "code" : "53",
+              "name" : "Automotive"
+            },
+            {
+              "id" : 65,
+              "code" : "42",
+              "name" : "Insurance"
+            },
+            {
+              "id" : 35,
+              "code" : "132",
+              "name" : "E-Learning"
+            },
+            {
+              "id" : 25,
+              "code" : "4",
+              "name" : "Computer Software"
+            },
+            {
+              "id" : 84,
+              "code" : "80",
+              "name" : "Marketing and Advertising"
+            },
+            {
+              "id" : 1,
+              "code" : "47",
+              "name" : "Accounting"
+            },
+            {
+              "id" : 105,
+              "code" : "15",
+              "name" : "Pharmaceuticals"
+            },
+            {
+              "id" : 85,
+              "code" : "135",
+              "name" : "Mechanical or Industrial Engineering"
+            },
+            {
+              "id" : 120,
+              "code" : "44",
+              "name" : "Real Estate"
+            },
+            {
+              "id" : 97,
+              "code" : "100",
+              "name" : "Non-Profit Organization Management"
+            },
+            {
+              "id" : 57,
+              "code" : "14",
+              "name" : "Hospital & Health Care"
+            },
+            {
+              "id" : 43,
+              "code" : "43",
+              "name" : "Financial Services"
+            },
+            {
+              "id" : 46,
+              "code" : "34",
+              "name" : "Food & Beverages"
+            },
+            {
+              "id" : 61,
+              "code" : "88",
+              "name" : "Individual & Family Services"
+            },
+            {
+              "id" : 121,
+              "code" : "40",
+              "name" : "Recreational Facilities and Services"
+            },
+            {
+              "id" : 55,
+              "code" : "124",
+              "name" : "Health, Wellness and Fitness"
+            },
+            {
+              "id" : 15,
+              "code" : "138",
+              "name" : "Business Supplies and Equipment"
+            },
+            {
+              "id" : 124,
+              "code" : "70",
+              "name" : "Research"
+            },
+            {
+              "id" : 26,
+              "code" : "48",
+              "name" : "Construction"
+            },
+            {
+              "id" : 52,
+              "code" : "75",
+              "name" : "Government Administration"
+            },
+            {
+              "id" : 139,
+              "code" : "92",
+              "name" : "Transportation/Trucking/Railroad"
+            },
+            {
+              "id" : 81,
+              "code" : "11",
+              "name" : "Management Consulting"
+            },
+            {
+              "id" : 134,
+              "code" : "8",
+              "name" : "Telecommunications"
+            },
+            {
+              "id" : 98,
+              "code" : "57",
+              "name" : "Oil & Energy"
+            },
+            {
+              "id" : 78,
+              "code" : "116",
+              "name" : "Logistics and Supply Chain"
+            },
+            {
+              "id" : 41,
+              "code" : "122",
+              "name" : "Facilities Services"
+            },
+            {
+              "id" : 42,
+              "code" : "63",
+              "name" : "Farming"
+            },
+            {
+              "id" : 59,
+              "code" : "137",
+              "name" : "Human Resources"
+            },
+            {
+              "id" : 62,
+              "code" : "147",
+              "name" : "Industrial Automation"
+            },
+            {
+              "id" : 74,
+              "code" : "10",
+              "name" : "Legal Services"
+            },
+            {
+              "id" : 11,
+              "code" : "41",
+              "name" : "Banking"
+            },
+            {
+              "id" : 140,
+              "code" : "59",
+              "name" : "Utilities"
+            }
+          ],
+          "price_range_id" : 1,
+          "aggregated_review_ratings" : {
+            "industry" : {
+              "86" : 4.61,
+              "51" : 4.63,
+              "148" : 5.0,
+              "25" : 4.69,
+              "13" : 4.71,
+              "33" : 4.85,
+              "63" : 5.0,
+              "60" : 5.0,
+              "22" : 5.0,
+              "114" : 5.0,
+              "144" : 5.0,
+              "84" : 4.79,
+              "110" : 4.83,
+              "137" : 4.54,
+              "141" : 1.0,
+              "96" : 4.71,
+              "32" : 4.85,
+              "94" : 4.43,
+              "52" : 4.71,
+              "4" : 4.58,
+              "111" : 4.42,
+              "17" : 4.22,
+              "142" : 5.0,
+              "27" : 4.72,
+              "100" : 4.69,
+              "119" : 4.0,
+              "18" : 4.79,
+              "56" : 5.0,
+              "69" : 4.65,
+              "46" : 4.78,
+              "107" : 4.4,
+              "31" : 4.62,
+              "6" : 4.73,
+              "1" : 4.67,
+              "15" : 4.86,
+              "45" : 4.0,
+              "48" : 4.47,
+              "90" : 4.69,
+              "106" : 4.67,
+              "54" : 2.5,
+              "138" : 4.75,
+              "50" : 4.35,
+              "30" : 4.6,
+              "14" : 4.71,
+              "20" : 4.8,
+              "43" : 4.59,
+              "23" : 4.82,
+              "122" : 4.64,
+              "59" : 4.29,
+              "129" : 4.25,
+              "136" : 4.8,
+              "68" : 4.56,
+              "87" : 3.5,
+              "37" : 5.0,
+              "71" : 5.0,
+              "121" : 4.6,
+              "93" : 5.0,
+              "34" : 4.56,
+              "8" : 4.67,
+              "139" : 4.61,
+              "92" : 4.59,
+              "12" : 4.68,
+              "5" : 4.83,
+              "134" : 5.0,
+              "79" : 5.0,
+              "88" : 4.65,
+              "38" : 4.5,
+              "97" : 4.67,
+              "89" : 4.85,
+              "109" : 5.0,
+              "117" : 4.0,
+              "10" : 4.63,
+              "108" : 4.0,
+              "9" : 4.56,
+              "35" : 5.0,
+              "67" : 4.86,
+              "75" : 4.67,
+              "132" : 4.72,
+              "98" : 4.73,
+              "102" : 5.0,
+              "82" : 4.11,
+              "133" : 4.8,
+              "39" : 4.5,
+              "36" : 4.56,
+              "147" : 1.0,
+              "124" : 4.7,
+              "99" : 4.67,
+              "140" : 4.8,
+              "113" : 4.75,
+              "57" : 4.81,
+              "41" : 4.64,
+              "118" : 4.69,
+              "103" : 4.6,
+              "127" : 3.8,
+              "3" : 4.29,
+              "116" : 4.43,
+              "101" : 5.0,
+              "143" : 5.0,
+              "21" : 5.0,
+              "115" : 4.75,
+              "105" : 4.75,
+              "80" : 4.77,
+              "16" : 4.71,
+              "53" : 4.78,
+              "104" : 4.68,
+              "70" : 4.71,
+              "135" : 4.31,
+              "130" : 4.0,
+              "126" : 4.79,
+              "42" : 4.61,
+              "29" : 5.0,
+              "123" : 4.0,
+              "47" : 4.61,
+              "44" : 4.64,
+              "131" : 4.06,
+              "81" : 5.0,
+              "40" : 4.89,
+              "28" : 4.75,
+              "125" : 4.63,
+              "91" : 4.52,
+              "55" : 3.8,
+              "76" : 3.6,
+              "49" : 4.63,
+              "112" : 4.83,
+              "24" : 4.28,
+              "26" : 4.5,
+              "128" : 4.83,
+              "19" : 4.72,
+              "11" : 4.72,
+              "78" : 4.5,
+              "83" : 4.5
+            },
+            "company_size" : {
+              "5001-10,000 employees" : 4.59,
+              "11-50 employees" : 4.66,
+              "1-10 employees" : 4.67,
+              "10,001+ employees" : 4.53,
+              "501-1000 employees" : 4.57,
+              "201-500 employees" : 4.52,
+              "51-200 employees" : 4.61,
+              "Self-employed" : 4.64,
+              "1001-5000 employees" : 4.63
+            }
+          },
+          "vct_enabled" : false,
+          "pricing_plans" : [
+            {
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-07-29T11:03:32Z",
+              "created_by" : null,
+              "modified_by" : "Ansha Balwant",
+              "name" : "Contractor Only",
+              "description" : "This plan is suitable for contractor-only businesses with no W-2 employees. It offers unlimited contractor payments across all 50 U.S. states, 4-day direct deposit, 1099-NECs at the end of the year, and new hire reporting (if required). This plan does not cover international contractor payments, backup withholding, or other contractor withholding requirements.",
+              "display_order" : 4,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 6.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Per User",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "1099-Necs"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "Contractor Payments"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Direct Deposit"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "Reporting"
+                }
+              ]
+            },
+            {
+              "created_on_utc" : "2022-07-29T07:41:35Z",
+              "modified_on_utc" : "2022-07-29T07:41:35Z",
+              "created_by" : "Ansha Balwant",
+              "modified_by" : "Ansha Balwant",
+              "name" : "Simple",
+              "description" : "This plan is suitable for smaller businesses with simple salaries, wages, and pay schedules. It offers full-service payroll (including W-2s & 1099s), employee profiles & self-service, Gusto-brokered health insurance administration, and employee financial benefits.",
+              "display_order" : 1,
+              "price_type_name" : "Custom",
+              "custom_price" : "$40 + $6/user/month",
+              "starting_price" : null,
+              "ending_price" : null,
+              "pricing_model_name" : "Other",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 1,
+                  "name" : "ACA Compliant"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 2,
+                  "name" : "Calendar Reminders"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 3,
+                  "name" : "Direct Deposit"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 4,
+                  "name" : "Document Storage"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 5,
+                  "name" : "Employee Mobile App"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 6,
+                  "name" : "Employee Profiles"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 7,
+                  "name" : "ERISA Compliant"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 8,
+                  "name" : "Garnishments"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 9,
+                  "name" : "Health Benefits Administration"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 10,
+                  "name" : "HIPPA Compliant"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 11,
+                  "name" : "Holiday Pay"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 12,
+                  "name" : "Lifetime Access"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 13,
+                  "name" : "Multiple Pay Rates & Schedules"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 14,
+                  "name" : "Multi-State Payroll"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 15,
+                  "name" : "Online Benefits Enrollment"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 17,
+                  "name" : "Payroll"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 18,
+                  "name" : "Paystubs"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 19,
+                  "name" : "PTO Policy Tracking"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 20,
+                  "name" : "Reporting"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 21,
+                  "name" : "State & Federal Unemployment Insurance"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 22,
+                  "name" : "Tax Filings & Payments"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 23,
+                  "name" : "Third-Party Integrations"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 24,
+                  "name" : "Tip Credits"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 25,
+                  "name" : "Worker's Compensation Administration"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 16,
+                  "name" : "Payday Emails"
+                }
+              ]
+            },
+            {
+              "created_on_utc" : "2022-07-29T07:41:35Z",
+              "modified_on_utc" : "2022-07-29T07:41:35Z",
+              "created_by" : "Ansha Balwant",
+              "modified_by" : "Ansha Balwant",
+              "name" : "Plus",
+              "description" : "This plan is suitable for businesses with complex payroll, hiring, and team management needs. It includes everything in the Core plan + next-day direct deposit, time tracking & PTO management, hiring & onboarding tools, project tracking, workforce cost reporting, and more.",
+              "display_order" : 2,
+              "price_type_name" : "Custom",
+              "custom_price" : "$80/month + $12/user/month",
+              "starting_price" : null,
+              "ending_price" : null,
+              "pricing_model_name" : "Other",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 8,
+                  "name" : "Employee Surveys"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 9,
+                  "name" : "ERISA Compliant"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 10,
+                  "name" : "E-Signature"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 11,
+                  "name" : "Garnishments"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 12,
+                  "name" : "Health Benefits Administration"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 13,
+                  "name" : "HIPPA Compliant"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 14,
+                  "name" : "Holiday Pay"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 15,
+                  "name" : "Lifetime Access"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 16,
+                  "name" : "Manager Permissions"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 17,
+                  "name" : "Multiple Pay Rates & Schedules"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 18,
+                  "name" : "Multi-State Payroll"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 19,
+                  "name" : "Onboarding Tools"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 20,
+                  "name" : "Online Benefits Enrollment"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 21,
+                  "name" : "Org Chart"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 22,
+                  "name" : "Payday Emails"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 23,
+                  "name" : "Payroll"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 24,
+                  "name" : "Paystubs"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 25,
+                  "name" : "Performance Reviews"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 26,
+                  "name" : "Project Tracking"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 27,
+                  "name" : "PTO Policy Tracking"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 28,
+                  "name" : "Reporting"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 29,
+                  "name" : "State & Federal Unemployment Insurance"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 30,
+                  "name" : "Tax Filings & Payments"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 31,
+                  "name" : "Third-Party Integrations"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 32,
+                  "name" : "Time-off Requests"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 33,
+                  "name" : "Time Tracking"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 34,
+                  "name" : "Tip Credits"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 35,
+                  "name" : "Worker's Compensation Administration"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 1,
+                  "name" : "ACA Compliant"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 2,
+                  "name" : "Calendar Reminders"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 3,
+                  "name" : "Custom Admin Permissions"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 4,
+                  "name" : "Direct Deposit"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 5,
+                  "name" : "Document Storage"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 6,
+                  "name" : "Employee Mobile App"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 7,
+                  "name" : "Employee Profiles"
+                }
+              ]
+            },
+            {
+              "created_on_utc" : "2022-07-29T07:41:35Z",
+              "modified_on_utc" : "2022-07-29T11:03:32Z",
+              "created_by" : "Ansha Balwant",
+              "modified_by" : "Ansha Balwant",
+              "name" : "Premium",
+              "description" : "This plan is suitable for fast-growing businesses, with an minimum of 25 employees, needing premium tools and dedicated support. It offers all features in the Core, Complete, and Concierge plans + customization to meet unique business needs.",
+              "display_order" : 3,
+              "price_type_name" : "Custom",
+              "custom_price" : "Contact Gusto for pricing.",
+              "starting_price" : null,
+              "ending_price" : null,
+              "pricing_model_name" : null,
+              "payment_frequency_name" : null,
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 1,
+                  "name" : "ACA Compliant"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 2,
+                  "name" : "Calendar Reminders"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 3,
+                  "name" : "Compliance Alerts"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 4,
+                  "name" : "Custom Admin Permissions"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 5,
+                  "name" : "Direct Deposit"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 6,
+                  "name" : "Document Storage"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 7,
+                  "name" : "Employee Mobile App"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 8,
+                  "name" : "Employee Profiles"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 9,
+                  "name" : "Employee Surveys"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 10,
+                  "name" : "ERISA Compliant"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 11,
+                  "name" : "E-Signature"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 12,
+                  "name" : "Garnishments"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 13,
+                  "name" : "Health Benefits Administration"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 14,
+                  "name" : "Health Insurance Broker Integration"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 15,
+                  "name" : "HIPPA Compliant"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 16,
+                  "name" : "Holiday Pay"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 17,
+                  "name" : "Lifetime Access"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 18,
+                  "name" : "Manager Permissions"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 19,
+                  "name" : "Multiple Pay Rates & Schedules"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 20,
+                  "name" : "Multi-State Payroll"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 21,
+                  "name" : "Onboarding Tools"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 22,
+                  "name" : "Online Benefits Enrollment"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 23,
+                  "name" : "Org Chart"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 24,
+                  "name" : "Payday Emails"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 25,
+                  "name" : "Payroll"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 26,
+                  "name" : "Paystubs"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 27,
+                  "name" : "Performance Reviews"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 28,
+                  "name" : "Project Tracking"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 29,
+                  "name" : "PTO Policy Tracking"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 30,
+                  "name" : "Reporting"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 31,
+                  "name" : "State & Federal Unemployment Insurance"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 32,
+                  "name" : "Tax Filings & Payments"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 33,
+                  "name" : "Third-Party Integrations"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 34,
+                  "name" : "Time-off Requests"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 35,
+                  "name" : "Time Tracking"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 36,
+                  "name" : "Tip Credits"
+                },
+                {
+                  "created_on_utc" : "2022-07-29T07:41:35Z",
+                  "modified_on_utc" : "2022-07-29T07:41:35Z",
+                  "created_by" : "Ansha Balwant",
+                  "modified_by" : "Ansha Balwant",
+                  "display_order" : 37,
+                  "name" : "Worker's Compensation Administration"
+                }
+              ]
+            }
+          ],
+          "discount_types" : [ ]
+        }
+      }
+    ]
+  }
+}

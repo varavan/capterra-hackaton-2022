@@ -1,0 +1,2537 @@
+{
+  "took" : 13,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 3,
+    "successful" : 3,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : {
+      "value" : 1,
+      "relation" : "eq"
+    },
+    "max_score" : 10.871598,
+    "hits" : [
+      {
+        "_index" : "product_listings_main_data_upc_vt20220920_043802_utc",
+        "_type" : "_doc",
+        "_id" : "129680_creditcard",
+        "_score" : 10.871598,
+        "_source" : {
+          "product_id" : 129680,
+          "seo_product_id" : 129680,
+          "seo_slug" : "Invoicely",
+          "product_name" : "Invoicely",
+          "upc_product_uuid" : "7ae8fb49-9ab2-4edd-aeae-a6d200b4adc6",
+          "old_product_ids" : [ ],
+          "product_url" : "http://www.invoicely.com",
+          "product_slug" : "Invoicely",
+          "former_name" : "Invoicely",
+          "logo_filepath" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/86887188-ef6a-4f08-aa3e-237c3ea60692.png",
+          "vendor" : {
+            "vendor_id" : 2090986,
+            "vendor_name" : "Invoicely",
+            "vendor_url" : "http://www.invoiceable.co",
+            "year_founded" : null,
+            "location" : "United Kingdom",
+            "vendor_opted_out_of_reviews" : true,
+            "is_opted_out_of_reviews" : false,
+            "is_hit_limit" : false,
+            "enabled" : true,
+            "has_vendor_level_page" : false,
+            "slug" : null,
+            "vendor_page" : false,
+            "paused_campaign" : false
+          },
+          "category_short_name" : "creditcard",
+          "category_html_name" : "payment-processing-software",
+          "category" : {
+            "id" : 30232,
+            "short_name" : "creditcard",
+            "long_name" : "Payment Processing",
+            "html_name" : "payment-processing-software",
+            "enabled" : true
+          },
+          "best_category" : "creditcard",
+          "is_best_category" : true,
+          "highest_cpc_category" : null,
+          "is_highest_cpc_category" : false,
+          "short_desc" : "Ideal for small businesses & freelancers, the web-based billing solution helps send and accept payment invoices, manage expenses & more",
+          "long_desc" : "Ideal for small businesses & freelancers, the web-based billing solution helps send and accept payment invoices, manage expenses & more",
+          "rating" : 4.7,
+          "number_of_reviews" : 177,
+          "total_reviews" : 186,
+          "ease_of_use_rating" : 4.6,
+          "customer_support_rating" : 4.4,
+          "functionality_rating" : 4.5,
+          "value_for_money_rating" : 4.6,
+          "recommendation_rating" : 8.9,
+          "pricing_enabled" : true,
+          "pricing" : 0.0,
+          "is_per_user" : false,
+          "fee_schedule" : "Per-Month",
+          "pricing_model" : "Flat Rate",
+          "pricing_details" : "Basic Plan - $9.99\nProfessional Plan - $19.99\nEnterprise Plan - $29.99\n\ninvoicely offers a free plan that includes unlimited clients and invoices, and three different premium plans priced from $9,99 to $29,99 / month that include additional features such as additional payment gateways, custom invoice branding, automatic invoice reminders, and recurring invoices.",
+          "pricing_created_on" : "2019-08-21T14:47:39Z",
+          "pricing_modified_on" : "2022-06-23T14:42:33Z",
+          "pricing_created_by" : null,
+          "pricing_modified_by" : null,
+          "pricing_vendor_pricing_url" : "https://invoicely.com/pricing",
+          "free_trial" : false,
+          "free_version" : true,
+          "target_audience" : "Web-based billing solution that enables small businesses, freelancers and web-designers to send and accept payment invoices while managing and tracking earnings, expenses, activity logs and more. ",
+          "target_users" : [
+            "1",
+            "2-10",
+            "11-50",
+            "51-200",
+            "201-500",
+            "501-1000",
+            "1000+"
+          ],
+          "platform" : [
+            {
+              "enabled" : true,
+              "name" : "Cloud, SaaS, Web-Based"
+            },
+            {
+              "enabled" : true,
+              "name" : "Desktop Mac"
+            },
+            {
+              "enabled" : true,
+              "name" : "Desktop Windows"
+            },
+            {
+              "enabled" : true,
+              "name" : "Desktop Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Chromebook"
+            },
+            {
+              "enabled" : false,
+              "name" : "Mobile Android"
+            },
+            {
+              "enabled" : false,
+              "name" : "Mobile iPhone"
+            },
+            {
+              "enabled" : false,
+              "name" : "Mobile iPad"
+            }
+          ],
+          "support" : [
+            {
+              "enabled" : true,
+              "name" : "Email Help Desk"
+            },
+            {
+              "enabled" : true,
+              "name" : "FAQ Forum"
+            },
+            {
+              "enabled" : true,
+              "name" : "Knowledgebase"
+            },
+            {
+              "enabled" : false,
+              "name" : "Phone Support"
+            },
+            {
+              "enabled" : false,
+              "name" : "24/7 Live Rep"
+            },
+            {
+              "enabled" : true,
+              "name" : "Chat"
+            }
+          ],
+          "training" : [
+            {
+              "enabled" : false,
+              "name" : "Not Offered"
+            },
+            {
+              "enabled" : false,
+              "name" : "In-Person"
+            },
+            {
+              "enabled" : false,
+              "name" : "Live Online"
+            },
+            {
+              "enabled" : false,
+              "name" : "Webinars"
+            },
+            {
+              "enabled" : true,
+              "name" : "Documentation"
+            },
+            {
+              "enabled" : false,
+              "name" : "Videos"
+            }
+          ],
+          "media" : [
+            {
+              "product_id" : 129680,
+              "vendor_id" : 2090986,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/a90f4b3d-94c7-4c8a-817d-f9dc69ba9ab2.png",
+              "caption" : null,
+              "weight" : 1,
+              "short_name" : "creditcard"
+            },
+            {
+              "product_id" : 129680,
+              "vendor_id" : 2090986,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/c58881be-d477-4b76-a874-85a74ae6a1ec.png",
+              "caption" : null,
+              "weight" : 2,
+              "short_name" : "creditcard"
+            },
+            {
+              "product_id" : 129680,
+              "vendor_id" : 2090986,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/cc0bd3ad-9f39-4f63-9054-4e81a12e41c0.png",
+              "caption" : null,
+              "weight" : 3,
+              "short_name" : "creditcard"
+            },
+            {
+              "product_id" : 129680,
+              "vendor_id" : 2090986,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/1dc77d02-3e82-47b5-87f5-b327c66884ac.png",
+              "caption" : null,
+              "weight" : 4,
+              "short_name" : "creditcard"
+            },
+            {
+              "product_id" : 129680,
+              "vendor_id" : 2090986,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/78924488-426f-46d2-a30f-9b5e44b9e059.png",
+              "caption" : null,
+              "weight" : 5,
+              "short_name" : "creditcard"
+            },
+            {
+              "product_id" : 129680,
+              "vendor_id" : 2090986,
+              "media_type" : "VIDEO",
+              "path_url" : "https://youtu.be/zDtw4QTFrcg",
+              "caption" : null,
+              "weight" : 0,
+              "short_name" : "creditcard"
+            }
+          ],
+          "links" : [
+            {
+              "product_id" : 129680,
+              "functional_group" : "creditcard",
+              "html_code" : "https://invoicely.com/signup",
+              "link_name" : "Free Trial",
+              "link_priority" : 1.0
+            },
+            {
+              "product_id" : 129680,
+              "functional_group" : "creditcard",
+              "html_code" : "https://invoicely.com/features",
+              "link_name" : "Free Demo",
+              "link_priority" : 2.0
+            },
+            {
+              "product_id" : 129680,
+              "functional_group" : "creditcard",
+              "html_code" : "https://invoicely.com/pricing",
+              "link_name" : "Pricing",
+              "link_priority" : 3.0
+            }
+          ],
+          "features" : [
+            {
+              "category_name" : "Payment Processing",
+              "category_features" : [
+                {
+                  "name" : "ACH Payment Processing",
+                  "value" : false,
+                  "id" : "8eb2d601-31c2-4049-ba14-557b28c2c521",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Receive credits and send direct debits through automated clearing house electronic network"
+                },
+                {
+                  "name" : "Billing & Invoicing",
+                  "value" : true,
+                  "id" : "b9829f5b-1e19-49e7-b343-c2286973de15",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Create and manage monetary interactions between parties (i.e. bills and invoices)"
+                },
+                {
+                  "name" : "Cryptocurrency Processing",
+                  "value" : false,
+                  "id" : "b4e97bf8-0756-4c27-8c63-f4dc5139ee9e",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Accept and process cryptocurrency transactions such as Bitcoin"
+                },
+                {
+                  "name" : "Data Security",
+                  "value" : true,
+                  "id" : "3d9837f1-06b6-4355-b512-3297218b0801",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : "Protect digital privacy and secure data"
+                },
+                {
+                  "name" : "Debit/Credit Card Processing",
+                  "value" : false,
+                  "id" : "132d495d-0788-4581-892d-5e99c17ea583",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Accept and process credit/debit card transactions"
+                },
+                {
+                  "name" : "Electronic Signature",
+                  "value" : false,
+                  "id" : "129d469f-1e77-489e-ac24-45c91b5277db",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Sign a document within the system"
+                },
+                {
+                  "name" : "In-Person Payments",
+                  "value" : false,
+                  "id" : "a2bffb0b-bf19-4301-b01f-c9d07e16e892",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Accept and process multiple payments types in person (EMV chip cards, tap NFC cards, mobile phones with Apple Pay & Google Pay, etc.)"
+                },
+                {
+                  "name" : "Mobile Payments",
+                  "value" : true,
+                  "id" : "476a5934-129d-4743-9c0f-68d8ea31622b",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Clients can submit payments via mobile device"
+                },
+                {
+                  "name" : "Multiple Payment Options",
+                  "value" : false,
+                  "id" : "00a87cfb-8f35-482d-b9bd-a45a536da033",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : " Process payments via multiple modes directly through the application"
+                },
+                {
+                  "name" : "Online Payments",
+                  "value" : true,
+                  "id" : "565782b1-0836-47a8-9f38-1b7209ebe3d5",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Accept and process customer payments from an online portal, such as your website, app, or email"
+                },
+                {
+                  "name" : "PCI Compliance",
+                  "value" : false,
+                  "id" : "c04d035e-87ed-4215-ac21-757ba7cb574a",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Store, process, and transmit cardholder data in compliance with the Payment Card Industry Data Security Standard (PCI DSS)"
+                },
+                {
+                  "name" : "Payment Fraud Prevention",
+                  "value" : false,
+                  "id" : "a6c54507-77e6-42b4-b4c1-25a9b44eba7e",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Tools to detect & prevent payment fraud: authorization, dual authentication, address verification, risk scoring, seller protection, etc"
+                },
+                {
+                  "name" : "Payment Processing",
+                  "value" : true,
+                  "id" : "aa036a7c-8608-45a0-9f5f-7649beee9dfb",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : "Accept, record, and reconcile financial transactions"
+                },
+                {
+                  "name" : "Payment Processing Services Integration",
+                  "value" : false,
+                  "id" : "3722ca3e-ba5a-420a-94e1-774d039ac375",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Payment processing services offered in conjunction with a gateway or another software component"
+                },
+                {
+                  "name" : "Point of Sale (POS)",
+                  "value" : false,
+                  "id" : "4d8a4211-99b1-45f2-a8d9-03b96a38d16f",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Integrates with point of sale (POS) systems"
+                },
+                {
+                  "name" : "Recurring/Subscription Billing",
+                  "value" : true,
+                  "id" : "1ffbb4d0-4c06-43d4-96fb-58e907d3035f",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Automate customer payments on a predetermined schedule (monthly, quarterly, etc)"
+                },
+                {
+                  "name" : "Reporting/Analytics",
+                  "value" : true,
+                  "id" : "b0c186d0-0194-4300-abba-ca3bc2474bbe",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : "View and track pertinent metrics"
+                }
+              ]
+            },
+            {
+              "category_name" : "Accounts Receivable",
+              "category_features" : [
+                {
+                  "name" : "ACH Payment Processing",
+                  "value" : false,
+                  "id" : "8eb2d601-31c2-4049-ba14-557b28c2c521",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Receive credits and send direct debits through automated clearing house electronic network"
+                },
+                {
+                  "name" : "Aging Tracking",
+                  "value" : false,
+                  "id" : "eb2f1b1e-7909-4e97-a424-c622a99764fc",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Pull a report on unpaid invoices that shows how much time has elapsed since the date of the invoice"
+                },
+                {
+                  "name" : "Billing & Invoicing",
+                  "value" : true,
+                  "id" : "b9829f5b-1e19-49e7-b343-c2286973de15",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Create and manage monetary interactions between parties (ie. bills and invoices)"
+                },
+                {
+                  "name" : "Check Processing",
+                  "value" : false,
+                  "id" : "2fbb89ad-8877-4c21-9484-2802f2c56f71",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Receive and deposit or issue and record check payments"
+                },
+                {
+                  "name" : "Customer Statements",
+                  "value" : true,
+                  "id" : "8476fa8b-cf2d-489b-b58b-9e4d91a63eb9",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : "Reports that show customers their invoices, payments, and balance on the account"
+                },
+                {
+                  "name" : "Online Payments",
+                  "value" : true,
+                  "id" : "565782b1-0836-47a8-9f38-1b7209ebe3d5",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Accept and process customer payments from an online portal, such as your website, app, or email"
+                },
+                {
+                  "name" : "Overpayment Processing",
+                  "value" : false,
+                  "id" : "04c53a6f-2abb-41ff-83c4-eb1845a57433",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Flag a transaction when a customer pays more than they owe and either refund the overpayment or save the overpayment as a credit"
+                },
+                {
+                  "name" : "Partial Payments",
+                  "value" : false,
+                  "id" : "7d5999c3-c603-4dd9-a4de-7d926a0d9040",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Allow customers to make a partial payment on an invoice and track remaining debt"
+                },
+                {
+                  "name" : "Payment Collection",
+                  "value" : false,
+                  "id" : "ab56fcfd-d13e-462a-9e0e-3f6b0cf91406",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track and manage customer payments that are overdue"
+                },
+                {
+                  "name" : "Receivables Ledger",
+                  "value" : true,
+                  "id" : "f53d325e-102c-4898-9235-0a25cbddabfb",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "A list of customers and their payments due updated on a monthly basis"
+                },
+                {
+                  "name" : "Recurring/Subscription Billing",
+                  "value" : true,
+                  "id" : "1ffbb4d0-4c06-43d4-96fb-58e907d3035f",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Automate customer payments on a predetermined schedule (monthly, quarterly, etc)"
+                }
+              ]
+            },
+            {
+              "category_name" : "Billing and Invoicing",
+              "category_features" : [
+                {
+                  "name" : "Billing Portal",
+                  "value" : false,
+                  "id" : "540bcf39-796d-4c27-a92c-a37840614fc0",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Gateway through which end users can view past bills and pay current invoices"
+                },
+                {
+                  "name" : "Contact Database",
+                  "value" : true,
+                  "id" : "eec2c352-bd86-4424-9857-bd7482a539de",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Centralized database of an organization's customers and clients"
+                },
+                {
+                  "name" : "Contingency Billing",
+                  "value" : true,
+                  "id" : "2d632f3e-95ff-4065-83f8-86afc3cb6db4",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Business model where clients pay their lawyer a fee only if the case is won/settled successfully"
+                },
+                {
+                  "name" : "Customizable Invoices",
+                  "value" : true,
+                  "id" : "8bd87e50-35a0-4e79-aa37-58dd1db7f505",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Brand invoices with organization's logo"
+                },
+                {
+                  "name" : "Dunning Management",
+                  "value" : true,
+                  "id" : "c6159c40-70fb-4da2-8d12-79d2e1dd683b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Process of automatically notifying clients when payments fail to ensure invoices are paid"
+                },
+                {
+                  "name" : "Hourly Billing",
+                  "value" : true,
+                  "id" : "9f7eefed-261a-400a-a179-456dd63beddd",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Business model that charges based on the amount of time spent"
+                },
+                {
+                  "name" : "Mobile Payments",
+                  "value" : true,
+                  "id" : "476a5934-129d-4743-9c0f-68d8ea31622b",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Clients can submit payments via mobile devices"
+                },
+                {
+                  "name" : "Multi-Currency",
+                  "value" : true,
+                  "id" : "10faf02d-213a-48db-9ec5-937d435316d5",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Manage and handle various international currencies"
+                },
+                {
+                  "name" : "Online Invoicing",
+                  "value" : true,
+                  "id" : "3e585cda-15e1-45ca-8df0-6b95eb58218a",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : "Create, send, and view electronic invoices"
+                },
+                {
+                  "name" : "Online Payments",
+                  "value" : true,
+                  "id" : "565782b1-0836-47a8-9f38-1b7209ebe3d5",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Payment webpage where clients can pay bills"
+                },
+                {
+                  "name" : "Payment Processing",
+                  "value" : true,
+                  "id" : "aa036a7c-8608-45a0-9f5f-7649beee9dfb",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Accept, record, and reconcile financial transactions"
+                },
+                {
+                  "name" : "Project Billing",
+                  "value" : true,
+                  "id" : "f45f9d9e-1676-4bfa-bdff-84458275d192",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Business model that bills clients an amount based on the project/task/job performed"
+                },
+                {
+                  "name" : "Recurring/Subscription Billing",
+                  "value" : true,
+                  "id" : "1ffbb4d0-4c06-43d4-96fb-58e907d3035f",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Business model that bills clients repeatedly based on set amount of time"
+                },
+                {
+                  "name" : "Tax Calculation",
+                  "value" : false,
+                  "id" : "5c3d857a-faca-44cc-a5df-8d240bf4b1a0",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Location based taxes"
+                }
+              ]
+            },
+            {
+              "category_name" : "Recurring Billing",
+              "category_features" : [
+                {
+                  "name" : "Deferred Billing",
+                  "value" : false,
+                  "id" : "7d91e7b3-aebc-48a9-a6f6-8ed1e279a5da",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Buyer isn't billed until the period is up without any interest charges"
+                },
+                {
+                  "name" : "Dunning Management",
+                  "value" : true,
+                  "id" : "c6159c40-70fb-4da2-8d12-79d2e1dd683b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Process of automatically notifying clients when payments fail to ensure invoices are paid"
+                },
+                {
+                  "name" : "Multi-Currency",
+                  "value" : true,
+                  "id" : "10faf02d-213a-48db-9ec5-937d435316d5",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Manage and handle various international currencies"
+                },
+                {
+                  "name" : "Multi-Period Recurring Billing",
+                  "value" : false,
+                  "id" : "357e0be5-c453-446a-8b94-61131b69397b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Set recurrence time frame and corresponding rates i.e. monthly, semi-annually or annually"
+                },
+                {
+                  "name" : "Payment Processing",
+                  "value" : true,
+                  "id" : "aa036a7c-8608-45a0-9f5f-7649beee9dfb",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Accept, record, and reconcile financial transactions"
+                },
+                {
+                  "name" : "Recurring Invoicing",
+                  "value" : true,
+                  "id" : "800678db-7b1d-4fea-ade8-7450d89efc83",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Generate recurring invoices"
+                },
+                {
+                  "name" : "Recurring/Subscription Billing",
+                  "value" : true,
+                  "id" : "1ffbb4d0-4c06-43d4-96fb-58e907d3035f",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Business model that bills clients repeatedly based on set amount of time"
+                },
+                {
+                  "name" : "Self Service Portal",
+                  "value" : false,
+                  "id" : "80f0258d-e261-4136-ba81-a5251a304f8e",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Gateway through which end users can access the system"
+                }
+              ]
+            },
+            {
+              "category_name" : "Small Business Invoicing",
+              "category_features" : [
+                {
+                  "name" : "Accounting",
+                  "value" : false,
+                  "id" : "3990e00b-853e-41a0-a871-33607f212727",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Activity Dashboard",
+                  "value" : false,
+                  "id" : "856ab03e-a530-4ea9-bac6-968761c9b6c6",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Alerts/Notifications",
+                  "value" : false,
+                  "id" : "aef68b72-bd4c-4797-ae8c-4735512de81a",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Approval Workflow",
+                  "value" : false,
+                  "id" : "7a011924-4439-4be6-827d-fdfe61a12c84",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Batch Processing",
+                  "value" : false,
+                  "id" : "d2542c63-7981-4adc-ac6d-29acbaaa0823",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Billing & Invoicing",
+                  "value" : true,
+                  "id" : "b9829f5b-1e19-49e7-b343-c2286973de15",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Customizable Branding",
+                  "value" : false,
+                  "id" : "2ad190f0-241d-4182-9ec3-10f1e12adbb9",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Customizable Fields",
+                  "value" : false,
+                  "id" : "7b8882ba-8459-4c05-87ea-19a2194340dd",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Customizable Invoices",
+                  "value" : true,
+                  "id" : "8bd87e50-35a0-4e79-aa37-58dd1db7f505",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Customizable Reports",
+                  "value" : false,
+                  "id" : "fcd1199d-1f74-4104-b348-3de5a9f29347",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "For Small Businesses",
+                  "value" : false,
+                  "id" : "f188d3b1-c28f-4220-8248-e7464667a99a",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Invoice Creation",
+                  "value" : true,
+                  "id" : "edf1e6ff-5ecc-424e-859f-05c463a71ed9",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Invoice History",
+                  "value" : true,
+                  "id" : "7af17faf-f834-4073-ac76-bc37bfb04adb",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Invoice Processing",
+                  "value" : true,
+                  "id" : "5f8f8f76-1a67-44af-8cdc-af5336b6227a",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Multi-Currency",
+                  "value" : true,
+                  "id" : "10faf02d-213a-48db-9ec5-937d435316d5",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Online Invoicing",
+                  "value" : true,
+                  "id" : "3e585cda-15e1-45ca-8df0-6b95eb58218a",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Online Payments",
+                  "value" : true,
+                  "id" : "565782b1-0836-47a8-9f38-1b7209ebe3d5",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Payment Tracking",
+                  "value" : false,
+                  "id" : "a4c1c9af-9e5b-4ab9-8474-1672d1bdb03a",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Recurring Invoicing",
+                  "value" : true,
+                  "id" : "800678db-7b1d-4fea-ade8-7450d89efc83",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Tax Calculation",
+                  "value" : false,
+                  "id" : "5c3d857a-faca-44cc-a5df-8d240bf4b1a0",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Third-Party Integration",
+                  "value" : false,
+                  "id" : "50cf9e4f-642c-4088-925f-475c2cd95dce",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                }
+              ]
+            }
+          ],
+          "infographics" : [ ],
+          "related_products" : [
+            {
+              "product_id" : 179251,
+              "seo_product_id" : 222357,
+              "seo_slug" : "PayPal",
+              "vendor_name" : "PayPal",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/a2af8b29-fd79-4607-80c6-f6b601fc1578.png",
+              "rating" : 4.7,
+              "total_reviews" : 21795,
+              "slug" : "PayPal",
+              "product_name" : "PayPal",
+              "short_desc" : "From payments to credit to fraud protection, PayPal Commerce Platform helps you meet your customers where they are.",
+              "features" : "With a simple, single integration you can accept debit and credit cards, PayPal, PayPal Credit, 10+ local payment methods in over 100 currencies and from 200+ markets around the world.",
+              "url" : "https://ad.doubleclick.net/ddm/clk/472677378;278585466;l"
+            },
+            {
+              "product_id" : 123889,
+              "seo_product_id" : 223604,
+              "seo_slug" : "Stripe",
+              "vendor_name" : "Stripe",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/9928bafb-558e-4bf3-98be-58b003ab4358.png",
+              "rating" : 4.7,
+              "total_reviews" : 2593,
+              "slug" : "Stripe",
+              "product_name" : "Stripe",
+              "short_desc" : "Stripe makes it easy for your business to start collecting credit cards online immediately.  No merchant account or gateway necessary.",
+              "features" : "Stripe is a technology company that builds economic infrastructure for the internet. Businesses of every size from new startups to public companies use our software to accept payments and manage their businesses online. Stripe makes it easy for your business to start collecting credit cards online immediately.  No merchant account or gateway necessary.",
+              "url" : "https://stripe.com/payments?utm_medium=paid-review-site&utm_campaign=global_all_en_general_general_gartner-review-payments_2020-09-01_internal&utm_content=payment_processing&utm_source=capterra"
+            },
+            {
+              "product_id" : 170278,
+              "seo_product_id" : 246154,
+              "seo_slug" : "Square-Payments",
+              "vendor_name" : "Square",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/74e9dcc0-570c-4cf1-9256-6de3f64e98ba.png",
+              "rating" : 4.7,
+              "total_reviews" : 1977,
+              "slug" : "Square-Payments-Processing",
+              "product_name" : "Square Payments",
+              "short_desc" : "Square powers secure payments even when you dont use a reader. Virtual Terminal for over-the-phone transactions, Invoices and more! ",
+              "features" : "Accept every way your customers want to pay with Square Payments. Get a free magstripe reader to swipe credit cards anywhere. Take chip cards and NFC payments with Square Reader for contactless and chip. With Squares credit card processing, you can accept all major cards and get deposits as fast as the next business day. We offer chargeback protection, fraud detection, account takeover protection, and more, so you can focus on your customers. Its free to sign up and fast to get set up. ",
+              "url" : "https://squareup.com/t/f_online/d_affiliate/p_capterra/o_paymentprocessing/l_us/pr_terminal/?route=us/en/l/get-a-reader"
+            },
+            {
+              "product_id" : 148516,
+              "seo_product_id" : 212390,
+              "seo_slug" : "Marketing-360",
+              "vendor_name" : "Madwire",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e0d4096b-6fa3-4d66-98e5-8f3ac4c06590.png",
+              "rating" : 4.6,
+              "total_reviews" : 973,
+              "slug" : "Marketing-360",
+              "product_name" : "Marketing 360",
+              "short_desc" : "Marketing 360 Payments for SMB. Integrate all your revenue into M360 payments and build profitable marketing campaigns in one place.",
+              "features" : "Marketing 360 payments. Set up your store or business to create invoices & send payments in minutes. Everything you need to manage and grow your business all from a singular platform. ",
+              "url" : "https://www.marketing360.com/payments?ref=PaymentsCategoryCapterraAds"
+            },
+            {
+              "product_id" : 162588,
+              "seo_product_id" : 216959,
+              "seo_slug" : "HoneyBook",
+              "vendor_name" : "HoneyBook",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/7c248c64-bbf4-404f-9bf9-d90383f75647.png",
+              "rating" : 4.8,
+              "total_reviews" : 499,
+              "slug" : "HoneyBook",
+              "product_name" : "HoneyBook",
+              "short_desc" : "Everything you need to run your business: proposals, contracts, invoicing, payments, and more. \n\nUse code \"ONLY1\" to start for $1/mo.",
+              "features" : "Payment processing software for independent professionals-that's HoneyBook.\n\nHoneyBook makes it easy to book more clients, manage projects, and get paid all in one place.\n\nWith proposals, invoices, contracts, payments, and scheduling at your fingertips, you have everything you need to give clients a great experience.\n\nGet your first 6 months for just $1/mo with code \"ONLY1\".",
+              "url" : "https://ad.doubleclick.net/ddm/trackclk/N1580728.4266620CAPTERRA-HONEYBO/B26347654.315929251;dc_trk_aid=508239062;dc_trk_cid=158573843;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd="
+            },
+            {
+              "product_id" : 152997,
+              "seo_product_id" : 152997,
+              "seo_slug" : "BirdEye",
+              "vendor_name" : "Birdeye",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4ff56898-b5cc-4a16-903f-d4a9f7485db5.png",
+              "rating" : 4.7,
+              "total_reviews" : 482,
+              "slug" : "BirdEye",
+              "product_name" : "Birdeye",
+              "short_desc" : "All-in-one \nEase of use\nEnterprise-Grade / Scalable \n",
+              "features" : "Birdeye Payments helps local businesses collect payments faster through modern and convenient ways. Customers can pay effortlessly, via text or online (roadmap) wherever they may be, at home or in the office. ",
+              "url" : "https://birdeye.com/awards/?utm_source=capterra&utm_medium=cpc&utm_campaign=default&utm_term=awards_rf&utm_content=default&utm_sfcamp=7011Q000001IhtE"
+            },
+            {
+              "product_id" : 166559,
+              "seo_product_id" : 226669,
+              "seo_slug" : "Billcom",
+              "vendor_name" : "Bill.com",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/58c7479a-6ac6-4e65-80b4-a25024321b44.png",
+              "rating" : 4.1,
+              "total_reviews" : 391,
+              "slug" : "Bill-com",
+              "product_name" : "Bill.com",
+              "short_desc" : "Bill.com is the intelligent business payments platform that delivers financial process efficiency, time savings, and full control.",
+              "features" : "Bill.com delivers financial process efficiency through streamlined accounts payable (AP) and accounts receivable (AR) management. Reduce errors and increase efficiency by leveraging artificial intelligence (AI) and machine learning. Bill.com gets more intelligent as you use it, learning your processes and preferences to give you greater control over every aspect of bill management.",
+              "url" : "https://www.bill.com/lp/trial/?utm_source=capterra&utm_medium=affiliate&utm_campaign=payment&content=listing&term=cpc"
+            },
+            {
+              "product_id" : 124427,
+              "seo_product_id" : 220525,
+              "seo_slug" : "Regpack",
+              "vendor_name" : "Regpack",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/b0831ee5-b141-4cc3-9ce1-a57e98be11b6.png",
+              "rating" : 4.4,
+              "total_reviews" : 314,
+              "slug" : "Regpack",
+              "product_name" : "Regpack",
+              "short_desc" : "Automate and streamline client billing with Regpack's full suite of onboarding and payment tools. Manage clients efficiently. ",
+              "features" : "Automate and streamline your onboarding, billing, and client management tasks with Regpack. Our billing tools allow you to customize automated recurring billing plans, offer payment plans for one-time payments, all on your website or integrated into your product. Dynamic payment and product reporting allow you to manage and track revenue. Regpack supports subscriptions, memberships, events, online learning courses, or any business that needs to collect and manage client data and payments. ",
+              "url" : "https://www.regpacks.com/payment-processing-software/?utm_source=gartner&utm_medium=payments"
+            },
+            {
+              "product_id" : 152638,
+              "seo_product_id" : 218526,
+              "seo_slug" : "Epos-Now",
+              "vendor_name" : "Epos Now",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/0fdb9057-0bab-40d0-9ffa-79ae329ec960.png",
+              "rating" : 3.6,
+              "total_reviews" : 304,
+              "slug" : "Epos-Now",
+              "product_name" : "Epos Now",
+              "short_desc" : "Keep up with consumer demand by accepting the newest payment methods on the market. ",
+              "features" : "As a leader in retail and hospitality technology, we know what businesses need to thrive and serve their customers. Epos Now POS systems and payment processing terminals are built with flexibility in mind. Choose from our range of devices to implement the payment processing solution that suits you best.\n\nWith Epos Now Payments, customers can pay with major debit and credit cards, eWallets like Apple Pay, and even services like AliPay.\n",
+              "url" : "http://www.eposnow.com/uk/?utm_source=capterra&utm_medium=capterra"
+            },
+            {
+              "product_id" : 146664,
+              "seo_product_id" : 236990,
+              "seo_slug" : "PaySimple",
+              "vendor_name" : "PaySimple",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e45d6a78-0bc7-4612-9f6a-abae24fca484.png",
+              "rating" : 4.5,
+              "total_reviews" : 289,
+              "slug" : "PaySimple",
+              "product_name" : "PaySimple",
+              "short_desc" : "PaySimple is the leading payments management solution for service-based businesses, powering the cashflow of over 20,000 companies. ",
+              "features" : "PaySimple is the leading payments management solution for service-based businesses, powering the cashflow of over 20,000 companies nationwide. PaySimple builds long-term partnerships with companies to drive growth providing flexible payment and billing solutions and personalized customer service to suit their distinct business needs. With a robust API, PaySimple is a trusted technology partner for payment integrations; natively handling cashflow within SaaS products and mobile applications.",
+              "url" : "https://paysimple.com/public/capterra-payment-processing"
+            },
+            {
+              "product_id" : 147602,
+              "seo_product_id" : 225025,
+              "seo_slug" : "Plooto",
+              "vendor_name" : "Plooto",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/30dc5762-cfa3-4199-9ee7-57d1e34c7d48.png",
+              "rating" : 4.4,
+              "total_reviews" : 218,
+              "slug" : "Plooto",
+              "product_name" : "Plooto",
+              "short_desc" : "Ideal for SMBs and accountants, Plooto is the fastest way to manage business payments, AP & AR process & receive credit card payments.",
+              "features" : "Plooto is an all-in-one platform that enables businesses to automate their domestic and international accounts payable and accounts receivable functions by unifying payments, processes, control, and reporting. Get paid as soon as 2 business days with credit cards! Trusted by 6,000+ businesses, the platform also integrates with popular accounting systems such as Xero and QuickBooks to eliminate data entry and automate the reconciliation of bills and invoices.",
+              "url" : "https://www.plooto.com/signup?utm_medium=cpc&utm_campaign=marketplace2020&utm_content=payment"
+            }
+          ],
+          "similar_products" : [
+            {
+              "product_id" : 152950,
+              "seo_product_id" : 152950,
+              "seo_slug" : "Nvoicepay",
+              "vendor_name" : "Corpay",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4da31e26-17a9-4794-94c3-5ad3d07e1eb4.jpeg",
+              "rating" : 4.7,
+              "total_reviews" : 28,
+              "slug" : "Nvoicepay",
+              "product_name" : "Corpay",
+              "short_desc" : "Corpay offers automated payments in a single electronic workflow and helps vendors process their payments correctly.",
+              "features" : "Corpay is a payables automation solution that streamlines all your invoice payments into a single digital process, across multiple locations, bank accounts, payment methods, and approval hierarchies. When it's time for a payment run, you submit and approve payments in our software, then Corpay pays vendors according to their remit-to instructions and in their preferred method. We manage payment data for all your vendors and proactively reach out to resolve unprocessed payments.",
+              "url" : "https://payments.corpay.com/request-demo?utm_source=capterra&utm_medium=cpc&utm_campaign=2022_Corpay_Capterra_Leads"
+            },
+            {
+              "product_id" : 166559,
+              "seo_product_id" : 226669,
+              "seo_slug" : "Billcom",
+              "vendor_name" : "Bill.com",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/58c7479a-6ac6-4e65-80b4-a25024321b44.png",
+              "rating" : 4.1,
+              "total_reviews" : 391,
+              "slug" : "Bill-com",
+              "product_name" : "Bill.com",
+              "short_desc" : "Bill.com is the intelligent business payments platform that delivers financial process efficiency, time savings, and full control.",
+              "features" : "Bill.com delivers financial process efficiency through streamlined accounts payable (AP) and accounts receivable (AR) management. Reduce errors and increase efficiency by leveraging artificial intelligence (AI) and machine learning. Bill.com gets more intelligent as you use it, learning your processes and preferences to give you greater control over every aspect of bill management.",
+              "url" : "https://www.bill.com/lp/trial/?utm_source=capterra&utm_medium=cpc&utm_campaign=affiliate&campaign=Bookkeeper&keyword=getpaid&placement=destination&traffictype=referral"
+            },
+            {
+              "product_id" : 218806,
+              "seo_product_id" : 218806,
+              "seo_slug" : "Scrypt-AI",
+              "vendor_name" : "Scrypt AI",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d0fef480-9501-4ac2-b0d6-5b77a9e6d302.png",
+              "rating" : 0.0,
+              "total_reviews" : 0,
+              "slug" : "Scrypt-AI",
+              "product_name" : "Scrypt AI",
+              "short_desc" : "Take your AP and AR processes to the next level in automation with Scrypt's truly touchless AI data capture technology.",
+              "features" : "Data processing using AI and machine learning still requires human intervention--for data entry, coding, writing rules, templating, approvals and more.\n\nUntil now. \n\nWhat was once merely automated is now autonomous with Scrypt. Our integrated payables and receivables platform revolutionizes the way you deal with data--or rather, the way you don't deal with it. By simulating human thinking, Scrypt can read any document or image, then learn, discover and perform judgment-based tasks on its own.",
+              "url" : "https://scrypt.ai/"
+            },
+            {
+              "product_id" : 170278,
+              "seo_product_id" : 246154,
+              "seo_slug" : "Square-Payments",
+              "vendor_name" : "Square",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/74e9dcc0-570c-4cf1-9256-6de3f64e98ba.png",
+              "rating" : 4.7,
+              "total_reviews" : 1977,
+              "slug" : "Square-Payments-Processing",
+              "product_name" : "Square Payments",
+              "short_desc" : "Square powers secure payments even when you dont use a reader. Virtual Terminal for over-the-phone transactions, Invoices and more! ",
+              "features" : "Accept every way your customers want to pay with Square Payments. Get a free magstripe reader to swipe credit cards anywhere. Take chip cards and NFC payments with Square Reader for contactless and chip. With Squares credit card processing, you can accept all major cards and get deposits as fast as the next business day. We offer chargeback protection, fraud detection, account takeover protection, and more, so you can focus on your customers. Its free to sign up and fast to get set up. ",
+              "url" : "https://squareup.com/t/f_online/d_affiliate/p_capterra/l_us/pr_terminal/?route=us/en/payments"
+            },
+            {
+              "product_id" : 157492,
+              "seo_product_id" : 224157,
+              "seo_slug" : "Fattmerchant",
+              "vendor_name" : "Fattmerchant",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/fbb0ecb9-d07a-494b-94d7-3a3049ca887a.png",
+              "rating" : 4.6,
+              "total_reviews" : 20,
+              "slug" : "Fattmerchant-Payments-Online",
+              "product_name" : "Stax",
+              "short_desc" : "Stax Payments is a subscription-based payment technology company offering 0% markup payment processing.",
+              "features" : "Stax delivers 0% markup payment processing services through a subscription-based pricing model. This model can save business owners up to 40% per month on processing fees. \n\nStax Pay is an all-in-one payment processing solution that allows business owners of all sizes to take payments in any way that they need: in-person, keyed, mobile, contactless, etc.\n\n",
+              "url" : "https://info.gartnerdigitalmarkets.com/fattmerchant-gdm-lp/?utm_campaign=capterra"
+            },
+            {
+              "product_id" : 152997,
+              "seo_product_id" : 152997,
+              "seo_slug" : "BirdEye",
+              "vendor_name" : "Birdeye",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4ff56898-b5cc-4a16-903f-d4a9f7485db5.png",
+              "rating" : 4.7,
+              "total_reviews" : 482,
+              "slug" : "BirdEye",
+              "product_name" : "Birdeye",
+              "short_desc" : "All-in-one \nEase of use\nEnterprise-Grade / Scalable \n",
+              "features" : "Birdeye Payments helps local businesses collect payments faster through modern and convenient ways. Customers can pay effortlessly, via text or online (roadmap) wherever they may be, at home or in the office. ",
+              "url" : "https://birdeye.com/awards/?utm_source=capterra&utm_medium=cpc&utm_campaign=default&utm_term=awards_rf&utm_content=default&utm_sfcamp=7011Q000001IhtE"
+            },
+            {
+              "product_id" : 227545,
+              "seo_product_id" : 233473,
+              "seo_slug" : "Balance",
+              "vendor_name" : "Balance",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/667b9484-bc0e-4293-b2a5-b9f9a3ee4c06.png",
+              "rating" : 5.0,
+              "total_reviews" : 5,
+              "slug" : "Balance",
+              "product_name" : "Balance",
+              "short_desc" : "Consumer-grade checkout experience for B2B. Offer buyers Net Terms, ACH/wire, check, CC, and installment methods - all in seconds.",
+              "features" : "The first consumer-grade payment experience for B2B.\n\nB2B payments are complex as B2B buyers often don't want to pay by card. They want invoicing, net terms (BNPL), installments, and milestone or recurring payments. They want to pay by ACH, wire, or check. \n\nBalance accepts 100% of these B2B payment complexities, letting your B2B buyers check out in seconds. You get one fully reconciled and consolidated payout to your bank. So do your vendors.\n\n\n\n\n\n\n",
+              "url" : "http://www.getbalance.com/?utm_source=gartner&utm_medium=affiliate&utm_campaign=capterra"
+            },
+            {
+              "product_id" : 123889,
+              "seo_product_id" : 223604,
+              "seo_slug" : "Stripe",
+              "vendor_name" : "Stripe",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/9928bafb-558e-4bf3-98be-58b003ab4358.png",
+              "rating" : 4.7,
+              "total_reviews" : 2593,
+              "slug" : "Stripe",
+              "product_name" : "Stripe",
+              "short_desc" : "Stripe makes it easy for your business to start collecting credit cards online immediately.  No merchant account or gateway necessary.",
+              "features" : "Stripe is a technology company that builds economic infrastructure for the internet. Businesses of every size from new startups to public companies use our software to accept payments and manage their businesses online. Stripe makes it easy for your business to start collecting credit cards online immediately.  No merchant account or gateway necessary.",
+              "url" : "https://stripe.com/payments?utm_medium=paid-review-site&utm_campaign=global_all_en_general_general_gartner-review-payments_2020-09-01_internal&utm_content=payment_processing"
+            },
+            {
+              "product_id" : 135930,
+              "seo_product_id" : 227527,
+              "seo_slug" : "eBizCharge",
+              "vendor_name" : "Century Business Solutions",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/9ee710ab-4636-45ad-bb61-d2f1f6e78d89.png",
+              "rating" : 4.4,
+              "total_reviews" : 37,
+              "slug" : "EBizCharge",
+              "product_name" : "eBizCharge",
+              "short_desc" : "EBizCharge payment gateway integrates with ERP/accounting solutions and eCommerce shopping carts to lower credit card processing costs.",
+              "features" : "EBizCharge payment gateway integrates with over 100 ERP, CRM, accounting, and eCommerce solutions, and is designed to: reduce processing costs by 15-40%, increase payment processing efficiency, eliminate double entry, reduce human error, improve security and simplify the customer experience. EBizCharge provides online and mobile credit card processing, unlimited transaction history, customizable reports, electronic invoicing, secure encryption and tokenization, and more.",
+              "url" : "https://ebizcharge.com/?utm_source=capterra&utm_medium=overall&utm_campaign=capterra"
+            },
+            {
+              "product_id" : 136904,
+              "seo_product_id" : 236980,
+              "seo_slug" : "Tipalti",
+              "vendor_name" : "Tipalti",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/5b5fc1ce-4d2f-42e0-9fcc-b69917a3c845.png",
+              "rating" : 4.6,
+              "total_reviews" : 74,
+              "slug" : "Tipalti",
+              "product_name" : "Tipalti",
+              "short_desc" : "B2B payment processing & management solution that automates the entire process related to paying suppliers and partners.",
+              "features" : "Tipalti provides the world's most powerful payment processing solution, automating the entire process of making payments to global suppliers and partners. Tipalti's holistic platform provides one cloud system including supplier management, tax compliance, procurement, invoice management, global payments, AP reporting and reconciliation, and ERP integration. Clients typically wipe out 80% of their AP workload, while accelerating financial close 25% and strengthening financial controls.",
+              "url" : "https://tipalti.com/capterra-ptr/?utm_campaign=accounts_payable&utm_medium=directory&utm_content=ap_landing_page"
+            },
+            {
+              "product_id" : 131516,
+              "seo_product_id" : 131516,
+              "seo_slug" : "FiveStars",
+              "vendor_name" : "Fivestars Loyalty",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/1f125208-377b-4279-8d2d-d8ef74a1455e.png",
+              "rating" : 4.6,
+              "total_reviews" : 1241,
+              "slug" : "FiveStars",
+              "product_name" : "FiveStars",
+              "short_desc" : "Finally, a way to collect payments and build a customer database, automatically. See how with Fivestars.",
+              "features" : "Need a better way to process payments and build a database of your customers? Over 15,000 businesses use Fivestars to collect payments, all while bringing customers back 2x more often with text, email, and mobile app marketing tools. We provide you with a free Customer Touchscreen that accepts credit cards and signs up customers, all at once. With AutoPilot and Unlimited Promotions, stay top of mind by automatically reaching out to your customers with the right offer at the right time.",
+              "url" : "https://hi.fivestars.com/Capterra_Capterra---Pay---Static.html?utm_sfdc_campaign=701E0000000tKiZ&utm_adgroup=profile_page"
+            },
+            {
+              "product_id" : 184673,
+              "seo_product_id" : 223058,
+              "seo_slug" : "Melio",
+              "vendor_name" : "Melio",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/88ede00f-aaa2-46e9-9e7e-51466548f18c.png",
+              "rating" : 3.9,
+              "total_reviews" : 134,
+              "slug" : "Melio",
+              "product_name" : "Melio",
+              "short_desc" : "Pay bills for free. Use bank transfer or card even if vendors only accept checks.\n",
+              "features" : "Melio is a free vendor/bill payment tool that maximizes cash flow and minimizes busywork. Pay vendors using bank transfer or debit card for free even if they only accept checks! \n\nYou can also use your credit card where cards are not accepted to hold onto your cash longer and earn card rewards! \n\nMelio automatically syncs with your QuickBooks and even mails checks on your behalf to vendors so you don't need to cut checks anymore.\n",
+              "url" : "https://meliopayments.com/?utm_source=dir&utm_medium=cpc&utm_campaign=capterra&utm_term=mainpage"
+            },
+            {
+              "product_id" : 135920,
+              "seo_product_id" : 227105,
+              "seo_slug" : "Forte-Payment-Systems",
+              "vendor_name" : "CSG ",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/0b7ca606-a371-408d-9d93-7f2abab00e03.png",
+              "rating" : 4.5,
+              "total_reviews" : 75,
+              "slug" : "Forte-Payment-Systems",
+              "product_name" : "CSG Forte",
+              "short_desc" : "CSG Forte simplifies the complexities of payment processing and alleviates the burden of a distributed payment ecosystem.",
+              "features" : "CSG Forte offers merchants and partners a broad range of payment solutions, including credit card processing, ACH/eCheck origination, check verification, check recovery, card account updater, bill presentment and payment, point of sale terminals, integrated checkout forms and more. Through superior customer service and a modern payments stack, CSG Forte is dedicated to helping organizations of all sizes optimize revenue, increase efficiencies, reduce PCI scope and mitigate risk.",
+              "url" : "https://info.gartnerdigitalmarkets.com/csg-forte-gdm-lp"
+            }
+          ],
+          "related_categories" : [
+            {
+              "functional_group" : "creditcard",
+              "long_name" : "Billing and Invoicing",
+              "html_name" : "billing-and-invoicing-software",
+              "link_name" : "billing-and-invoicing",
+              "product_count" : 185,
+              "meta_description" : "Find and compare top Billing and Invoicing software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Billing and Invoicing tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/billing-and-invoicing-software>Billing and Invoicing software</a> automates the process of producing and sending invoices and receiving payments.  These applications enable the efficient processing of complex accounts across multiple customers and product lines, incorporating <a href=\"/contract-management-software\">contract data</a> and <a href=\"/customer-relationship-management-software\">customer relationship management</a> tools.  Billing and Invoicing solutions are designed to work with <a href=\"/accounting-software\">accounting</a> applications and provide a variety of business <a href=\"/reporting-software\">reporting</a> tools.  <a href=/billing-and-invoicing-software>Billing and Invoicing software</a> is related to <a href=/procurement-software>Procurement software</a> and <a href=/purchasing-software>Purchasing software</a>."
+            },
+            {
+              "functional_group" : "creditcard",
+              "long_name" : "Point of Sale",
+              "html_name" : "point-of-sale-software",
+              "link_name" : "point-of-sale",
+              "product_count" : 278,
+              "meta_description" : "Find and compare top Point of Sale software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Point of Sale tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/point-of-sale-software\">Point of Sale (POS) software</a> automates the capture of financial and sales transactions. Retail POS systems are among the most sophisticated and powerful computer networks in commercial use.  Point of Sale systems integrate core business functions such as sales tracking, accounts receivable, <a href=\"/purchasing-software\">purchasing</a> and <a href=\"/inventory-management-software\">inventory management</a> across multiple registers or retail branches.  POS software also provides the infrastructure for connecting retail locations with <a href=\"/supply-chain-management-software\">supply chain</a> operations and upper management."
+            },
+            {
+              "functional_group" : "creditcard",
+              "long_name" : "Restaurant POS",
+              "html_name" : "restaurant-pos-software",
+              "link_name" : "restaurant-pos",
+              "product_count" : 57,
+              "meta_description" : "Find and compare top Restaurant POS software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Restaurant POS tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/restaurant-pos-software\">Restaurant POS software</a> offers point of sale solutions specifically for the restaurant and bar industries.  This type of software provides ordering, billing, reporting, accounting, table tracking, and receipt printing capabilities for restaurants and bars.  Hardware such as computers, monitors and printers is often included in the purchase of POS systems.  <a href=\"/restaurant-pos-software\">Restaurant POS software</a>  is related to <a href=\"/point-of-sale-software\">POS software</a> and <a href=\"/restaurant-management-software\">Restaurant Management software</a>."
+            }
+          ],
+          "is_upgraded" : false,
+          "enabled" : true,
+          "filter_options" : {
+            "users" : 127,
+            "platform" : 15,
+            "pricing_options" : 10,
+            "category_related_features" : [
+              18336,
+              18342,
+              18344,
+              25749,
+              43863,
+              43865,
+              43866,
+              56327,
+              56329,
+              56332,
+              56333,
+              56338,
+              56347,
+              56352
+            ],
+            "employees" : 31
+          },
+          "sort_options" : {
+            "sort_review_rating" : 4.619389057159424,
+            "most_recent_review" : "2022-08-16T14:48:42Z"
+          },
+          "countries" : "ALL",
+          "features_tokenized_text" : "billing_&_invoicing data_security mobile_payments online_payments payment_processing recurring/subscription_billing reporting/analytics",
+          "platform_tokenized_text" : "cloud,saas,web-based desktopmac desktopwindows desktoplinux",
+          "users_tokenized_text" : "1 2-10 11-50 51-200 201-500 501-1000 1000+",
+          "pricing_tokenized_text" : "monthlysubscription free",
+          "badges" : [ ],
+          "bid_spot_us" : 0.0,
+          "currency_code" : "USD",
+          "currency_symbol" : "$",
+          "credit_card_required" : null,
+          "licensing_model" : null,
+          "open_api_offered" : "Yes",
+          "mobile_urls" : [ ],
+          "integrations" : [
+            {
+              "id" : "810df55d-b1c1-434d-adbd-a6d200b6c8b9",
+              "name" : "Stripe"
+            },
+            {
+              "id" : "01ec8cd2-dd68-43c4-89e6-a6d200b2cab3",
+              "name" : "Authorize.Net"
+            },
+            {
+              "id" : "e27042f4-894e-4ab6-9bc1-a6d200b77ff7",
+              "name" : "WePay"
+            },
+            {
+              "id" : "16f6d9b6-3101-4679-a0af-a6d200b5a51b",
+              "name" : "PayPal"
+            }
+          ],
+          "supported_countries" : [
+            {
+              "id" : 235,
+              "code" : "GB",
+              "name" : "United Kingdom of Great Britain and Northern Ireland"
+            },
+            {
+              "id" : 14,
+              "code" : "AU",
+              "name" : "Australia"
+            },
+            {
+              "id" : 41,
+              "code" : "CA",
+              "name" : "Canada"
+            },
+            {
+              "id" : 237,
+              "code" : "US",
+              "name" : "United States of America"
+            }
+          ],
+          "supported_languages" : [
+            {
+              "id" : 152,
+              "code" : "en",
+              "name" : "English",
+              "location" : null
+            }
+          ],
+          "target_industries" : [
+            {
+              "id" : 81,
+              "code" : "11",
+              "name" : "Management Consulting"
+            },
+            {
+              "id" : 42,
+              "code" : "63",
+              "name" : "Farming"
+            },
+            {
+              "id" : 139,
+              "code" : "92",
+              "name" : "Transportation/Trucking/Railroad"
+            },
+            {
+              "id" : 62,
+              "code" : "147",
+              "name" : "Industrial Automation"
+            },
+            {
+              "id" : 58,
+              "code" : "31",
+              "name" : "Hospitality"
+            },
+            {
+              "id" : 98,
+              "code" : "57",
+              "name" : "Oil & Energy"
+            },
+            {
+              "id" : 85,
+              "code" : "135",
+              "name" : "Mechanical or Industrial Engineering"
+            },
+            {
+              "id" : 140,
+              "code" : "59",
+              "name" : "Utilities"
+            },
+            {
+              "id" : 11,
+              "code" : "41",
+              "name" : "Banking"
+            },
+            {
+              "id" : 126,
+              "code" : "27",
+              "name" : "Retail"
+            },
+            {
+              "id" : 84,
+              "code" : "80",
+              "name" : "Marketing and Advertising"
+            },
+            {
+              "id" : 78,
+              "code" : "116",
+              "name" : "Logistics and Supply Chain"
+            },
+            {
+              "id" : 35,
+              "code" : "132",
+              "name" : "E-Learning"
+            },
+            {
+              "id" : 41,
+              "code" : "122",
+              "name" : "Facilities Services"
+            },
+            {
+              "id" : 97,
+              "code" : "100",
+              "name" : "Non-Profit Organization Management"
+            },
+            {
+              "id" : 105,
+              "code" : "15",
+              "name" : "Pharmaceuticals"
+            },
+            {
+              "id" : 120,
+              "code" : "44",
+              "name" : "Real Estate"
+            },
+            {
+              "id" : 43,
+              "code" : "43",
+              "name" : "Financial Services"
+            },
+            {
+              "id" : 1,
+              "code" : "47",
+              "name" : "Accounting"
+            },
+            {
+              "id" : 7,
+              "code" : "50",
+              "name" : "Architecture & Planning"
+            },
+            {
+              "id" : 65,
+              "code" : "42",
+              "name" : "Insurance"
+            },
+            {
+              "id" : 26,
+              "code" : "48",
+              "name" : "Construction"
+            },
+            {
+              "id" : 46,
+              "code" : "34",
+              "name" : "Food & Beverages"
+            },
+            {
+              "id" : 74,
+              "code" : "10",
+              "name" : "Legal Services"
+            },
+            {
+              "id" : 86,
+              "code" : "126",
+              "name" : "Media Production"
+            },
+            {
+              "id" : 52,
+              "code" : "75",
+              "name" : "Government Administration"
+            },
+            {
+              "id" : 25,
+              "code" : "4",
+              "name" : "Computer Software"
+            },
+            {
+              "id" : 9,
+              "code" : "53",
+              "name" : "Automotive"
+            },
+            {
+              "id" : 134,
+              "code" : "8",
+              "name" : "Telecommunications"
+            },
+            {
+              "id" : 94,
+              "code" : "115",
+              "name" : "Music"
+            },
+            {
+              "id" : 29,
+              "code" : "91",
+              "name" : "Consumer Services"
+            },
+            {
+              "id" : 64,
+              "code" : "96",
+              "name" : "Information Technology and Services"
+            },
+            {
+              "id" : 127,
+              "code" : "121",
+              "name" : "Security and Investigations"
+            },
+            {
+              "id" : 38,
+              "code" : "86",
+              "name" : "Environmental Services"
+            },
+            {
+              "id" : 124,
+              "code" : "70",
+              "name" : "Research"
+            }
+          ],
+          "price_range_id" : 1,
+          "aggregated_review_ratings" : {
+            "industry" : {
+              "96" : 4.5,
+              "108" : 4.67,
+              "43" : 5.0,
+              "53" : 5.0,
+              "126" : 5.0,
+              "100" : 5.0,
+              "14" : 4.4,
+              "18" : 5.0,
+              "112" : 4.67,
+              "20" : 4.0,
+              "121" : 5.0,
+              "111" : 5.0,
+              "132" : 5.0,
+              "70" : 4.0,
+              "31" : 4.67,
+              "86" : 5.0,
+              "39" : 5.0,
+              "26" : 4.0,
+              "83" : 5.0,
+              "23" : 5.0,
+              "44" : 4.0,
+              "48" : 3.75,
+              "103" : 4.8,
+              "5" : 4.75,
+              "99" : 4.86,
+              "110" : 5.0,
+              "4" : 4.92,
+              "36" : 5.0,
+              "27" : 4.5,
+              "122" : 4.5,
+              "134" : 5.0,
+              "33" : 5.0,
+              "124" : 4.5,
+              "123" : 5.0,
+              "6" : 5.0,
+              "80" : 4.46,
+              "11" : 5.0,
+              "10" : 5.0,
+              "41" : 4.5,
+              "98" : 4.0,
+              "125" : 5.0,
+              "140" : 5.0,
+              "138" : 5.0,
+              "84" : 5.0,
+              "34" : 5.0,
+              "47" : 5.0,
+              "102" : 5.0,
+              "89" : 5.0,
+              "19" : 4.5,
+              "115" : 5.0,
+              "28" : 4.33,
+              "95" : 5.0,
+              "136" : 4.0
+            },
+            "company_size" : {
+              "11-50 employees" : 4.75,
+              "201-500 employees" : 5.0,
+              "Self-employed" : 4.78,
+              "51-200 employees" : 4.6,
+              "1-10 employees" : 4.58,
+              "1001-5000 employees" : 4.5,
+              "5001-10,000 employees" : 4.0,
+              "10,001+ employees" : 5.0
+            }
+          },
+          "vct_enabled" : false,
+          "pricing_plans" : [
+            {
+              "created_on_utc" : "2019-08-21T14:47:39Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Free",
+              "description" : "This plan is completely free but only allows users to send up to 5 monthly invoices to clients,",
+              "display_order" : 1,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 0.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "3 Saved Clients"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "5 Monthly Invoices"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Multi-Currency Billing"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "Multiple Business Support"
+                }
+              ]
+            },
+            {
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Basic",
+              "description" : "This plan is $7.99 per month for annual billing. This plan supports up to 100 monthly invoices and 25 saved clients.",
+              "display_order" : 2,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 9.99,
+              "ending_price" : null,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "100 Monthly Invoices"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "25 Saved Clients"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "2 Team Members"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "Estimates"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 5,
+                  "name" : "Multi-Currency Billing"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 6,
+                  "name" : "Online Payments"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 7,
+                  "name" : "Recurring Statements"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 8,
+                  "name" : "Time and Expense Tracking"
+                }
+              ]
+            },
+            {
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Professional",
+              "description" : "This plan is $15.99 per month for annual billing. This plan supports up to 250 monthly invoices and 100 saved clients.",
+              "display_order" : 3,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 19.99,
+              "ending_price" : null,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "100 Saved Clients"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "10 Team Members"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "250 Monthly Invoices"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "Estimates"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 5,
+                  "name" : "Multi-Currency Billing"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 6,
+                  "name" : "Online Payments"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 7,
+                  "name" : "Recurring Statements"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 8,
+                  "name" : "Time and Expense Tracking"
+                }
+              ]
+            },
+            {
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Enterprise",
+              "description" : "This plan is $29.99 per month for annual billing. This plan supports up to unlimited monthly invoices and unlimited saved clients.",
+              "display_order" : 4,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 29.99,
+              "ending_price" : null,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "Accept Online Payments"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "Bill in Any Currency"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Branding"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "Estimates"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 5,
+                  "name" : "Expenses & Mileage"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 6,
+                  "name" : "Multiple Businesses"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 7,
+                  "name" : "Recurring Statements"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 8,
+                  "name" : "Track Time"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 9,
+                  "name" : "Unlimited Monthly Invoices"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 10,
+                  "name" : "Unlimited Saved Clients"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 11,
+                  "name" : "Up to 25 Team Members"
+                }
+              ]
+            }
+          ],
+          "discount_types" : [
+            {
+              "name" : "By Plan Frequency",
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

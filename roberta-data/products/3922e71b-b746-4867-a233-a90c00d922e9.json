@@ -1,0 +1,3750 @@
+{
+  "took" : 8,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 3,
+    "successful" : 3,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : {
+      "value" : 2,
+      "relation" : "eq"
+    },
+    "max_score" : 10.535126,
+    "hits" : [
+      {
+        "_index" : "product_listings_main_data_upc_vt20220920_043802_utc",
+        "_type" : "_doc",
+        "_id" : "220278_acct",
+        "_score" : 10.535126,
+        "_source" : {
+          "product_id" : 220278,
+          "seo_product_id" : 220278,
+          "seo_slug" : "Carta",
+          "product_name" : "Carta",
+          "upc_product_uuid" : "3922e71b-b746-4867-a233-a90c00d922e9",
+          "old_product_ids" : [
+            176919,
+            176931
+          ],
+          "product_url" : "https://carta.com/investor/",
+          "product_slug" : "Carta",
+          "former_name" : "Carta",
+          "logo_filepath" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/87ae1df0-663b-4f3b-8495-b9da8498b971.png",
+          "vendor" : {
+            "vendor_id" : 2164150,
+            "vendor_name" : "Carta",
+            "vendor_url" : "https://carta.com/",
+            "year_founded" : 2012,
+            "location" : "United States",
+            "vendor_opted_out_of_reviews" : true,
+            "is_opted_out_of_reviews" : false,
+            "is_hit_limit" : false,
+            "enabled" : true,
+            "has_vendor_level_page" : false,
+            "slug" : null,
+            "vendor_page" : false,
+            "paused_campaign" : false
+          },
+          "category_short_name" : "acct",
+          "category_html_name" : "accounting-software",
+          "category" : {
+            "id" : 1,
+            "short_name" : "acct",
+            "long_name" : "Accounting",
+            "html_name" : "accounting-software",
+            "enabled" : true
+          },
+          "best_category" : "acct",
+          "is_best_category" : true,
+          "highest_cpc_category" : null,
+          "is_highest_cpc_category" : false,
+          "short_desc" : "Carta is an equity management platform for companies, investors, and employees. ",
+          "long_desc" : "Carta makes it easier for equity holders in private companies to track and manage ownership, and run their back office functions.\n\nCarta was founded in 2012, and started by helping private companies manage their cap tables. Since then, Carta's services have expanded to include 409a valuations, ASC 820 valuations, fund administration, and many more. Carta is trusted by 21,000+ companies, 1.5M+ unique stakeholders, and have valued over $1.8T in private assets.",
+          "rating" : 4.4,
+          "number_of_reviews" : 49,
+          "total_reviews" : 51,
+          "ease_of_use_rating" : 4.1,
+          "customer_support_rating" : 3.8,
+          "functionality_rating" : 4.2,
+          "value_for_money_rating" : 3.7,
+          "recommendation_rating" : 7.5,
+          "pricing_enabled" : true,
+          "pricing" : 2800.0,
+          "is_per_user" : false,
+          "fee_schedule" : "Per-Year",
+          "pricing_model" : null,
+          "pricing_details" : "Contact Carta for pricing details.\r\nPricing is based on number of stakeholders, cap table complexity, services, and products.",
+          "pricing_created_on" : "2019-08-21T14:47:39Z",
+          "pricing_modified_on" : "2022-04-11T20:39:17Z",
+          "pricing_created_by" : null,
+          "pricing_modified_by" : null,
+          "pricing_vendor_pricing_url" : null,
+          "free_trial" : false,
+          "free_version" : true,
+          "target_audience" : "Carta manages equity for 21,000+ customers, helping companies like Intercom, Tilray, and August Capital manage their cap tables, valuations, portfolio investments, and equity plans.",
+          "target_users" : [
+            "1",
+            "2-10",
+            "11-50",
+            "51-200",
+            "201-500",
+            "501-1000",
+            "1000+"
+          ],
+          "platform" : [
+            {
+              "enabled" : true,
+              "name" : "Cloud, SaaS, Web-Based"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Mac"
+            },
+            {
+              "enabled" : true,
+              "name" : "Desktop Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Chromebook"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile Android"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPhone"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPad"
+            }
+          ],
+          "support" : [
+            {
+              "enabled" : true,
+              "name" : "Email Help Desk"
+            },
+            {
+              "enabled" : false,
+              "name" : "FAQ Forum"
+            },
+            {
+              "enabled" : true,
+              "name" : "Knowledgebase"
+            },
+            {
+              "enabled" : true,
+              "name" : "Phone Support"
+            },
+            {
+              "enabled" : false,
+              "name" : "24/7 Live Rep"
+            },
+            {
+              "enabled" : true,
+              "name" : "Chat"
+            }
+          ],
+          "training" : [
+            {
+              "enabled" : false,
+              "name" : "Not Offered"
+            },
+            {
+              "enabled" : false,
+              "name" : "In-Person"
+            },
+            {
+              "enabled" : true,
+              "name" : "Live Online"
+            },
+            {
+              "enabled" : true,
+              "name" : "Webinars"
+            },
+            {
+              "enabled" : true,
+              "name" : "Documentation"
+            },
+            {
+              "enabled" : false,
+              "name" : "Videos"
+            }
+          ],
+          "media" : [
+            {
+              "product_id" : 220278,
+              "vendor_id" : 2164150,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/7d40e753-0896-4e93-9d68-040f42161b87.png",
+              "caption" : "Never worry about out-of-",
+              "weight" : 1,
+              "short_name" : "acct"
+            },
+            {
+              "product_id" : 220278,
+              "vendor_id" : 2164150,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/2e89b1e4-a4fc-4e3a-87ec-f0dbc1e4d37a.png",
+              "caption" : "Every 409A valuation star",
+              "weight" : 2,
+              "short_name" : "acct"
+            },
+            {
+              "product_id" : 220278,
+              "vendor_id" : 2164150,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/54bc38e4-8581-4345-9825-68cf744f34a3.png",
+              "caption" : "Simply input your exit va",
+              "weight" : 3,
+              "short_name" : "acct"
+            },
+            {
+              "product_id" : 220278,
+              "vendor_id" : 2164150,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/cb6e1622-90c1-4883-921f-5e56b0c44263.png",
+              "caption" : "Stop waiting for a quarte",
+              "weight" : 4,
+              "short_name" : "acct"
+            },
+            {
+              "product_id" : 220278,
+              "vendor_id" : 2164150,
+              "media_type" : "VIDEO",
+              "path_url" : "https://vimeo.com/241044030",
+              "caption" : null,
+              "weight" : 0,
+              "short_name" : "acct"
+            }
+          ],
+          "links" : [ ],
+          "features" : [
+            {
+              "category_name" : "Accounting",
+              "category_features" : [
+                {
+                  "name" : "Accounts Receivable",
+                  "value" : false,
+                  "id" : "d3b8385b-3412-4086-b970-a326be6316c2",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Track outstanding invoices and the money owed from clients"
+                },
+                {
+                  "name" : "Bank Reconciliation",
+                  "value" : false,
+                  "id" : "60d1a3f0-5e00-4b35-a2ab-8b65e17ebc4d",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : "Compare and match accounting/financial records with corresponding bank statements"
+                },
+                {
+                  "name" : "Billing & Invoicing",
+                  "value" : false,
+                  "id" : "b9829f5b-1e19-49e7-b343-c2286973de15",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Create and manage monetary interactions between parties (ie. bills and invoices)"
+                },
+                {
+                  "name" : "CPA Firms",
+                  "value" : false,
+                  "id" : "5b6ae1b6-4d61-4225-9334-bf706e7025ed",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Software specialized for certified public accountants (financial advisors) who help outside entities reach financial goals"
+                },
+                {
+                  "name" : "Expense Tracking",
+                  "value" : false,
+                  "id" : "7ae9a957-9dc5-46d1-bee2-096e03b609b1",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Detailed log and record of costs"
+                },
+                {
+                  "name" : "Fixed Asset Management",
+                  "value" : false,
+                  "id" : "6b4d33b4-8606-4113-b768-95cbe8b7d88d",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Centralized database to track details of fixed assets (property/plant/equipment) such as depreciation & maintenance scheduling/history"
+                },
+                {
+                  "name" : "For Government",
+                  "value" : false,
+                  "id" : "856b74b7-11e5-46b9-9313-9fae800107de",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Software specialized governmental agencies or organizations who deal with governmental agencies"
+                },
+                {
+                  "name" : "Fund Accounting",
+                  "value" : false,
+                  "id" : "33959dd3-243e-4eb0-988b-cbb37b4d1168",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Manage revenue acquired through grants, donations, and other sources (accountability vs. profitability)"
+                },
+                {
+                  "name" : "Nonprofits",
+                  "value" : false,
+                  "id" : "43469dc4-d019-4363-a969-5516566a564b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Software specialized for non-profit organizations"
+                },
+                {
+                  "name" : "Payroll Management",
+                  "value" : false,
+                  "id" : "58379ec3-0f90-4b52-ac75-25f0b72a102d",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Track and process employee payroll (salaries, wages, etc.)"
+                },
+                {
+                  "name" : "Project Accounting",
+                  "value" : false,
+                  "id" : "6255109f-207f-42f2-96ec-e9f511a31237",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Manage and track financials on a project-to-project basis"
+                },
+                {
+                  "name" : "Purchase Order Management",
+                  "value" : false,
+                  "id" : "a9f6bc9b-faba-4d7a-95c4-d72a86ef6937",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Detailed log of all items purchased during a project to manage and track expenses"
+                },
+                {
+                  "name" : "Tax Management",
+                  "value" : false,
+                  "id" : "bc4f8c8b-06f0-4214-8eaa-bfec12a596d2",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track tax-related transactions and ensure compliance"
+                }
+              ]
+            }
+          ],
+          "infographics" : [ ],
+          "related_products" : [
+            {
+              "product_id" : 174984,
+              "seo_product_id" : 46497,
+              "seo_slug" : "QuickBooks",
+              "vendor_name" : "Intuit",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/90cac4f1-9eba-4d30-9949-91da634d4da5.png",
+              "rating" : 4.5,
+              "total_reviews" : 19511,
+              "slug" : "QuickBooks-Enterprise",
+              "product_name" : "QuickBooks Desktop Enterprise",
+              "short_desc" : "The leading accounting software for small businesses. Instant access to customer, vendor and employee information.",
+              "features" : "QuickBooks Desktop Enterprise (Save Up to 55%) is our most powerful accounting and business management solution, made for small to mid-sized product-based businesses. Features include inventory management, customizable reports, order fulfillment, job costing, advanced pricing controls, real-time financial dashboards and advanced tools to manage employees and payments. Enterprise enables up to 40 users, and has over 200 3rd party integrations to help deliver meaningful, additional capabilities.",
+              "url" : "https://ad.doubleclick.net/ddm/trackclk/N5506.813334.CAPTERRA.COM/B26893105.322310755;dc_trk_aid=514603356;dc_trk_cid=162507838;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd="
+            },
+            {
+              "product_id" : 46497,
+              "seo_product_id" : 46497,
+              "seo_slug" : "QuickBooks",
+              "vendor_name" : "Intuit",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/90cac4f1-9eba-4d30-9949-91da634d4da5.png",
+              "rating" : 4.5,
+              "total_reviews" : 19374,
+              "slug" : "QuickBooks",
+              "product_name" : "QuickBooks Desktop Enterprise",
+              "short_desc" : "The leading accounting software for small businesses. Instant access to customer, vendor and employee information.",
+              "features" : "QuickBooks Desktop Enterprise (Save Up to 55%) is our most powerful accounting and business management solution, made for small to mid-sized product-based businesses. Features include inventory management, customizable reports, order fulfillment, job costing, advanced pricing controls, real-time financial dashboards and advanced tools to manage employees and payments. Enterprise enables up to 40 users, and has over 200 3rd party integrations to help deliver meaningful, additional capabilities.",
+              "url" : "http://quickbooks.intuit.com"
+            },
+            {
+              "product_id" : 141374,
+              "seo_product_id" : 106730,
+              "seo_slug" : "Quickbooks-Online",
+              "vendor_name" : "Intuit",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d3e4b3cb-cc9c-4e72-b961-5dafcc473f17.png",
+              "rating" : 4.3,
+              "total_reviews" : 5038,
+              "slug" : "QuickBooks-Online",
+              "product_name" : "Quickbooks Online",
+              "short_desc" : "QuickBooks Online is a small business accounting software and app that allows you to manage your business anywhere, anytime.",
+              "features" : "QuickBooks Online is a small business accounting software and app that allows you to manage your business anywhere, anytime. Used by over 4.5 million customers, QuickBooks provides smart tools for your business, yet is easy to use. You can organize your books, manage expenses, send invoices, track inventory, and even run payroll. With QuickBooks Online, you can get organized, save time, and even get paid fast by adding payment features. Best of all, you can try it for free for 30 days.",
+              "url" : "https://ad.doubleclick.net/ddm/trackclk/N5506.813334.CAPTERRA.COM/B21529827.230252180;dc_trk_aid=428199749;dc_trk_cid=106679935;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua="
+            },
+            {
+              "product_id" : 142390,
+              "seo_product_id" : 60410,
+              "seo_slug" : "FreshBooks",
+              "vendor_name" : "FreshBooks",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/67665783-bd0d-4b97-99af-c628a74ea005.png",
+              "rating" : 4.5,
+              "total_reviews" : 3754,
+              "slug" : "FreshBooks",
+              "product_name" : "FreshBooks",
+              "short_desc" : "An easy invoicing and accounting solution starting at $7.50/mth (first 4 mths). Join 24 million people who've already used FreshBooks.",
+              "features" : "FreshBooks Accounting ensures your business decisions are based on actual business data and insights. Set aside enough for tax time, learn the costs of running your business, find out if you have money to hire and confidently forecast your earnings. Try it free for 30 days, no credit card required.",
+              "url" : "https://www.freshbooks.com/accounting?ref=11472&utm_source=capterra&utm_medium=marketplaces&utm_campaign=accounting"
+            },
+            {
+              "product_id" : 186749,
+              "seo_product_id" : 224455,
+              "seo_slug" : "TaxDome-",
+              "vendor_name" : "TaxDome",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/5a2e8d2d-431e-452f-9a5c-b793aa055843.jpeg",
+              "rating" : 4.7,
+              "total_reviews" : 2235,
+              "slug" : "TaxDome",
+              "product_name" : "TaxDome ",
+              "short_desc" : "All-in-one software for tax preparers, accountants, and bookkeepers. Run your practice from a single integrated hub.",
+              "features" : "TaxDome is an all-in-one practice management platform for CPAs, EAs, bookkeepers, and accounting firms. \n\nTaxDome allows firms of all sizes to streamline their practice by using one platform for both internal practice management (workflow, CRM, reporting) and client-facing tools (documents, signatures, invoicing, messages). Every client, every email, every job, every invoice: all in one shared place for your team.\n\nAutomated workflows, signatures, client onboarding, and client communication are ",
+              "url" : "https://www.taxdome.com?utm_source=capterra&utm_medium=cpc&utm_campaign=Capterra_US_Accounting&utm_content={{ad.name}}"
+            },
+            {
+              "product_id" : 169561,
+              "seo_product_id" : 225791,
+              "seo_slug" : "Xero",
+              "vendor_name" : "Xero",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/35e9db05-94a1-4859-b307-858b9d3946cb.png",
+              "rating" : 4.3,
+              "total_reviews" : 2145,
+              "slug" : "Xero",
+              "product_name" : "Xero",
+              "short_desc" : "Beautiful cloud-hosted online accounting software for small businesses. Accessible anytime, anywhere. ",
+              "features" : "Award-winning online accounting software designed for small business owners and accountants. Available on any computer or mobile device with an internet connection. Business finances and cashflow are updated in real time. Imports transactions from bank accounts. Unlimited user logins. Integrates with over 1,000 3rd-party business applications. Supports multiple currencies. Data is accessible through a single ledger, allowing accountants and clients to collaborate around finances.",
+              "url" : "https://www.xero.com/us/try-now/capterra-accounting/?utm_source=capterra&utm_medium=paid-aggregator&utm_campaign=ua-d-lf-review-site"
+            },
+            {
+              "product_id" : 212058,
+              "seo_product_id" : 212058,
+              "seo_slug" : "QuickBooks-Desktop-Pro",
+              "vendor_name" : "Intuit",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/c6b3e5be-f6ab-48fd-9e6b-a416fe39cfd4.png",
+              "rating" : 4.3,
+              "total_reviews" : 1428,
+              "slug" : "QuickBooks-Desktop-Pro",
+              "product_name" : "QuickBooks Desktop Pro",
+              "short_desc" : "Accounting tool that provides multi-monitor support and past due stamps through improved cash flow. ",
+              "features" : "Accounting tool that provides multi-monitor support and past due stamps through improved cash flow. ",
+              "url" : "https://quickbooks.intuit.com/desktop/pro/?lid=left_nav"
+            },
+            {
+              "product_id" : 135757,
+              "seo_product_id" : 212456,
+              "seo_slug" : "NetSuite",
+              "vendor_name" : "Oracle",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/70a405ae-214e-4735-8e1f-ce093f53f337.png",
+              "rating" : 4.1,
+              "total_reviews" : 856,
+              "slug" : "NetSuite",
+              "product_name" : "NetSuite",
+              "short_desc" : "NetSuite accounting software simplifies the process of recording transactions, managing AP and AR, and closing the books.",
+              "features" : "NetSuite cloud accounting software provides the tools needed to effectively manage accounting data and accelerate the close process. Automated tasks reduce data inefficiency and risks of error while customizable reports, dashboards, and real-time metrics help companies monitor business and improve financial control. NetSuite supports multiple currencies, languages, and compliance standards and ensures data is accessible securely worldwide.",
+              "url" : "https://6262239.extforms.netsuite.com/app/site/crm/externalleadpage.nl?compid=6262239&formid=2332&h=AAFdikaISXcjhmkzuQ25OBfGrJSFmJ9yfiPm280zU3KRQSmNnCM&leadsource=Online_Capterra_NewLP_Accounting_2023&cid=Online_Capterra_NewLP_Accounting_2023"
+            },
+            {
+              "product_id" : 189398,
+              "seo_product_id" : 49768,
+              "seo_slug" : "QuickBooks-Non-Profit",
+              "vendor_name" : "Intuit",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/b14a841d-1dc7-47fc-bdaa-8dc4c7869fa7.png",
+              "rating" : 4.4,
+              "total_reviews" : 705,
+              "slug" : "QuickBooks-Online",
+              "product_name" : "QuickBooks Online Advanced",
+              "short_desc" : "QuickBooks is an end-to-end accounting software that can grow with your business.",
+              "features" : "QuickBooks Online Advanced is a cloud-based, all-in-one, accounting and business hub solution, designed for growing, small to mid-sized businesses. Get performance reporting with highly customizable tracking tools, automated workflows, and real-time revenue and cash flow management dashboards. Seamlessly integrate best-in-class Premium Apps like Salesforce and HubSpot (CRM), Bill.com (accounts payable), DocuSign, LeanLaw & more to expand your capabilities as your business needs grow.",
+              "url" : "https://ad.doubleclick.net/ddm/trackclk/N5506.813334.CAPTERRA.COM/B26893105.322310746;dc_trk_aid=514603491;dc_trk_cid=162507838;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd="
+            },
+            {
+              "product_id" : 131076,
+              "seo_product_id" : 12415,
+              "seo_slug" : "BigTime",
+              "vendor_name" : "BigTime Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d5523c4b-c183-40b2-bf6d-581294f47447.png",
+              "rating" : 4.6,
+              "total_reviews" : 576,
+              "slug" : "BigTime",
+              "product_name" : "BigTime",
+              "short_desc" : "BigTime is the engine empowering the greatest accounting firms on the planet to budget, track & bill their most important asset: time.",
+              "features" : "Accounting firms need more than just a timesheet. They need a system that unifies budgeting, project planning/execution, team communication, task management, resource management, invoicing and project financials. BigTime gives you the tools your team needs to deliver billable work on time and on budget, giving our customers an average improvement of 25% in gross margins and a substantial increase in expansion and referral revenue. \"We didn't have to compromise or change the way we operated.\"",
+              "url" : "https://get.bigtime.net/bigtime-branded/?utm_campaign=Capterra_ACCT&utm_medium=Free_Demo&utm_content=TE&utm_source=capterra"
+            },
+            {
+              "product_id" : 141096,
+              "seo_product_id" : 27769,
+              "seo_slug" : "BillQuick",
+              "vendor_name" : "BQE Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/2a6d189c-62c6-45a7-bcad-aeae738925a3.png",
+              "rating" : 4.4,
+              "total_reviews" : 571,
+              "slug" : "BQE-Software",
+              "product_name" : "BQE CORE Suite",
+              "short_desc" : "Integrated accounting, reporting, time & expense tracking, and billing software for professional services firms.",
+              "features" : "CORE centralizes professional services firms' accounting and project data on one beautiful cloud platform. By combining accounting, billing, time and expense tracking, and project management tools, CORE makes it easier to run your business more profitably. It organizes information, automates repetitive tasks, and allows you to spend more time providing services to your clients instead of managing internal processes.",
+              "url" : "https://info.bqe.com/capterra-core?utm_medium=directory&utm_campaign=accounting&utm_content=main"
+            }
+          ],
+          "similar_products" : [
+            {
+              "product_id" : 76,
+              "seo_product_id" : 76,
+              "seo_slug" : "Intacct",
+              "vendor_name" : "Sage Intacct",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/fe0f5e7e-e066-4ca1-a42f-67ba4ba1c9d0.jpeg",
+              "rating" : 4.2,
+              "total_reviews" : 330,
+              "slug" : "Intacct",
+              "product_name" : "Sage Intacct",
+              "short_desc" : "The #1 Accounting Software and Financial Management Solution. Built for Finance by Finance",
+              "features" : "Choose the flexible and scalable financial platform that delivers deep accounting capabilities, including payroll, tax filings, and inventory tracking tools, across multiple industries designed with a single aim-to accelerate your success. Small to medium-sized businesses prefer Sage Intacct for its ease of use, integrated multi-dimensional reporting, high customer satisfaction, dedicated support, and more. Maximize impact and future-proof your business with a partner who can scale with you.",
+              "url" : "https://online.sageintacct.com/onrev-accounting-sw-capterra-reg.html?utm_source=online-rev&utm_medium=capterra&utm_campaign=accounting"
+            },
+            {
+              "product_id" : 135757,
+              "seo_product_id" : 212456,
+              "seo_slug" : "NetSuite",
+              "vendor_name" : "Oracle",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/70a405ae-214e-4735-8e1f-ce093f53f337.png",
+              "rating" : 4.1,
+              "total_reviews" : 856,
+              "slug" : "NetSuite",
+              "product_name" : "NetSuite",
+              "short_desc" : "NetSuite accounting software simplifies the process of recording transactions, managing AP and AR, and closing the books.",
+              "features" : "NetSuite cloud accounting software provides the tools needed to effectively manage accounting data and accelerate the close process. Automated tasks reduce data inefficiency and risks of error while customizable reports, dashboards, and real-time metrics help companies monitor business and improve financial control. NetSuite supports multiple currencies, languages, and compliance standards and ensures data is accessible securely worldwide.",
+              "url" : "https://6262239.extforms.netsuite.com/app/site/crm/externalleadpage.nl?compid=6262239&formid=2332&h=AAFdikaISXcjhmkzuQ25OBfGrJSFmJ9yfiPm280zU3KRQSmNnCM&leadsource=Online_Capterra_NewLP_Accounting_2023&cid=Online_Capterra_NewLP_Accounting_2023"
+            },
+            {
+              "product_id" : 152950,
+              "seo_product_id" : 152950,
+              "seo_slug" : "Nvoicepay",
+              "vendor_name" : "Corpay",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4da31e26-17a9-4794-94c3-5ad3d07e1eb4.jpeg",
+              "rating" : 4.7,
+              "total_reviews" : 28,
+              "slug" : "Nvoicepay",
+              "product_name" : "Corpay",
+              "short_desc" : "Corpay's accounting software enables AP teams to pay all invoices, regardless of payment type, in a single automated workflow.",
+              "features" : "Corpay is an accounting software for large enterprises that streamlines all invoice payments into a single digital workflow, across multiple locations, bank accounts, payment methods, & approval hierarchies. When it's time for a payment run, submit and approve payments in our software, then Corpay pays vendors according to their remit-to instructions and in their preferred method. Choose the AP solution that's purpose-built to generate efficiency & savings for large, complex organizations.",
+              "url" : "https://payments.corpay.com/request-demo?utm_source=capterra&utm_medium=cpc&utm_campaign=2022_Corpay_Capterra_Leads"
+            },
+            {
+              "product_id" : 56390,
+              "seo_product_id" : 56390,
+              "seo_slug" : "Visual-Lease",
+              "vendor_name" : "Visual Lease",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/18ff3065-6fcb-4d7d-8a1b-cb26dd7a77ae.png",
+              "rating" : 4.6,
+              "total_reviews" : 53,
+              "slug" : "Visual-Lease",
+              "product_name" : "Visual Lease",
+              "short_desc" : "Visual Lease is the #1 lease optimization software provider and has helped over 1,000 organizations achieve and maintain compliance.",
+              "features" : "Visual Lease is the #1 lease optimization software provider. We help organizations become compliant with FASB, IFRS and GASB lease accounting standards, while simultaneously improving the financial, legal and operational performance of their leases. Visual Lease provides efficient lease accounting tools, robust lease management technology, and comprehensive integrations to help companies save time, save money and stay compliant with lease accounting standards.",
+              "url" : "https://info.gartnerdigitalmarkets.com/visual-lease-gdm-lp?utm_medium=search-paid&utm_source=capterra-search&utm_campaign=2022-ScheduleaDemo-DMO"
+            },
+            {
+              "product_id" : 150647,
+              "seo_product_id" : 222231,
+              "seo_slug" : "Canopy",
+              "vendor_name" : "Canopy",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/cd76892f-c11a-4f2d-948a-fd800d702efd.png",
+              "rating" : 4.5,
+              "total_reviews" : 159,
+              "slug" : "Canopy-Tax",
+              "product_name" : "Canopy",
+              "short_desc" : "Accounting practice management software built to empower accounting firms to spend more time helping their clients succeed.",
+              "features" : "Unclunk your accounting firm with Canopy's cloud-based practice management suite. It's client, document, workflow, time, billing, email, tax, and staff management. But that's a mouthful. Doing all of these things in one software eliminates switching and clicking, which will help you and your staff improve efficiency, organization, and accuracy. You'll even be able to help keep your clients efficient and organized with the client portal, automated reminders, eSign, payments, and more. Try Canopy!",
+              "url" : "https://www.getcanopy.com/demo-canopy-accounting-solution?utm_source=capterra&utm_medium=cpc"
+            },
+            {
+              "product_id" : 96371,
+              "seo_product_id" : 217145,
+              "seo_slug" : "Acumatica-Canada",
+              "vendor_name" : "Acumatica",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/f91a3546-4335-4653-8195-59f92b43c5dc.png",
+              "rating" : 4.4,
+              "total_reviews" : 55,
+              "slug" : "Acumatica-Cloud-ERP",
+              "product_name" : "Acumatica Cloud ERP",
+              "short_desc" : "Acumatica Cloud ERP offers powerful finance and business intelligence tools to streamline company-wide accounting processes.",
+              "features" : "Acumatica Cloud ERP offers powerful finance and business intelligence tools to streamline company-wide accounting processes. Track costs, control billing, and manage time/expenses with multi-currency support and powerful financial reports. Acumatica makes real-time financial data available anytime, anywhere, on any device. Harness this data to make informed accounting decisions, reduce workloads, close the books faster, accelerate growth, and transform how you do business in the digital economy.",
+              "url" : "https://www.acumatica.com/erp-demo-video-v2?utm_medium=cpc&utm_campaign=default"
+            },
+            {
+              "product_id" : 166559,
+              "seo_product_id" : 226669,
+              "seo_slug" : "Billcom",
+              "vendor_name" : "Bill.com",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/58c7479a-6ac6-4e65-80b4-a25024321b44.png",
+              "rating" : 4.1,
+              "total_reviews" : 391,
+              "slug" : "Bill-com",
+              "product_name" : "Bill.com",
+              "short_desc" : "Bill.com is the intelligent business payments platform that delivers financial process efficiency, time savings, and full control.",
+              "features" : "Bill.com delivers financial process efficiency through streamlined accounts payable (AP) and accounts receivable (AR) management. Reduce errors and increase efficiency by leveraging artificial intelligence (AI) and machine learning. Bill.com gets more intelligent as you use it, learning your processes and preferences to give you greater control over every aspect of bill management.",
+              "url" : "https://www.bill.com/lp/trial/?utm_source=capterra&utm_medium=cpc&utm_campaign=affiliate&campaign=Bookkeeper&keyword=getpaid&placement=destination&traffictype=referral"
+            },
+            {
+              "product_id" : 134507,
+              "seo_product_id" : 227428,
+              "seo_slug" : "Zoho-Books",
+              "vendor_name" : "Zoho",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/f466ce3f-c0e1-4a2f-a983-8ce97463455b.png",
+              "rating" : 4.4,
+              "total_reviews" : 476,
+              "slug" : "Zoho-Books",
+              "product_name" : "Zoho Books",
+              "short_desc" : "Simple, easy-to-use accounting software to help you manage your business finance in a smart way!",
+              "features" : "Zoho Books is an online accounting software that allows you to easily manage the money flowing in and out of your business. Manage your customers and invoices, while keeping expenses in check. Record, monitor and reconcile your bank accounts and transactions, and collaborate with your accountant in real-time. Most importantly, Zoho Books helps you make better, more informed decisions and stay on top of your business.",
+              "url" : "https://www.zoho.com/books/?utm_medium=cpc&utm_campaign=accounting"
+            },
+            {
+              "product_id" : 131076,
+              "seo_product_id" : 12415,
+              "seo_slug" : "BigTime",
+              "vendor_name" : "BigTime Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d5523c4b-c183-40b2-bf6d-581294f47447.png",
+              "rating" : 4.6,
+              "total_reviews" : 576,
+              "slug" : "BigTime",
+              "product_name" : "BigTime",
+              "short_desc" : "BigTime is the engine empowering the greatest accounting firms on the planet to budget, track & bill their most important asset: time.",
+              "features" : "Accounting firms need more than just a timesheet. They need a system that unifies budgeting, project planning/execution, team communication, task management, resource management, invoicing and project financials. BigTime gives you the tools your team needs to deliver billable work on time and on budget, giving our customers an average improvement of 25% in gross margins and a substantial increase in expansion and referral revenue. \"We didn't have to compromise or change the way we operated.\"",
+              "url" : "https://get.bigtime.net/bigtime-branded/?utm_campaign=Capterra_TE&utm_medium=Visit_website&utm_content=TE"
+            },
+            {
+              "product_id" : 251814,
+              "seo_product_id" : 251814,
+              "seo_slug" : "Centime",
+              "vendor_name" : "Centime",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/f51dec2c-d712-46a4-9ecd-b7c2d2226f7e.jpeg",
+              "rating" : 0.0,
+              "total_reviews" : 0,
+              "slug" : "Centime",
+              "product_name" : "Centime",
+              "short_desc" : "Centime Cash Flow Control integrates with your General Ledger and bank accounts to help you control and manage cash flow.",
+              "features" : "Centime helps accounting departments, SMBs, CPAs, bookkeepers and fractional CFOs forecast cash flow, collect faster, pay smarter and access credit.\n\nCentime Cash Flow Control is a cloud-based solution that integrates with businesses' General Ledgers and bank accounts, and helps them control their cash with real-time forecasting, tools to speed collections and manage AP and easily access short-term credit.\n\nSupported General Ledgers: \nQuickBooks Online\nQuickBooks Desktop\nNetSuite\n",
+              "url" : "https://cashflow.centime.com/smb-cash-flow-forecasting-software-4/"
+            },
+            {
+              "product_id" : 152293,
+              "seo_product_id" : 152293,
+              "seo_slug" : "SAP-S-4HANA",
+              "vendor_name" : "SAP",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/b557c346-6092-4469-b559-1adc202e5270.png",
+              "rating" : 4.3,
+              "total_reviews" : 263,
+              "slug" : "SAP-S-4HANA",
+              "product_name" : "SAP S/4HANA Cloud",
+              "short_desc" : "Discover SAP S/4HANA Cloud, a complete ERP system with embedded AI and machine learning.",
+              "features" : "SAP S/4HANA Cloud is a complete enterprise resource planning (ERP) system with built-in intelligent technologies, including AI, machine learning, and advanced analytics. It helps companies adopt new business models, manage business change at speed, orchestrate internal and external resources, and use the predictive power of AI. Benefit from tight, native integration between processes, industry depth, and a consistent in-memory data model. ",
+              "url" : "https://info.gartnerdigitalmarkets.com/sap-s4hana-erp-gdm-lp"
+            },
+            {
+              "product_id" : 192999,
+              "seo_product_id" : 192999,
+              "seo_slug" : "Davo-Sales-Tax",
+              "vendor_name" : "Davo",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/cdf360d7-1915-4aee-8b47-29b52bb87078.png",
+              "rating" : 5.0,
+              "total_reviews" : 14,
+              "slug" : "Davo-Sales-Tax",
+              "product_name" : "DAVO",
+              "short_desc" : "DAVO sets aside sales tax daily and pays and files it, on time and in full - guaranteed. Try it for free for the first 30 days!",
+              "features" : "DAVO by Avalara uses sales data from your POS system to set aside the exact amount of sales tax you collect every single day and then files and pays it when it's due. It's fully automatic. Absolutely secure. Totally guaranteed.\n\nIf you are a brick and mortar business and you sell things, chances are you have to collect and pay sales tax. DAVO can do it for you.\n\nDAVO is available on Clover, Square, Toast, Lightspeed, Vend, SpotOn, Quickbooks Online, Heartland, Par Brink, Upserve, Poynt & Revel.",
+              "url" : "https://www.davosalestax.com/?utm_campaign=Review%20Sites&utm_source=Capterra&utm_medium=PPC_Listing"
+            },
+            {
+              "product_id" : 133966,
+              "seo_product_id" : 226997,
+              "seo_slug" : "Accounting-Seed",
+              "vendor_name" : "Accounting Seed",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/db28fc83-a0a2-436b-a2fe-eeec7af7ac92.png",
+              "rating" : 4.3,
+              "total_reviews" : 78,
+              "slug" : "Accounting-Seed",
+              "product_name" : "Accounting Seed",
+              "short_desc" : "Reinvent the way your business does accounting! Accounting Seed is a cloud-based accounting platform backed by the power of Salesforce.",
+              "features" : "Accounting Seed is a full accrual accounting platform powered by Salesforce suited for any sized business across any industry. Our software tracks financial data through the entire business lifecycle from lead to ledger. Easily customize and configure Accounting Seed to meet your business needs with clicks, not code. As a top-rated solution by G2, CFO Tech Outlook, and the Salesforce AppExchange, our customization and automation enable users to run their accounting their way.",
+              "url" : "https://info.gartnerdigitalmarkets.com/accountingseed-gdm-lp/"
+            }
+          ],
+          "related_categories" : [
+            {
+              "functional_group" : "acct",
+              "long_name" : "Accounting Practice Management",
+              "html_name" : "accounting-practice-management-software",
+              "link_name" : "accounting-practice-management",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Accounting Practice Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Accounting Practice Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "Accounting Practice Management software helps professional accountants manage workflow, communicate with their clients, and automate their daily processes."
+            },
+            {
+              "functional_group" : "acct",
+              "long_name" : "Accounts Payable",
+              "html_name" : "accounts-payable-software",
+              "link_name" : "accounts-payable",
+              "product_count" : 87,
+              "meta_description" : "Find and compare top Accounts Payable software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Accounts Payable tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/accounts-payable-software\">Accounts Payable software</a> automates the process of controlling cash expenditures. These applications help improve cash management and reduce effort by tracking invoices, providing tools for capturing errors, and generating reports. Accounts Payable solutions are designed to work with General Ledger and Accounting applications.  <a href=\"/accounts-payable-software\">Accounts Payable software</a> is related to <a href=\"/accounting-software\">Accounting software</a> and <a href=\"/billing-and-invoicing-software\">Billing and Invoicing software</a>."
+            },
+            {
+              "functional_group" : "acct",
+              "long_name" : "Accounts Receivable",
+              "html_name" : "accounts-receivable-software",
+              "link_name" : "accounts-receivable",
+              "product_count" : 76,
+              "meta_description" : "Find and compare top Accounts Receivable software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Accounts Receivable tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/accounts-receivable-software\">Accounts Receivable software</a> deals with money that is owed to an organization. It automates the recording of payments on outstanding invoices and provides reports on collection and aging. Along with reports, Accounts Receivable applications generate monthly customer statements and collection letters. Accounts Receivable solutions integrate with Accounting software. <a href=\"/accounts-receivable-software\">Accounts Receivable software</a> is related to <a href=\"/accounting-software\">Accounting software</a>."
+            },
+            {
+              "functional_group" : "acct",
+              "long_name" : "Audit",
+              "html_name" : "audit-software",
+              "link_name" : "audit",
+              "product_count" : 59,
+              "meta_description" : "Find and compare top Audit software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Audit tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/audit-software\">Audit software</a> automates the process of preparing and executing audits by helping organizations analyze data, assess risks, track issues, report results, and manage paperwork. <a href=\"/audit-software\">Audit software</a> is related to <a href=\"/compliance-software\">Compliance software</a>, <a href=\"/financial-reporting-software\">Financial Reporting software</a> and <a href=\"/financial-risk-management-software\">Financial Risk Management software</a>."
+            },
+            {
+              "functional_group" : "acct",
+              "long_name" : "Auto Dealer Accounting",
+              "html_name" : "auto-dealer-accounting-software",
+              "link_name" : "auto-dealer-accounting",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Auto Dealer Accounting software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Auto Dealer Accounting tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "Auto Dealer Accounting software streamlines revenue and expense tracking and tax reporting for auto dealers."
+            },
+            {
+              "functional_group" : "acct",
+              "long_name" : "Billing and Invoicing",
+              "html_name" : "billing-and-invoicing-software",
+              "link_name" : "billing-and-invoicing",
+              "product_count" : 185,
+              "meta_description" : "Find and compare top Billing and Invoicing software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Billing and Invoicing tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/billing-and-invoicing-software>Billing and Invoicing software</a> automates the process of producing and sending invoices and receiving payments.  These applications enable the efficient processing of complex accounts across multiple customers and product lines, incorporating <a href=\"/contract-management-software\">contract data</a> and <a href=\"/customer-relationship-management-software\">customer relationship management</a> tools.  Billing and Invoicing solutions are designed to work with <a href=\"/accounting-software\">accounting</a> applications and provide a variety of business <a href=\"/reporting-software\">reporting</a> tools.  <a href=/billing-and-invoicing-software>Billing and Invoicing software</a> is related to <a href=/procurement-software>Procurement software</a> and <a href=/purchasing-software>Purchasing software</a>."
+            },
+            {
+              "functional_group" : "acct",
+              "long_name" : "Budgeting",
+              "html_name" : "budgeting-software",
+              "link_name" : "budgeting",
+              "product_count" : 87,
+              "meta_description" : "Find and compare top Budgeting software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Budgeting tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs.",
+              "description" : "<a href=/budgeting-software>Budgeting software</a> automates the coordination of an organization's financial resources and expenditures.  Budgeting solutions allow for timely and accurate data management and analysis in order to give an overall picture of a business' growth and profitability.  Multiple users across various departments can contribute their projected expenses and revenues to the organization's budgeting system, providing an automated budget approval process.  <a href=/budgeting-software>Budgeting software</a> is related to <a href=/accounting-software>Accounting software</a>, <a href=/business-performance-management-software>Business Performance Management software</a> and <a href=/financial-reporting-software>Financial <a href=/reporting-software>Reporting software</a></a>."
+            },
+            {
+              "functional_group" : "acct",
+              "long_name" : "Compliance",
+              "html_name" : "compliance-software",
+              "link_name" : "compliance",
+              "product_count" : 219,
+              "meta_description" : "Find and compare top Compliance software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Compliance tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs.",
+              "description" : "<a href=\"/compliance-software\">Compliance software</a> enables an organization to monitor internal controls to ensure that standards and regulations are met.  Compliance solutions that focus on financial and accounting compliance standards, such as the Sarbanes-Oxley Act of 2002, help organizations streamline financial documentation, audit trails, and reporting.  Compliance solutions that focus on environmental compliance standards help organizations monitor and report on emissions, hazmat procedures, and regulatory policies.  <a href=\"/compliance-software\">Compliance software</a> is related to <a href=\"/accounting-software\">Accounting software</a>, and <a href=\"/ehs-management-software\">EHS Management software</a>."
+            },
+            {
+              "functional_group" : "acct",
+              "long_name" : "Debt Collection",
+              "html_name" : "debt-collection-software",
+              "link_name" : "debt-collection",
+              "product_count" : 145,
+              "meta_description" : "Find and compare top Debt Collection software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Debt Collection tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/debt-collection-software\">Debt Collection software</a> automates the management and accounting process for overdue invoices on behalf of an organization or a specialized collection agency.  Debt Collection applications can integrate with existing accounting and invoicing systems.  <a href=\"/debt-collection-software\">Debt Collection software</a> is related to <a href=\"/accounting-software\">Accounting software</a>, <a href=\"/banking-systems-software\">Banking Systems software</a> and <a href=\"/billing-and-invoicing-software\">Billing and Invoicing software</a>."
+            },
+            {
+              "functional_group" : "acct",
+              "long_name" : "Financial Reporting",
+              "html_name" : "financial-reporting-software",
+              "link_name" : "financial-reporting",
+              "product_count" : 104,
+              "meta_description" : "Find and compare top Financial Reporting software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Financial Reporting tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/financial-reporting-software>Financial <a href=/reporting-software>Reporting software</a></a> automates the task of reporting an organization's financial results, status and transactions.  Financial Reporting applications help organizations control and increase operational efficiencies. These solutions provide the ability to collect, translate and consolidate data from various systems and geographic locations.  <a href=/financial-reporting-software>Financial <a href=/reporting-software>Reporting software</a></a> is related to <a href=/accounting-software>Accounting software</a>, <a href=/budgeting-software>Budgeting software</a>, <a href=/business-performance-management-software>Business Performance Management software</a> and <a href=/compliance-software>Compliance software</a>."
+            },
+            {
+              "functional_group" : "acct",
+              "long_name" : "Fund Accounting",
+              "html_name" : "fund-accounting-software",
+              "link_name" : "fund-accounting",
+              "product_count" : 49,
+              "meta_description" : "Find and compare top Fund Accounting software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Fund Accounting tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/fund-accounting-software\">Fund Accounting software</a> automates accounting and portfolio management functions for nonprofit organizations, alternative asset managers, private bankers, foundations and government agencies.  Fund administrators utilize these applications to assist in strategic decision making and to increase accountability across an organization's financial operations.  <a href=\"/fund-accounting-software\">Fund Accounting software</a> also assists with regulatory <a href=\"/compliance-software\">compliance</a> management and <a href=\"/financial-reporting-software\">financial reporting</a> on portfolio performance.  <a href=\"/fund-accounting-software\">Fund Accounting software</a> is related to <a href=\"/accounting-software\">Accounting software</a> and <a href=\"/government-software\">Government software</a>."
+            },
+            {
+              "functional_group" : "acct",
+              "long_name" : "Sales Tax",
+              "html_name" : "sales-tax-software",
+              "link_name" : "sales-tax",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Sales Tax software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Sales Tax tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "Sales Tax software manages the calculation, collection, and reporting of state and local taxes on sales of goods and services while maintaining compliance with various local and federal regulations."
+            },
+            {
+              "functional_group" : "acct",
+              "long_name" : "Trust Accounting",
+              "html_name" : "trust-accounting-software",
+              "link_name" : "trust-accounting",
+              "product_count" : 27,
+              "meta_description" : "Find and compare top Trust Accounting software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Trust Accounting tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs.",
+              "description" : "<a href=\"/trust-accounting-software\">Trust Accounting software</a> allows administrators to manage trusts, estates and investment portfolios.  Trust Accounting solutions can be used by bank trust departments, accountants, law firms, non-profit organizations and independent trust companies and helps to keep administrators in compliance with all applicable laws and regulations.  <a href=\"/trust-accounting-software\">Trust Accounting software</a> is related to <a href=\"/accounting-software\">Accounting software</a>, <a href=\"/accounting-software\">Fund Accounting software</a>, <a href=\"/law-practice-management-software\">Law Practice Management software</a>, <a href=\"/investment-management-software\">Investment Management software</a> and <a href=\"/legal-billing-software\">Legal Billing software</a>. "
+            }
+          ],
+          "is_upgraded" : false,
+          "enabled" : true,
+          "filter_options" : {
+            "users" : 127,
+            "platform" : 901,
+            "pricing_options" : 12,
+            "category_related_features" : [
+              17642,
+              17647,
+              28144,
+              54192,
+              54193,
+              54194,
+              54201,
+              54203,
+              54205,
+              54207,
+              54212
+            ],
+            "employees" : 127
+          },
+          "sort_options" : {
+            "sort_review_rating" : 4.3889546394348145,
+            "most_recent_review" : "2022-07-10T16:33:33Z"
+          },
+          "countries" : "ALL",
+          "features_tokenized_text" : "",
+          "platform_tokenized_text" : "cloud,saas,web-based desktopwindows mobileandroid mobileiphone mobileipad",
+          "users_tokenized_text" : "1 2-10 11-50 51-200 201-500 501-1000 1000+",
+          "pricing_tokenized_text" : "annualsubscription free",
+          "badges" : [ ],
+          "bid_spot_us" : 0.0,
+          "currency_code" : "USD",
+          "currency_symbol" : "$",
+          "credit_card_required" : null,
+          "licensing_model" : null,
+          "open_api_offered" : "Yes",
+          "mobile_urls" : [
+            {
+              "name" : "Android",
+              "url" : "https://play.google.com/store/apps/details?id=com.esharesinc.android"
+            },
+            {
+              "name" : "iOS",
+              "url" : "https://itunes.apple.com/us/app/carta-manage-your-equity/id1137735263?mt=8"
+            }
+          ],
+          "integrations" : [
+            {
+              "id" : "eab58142-6040-46ce-9341-a6d200b7915e",
+              "name" : "Xero"
+            },
+            {
+              "id" : "44278a9e-09e7-4c4b-92d9-1a3739abe0ec",
+              "name" : "QuickBooks Online Advanced"
+            }
+          ],
+          "supported_countries" : [
+            {
+              "id" : 237,
+              "code" : "US",
+              "name" : "United States of America"
+            }
+          ],
+          "supported_languages" : [
+            {
+              "id" : 152,
+              "code" : "en",
+              "name" : "English",
+              "location" : null
+            }
+          ],
+          "target_industries" : [
+            {
+              "id" : 62,
+              "code" : "147",
+              "name" : "Industrial Automation"
+            },
+            {
+              "id" : 65,
+              "code" : "42",
+              "name" : "Insurance"
+            },
+            {
+              "id" : 33,
+              "code" : "99",
+              "name" : "Design"
+            },
+            {
+              "id" : 139,
+              "code" : "92",
+              "name" : "Transportation/Trucking/Railroad"
+            },
+            {
+              "id" : 86,
+              "code" : "126",
+              "name" : "Media Production"
+            },
+            {
+              "id" : 64,
+              "code" : "96",
+              "name" : "Information Technology and Services"
+            },
+            {
+              "id" : 46,
+              "code" : "34",
+              "name" : "Food & Beverages"
+            },
+            {
+              "id" : 1,
+              "code" : "47",
+              "name" : "Accounting"
+            },
+            {
+              "id" : 126,
+              "code" : "27",
+              "name" : "Retail"
+            },
+            {
+              "id" : 11,
+              "code" : "41",
+              "name" : "Banking"
+            },
+            {
+              "id" : 58,
+              "code" : "31",
+              "name" : "Hospitality"
+            },
+            {
+              "id" : 74,
+              "code" : "10",
+              "name" : "Legal Services"
+            },
+            {
+              "id" : 78,
+              "code" : "116",
+              "name" : "Logistics and Supply Chain"
+            },
+            {
+              "id" : 98,
+              "code" : "57",
+              "name" : "Oil & Energy"
+            },
+            {
+              "id" : 134,
+              "code" : "8",
+              "name" : "Telecommunications"
+            },
+            {
+              "id" : 120,
+              "code" : "44",
+              "name" : "Real Estate"
+            },
+            {
+              "id" : 140,
+              "code" : "59",
+              "name" : "Utilities"
+            },
+            {
+              "id" : 25,
+              "code" : "4",
+              "name" : "Computer Software"
+            },
+            {
+              "id" : 42,
+              "code" : "63",
+              "name" : "Farming"
+            },
+            {
+              "id" : 85,
+              "code" : "135",
+              "name" : "Mechanical or Industrial Engineering"
+            },
+            {
+              "id" : 63,
+              "code" : "84",
+              "name" : "Information Services"
+            },
+            {
+              "id" : 40,
+              "code" : "76",
+              "name" : "Executive Office"
+            },
+            {
+              "id" : 53,
+              "code" : "148",
+              "name" : "Government Relations"
+            },
+            {
+              "id" : 105,
+              "code" : "15",
+              "name" : "Pharmaceuticals"
+            },
+            {
+              "id" : 41,
+              "code" : "122",
+              "name" : "Facilities Services"
+            },
+            {
+              "id" : 43,
+              "code" : "43",
+              "name" : "Financial Services"
+            },
+            {
+              "id" : 7,
+              "code" : "50",
+              "name" : "Architecture & Planning"
+            },
+            {
+              "id" : 54,
+              "code" : "140",
+              "name" : "Graphic Design"
+            },
+            {
+              "id" : 84,
+              "code" : "80",
+              "name" : "Marketing and Advertising"
+            },
+            {
+              "id" : 26,
+              "code" : "48",
+              "name" : "Construction"
+            },
+            {
+              "id" : 81,
+              "code" : "11",
+              "name" : "Management Consulting"
+            },
+            {
+              "id" : 32,
+              "code" : "1",
+              "name" : "Defense & Space"
+            },
+            {
+              "id" : 35,
+              "code" : "132",
+              "name" : "E-Learning"
+            },
+            {
+              "id" : 9,
+              "code" : "53",
+              "name" : "Automotive"
+            },
+            {
+              "id" : 57,
+              "code" : "14",
+              "name" : "Hospital & Health Care"
+            },
+            {
+              "id" : 52,
+              "code" : "75",
+              "name" : "Government Administration"
+            },
+            {
+              "id" : 97,
+              "code" : "100",
+              "name" : "Non-Profit Organization Management"
+            }
+          ],
+          "price_range_id" : 1,
+          "aggregated_review_ratings" : {
+            "industry" : {
+              "86" : 1.0,
+              "6" : 4.8,
+              "12" : 4.5,
+              "42" : 4.0,
+              "14" : 3.0,
+              "25" : 4.0,
+              "84" : 3.0,
+              "44" : 4.0,
+              "96" : 4.5,
+              "126" : 4.5,
+              "106" : 3.0,
+              "100" : 5.0,
+              "30" : 4.5,
+              "43" : 3.4,
+              "4" : 4.89,
+              "8" : 4.0,
+              "132" : 5.0,
+              "118" : 3.0,
+              "24" : 5.0,
+              "80" : 5.0,
+              "27" : 5.0
+            },
+            "company_size" : {
+              "11-50 employees" : 4.6,
+              "201-500 employees" : 4.38,
+              "51-200 employees" : 4.81,
+              "1-10 employees" : 2.83,
+              "501-1000 employees" : 4.71,
+              "1001-5000 employees" : 2.0,
+              "Self-employed" : 5.0
+            }
+          },
+          "vct_enabled" : false,
+          "pricing_plans" : [
+            {
+              "created_on_utc" : "2019-08-21T14:47:39Z",
+              "modified_on_utc" : "2022-04-11T20:39:21Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Basic",
+              "description" : null,
+              "display_order" : 1,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 2800.0,
+              "ending_price" : null,
+              "pricing_model_name" : null,
+              "payment_frequency_name" : "Per Year",
+              "attributes" : [ ]
+            }
+          ],
+          "discount_types" : [ ]
+        }
+      },
+      {
+        "_index" : "product_listings_main_data_upc_vt20220920_043802_utc",
+        "_type" : "_doc",
+        "_id" : "176931_im",
+        "_score" : 10.281416,
+        "_source" : {
+          "product_id" : 176931,
+          "seo_product_id" : 220278,
+          "seo_slug" : "Carta",
+          "product_name" : "Carta",
+          "upc_product_uuid" : "3922e71b-b746-4867-a233-a90c00d922e9",
+          "old_product_ids" : [
+            220278,
+            176919
+          ],
+          "product_url" : "https://carta.com/investor/?utm_medium=paid-reviews&utm_campaign=&utm_campaign=investment-management-listing",
+          "product_slug" : "Carta-for-Private-Companies",
+          "former_name" : "Carta for Private Companies",
+          "logo_filepath" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/87ae1df0-663b-4f3b-8495-b9da8498b971.png",
+          "vendor" : {
+            "vendor_id" : 2123077,
+            "vendor_name" : "Carta",
+            "vendor_url" : "https://carta.com/",
+            "year_founded" : 2012,
+            "location" : "United States",
+            "vendor_opted_out_of_reviews" : true,
+            "is_opted_out_of_reviews" : false,
+            "is_hit_limit" : false,
+            "enabled" : true,
+            "has_vendor_level_page" : false,
+            "slug" : null,
+            "vendor_page" : false,
+            "paused_campaign" : false
+          },
+          "category_short_name" : "im",
+          "category_html_name" : "investment-management-software",
+          "category" : {
+            "id" : 20010,
+            "short_name" : "im",
+            "long_name" : "Investment Management",
+            "html_name" : "investment-management-software",
+            "enabled" : true
+          },
+          "best_category" : "im",
+          "is_best_category" : true,
+          "highest_cpc_category" : null,
+          "is_highest_cpc_category" : false,
+          "short_desc" : "Carta is an equity management platform for companies, investors, and employees. ",
+          "long_desc" : "Carta makes it easier for equity holders in private companies to track and manage ownership, and run their back office functions.\n\nCarta was founded in 2012, and started by helping private companies manage their cap tables. Since then, Carta's services have expanded to include 409a valuations, ASC 820 valuations, fund administration, and many more. Carta is trusted by 21,000+ companies, 1.5M+ unique stakeholders, and have valued over $1.8T in private assets.",
+          "rating" : 4.4,
+          "number_of_reviews" : 49,
+          "total_reviews" : 51,
+          "ease_of_use_rating" : 4.1,
+          "customer_support_rating" : 3.8,
+          "functionality_rating" : 4.2,
+          "value_for_money_rating" : 3.7,
+          "recommendation_rating" : 7.5,
+          "pricing_enabled" : true,
+          "pricing" : 2800.0,
+          "is_per_user" : false,
+          "fee_schedule" : "Per-Year",
+          "pricing_model" : null,
+          "pricing_details" : "Contact Carta for pricing details.\r\nPricing is based on number of stakeholders, cap table complexity, services, and products.",
+          "pricing_created_on" : "2019-08-21T14:47:39Z",
+          "pricing_modified_on" : "2022-04-11T20:39:17Z",
+          "pricing_created_by" : null,
+          "pricing_modified_by" : null,
+          "pricing_vendor_pricing_url" : null,
+          "free_trial" : false,
+          "free_version" : true,
+          "target_audience" : "Carta manages equity for 21,000+ customers, helping companies like Intercom, Tilray, and August Capital manage their cap tables, valuations, portfolio investments, and equity plans.",
+          "target_users" : [
+            "1",
+            "2-10",
+            "11-50",
+            "51-200",
+            "201-500",
+            "501-1000",
+            "1000+"
+          ],
+          "platform" : [
+            {
+              "enabled" : true,
+              "name" : "Cloud, SaaS, Web-Based"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Mac"
+            },
+            {
+              "enabled" : true,
+              "name" : "Desktop Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Chromebook"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile Android"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPhone"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPad"
+            }
+          ],
+          "support" : [
+            {
+              "enabled" : true,
+              "name" : "Email Help Desk"
+            },
+            {
+              "enabled" : false,
+              "name" : "FAQ Forum"
+            },
+            {
+              "enabled" : true,
+              "name" : "Knowledgebase"
+            },
+            {
+              "enabled" : true,
+              "name" : "Phone Support"
+            },
+            {
+              "enabled" : false,
+              "name" : "24/7 Live Rep"
+            },
+            {
+              "enabled" : true,
+              "name" : "Chat"
+            }
+          ],
+          "training" : [
+            {
+              "enabled" : false,
+              "name" : "Not Offered"
+            },
+            {
+              "enabled" : false,
+              "name" : "In-Person"
+            },
+            {
+              "enabled" : true,
+              "name" : "Live Online"
+            },
+            {
+              "enabled" : true,
+              "name" : "Webinars"
+            },
+            {
+              "enabled" : true,
+              "name" : "Documentation"
+            },
+            {
+              "enabled" : false,
+              "name" : "Videos"
+            }
+          ],
+          "media" : [
+            {
+              "product_id" : 176931,
+              "vendor_id" : 2123077,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/7d40e753-0896-4e93-9d68-040f42161b87.png",
+              "caption" : "Never worry about out-of-",
+              "weight" : 1,
+              "short_name" : "im"
+            },
+            {
+              "product_id" : 176931,
+              "vendor_id" : 2123077,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/2e89b1e4-a4fc-4e3a-87ec-f0dbc1e4d37a.png",
+              "caption" : "Every 409A valuation star",
+              "weight" : 2,
+              "short_name" : "im"
+            },
+            {
+              "product_id" : 176931,
+              "vendor_id" : 2123077,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/54bc38e4-8581-4345-9825-68cf744f34a3.png",
+              "caption" : "Simply input your exit va",
+              "weight" : 3,
+              "short_name" : "im"
+            },
+            {
+              "product_id" : 176931,
+              "vendor_id" : 2123077,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/cb6e1622-90c1-4883-921f-5e56b0c44263.png",
+              "caption" : "Stop waiting for a quarte",
+              "weight" : 4,
+              "short_name" : "im"
+            },
+            {
+              "product_id" : 176931,
+              "vendor_id" : 2123077,
+              "media_type" : "VIDEO",
+              "path_url" : "https://vimeo.com/241044030",
+              "caption" : null,
+              "weight" : 0,
+              "short_name" : "im"
+            }
+          ],
+          "links" : [
+            {
+              "product_id" : 176931,
+              "functional_group" : "im",
+              "html_code" : "https://carta.com/requestdemo?utm_medium=paid-reviews&utm_campaign=investment-management-listing",
+              "link_name" : "Free Demo",
+              "link_priority" : 2.0
+            },
+            {
+              "product_id" : 176931,
+              "functional_group" : "im",
+              "html_code" : "https://carta.com/investor/plans/?utm_medium=paid-reviews&utm_campaign=investment-management-listing",
+              "link_name" : "Pricing",
+              "link_priority" : 3.0
+            },
+            {
+              "product_id" : 176931,
+              "functional_group" : "im",
+              "html_code" : "https://carta.com/about?utm_medium=paid-reviews&utm_campaign=investment-management-listing",
+              "link_name" : "About Carta",
+              "link_priority" : 4.0
+            },
+            {
+              "product_id" : 176931,
+              "functional_group" : "im",
+              "html_code" : "https://carta.com/about?utm_medium=paid-reviews&utm_campaign=equity-management-listing",
+              "link_name" : "About Carta",
+              "link_priority" : 5.0
+            }
+          ],
+          "features" : [
+            {
+              "category_name" : "Investment Management",
+              "category_features" : [
+                {
+                  "name" : "Accounting",
+                  "value" : true,
+                  "id" : "3990e00b-853e-41a0-a871-33607f212727",
+                  "avg_rating" : 0.0,
+                  "cnt_rating" : 0,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Built-in accounting or integration with a third party accounting system"
+                },
+                {
+                  "name" : "Benchmarking",
+                  "value" : true,
+                  "id" : "304c4e1e-896d-48ab-9cc2-27ebcae4cc4f",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Compare key metrics for the business against prominent players in the industry"
+                },
+                {
+                  "name" : "Bonds / Stocks",
+                  "value" : false,
+                  "id" : "8a1e51e7-11ea-4800-a86c-6552223fb277",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Purchase and track both bonds and stocks in the portfolio"
+                },
+                {
+                  "name" : "Client Management",
+                  "value" : false,
+                  "id" : "2be4a8f3-1afa-49ee-9306-6f11bf4a1f2e",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Manage company interactions with current customers"
+                },
+                {
+                  "name" : "Client Portal",
+                  "value" : false,
+                  "id" : "6a55d8f2-f75b-4f1f-ae6a-d51a68db897d",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "A website and login for stakeholders to access information"
+                },
+                {
+                  "name" : "Commodity Futures",
+                  "value" : false,
+                  "id" : "82406a16-f24f-4e44-a264-d68c3aa0a9d1",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track and trade contracts to transact in tengible goods at a certain price in the future"
+                },
+                {
+                  "name" : "Compliance Tracking",
+                  "value" : true,
+                  "id" : "df98f62c-bd57-46a4-a436-d7c05622345d",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Track and report regulatory data to either internal management or external stakeholders"
+                },
+                {
+                  "name" : "Data Import/Export",
+                  "value" : true,
+                  "id" : "11e13892-ecfe-4251-abcd-112d84a38214",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : "Import and export information and reports to and from the program"
+                },
+                {
+                  "name" : "For Investment Advisors",
+                  "value" : false,
+                  "id" : "4059fbae-1c17-42c3-8e22-892e6e4557d2",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Used by financial advisors and money managers"
+                },
+                {
+                  "name" : "For Investors & Traders",
+                  "value" : false,
+                  "id" : "8709b2d7-a570-4ac6-b82e-931ad08d6964",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Used by retail investors and active traders/day traders"
+                },
+                {
+                  "name" : "Fund Management",
+                  "value" : true,
+                  "id" : "e3d57c0f-9123-4c4b-b700-8a6323b4bb93",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Manage allocation and performance of assets kept in different funds (often put into separate bucket for a specific purpose)"
+                },
+                {
+                  "name" : "Modeling & Simulation",
+                  "value" : false,
+                  "id" : "4bead2e3-43c2-438b-84c8-a8b532c0ed49",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Graphing and outlining possibilities of different scenarios and performance, 'what if' anaysis, yield analysis, cash flow projections"
+                },
+                {
+                  "name" : "Performance Metrics",
+                  "value" : true,
+                  "id" : "28071df9-b91d-44b7-9721-10fe2f036819",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "A set of indicators that tracks how well an organization, a division, or a particular project are performing"
+                },
+                {
+                  "name" : "Portfolio Rebalancing",
+                  "value" : false,
+                  "id" : "0ffc4d30-fd64-474c-ab8d-bedd38037de2",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Reallocation of assets to reflect changing investment goals or market conditions"
+                },
+                {
+                  "name" : "Real Estate",
+                  "value" : false,
+                  "id" : "268ce5e7-bccd-4f33-82c0-29d07f1c1cbe",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "For tracking investment in real estate assets"
+                },
+                {
+                  "name" : "Risk Management",
+                  "value" : true,
+                  "id" : "2d25bc40-8517-4799-8a87-4d979c453d38",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Identify, evaluate, mitigate, and report on risk"
+                }
+              ]
+            },
+            {
+              "category_name" : "Board Management",
+              "category_features" : [
+                {
+                  "name" : "Access Controls/Permissions",
+                  "value" : true,
+                  "id" : "12cc6bf7-4736-4dfe-bbf9-4d93ec5d227d",
+                  "avg_rating" : 0.0,
+                  "cnt_rating" : 0,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Define levels of authorization for access to specific files/folders"
+                },
+                {
+                  "name" : "Approval Process Control",
+                  "value" : true,
+                  "id" : "8cc73664-11fe-47ac-a43f-468a931254cb",
+                  "avg_rating" : 0.0,
+                  "cnt_rating" : 0,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Streamline and manage the process of granting permission to the correct parties throughout task progression "
+                },
+                {
+                  "name" : "Calendar Management",
+                  "value" : false,
+                  "id" : "10dc6d16-b8eb-47be-a3b9-3368fba98bac",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Create, manage, and share multiple calendars"
+                },
+                {
+                  "name" : "Collaboration Tools",
+                  "value" : true,
+                  "id" : "97efb0d3-9a23-4408-90d4-4db1e3830fbd",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Ability to work collectively on a project while communicating and sharing information within the system in real time"
+                },
+                {
+                  "name" : "Document Management",
+                  "value" : true,
+                  "id" : "a55b34ad-b6ec-4072-b3bd-a7151f7843de",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Collect, upload, store, and share all documents in a centralized location making it easier for everyone involved to access information "
+                },
+                {
+                  "name" : "Electronic Signature",
+                  "value" : true,
+                  "id" : "129d469f-1e77-489e-ac24-45c91b5277db",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Sign a document within the system"
+                },
+                {
+                  "name" : "For Nonprofits",
+                  "value" : false,
+                  "id" : "8649d74b-9c82-4b3e-998d-8639ceec130e",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Software specialized for non-profit organizations"
+                },
+                {
+                  "name" : "Member Directory",
+                  "value" : true,
+                  "id" : "c7063ef4-072f-4b69-871a-cb2c75d335a3",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Online or printable list/directory of members (for external use)"
+                },
+                {
+                  "name" : "Minutes Management",
+                  "value" : true,
+                  "id" : "d5ccc3ad-f3aa-4520-abc1-84f480c96082",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Record and distribute meeting dates, times, attendees and agendas"
+                },
+                {
+                  "name" : "Polls/Voting",
+                  "value" : false,
+                  "id" : "e77de5ee-3e8d-409f-91d4-7a8e4519462b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Create quick polls to keep people engaged"
+                }
+              ]
+            },
+            {
+              "category_name" : "Compensation Management",
+              "category_features" : [
+                {
+                  "name" : "Activity Dashboard",
+                  "value" : true,
+                  "id" : "856ab03e-a530-4ea9-bac6-968761c9b6c6",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Benefits Management",
+                  "value" : false,
+                  "id" : "2329b8cd-5b3a-4461-8d87-4e4700c374be",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Budget Management",
+                  "value" : false,
+                  "id" : "d55a0076-7fd6-409b-b8ff-eaaa13415063",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Commission Management",
+                  "value" : false,
+                  "id" : "97cc20e3-cd5e-49e2-ae87-f63543fdfd5e",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Compensation Plan Modeling",
+                  "value" : true,
+                  "id" : "e4a7729e-396a-4e7c-a957-71409ea68f61",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Performs calculations and analyzes how salary and equity should be awarded to employees across locations, performance levels"
+                },
+                {
+                  "name" : "Compensation Statements",
+                  "value" : false,
+                  "id" : "90037d58-b74c-4f41-a514-82a02396529a",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Creates employee benefits statements that include all of a business? perks and incentives. "
+                },
+                {
+                  "name" : "Employee Database",
+                  "value" : false,
+                  "id" : "e963737d-3456-46ea-85b6-530e546f34c1",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Employee Portal",
+                  "value" : false,
+                  "id" : "8530bb24-994e-400c-93df-b3d658ead1d7",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Employee Reward Programs",
+                  "value" : true,
+                  "id" : "9367692a-4823-4c78-a314-fa6b9c929a6d",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Builds a system of rewards to encourage performance and link employee outcomes to business needs."
+                },
+                {
+                  "name" : "Incentive Management",
+                  "value" : true,
+                  "id" : "da35dbc5-7da1-4d74-86da-729594563041",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Manages incentive programs such as profit sharing, stock awards, and individual bonus plans,"
+                },
+                {
+                  "name" : "Market Data Analysis",
+                  "value" : false,
+                  "id" : "c0891fc3-0ca1-4080-a409-3ce574e3c759",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Merit/Bonus Management",
+                  "value" : false,
+                  "id" : "fab5e4c7-3b78-498f-89c6-3c24dfd7e120",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Performance Management",
+                  "value" : false,
+                  "id" : "eb784380-a0f0-4ada-a01f-e260ec286bc0",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Reporting/Analytics",
+                  "value" : false,
+                  "id" : "b0c186d0-0194-4300-abba-ca3bc2474bbe",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "View and track pertinent metrics"
+                },
+                {
+                  "name" : "Salary Planning",
+                  "value" : false,
+                  "id" : "c426a504-cc84-4b33-9f3d-467411cb6faf",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Manages salary reviews. Budgets, benchmarks and tracks all salary processes and associated costs."
+                }
+              ]
+            },
+            {
+              "category_name" : "Equity Management",
+              "category_features" : [
+                {
+                  "name" : "CRM",
+                  "value" : false,
+                  "id" : "cdf8cb63-9596-4430-bcbb-92162fc532bf",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Contact and lead management to track interactions and notes about clients and prospects"
+                },
+                {
+                  "name" : "Cap Table Management",
+                  "value" : true,
+                  "id" : "c5c85448-c8dc-4fe8-862a-0e32a853ea2b",
+                  "avg_rating" : 0.0,
+                  "cnt_rating" : 0,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Deal Management",
+                  "value" : true,
+                  "id" : "cfde73b6-2c49-4147-a715-4063f6f83092",
+                  "avg_rating" : 0.0,
+                  "cnt_rating" : 0,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Document Storage",
+                  "value" : true,
+                  "id" : "42593e12-7e64-4a46-ae75-b9c904400a7b",
+                  "avg_rating" : 3.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 0.5,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Store documents in a centralized location for easy access "
+                },
+                {
+                  "name" : "Financial Modeling",
+                  "value" : true,
+                  "id" : "676ebef1-73c7-4bb0-b19f-efadc2855bda",
+                  "avg_rating" : 3.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 1.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Options Management",
+                  "value" : true,
+                  "id" : "58607848-5388-41d7-9cda-7d56e4f87c6f",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Participant Portal",
+                  "value" : true,
+                  "id" : "0ac18222-29e5-414e-b6c9-1ea592633836",
+                  "avg_rating" : 0.0,
+                  "cnt_rating" : 0,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Portfolio Management",
+                  "value" : true,
+                  "id" : "4ebecd2d-b8a3-43a6-951e-c20c24b60105",
+                  "avg_rating" : 1.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Private Equity",
+                  "value" : false,
+                  "id" : "5de4bb00-5e86-4d40-a39e-a983e41dd124",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Public Equity",
+                  "value" : false,
+                  "id" : "91f1a1ec-b235-45ea-89d4-6d5d7c37f9b0",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Valuation Management",
+                  "value" : true,
+                  "id" : "6bbb63c9-f857-4347-9423-48b484b53830",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 0.5,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Vesting Management",
+                  "value" : true,
+                  "id" : "70c2c0a5-2e76-4913-91b0-4aeaee4e06a0",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                }
+              ]
+            },
+            {
+              "category_name" : "Financial Reporting",
+              "category_features" : [
+                {
+                  "name" : "\"What If\" Scenarios",
+                  "value" : true,
+                  "id" : "5027001d-b1f3-49b9-965f-2850e6a9aa1c",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "A type of technique planning that allows businesses to input variables to forecast potential outcomes"
+                },
+                {
+                  "name" : "Access Controls/Permissions",
+                  "value" : true,
+                  "id" : "12cc6bf7-4736-4dfe-bbf9-4d93ec5d227d",
+                  "avg_rating" : 0.0,
+                  "cnt_rating" : 0,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Define levels of authorization for access to specific files/folders"
+                },
+                {
+                  "name" : "Audit Trail",
+                  "value" : true,
+                  "id" : "554b6509-32cb-41ed-a6ae-7571e49eb6e5",
+                  "avg_rating" : 0.0,
+                  "cnt_rating" : 0,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Track changes and view date/time records"
+                },
+                {
+                  "name" : "Budgeting/Forecasting",
+                  "value" : true,
+                  "id" : "b1730056-5193-46b9-9ce6-ae64ac3bbf6b",
+                  "avg_rating" : 1.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track actual spending to ensure it's in line with the budget and estimate future finances"
+                },
+                {
+                  "name" : "Cash Management",
+                  "value" : false,
+                  "id" : "4c1b745f-fe1e-4baa-bb19-f2b09961407c",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "The collection, handling, management and usage of an organization's funds"
+                },
+                {
+                  "name" : "Consolidation/Roll-Up",
+                  "value" : false,
+                  "id" : "109806f3-ade0-4c41-b41b-71edf8947585",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Combine and merge loans, assets, liabilities, and other financial data and items into one entity for reporting purposes"
+                },
+                {
+                  "name" : "Data Import/Export",
+                  "value" : true,
+                  "id" : "11e13892-ecfe-4251-abcd-112d84a38214",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Import and export information and reports to and from the program"
+                },
+                {
+                  "name" : "General Ledger",
+                  "value" : true,
+                  "id" : "0e3dba87-295c-4e2a-8bf4-55ee72c9210b",
+                  "avg_rating" : 2.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 0.5,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Centralized accounting record which tracks all financial transactions"
+                },
+                {
+                  "name" : "Income & Balance Sheet",
+                  "value" : false,
+                  "id" : "8f803c03-c00d-43fc-a648-25c88cf900fa",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "A statement detailing the financial position of a business including assets, liabilities, and equity at a certain point in time"
+                },
+                {
+                  "name" : "Multi-Company",
+                  "value" : false,
+                  "id" : "5bed3f96-7852-407c-b882-bc872abebdd6",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Manage the accounting and financial aspects of multiple locations or companies in a single location"
+                },
+                {
+                  "name" : "Profit/Loss Statement",
+                  "value" : false,
+                  "id" : "831bb253-e754-4f0c-a43e-323de24b78a2",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "A type of financial statement used to record and report an organization?s revenues, costs, and expenses over a specific amount of time"
+                }
+              ]
+            },
+            {
+              "category_name" : "Financial Risk Management",
+              "category_features" : [
+                {
+                  "name" : "Compliance Management",
+                  "value" : true,
+                  "id" : "067f6bae-1749-483f-ac79-6c2c3c4114c8",
+                  "avg_rating" : 0.0,
+                  "cnt_rating" : 0,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Track and manage non-adherence to policies in a service, product, process, or supplier behavior"
+                },
+                {
+                  "name" : "Credit Risk Management",
+                  "value" : false,
+                  "id" : "d187af4f-f74d-45c0-9b14-ad9c5c04a035",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "For Hedge Funds",
+                  "value" : false,
+                  "id" : "7fbbdcd0-b5d0-4ed1-8fc5-c8351aac5bc6",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Liquidity Analysis",
+                  "value" : true,
+                  "id" : "d5c4e26b-3313-4574-85bf-b4dcde93acc8",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Loan Portfolio Management",
+                  "value" : false,
+                  "id" : "c6853ab1-3c3f-4020-8ae0-511f042f0d64",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Market Risk Management",
+                  "value" : false,
+                  "id" : "9bf4280e-8d70-40cc-a2c5-ae133405e669",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Operational Risk Management",
+                  "value" : true,
+                  "id" : "113b70ce-3dd6-4833-93ce-ef5700d57066",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Portfolio Management",
+                  "value" : true,
+                  "id" : "4ebecd2d-b8a3-43a6-951e-c20c24b60105",
+                  "avg_rating" : 1.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Portfolio Modeling",
+                  "value" : true,
+                  "id" : "00337a34-f1b8-491d-ae7c-cd9dde476ffc",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Reporting/Analytics",
+                  "value" : false,
+                  "id" : "b0c186d0-0194-4300-abba-ca3bc2474bbe",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : "Assemble and deliver relevant data points"
+                },
+                {
+                  "name" : "Risk Analytics",
+                  "value" : false,
+                  "id" : "a37b0294-db14-45a8-b0b3-9d0bc573d24e",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : "Metrics to analyze potential issues that could negatively impact organization"
+                },
+                {
+                  "name" : "Stress Tests",
+                  "value" : false,
+                  "id" : "9fd67230-9747-47b4-8a5f-975eb54c0025",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                }
+              ]
+            },
+            {
+              "category_name" : "Fund Accounting",
+              "category_features" : [
+                {
+                  "name" : "Accounts Payable",
+                  "value" : false,
+                  "id" : "3decc02b-c1e0-4c1d-a79c-953a7360728b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Accounts Receivable",
+                  "value" : false,
+                  "id" : "d3b8385b-3412-4086-b970-a326be6316c2",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Activity Dashboard",
+                  "value" : true,
+                  "id" : "856ab03e-a530-4ea9-bac6-968761c9b6c6",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Bank Reconciliation",
+                  "value" : false,
+                  "id" : "60d1a3f0-5e00-4b35-a2ab-8b65e17ebc4d",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Budgeting/Forecasting",
+                  "value" : true,
+                  "id" : "b1730056-5193-46b9-9ce6-ae64ac3bbf6b",
+                  "avg_rating" : 1.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Compliance Management",
+                  "value" : true,
+                  "id" : "067f6bae-1749-483f-ac79-6c2c3c4114c8",
+                  "avg_rating" : 0.0,
+                  "cnt_rating" : 0,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Track and manage non-adherence to policies in a service, product, process, or supplier behavior"
+                },
+                {
+                  "name" : "Donation Tracking",
+                  "value" : false,
+                  "id" : "0349e7f4-be87-4c2b-af18-7b2dde71c75d",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Donor Management",
+                  "value" : false,
+                  "id" : "66b3ffe9-81de-40fb-8d7d-a2800afd65e0",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Financial Management",
+                  "value" : false,
+                  "id" : "fc815203-a56a-487e-bf87-85a63b7216d4",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Financial Reporting",
+                  "value" : true,
+                  "id" : "ff3d940d-b593-4698-89a5-0fe000349b73",
+                  "avg_rating" : 2.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 0.5,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Fund Management",
+                  "value" : true,
+                  "id" : "e3d57c0f-9123-4c4b-b700-8a6323b4bb93",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "General Ledger",
+                  "value" : true,
+                  "id" : "0e3dba87-295c-4e2a-8bf4-55ee72c9210b",
+                  "avg_rating" : 2.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 0.5,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Partnership Accounting",
+                  "value" : false,
+                  "id" : "28b361f2-0bb5-444d-8ea6-cedf0b845fec",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Purchasing & Receiving",
+                  "value" : false,
+                  "id" : "36b48f1e-4461-4aba-ab95-0558764f1cea",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Reporting & Statistics",
+                  "value" : false,
+                  "id" : "11226b4a-a4a9-436a-8dce-fb552aef6162",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : null
+                }
+              ]
+            }
+          ],
+          "infographics" : [ ],
+          "related_products" : [
+            {
+              "product_id" : 213530,
+              "seo_product_id" : 213530,
+              "seo_slug" : "Mint",
+              "vendor_name" : "Intuit",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/b3cf65f0-646f-4358-b0f4-21d9d8bf3c8d.jpeg",
+              "rating" : 4.5,
+              "total_reviews" : 109,
+              "slug" : "Mint",
+              "product_name" : "Mint",
+              "short_desc" : "Financial management solution that helps create budgets, track investments, manage bills & receive reminders for upcoming payments.",
+              "features" : "Mint is a free online money management tool that helps you budget, track spending, and monitor your credit score. Mint pulls all of your financial accounts into one place so you can finally get a complete picture of where your money is going.",
+              "url" : "https://www.mint.com/"
+            },
+            {
+              "product_id" : 144844,
+              "seo_product_id" : 144844,
+              "seo_slug" : "Foundersuite",
+              "vendor_name" : "Foundersuite",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/374a6480-1c85-44f9-a785-a37979c99a90.png",
+              "rating" : 4.7,
+              "total_reviews" : 102,
+              "slug" : "Foundersuite",
+              "product_name" : "Foundersuite",
+              "short_desc" : "SOFTWARE FOR RAISING ANGEL, SEED, PE & VC. Foundersuite makes the leading Investor CRM + Investor Database and Investor Update tools.",
+              "features" : "THIS SOFTWARE IS BEST FOR COMPANIES RAISING SEED, VENTURE CAPITAL or PRIVATE EQUITY (AND FOR CONSULTANTS & INVESTMENT BANKERS HELPING THEM RAISE). Foundersuite makes software for raising capital and managing investors. Foundersuite's product line includes the industry-leading Investor CRM. This CRM sits on top of a database of 141,000+ investors to help you build your funnel. Foundersuite also includes Pitch Deck Hosting and Investor Update tools to help run investor outreach and relations. ",
+              "url" : "http://www.foundersuite.com/"
+            },
+            {
+              "product_id" : 169850,
+              "seo_product_id" : 233820,
+              "seo_slug" : "IMS-Platform",
+              "vendor_name" : "RealPage",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/778a09a6-64e5-4a1a-823c-75fe782633a0.png",
+              "rating" : 4.6,
+              "total_reviews" : 78,
+              "slug" : "IMS-Platform",
+              "product_name" : "RealPage IMS",
+              "short_desc" : "Visibility, Delivered. Status Quo, Shattered.   ",
+              "features" : "RealPage IMS an end-to-end, fully integrated platform designed for real estate. The web-based platform provides automated Waterfall Distribution Processing, Investor Dashboards, CRM, Document Sharing,Investor Statements and more. We focus on creating investor transparency and engagement by providing performance dashboards, investor portals, document dissemination, and a centralized location for new offerings.",
+              "url" : "https://www.investormanagementservices.com/?capterra=capterra"
+            },
+            {
+              "product_id" : 186948,
+              "seo_product_id" : 186948,
+              "seo_slug" : "AppFolio-Investment-Management",
+              "vendor_name" : "AppFolio",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e0ba4fa5-f678-4f5f-9789-5fdc40f2188f.png",
+              "rating" : 4.7,
+              "total_reviews" : 72,
+              "slug" : "AppFolio-Investment-Management",
+              "product_name" : "AppFolio Investment Management",
+              "short_desc" : "AppFolio Investment Management is a real estate software partner that streamlines your investor experiences and investment operations.",
+              "features" : "AppFolio Investment Management is commercial real estate software that maximizes your returns, reduces overhead, & simplifies your investment operations.\n\nIn other words, we are:\n\nA digital platform that creates repeat investors and accelerates capital raises at scale.\n\nA streamlined workflow that automates your investment operations while adding an extra layer of accuracy and security.\n\nA single source of truth that fuels thoughtful transparency for your teams and investors.",
+              "url" : "https://learn.appfolioinvestmentmanagement.com/im/lp/sem/sem.html?utm_source=capterra&utm_medium=ppl&utm_campaign=im-ppl-capterra-investment"
+            },
+            {
+              "product_id" : 79570,
+              "seo_product_id" : 76868,
+              "seo_slug" : "Qube-Global-Software",
+              "vendor_name" : "MRI Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/de969c59-eb85-4d3f-bb40-51a9e1f99a3e.png",
+              "rating" : 4.3,
+              "total_reviews" : 72,
+              "slug" : "MRI-Software",
+              "product_name" : "MRI Software",
+              "short_desc" : "With MRI, make competitive, comprehensive, and strategic decisions with technology tailored for real estate investment management.",
+              "features" : "Follow the money throughout the real estate property investment lifecycle. MRI Software provides a comprehensive and connected suite of real estate property investment management solutions. \r\nAs your real estate property investment grows, manage financial reporting and minimize risk exposure with treasury debt management - all part of the MRI Software Property Investment Financial Tool set.",
+              "url" : "https://info.mrisoftware.com/capterra-mri-software-investment-management-software"
+            },
+            {
+              "product_id" : 181042,
+              "seo_product_id" : 181042,
+              "seo_slug" : "Stessa",
+              "vendor_name" : "Stessa",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/b683aec6-3706-4067-98cb-e47cb3676798.png",
+              "rating" : 4.8,
+              "total_reviews" : 70,
+              "slug" : "Stessa",
+              "product_name" : "Stessa",
+              "short_desc" : "Stessa is smart accounting software for real estate investors with rental properties.",
+              "features" : "Stessa is smart-yet-simple accounting software for real estate investors with rental properties. Stessa helps landlords like you to save valuable time, maximize your profits and optimize your portfolio with powerful features: personalized performance dashboards, automated income and expense tracking, tenant ledger, document organization, tax-ready financial reports and more. Tens of thousands of investors use Stessa to track over $25 billion in real estate assets - 100% free to try.",
+              "url" : "https://www.stessa.com/?utm_source=capterra&utm_medium=cpc&utm_campaign=investment-management-category&utm_content=visit-website"
+            },
+            {
+              "product_id" : 171269,
+              "seo_product_id" : 171269,
+              "seo_slug" : "Juniper-Square",
+              "vendor_name" : "Juniper Square",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/53816717-65c1-4d1a-b514-47ea34d5bc70.png",
+              "rating" : 4.9,
+              "total_reviews" : 60,
+              "slug" : "Juniper-Square",
+              "product_name" : "Juniper Square",
+              "short_desc" : "Juniper Square provides a system for GPs and their LPs to seamlessly connect and communicate across every stage of their partnership.",
+              "features" : "Juniper Square is the leader in partnership enablement for the private funds industry, offering a universal system for GPs and their LPs to seamlessly connect and communicate across every stage of their partnerships. Juniper Square empowers investment managers to accelerate fundraising, scale operations efficiently, and improve investor satisfaction. More than 1,700 GPs rely on Juniper Square to manage more than 300,000 LPs in more than 24,000 private funds.  ",
+              "url" : "https://pages.junipersquare.com/request-call.html?utm_source=capterra&utm_medium=paid&utm_content=demo&utm_campaign=Investment-Management"
+            },
+            {
+              "product_id" : 179454,
+              "seo_product_id" : 179454,
+              "seo_slug" : "HiddenLevers",
+              "vendor_name" : "HiddenLevers",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/91b71c4a-6486-47c2-9d3f-ba99cb737138.png",
+              "rating" : 4.3,
+              "total_reviews" : 58,
+              "slug" : "HiddenLevers",
+              "product_name" : "HiddenLevers",
+              "short_desc" : "Comprehensive portfolio analytics and cutting-edge macro scenario stress testing for financial advisors and asset managers.  ",
+              "features" : "HiddenLevers is a risk technology platform providing next-level applications for the wealth management space. With over $500 billion in assets on our platform, HiddenLevers offers client-facing and home office solutions aimed at executives, financial advisors, asset managers, and portfolio managers. The cloud-based platform includes a cutting-edge macro-scenario library portfolio stress testing, model construction, investment proposal generation, and enterprise risk and revenue monitoring.",
+              "url" : "https://info.gartnerdigitalmarkets.com/hiddenlevers-gdm-lp/?category=investment-management"
+            },
+            {
+              "product_id" : 169054,
+              "seo_product_id" : 54588,
+              "seo_slug" : "Backstop",
+              "vendor_name" : "Backstop Solutions Group",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/2d54d9b7-1056-42fc-bd4f-2336e68710b2.png",
+              "rating" : 4.3,
+              "total_reviews" : 37,
+              "slug" : "Backstop",
+              "product_name" : "Backstop",
+              "short_desc" : "Backstop Solutions offers cloud-based productivity solutions for institutional investment firms and alternative asset managers.",
+              "features" : "Backstop's powerful, easy-to-use investment management software is tailor-made for institutional and alternative investment management professionals who are overwhelmed by the amount of data flowing into their inboxes and filing cabinets. Backstop's award-winning and industry-leading productivity suite incorporates the most essential tools for managing portfolios, monitoring research, performing IDD/ODD, raising capital, and servicing investors. ",
+              "url" : "https://www.backstopsolutions.com/resources/e-book-top-time-wasters-for-institutional-investors"
+            },
+            {
+              "product_id" : 236476,
+              "seo_product_id" : 236475,
+              "seo_slug" : "Certent-Equity-Management",
+              "vendor_name" : "insightsoftware",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/c64813e7-5d97-4fe1-b282-6db9121c06d0.png",
+              "rating" : 4.4,
+              "total_reviews" : 27,
+              "slug" : "Certent-Equity-Management",
+              "product_name" : "Certent Equity Management",
+              "short_desc" : "Streamline cap table & equity management, tighten compliance, minimize risk, improve productivity. It's life beyond the spreadsheet.",
+              "features" : "Certent Cap Table and Equity Management software and services offer everything private and public companies need to manage, administer, account for, and report on equity compensation plans, including the most comprehensive accounting calculations and in-depth stock plan reporting on the market. With Certent Equity Management's participant/shareholder portal, administrative role, and console, you can streamline equity compensation processes, and tighten compliance across the entire organization. ",
+              "url" : "https://insightsoftware.com/certent/equity-management-software/?utm_medium=cpl"
+            }
+          ],
+          "similar_products" : [
+            {
+              "product_id" : 186948,
+              "seo_product_id" : 186948,
+              "seo_slug" : "AppFolio-Investment-Management",
+              "vendor_name" : "AppFolio",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e0ba4fa5-f678-4f5f-9789-5fdc40f2188f.png",
+              "rating" : 4.7,
+              "total_reviews" : 72,
+              "slug" : "AppFolio-Investment-Management",
+              "product_name" : "AppFolio Investment Management",
+              "short_desc" : "AppFolio Investment Management is a real estate software partner that streamlines your investor experiences and investment operations.",
+              "features" : "AppFolio Investment Management is commercial real estate software that maximizes your returns, reduces overhead, & simplifies your investment operations.\n\nIn other words, we are:\n\nA digital platform that creates repeat investors and accelerates capital raises at scale.\n\nA streamlined workflow that automates your investment operations while adding an extra layer of accuracy and security.\n\nA single source of truth that fuels thoughtful transparency for your teams and investors.",
+              "url" : "https://learn.appfolioinvestmentmanagement.com/im/lp/sem/sem.html?utm_source=capterra&utm_medium=ppl&utm_campaign=im-ppl-capterra-investment"
+            },
+            {
+              "product_id" : 179921,
+              "seo_product_id" : 179921,
+              "seo_slug" : "Truequity",
+              "vendor_name" : "Diligent",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/194536fd-17e9-4562-ab64-21089bec828f.png",
+              "rating" : 3.7,
+              "total_reviews" : 12,
+              "slug" : "Truequity",
+              "product_name" : "Diligent Equity",
+              "short_desc" : "EquityEffect is the only fully-integrated portfolio and cap table management platform venture capital firms will ever need.",
+              "features" : "EquityEffect (a Diligent Brand) is the only fully-integrated portfolio and cap table management platform venture capital firms will ever need. Our software will provide a single source of truth view across all your portfolio company cap tables and KPIs. Easily run waterfalls and scenario models to gain visibility into the performance of all their investments, companies, and funds.\n\nSay goodbye to sloppy data, and enjoy an accurate view of your fund performance.",
+              "url" : "https://www.equityeffect.com/investment-management-software/?utm_campaign=EQU-GL-CA-YOY-Gartner&utm_medium=review-site&utm_source=capterra"
+            },
+            {
+              "product_id" : 248341,
+              "seo_product_id" : 248341,
+              "seo_slug" : "Yardi-Investment-Manager",
+              "vendor_name" : "Yardi Systems",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/ea9cb7f6-e6e1-4200-a441-91532580682b.png",
+              "rating" : 0.0,
+              "total_reviews" : 0,
+              "slug" : "Yardi-Investment-Manager",
+              "product_name" : "Yardi Investment Manager",
+              "short_desc" : "A complete solution to track capital, manage new investment opportunities and provide investors with a branded portal.",
+              "features" : "Yardi Investment Manager is a complete platform for managing relations with current and prospective investors, tracking capital transactions and  insights into investment metrics. A branded investor portal provides timely access to data, operating and capital expenses, documents, and reports. For your compliance concerns, an entire audit trail of activity and communications. Adopt Investment Manager alone or connect it with Yardi Voyager or Yardi Breeze Premier to remove disparate data systems.",
+              "url" : "https://info.yardi.com/im-gartner"
+            },
+            {
+              "product_id" : 208919,
+              "seo_product_id" : 175684,
+              "seo_slug" : "AdvisorEngine",
+              "vendor_name" : "AdvisorEngine",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/56abbf0e-fb8a-427d-bc2e-a51e9c2c5c41.png",
+              "rating" : 5.0,
+              "total_reviews" : 2,
+              "slug" : "AdvisorEngine",
+              "product_name" : "AdvisorEngine",
+              "short_desc" : "A complete wealth management platform with everything you need to run your firm. Robust custodian and technology integrations. ",
+              "features" : "All-In-One advisor platform with client onboarding, portfolio management, CRM, compliance, reporting, billing, reporting and more. Robust custodian and technology integrations. AdvisorEngine serves to investment advisors, brokerage firms, and banks.",
+              "url" : "https://www.advisorengine.com/best-wealth-management-software?utm_source=capterra&utm_medium=ppc&utm_campaign=capterraplatform"
+            },
+            {
+              "product_id" : 173106,
+              "seo_product_id" : 265569,
+              "seo_slug" : "Covercy",
+              "vendor_name" : "Covercy",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e700cdd3-5b8c-4d8c-9b4f-95551e5b2752.png",
+              "rating" : 4.3,
+              "total_reviews" : 7,
+              "slug" : "Covercy",
+              "product_name" : "Covercy",
+              "short_desc" : "The first investment management platform with integrated financial services for commercial real estate investment firms. ",
+              "features" : "Commercial real estate (CRE) investment firms use Covercy to grow AUM while maintaining critical efficiency.\n\nInvestment management software with powerful financial services at its core enable GPs to:\n\n- Distribute funds in minutes\n- Issue and auto-collect capital calls, and \n- Engage HNW & family office investors with an Investor Portal\n",
+              "url" : "https://info.gartnerdigitalmarkets.com/covercy-gdm-lp/?utm_campaign=listing"
+            },
+            {
+              "product_id" : 171269,
+              "seo_product_id" : 171269,
+              "seo_slug" : "Juniper-Square",
+              "vendor_name" : "Juniper Square",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/53816717-65c1-4d1a-b514-47ea34d5bc70.png",
+              "rating" : 4.9,
+              "total_reviews" : 60,
+              "slug" : "Juniper-Square",
+              "product_name" : "Juniper Square",
+              "short_desc" : "Juniper Square provides a system for GPs and their LPs to seamlessly connect and communicate across every stage of their partnership.",
+              "features" : "Juniper Square is the leader in partnership enablement for the private funds industry, offering a universal system for GPs and their LPs to seamlessly connect and communicate across every stage of their partnerships. Juniper Square empowers investment managers to accelerate fundraising, scale operations efficiently, and improve investor satisfaction. More than 1,700 GPs rely on Juniper Square to manage more than 300,000 LPs in more than 24,000 private funds.  ",
+              "url" : "https://pages.junipersquare.com/request-call.html?utm_source=capterra&utm_medium=paid&utm_content=demo&utm_campaign=Investment-Management"
+            },
+            {
+              "product_id" : 128748,
+              "seo_product_id" : 128748,
+              "seo_slug" : "AIM",
+              "vendor_name" : "Altvia Solutions",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/bea239c3-8041-439b-aaea-158798f8c55c.png",
+              "rating" : 4.8,
+              "total_reviews" : 11,
+              "slug" : "AIM",
+              "product_name" : "AIM",
+              "short_desc" : "Unleash the power of your data and relationships: Manage fundraising, deal flow, and operations. For Alternative Investments.",
+              "features" : "AIM, the premier Private Equity solution on the Salesforce platform, enables you to consolidate your data into one central system for operational efficiency and optimize workflows to scale for growth. AIM is Lightning-ready with a clean and simple user interface designed for ease-of-use and speed. With AIM, you gain the foundation to build your firm-wide technology solution to harness the power of your data and give you an informational edge that puts you years ahead of your competition.",
+              "url" : "https://info.gartnerdigitalmarkets.com/altvia-gdm-lp/?utm_campaign=capterra_demo&utm_medium=link&utm_content=demo"
+            },
+            {
+              "product_id" : 171904,
+              "seo_product_id" : 171904,
+              "seo_slug" : "Eze-Investment-Suite",
+              "vendor_name" : "Eze Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/56382b6a-cbc9-4336-bb90-bbdb7b87cbdd.png",
+              "rating" : 0.0,
+              "total_reviews" : 0,
+              "slug" : "Eze-Investment-Suite",
+              "product_name" : "Eze Investment Suite",
+              "short_desc" : "Eze products, by design, solve clients' unique and growing needs with highly configurable, expansive, and integrated software.",
+              "features" : "SS&C Eze's award-winning Investment Suite features a set of fully integrated applications that provide first-class asset management functionality to streamline the investment lifecycle. Applications can be combined together for a seamless front-to-back workflow, used standalone, or integrated with other third-party systems.",
+              "url" : "https://info.ezesoft.com/eze-investment-suite"
+            },
+            {
+              "product_id" : 239752,
+              "seo_product_id" : 239752,
+              "seo_slug" : "Origin",
+              "vendor_name" : "Altrio",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4cd683d2-b245-4226-bd40-b7cb38a67e48.jpeg",
+              "rating" : 0.0,
+              "total_reviews" : 0,
+              "slug" : "Origin",
+              "product_name" : "Origin",
+              "short_desc" : "Origin is a powerful, data driven real estate deal management platform for teams of any size. ",
+              "features" : "Optimize your investment process, screen and\nunderwrite deals faster to build a winning portfolio with Origin by Altrio.\n\nOrigin helps you consolidate information from memos,\nbrochures and emails without any manual data entry,\ncreating a proprietary deal and asset database that can\ngive you an edge when analyzing deals. \n\nInstantly access relevant and reliable real estate market,\ncapital market, economic and demographic information, helping to complete and accurate picture of every investment.",
+              "url" : "https://altrio.com/real-estate-investment-software?utm_medium=ppc&utm_campaign=origin&utm_term=commercialrealestate"
+            },
+            {
+              "product_id" : 173300,
+              "seo_product_id" : 173300,
+              "seo_slug" : "The-CRE-Suite",
+              "vendor_name" : "CREModels",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/a73bf4a9-5bd9-41bb-a6c3-fe5b8695e368.png",
+              "rating" : 5.0,
+              "total_reviews" : 2,
+              "slug" : "The-CRE-Suite",
+              "product_name" : "The CRE Suite ",
+              "short_desc" : "Investment real estate platform for acquisitions, development, asset management and investor reporting.",
+              "features" : "Use the only platform built from the ground up to streamline real world real estate transactions and business processes. Designed to reduce time to execute and provide unique data insights, the CRE Suite delivers interactive online tools and a flexible modeling framework that allow you to crush the competition. The CRE Suite provides consistency, security, and adaptability not found anywhere else.",
+              "url" : "https://lp.cremodels.com/the-cre-suite-capterra/"
+            },
+            {
+              "product_id" : 110568,
+              "seo_product_id" : 30368,
+              "seo_slug" : "FundCount",
+              "vendor_name" : "FundCount",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/dc2b6c9c-11bd-472d-b1de-dbe1d519ff27.png",
+              "rating" : 4.6,
+              "total_reviews" : 7,
+              "slug" : "FundCount",
+              "product_name" : "FundCount",
+              "short_desc" : "Investment management software for family offices, hedge funds, private equity, fund administrators with integrated partnership and G/L",
+              "features" : "FundCount's portfolio & partnership accounting software tracks, analyzes and reports the value of complex investments across portfolios. An integrated multicurrency G/L and automated workflow tools, including direct feeds with brokers/custodians, improve operational efficiency. The software supports a wide range of asset types and portfolio measurement methodologies. FundCount brings speed, accuracy and analytical insight to your firm.",
+              "url" : "https://fundcount.com/?utm_source=capterra.com&utm_medium=cpc&utm_campaign=main"
+            },
+            {
+              "product_id" : 179626,
+              "seo_product_id" : 179626,
+              "seo_slug" : "Investor-Portal",
+              "vendor_name" : "Vantage",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/f31c6f86-8f7e-49b4-ab7f-71383d1005b8.png",
+              "rating" : 4.9,
+              "total_reviews" : 10,
+              "slug" : "Investor-Portal",
+              "product_name" : "Vantage Software",
+              "short_desc" : "First Rate Vantage manages the fund lifecycle including fundraising, deal flow management, capital calls, distribution, and reporting.",
+              "features" : "First Rate Vantage helps manage the entire fund lifecycle including fundraising, deal flow management, capital calls, distribution, and reporting. Replace cumbersome and error-prone spreadsheets with automated portfolio accounting software that ensures greater efficiency in managing complex accounting, waterfall structures, fees, and reporting of investments. Our portal gives instant visibility into fund holdings, transactions, KPIs, performance, and other information that keeps you \"in the know",
+              "url" : "https://info.gartnerdigitalmarkets.com/vantage-gdm-lp/?category=default&utm_medium=cpc&utm_campaign=extdirre"
+            },
+            {
+              "product_id" : 227581,
+              "seo_product_id" : 227581,
+              "seo_slug" : "SourceScrub",
+              "vendor_name" : "SourceScrub",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/3fc8851a-e9e5-4388-bfaa-7473ac03e46f.png",
+              "rating" : 4.7,
+              "total_reviews" : 12,
+              "slug" : "SourceScrub",
+              "product_name" : "SourceScrub",
+              "short_desc" : "Our mission is to help customers find, research, and connect with privately held companies - using data to transform the M&A industry.",
+              "features" : "SourceScrub is the world's leading data service for firms looking to research, find and connect with privately held companies. Our Private Company Intelligence platform allows  deal teams to take a data-driven approach in a traditionally opaque segment of the market. We combine state-of-the-art technology with an unmatched QA process resulting in the freshest and most accurate data set available.\t\t\t\t\t\t",
+              "url" : "https://www.sourcescrub.com/demo-request?utm_source=Capterra&utm_medium=Referral&utm_campaign=2021-LeadGen-Capterra&cid=7012M0000019ftM"
+            }
+          ],
+          "related_categories" : [
+            {
+              "functional_group" : "im",
+              "long_name" : "Banking Systems",
+              "html_name" : "banking-systems-software",
+              "link_name" : "banking-systems",
+              "product_count" : 146,
+              "meta_description" : "Find and compare top Banking Systems software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Banking Systems tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/banking-systems-software>Banking Systems software</a> enables the management, monitoring, and control of transactions for financial institutions and banks.  Private banks and mutual fund administrators, as well as other wealth management firms, utilize Banking Systems applications to provide front office services, as well as back office functions such as customer account tracking, credit approval, financial accounting and information system integration.  <a href=/banking-systems-software>Banking Systems software</a> is related to <a href=/financial-risk-management-software>Financial Risk Management software</a>, <a href=/investment-management-software>Investment Management software</a>, <a href=/loan-origination-software>Loan Origination software</a> and <a href=/loan-servicing-software>Loan Servicing software</a>."
+            },
+            {
+              "functional_group" : "im",
+              "long_name" : "Hedge Fund",
+              "html_name" : "hedge-fund-software",
+              "link_name" : "hedge-fund",
+              "product_count" : 58,
+              "meta_description" : "Find and compare top Hedge Fund software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Hedge Fund tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/hedge-fund-software\">Hedge Fund software</a> provides fund performance analysis as well as back-office accounting and client management tools for hedge fund managers.  Features include solutions for operational, accounting, tracking, reporting, and valuation aspects of hedge funds.  This type of software can also analyze fund volatility and forecast returns to aid in decision making.  <a href=\"/hedge-fund-software\">Hedge Fund software</a> is related to <a href=\"/investment-management-software\">Investment Management software</a>, <a href=\"/banking-systems-software\">Banking Systems software</a>, <a href=\"/financial-risk-management-software\">Financial Risk Management software</a>, and <a href=\"/financial-fraud-detection-software\">Financial Fraud Detection software</a>."
+            }
+          ],
+          "is_upgraded" : false,
+          "enabled" : true,
+          "filter_options" : {
+            "users" : 127,
+            "platform" : 901,
+            "pricing_options" : 12,
+            "category_related_features" : [
+              19036,
+              19038,
+              19049,
+              19059,
+              19061,
+              19062,
+              37734,
+              40328,
+              52894,
+              52896,
+              52901,
+              52905,
+              52906,
+              52907,
+              52910,
+              52913,
+              52917,
+              52920
+            ],
+            "employees" : 127
+          },
+          "sort_options" : {
+            "sort_review_rating" : 4.287652969360352,
+            "most_recent_review" : "2022-07-10T16:33:33Z"
+          },
+          "countries" : "US",
+          "features_tokenized_text" : "accounting benchmarking compliance_tracking data_import/export fund_management performance_metrics risk_management",
+          "platform_tokenized_text" : "cloud,saas,web-based desktopwindows mobileandroid mobileiphone mobileipad",
+          "users_tokenized_text" : "1 2-10 11-50 51-200 201-500 501-1000 1000+",
+          "pricing_tokenized_text" : "annualsubscription free",
+          "badges" : [ ],
+          "bid_spot_us" : 0.0,
+          "currency_code" : "USD",
+          "currency_symbol" : "$",
+          "credit_card_required" : null,
+          "licensing_model" : null,
+          "open_api_offered" : "Yes",
+          "mobile_urls" : [
+            {
+              "name" : "Android",
+              "url" : "https://play.google.com/store/apps/details?id=com.esharesinc.android"
+            },
+            {
+              "name" : "iOS",
+              "url" : "https://itunes.apple.com/us/app/carta-manage-your-equity/id1137735263?mt=8"
+            }
+          ],
+          "integrations" : [
+            {
+              "id" : "eab58142-6040-46ce-9341-a6d200b7915e",
+              "name" : "Xero"
+            },
+            {
+              "id" : "44278a9e-09e7-4c4b-92d9-1a3739abe0ec",
+              "name" : "QuickBooks Online Advanced"
+            }
+          ],
+          "supported_countries" : [
+            {
+              "id" : 237,
+              "code" : "US",
+              "name" : "United States of America"
+            }
+          ],
+          "supported_languages" : [
+            {
+              "id" : 152,
+              "code" : "en",
+              "name" : "English",
+              "location" : null
+            }
+          ],
+          "target_industries" : [
+            {
+              "id" : 62,
+              "code" : "147",
+              "name" : "Industrial Automation"
+            },
+            {
+              "id" : 65,
+              "code" : "42",
+              "name" : "Insurance"
+            },
+            {
+              "id" : 33,
+              "code" : "99",
+              "name" : "Design"
+            },
+            {
+              "id" : 139,
+              "code" : "92",
+              "name" : "Transportation/Trucking/Railroad"
+            },
+            {
+              "id" : 86,
+              "code" : "126",
+              "name" : "Media Production"
+            },
+            {
+              "id" : 64,
+              "code" : "96",
+              "name" : "Information Technology and Services"
+            },
+            {
+              "id" : 46,
+              "code" : "34",
+              "name" : "Food & Beverages"
+            },
+            {
+              "id" : 1,
+              "code" : "47",
+              "name" : "Accounting"
+            },
+            {
+              "id" : 126,
+              "code" : "27",
+              "name" : "Retail"
+            },
+            {
+              "id" : 11,
+              "code" : "41",
+              "name" : "Banking"
+            },
+            {
+              "id" : 58,
+              "code" : "31",
+              "name" : "Hospitality"
+            },
+            {
+              "id" : 74,
+              "code" : "10",
+              "name" : "Legal Services"
+            },
+            {
+              "id" : 78,
+              "code" : "116",
+              "name" : "Logistics and Supply Chain"
+            },
+            {
+              "id" : 98,
+              "code" : "57",
+              "name" : "Oil & Energy"
+            },
+            {
+              "id" : 134,
+              "code" : "8",
+              "name" : "Telecommunications"
+            },
+            {
+              "id" : 120,
+              "code" : "44",
+              "name" : "Real Estate"
+            },
+            {
+              "id" : 140,
+              "code" : "59",
+              "name" : "Utilities"
+            },
+            {
+              "id" : 25,
+              "code" : "4",
+              "name" : "Computer Software"
+            },
+            {
+              "id" : 42,
+              "code" : "63",
+              "name" : "Farming"
+            },
+            {
+              "id" : 85,
+              "code" : "135",
+              "name" : "Mechanical or Industrial Engineering"
+            },
+            {
+              "id" : 63,
+              "code" : "84",
+              "name" : "Information Services"
+            },
+            {
+              "id" : 40,
+              "code" : "76",
+              "name" : "Executive Office"
+            },
+            {
+              "id" : 53,
+              "code" : "148",
+              "name" : "Government Relations"
+            },
+            {
+              "id" : 105,
+              "code" : "15",
+              "name" : "Pharmaceuticals"
+            },
+            {
+              "id" : 41,
+              "code" : "122",
+              "name" : "Facilities Services"
+            },
+            {
+              "id" : 43,
+              "code" : "43",
+              "name" : "Financial Services"
+            },
+            {
+              "id" : 7,
+              "code" : "50",
+              "name" : "Architecture & Planning"
+            },
+            {
+              "id" : 54,
+              "code" : "140",
+              "name" : "Graphic Design"
+            },
+            {
+              "id" : 84,
+              "code" : "80",
+              "name" : "Marketing and Advertising"
+            },
+            {
+              "id" : 26,
+              "code" : "48",
+              "name" : "Construction"
+            },
+            {
+              "id" : 81,
+              "code" : "11",
+              "name" : "Management Consulting"
+            },
+            {
+              "id" : 32,
+              "code" : "1",
+              "name" : "Defense & Space"
+            },
+            {
+              "id" : 35,
+              "code" : "132",
+              "name" : "E-Learning"
+            },
+            {
+              "id" : 9,
+              "code" : "53",
+              "name" : "Automotive"
+            },
+            {
+              "id" : 57,
+              "code" : "14",
+              "name" : "Hospital & Health Care"
+            },
+            {
+              "id" : 52,
+              "code" : "75",
+              "name" : "Government Administration"
+            },
+            {
+              "id" : 97,
+              "code" : "100",
+              "name" : "Non-Profit Organization Management"
+            }
+          ],
+          "price_range_id" : 1,
+          "aggregated_review_ratings" : {
+            "industry" : {
+              "6" : 4.8,
+              "84" : 3.0,
+              "44" : 4.0,
+              "14" : 3.0,
+              "80" : 5.0,
+              "43" : 3.4,
+              "42" : 4.0,
+              "132" : 5.0,
+              "30" : 4.5,
+              "118" : 3.0,
+              "27" : 5.0,
+              "100" : 5.0,
+              "8" : 4.0,
+              "126" : 4.5,
+              "4" : 4.89,
+              "106" : 3.0,
+              "25" : 4.0,
+              "24" : 5.0,
+              "12" : 4.5,
+              "96" : 4.5,
+              "86" : 1.0
+            },
+            "company_size" : {
+              "1-10 employees" : 2.83,
+              "1001-5000 employees" : 2.0,
+              "51-200 employees" : 4.81,
+              "11-50 employees" : 4.6,
+              "Self-employed" : 5.0,
+              "201-500 employees" : 4.38,
+              "501-1000 employees" : 4.71
+            }
+          },
+          "vct_enabled" : true,
+          "pricing_plans" : [
+            {
+              "created_on_utc" : "2019-08-21T14:47:39Z",
+              "modified_on_utc" : "2022-04-11T20:39:21Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Basic",
+              "description" : null,
+              "display_order" : 1,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 2800.0,
+              "ending_price" : null,
+              "pricing_model_name" : null,
+              "payment_frequency_name" : "Per Year",
+              "attributes" : [ ]
+            }
+          ],
+          "discount_types" : [ ]
+        }
+      }
+    ]
+  }
+}

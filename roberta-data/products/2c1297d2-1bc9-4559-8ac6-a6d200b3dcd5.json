@@ -1,0 +1,4254 @@
+{
+  "took" : 3,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 3,
+    "successful" : 3,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : {
+      "value" : 1,
+      "relation" : "eq"
+    },
+    "max_score" : 9.766642,
+    "hits" : [
+      {
+        "_index" : "product_listings_main_data_upc_vt20220920_043802_utc",
+        "_type" : "_doc",
+        "_id" : "133409_tasman",
+        "_score" : 9.766642,
+        "_source" : {
+          "product_id" : 133409,
+          "seo_product_id" : 133409,
+          "seo_slug" : "Everhour",
+          "product_name" : "Everhour",
+          "upc_product_uuid" : "2c1297d2-1bc9-4559-8ac6-a6d200b3dcd5",
+          "old_product_ids" : [ ],
+          "product_url" : "https://everhour.com",
+          "product_slug" : "Everhour",
+          "former_name" : "Everhour",
+          "logo_filepath" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/c8ebfe42-9fd9-49f8-9ccb-4310f9ad3932.png",
+          "vendor" : {
+            "vendor_id" : 2093983,
+            "vendor_name" : "Weavora",
+            "vendor_url" : "https://everhour.com",
+            "year_founded" : 2013,
+            "location" : "Belarus",
+            "vendor_opted_out_of_reviews" : true,
+            "is_opted_out_of_reviews" : false,
+            "is_hit_limit" : false,
+            "enabled" : true,
+            "has_vendor_level_page" : false,
+            "slug" : null,
+            "vendor_page" : false,
+            "paused_campaign" : false
+          },
+          "category_short_name" : "tasman",
+          "category_html_name" : "task-management-software",
+          "category" : {
+            "id" : 10030,
+            "short_name" : "tasman",
+            "long_name" : "Task Management",
+            "html_name" : "task-management-software",
+            "enabled" : true
+          },
+          "best_category" : "tasman",
+          "is_best_category" : true,
+          "highest_cpc_category" : null,
+          "is_highest_cpc_category" : false,
+          "short_desc" : "An all-purpose time tracker that can create and assign new tasks, set estimates, and integrate with other task management tools.\n\n",
+          "long_desc" : "Everhour is one of the top time tracking tools with task management capabilities. \nCreate new tasks, set deadlines and estimates, assign tasks to your team, break tasks into categories, add tags and sections, and use templates.\n\nIntegrate Everhour with other project management tools like Asana, Trello, Basecamp, Jira, ClickUp, Monday, GitLab, Todoist, and Notion, and power up your task management system in no time.\n\n",
+          "rating" : 4.7,
+          "number_of_reviews" : 324,
+          "total_reviews" : 316,
+          "ease_of_use_rating" : 4.6,
+          "customer_support_rating" : 4.7,
+          "functionality_rating" : 4.4,
+          "value_for_money_rating" : 4.6,
+          "recommendation_rating" : 9.0,
+          "pricing_enabled" : true,
+          "pricing" : null,
+          "is_per_user" : false,
+          "fee_schedule" : null,
+          "pricing_model" : null,
+          "pricing_details" : "Simple pricing. Start with no commitment. Try everything. Subscribe when you love it.",
+          "pricing_created_on" : "2019-08-21T14:47:39Z",
+          "pricing_modified_on" : "2022-09-15T14:09:40Z",
+          "pricing_created_by" : null,
+          "pricing_modified_by" : "Jay Tanji",
+          "pricing_vendor_pricing_url" : "https://everhour.com/pricing",
+          "free_trial" : true,
+          "free_version" : true,
+          "target_audience" : "Everhour is perfect for teams with 5 and more members.\n",
+          "target_users" : [
+            "1",
+            "2-10",
+            "11-50",
+            "51-200",
+            "201-500",
+            "501-1000",
+            "1000+"
+          ],
+          "platform" : [
+            {
+              "enabled" : true,
+              "name" : "Cloud, SaaS, Web-Based"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Mac"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Chromebook"
+            },
+            {
+              "enabled" : false,
+              "name" : "Mobile Android"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPhone"
+            },
+            {
+              "enabled" : false,
+              "name" : "Mobile iPad"
+            }
+          ],
+          "support" : [
+            {
+              "enabled" : true,
+              "name" : "Email Help Desk"
+            },
+            {
+              "enabled" : true,
+              "name" : "FAQ Forum"
+            },
+            {
+              "enabled" : true,
+              "name" : "Knowledgebase"
+            },
+            {
+              "enabled" : true,
+              "name" : "Phone Support"
+            },
+            {
+              "enabled" : false,
+              "name" : "24/7 Live Rep"
+            },
+            {
+              "enabled" : true,
+              "name" : "Chat"
+            }
+          ],
+          "training" : [
+            {
+              "enabled" : false,
+              "name" : "Not Offered"
+            },
+            {
+              "enabled" : true,
+              "name" : "In-Person"
+            },
+            {
+              "enabled" : true,
+              "name" : "Live Online"
+            },
+            {
+              "enabled" : false,
+              "name" : "Webinars"
+            },
+            {
+              "enabled" : true,
+              "name" : "Documentation"
+            },
+            {
+              "enabled" : true,
+              "name" : "Videos"
+            }
+          ],
+          "media" : [
+            {
+              "product_id" : 133409,
+              "vendor_id" : 2093983,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/dc6314f5-844e-4adb-a86e-24c4fc544758.png",
+              "caption" : "Track time spent on projects, hours of work, vacations or sick days",
+              "weight" : 1,
+              "short_name" : "tasman"
+            },
+            {
+              "product_id" : 133409,
+              "vendor_id" : 2093983,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/900da791-78b8-4125-8091-20d972dc5459.png",
+              "caption" : "Avoid debt and boost revenue with precise project billing and budgeting",
+              "weight" : 2,
+              "short_name" : "tasman"
+            },
+            {
+              "product_id" : 133409,
+              "vendor_id" : 2093983,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/b51fe10b-b540-447c-bfe6-8932b39bf5a6.png",
+              "caption" : "Project management and time tracking with our all-in-one solution",
+              "weight" : 3,
+              "short_name" : "tasman"
+            },
+            {
+              "product_id" : 133409,
+              "vendor_id" : 2093983,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/d4592c15-4d3e-48c0-9ba7-0f07d2f37a36.png",
+              "caption" : "Visual projects and employee scheduling",
+              "weight" : 4,
+              "short_name" : "tasman"
+            },
+            {
+              "product_id" : 133409,
+              "vendor_id" : 2093983,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/5bc769c0-6bde-4e50-a3d0-85b017e5b41f.png",
+              "caption" : "Your team's working hours, now more organized and easy to read",
+              "weight" : 5,
+              "short_name" : "tasman"
+            },
+            {
+              "product_id" : 133409,
+              "vendor_id" : 2093983,
+              "media_type" : "VIDEO",
+              "path_url" : "https://www.youtube.com/watch?v=WI9VlE_-oIw",
+              "caption" : null,
+              "weight" : 0,
+              "short_name" : "tasman"
+            }
+          ],
+          "links" : [
+            {
+              "product_id" : 133409,
+              "functional_group" : "tasman",
+              "html_code" : "https://everhour.com/signup",
+              "link_name" : "Free Trial",
+              "link_priority" : 1.0
+            },
+            {
+              "product_id" : 133409,
+              "functional_group" : "tasman",
+              "html_code" : "https://everhour.com/request-a-demo",
+              "link_name" : "Free Demo",
+              "link_priority" : 2.0
+            },
+            {
+              "product_id" : 133409,
+              "functional_group" : "tasman",
+              "html_code" : "https://everhour.com/pricing",
+              "link_name" : "Pricing",
+              "link_priority" : 3.0
+            },
+            {
+              "product_id" : 133409,
+              "functional_group" : "tasman",
+              "html_code" : "https://everhour.com/integrations",
+              "link_name" : "Integrations",
+              "link_priority" : 4.0
+            }
+          ],
+          "features" : [
+            {
+              "category_name" : "Task Management",
+              "category_features" : [
+                {
+                  "name" : "Assignment Management",
+                  "value" : true,
+                  "id" : "362664d4-b526-4729-a1cc-7a8abc054415",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Calendar Management",
+                  "value" : true,
+                  "id" : "10dc6d16-b8eb-47be-a3b9-3368fba98bac",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Collaboration Tools",
+                  "value" : true,
+                  "id" : "97efb0d3-9a23-4408-90d4-4db1e3830fbd",
+                  "avg_rating" : 4.5,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Provides a channel for team members to share media files, communicate, and work together"
+                },
+                {
+                  "name" : "Commenting/Notes",
+                  "value" : true,
+                  "id" : "57b304b0-9ad4-466a-abf6-22eafa0e426d",
+                  "avg_rating" : 3.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Create Subtasks",
+                  "value" : true,
+                  "id" : "8782d81b-05ec-4cdc-9e58-55fa0a3ee9a7",
+                  "avg_rating" : 0.0,
+                  "cnt_rating" : 0,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Break tasks down into individual components. Assign users/dates to subtasks."
+                },
+                {
+                  "name" : "Deadline Management",
+                  "value" : true,
+                  "id" : "af0165a0-70f9-44a0-a54b-a49c5584e412",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Drag & Drop",
+                  "value" : true,
+                  "id" : "ef4e7adb-17df-4712-bd53-957772beafad",
+                  "avg_rating" : 3.5,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Gantt/Timeline View",
+                  "value" : true,
+                  "id" : "becd74fd-22bc-49e5-ae0e-06f1c875b823",
+                  "avg_rating" : 0.0,
+                  "cnt_rating" : 0,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 0.5,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Coordinates and illustrates a project's benchmarks and dependencies"
+                },
+                {
+                  "name" : "Mobile Access",
+                  "value" : true,
+                  "id" : "15d49235-ad13-4d33-b009-edd50126375b",
+                  "avg_rating" : 3.0,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 2.33,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 5,
+                  "pct_time_used" : 0.6,
+                  "cnt_time_critical" : 5,
+                  "pct_time_critical" : 0.4,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Access the software remotely via mobile devices"
+                },
+                {
+                  "name" : "Percent-Complete Tracking",
+                  "value" : true,
+                  "id" : "c2c055d5-69e8-4bf9-89db-461355ca3b60",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 0.667,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.333,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Level of completion within a task"
+                },
+                {
+                  "name" : "Prioritization",
+                  "value" : true,
+                  "id" : "458dc3f8-8a12-455c-a55d-f3aa84ce3d14",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 1.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Recurring Tasks",
+                  "value" : true,
+                  "id" : "71a206b6-8efe-487c-b125-e1a953b84c57",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Set a task to repeat"
+                },
+                {
+                  "name" : "Reporting/Analytics",
+                  "value" : true,
+                  "id" : "b0c186d0-0194-4300-abba-ca3bc2474bbe",
+                  "avg_rating" : 4.4,
+                  "cnt_rating" : 18,
+                  "avg_importance" : 2.44,
+                  "cnt_importance" : 9,
+                  "cnt_time_used" : 11,
+                  "pct_time_used" : 0.818,
+                  "cnt_time_critical" : 11,
+                  "pct_time_critical" : 0.455,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "View and track pertinent metrics"
+                },
+                {
+                  "name" : "Search/Filter",
+                  "value" : true,
+                  "id" : "78793d42-e03e-4092-9488-ac101a2270e7",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Spreadsheet View",
+                  "value" : false,
+                  "id" : "2bce2c2f-7347-4641-8930-63a453557ddf",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "UI looks like a spreadsheet"
+                },
+                {
+                  "name" : "Task Board View",
+                  "value" : true,
+                  "id" : "abddfa96-6f32-404f-9817-70ebebee9a35",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "UI looks like task board"
+                },
+                {
+                  "name" : "Time Tracking",
+                  "value" : true,
+                  "id" : "e876e7a1-0d30-490c-b2e8-8026ed811aa7",
+                  "avg_rating" : 4.8,
+                  "cnt_rating" : 5,
+                  "avg_importance" : 2.75,
+                  "cnt_importance" : 4,
+                  "cnt_time_used" : 4,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 4,
+                  "pct_time_critical" : 0.75,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Measure time to completion or hours worked"
+                },
+                {
+                  "name" : "To-Do List",
+                  "value" : true,
+                  "id" : "ce676aa1-5de3-40ab-a426-6da576e652a2",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "UI looks like a physical to do list"
+                },
+                {
+                  "name" : "Workflow Management",
+                  "value" : true,
+                  "id" : "c4c63af2-2e9e-4f8b-b965-20e94a16a8b9",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 1.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                }
+              ]
+            },
+            {
+              "category_name" : "Billing and Invoicing",
+              "category_features" : [
+                {
+                  "name" : "Billing Portal",
+                  "value" : false,
+                  "id" : "540bcf39-796d-4c27-a92c-a37840614fc0",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Gateway through which end users can view past bills and pay current invoices"
+                },
+                {
+                  "name" : "Contact Database",
+                  "value" : true,
+                  "id" : "eec2c352-bd86-4424-9857-bd7482a539de",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Centralized database of an organization's customers and clients"
+                },
+                {
+                  "name" : "Contingency Billing",
+                  "value" : true,
+                  "id" : "2d632f3e-95ff-4065-83f8-86afc3cb6db4",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Business model where clients pay their lawyer a fee only if the case is won/settled successfully"
+                },
+                {
+                  "name" : "Customizable Invoices",
+                  "value" : true,
+                  "id" : "8bd87e50-35a0-4e79-aa37-58dd1db7f505",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 0.5,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Brand invoices with organization's logo"
+                },
+                {
+                  "name" : "Dunning Management",
+                  "value" : false,
+                  "id" : "c6159c40-70fb-4da2-8d12-79d2e1dd683b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Process of automatically notifying clients when payments fail to ensure invoices are paid"
+                },
+                {
+                  "name" : "Hourly Billing",
+                  "value" : true,
+                  "id" : "9f7eefed-261a-400a-a179-456dd63beddd",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Business model that charges based on the amount of time spent"
+                },
+                {
+                  "name" : "Mobile Payments",
+                  "value" : false,
+                  "id" : "476a5934-129d-4743-9c0f-68d8ea31622b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Clients can submit payments via mobile devices"
+                },
+                {
+                  "name" : "Multi-Currency",
+                  "value" : true,
+                  "id" : "10faf02d-213a-48db-9ec5-937d435316d5",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Manage and handle various international currencies"
+                },
+                {
+                  "name" : "Online Invoicing",
+                  "value" : true,
+                  "id" : "3e585cda-15e1-45ca-8df0-6b95eb58218a",
+                  "avg_rating" : 4.8,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : "Create, send, and view electronic invoices"
+                },
+                {
+                  "name" : "Online Payments",
+                  "value" : false,
+                  "id" : "565782b1-0836-47a8-9f38-1b7209ebe3d5",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Payment webpage where clients can pay bills"
+                },
+                {
+                  "name" : "Payment Processing",
+                  "value" : false,
+                  "id" : "aa036a7c-8608-45a0-9f5f-7649beee9dfb",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Accept, record, and reconcile financial transactions"
+                },
+                {
+                  "name" : "Project Billing",
+                  "value" : true,
+                  "id" : "f45f9d9e-1676-4bfa-bdff-84458275d192",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Business model that bills clients an amount based on the project/task/job performed"
+                },
+                {
+                  "name" : "Recurring/Subscription Billing",
+                  "value" : false,
+                  "id" : "1ffbb4d0-4c06-43d4-96fb-58e907d3035f",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Business model that bills clients repeatedly based on set amount of time"
+                },
+                {
+                  "name" : "Tax Calculation",
+                  "value" : false,
+                  "id" : "5c3d857a-faca-44cc-a5df-8d240bf4b1a0",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Location based taxes"
+                }
+              ]
+            },
+            {
+              "category_name" : "Expense Report",
+              "category_features" : [
+                {
+                  "name" : "Approval Process Control",
+                  "value" : true,
+                  "id" : "8cc73664-11fe-47ac-a43f-468a931254cb",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Streamline and manage the process of granting permission to the correct parties throughout task progression "
+                },
+                {
+                  "name" : "Corporate Card",
+                  "value" : false,
+                  "id" : "3d144657-ca9b-4551-848c-d7c1e3c1ee8c",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Manage and track credit cards that are distributed to employees to use for authorized business expenses "
+                },
+                {
+                  "name" : "Expense Tracking",
+                  "value" : true,
+                  "id" : "7ae9a957-9dc5-46d1-bee2-096e03b609b1",
+                  "avg_rating" : 4.8,
+                  "cnt_rating" : 5,
+                  "avg_importance" : 2.33,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 4,
+                  "pct_time_used" : 0.75,
+                  "cnt_time_critical" : 4,
+                  "pct_time_critical" : 0.25,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Mobile Receipt Upload",
+                  "value" : true,
+                  "id" : "8e2ac109-5938-45c5-94d5-b70ae8f2b6bc",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Scan and upload receipts to a central database using a mobile device"
+                },
+                {
+                  "name" : "Multi-Currency",
+                  "value" : true,
+                  "id" : "10faf02d-213a-48db-9ec5-937d435316d5",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Manage and handle various international currencies"
+                },
+                {
+                  "name" : "Receipt Management",
+                  "value" : true,
+                  "id" : "4457f5d1-2616-472e-9e0b-5f47e9f165f4",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Upload, track, and submit receipts in a central database"
+                },
+                {
+                  "name" : "Reimbursement Management",
+                  "value" : false,
+                  "id" : "967ede9d-2152-422b-a486-290819fb6be8",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Manage compensation for out-of-pocket expenses incurred by an employee, client or another party"
+                },
+                {
+                  "name" : "Spend Control",
+                  "value" : true,
+                  "id" : "895303aa-0d9e-412b-9711-78bb479f58e1",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Set allowances and ensure employees don't spend more than the allotted amounts "
+                },
+                {
+                  "name" : "Time & Expense Tracking",
+                  "value" : true,
+                  "id" : "7f857699-1d74-40b8-a398-ec13b59ea507",
+                  "avg_rating" : 4.9,
+                  "cnt_rating" : 7,
+                  "avg_importance" : 2.67,
+                  "cnt_importance" : 6,
+                  "cnt_time_used" : 6,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 6,
+                  "pct_time_critical" : 0.667,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Measure time to completion or hours worked"
+                },
+                {
+                  "name" : "Workflow Management",
+                  "value" : true,
+                  "id" : "c4c63af2-2e9e-4f8b-b965-20e94a16a8b9",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 1.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Create, design, and automate processes within the software"
+                }
+              ]
+            },
+            {
+              "category_name" : "Gantt Chart",
+              "category_features" : [
+                {
+                  "name" : "Alerts/Notifications",
+                  "value" : true,
+                  "id" : "aef68b72-bd4c-4797-ae8c-4735512de81a",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Alerts/notifications within the system"
+                },
+                {
+                  "name" : "Capacity Management",
+                  "value" : false,
+                  "id" : "3aa04db7-fc1e-40ad-a279-4ed02aecb681",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Monitor/analyze service demand and performance to plan for adequate resources to meet current/future business requirements"
+                },
+                {
+                  "name" : "Color Codes/Icons",
+                  "value" : true,
+                  "id" : "a6163949-fff1-4bbf-83db-20d7e5902e65",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "A way to visually represent data where different categories of items are marked with different colors "
+                },
+                {
+                  "name" : "Dependency Tracking",
+                  "value" : false,
+                  "id" : "e2d2b58c-f6ca-42f8-b08d-3c95497beac8",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Identifying and outlining how different tasks affect each other"
+                },
+                {
+                  "name" : "Drag & Drop",
+                  "value" : true,
+                  "id" : "ef4e7adb-17df-4712-bd53-957772beafad",
+                  "avg_rating" : 3.5,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Click and object and drag and drop through an interface"
+                },
+                {
+                  "name" : "Milestone Tracking",
+                  "value" : true,
+                  "id" : "5343803d-122d-4ede-b04e-ed4d2a0e84a2",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 0.5,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Monitor task progress and planned accomplishments to better manage project status"
+                },
+                {
+                  "name" : "Progress Tracking",
+                  "value" : true,
+                  "id" : "f4c95e5a-0756-4e8d-97e0-301ef5e4f395",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Reporting on how each task or process has advanced since its initiation"
+                },
+                {
+                  "name" : "Task Management",
+                  "value" : true,
+                  "id" : "82ce67d3-ac09-49d0-ae71-5e6401e3e26b",
+                  "avg_rating" : 4.7,
+                  "cnt_rating" : 6,
+                  "avg_importance" : 2.2,
+                  "cnt_importance" : 5,
+                  "cnt_time_used" : 5,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 5,
+                  "pct_time_critical" : 0.2,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "A running list of action items and their respective status"
+                },
+                {
+                  "name" : "Templates",
+                  "value" : false,
+                  "id" : "14560b96-f779-4c74-a487-9103dcff9a2a",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Sample files or documents that could be customized as needed or used as is"
+                }
+              ]
+            },
+            {
+              "category_name" : "Nonprofit Project Management ",
+              "category_features" : [
+                {
+                  "name" : "Activity Dashboard",
+                  "value" : true,
+                  "id" : "856ab03e-a530-4ea9-bac6-968761c9b6c6",
+                  "avg_rating" : 3.8,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Approval Process Control",
+                  "value" : true,
+                  "id" : "8cc73664-11fe-47ac-a43f-468a931254cb",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Calendar Management",
+                  "value" : true,
+                  "id" : "10dc6d16-b8eb-47be-a3b9-3368fba98bac",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Collaboration Tools",
+                  "value" : true,
+                  "id" : "97efb0d3-9a23-4408-90d4-4db1e3830fbd",
+                  "avg_rating" : 4.5,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Customizable Templates",
+                  "value" : true,
+                  "id" : "0cbce712-8370-4492-ac43-e500bc2f2b1f",
+                  "avg_rating" : 3.5,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 1.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "For Nonprofits",
+                  "value" : true,
+                  "id" : "8649d74b-9c82-4b3e-998d-8639ceec130e",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Gantt/Timeline View",
+                  "value" : true,
+                  "id" : "becd74fd-22bc-49e5-ae0e-06f1c875b823",
+                  "avg_rating" : 0.0,
+                  "cnt_rating" : 0,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 0.5,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Kanban Board",
+                  "value" : true,
+                  "id" : "74a46009-20c8-4ce1-8cec-7dd580495d0b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Mobile Access",
+                  "value" : true,
+                  "id" : "15d49235-ad13-4d33-b009-edd50126375b",
+                  "avg_rating" : 3.0,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 2.33,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 5,
+                  "pct_time_used" : 0.6,
+                  "cnt_time_critical" : 5,
+                  "pct_time_critical" : 0.4,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Resource Allocation & Planning",
+                  "value" : true,
+                  "id" : "a7ff8744-b978-455b-a4df-cf9db1138cfe",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Task Management",
+                  "value" : true,
+                  "id" : "82ce67d3-ac09-49d0-ae71-5e6401e3e26b",
+                  "avg_rating" : 4.7,
+                  "cnt_rating" : 6,
+                  "avg_importance" : 2.2,
+                  "cnt_importance" : 5,
+                  "cnt_time_used" : 5,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 5,
+                  "pct_time_critical" : 0.2,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                }
+              ]
+            },
+            {
+              "category_name" : "Professional Services Automation",
+              "category_features" : [
+                {
+                  "name" : "Billing & Invoicing",
+                  "value" : true,
+                  "id" : "b9829f5b-1e19-49e7-b343-c2286973de15",
+                  "avg_rating" : 4.5,
+                  "cnt_rating" : 13,
+                  "avg_importance" : 2.6,
+                  "cnt_importance" : 5,
+                  "cnt_time_used" : 7,
+                  "pct_time_used" : 0.714,
+                  "cnt_time_critical" : 7,
+                  "pct_time_critical" : 0.429,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : "Create and manage monetary interactions between parties (ie. bills and invoices)"
+                },
+                {
+                  "name" : "CRM",
+                  "value" : true,
+                  "id" : "cdf8cb63-9596-4430-bcbb-92162fc532bf",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Contact and lead management to track interactions and notes about clients and prospects"
+                },
+                {
+                  "name" : "Client Portal",
+                  "value" : true,
+                  "id" : "6a55d8f2-f75b-4f1f-ae6a-d51a68db897d",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "A website and login for stakeholders to access information"
+                },
+                {
+                  "name" : "Collaboration Tools",
+                  "value" : true,
+                  "id" : "97efb0d3-9a23-4408-90d4-4db1e3830fbd",
+                  "avg_rating" : 4.5,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Provides a channel for team members to share media files, communicate, and work together"
+                },
+                {
+                  "name" : "Document Management",
+                  "value" : false,
+                  "id" : "a55b34ad-b6ec-4072-b3bd-a7151f7843de",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Collect, upload, store, and share all documents in a centralized location making it easier for everyone involved to access information "
+                },
+                {
+                  "name" : "Portfolio Management",
+                  "value" : true,
+                  "id" : "4ebecd2d-b8a3-43a6-951e-c20c24b60105",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Project Management",
+                  "value" : true,
+                  "id" : "394feaf8-a547-4e78-a56b-fa8161c4405a",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Plan and coordinate all the resources, costs and time needed to execute assignments"
+                },
+                {
+                  "name" : "Proposal Generation",
+                  "value" : false,
+                  "id" : "fb9594e6-c1cc-422b-90de-8ea93192214a",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Quotes/Estimates",
+                  "value" : true,
+                  "id" : "96125292-fba0-4c4b-b429-6afba9eccf8c",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Resource Management",
+                  "value" : true,
+                  "id" : "d2e70c53-d2e2-4a93-808b-08707a5b9450",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Time & Expense Tracking",
+                  "value" : true,
+                  "id" : "7f857699-1d74-40b8-a398-ec13b59ea507",
+                  "avg_rating" : 4.9,
+                  "cnt_rating" : 7,
+                  "avg_importance" : 2.67,
+                  "cnt_importance" : 6,
+                  "cnt_time_used" : 6,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 6,
+                  "pct_time_critical" : 0.667,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Log and record hours worked and costs spent to assist in billing and invoicing"
+                }
+              ]
+            },
+            {
+              "category_name" : "Project Planning",
+              "category_features" : [
+                {
+                  "name" : "Agile Methodologies",
+                  "value" : true,
+                  "id" : "bda17331-ff0d-4b56-bc6e-519ac7d25ccc",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Supports XP, Adaptive Project Framework, Kanban, and Scrum"
+                },
+                {
+                  "name" : "Budget Management",
+                  "value" : true,
+                  "id" : "d55a0076-7fd6-409b-b8ff-eaaa13415063",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 0.5,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Forecast, plan, log, report and analyze project spending"
+                },
+                {
+                  "name" : "Collaboration Tools",
+                  "value" : true,
+                  "id" : "97efb0d3-9a23-4408-90d4-4db1e3830fbd",
+                  "avg_rating" : 4.5,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Provides a channel for team members to share media files, communicate, and work together"
+                },
+                {
+                  "name" : "Due Date Tracking",
+                  "value" : true,
+                  "id" : "b0593b22-081a-46bb-8835-62138f552dd3",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Ability to identify, sort on and alert participating parties about the approaching date by which action has to be taken"
+                },
+                {
+                  "name" : "Gantt/Timeline View",
+                  "value" : true,
+                  "id" : "becd74fd-22bc-49e5-ae0e-06f1c875b823",
+                  "avg_rating" : 0.0,
+                  "cnt_rating" : 0,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 0.5,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Coordinates and illustrates a project's benchmarks and dependencies"
+                },
+                {
+                  "name" : "Kanban Board",
+                  "value" : true,
+                  "id" : "74a46009-20c8-4ce1-8cec-7dd580495d0b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Visualization tool to organize and optimize work/tasks"
+                },
+                {
+                  "name" : "Prioritization",
+                  "value" : true,
+                  "id" : "458dc3f8-8a12-455c-a55d-f3aa84ce3d14",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 1.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Arrange activities and tasks based on their relative importance "
+                },
+                {
+                  "name" : "Progress Tracking",
+                  "value" : true,
+                  "id" : "f4c95e5a-0756-4e8d-97e0-301ef5e4f395",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Reporting on how each task or process has advanced since its initiation"
+                },
+                {
+                  "name" : "Resource Management",
+                  "value" : true,
+                  "id" : "d2e70c53-d2e2-4a93-808b-08707a5b9450",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Efficient and effective use of an organization's human capital"
+                },
+                {
+                  "name" : "Task Management",
+                  "value" : true,
+                  "id" : "82ce67d3-ac09-49d0-ae71-5e6401e3e26b",
+                  "avg_rating" : 4.7,
+                  "cnt_rating" : 6,
+                  "avg_importance" : 2.2,
+                  "cnt_importance" : 5,
+                  "cnt_time_used" : 5,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 5,
+                  "pct_time_critical" : 0.2,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "A running list of action items and their respective status"
+                },
+                {
+                  "name" : "Template Management",
+                  "value" : true,
+                  "id" : "f6364f68-ad3c-4d2c-b40b-6e1f41bbea7e",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Create, save, and re-purpose formatting for emails, forms, and other campaign elements"
+                },
+                {
+                  "name" : "Traditional Methodologies",
+                  "value" : true,
+                  "id" : "34051318-7aed-450e-b7d8-28eb69728a93",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Sequential approach to project development (ie. Waterfall)"
+                }
+              ]
+            },
+            {
+              "category_name" : "Project Tracking",
+              "category_features" : [
+                {
+                  "name" : "Collaboration Tools",
+                  "value" : true,
+                  "id" : "97efb0d3-9a23-4408-90d4-4db1e3830fbd",
+                  "avg_rating" : 4.5,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Provides a channel for team members to share media files, communicate, and work together"
+                },
+                {
+                  "name" : "Cost-to-Completion Tracking",
+                  "value" : false,
+                  "id" : "a67d051e-2d12-43f2-857a-5e83b2034251",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Gantt/Timeline View",
+                  "value" : true,
+                  "id" : "becd74fd-22bc-49e5-ae0e-06f1c875b823",
+                  "avg_rating" : 0.0,
+                  "cnt_rating" : 0,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 0.5,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Kanban Board",
+                  "value" : true,
+                  "id" : "74a46009-20c8-4ce1-8cec-7dd580495d0b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Milestone Tracking",
+                  "value" : true,
+                  "id" : "5343803d-122d-4ede-b04e-ed4d2a0e84a2",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 0.5,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Monitor task progress and planned accomplishments to better manage project status"
+                },
+                {
+                  "name" : "Percent-Complete Tracking",
+                  "value" : true,
+                  "id" : "c2c055d5-69e8-4bf9-89db-461355ca3b60",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 0.667,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.333,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Prioritization",
+                  "value" : true,
+                  "id" : "458dc3f8-8a12-455c-a55d-f3aa84ce3d14",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 1.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Arrange activities and tasks based on their relative importance "
+                },
+                {
+                  "name" : "Status Tracking",
+                  "value" : true,
+                  "id" : "7ab579cd-844b-4e89-86cc-0a5a5beafb9c",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Reporting on changes over time to the state of a request, a prosess, or an object"
+                }
+              ]
+            },
+            {
+              "category_name" : "Time Clock",
+              "category_features" : [
+                {
+                  "name" : "Biometric Recognition",
+                  "value" : false,
+                  "id" : "44c475b9-efe8-4cf6-baea-7910779492b4",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Facial or other physical recognition when employees clock in or out"
+                },
+                {
+                  "name" : "Messaging",
+                  "value" : false,
+                  "id" : "72f768d5-2687-4482-a53a-d164f26a1e0e",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Communicate using messages within the system"
+                },
+                {
+                  "name" : "Mobile Access",
+                  "value" : true,
+                  "id" : "15d49235-ad13-4d33-b009-edd50126375b",
+                  "avg_rating" : 3.0,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 2.33,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 5,
+                  "pct_time_used" : 0.6,
+                  "cnt_time_critical" : 5,
+                  "pct_time_critical" : 0.4,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Access the software remotely via mobile devices"
+                },
+                {
+                  "name" : "Online Punch Card",
+                  "value" : true,
+                  "id" : "9ee5d7a5-903f-457a-8bff-75eb10e08bd8",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 0.5,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Employees can punch in or out on the internet "
+                },
+                {
+                  "name" : "Payroll Management",
+                  "value" : true,
+                  "id" : "58379ec3-0f90-4b52-ac75-25f0b72a102d",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 5,
+                  "avg_importance" : 2.75,
+                  "cnt_importance" : 4,
+                  "cnt_time_used" : 5,
+                  "pct_time_used" : 0.8,
+                  "cnt_time_critical" : 5,
+                  "pct_time_critical" : 0.6,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Track and process employee payroll (salaries, wages, etc.)"
+                },
+                {
+                  "name" : "Punch card",
+                  "value" : true,
+                  "id" : "3c8caa47-7111-478c-9213-c95f7c084bc0",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Clock in and out by placing a card into a machine."
+                },
+                {
+                  "name" : "Reporting/Analytics",
+                  "value" : true,
+                  "id" : "b0c186d0-0194-4300-abba-ca3bc2474bbe",
+                  "avg_rating" : 4.4,
+                  "cnt_rating" : 18,
+                  "avg_importance" : 2.44,
+                  "cnt_importance" : 9,
+                  "cnt_time_used" : 11,
+                  "pct_time_used" : 0.818,
+                  "cnt_time_critical" : 11,
+                  "pct_time_critical" : 0.455,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "View and track pertinent metrics"
+                },
+                {
+                  "name" : "Salaried Employee Tracking",
+                  "value" : true,
+                  "id" : "05538aa1-e8ba-41a2-a4fa-d6b589fda3c7",
+                  "avg_rating" : 0.0,
+                  "cnt_rating" : 0,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Record salaried employee worked time periods"
+                },
+                {
+                  "name" : "Sick Leave Tracking",
+                  "value" : true,
+                  "id" : "3ea901d7-a1ed-4744-86e8-5b25e669e6bd",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 0.5,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Track and manage sick leave time"
+                },
+                {
+                  "name" : "Timesheet Management",
+                  "value" : true,
+                  "id" : "3cb46a77-d9d1-4a94-aa63-7f357d928e9b",
+                  "avg_rating" : 4.7,
+                  "cnt_rating" : 22,
+                  "avg_importance" : 2.55,
+                  "cnt_importance" : 11,
+                  "cnt_time_used" : 11,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 11,
+                  "pct_time_critical" : 0.545,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "The ability to create, edit, and manage timesheets for hourly employees for shifts worked"
+                },
+                {
+                  "name" : "Vacation/Leave Tracking",
+                  "value" : true,
+                  "id" : "c3be1c69-4dde-4633-9e68-c9096b6b4ac5",
+                  "avg_rating" : 3.7,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 5,
+                  "pct_time_used" : 0.2,
+                  "cnt_time_critical" : 5,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Request, track, and manage time off requests and vacation time"
+                },
+                {
+                  "name" : "Workstation Tracking",
+                  "value" : true,
+                  "id" : "65e3a409-5d02-4c26-8651-56500b392717",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Record and track tasks and employees at a workstation"
+                }
+              ]
+            },
+            {
+              "category_name" : "Time Tracking",
+              "category_features" : [
+                {
+                  "name" : "Automatic Time Capture",
+                  "value" : true,
+                  "id" : "d20ac717-bdfb-44e3-9f31-a3dd9ef541d4",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Automate recording of time to reduce human error"
+                },
+                {
+                  "name" : "Billable & Non-Billable Hours",
+                  "value" : true,
+                  "id" : "9daf4889-8268-4635-b9a1-af4a044a58f6",
+                  "avg_rating" : 4.5,
+                  "cnt_rating" : 11,
+                  "avg_importance" : 2.6,
+                  "cnt_importance" : 5,
+                  "cnt_time_used" : 8,
+                  "pct_time_used" : 0.625,
+                  "cnt_time_critical" : 8,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Track billable hours and/or non billable expenses related to work performed"
+                },
+                {
+                  "name" : "Billing & Invoicing",
+                  "value" : true,
+                  "id" : "b9829f5b-1e19-49e7-b343-c2286973de15",
+                  "avg_rating" : 4.5,
+                  "cnt_rating" : 13,
+                  "avg_importance" : 2.6,
+                  "cnt_importance" : 5,
+                  "cnt_time_used" : 7,
+                  "pct_time_used" : 0.714,
+                  "cnt_time_critical" : 7,
+                  "pct_time_critical" : 0.429,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Create and manage monetary interactions between parties (ie. bills and invoices)"
+                },
+                {
+                  "name" : "Employee Database",
+                  "value" : true,
+                  "id" : "e963737d-3456-46ea-85b6-530e546f34c1",
+                  "avg_rating" : 4.3,
+                  "cnt_rating" : 6,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 4,
+                  "cnt_time_used" : 7,
+                  "pct_time_used" : 0.571,
+                  "cnt_time_critical" : 7,
+                  "pct_time_critical" : 0.286,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Electronic storage of staff contact information and job status"
+                },
+                {
+                  "name" : "Mobile Time Tracking",
+                  "value" : true,
+                  "id" : "4462f711-b933-45c4-a1e9-4717ecef27da",
+                  "avg_rating" : 3.7,
+                  "cnt_rating" : 10,
+                  "avg_importance" : 1.67,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 6,
+                  "pct_time_used" : 0.5,
+                  "cnt_time_critical" : 6,
+                  "pct_time_critical" : 0.167,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track the time and location worked by employees via mobile device "
+                },
+                {
+                  "name" : "Multiple Billing Rates",
+                  "value" : true,
+                  "id" : "5ca7ee07-4ffa-4522-b82a-7e747e8cca23",
+                  "avg_rating" : 3.8,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 0.333,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Different tiers of pricing and billing for different employees and situations"
+                },
+                {
+                  "name" : "Offline Time Tracking",
+                  "value" : false,
+                  "id" : "d07189ce-bcb3-4486-a879-8e2952b509cc",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track employee and task times without internet connection"
+                },
+                {
+                  "name" : "Overtime Calculation",
+                  "value" : true,
+                  "id" : "feb72e38-ff33-43a5-ac83-2a44206f0ece",
+                  "avg_rating" : 4.8,
+                  "cnt_rating" : 8,
+                  "avg_importance" : 2.33,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 6,
+                  "pct_time_used" : 0.5,
+                  "cnt_time_critical" : 6,
+                  "pct_time_critical" : 0.167,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Manage and record overtime hours for hourly employees"
+                },
+                {
+                  "name" : "Timesheet Management",
+                  "value" : true,
+                  "id" : "3cb46a77-d9d1-4a94-aa63-7f357d928e9b",
+                  "avg_rating" : 4.7,
+                  "cnt_rating" : 22,
+                  "avg_importance" : 2.55,
+                  "cnt_importance" : 11,
+                  "cnt_time_used" : 11,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 11,
+                  "pct_time_critical" : 0.545,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Track the amount of time spent on a job or task"
+                },
+                {
+                  "name" : "Vacation/Leave Tracking",
+                  "value" : true,
+                  "id" : "c3be1c69-4dde-4633-9e68-c9096b6b4ac5",
+                  "avg_rating" : 3.7,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 5,
+                  "pct_time_used" : 0.2,
+                  "cnt_time_critical" : 5,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Request, track, and manage time off requests and vacation time"
+                }
+              ]
+            },
+            {
+              "category_name" : "Time and Expense",
+              "category_features" : [
+                {
+                  "name" : "Activity Tracking",
+                  "value" : true,
+                  "id" : "d5e0cbd2-ae88-477a-beac-989ac5815e69",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 0.5,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Monitor and track project related activities based on various metrics"
+                },
+                {
+                  "name" : "Billing & Invoicing",
+                  "value" : true,
+                  "id" : "b9829f5b-1e19-49e7-b343-c2286973de15",
+                  "avg_rating" : 4.5,
+                  "cnt_rating" : 13,
+                  "avg_importance" : 2.6,
+                  "cnt_importance" : 5,
+                  "cnt_time_used" : 7,
+                  "pct_time_used" : 0.714,
+                  "cnt_time_critical" : 7,
+                  "pct_time_critical" : 0.429,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Create and manage monetary interactions between parties (i.e. bills and invoices)"
+                },
+                {
+                  "name" : "Expense Tracking",
+                  "value" : true,
+                  "id" : "7ae9a957-9dc5-46d1-bee2-096e03b609b1",
+                  "avg_rating" : 4.8,
+                  "cnt_rating" : 5,
+                  "avg_importance" : 2.33,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 4,
+                  "pct_time_used" : 0.75,
+                  "cnt_time_critical" : 4,
+                  "pct_time_critical" : 0.25,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Detailed log and record of costs"
+                },
+                {
+                  "name" : "Project Tracking",
+                  "value" : true,
+                  "id" : "d9f68316-78a8-4ebe-bac5-2924ab9427bf",
+                  "avg_rating" : 4.7,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Monitor the position or progress of tasks or projects from start to finish"
+                },
+                {
+                  "name" : "Reimbursement Management",
+                  "value" : false,
+                  "id" : "967ede9d-2152-422b-a486-290819fb6be8",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Manage compensation for out-of-pocket expenses incurred by an employee, client or another party"
+                },
+                {
+                  "name" : "Time Tracking",
+                  "value" : true,
+                  "id" : "e876e7a1-0d30-490c-b2e8-8026ed811aa7",
+                  "avg_rating" : 4.8,
+                  "cnt_rating" : 5,
+                  "avg_importance" : 2.75,
+                  "cnt_importance" : 4,
+                  "cnt_time_used" : 4,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 4,
+                  "pct_time_critical" : 0.75,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Measure time to completion or hours worked"
+                },
+                {
+                  "name" : "Time Tracking by Client",
+                  "value" : true,
+                  "id" : "6a49cec7-442a-4581-b50d-d79fb762ff3b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Track time worked per client"
+                },
+                {
+                  "name" : "Time Tracking by Project",
+                  "value" : true,
+                  "id" : "74fdeec3-c0a0-478e-a446-1f0031781ed5",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Track time worked per project"
+                }
+              ]
+            }
+          ],
+          "infographics" : [
+            {
+              "product_id" : 133409,
+              "html_name" : "billing-and-invoicing-software",
+              "infographic_type" : "general_t20",
+              "infographic_title" : null
+            }
+          ],
+          "related_products" : [
+            {
+              "product_id" : 211559,
+              "seo_product_id" : 248699,
+              "seo_slug" : "Trello",
+              "vendor_name" : "Atlassian",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/415abb34-71b7-4fa2-8dc4-1211cac6e655.png",
+              "rating" : 4.5,
+              "total_reviews" : 21195,
+              "slug" : "Trello-2",
+              "product_name" : "Trello",
+              "short_desc" : "Over 1,000,000 teams use Trello worldwide as a task management tool to plan, organize, and accomplish goals from any device. ",
+              "features" : "Tools rarely celebrate the journey that teams take to tackle tasks and hit their goals, but Trello does by bringing reward and ease into the task management process. Teams can celebrate their achievements with fun and flexible features that are intuitively simple and encourage a personal touch. Teams can store and track information transparently, run better meetings, and automate repetitive tasks with an intuitive interface that makes it easy for anyone to onboard, all from the same platform. ",
+              "url" : "https://trello.com?utm_source=capterra&utm_medium=paid-review-sites&utm_campaign=P9ztrello9xO9zppm9xV9zcapterra9xG9zallg9xL9zen9xF9zdisc9xA9ztext9xD9zalld9xU9ztask-management&utm_content=visit-website"
+            },
+            {
+              "product_id" : 56808,
+              "seo_product_id" : 56808,
+              "seo_slug" : "Basecamp",
+              "vendor_name" : "Basecamp",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/69a98f7c-b7c9-4aa7-8753-d7254a1f7e63.png",
+              "rating" : 4.3,
+              "total_reviews" : 13593,
+              "slug" : "Basecamp",
+              "product_name" : "Basecamp",
+              "short_desc" : "Trusted by millions, Basecamp puts everything you need to get work done in one place.",
+              "features" : "Group chat alone isn't enough. Basecamp combines *all* the tools teams need together in one place: message boards, schedules, to-do lists, group chat, documents & file storage, and more. Instead of stuff scattered all over, everything you're working on will be in one streamlined, organized place. Everyone will know what to do. Nothing will slip through the cracks. You'll always know exactly whats going on.",
+              "url" : "https://basecamp.com?utm_source=capterra&utm_medium=cpc&utm_campaign=bcx&utm_content=button_visit_website_task_management"
+            },
+            {
+              "product_id" : 19319,
+              "seo_product_id" : 19319,
+              "seo_slug" : "JIRA",
+              "vendor_name" : "Atlassian",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e1b492c5-8a97-4b86-a422-d317b2480afa.png",
+              "rating" : 4.4,
+              "total_reviews" : 12310,
+              "slug" : "JIRA",
+              "product_name" : "Jira",
+              "short_desc" : "Jira is a fully-featured task management tool for teams planning and building great products.",
+              "features" : "Jira is the task management tool for teams planning and building great products. Thousands of teams choose Jira to capture and organize issues, assign work, and follow team activity. At your desk or on the go with the new mobile interface, Jira helps your team get the job done.",
+              "url" : "https://www.atlassian.com/software/jira?utm_source=capterra&utm_medium=paid-review-sites&utm_campaign=P9zjira-software9xO9zppm9xV9zcapterra9xG9zallg9xL9zen9xF9zdisc9xA9ztext9xD9zalld9xU9ztask-management&utm_content=view-website"
+            },
+            {
+              "product_id" : 120550,
+              "seo_product_id" : 248995,
+              "seo_slug" : "Asana",
+              "vendor_name" : "Asana",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/081480f5-2d56-416d-b291-781a2e64d679.png",
+              "rating" : 4.5,
+              "total_reviews" : 11299,
+              "slug" : "Asana",
+              "product_name" : "Asana",
+              "short_desc" : "Asana is the easiest way to organize and manage all of your team's work. See why 9,000+ customers give Asana 4.5 out of 5 stars.",
+              "features" : "Asana is a task management tool that helps teams orchestrate their work, from daily tasks to strategic initiatives. With Asana, you can connect all your work in one place and bring teams together, anywhere. From lists to boards, to calendars and gantt charts, organize work your way. Join more than 114,000 paying organizations and millions of teams across 190 countries who use Asana to get more done. Get started in minutes to try Asana.",
+              "url" : "https://asana.com/uses/task-management?utm_medium=pd_cpc_nb&utm_campaign=task_management"
+            },
+            {
+              "product_id" : 148766,
+              "seo_product_id" : 99768,
+              "seo_slug" : "Box",
+              "vendor_name" : "Box",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/95b201e8-845a-4064-a9b2-a8eb49d19ca3.png",
+              "rating" : 4.3,
+              "total_reviews" : 4277,
+              "slug" : "Box",
+              "product_name" : "Box",
+              "short_desc" : "Our simple, no-code design makes it easy for anyone to create workflows in minutes, freeing up IT to spend time where it matters. ",
+              "features" : "Empower your users and teams to automate repeatable work their own way. Our simple, no-code design makes it easy for anyone to create workflows in minutes, freeing up IT to spend time where it matters. A flexible interface and range of powerful capabilities help you automate both simple tasks and sophisticated processes. The result: better workflows such as streamlined content review, standardized employee onboarding, and accelerated contract approvals.",
+              "url" : "https://www.box.com/overview?utm_medium=ReviewSite&utm_source=Capterra&id=7017V0000012mjtQAA&utm_campaign=PayPerClick_Default&utm_content=VisitWebsite"
+            },
+            {
+              "product_id" : 158833,
+              "seo_product_id" : 251341,
+              "seo_slug" : "ClickUp",
+              "vendor_name" : "ClickUp",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/98ca9b83-b6bd-4a44-92d1-63c526d17630.png",
+              "rating" : 4.7,
+              "total_reviews" : 3020,
+              "slug" : "ClickUp",
+              "product_name" : "ClickUp",
+              "short_desc" : "ClickUp is the world's leading task management tool with fully customizable and proprietary features that make it a must-have",
+              "features" : "With features like tasks, subtasks, Reminders, task priorities, time tracking, custom views, Goals, dependencies, and custom statuses, ClickUp has everything you need to manage tasks for any project or team!\r\n\r\nClickUp is the perfect task management tool that brings all of your task needs into a single app and is used by 100,000+ teams in companies like Airbnb, Google, and Uber. Built for personal use and teams of all sizes and industries, ClickUp is a must-have tool for task management",
+              "url" : "https://clickup.com/features/tasks?utm_medium=cpc&utm_source=capterra&utm_campaign=capt_cpc_t1_nnc_pro_trial_all-devices_cpc_lp_x_all-deparments_x_task-management"
+            },
+            {
+              "product_id" : 147657,
+              "seo_product_id" : 220947,
+              "seo_slug" : "mondaycom",
+              "vendor_name" : "monday.com",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/82b193f0-9406-4cf6-90d9-a0f265d61f54.png",
+              "rating" : 4.6,
+              "total_reviews" : 2635,
+              "slug" : "monday-com",
+              "product_name" : "monday.com",
+              "short_desc" : "Plan, manage, and track your team's tasks on a platform adapted specifically to your unique needs. ",
+              "features" : "Build your team's perfect task manager so you can easily plan, manage, and track your work all on one intuitive platform. First, integrate all of the tools you already use with native integrations or an API. Then add no-code automations so you can spend less time chasing status updates and more time supporting your team. So ultimately, you have the visibility you need to really take control of your workflows.",
+              "url" : "https://monday.com/lp/mb/task/comparison?utm_medium=cpc&utm_campaign=ww-multi-prm-task_mgmt-workos-desktop-task_management-listing-core&utm_adgroup=task_management"
+            },
+            {
+              "product_id" : 79104,
+              "seo_product_id" : 225974,
+              "seo_slug" : "Smartsheet",
+              "vendor_name" : "Smartsheet",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/9efb2a2f-43b2-4ebd-bf24-b9bb46bd93c6.jpeg",
+              "rating" : 4.5,
+              "total_reviews" : 2382,
+              "slug" : "Smartsheet",
+              "product_name" : "Smartsheet",
+              "short_desc" : "Smartsheet is an online work execution platform empowering organizations of all sizes to plan, manage, automate, and report on work.",
+              "features" : "Smartsheet, an online work execution platform, empowers organizations to plan, track, automate, and report on work. Over 80,000 brands rely on Smartsheet for project and work management because of its easy-to-use interface, real-time Gantt charts and dashboards, and work automation features. \r\n*2018 Awards: Named a Leader in Enterprise Collaborative Work Management by Forrester Research, Selected to Deloittes Fast 500 List, Recognized for Technology Innovation & Vision by 451 Research",
+              "url" : "https://www.smartsheet.com/s/task-software?s=261&c=60&m=3000&utm_source=capterra&utm_medium=cpc&utm_campaign=task%20management"
+            },
+            {
+              "product_id" : 76113,
+              "seo_product_id" : 152501,
+              "seo_slug" : "Wrike",
+              "vendor_name" : "Wrike",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/f7d6685a-9008-4905-bb9e-83a39fe2c19e.png",
+              "rating" : 4.3,
+              "total_reviews" : 1790,
+              "slug" : "Wrike",
+              "product_name" : "Wrike",
+              "short_desc" : "Wrike is an enterprise task management software with prebuilt templates, time tracking, Gantt charts, Kanban boards, and more.",
+              "features" : "Wrike is an award-winning task management software for enterprise teams. It includes advanced security and full scalability. Project managers, product managers, and program managers can especially benefit from its one-click Gantt charts, Kanban boards, easy-to-use reporting, and automated task assignment and file sharing. Explore tailored solutions for your team, including specific industry-led templates, workflows, and features. Do the best work of your life with Wrike.\n",
+              "url" : "https://trial.wrike.com/capterra-task-management/?utm_medium=cpc&utm_content=listing&utm_campaign=task"
+            },
+            {
+              "product_id" : 149339,
+              "seo_product_id" : 149339,
+              "seo_slug" : "Todoist-for-Business",
+              "vendor_name" : "Doist",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/bd3ede5d-ab39-4984-8bdd-23d0f39ad778.png",
+              "rating" : 4.6,
+              "total_reviews" : 1650,
+              "slug" : "Todoist-for-Business",
+              "product_name" : "Todoist",
+              "short_desc" : "Todoist is the world's #1 to-do list & task manager to organise your life and work.",
+              "features" : "Todoist is the world's #1 to-do list & task manager to organise your life and work. Regain clarity and calmness by getting tasks out of your head and into Todoist, no matter where you are or what device you use. It's a simple yet powerful to-do list app ranked best-in-class by Apple, Google, The Verge, Forbes, and more. Since 2007, over 25 million people have used Todoist to organize work and life, completing more than two billion tasks along the way. ",
+              "url" : "https://todoist.com?utm_medium=comparison_site&utm_campaign=gartner_markets"
+            },
+            {
+              "product_id" : 132376,
+              "seo_product_id" : 132376,
+              "seo_slug" : "Hubstaff",
+              "vendor_name" : "Hubstaff",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/aaac16f3-d85a-4597-a31c-6205c39cadc2.png",
+              "rating" : 4.6,
+              "total_reviews" : 1269,
+              "slug" : "Hubstaff",
+              "product_name" : "Hubstaff",
+              "short_desc" : "Hubstaff has trusted task management and employee monitoring for remote and field teams. Invoicing, reporting, payroll, more.",
+              "features" : "Fight inefficiency and work better with task management from Hubstaff. Track time through simple desktop, web, and mobile apps, then manage tasks, reporting, and more through one dashboard. Hubstaff integrates with over 30 apps so your business can run more efficiently, including Jira, Asana, Github, Slack, and Paypal. See work happen in real-time, track location with GPS and geofences, identify roadblocks and keep moving forward. Available for Mac, Windows, Linux, iOS & Android. ",
+              "url" : "https://hubstaff.com/tasks?utm_campaign=Hubstaff%20Signup&utm_source=ppc&utm_medium=Non-Google%20Ads&utm_term=Capterra_Task_Management&utm_content=Channels"
+            }
+          ],
+          "similar_products" : [
+            {
+              "product_id" : 120550,
+              "seo_product_id" : 248995,
+              "seo_slug" : "Asana",
+              "vendor_name" : "Asana",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/081480f5-2d56-416d-b291-781a2e64d679.png",
+              "rating" : 4.5,
+              "total_reviews" : 11299,
+              "slug" : "Asana",
+              "product_name" : "Asana",
+              "short_desc" : "Asana is the easiest way to organize and manage all of your team's work. See why 9,000+ customers give Asana 4.5 out of 5 stars.",
+              "features" : "Asana is a task management tool that helps teams orchestrate their work, from daily tasks to strategic initiatives. With Asana, you can connect all your work in one place and bring teams together, anywhere. From lists to boards, to calendars and gantt charts, organize work your way. Join more than 114,000 paying organizations and millions of teams across 190 countries who use Asana to get more done. Get started in minutes to try Asana.",
+              "url" : "https://asana.com?utm_medium=pd_cpc_nb&utm_campaign=default"
+            },
+            {
+              "product_id" : 147657,
+              "seo_product_id" : 220947,
+              "seo_slug" : "mondaycom",
+              "vendor_name" : "monday.com",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/82b193f0-9406-4cf6-90d9-a0f265d61f54.png",
+              "rating" : 4.6,
+              "total_reviews" : 2635,
+              "slug" : "monday-com",
+              "product_name" : "monday.com",
+              "short_desc" : "Plan, manage, and track your team's tasks on a platform adapted specifically to your unique needs. ",
+              "features" : "Build your team's perfect task manager so you can easily plan, manage, and track your work all on one intuitive platform. First, integrate all of the tools you already use with native integrations or an API. Then add no-code automations so you can spend less time chasing status updates and more time supporting your team. So ultimately, you have the visibility you need to really take control of your workflows.",
+              "url" : "https://monday.com/lp/projectmanagement/bundle/?utm_medium=cpc&utm_campaign=ww-multi-prm-project-workos-desktop-project_management-listing-core&utm_adgroup=project_management"
+            },
+            {
+              "product_id" : 211559,
+              "seo_product_id" : 248699,
+              "seo_slug" : "Trello",
+              "vendor_name" : "Atlassian",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/415abb34-71b7-4fa2-8dc4-1211cac6e655.png",
+              "rating" : 4.5,
+              "total_reviews" : 21195,
+              "slug" : "Trello-2",
+              "product_name" : "Trello",
+              "short_desc" : "Over 1,000,000 teams use Trello worldwide as a task management tool to plan, organize, and accomplish goals from any device. ",
+              "features" : "Tools rarely celebrate the journey that teams take to tackle tasks and hit their goals, but Trello does by bringing reward and ease into the task management process. Teams can celebrate their achievements with fun and flexible features that are intuitively simple and encourage a personal touch. Teams can store and track information transparently, run better meetings, and automate repetitive tasks with an intuitive interface that makes it easy for anyone to onboard, all from the same platform. ",
+              "url" : "https://trello.com?utm_source=capterra&utm_medium=paid-review-sites&utm_campaign=P9ztrello9xO9zppm9xV9zcapterra9xG9zallg9xL9zen9xF9zdisc9xA9ztext9xD9zalld9xU9ztask-management&utm_content=visit-website"
+            },
+            {
+              "product_id" : 158833,
+              "seo_product_id" : 251341,
+              "seo_slug" : "ClickUp",
+              "vendor_name" : "ClickUp",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/98ca9b83-b6bd-4a44-92d1-63c526d17630.png",
+              "rating" : 4.7,
+              "total_reviews" : 3020,
+              "slug" : "ClickUp",
+              "product_name" : "ClickUp",
+              "short_desc" : "ClickUp is the world's leading task management tool with fully customizable and proprietary features that make it a must-have",
+              "features" : "With features like tasks, subtasks, Reminders, task priorities, time tracking, custom views, Goals, dependencies, and custom statuses, ClickUp has everything you need to manage tasks for any project or team!\r\n\r\nClickUp is the perfect task management tool that brings all of your task needs into a single app and is used by 100,000+ teams in companies like Airbnb, Google, and Uber. Built for personal use and teams of all sizes and industries, ClickUp is a must-have tool for task management",
+              "url" : "https://clickup.com/?utm_source=capterra&utm_medium=cpc&utm_campaign=capt_cpc_t1_nnc_pro_trial_all-devices_cpc_lp_x_all-departments_x_generic"
+            },
+            {
+              "product_id" : 76113,
+              "seo_product_id" : 152501,
+              "seo_slug" : "Wrike",
+              "vendor_name" : "Wrike",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/f7d6685a-9008-4905-bb9e-83a39fe2c19e.png",
+              "rating" : 4.3,
+              "total_reviews" : 1790,
+              "slug" : "Wrike",
+              "product_name" : "Wrike",
+              "short_desc" : "Wrike is an enterprise task management software with prebuilt templates, time tracking, Gantt charts, Kanban boards, and more.",
+              "features" : "Wrike is an award-winning task management software for enterprise teams. It includes advanced security and full scalability. Project managers, product managers, and program managers can especially benefit from its one-click Gantt charts, Kanban boards, easy-to-use reporting, and automated task assignment and file sharing. Explore tailored solutions for your team, including specific industry-led templates, workflows, and features. Do the best work of your life with Wrike.\n",
+              "url" : "https://try.wrike.com/project-management-capterra/?utm_medium=cpc&utm_campaign=default&utm_content=listing"
+            },
+            {
+              "product_id" : 19319,
+              "seo_product_id" : 19319,
+              "seo_slug" : "JIRA",
+              "vendor_name" : "Atlassian",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e1b492c5-8a97-4b86-a422-d317b2480afa.png",
+              "rating" : 4.4,
+              "total_reviews" : 12310,
+              "slug" : "JIRA",
+              "product_name" : "Jira",
+              "short_desc" : "Jira is a fully-featured task management tool for teams planning and building great products.",
+              "features" : "Jira is the task management tool for teams planning and building great products. Thousands of teams choose Jira to capture and organize issues, assign work, and follow team activity. At your desk or on the go with the new mobile interface, Jira helps your team get the job done.",
+              "url" : "https://www.atlassian.com/software/jira?utm_source=capterra&utm_medium=paid-review-sites&utm_campaign=P9zjira-software9xO9zppm9xV9zcapterra9xG9zallg9xL9zen9xF9zdisc9xA9ztext9xD9zalld9xU9zproject-planning&utm_content=view-website"
+            },
+            {
+              "product_id" : 123038,
+              "seo_product_id" : 212325,
+              "seo_slug" : "7shifts",
+              "vendor_name" : "7shifts",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/6a62e712-8176-4d6b-aa24-02d8b1073bec.png",
+              "rating" : 4.7,
+              "total_reviews" : 880,
+              "slug" : "7shifts-Restaurant-Scheduling",
+              "product_name" : "7shifts",
+              "short_desc" : "Improve your team's productivity with easily customizable tasks for every shift. Start your free 14-day trial to try it out! \n",
+              "features" : "Keep your entire team accountable for the shifts they're assigned with custom Task Lists. Easily provide work guidance for each of your employees by leveraging this tool's Task Assignment feature. Improve productivity over time with Task Tracking, which will help you keep tabs on your team by receiving real-time notifications whenever a task is complete. Join the 700,000+ restaurant pros using 7shifts to experience these benefits and more! \n",
+              "url" : "https://www.7shifts.com/home-ppc/?utm_medium=marketplaces&utm_campaign=US-CA-Capterra-Marketplaces-ACQ&utm_content=employee-scheduling-software-listingad"
+            },
+            {
+              "product_id" : 79104,
+              "seo_product_id" : 225974,
+              "seo_slug" : "Smartsheet",
+              "vendor_name" : "Smartsheet",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/9efb2a2f-43b2-4ebd-bf24-b9bb46bd93c6.jpeg",
+              "rating" : 4.5,
+              "total_reviews" : 2382,
+              "slug" : "Smartsheet",
+              "product_name" : "Smartsheet",
+              "short_desc" : "Smartsheet is an online work execution platform empowering organizations of all sizes to plan, manage, automate, and report on work.",
+              "features" : "Smartsheet, an online work execution platform, empowers organizations to plan, track, automate, and report on work. Over 80,000 brands rely on Smartsheet for project and work management because of its easy-to-use interface, real-time Gantt charts and dashboards, and work automation features. \r\n*2018 Awards: Named a Leader in Enterprise Collaborative Work Management by Forrester Research, Selected to Deloittes Fast 500 List, Recognized for Technology Innovation & Vision by 451 Research",
+              "url" : "https://www.smartsheet.com/s/pm-software?s=261&c=3&m=3000&utm_source=capterra&utm_medium=cpc&utm_campaign=project%20management"
+            },
+            {
+              "product_id" : 160651,
+              "seo_product_id" : 221848,
+              "seo_slug" : "Productboard",
+              "vendor_name" : "Productboard",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/3d793f79-0d7f-4e7e-a572-b442e283d3c6.png",
+              "rating" : 4.7,
+              "total_reviews" : 133,
+              "slug" : "productboard",
+              "product_name" : "Productboard",
+              "short_desc" : "Task managers use productboard to align everyone on the right features to build next.",
+              "features" : "Productboard is the customer-driven product management system that empowers teams to get the right products to market, faster. It provides a complete solution for product teams to understand user needs, prioritize what to build next, align everyone on the roadmap, and engage with their customers. Productboard is easy to use, enables company-wide collaboration, and integrates into existing workflows. Over 6,000 organizations around the world use Productboard to build excellent products.",
+              "url" : "https://www.productboard.com/"
+            },
+            {
+              "product_id" : 180659,
+              "seo_product_id" : 237492,
+              "seo_slug" : "Process-Bliss",
+              "vendor_name" : "Process Bliss",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/819b2a8a-4192-437e-b045-ff76a13f8e0f.png",
+              "rating" : 4.7,
+              "total_reviews" : 23,
+              "slug" : "Process-Bliss",
+              "product_name" : "Process Bliss",
+              "short_desc" : "Process Bliss: Simple, powerful platform to manage repeatable team workflow and task management, with built-in process improvement.",
+              "features" : "One home for tasks, process, workflow & reporting.\n\nProcess Bliss eliminates the chaos of running a business - improving visibility, operations & compliance.\n\nManage team tasks directly from your centralise process, policies & procedures. Create & share reports or view operational dashboards. Manage policy acceptance, audit trails, archival and process feedback functions to support compliance.\n\nSupports flowcharts, decisions, data capture, dependent due dates, recurring schedules and more.",
+              "url" : "https://processbliss.com/lp-taskmanagement?utm_source=capterra&utm_medium=referral&utm_content=web&utm_campaign=capterra"
+            },
+            {
+              "product_id" : 218239,
+              "seo_product_id" : 218239,
+              "seo_slug" : "Zipline",
+              "vendor_name" : "Retail Zipline",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/7bcead7a-a8ef-4ffa-9e8c-d48bb545669d.jpeg",
+              "rating" : 4.9,
+              "total_reviews" : 11,
+              "slug" : "Zipline",
+              "product_name" : "Zipline",
+              "short_desc" : "Zipline is a single app that helps distributed teams align, engage, and execute at every level of your organization.",
+              "features" : "Zipline is a mobile-first communications and task management solution that helps organizations improve employee engagement and operational alignment resulting in better store execution and profitability. \n\nZipline mirrors location and functional complexity, giving corporate and store leaders the ability to align daily activities to broader business objectives. Surfacing only the most relevant information to frontline teams keeps them connected and helps them to do their job. \n\n",
+              "url" : "https://getzipline.com/request-demo?utm_source=capterra&utm_medium=cpc"
+            },
+            {
+              "product_id" : 182965,
+              "seo_product_id" : 216964,
+              "seo_slug" : "Profit",
+              "vendor_name" : "Profit Apps",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/bdd6e957-2a98-4474-a18b-7d037dca6946.png",
+              "rating" : 4.8,
+              "total_reviews" : 132,
+              "slug" : "Profit",
+              "product_name" : "Profit.co",
+              "short_desc" : "Profit.co is the best platform to rollout Task Management for your entire organization. Align tasks with company goals.",
+              "features" : "Profit.co is the best platform to rollout Task Management for your entire organization. Improve team productivity and collaboration  by bringing  your team?s objectives, plans, tasks, files, checklists and more together in one shared space. Ability to align tasks with the  company goals (OKRs) can improve execution across the board. Checklists make it easy for users to verify before marking tasks as \"complete\".  The innovative  \"board velocity\" idea aids measurement of productivity.",
+              "url" : "https://www.profit.co/okr-product-overview/?utm_source=capterra&utm_medium=cpc&utm_campaign=OKR&utm_content=lp"
+            },
+            {
+              "product_id" : 226102,
+              "seo_product_id" : 18561,
+              "seo_slug" : "Workfront-Project-Management-Software",
+              "vendor_name" : "Adobe",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/b5bbbc24-298d-4030-b6d6-4e1b9a743a72.png",
+              "rating" : 4.3,
+              "total_reviews" : 1069,
+              "slug" : "Workfront",
+              "product_name" : "Adobe Workfront",
+              "short_desc" : "The collaborative work management leader, helping teams get the right work done with greater visibility and improved productivity.",
+              "features" : "Adobe Workfront is a collaborative work management solution that addresses the challenges of disconnected teams, siloed tools, and the relentless pace of enterprise work. Workfront provides visibility into all work in a single, scalable platform that consolidates tasks in a single, social media-inspired view. Organizations can use this platform to centralize incoming requests for prioritization, and teams can use simple inline editing capabilities to update tasks, due dates, assignees, and more.",
+              "url" : "https://business.adobe.com/products/workfront/tour.html?o=7014X000002qPskQAE"
+            }
+          ],
+          "related_categories" : [
+            {
+              "functional_group" : "tasman",
+              "long_name" : "Project Management",
+              "html_name" : "project-management-software",
+              "link_name" : "project-management",
+              "product_count" : 459,
+              "meta_description" : "Find and compare top Project Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Project Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/project-management-software>Project Management software</a> automates task assignment, resource allocation and milestone tracking for all phases of a project.  Project Management tools and systems may take one of several approaches:  collaborative, when multiple people work on a project; top-down, when one person works on a project at a time; or integrated, when multiple aspects of the organization are involved.  There are a variety of project management systems and tools that have been designed to fit your project needs. <a href=/project-management-software>Project Management software</a> is related to <a href=/professional-services-automation-software>Professional Services Automation software</a>, <a href=\"/time-and-expense-software\">Time and Expense software</a>, <a href=/web-collaboration-software>Web Collaboration software</a> and <a href=/workforce-management-software>Workforce Management software</a>. Find the <a href=\"/project-management-software\">best project management software</a> for your organization."
+            },
+            {
+              "functional_group" : "tasman",
+              "long_name" : "Remote Work",
+              "html_name" : "remote-work-software",
+              "link_name" : "remote-work",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Remote Work software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Remote Work tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "Remote Work software includes a combination of different types of solutions needed for professionals to be efficient and effective in their role from outside a fixed office space. Collaboration and team communication are vital for productive and successful remote work professionals.  Remote Work consists of software like, Softphone, Live Chat, Web Conferencing, Collaboration, Project Management, Remote Support and more. "
+            },
+            {
+              "functional_group" : "tasman",
+              "long_name" : "Requirements Management",
+              "html_name" : "requirements-management-software",
+              "link_name" : "requirements-management",
+              "product_count" : 45,
+              "meta_description" : "Find and compare top Requirements Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Requirements Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/requirements-management-software\">Requirements Management software</a> helps companies align practical needs with IT functionality during the systems development or upgrade process.  By managing system requirements, companies can shorten development time and optimize the quality of their systems.  <a href=\"/requirements-management-software\">Requirements Management software</a> usually covers hardware, software, functional, operational, interface, business and security requirements.  <a href=\"/requirements-management-software\">Requirements Management software</a> is related to <a href=\"/workflow-management-software\">Workflow Management software</a>, <a href=\"/server-management-software\">Server Management software</a>, <a href=\"/project-management-software\">Project Management software</a>, <a href=\"/website-monitoring-software\">Website Monitoring software</a>, and <a href=\"/business-process-management-software\">Business Process Management software</a>."
+            },
+            {
+              "functional_group" : "tasman",
+              "long_name" : "Time and Expense",
+              "html_name" : "time-and-expense-software",
+              "link_name" : "time-and-expense",
+              "product_count" : 161,
+              "meta_description" : "Find and compare top Time and Expense software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Time and Expense tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/time-and-expense-software\">Time and Expense software</a> automates the tracking of billable hours and reimbursement expenses.  Time and Expense solutions can be used by organizations in professional services industries to monitor projects on a task and overall basis as well as billing rates so that the appropriate amount may be invoiced.  Time and Expense applications can also be used for expense reporting by employees who travel frequently.  <a href=\"/time-and-expense-software\">Time and Expense software</a> is related to <a href=/professional-services-automation-software>Professional Services Automation software</a>, <a href=/project-management-software>Project Management software</a>, <a href=/time-clock-software>Time Clock software</a> and <a href=/workforce-management-software>Workforce Management software</a>."
+            },
+            {
+              "functional_group" : "tasman",
+              "long_name" : "Workflow Management",
+              "html_name" : "workflow-management-software",
+              "link_name" : "workflow-management",
+              "product_count" : 134,
+              "meta_description" : "Find and compare top Workflow Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Workflow Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/workflow-management-software\">Workflow Management software</a> coordinates the flow of work and ensures changes are properly implemented.  Workflow Management systems offer a collaborative environment that allows businesses to easily monitor and evaluate their processes.  Organizations use Workflow Management systems to coordinate their business environment, facilitate instant access to accurate and up-to-date data on projects and performance, schedule and synchronize changes and test the effectiveness of business strategies.  <a href=\"/workflow-management-software\">Workflow Management software</a> is related to <a href=\"/business-process-management-software/\">Business Process Management software</a>, <a href=\"/requirements-management-software/\">Requirements Management software</a>, and <a href=\"/project-management-software/\">Project Management software</a>."
+            }
+          ],
+          "is_upgraded" : false,
+          "enabled" : true,
+          "filter_options" : {
+            "users" : 127,
+            "platform" : 257,
+            "pricing_options" : 24,
+            "category_related_features" : [
+              25030,
+              27804,
+              27805,
+              27806,
+              27808,
+              28914,
+              28915,
+              28916,
+              28917,
+              31248,
+              31249,
+              31251,
+              31254,
+              31257,
+              31264,
+              31265,
+              31266,
+              57250,
+              57252,
+              57253,
+              57254,
+              57256,
+              57257,
+              57262,
+              57263,
+              57264,
+              57266,
+              57267,
+              57270,
+              57271,
+              57273,
+              57274,
+              57275,
+              57276,
+              57279
+            ],
+            "employees" : 127
+          },
+          "sort_options" : {
+            "sort_review_rating" : 4.603353500366211,
+            "most_recent_review" : "2022-09-02T22:21:43Z"
+          },
+          "countries" : "ALL",
+          "features_tokenized_text" : "assignment_management calendar_management collaboration_tools commenting/notes create_subtasks deadline_management drag_&_drop gantt/timeline_view mobile_access percent-complete_tracking prioritization recurring_tasks reporting/analytics search/filter task_board_view time_tracking to-do_list workflow_management",
+          "platform_tokenized_text" : "cloud,saas,web-based mobileiphone",
+          "users_tokenized_text" : "1 2-10 11-50 51-200 201-500 501-1000 1000+",
+          "pricing_tokenized_text" : "free freetrial",
+          "badges" : [
+            {
+              "id" : 2130,
+              "category_short_name" : "Billing and Invoicing",
+              "category_html_name" : "billing-and-invoicing-software",
+              "published_year" : 2020,
+              "badge_type" : "Top 20"
+            }
+          ],
+          "bid_spot_us" : 0.0,
+          "currency_code" : "USD",
+          "currency_symbol" : "$",
+          "credit_card_required" : "No",
+          "licensing_model" : null,
+          "open_api_offered" : "Yes",
+          "mobile_urls" : [
+            {
+              "name" : "iOS",
+              "url" : "https://itunes.apple.com/us/app/everhour/id1372059771"
+            }
+          ],
+          "integrations" : [
+            {
+              "id" : "183cccea-7466-4a4c-ba66-a6d200b70c43",
+              "name" : "Todoist"
+            },
+            {
+              "id" : "c401cf73-1d36-4a50-afaf-4b9316ff435f",
+              "name" : "Notion"
+            },
+            {
+              "id" : "a168d38d-b160-4ae4-a82a-a6d200b2d5bd",
+              "name" : "Basecamp"
+            },
+            {
+              "id" : "11a18687-8042-4768-ab33-a6d200b43d9a",
+              "name" : "GitHub"
+            },
+            {
+              "id" : "21ba7a17-fbdb-44aa-aa4d-a6d200b48f17",
+              "name" : "Insightly"
+            },
+            {
+              "id" : "3ecee0e7-8233-490b-858c-a6d200b7a22f",
+              "name" : "Zapier"
+            },
+            {
+              "id" : "c7f00a1b-c5c0-4be8-8c9b-a6d200b37696",
+              "name" : "monday.com"
+            },
+            {
+              "id" : "5a30a122-8a98-4b5d-89bc-a6d200b72eb5",
+              "name" : "Trello"
+            },
+            {
+              "id" : "caf33a5b-ccd6-4653-9900-a705005458b7",
+              "name" : "ClickUp"
+            },
+            {
+              "id" : "bcdd9473-58dd-4c24-a82a-a6d200b601d6",
+              "name" : "Quickbooks Online"
+            },
+            {
+              "id" : "b393989a-b8cf-4b92-90fe-a6d200b2e0b3",
+              "name" : "Bitbucket"
+            },
+            {
+              "id" : "964a02e4-2901-4992-aea5-a6d200b696d4",
+              "name" : "Slack"
+            },
+            {
+              "id" : "3c11cdb2-2af9-4893-9f1a-a6d200b6e7b3",
+              "name" : "Teamwork"
+            },
+            {
+              "id" : "e3d6d43b-3d5e-4498-9672-a6d200b2bfa3",
+              "name" : "Asana"
+            },
+            {
+              "id" : "3f267347-c35c-40ba-b94d-a6d200b5b240",
+              "name" : "Pivotal Tracker"
+            },
+            {
+              "id" : "21baee7f-1996-4d76-9942-a6d200b4bc5b",
+              "name" : "Jira"
+            },
+            {
+              "id" : "eab58142-6040-46ce-9341-a6d200b7915e",
+              "name" : "Xero"
+            },
+            {
+              "id" : "609270fa-b593-415a-9f57-a6d200b42fbe",
+              "name" : "FreshBooks"
+            },
+            {
+              "id" : "6bbc843f-2f45-4421-a486-a6e300dabb36",
+              "name" : "GitLab"
+            }
+          ],
+          "supported_countries" : [
+            {
+              "id" : 5,
+              "code" : "AS",
+              "name" : "American Samoa"
+            },
+            {
+              "id" : 84,
+              "code" : "DE",
+              "name" : "Germany"
+            },
+            {
+              "id" : 46,
+              "code" : "CN",
+              "name" : "China"
+            },
+            {
+              "id" : 237,
+              "code" : "US",
+              "name" : "United States of America"
+            },
+            {
+              "id" : 14,
+              "code" : "AU",
+              "name" : "Australia"
+            },
+            {
+              "id" : 113,
+              "code" : "JP",
+              "name" : "Japan"
+            },
+            {
+              "id" : 144,
+              "code" : "MX",
+              "name" : "Mexico"
+            },
+            {
+              "id" : 104,
+              "code" : "IN",
+              "name" : "India"
+            },
+            {
+              "id" : 32,
+              "code" : "BR",
+              "name" : "Brazil"
+            },
+            {
+              "id" : 235,
+              "code" : "GB",
+              "name" : "United Kingdom of Great Britain and Northern Ireland"
+            },
+            {
+              "id" : 41,
+              "code" : "CA",
+              "name" : "Canada"
+            },
+            {
+              "id" : 21,
+              "code" : "BY",
+              "name" : "Belarus"
+            },
+            {
+              "id" : 2,
+              "code" : "AX",
+              "name" : "Aland Islands"
+            },
+            {
+              "id" : 3,
+              "code" : "AL",
+              "name" : "Albania"
+            },
+            {
+              "id" : 6,
+              "code" : "AD",
+              "name" : "Andorra"
+            },
+            {
+              "id" : 8,
+              "code" : "AI",
+              "name" : "Anguilla"
+            },
+            {
+              "id" : 10,
+              "code" : "AG",
+              "name" : "Antigua and Barbuda"
+            },
+            {
+              "id" : 11,
+              "code" : "AR",
+              "name" : "Argentina"
+            },
+            {
+              "id" : 12,
+              "code" : "AM",
+              "name" : "Armenia"
+            },
+            {
+              "id" : 13,
+              "code" : "AW",
+              "name" : "Aruba"
+            },
+            {
+              "id" : 15,
+              "code" : "AT",
+              "name" : "Austria"
+            },
+            {
+              "id" : 16,
+              "code" : "AZ",
+              "name" : "Azerbaijan"
+            },
+            {
+              "id" : 17,
+              "code" : "BS",
+              "name" : "Bahamas"
+            },
+            {
+              "id" : 19,
+              "code" : "BD",
+              "name" : "Bangladesh"
+            },
+            {
+              "id" : 20,
+              "code" : "BB",
+              "name" : "Barbados"
+            },
+            {
+              "id" : 22,
+              "code" : "BE",
+              "name" : "Belgium"
+            },
+            {
+              "id" : 23,
+              "code" : "BZ",
+              "name" : "Belize"
+            },
+            {
+              "id" : 25,
+              "code" : "BM",
+              "name" : "Bermuda"
+            },
+            {
+              "id" : 27,
+              "code" : "BO",
+              "name" : "Bolivia"
+            },
+            {
+              "id" : 29,
+              "code" : "BA",
+              "name" : "Bosnia and Herzegovina"
+            },
+            {
+              "id" : 35,
+              "code" : "BG",
+              "name" : "Bulgaria"
+            },
+            {
+              "id" : 39,
+              "code" : "KH",
+              "name" : "Cambodia"
+            },
+            {
+              "id" : 42,
+              "code" : "KY",
+              "name" : "Cayman Islands"
+            },
+            {
+              "id" : 45,
+              "code" : "CL",
+              "name" : "Chile"
+            },
+            {
+              "id" : 49,
+              "code" : "CO",
+              "name" : "Colombia"
+            },
+            {
+              "id" : 53,
+              "code" : "CK",
+              "name" : "Cook Islands"
+            },
+            {
+              "id" : 54,
+              "code" : "CR",
+              "name" : "Costa Rica"
+            },
+            {
+              "id" : 56,
+              "code" : "HR",
+              "name" : "Croatia"
+            },
+            {
+              "id" : 57,
+              "code" : "CU",
+              "name" : "Cuba"
+            },
+            {
+              "id" : 59,
+              "code" : "CY",
+              "name" : "Cyprus"
+            },
+            {
+              "id" : 60,
+              "code" : "CZ",
+              "name" : "Czechia"
+            },
+            {
+              "id" : 61,
+              "code" : "DK",
+              "name" : "Denmark"
+            },
+            {
+              "id" : 63,
+              "code" : "DM",
+              "name" : "Dominica"
+            },
+            {
+              "id" : 64,
+              "code" : "DO",
+              "name" : "Dominican Republic"
+            },
+            {
+              "id" : 65,
+              "code" : "EC",
+              "name" : "Ecuador"
+            },
+            {
+              "id" : 66,
+              "code" : "EG",
+              "name" : "Egypt"
+            },
+            {
+              "id" : 67,
+              "code" : "SV",
+              "name" : "El Salvador"
+            },
+            {
+              "id" : 70,
+              "code" : "EE",
+              "name" : "Estonia"
+            },
+            {
+              "id" : 73,
+              "code" : "FK",
+              "name" : "Falkland Islands (Malvinas)"
+            },
+            {
+              "id" : 74,
+              "code" : "FO",
+              "name" : "Faroe Islands"
+            },
+            {
+              "id" : 75,
+              "code" : "FJ",
+              "name" : "Fiji"
+            },
+            {
+              "id" : 76,
+              "code" : "FI",
+              "name" : "Finland"
+            },
+            {
+              "id" : 77,
+              "code" : "FR",
+              "name" : "France"
+            },
+            {
+              "id" : 78,
+              "code" : "GF",
+              "name" : "French Guiana"
+            },
+            {
+              "id" : 79,
+              "code" : "PF",
+              "name" : "French Polynesia"
+            },
+            {
+              "id" : 83,
+              "code" : "GE",
+              "name" : "Georgia"
+            },
+            {
+              "id" : 86,
+              "code" : "GI",
+              "name" : "Gibraltar"
+            },
+            {
+              "id" : 87,
+              "code" : "GR",
+              "name" : "Greece"
+            },
+            {
+              "id" : 88,
+              "code" : "GL",
+              "name" : "Greenland"
+            },
+            {
+              "id" : 89,
+              "code" : "GD",
+              "name" : "Grenada"
+            },
+            {
+              "id" : 90,
+              "code" : "GP",
+              "name" : "Guadeloupe"
+            },
+            {
+              "id" : 91,
+              "code" : "GU",
+              "name" : "Guam"
+            },
+            {
+              "id" : 92,
+              "code" : "GT",
+              "name" : "Guatemala"
+            },
+            {
+              "id" : 93,
+              "code" : "GG",
+              "name" : "Guernsey"
+            },
+            {
+              "id" : 96,
+              "code" : "GY",
+              "name" : "Guyana"
+            },
+            {
+              "id" : 97,
+              "code" : "HT",
+              "name" : "Haiti"
+            },
+            {
+              "id" : 99,
+              "code" : "VA",
+              "name" : "Holy See (Vatican City State)"
+            },
+            {
+              "id" : 100,
+              "code" : "HN",
+              "name" : "Honduras"
+            },
+            {
+              "id" : 101,
+              "code" : "HK",
+              "name" : "Hong Kong"
+            },
+            {
+              "id" : 102,
+              "code" : "HU",
+              "name" : "Hungary"
+            },
+            {
+              "id" : 103,
+              "code" : "IS",
+              "name" : "Iceland"
+            },
+            {
+              "id" : 105,
+              "code" : "ID",
+              "name" : "Indonesia"
+            },
+            {
+              "id" : 106,
+              "code" : "IR",
+              "name" : "Iran"
+            },
+            {
+              "id" : 108,
+              "code" : "IE",
+              "name" : "Ireland"
+            },
+            {
+              "id" : 109,
+              "code" : "IM",
+              "name" : "Isle of Man"
+            },
+            {
+              "id" : 110,
+              "code" : "IL",
+              "name" : "Israel"
+            },
+            {
+              "id" : 111,
+              "code" : "IT",
+              "name" : "Italy"
+            },
+            {
+              "id" : 112,
+              "code" : "JM",
+              "name" : "Jamaica"
+            },
+            {
+              "id" : 114,
+              "code" : "JE",
+              "name" : "Jersey"
+            },
+            {
+              "id" : 115,
+              "code" : "JO",
+              "name" : "Jordan"
+            },
+            {
+              "id" : 116,
+              "code" : "KZ",
+              "name" : "Kazakhstan"
+            },
+            {
+              "id" : 118,
+              "code" : "KI",
+              "name" : "Kiribati"
+            },
+            {
+              "id" : 120,
+              "code" : "KR",
+              "name" : "South Korea"
+            },
+            {
+              "id" : 122,
+              "code" : "KG",
+              "name" : "Kyrgyzstan"
+            },
+            {
+              "id" : 124,
+              "code" : "LV",
+              "name" : "Latvia"
+            },
+            {
+              "id" : 125,
+              "code" : "LB",
+              "name" : "Lebanon"
+            },
+            {
+              "id" : 129,
+              "code" : "LI",
+              "name" : "Liechtenstein"
+            },
+            {
+              "id" : 130,
+              "code" : "LT",
+              "name" : "Lithuania"
+            },
+            {
+              "id" : 131,
+              "code" : "LU",
+              "name" : "Luxembourg"
+            },
+            {
+              "id" : 132,
+              "code" : "MO",
+              "name" : "Macao"
+            },
+            {
+              "id" : 135,
+              "code" : "MY",
+              "name" : "Malaysia"
+            },
+            {
+              "id" : 136,
+              "code" : "MV",
+              "name" : "Maldives"
+            },
+            {
+              "id" : 138,
+              "code" : "MT",
+              "name" : "Malta"
+            },
+            {
+              "id" : 139,
+              "code" : "MH",
+              "name" : "Marshall Islands"
+            },
+            {
+              "id" : 140,
+              "code" : "MQ",
+              "name" : "Martinique"
+            },
+            {
+              "id" : 142,
+              "code" : "MU",
+              "name" : "Mauritius"
+            },
+            {
+              "id" : 145,
+              "code" : "FM",
+              "name" : "Micronesia"
+            },
+            {
+              "id" : 146,
+              "code" : "MD",
+              "name" : "Moldova (the Republic of)"
+            },
+            {
+              "id" : 147,
+              "code" : "MC",
+              "name" : "Monaco"
+            },
+            {
+              "id" : 148,
+              "code" : "MN",
+              "name" : "Mongolia"
+            },
+            {
+              "id" : 149,
+              "code" : "ME",
+              "name" : "Montenegro"
+            },
+            {
+              "id" : 150,
+              "code" : "MS",
+              "name" : "Montserrat"
+            },
+            {
+              "id" : 151,
+              "code" : "MA",
+              "name" : "Morocco"
+            },
+            {
+              "id" : 155,
+              "code" : "NR",
+              "name" : "Nauru"
+            },
+            {
+              "id" : 156,
+              "code" : "NP",
+              "name" : "Nepal"
+            },
+            {
+              "id" : 157,
+              "code" : "NL",
+              "name" : "Netherlands"
+            },
+            {
+              "id" : 158,
+              "code" : "NC",
+              "name" : "New Caledonia"
+            },
+            {
+              "id" : 159,
+              "code" : "NZ",
+              "name" : "New Zealand"
+            },
+            {
+              "id" : 160,
+              "code" : "NI",
+              "name" : "Nicaragua"
+            },
+            {
+              "id" : 164,
+              "code" : "NF",
+              "name" : "Norfolk Island"
+            },
+            {
+              "id" : 165,
+              "code" : "MK",
+              "name" : "North Macedonia"
+            },
+            {
+              "id" : 166,
+              "code" : "MP",
+              "name" : "Northern Mariana Islands"
+            },
+            {
+              "id" : 167,
+              "code" : "NO",
+              "name" : "Norway"
+            },
+            {
+              "id" : 168,
+              "code" : "OM",
+              "name" : "Oman"
+            },
+            {
+              "id" : 169,
+              "code" : "PK",
+              "name" : "Pakistan"
+            },
+            {
+              "id" : 170,
+              "code" : "PW",
+              "name" : "Palau"
+            },
+            {
+              "id" : 172,
+              "code" : "PA",
+              "name" : "Panama"
+            },
+            {
+              "id" : 173,
+              "code" : "PG",
+              "name" : "Papua New Guinea"
+            },
+            {
+              "id" : 174,
+              "code" : "PY",
+              "name" : "Paraguay"
+            },
+            {
+              "id" : 175,
+              "code" : "PE",
+              "name" : "Peru"
+            },
+            {
+              "id" : 176,
+              "code" : "PH",
+              "name" : "Philippines"
+            },
+            {
+              "id" : 178,
+              "code" : "PL",
+              "name" : "Poland"
+            },
+            {
+              "id" : 179,
+              "code" : "PT",
+              "name" : "Portugal"
+            },
+            {
+              "id" : 180,
+              "code" : "PR",
+              "name" : "Puerto Rico"
+            },
+            {
+              "id" : 181,
+              "code" : "QA",
+              "name" : "Qatar"
+            },
+            {
+              "id" : 183,
+              "code" : "RO",
+              "name" : "Romania"
+            },
+            {
+              "id" : 184,
+              "code" : "RU",
+              "name" : "Russian Federation"
+            },
+            {
+              "id" : 188,
+              "code" : "KN",
+              "name" : "Saint Kitts and Nevis"
+            },
+            {
+              "id" : 189,
+              "code" : "LC",
+              "name" : "Saint Lucia"
+            },
+            {
+              "id" : 190,
+              "code" : "MF",
+              "name" : "Saint Martin"
+            },
+            {
+              "id" : 191,
+              "code" : "PM",
+              "name" : "Saint Pierre and Miquelon"
+            },
+            {
+              "id" : 192,
+              "code" : "VC",
+              "name" : "Saint Vincent and the Grenadines"
+            },
+            {
+              "id" : 193,
+              "code" : "WS",
+              "name" : "Samoa"
+            },
+            {
+              "id" : 194,
+              "code" : "SM",
+              "name" : "San Marino"
+            },
+            {
+              "id" : 196,
+              "code" : "SA",
+              "name" : "Saudi Arabia"
+            },
+            {
+              "id" : 198,
+              "code" : "RS",
+              "name" : "Serbia"
+            },
+            {
+              "id" : 199,
+              "code" : "SC",
+              "name" : "Seychelles"
+            },
+            {
+              "id" : 201,
+              "code" : "SG",
+              "name" : "Singapore"
+            },
+            {
+              "id" : 203,
+              "code" : "SK",
+              "name" : "Slovakia"
+            },
+            {
+              "id" : 204,
+              "code" : "SI",
+              "name" : "Slovenia"
+            },
+            {
+              "id" : 205,
+              "code" : "SB",
+              "name" : "Solomon Islands"
+            },
+            {
+              "id" : 207,
+              "code" : "ZA",
+              "name" : "South Africa"
+            },
+            {
+              "id" : 210,
+              "code" : "ES",
+              "name" : "Spain"
+            },
+            {
+              "id" : 211,
+              "code" : "LK",
+              "name" : "Sri Lanka"
+            },
+            {
+              "id" : 213,
+              "code" : "SR",
+              "name" : "Suriname"
+            },
+            {
+              "id" : 214,
+              "code" : "SJ",
+              "name" : "Svalbard and Jan Mayen"
+            },
+            {
+              "id" : 215,
+              "code" : "SE",
+              "name" : "Sweden"
+            },
+            {
+              "id" : 216,
+              "code" : "CH",
+              "name" : "Switzerland"
+            },
+            {
+              "id" : 218,
+              "code" : "TW",
+              "name" : "Taiwan"
+            },
+            {
+              "id" : 219,
+              "code" : "TJ",
+              "name" : "Tajikistan"
+            },
+            {
+              "id" : 221,
+              "code" : "TH",
+              "name" : "Thailand"
+            },
+            {
+              "id" : 225,
+              "code" : "TO",
+              "name" : "Tonga"
+            },
+            {
+              "id" : 226,
+              "code" : "TT",
+              "name" : "Trinidad and Tobago"
+            },
+            {
+              "id" : 227,
+              "code" : "TN",
+              "name" : "Tunisia"
+            },
+            {
+              "id" : 228,
+              "code" : "TR",
+              "name" : "Turkey"
+            },
+            {
+              "id" : 229,
+              "code" : "TM",
+              "name" : "Turkmenistan"
+            },
+            {
+              "id" : 230,
+              "code" : "TC",
+              "name" : "Turks and Caicos Islands"
+            },
+            {
+              "id" : 231,
+              "code" : "TV",
+              "name" : "Tuvalu"
+            },
+            {
+              "id" : 233,
+              "code" : "UA",
+              "name" : "Ukraine"
+            },
+            {
+              "id" : 234,
+              "code" : "AE",
+              "name" : "United Arab Emirates"
+            },
+            {
+              "id" : 238,
+              "code" : "UY",
+              "name" : "Uruguay"
+            },
+            {
+              "id" : 239,
+              "code" : "UZ",
+              "name" : "Uzbekistan"
+            },
+            {
+              "id" : 240,
+              "code" : "VU",
+              "name" : "Vanuatu"
+            },
+            {
+              "id" : 241,
+              "code" : "VE",
+              "name" : "Venezuela"
+            },
+            {
+              "id" : 242,
+              "code" : "VN",
+              "name" : "Viet Nam"
+            },
+            {
+              "id" : 243,
+              "code" : "VG",
+              "name" : "Virgin Islands (British)"
+            },
+            {
+              "id" : 244,
+              "code" : "VI",
+              "name" : "Virgin Islands (U.S.)"
+            },
+            {
+              "id" : 245,
+              "code" : "WF",
+              "name" : "Wallis and Futuna"
+            }
+          ],
+          "supported_languages" : [
+            {
+              "id" : 152,
+              "code" : "en",
+              "name" : "English",
+              "location" : null
+            }
+          ],
+          "target_industries" : [
+            {
+              "id" : 29,
+              "code" : "91",
+              "name" : "Consumer Services"
+            },
+            {
+              "id" : 52,
+              "code" : "75",
+              "name" : "Government Administration"
+            },
+            {
+              "id" : 134,
+              "code" : "8",
+              "name" : "Telecommunications"
+            },
+            {
+              "id" : 54,
+              "code" : "140",
+              "name" : "Graphic Design"
+            },
+            {
+              "id" : 84,
+              "code" : "80",
+              "name" : "Marketing and Advertising"
+            },
+            {
+              "id" : 64,
+              "code" : "96",
+              "name" : "Information Technology and Services"
+            },
+            {
+              "id" : 25,
+              "code" : "4",
+              "name" : "Computer Software"
+            },
+            {
+              "id" : 97,
+              "code" : "100",
+              "name" : "Non-Profit Organization Management"
+            }
+          ],
+          "price_range_id" : 1,
+          "aggregated_review_ratings" : {
+            "industry" : {
+              "4" : 4.74,
+              "124" : 5.0,
+              "44" : 4.0,
+              "23" : 4.0,
+              "105" : 5.0,
+              "108" : 5.0,
+              "57" : 5.0,
+              "126" : 4.5,
+              "80" : 4.54,
+              "132" : 4.5,
+              "109" : 4.33,
+              "68" : 5.0,
+              "3" : 4.0,
+              "28" : 5.0,
+              "30" : 4.0,
+              "131" : 5.0,
+              "110" : 4.5,
+              "33" : 5.0,
+              "96" : 4.67,
+              "98" : 4.75,
+              "42" : 5.0,
+              "34" : 4.0,
+              "97" : 5.0,
+              "50" : 4.0,
+              "69" : 4.0,
+              "112" : 4.0,
+              "135" : 4.0,
+              "48" : 5.0,
+              "11" : 4.88,
+              "10" : 4.5,
+              "100" : 4.5,
+              "118" : 5.0,
+              "129" : 3.0,
+              "70" : 5.0,
+              "116" : 5.0,
+              "103" : 5.0,
+              "47" : 4.5,
+              "6" : 4.24,
+              "25" : 4.0,
+              "43" : 4.75,
+              "99" : 4.88,
+              "53" : 5.0,
+              "113" : 5.0,
+              "35" : 5.0,
+              "140" : 4.5
+            },
+            "company_size" : {
+              "11-50 employees" : 4.61,
+              "501-1000 employees" : 5.0,
+              "1-10 employees" : 4.68,
+              "51-200 employees" : 4.53,
+              "Self-employed" : 4.71,
+              "201-500 employees" : 4.67,
+              "1001-5000 employees" : 5.0,
+              "10,001+ employees" : 4.33
+            }
+          },
+          "vct_enabled" : false,
+          "pricing_plans" : [
+            {
+              "created_on_utc" : "2022-09-15T14:05:53Z",
+              "modified_on_utc" : "2022-09-15T14:09:40Z",
+              "created_by" : "Jay Tanji",
+              "modified_by" : "Jay Tanji",
+              "name" : "Free",
+              "description" : "Simple time tracking and reporting for freelancers and small teams. Free for up to 5 users.",
+              "display_order" : 1,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : null,
+              "ending_price" : null,
+              "pricing_model_name" : null,
+              "payment_frequency_name" : null,
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-09-15T14:05:53Z",
+                  "modified_on_utc" : "2022-09-15T14:05:53Z",
+                  "created_by" : "Jay Tanji",
+                  "modified_by" : "Jay Tanji",
+                  "display_order" : 1,
+                  "name" : "Unlimited Time Tracking"
+                },
+                {
+                  "created_on_utc" : "2022-09-15T14:05:53Z",
+                  "modified_on_utc" : "2022-09-15T14:05:53Z",
+                  "created_by" : "Jay Tanji",
+                  "modified_by" : "Jay Tanji",
+                  "display_order" : 2,
+                  "name" : "Unlimited projects"
+                },
+                {
+                  "created_on_utc" : "2022-09-15T14:05:53Z",
+                  "modified_on_utc" : "2022-09-15T14:05:53Z",
+                  "created_by" : "Jay Tanji",
+                  "modified_by" : "Jay Tanji",
+                  "display_order" : 3,
+                  "name" : "Website Integrations"
+                },
+                {
+                  "created_on_utc" : "2022-09-15T14:05:53Z",
+                  "modified_on_utc" : "2022-09-15T14:05:53Z",
+                  "created_by" : "Jay Tanji",
+                  "modified_by" : "Jay Tanji",
+                  "display_order" : 4,
+                  "name" : "Unlimited reports"
+                },
+                {
+                  "created_on_utc" : "2022-09-15T14:05:53Z",
+                  "modified_on_utc" : "2022-09-15T14:05:53Z",
+                  "created_by" : "Jay Tanji",
+                  "modified_by" : "Jay Tanji",
+                  "display_order" : 5,
+                  "name" : "Add time for others"
+                },
+                {
+                  "created_on_utc" : "2022-09-15T14:05:53Z",
+                  "modified_on_utc" : "2022-09-15T14:05:53Z",
+                  "created_by" : "Jay Tanji",
+                  "modified_by" : "Jay Tanji",
+                  "display_order" : 6,
+                  "name" : "Export Reports"
+                },
+                {
+                  "created_on_utc" : "2022-09-15T14:05:53Z",
+                  "modified_on_utc" : "2022-09-15T14:05:53Z",
+                  "created_by" : "Jay Tanji",
+                  "modified_by" : "Jay Tanji",
+                  "display_order" : 7,
+                  "name" : "Web, iOS app, browser extension"
+                }
+              ]
+            },
+            {
+              "created_on_utc" : "2022-09-15T14:05:53Z",
+              "modified_on_utc" : "2022-09-15T14:05:53Z",
+              "created_by" : "Jay Tanji",
+              "modified_by" : "Jay Tanji",
+              "name" : "Lite",
+              "description" : "More control, more features yet at a very affordable price. Starting at 2 users. Price discounted to $5 if paid annually. ",
+              "display_order" : 2,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 6.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Per User",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-09-15T14:05:53Z",
+                  "modified_on_utc" : "2022-09-15T14:05:53Z",
+                  "created_by" : "Jay Tanji",
+                  "modified_by" : "Jay Tanji",
+                  "display_order" : 1,
+                  "name" : "Everything in Free plan +"
+                },
+                {
+                  "created_on_utc" : "2022-09-15T14:05:53Z",
+                  "modified_on_utc" : "2022-09-15T14:05:53Z",
+                  "created_by" : "Jay Tanji",
+                  "modified_by" : "Jay Tanji",
+                  "display_order" : 2,
+                  "name" : "Up to 10 users"
+                },
+                {
+                  "created_on_utc" : "2022-09-15T14:05:53Z",
+                  "modified_on_utc" : "2022-09-15T14:05:53Z",
+                  "created_by" : "Jay Tanji",
+                  "modified_by" : "Jay Tanji",
+                  "display_order" : 3,
+                  "name" : "Clients"
+                },
+                {
+                  "created_on_utc" : "2022-09-15T14:05:53Z",
+                  "modified_on_utc" : "2022-09-15T14:05:53Z",
+                  "created_by" : "Jay Tanji",
+                  "modified_by" : "Jay Tanji",
+                  "display_order" : 4,
+                  "name" : "Billable rates, costs, profit"
+                },
+                {
+                  "created_on_utc" : "2022-09-15T14:05:53Z",
+                  "modified_on_utc" : "2022-09-15T14:05:53Z",
+                  "created_by" : "Jay Tanji",
+                  "modified_by" : "Jay Tanji",
+                  "display_order" : 5,
+                  "name" : "Budgets"
+                },
+                {
+                  "created_on_utc" : "2022-09-15T14:05:53Z",
+                  "modified_on_utc" : "2022-09-15T14:05:53Z",
+                  "created_by" : "Jay Tanji",
+                  "modified_by" : "Jay Tanji",
+                  "display_order" : 6,
+                  "name" : "Invoicing"
+                },
+                {
+                  "created_on_utc" : "2022-09-15T14:05:53Z",
+                  "modified_on_utc" : "2022-09-15T14:05:53Z",
+                  "created_by" : "Jay Tanji",
+                  "modified_by" : "Jay Tanji",
+                  "display_order" : 7,
+                  "name" : "Lock time entries at certain rules"
+                },
+                {
+                  "created_on_utc" : "2022-09-15T14:05:53Z",
+                  "modified_on_utc" : "2022-09-15T14:05:53Z",
+                  "created_by" : "Jay Tanji",
+                  "modified_by" : "Jay Tanji",
+                  "display_order" : 8,
+                  "name" : "Reminders"
+                },
+                {
+                  "created_on_utc" : "2022-09-15T14:05:53Z",
+                  "modified_on_utc" : "2022-09-15T14:05:53Z",
+                  "created_by" : "Jay Tanji",
+                  "modified_by" : "Jay Tanji",
+                  "display_order" : 9,
+                  "name" : "Schedule reports via email"
+                },
+                {
+                  "created_on_utc" : "2022-09-15T14:05:53Z",
+                  "modified_on_utc" : "2022-09-15T14:05:53Z",
+                  "created_by" : "Jay Tanji",
+                  "modified_by" : "Jay Tanji",
+                  "display_order" : 10,
+                  "name" : "Fast and responsive support"
+                },
+                {
+                  "created_on_utc" : "2022-09-15T14:05:53Z",
+                  "modified_on_utc" : "2022-09-15T14:05:53Z",
+                  "created_by" : "Jay Tanji",
+                  "modified_by" : "Jay Tanji",
+                  "display_order" : 11,
+                  "name" : "API"
+                }
+              ]
+            },
+            {
+              "created_on_utc" : "2022-09-15T14:05:53Z",
+              "modified_on_utc" : "2022-09-15T14:05:53Z",
+              "created_by" : "Jay Tanji",
+              "modified_by" : "Jay Tanji",
+              "name" : "Team",
+              "description" : "For teams and companies that need all features, plus best-in-class integrations. Starting at 5 users. Price discounted to $8.50 if paid annually.",
+              "display_order" : 3,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 10.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Per User",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-09-15T14:05:53Z",
+                  "modified_on_utc" : "2022-09-15T14:05:53Z",
+                  "created_by" : "Jay Tanji",
+                  "modified_by" : "Jay Tanji",
+                  "display_order" : 1,
+                  "name" : "Everything in Lite plan +"
+                },
+                {
+                  "created_on_utc" : "2022-09-15T14:05:53Z",
+                  "modified_on_utc" : "2022-09-15T14:05:53Z",
+                  "created_by" : "Jay Tanji",
+                  "modified_by" : "Jay Tanji",
+                  "display_order" : 2,
+                  "name" : "Unlimited users"
+                },
+                {
+                  "created_on_utc" : "2022-09-15T14:05:53Z",
+                  "modified_on_utc" : "2022-09-15T14:05:53Z",
+                  "created_by" : "Jay Tanji",
+                  "modified_by" : "Jay Tanji",
+                  "display_order" : 3,
+                  "name" : "Native integrations with sync"
+                },
+                {
+                  "created_on_utc" : "2022-09-15T14:05:53Z",
+                  "modified_on_utc" : "2022-09-15T14:05:53Z",
+                  "created_by" : "Jay Tanji",
+                  "modified_by" : "Jay Tanji",
+                  "display_order" : 4,
+                  "name" : "Time approval"
+                },
+                {
+                  "created_on_utc" : "2022-09-15T14:05:53Z",
+                  "modified_on_utc" : "2022-09-15T14:05:53Z",
+                  "created_by" : "Jay Tanji",
+                  "modified_by" : "Jay Tanji",
+                  "display_order" : 5,
+                  "name" : "Time tracking audits"
+                },
+                {
+                  "created_on_utc" : "2022-09-15T14:05:53Z",
+                  "modified_on_utc" : "2022-09-15T14:05:53Z",
+                  "created_by" : "Jay Tanji",
+                  "modified_by" : "Jay Tanji",
+                  "display_order" : 6,
+                  "name" : "Time cards"
+                },
+                {
+                  "created_on_utc" : "2022-09-15T14:05:53Z",
+                  "modified_on_utc" : "2022-09-15T14:05:53Z",
+                  "created_by" : "Jay Tanji",
+                  "modified_by" : "Jay Tanji",
+                  "display_order" : 7,
+                  "name" : "Time off"
+                },
+                {
+                  "created_on_utc" : "2022-09-15T14:05:53Z",
+                  "modified_on_utc" : "2022-09-15T14:05:53Z",
+                  "created_by" : "Jay Tanji",
+                  "modified_by" : "Jay Tanji",
+                  "display_order" : 8,
+                  "name" : "Expenses"
+                },
+                {
+                  "created_on_utc" : "2022-09-15T14:05:53Z",
+                  "modified_on_utc" : "2022-09-15T14:05:53Z",
+                  "created_by" : "Jay Tanji",
+                  "modified_by" : "Jay Tanji",
+                  "display_order" : 9,
+                  "name" : "Scheduling"
+                },
+                {
+                  "created_on_utc" : "2022-09-15T14:05:53Z",
+                  "modified_on_utc" : "2022-09-15T14:05:53Z",
+                  "created_by" : "Jay Tanji",
+                  "modified_by" : "Jay Tanji",
+                  "display_order" : 10,
+                  "name" : "Optional screenshots"
+                },
+                {
+                  "created_on_utc" : "2022-09-15T14:05:53Z",
+                  "modified_on_utc" : "2022-09-15T14:05:53Z",
+                  "created_by" : "Jay Tanji",
+                  "modified_by" : "Jay Tanji",
+                  "display_order" : 11,
+                  "name" : "Single sign-on (SSO)"
+                },
+                {
+                  "created_on_utc" : "2022-09-15T14:05:53Z",
+                  "modified_on_utc" : "2022-09-15T14:05:53Z",
+                  "created_by" : "Jay Tanji",
+                  "modified_by" : "Jay Tanji",
+                  "display_order" : 12,
+                  "name" : "Priority support"
+                },
+                {
+                  "created_on_utc" : "2022-09-15T14:05:53Z",
+                  "modified_on_utc" : "2022-09-15T14:05:53Z",
+                  "created_by" : "Jay Tanji",
+                  "modified_by" : "Jay Tanji",
+                  "display_order" : 13,
+                  "name" : "API"
+                }
+              ]
+            }
+          ],
+          "discount_types" : [
+            {
+              "name" : "By Plan Frequency",
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

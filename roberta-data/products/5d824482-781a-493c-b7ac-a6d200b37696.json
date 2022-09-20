@@ -1,0 +1,2453 @@
+{
+  "took" : 5,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 3,
+    "successful" : 3,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : {
+      "value" : 2,
+      "relation" : "eq"
+    },
+    "max_score" : 11.380028,
+    "hits" : [
+      {
+        "_index" : "product_listings_main_data_upc_vt20220920_043802_utc",
+        "_type" : "_doc",
+        "_id" : "225530_plumbing",
+        "_score" : 11.380028,
+        "_source" : {
+          "product_id" : 225530,
+          "seo_product_id" : 225530,
+          "seo_slug" : "Dataforma",
+          "product_name" : "Dataforma",
+          "upc_product_uuid" : "5d824482-781a-493c-b7ac-a6d200b37696",
+          "old_product_ids" : [
+            130599
+          ],
+          "product_url" : "http://www.dataforma.com",
+          "product_slug" : "Dataforma",
+          "former_name" : "Dataforma",
+          "logo_filepath" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/09666d96-c660-4344-a680-07b85960644e.png",
+          "vendor" : {
+            "vendor_id" : 2172427,
+            "vendor_name" : "Dataforma",
+            "vendor_url" : "http://www.dataforma.com",
+            "year_founded" : 2004,
+            "location" : "United States",
+            "vendor_opted_out_of_reviews" : true,
+            "is_opted_out_of_reviews" : false,
+            "is_hit_limit" : false,
+            "enabled" : true,
+            "has_vendor_level_page" : false,
+            "slug" : null,
+            "vendor_page" : false,
+            "paused_campaign" : false
+          },
+          "category_short_name" : "plumbing",
+          "category_html_name" : "plumbing-software",
+          "category" : {
+            "id" : 30673,
+            "short_name" : "plumbing",
+            "long_name" : "Plumbing",
+            "html_name" : "plumbing-software",
+            "enabled" : true
+          },
+          "best_category" : "plumbing",
+          "is_best_category" : true,
+          "highest_cpc_category" : null,
+          "is_highest_cpc_category" : false,
+          "short_desc" : "Web-based field service management and project management software with integrated scheduling and invoicing for contractors. ",
+          "long_desc" : "Web-based field service management software and project management with integrated scheduling, invoicing, mobile labor tracking and GPS Tracking for contractors. Dataforma combines all of your software needs into a single, integrated solution built by contractors, for contractors. Record and track every call that comes into your office to follow every job from start to finish. Continual upgrades and 24/7 customer service are included, no up-charges or hidden fees for added functionality. ",
+          "rating" : 4.3,
+          "number_of_reviews" : 75,
+          "total_reviews" : 104,
+          "ease_of_use_rating" : 3.9,
+          "customer_support_rating" : 4.6,
+          "functionality_rating" : 4.0,
+          "value_for_money_rating" : 4.1,
+          "recommendation_rating" : 8.1,
+          "pricing_enabled" : true,
+          "pricing" : 69.99,
+          "is_per_user" : false,
+          "fee_schedule" : "Per-Month",
+          "pricing_model" : "Per Feature",
+          "pricing_details" : "Dataforma pricing starts at $69.99 per month per user. Please contact Dataforma for additional details.",
+          "pricing_created_on" : "2019-08-21T14:47:39Z",
+          "pricing_modified_on" : "2022-04-11T20:39:17Z",
+          "pricing_created_by" : null,
+          "pricing_modified_by" : null,
+          "pricing_vendor_pricing_url" : null,
+          "free_trial" : true,
+          "free_version" : false,
+          "target_audience" : "Any contractor managing service work and large, production jobs looking to streamline their business in a single system. ",
+          "target_users" : [
+            "2-10",
+            "11-50",
+            "51-200",
+            "201-500",
+            "501-1000",
+            "1000+"
+          ],
+          "platform" : [
+            {
+              "enabled" : true,
+              "name" : "Cloud, SaaS, Web-Based"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Mac"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Chromebook"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile Android"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPhone"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPad"
+            }
+          ],
+          "support" : [
+            {
+              "enabled" : true,
+              "name" : "Email Help Desk"
+            },
+            {
+              "enabled" : true,
+              "name" : "FAQ Forum"
+            },
+            {
+              "enabled" : true,
+              "name" : "Knowledgebase"
+            },
+            {
+              "enabled" : true,
+              "name" : "Phone Support"
+            },
+            {
+              "enabled" : true,
+              "name" : "24/7 Live Rep"
+            },
+            {
+              "enabled" : false,
+              "name" : "Chat"
+            }
+          ],
+          "training" : [
+            {
+              "enabled" : false,
+              "name" : "Not Offered"
+            },
+            {
+              "enabled" : true,
+              "name" : "In-Person"
+            },
+            {
+              "enabled" : true,
+              "name" : "Live Online"
+            },
+            {
+              "enabled" : false,
+              "name" : "Webinars"
+            },
+            {
+              "enabled" : false,
+              "name" : "Documentation"
+            },
+            {
+              "enabled" : true,
+              "name" : "Videos"
+            }
+          ],
+          "media" : [
+            {
+              "product_id" : 225530,
+              "vendor_id" : 2172427,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/196f0639-0060-4110-a58e-7f3bf0024b2f.png",
+              "caption" : null,
+              "weight" : 2,
+              "short_name" : "plumbing"
+            },
+            {
+              "product_id" : 225530,
+              "vendor_id" : 2172427,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/25328eeb-00af-4edb-8442-e50ffd31301b.png",
+              "caption" : null,
+              "weight" : 1,
+              "short_name" : "plumbing"
+            },
+            {
+              "product_id" : 225530,
+              "vendor_id" : 2172427,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/47cfec2a-0ebf-4045-8e28-07385e276cd7.png",
+              "caption" : null,
+              "weight" : 3,
+              "short_name" : "plumbing"
+            },
+            {
+              "product_id" : 225530,
+              "vendor_id" : 2172427,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/645f511b-5b96-4c4d-96ae-3b43bbc0d657.png",
+              "caption" : null,
+              "weight" : 4,
+              "short_name" : "plumbing"
+            },
+            {
+              "product_id" : 225530,
+              "vendor_id" : 2172427,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/bbfe104e-9eb6-4012-815d-7f574f648457.png",
+              "caption" : null,
+              "weight" : 5,
+              "short_name" : "plumbing"
+            },
+            {
+              "product_id" : 225530,
+              "vendor_id" : 2172427,
+              "media_type" : "VIDEO",
+              "path_url" : "https://vimeo.com/250275081",
+              "caption" : null,
+              "weight" : 0,
+              "short_name" : "plumbing"
+            }
+          ],
+          "links" : [ ],
+          "features" : [
+            {
+              "category_name" : "Plumbing",
+              "category_features" : [
+                {
+                  "name" : "Billing & Invoicing",
+                  "value" : true,
+                  "id" : "b9829f5b-1e19-49e7-b343-c2286973de15",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Create and manage monetary interactions between parties (i.e. bills and invoices)"
+                },
+                {
+                  "name" : "Customer Database",
+                  "value" : true,
+                  "id" : "be9bfa3a-3e91-44f8-8207-5c3fb385a54b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Searchable repository of information about clients"
+                },
+                {
+                  "name" : "Dispatch Management",
+                  "value" : true,
+                  "id" : "81deed45-5410-49ab-b293-36fe67fd13a8",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Manage sending personnel and resources to a site as needed"
+                },
+                {
+                  "name" : "Inventory Management",
+                  "value" : false,
+                  "id" : "80f46038-6ae8-4725-8064-788b20380eeb",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track and manage the quantity of resources on hand to maintain proper supply"
+                },
+                {
+                  "name" : "Job Management",
+                  "value" : true,
+                  "id" : "df7dfb70-67b4-4f9f-98e1-3399a184c3ac",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Manage all job information in one place"
+                },
+                {
+                  "name" : "Mobile App",
+                  "value" : false,
+                  "id" : "6455cfe3-aa17-4074-ada7-af53617242c1",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Access/operate the system via mobile application"
+                },
+                {
+                  "name" : "Quotes/Estimates",
+                  "value" : true,
+                  "id" : "96125292-fba0-4c4b-b429-6afba9eccf8c",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Generate quotes and estimates forms to send to customers"
+                },
+                {
+                  "name" : "Routing",
+                  "value" : true,
+                  "id" : "2edeff5e-4a6d-49f6-aeb7-a79de1cda540",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Provide directions and plan the day's work to optimize employee scheduling"
+                },
+                {
+                  "name" : "Scheduling",
+                  "value" : true,
+                  "id" : "0cc5cde1-b9c8-4aaf-9a3b-67ed2aafe507",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Plan availability and assign specific time slots for tasks and resources"
+                },
+                {
+                  "name" : "Service History",
+                  "value" : true,
+                  "id" : "aa27c3f2-09d9-4db3-b017-8f3c488ef9b4",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track work performed and resources used for past customers, sites, or assets"
+                },
+                {
+                  "name" : "Technician Management",
+                  "value" : true,
+                  "id" : "ea2c500d-0483-4417-813c-e03cf84c2db3",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track and oversee work orders assigned to technicians"
+                },
+                {
+                  "name" : "Work Order Management",
+                  "value" : true,
+                  "id" : "2caace3e-d52a-4874-bb04-d700557cf547",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Create work orders and track their status to completion"
+                }
+              ]
+            }
+          ],
+          "infographics" : [ ],
+          "related_products" : [
+            {
+              "product_id" : 140363,
+              "seo_product_id" : 212387,
+              "seo_slug" : "Housecall-Pro",
+              "vendor_name" : "Housecall Pro",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e5acd859-9814-442f-91f2-01e124d15963.png",
+              "rating" : 4.7,
+              "total_reviews" : 2620,
+              "slug" : "HouseCall-Pro",
+              "product_name" : "Housecall Pro",
+              "short_desc" : "Housecall Pro is a top-rated business solution for Plumbing professionals to streamline scheduling, dispatching, payments, & more.",
+              "features" : "Call now to get up to 80% off your first month: 855-921-4757.\n\nHousecall Pro is an all-in-one Plumbing business management app that helps automate business processes and workflows. Trusted by over 25,000 home service companies. Features include: QuickBooks Desktop & Online integration, scheduling, dispatch, invoicing, text notifications, payment processing, marketing, online booking, & much more!",
+              "url" : "https://www.housecallpro.com/industries/plumbing-software/?utm_source=gartner&utm_medium=paid-external-page&utm_campaign=plumbing&mc=capterra&msc=back-to-school-promo-3q-2022"
+            },
+            {
+              "product_id" : 147181,
+              "seo_product_id" : 222457,
+              "seo_slug" : "STACK",
+              "vendor_name" : "Stack Construction Technologies",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d8a70e47-2bd8-41aa-b21e-8c5d80c38879.png",
+              "rating" : 4.5,
+              "total_reviews" : 1249,
+              "slug" : "STACK-Takeoff",
+              "product_name" : "STACK",
+              "short_desc" : "Flexible, Fast & Accurate Estimating for Plumbing Contractors. Bid & Win more work with STACK! Create Your Free Account Today!\r\n",
+              "features" : "Flexible, Fast and Accurate Estimating for Plumbing Contractors.\r\n\r\nBid & Win More Profitable Work in Less Time with STACK! \r\n\r\nSTACK empowers your team to quickly and accurately measure digital plans, quantify materials and collaborate with key project stakeholders. Our easy-to-use, cloud-based software will help you to ensure takeoff accuracy, eliminate costly bid errors and win more profitable work. \r\n\r\nCreate Your Free Account Today!",
+              "url" : "https://www.stackct.com/plumbing_takeoff_estimating_software/?utm_medium=cpc&utm_campaign=plumbing"
+            },
+            {
+              "product_id" : 148516,
+              "seo_product_id" : 212390,
+              "seo_slug" : "Marketing-360",
+              "vendor_name" : "Madwire",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e0d4096b-6fa3-4d66-98e5-8f3ac4c06590.png",
+              "rating" : 4.6,
+              "total_reviews" : 973,
+              "slug" : "Marketing-360",
+              "product_name" : "Marketing 360",
+              "short_desc" : "#1 Marketing Platform For SMB's! Create a Free Account",
+              "features" : "Get everything you need to manage and grow your business,  all from a singular platform  create your free account today to explore the platform and compare plans and pricing.",
+              "url" : "https://www.marketing360.com/?ref=CaptarraAds"
+            },
+            {
+              "product_id" : 77264,
+              "seo_product_id" : 77264,
+              "seo_slug" : "mHelpDesk",
+              "vendor_name" : "mHelpDesk",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/273c54aa-4d75-41b9-9914-e2c0a26baa2c.png",
+              "rating" : 4.3,
+              "total_reviews" : 801,
+              "slug" : "mHelpDesk",
+              "product_name" : "mHelpDesk",
+              "short_desc" : "The fastest, easiest, and highest value plumbing software to automate everything from first customer contact to getting paid.",
+              "features" : "Win more jobs, get paid faster, and impress your customers with mHelpDesk, the #1 easiest and most powerful solution for your plumbing business. From the office to the field, we pack the best plumbing business management tools into one easy-to-use and affordable software solution. Scheduling, dispatch, billing, inventory management, getting paid, and everything in between. Our in-house product experts will get you up-and-running today.",
+              "url" : "https://www.mhelpdesk.com/?utm_medium=cpc&utm_campaign=plumbing"
+            },
+            {
+              "product_id" : 72551,
+              "seo_product_id" : 72551,
+              "seo_slug" : "Fleetmatics-Work",
+              "vendor_name" : "Verizon Connect",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/681064a2-e7b6-4c46-a5f7-4547af1c3e94.png",
+              "rating" : 3.1,
+              "total_reviews" : 760,
+              "slug" : "Fleetmatics-Work",
+              "product_name" : "Verizon Connect",
+              "short_desc" : "Manage your techs in the field more efficiently. Take control of your schedules, invoices and quotes by moving them to the cloud.. \r\n",
+              "features" : "Verizon Connect Work helps you manage your technicians in the field. Our solution allows you to take control of your schedules, invoices, and quotes by moving them to the cloud. Collect relevant information such as site details, photos, and customer signatures while empowering your technicians with software that's compatible with their smartphones and tablets. Jobs can be customized to match the needs of each work order and added, updated reassigned, and synced with your back-office.\r\n",
+              "url" : "https://www.verizonconnect.com/v/field/field/field-service-capterra/?lead=Capterra&utm_campaign=Work%20Demo%20-%20Plumbing&utm_medium=cpc&utm_source=capterra"
+            },
+            {
+              "product_id" : 127994,
+              "seo_product_id" : 226766,
+              "seo_slug" : "Jobber",
+              "vendor_name" : "Jobber Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8f70afa2-9658-46e3-9871-9c90ef679553.png",
+              "rating" : 4.5,
+              "total_reviews" : 603,
+              "slug" : "Jobber",
+              "product_name" : "Jobber",
+              "short_desc" : "Plumbing businesses need reliable field management software. Keep jobs on track & offer great customer service w/ Jobber. Try it free!",
+              "features" : "Keep your plumbing jobs on track and your customers informed with Jobber field management software. Thanks to its advanced automation, you'll be able to schedule jobs more efficiently, optimize routes, and find your quotes, scheduling, and invoices all in one place. Send automatic payment reminders, get your crews all the necessary info, and know whenever they finish a job. With a mobile app, free training, & easy installation, Jobber helps you save time and deliver incredible customer service.",
+              "url" : "https://getjobber.com/dlp/plumbing-software/?utm_medium=cpc&utm_campaign=plumbing&utm_content=visit_website_button"
+            },
+            {
+              "product_id" : 130989,
+              "seo_product_id" : 227011,
+              "seo_slug" : "RazorSync",
+              "vendor_name" : "RazorSync",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/c564f283-92d5-4d8c-bf99-d7d9551bedd9.png",
+              "rating" : 4.3,
+              "total_reviews" : 486,
+              "slug" : "RazorSync",
+              "product_name" : "RazorSync",
+              "short_desc" : "RazorSync is the top rated field service software designed to improve revenue, streamline operations and drive customer satisfaction. ",
+              "features" : "RazorSync field service management software allows you to manage your plumbing business from a phone, tablet, or office computer. View workers and jobs on a map, schedule and dispatch employees via text or email, and shorten the payment cycle with job site invoicing. Customer records are automatically updated in QuickBooks, reducing back-office entry and errors. All your data is stored in the cloud, accessible from any mobile device. \n",
+              "url" : "https://www.razorsync.com/industries/plumbing/?utm_source=Capterra"
+            },
+            {
+              "product_id" : 122541,
+              "seo_product_id" : 232369,
+              "seo_slug" : "Kickserv",
+              "vendor_name" : "KickServ",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d1e7d608-d772-44d5-beb5-cb794d0b7851.png",
+              "rating" : 4.4,
+              "total_reviews" : 332,
+              "slug" : "Kickserv",
+              "product_name" : "Kickserv",
+              "short_desc" : "User-Friendly Field Service Software. Manage Leads, Estimates, Jobs, Customers, Invoices & More!",
+              "features" : "BUILT BY & TRUSTED BY PLUMBING PROS. #1 Most user-friendly & most affordable software for local service companies with 1-25 employees. Complete job management: scheduling, leads management, estimates, running complete jobs from the field, invoices, payments & more! Fully integrated with Quickbooks. We are also one of the most proven platforms available to simplify and manage your service business. Trusted by 1000s of service businesses for over 20 years. Plans starting as low as $39/month.",
+              "url" : "https://app.kickserv.com/app/signup?utm_source=capterra&utm_medium=cpc&utm_campaign=profile&utm_content=plumbing"
+            },
+            {
+              "product_id" : 110711,
+              "seo_product_id" : 225549,
+              "seo_slug" : "ServiceM8",
+              "vendor_name" : "ServiceM8",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/844c0615-3f41-42f1-8b37-359ecd3da4a0.png",
+              "rating" : 4.7,
+              "total_reviews" : 291,
+              "slug" : "ServiceM8",
+              "product_name" : "ServiceM8",
+              "short_desc" : "The app for trade contractors & service businesses to cut paperwork, provide amazing service, and run a more productive business.",
+              "features" : "Great for Plumbing businesses with less than 30 staff. Powerful management of estimates, scheduling, invoicing, compliance documents, customers, reporting & much more. Cut admin time dramatically by sending invoices directly into your accounting package. ServiceM8 is revolutionizing small businesses around the world, we guarantee you'll be booking more work within 3 months. Try it free today, no credit card required.",
+              "url" : "https://www.servicem8.com/industries/plumbing-software?utm_source=Capterra_Plumbing"
+            },
+            {
+              "product_id" : 111740,
+              "seo_product_id" : 5841,
+              "seo_slug" : "FieldEdge",
+              "vendor_name" : "Xplor Technologies",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/aff1b11c-8e00-4b36-b34a-4d7b4a817da3.png",
+              "rating" : 4.3,
+              "total_reviews" : 280,
+              "slug" : "FieldEdge",
+              "product_name" : "FieldEdge",
+              "short_desc" : "The #1 software to run your entire plumbing business - FieldEdge helps you save time and make you more money!\n",
+              "features" : "The field service management software to run your entire plumbing business is the one that the owner, office staff and technicians actually find helpful! Easily track customer history, dispatching, finances, service agreements, and more. FieldEdge's live QuickBooks integration means no more double entry! Our mobile app gives plumbers all the information they need to provide great customer service and sell more. Schedule a demo today to see why over 30,000 companies trust FieldEdge!\n",
+              "url" : "https://fieldedge.com/ppc/capterra/plumbing/?utm_source=capterra&utm_medium=cpc&utm_campaign=plumbing&utm_term=plumbing"
+            },
+            {
+              "product_id" : 149343,
+              "seo_product_id" : 62749,
+              "seo_slug" : "Smart-Service",
+              "vendor_name" : "My Service Depot",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/16ffe04a-6d34-4036-be20-2fe628cd39dc.png",
+              "rating" : 4.3,
+              "total_reviews" : 260,
+              "slug" : "Smart-Service",
+              "product_name" : "Smart Service",
+              "short_desc" : "Add scheduling, billing, work orders, customer management, and more to QuickBooks with Smart Service, the best software for plumbers.",
+              "features" : "Already using QuickBooks to manage your plumbing accounting? Kick things up a notch with Smart Service, the direct QuickBooks add-on that tackles scheduling, billing, dispatch, customer management, work orders, and more. Replace your clipboards and filing cabinets with an easy-to-use, 100% paperless, 100% mobile software system that will streamline your operations, eliminate waste, boost revenue, and ultimately grow your business.",
+              "url" : "https://www.smartservice.com/plumbing-software-landing/"
+            }
+          ],
+          "similar_products" : [
+            {
+              "product_id" : 150053,
+              "seo_product_id" : 220441,
+              "seo_slug" : "ServiceTitan",
+              "vendor_name" : "ServiceTitan",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/341f924d-664f-4110-8f29-7e2a151565f5.png",
+              "rating" : 4.4,
+              "total_reviews" : 190,
+              "slug" : "ServiceTitan",
+              "product_name" : "ServiceTitan",
+              "short_desc" : "ServiceTitan is the leading software solution that's changing the way residential and commercial plumbing shops do business.",
+              "features" : "Rated a top field-service platform by Capterra. Plumbing shops grow with ServiceTitan! Like Plumbing Medic, which increased memberships by 167%. See why 100,000+ service professionals trust ServiceTitan to improve sales, amaze customers, and manage their business more easily.",
+              "url" : "https://www.servicetitan.com/go/field-service-software?utm_source=capterra&utm_medium=review_sites&utm_term=field_service_management&capterra_source=capterra"
+            },
+            {
+              "product_id" : 194155,
+              "seo_product_id" : 222225,
+              "seo_slug" : "BuildOps",
+              "vendor_name" : "BuildOps",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/91ad609f-0af8-4e0c-bda9-1459d559f6aa.png",
+              "rating" : 4.9,
+              "total_reviews" : 13,
+              "slug" : "BuildOps",
+              "product_name" : "BuildOps",
+              "short_desc" : "All-in-one operational software designed for COMMERCIAL PLUMBING CONTRACTORS. Dispatch, workflows, quoting/invoicing, reporting + more.",
+              "features" : "Purpose-built for the modern **COMMERCIAL PLUMBING CONTRACTOR**, BuildOps is the ultimate all-in-one solution. The cloud-based platform contains everything contractors need to streamline + optimize their entire operation.\n\nKey features include: user-friendly interface + mobile app; drag+drop scheduling/dispatch; gated workflows + custom forms; customer/asset management; PM + service agreements; quoting, invoicing + more.\n\nBest for commercial contractors with 5+ technicians.",
+              "url" : "https://buildops.com/commercial-hvac-platform/?utm_source=capterra&utm_medium=cpc"
+            },
+            {
+              "product_id" : 111740,
+              "seo_product_id" : 5841,
+              "seo_slug" : "FieldEdge",
+              "vendor_name" : "Xplor Technologies",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/aff1b11c-8e00-4b36-b34a-4d7b4a817da3.png",
+              "rating" : 4.3,
+              "total_reviews" : 280,
+              "slug" : "FieldEdge",
+              "product_name" : "FieldEdge",
+              "short_desc" : "The #1 software to run your entire plumbing business - FieldEdge helps you save time and make you more money!\n",
+              "features" : "The field service management software to run your entire plumbing business is the one that the owner, office staff and technicians actually find helpful! Easily track customer history, dispatching, finances, service agreements, and more. FieldEdge's live QuickBooks integration means no more double entry! Our mobile app gives plumbers all the information they need to provide great customer service and sell more. Schedule a demo today to see why over 30,000 companies trust FieldEdge!\n",
+              "url" : "https://fieldedge.com/ppc/capterra/field-service-management/?utm_medium=cpc&utm_term=field%20service%20management"
+            },
+            {
+              "product_id" : 140363,
+              "seo_product_id" : 212387,
+              "seo_slug" : "Housecall-Pro",
+              "vendor_name" : "Housecall Pro",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e5acd859-9814-442f-91f2-01e124d15963.png",
+              "rating" : 4.7,
+              "total_reviews" : 2620,
+              "slug" : "HouseCall-Pro",
+              "product_name" : "Housecall Pro",
+              "short_desc" : "Housecall Pro is a top-rated business solution for Plumbing professionals to streamline scheduling, dispatching, payments, & more.",
+              "features" : "Call now to get up to 80% off your first month: 855-921-4757.\n\nHousecall Pro is an all-in-one Plumbing business management app that helps automate business processes and workflows. Trusted by over 25,000 home service companies. Features include: QuickBooks Desktop & Online integration, scheduling, dispatch, invoicing, text notifications, payment processing, marketing, online booking, & much more!",
+              "url" : "https://www.housecallpro.com/get-started/?utm_source=gartner&utm_medium=paid-external-page&utm_campaign=field-service-management&mc=capterra&msc=back-to-school-promo-3q-2022"
+            },
+            {
+              "product_id" : 127994,
+              "seo_product_id" : 226766,
+              "seo_slug" : "Jobber",
+              "vendor_name" : "Jobber Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8f70afa2-9658-46e3-9871-9c90ef679553.png",
+              "rating" : 4.5,
+              "total_reviews" : 603,
+              "slug" : "Jobber",
+              "product_name" : "Jobber",
+              "short_desc" : "Plumbing businesses need reliable field management software. Keep jobs on track & offer great customer service w/ Jobber. Try it free!",
+              "features" : "Keep your plumbing jobs on track and your customers informed with Jobber field management software. Thanks to its advanced automation, you'll be able to schedule jobs more efficiently, optimize routes, and find your quotes, scheduling, and invoices all in one place. Send automatic payment reminders, get your crews all the necessary info, and know whenever they finish a job. With a mobile app, free training, & easy installation, Jobber helps you save time and deliver incredible customer service.",
+              "url" : "https://getjobber.com/?utm_medium=cpc&utm_campaign=fsmhome&utm_content=visit_website_button"
+            },
+            {
+              "product_id" : 246280,
+              "seo_product_id" : 246280,
+              "seo_slug" : "Sera",
+              "vendor_name" : "Sera Systems",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/c2de9baa-8ab5-476d-866e-f44b23531fb3.jpeg",
+              "rating" : 4.8,
+              "total_reviews" : 4,
+              "slug" : "Sera",
+              "product_name" : "Sera",
+              "short_desc" : "It's about time!  Time in the office.  Time in the field.  Time with your family.  Sera's HVAC software knows time matters. ",
+              "features" : "Sera's plumbing software is ready to take on the real need of residential plumbing business, profitability. Our platform is designed by a plumbing business owner whose financial performance was 4 times the national average.  Eric with Bluefrog says, \"Within the last year we have doubled our size and doubled our profit!\"\nRunning a business is hard, so put Sera to work for you and free up your key players to focus on what matters most - the bottom line.\n",
+              "url" : "https://get.sera.tech/capterra/"
+            },
+            {
+              "product_id" : 135788,
+              "seo_product_id" : 223895,
+              "seo_slug" : "Service-Fusion",
+              "vendor_name" : "Service Fusion",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/791afec6-f648-4805-9661-e07812fb6199.png",
+              "rating" : 4.4,
+              "total_reviews" : 149,
+              "slug" : "Service-Fusion",
+              "product_name" : "Service Fusion",
+              "short_desc" : "Make smarter business decisions through complete operational visibility with the all-in-one, easy-to-use power of Service Fusion.",
+              "features" : "Trusted by more than 6,000 service contractors, Service Fusion is an all-in-one field service management software built to improve your business operations and help you make smarter, more informed decisions. \n\nWith one centralized system for customer management, dispatching, scheduling, invoicing, reporting, and payments, you gain full visibility across business operations to better serve your customers. Technicians can even utilize our mobile application to receive and manage jobs in the field.",
+              "url" : "https://www.servicefusion.com/field-service-management-software?refsrc=CapterraFSM&utm_source=CapterraFSM"
+            },
+            {
+              "product_id" : 147480,
+              "seo_product_id" : 222567,
+              "seo_slug" : "SkyBoss",
+              "vendor_name" : "SkyBoss",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/1305ebac-6e96-4355-91d2-044b0c48c663.png",
+              "rating" : 4.6,
+              "total_reviews" : 22,
+              "slug" : "SkyBoss",
+              "product_name" : "SkyBoss",
+              "short_desc" : "Mobile friendly solution that provides robust dispatching, invoicing, customer tracking, technician tracking, billing and accounting.",
+              "features" : "SkyBoss is a cloud-based, mobile software system that provides service businesses in depth real time field management, call tracking, technician tracking, paperless invoicing, payment processing, price book, and reporting on critical business metrics. SkyBoss is designed to streamline your business give you the tools needed to take your business to new levels of performance and revenue. SkyBoss also syncs with QuickBooks!",
+              "url" : "https://www.housecallpro.com/partner/skyboss/?utm_source=gartner&utm_medium=paid-external-page&utm_campaign=skyboss&mc=capterra&msc=skyboss"
+            },
+            {
+              "product_id" : 156796,
+              "seo_product_id" : 226313,
+              "seo_slug" : "ThermoGRID",
+              "vendor_name" : "ECI Software Solutions",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/1fcd5e93-0dc4-4f7f-9ef7-5ce293fff2c8.png",
+              "rating" : 4.5,
+              "total_reviews" : 65,
+              "slug" : "ThermoGRID",
+              "product_name" : "ThermoGrid",
+              "short_desc" : "Go 100% Paperless and eliminate the administrative burden of double entry. ThermoGRID will cover every aspect of your business.",
+              "features" : "ThermoGRID was founded by Plumbing Masterminds and a consultant that knew what it took to grow companies from zero revenue to multi-million dollar operations in a matter of months. Because we've been there, ThermoGRID is built with every role in an plumbing company in mind. See how tools such as our Smart Dispatching , client history, and invoicing options can help you become more efficient, accurate, and profitable. ThermoGRID is your ticket to reaching heights you never knew were possible.",
+              "url" : "https://www.ecisolutions.com/campaign/thermogrid-demo-2/?__geom=%E2%9C%AA&utm_source=capterra"
+            },
+            {
+              "product_id" : 25050,
+              "seo_product_id" : 221794,
+              "seo_slug" : "Jonas-Enterprise",
+              "vendor_name" : "Jonas Construction Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/06e5961b-b302-49c4-864f-62c2daad815d.png",
+              "rating" : 4.1,
+              "total_reviews" : 138,
+              "slug" : "Jonas-Enterprise",
+              "product_name" : "Jonas Enterprise",
+              "short_desc" : "Fully integrated service management software that meets all aspects of plumbing service business management.",
+              "features" : "Jonas Enterprise is an all-in-one solution perfectly suited mid/large-sized specialty contractors such as plumbing. Leverage powerful financial & reporting tools to streamline business processes, schedule jobs efficiently, optimize routes, instantly view WOs & POs, track all your technicians, equipment, materials, tools, & customer history. Equipped with GPS and mobile technology, manage your plumbing business on the go & on site. Trusted for over 30 years by over 14000 users!",
+              "url" : "http://try.jonasconstruction.com/construction-management-accounting-software/?utm_campaign=capterra-default&utm_medium=ppc&utm_source=capterra"
+            },
+            {
+              "product_id" : 189894,
+              "seo_product_id" : 223843,
+              "seo_slug" : "Commusoft",
+              "vendor_name" : "Commusoft",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/6f8b4457-3fc8-499a-853d-b88823d7f375.png",
+              "rating" : 4.7,
+              "total_reviews" : 173,
+              "slug" : "Commusoft",
+              "product_name" : "Commusoft",
+              "short_desc" : "All-in-one web-based business software for the plumbing industry, suitable for small and large companies.",
+              "features" : "Commusoft is an all-in-one online workforce service management software for plumbing businesses. It helps you to manage your customer database, quotations, jobs, engineer diaries, certificates and invoicing, and it integrates with popular accounting packages such as Sage, QuickBooks and Xero. It is accessible on your PC, Mac, iPhone, iPad, Android phone and Android tablet.",
+              "url" : "https://www.commusoft.us/demo-video-promo/?utm_campaign=Capterra&utm_source=ppc&utm_medium=demo&utm_content=fsm&capterra=capterra"
+            },
+            {
+              "product_id" : 98911,
+              "seo_product_id" : 222372,
+              "seo_slug" : "Ventus",
+              "vendor_name" : "Jonas Construction Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/0eb1f4bd-3f03-4d3a-ba72-4a9ba623d7a1.png",
+              "rating" : 4.3,
+              "total_reviews" : 42,
+              "slug" : "VMS-for-Service-Managers",
+              "product_name" : "Ventus",
+              "short_desc" : "Vertical Market Software is a fully-integrated construction enterprise software solution to help you run and manage your business.",
+              "features" : "Vertical Market Software is a fully-integrated service management solution. VMS' mobile software solution allows contractors with service departments to effectively enter data from the field, reduce paper costs, streamline communications, and use GPS mapping for better dispatching. With the ability to operate on all tablets, including iPad and Android devices, VMS mobile is a solution your field technicians will get on board with.",
+              "url" : "http://try.verticalmarketsoftware.com/capterra_service-management-/"
+            },
+            {
+              "product_id" : 129634,
+              "seo_product_id" : 224604,
+              "seo_slug" : "Synchroteam",
+              "vendor_name" : "Synchroteam",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/38fdc9b0-ba07-474a-b1ab-f17b518791a1.png",
+              "rating" : 4.5,
+              "total_reviews" : 56,
+              "slug" : "Synchroteam",
+              "product_name" : "Synchroteam",
+              "short_desc" : "Manage mobile workforces with Synchroteam field service management (FSM) software. Create your free trial in <1 minute. Live support.",
+              "features" : "Manage mobile workforces efficiently, simplify business processes and optimize costs with Synchroteam field service management (FSM) software for Plumbers.\r\nSynchroteam features tracking, scheduling, dispatch, calendar, job management, reporting, CRM, invoicing and maps. Cloud-based SaaS with iOS and Android mobile apps. Integrates with Quickbooks.\r\nCreate a free trial in <1 minute and get organized with our affordable, powerful and customizable field service solution. Live support.\r\n",
+              "url" : "https://www.synchroteam.com/ftc.php?utm_source=Capterra-FSM&utm_medium=cpc&utm_campaign=Capterra"
+            }
+          ],
+          "related_categories" : [
+            {
+              "functional_group" : "plumbing",
+              "long_name" : "Field Service Management",
+              "html_name" : "field-service-management-software",
+              "link_name" : "field-service-management",
+              "product_count" : 219,
+              "meta_description" : "Find and compare top Field Service Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Field Service Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/field-service-management-software>Field Service Management software</a> enables organizations to manage resources and communicate with field employees.  Field Service Management systems enhance productivity by allowing constant contact between dispatch office and offsite personnel. They improve the customer experience by giving field personnel access to service histories, mapping services, scheduling tools and to the organization's knowledge base resources.  <a href=/field-service-management-software>Field Service Management software</a> is related to <a href=/maintenance-management-software>Maintenance Management software</a> and <a href=/service-dispatch-software>Service Dispatch software</a>."
+            },
+            {
+              "functional_group" : "plumbing",
+              "long_name" : "Service Dispatch",
+              "html_name" : "service-dispatch-software",
+              "link_name" : "service-dispatch",
+              "product_count" : 141,
+              "meta_description" : "Find and compare top Service Dispatch software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Service Dispatch tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/service-dispatch-software>Service Dispatch software</a> assists with the scheduling and dispatching of field personnel.  Service Dispatch applications enhance efficiency and productivity by allowing constant contact between dispatch office and offsite personnel.  Service Dispatch solutions also provide field personnel with access to service histories, contracts, mapping services, job management and scheduling tools, expediting work orders and reducing downtime.  <a href=/service-dispatch-software>Service Dispatch software</a> is related to <a href=/field-service-management-software>Field Service Management software</a> and <a href=/maintenance-management-software>Maintenance Management software</a>."
+            }
+          ],
+          "is_upgraded" : false,
+          "enabled" : true,
+          "filter_options" : {
+            "users" : 126,
+            "platform" : 897,
+            "pricing_options" : 18,
+            "category_related_features" : [
+              36252,
+              36316,
+              36334,
+              36356,
+              36418,
+              36525,
+              36526,
+              36589,
+              38737,
+              38738,
+              60881,
+              60885,
+              60888,
+              60892,
+              60907,
+              60914
+            ],
+            "employees" : 126
+          },
+          "sort_options" : {
+            "sort_review_rating" : 4.38520622253418,
+            "most_recent_review" : "2021-12-02T17:22:23Z"
+          },
+          "countries" : "ALL",
+          "features_tokenized_text" : "billing_&_invoicing customer_database dispatch_management job_management quotes/estimates routing scheduling service_history technician_management work_order_management",
+          "platform_tokenized_text" : "cloud,saas,web-based mobileandroid mobileiphone mobileipad",
+          "users_tokenized_text" : "2-10 11-50 51-200 201-500 501-1000 1000+",
+          "pricing_tokenized_text" : "monthlysubscription freetrial",
+          "badges" : [ ],
+          "bid_spot_us" : 0.0,
+          "currency_code" : "USD",
+          "currency_symbol" : "$",
+          "credit_card_required" : "Unverified",
+          "licensing_model" : null,
+          "open_api_offered" : "Yes",
+          "mobile_urls" : [
+            {
+              "name" : "iOS",
+              "url" : "https://apps.apple.com/us/app/dataforma-2-0/id561791239"
+            },
+            {
+              "name" : "Android",
+              "url" : "https://play.google.com/store/apps/details?id=com.dataforma.dflowslope.android"
+            }
+          ],
+          "integrations" : [
+            {
+              "id" : "b9f1f6f7-08b8-4026-a244-a6d200b354f3",
+              "name" : "ComputerEase"
+            },
+            {
+              "id" : "bcdd9473-58dd-4c24-a82a-a6d200b601d6",
+              "name" : "Quickbooks Online"
+            },
+            {
+              "id" : "7092eaef-b348-4acb-8648-a6d200b64092",
+              "name" : "Sage 50cloud Accounting"
+            },
+            {
+              "id" : "672c51a1-8397-43dc-b306-a6d200b41ffd",
+              "name" : "FOUNDATION"
+            }
+          ],
+          "supported_countries" : [
+            {
+              "id" : 237,
+              "code" : "US",
+              "name" : "United States of America"
+            },
+            {
+              "id" : 41,
+              "code" : "CA",
+              "name" : "Canada"
+            }
+          ],
+          "supported_languages" : [
+            {
+              "id" : 152,
+              "code" : "en",
+              "name" : "English",
+              "location" : null
+            }
+          ],
+          "target_industries" : [
+            {
+              "id" : 26,
+              "code" : "48",
+              "name" : "Construction"
+            },
+            {
+              "id" : 29,
+              "code" : "91",
+              "name" : "Consumer Services"
+            },
+            {
+              "id" : 120,
+              "code" : "44",
+              "name" : "Real Estate"
+            },
+            {
+              "id" : 20,
+              "code" : "128",
+              "name" : "Commercial Real Estate"
+            },
+            {
+              "id" : 123,
+              "code" : "144",
+              "name" : "Renewables & Environment"
+            }
+          ],
+          "price_range_id" : 1,
+          "aggregated_review_ratings" : {
+            "industry" : {
+              "91" : 5.0,
+              "48" : 4.34,
+              "90" : 5.0,
+              "24" : 4.0,
+              "122" : 3.0
+            },
+            "company_size" : {
+              "11-50 employees" : 4.26,
+              "1-10 employees" : 4.0,
+              "51-200 employees" : 4.42,
+              "201-500 employees" : 4.67
+            }
+          },
+          "vct_enabled" : false,
+          "pricing_plans" : [
+            {
+              "created_on_utc" : "2021-01-05T16:52:57Z",
+              "modified_on_utc" : "2022-04-11T20:39:21Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Basic",
+              "description" : null,
+              "display_order" : 1,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 69.99,
+              "ending_price" : null,
+              "pricing_model_name" : "Per Feature",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [ ]
+            }
+          ],
+          "discount_types" : [ ]
+        }
+      },
+      {
+        "_index" : "product_listings_main_data_upc_vt20220920_043802_utc",
+        "_type" : "_doc",
+        "_id" : "130599_roofing",
+        "_score" : 10.871598,
+        "_source" : {
+          "product_id" : 130599,
+          "seo_product_id" : 225530,
+          "seo_slug" : "Dataforma",
+          "product_name" : "Dataforma",
+          "upc_product_uuid" : "5d824482-781a-493c-b7ac-a6d200b37696",
+          "old_product_ids" : [
+            225530
+          ],
+          "product_url" : "http://www.dataforma.com",
+          "product_slug" : "Dataforma",
+          "former_name" : "Dataforma",
+          "logo_filepath" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/09666d96-c660-4344-a680-07b85960644e.png",
+          "vendor" : {
+            "vendor_id" : 2091789,
+            "vendor_name" : "Dataforma",
+            "vendor_url" : "http://www.dataforma.com",
+            "year_founded" : 2004,
+            "location" : "United States",
+            "vendor_opted_out_of_reviews" : true,
+            "is_opted_out_of_reviews" : false,
+            "is_hit_limit" : false,
+            "enabled" : true,
+            "has_vendor_level_page" : false,
+            "slug" : null,
+            "vendor_page" : false,
+            "paused_campaign" : false
+          },
+          "category_short_name" : "roofing",
+          "category_html_name" : "roofing-software",
+          "category" : {
+            "id" : 31298,
+            "short_name" : "roofing",
+            "long_name" : "Roofing",
+            "html_name" : "roofing-software",
+            "enabled" : true
+          },
+          "best_category" : "roofing",
+          "is_best_category" : true,
+          "highest_cpc_category" : "roofing",
+          "is_highest_cpc_category" : true,
+          "short_desc" : "Web-based field service management and project management software with integrated scheduling and invoicing for contractors. ",
+          "long_desc" : "Web-based field service management software and project management with integrated scheduling, invoicing, mobile labor tracking and GPS Tracking for contractors. Dataforma combines all of your software needs into a single, integrated solution built by contractors, for contractors. Record and track every call that comes into your office to follow every job from start to finish. Continual upgrades and 24/7 customer service are included, no up-charges or hidden fees for added functionality. ",
+          "rating" : 4.3,
+          "number_of_reviews" : 75,
+          "total_reviews" : 104,
+          "ease_of_use_rating" : 3.9,
+          "customer_support_rating" : 4.6,
+          "functionality_rating" : 4.0,
+          "value_for_money_rating" : 4.1,
+          "recommendation_rating" : 8.1,
+          "pricing_enabled" : true,
+          "pricing" : 69.99,
+          "is_per_user" : false,
+          "fee_schedule" : "Per-Month",
+          "pricing_model" : "Per Feature",
+          "pricing_details" : "Dataforma pricing starts at $69.99 per month per user. Please contact Dataforma for additional details.",
+          "pricing_created_on" : "2019-08-21T14:47:39Z",
+          "pricing_modified_on" : "2022-04-11T20:39:17Z",
+          "pricing_created_by" : null,
+          "pricing_modified_by" : null,
+          "pricing_vendor_pricing_url" : null,
+          "free_trial" : true,
+          "free_version" : false,
+          "target_audience" : "Any contractor managing service work and large, production jobs looking to streamline their business in a single system. ",
+          "target_users" : [
+            "2-10",
+            "11-50",
+            "51-200",
+            "201-500",
+            "501-1000",
+            "1000+"
+          ],
+          "platform" : [
+            {
+              "enabled" : true,
+              "name" : "Cloud, SaaS, Web-Based"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Mac"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Chromebook"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile Android"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPhone"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPad"
+            }
+          ],
+          "support" : [
+            {
+              "enabled" : true,
+              "name" : "Email Help Desk"
+            },
+            {
+              "enabled" : true,
+              "name" : "FAQ Forum"
+            },
+            {
+              "enabled" : true,
+              "name" : "Knowledgebase"
+            },
+            {
+              "enabled" : true,
+              "name" : "Phone Support"
+            },
+            {
+              "enabled" : true,
+              "name" : "24/7 Live Rep"
+            },
+            {
+              "enabled" : false,
+              "name" : "Chat"
+            }
+          ],
+          "training" : [
+            {
+              "enabled" : false,
+              "name" : "Not Offered"
+            },
+            {
+              "enabled" : true,
+              "name" : "In-Person"
+            },
+            {
+              "enabled" : true,
+              "name" : "Live Online"
+            },
+            {
+              "enabled" : false,
+              "name" : "Webinars"
+            },
+            {
+              "enabled" : false,
+              "name" : "Documentation"
+            },
+            {
+              "enabled" : true,
+              "name" : "Videos"
+            }
+          ],
+          "media" : [
+            {
+              "product_id" : 130599,
+              "vendor_id" : 2091789,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/196f0639-0060-4110-a58e-7f3bf0024b2f.png",
+              "caption" : null,
+              "weight" : 2,
+              "short_name" : "roofing"
+            },
+            {
+              "product_id" : 130599,
+              "vendor_id" : 2091789,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/25328eeb-00af-4edb-8442-e50ffd31301b.png",
+              "caption" : null,
+              "weight" : 1,
+              "short_name" : "roofing"
+            },
+            {
+              "product_id" : 130599,
+              "vendor_id" : 2091789,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/47cfec2a-0ebf-4045-8e28-07385e276cd7.png",
+              "caption" : null,
+              "weight" : 3,
+              "short_name" : "roofing"
+            },
+            {
+              "product_id" : 130599,
+              "vendor_id" : 2091789,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/645f511b-5b96-4c4d-96ae-3b43bbc0d657.png",
+              "caption" : null,
+              "weight" : 4,
+              "short_name" : "roofing"
+            },
+            {
+              "product_id" : 130599,
+              "vendor_id" : 2091789,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/bbfe104e-9eb6-4012-815d-7f574f648457.png",
+              "caption" : null,
+              "weight" : 5,
+              "short_name" : "roofing"
+            },
+            {
+              "product_id" : 130599,
+              "vendor_id" : 2091789,
+              "media_type" : "VIDEO",
+              "path_url" : "https://vimeo.com/250275081",
+              "caption" : null,
+              "weight" : 0,
+              "short_name" : "roofing"
+            }
+          ],
+          "links" : [
+            {
+              "product_id" : 130599,
+              "functional_group" : "roofing",
+              "html_code" : "http://www.dataforma.com/resources/videos",
+              "link_name" : "Free Demo",
+              "link_priority" : 2.0
+            }
+          ],
+          "features" : [
+            {
+              "category_name" : "Roofing",
+              "category_features" : [
+                {
+                  "name" : "Aerial Measurement",
+                  "value" : false,
+                  "id" : "48d773b5-b0a8-4abe-bde5-422c0f71cc99",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Take aerial view measurements of properties and create estimates using tools like Google Maps, etc. "
+                },
+                {
+                  "name" : "Billing & Invoicing",
+                  "value" : true,
+                  "id" : "b9829f5b-1e19-49e7-b343-c2286973de15",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Create and manage monetary interactions between parties (ie. bills and invoices)"
+                },
+                {
+                  "name" : "CRM",
+                  "value" : true,
+                  "id" : "cdf8cb63-9596-4430-bcbb-92162fc532bf",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Contact and lead management to track interactions and notes about clients and prospects"
+                },
+                {
+                  "name" : "Commercial",
+                  "value" : true,
+                  "id" : "424c245d-4407-4361-81cc-e8dc78f2fe64",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Specialized for organizations who focus on commercial (ie. office buildings) construction projects"
+                },
+                {
+                  "name" : "Dispatch Management",
+                  "value" : true,
+                  "id" : "81deed45-5410-49ab-b293-36fe67fd13a8",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Manage sending personnel and resources to a site as needed"
+                },
+                {
+                  "name" : "Inspection Management",
+                  "value" : true,
+                  "id" : "4692b0a7-3b26-47b8-a115-ba74fa1b9e50",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Create checklists and to-do lists that can be marked during inspection"
+                },
+                {
+                  "name" : "Photo Capture",
+                  "value" : true,
+                  "id" : "ce9796e5-9445-4d5d-9f1b-d97cd11cda91",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Take and upload photos from a job and add comments/mark-ups and share with staff, customers, and other contractors"
+                },
+                {
+                  "name" : "Quotes/Estimates",
+                  "value" : true,
+                  "id" : "96125292-fba0-4c4b-b429-6afba9eccf8c",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Generate quotes and estimates forms to send to customers"
+                },
+                {
+                  "name" : "Scheduling",
+                  "value" : true,
+                  "id" : "0cc5cde1-b9c8-4aaf-9a3b-67ed2aafe507",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : "Plan availability and assign specific time slots for tasks and resources"
+                },
+                {
+                  "name" : "Work Order Management",
+                  "value" : true,
+                  "id" : "2caace3e-d52a-4874-bb04-d700557cf547",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : "Create work orders and track their status to completion"
+                }
+              ]
+            },
+            {
+              "category_name" : "Field Service Management",
+              "category_features" : [
+                {
+                  "name" : "Billing & Invoicing",
+                  "value" : true,
+                  "id" : "b9829f5b-1e19-49e7-b343-c2286973de15",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Create and manage monetary interactions between parties (i.e. bills and invoices)"
+                },
+                {
+                  "name" : "Contact Database",
+                  "value" : true,
+                  "id" : "eec2c352-bd86-4424-9857-bd7482a539de",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Centralized database of an organization's customers and clients"
+                },
+                {
+                  "name" : "Contract/License Management",
+                  "value" : true,
+                  "id" : "efd314c0-e308-412f-9ff3-8bd8745c3096",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Track, store, and access client/customer contracts"
+                },
+                {
+                  "name" : "Dispatch Management",
+                  "value" : true,
+                  "id" : "81deed45-5410-49ab-b293-36fe67fd13a8",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Manage sending personnel and resources to a site as needed"
+                },
+                {
+                  "name" : "Electronic Signature",
+                  "value" : true,
+                  "id" : "129d469f-1e77-489e-ac24-45c91b5277db",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Sign a document within the system"
+                },
+                {
+                  "name" : "Inventory Management",
+                  "value" : false,
+                  "id" : "80f46038-6ae8-4725-8064-788b20380eeb",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track and manage the quantity of resources on hand to maintain proper supply"
+                },
+                {
+                  "name" : "Mobile Access",
+                  "value" : true,
+                  "id" : "15d49235-ad13-4d33-b009-edd50126375b",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Access the software remotely via mobile devices"
+                },
+                {
+                  "name" : "Online Time Clock",
+                  "value" : true,
+                  "id" : "5e87ddce-b43b-4c23-80ba-0bd219d4d173",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track/log the amount of time employees worked per job"
+                },
+                {
+                  "name" : "Payment Collection in the Field",
+                  "value" : true,
+                  "id" : "f5d747c4-b2b4-4bbd-8706-d9396a838e13",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Swipe a credit card or manually process payments while with the customer in the field"
+                },
+                {
+                  "name" : "Quotes/Estimates",
+                  "value" : true,
+                  "id" : "96125292-fba0-4c4b-b429-6afba9eccf8c",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Generate quotes and estimates forms to send to customers"
+                },
+                {
+                  "name" : "Routing",
+                  "value" : true,
+                  "id" : "2edeff5e-4a6d-49f6-aeb7-a79de1cda540",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Provide directions and plan the day's work to optimize employee scheduling"
+                },
+                {
+                  "name" : "Scheduling",
+                  "value" : true,
+                  "id" : "0cc5cde1-b9c8-4aaf-9a3b-67ed2aafe507",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : "Plan availability and assign specific time slots for tasks and resources"
+                },
+                {
+                  "name" : "Service History",
+                  "value" : true,
+                  "id" : "aa27c3f2-09d9-4db3-b017-8f3c488ef9b4",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Track work performed and resources used for past customers, sites, or assets"
+                },
+                {
+                  "name" : "Work Order Management",
+                  "value" : true,
+                  "id" : "2caace3e-d52a-4874-bb04-d700557cf547",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Create work orders and track their status to completion"
+                }
+              ]
+            },
+            {
+              "category_name" : "HVAC",
+              "category_features" : [
+                {
+                  "name" : "Billing & Invoicing",
+                  "value" : true,
+                  "id" : "b9829f5b-1e19-49e7-b343-c2286973de15",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Create and manage monetary interactions between parties (ie. bills and invoices)"
+                },
+                {
+                  "name" : "Customer Database",
+                  "value" : true,
+                  "id" : "be9bfa3a-3e91-44f8-8207-5c3fb385a54b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Searchable repository of information about clients"
+                },
+                {
+                  "name" : "Dispatch Management",
+                  "value" : true,
+                  "id" : "81deed45-5410-49ab-b293-36fe67fd13a8",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Manage sending personnel and resources to a site as needed"
+                },
+                {
+                  "name" : "For HVAC Companies",
+                  "value" : false,
+                  "id" : "19c37d45-4912-4e14-81a9-89b21d240577",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Software is designed specifically for use of HVAC companies"
+                },
+                {
+                  "name" : "Inventory Control",
+                  "value" : false,
+                  "id" : "0314b703-d4f8-4465-af7a-e1c6c3b3721e",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Job Management",
+                  "value" : true,
+                  "id" : "df7dfb70-67b4-4f9f-98e1-3399a184c3ac",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Maintenance Scheduling",
+                  "value" : true,
+                  "id" : "8972370a-cc7f-424f-bf4a-e2242c28d46b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Mobile Access",
+                  "value" : true,
+                  "id" : "15d49235-ad13-4d33-b009-edd50126375b",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : "Access the software remotely via mobile devices"
+                },
+                {
+                  "name" : "Quotes/Estimates",
+                  "value" : true,
+                  "id" : "96125292-fba0-4c4b-b429-6afba9eccf8c",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Routing",
+                  "value" : true,
+                  "id" : "2edeff5e-4a6d-49f6-aeb7-a79de1cda540",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Scheduling",
+                  "value" : true,
+                  "id" : "0cc5cde1-b9c8-4aaf-9a3b-67ed2aafe507",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Plan availability and assign specific time slots for tasks and resources"
+                },
+                {
+                  "name" : "Service History",
+                  "value" : true,
+                  "id" : "aa27c3f2-09d9-4db3-b017-8f3c488ef9b4",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track work performed and resources used for past customers, sites, or assets"
+                },
+                {
+                  "name" : "Technician Management",
+                  "value" : true,
+                  "id" : "ea2c500d-0483-4417-813c-e03cf84c2db3",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Work Order Management",
+                  "value" : true,
+                  "id" : "2caace3e-d52a-4874-bb04-d700557cf547",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : "Create work orders and track their status to completion"
+                }
+              ]
+            }
+          ],
+          "infographics" : [
+            {
+              "product_id" : 130599,
+              "html_name" : "field-service-management-software",
+              "infographic_type" : "general_t20",
+              "infographic_title" : null
+            },
+            {
+              "product_id" : 130599,
+              "html_name" : "hvac-software",
+              "infographic_type" : "general_t20",
+              "infographic_title" : null
+            },
+            {
+              "product_id" : 130599,
+              "html_name" : "hvac-software",
+              "infographic_type" : "short_list",
+              "infographic_title" : null
+            }
+          ],
+          "related_products" : [
+            {
+              "product_id" : 70092,
+              "seo_product_id" : 70092,
+              "seo_slug" : "Buildertrend",
+              "vendor_name" : "Buildertrend",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/68133a0e-07a2-4a9a-a1fa-f3f54e17035c.png",
+              "rating" : 4.5,
+              "total_reviews" : 1570,
+              "slug" : "Buildertrend",
+              "product_name" : "Buildertrend",
+              "short_desc" : "Buildertrend is the No. 1 construction project management software, trusted by homebuilders, remodelers and specialty contractors. ",
+              "features" : "Buildertrend is the No. 1, cloud-based construction project management software for homebuilders, remodelers and specialty contractors. Since 2006, we have empowered the construction industry with a better way to build. More than 1 million users across the globe have chosen Buildertrend as their platform for real-time collaboration. Our software helps construction professionals complete projects while reducing delays, eliminating communication errors and increasing customer satisfaction. ",
+              "url" : "https://buildertrend.com/roofing-software/?source=capterraroof&utm_medium=cpc&utm_campaign=capterraroof&utm_content=website"
+            },
+            {
+              "product_id" : 147181,
+              "seo_product_id" : 222457,
+              "seo_slug" : "STACK",
+              "vendor_name" : "Stack Construction Technologies",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d8a70e47-2bd8-41aa-b21e-8c5d80c38879.png",
+              "rating" : 4.5,
+              "total_reviews" : 1249,
+              "slug" : "STACK-Takeoff",
+              "product_name" : "STACK",
+              "short_desc" : "Flexible, Fast & Accurate Estimating for Roofing Contractors. Bid & Win More Profitable Work with STACK! Create Your Free Account Now!",
+              "features" : "Flexible, Fast and Accurate Estimating for Roofing Contractors. \r\n\r\nBid & Win More Profitable Work in Less Time with STACK! \r\n\r\nSTACK empowers your team to quickly and accurately measure digital plans, quantify materials and collaborate with key project stakeholders. Our easy-to-use, cloud-based software will help you to ensure takeoff accuracy, eliminate costly bid errors and win more profitable work. \r\n\r\nCreate Your Free Account Today!",
+              "url" : "https://www.stackct.com/roofing_takeoff_estimating_software/?utm_medium=cpc&utm_campaign=roofing"
+            },
+            {
+              "product_id" : 148516,
+              "seo_product_id" : 212390,
+              "seo_slug" : "Marketing-360",
+              "vendor_name" : "Madwire",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e0d4096b-6fa3-4d66-98e5-8f3ac4c06590.png",
+              "rating" : 4.6,
+              "total_reviews" : 973,
+              "slug" : "Marketing-360",
+              "product_name" : "Marketing 360",
+              "short_desc" : "#1 Marketing Platform For SMB's! Create a Free Account",
+              "features" : "Get everything you need to manage and grow your business,  all from a singular platform  create your free account today to explore the platform and compare plans and pricing.",
+              "url" : "https://www.marketing360.com/?ref=CaptarraAds"
+            },
+            {
+              "product_id" : 77264,
+              "seo_product_id" : 77264,
+              "seo_slug" : "mHelpDesk",
+              "vendor_name" : "mHelpDesk",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/273c54aa-4d75-41b9-9914-e2c0a26baa2c.png",
+              "rating" : 4.3,
+              "total_reviews" : 801,
+              "slug" : "mHelpDesk",
+              "product_name" : "mHelpDesk",
+              "short_desc" : "The fastest, easiest, and highest value service management software to automate everything from first customer contact to getting paid.",
+              "features" : "mHelpDesk is the #1 easiest and most powerful software solution for your field service business, automating everything from first customer contact all the way to getting paid. We provide our customers with mobile and online tools that are unmatched in performance, reliability, and functionality. We've packed the best tools into one extremely easy-to-use and affordable package that requires no big upfront investment. And we have in-house product experts to get you up and running immediately.",
+              "url" : "https://www.mhelpdesk.com/request-demo/?utm_medium=cpc&utm_campaign=field-service"
+            },
+            {
+              "product_id" : 127994,
+              "seo_product_id" : 226766,
+              "seo_slug" : "Jobber",
+              "vendor_name" : "Jobber Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8f70afa2-9658-46e3-9871-9c90ef679553.png",
+              "rating" : 4.5,
+              "total_reviews" : 603,
+              "slug" : "Jobber",
+              "product_name" : "Jobber",
+              "short_desc" : "Jobber is perfect for roofing businesses who want to keep jobs on track and provide a seamless customer experience. Try 14-days free!",
+              "features" : "Jobber keeps your roofing jobs on track and your customers informed. Schedule jobs more efficiently, optimize routes, and send quotes and invoices by text. Give your crew the job details they need, see where they are, and get notified when a job is done. Send automatic payment reminders and take payments instantly in-person, online within 24 hours, or automatically every month. With a mobile app, free training, and simple setup, Jobber helps you save time while delivering 5-star service.",
+              "url" : "https://getjobber.com/dlp/roofing-software/?utm_medium=cpc&utm_campaign=roofingt&utm_content=visit_website_button"
+            },
+            {
+              "product_id" : 116187,
+              "seo_product_id" : 223313,
+              "seo_slug" : "Acculynx",
+              "vendor_name" : "Exact Logix",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/93284bae-99cc-495e-8d16-2a9404d2b42d.png",
+              "rating" : 4.5,
+              "total_reviews" : 572,
+              "slug" : "Acculynx",
+              "product_name" : "AccuLynx",
+              "short_desc" : "AccuLynx is the roofing industry's most trusted software designed to help contractors manage and grow their business. ",
+              "features" : "AccuLynx is the first & only all-in-one roofing business management software designed to empower roofing contractors to streamline their work and grow their business. Packed with powerful project management and collaboration features, it provides all the tools roofers need to effectively manage every aspect of the job, resulting in higher profits & happier customers. AccuLynx is developed & supported in the USA, with in-house dedicated customer success resources. ",
+              "url" : "https://acculynx.com/capterra-demo-video/"
+            },
+            {
+              "product_id" : 126797,
+              "seo_product_id" : 226402,
+              "seo_slug" : "JobNimbus",
+              "vendor_name" : "JobNimbus",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/83d211e2-7581-45a6-8ff5-caa091bbcecc.png",
+              "rating" : 4.6,
+              "total_reviews" : 449,
+              "slug" : "JobNimbus",
+              "product_name" : "JobNimbus",
+              "short_desc" : "The new standard in Roofing Software. Be more professional, profitable, organized, and efficient.\n\nFree consultation. Free trial. ? \n",
+              "features" : "Trying to get organized?\n\nDoes your team know what's going on with your customers?\n\nIs all the business information in your head?\n\nDo you want your program to be EXACTLY what you want it to be?\n\nTry JobNimbus 2 Weeks for free, no credit card required.",
+              "url" : "https://www.jobnimbus.com/try/roofing?utm_source=capterra&utm_medium=roofing&utm_campaign=Q4"
+            },
+            {
+              "product_id" : 199689,
+              "seo_product_id" : 222576,
+              "seo_slug" : "Houzz-Pro",
+              "vendor_name" : "Houzz",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/45af199d-c295-4ce7-8f9c-99cf36fbb689.png",
+              "rating" : 4.4,
+              "total_reviews" : 408,
+              "slug" : "Houzz-Pro",
+              "product_name" : "Houzz Pro",
+              "short_desc" : "Houzz Pro is the #1 business management and marketing software for residential contractors and design professionals.",
+              "features" : "Houzz Pro is the #1 business software for residential contractors & design professionals. Get an all-in-one solution that spans the full customer lifecycle, including marketing, CRM, estimates & proposals, 3D Floor Plans, project management, collaboration, online invoicing & payments, QuickBooks integration, and a client portal. Start a free trial today to see why thousands of Pros trust Houzz Pro to grow & manage their business. Plans are available for all business sizes starting at $49/month.",
+              "url" : "https://www.houzz.com/pro?lsmr=capterra&lsd=capterra-main&utm_content=us-dsp-pro-cp-houzz_pro-capterra-us_capterra-ppc_capterra-ppc_capterra-main&m_refid=us-dsp-pro-cp-houzz_pro-capterra-us_capterra-ppc_capterra-ppc_capterra-free-demo"
+            },
+            {
+              "product_id" : 160201,
+              "seo_product_id" : 220555,
+              "seo_slug" : "ConstructionOnline",
+              "vendor_name" : "UDA Technologies",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/1b41fc61-a961-4474-be20-bcf96a3d1ad1.png",
+              "rating" : 4.4,
+              "total_reviews" : 407,
+              "slug" : "ConstructionOnline",
+              "product_name" : "ConstructionOnline",
+              "short_desc" : "Trusted by +850,000 pros as the all-in-one construction management software designed to help finish jobs on time and under budget.",
+              "features" : "ConstructionOnline is trusted by +850,000 pros as the all-in-one construction management software designed to help finish jobs on time and under budget. Increase profits with integrated estimating & takeoff, change order tracking, and client selections. Avoid delays with Gantt chart scheduling and centralized communication. Real-time dashboards help you and your team make informed decisions and keep projects on track and on target. Get your demo and see how to build better, faster & smarter.\n",
+              "url" : "https://us.constructiononline.com/demo"
+            },
+            {
+              "product_id" : 162690,
+              "seo_product_id" : 221720,
+              "seo_slug" : "JOBPROGRESS",
+              "vendor_name" : "JobProgress",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/bd795bdd-2a83-40b4-a738-72d04e7c3d59.png",
+              "rating" : 4.4,
+              "total_reviews" : 353,
+              "slug" : "JobProgress",
+              "product_name" : "JOBPROGRESS",
+              "short_desc" : "The Business Productivity Tool that helps Roofers manage workflow, employees, sales, and field operations.",
+              "features" : "JobProgress is the all-in-one cloud-based Business Management App for Roofers. Our platform equips roofers with an easy-to-use tool that produces unparalleled results by enabling you to control, organize, and manage your business from anywhere, at any time. JobProgress is both simple and powerful, promoting teamwork and efficiency while cutting down on busywork. We designed our platform so that you, and your team, can intuitively track, monitor, and measure your progress with ease.",
+              "url" : "https://www.jobprogress.com/freedemo_new/"
+            },
+            {
+              "product_id" : 8668,
+              "seo_product_id" : 8668,
+              "seo_slug" : "The-EDGE",
+              "vendor_name" : "Foundation Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/90137675-14bb-43d6-a458-71acee80734e.jpeg",
+              "rating" : 4.5,
+              "total_reviews" : 295,
+              "slug" : "The-EDGE",
+              "product_name" : "The EDGE",
+              "short_desc" : "Designed around the estimate lifecycle we offer solutions for the pre-construction, procurement and construction stages.",
+              "features" : "The EDGE professional-grade roofing estimating software is both robust and powerful, yet easy enough to learn that most contractors can be up and running in a week or less. With the ability to measure tapered insulation and standing seam roofs, customized pricing for local trade rates, and complex calculations for materials and labor costs in real time, you can join the 10% of roofers who bid the job accurately every time. Stay sharp. Take your business to the next level with Estimating Edge. ",
+              "url" : "https://www.estimatingedge.com/construction/roofing/"
+            }
+          ],
+          "similar_products" : [
+            {
+              "product_id" : 127994,
+              "seo_product_id" : 226766,
+              "seo_slug" : "Jobber",
+              "vendor_name" : "Jobber Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8f70afa2-9658-46e3-9871-9c90ef679553.png",
+              "rating" : 4.5,
+              "total_reviews" : 603,
+              "slug" : "Jobber",
+              "product_name" : "Jobber",
+              "short_desc" : "Jobber is perfect for roofing businesses who want to keep jobs on track and provide a seamless customer experience. Try 14-days free!",
+              "features" : "Jobber keeps your roofing jobs on track and your customers informed. Schedule jobs more efficiently, optimize routes, and send quotes and invoices by text. Give your crew the job details they need, see where they are, and get notified when a job is done. Send automatic payment reminders and take payments instantly in-person, online within 24 hours, or automatically every month. With a mobile app, free training, and simple setup, Jobber helps you save time while delivering 5-star service.",
+              "url" : "https://getjobber.com/?utm_medium=cpc&utm_campaign=fsmhome&utm_content=visit_website_button"
+            },
+            {
+              "product_id" : 126797,
+              "seo_product_id" : 226402,
+              "seo_slug" : "JobNimbus",
+              "vendor_name" : "JobNimbus",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/83d211e2-7581-45a6-8ff5-caa091bbcecc.png",
+              "rating" : 4.6,
+              "total_reviews" : 449,
+              "slug" : "JobNimbus",
+              "product_name" : "JobNimbus",
+              "short_desc" : "The new standard in Roofing Software. Be more professional, profitable, organized, and efficient.\n\nFree consultation. Free trial. ? \n",
+              "features" : "Trying to get organized?\n\nDoes your team know what's going on with your customers?\n\nIs all the business information in your head?\n\nDo you want your program to be EXACTLY what you want it to be?\n\nTry JobNimbus 2 Weeks for free, no credit card required.",
+              "url" : "https://www.jobnimbus.com/try-2/?utm_source=capterra&utm_medium=defaultpage&utm_campaign=2022"
+            },
+            {
+              "product_id" : 70092,
+              "seo_product_id" : 70092,
+              "seo_slug" : "Buildertrend",
+              "vendor_name" : "Buildertrend",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/68133a0e-07a2-4a9a-a1fa-f3f54e17035c.png",
+              "rating" : 4.5,
+              "total_reviews" : 1570,
+              "slug" : "Buildertrend",
+              "product_name" : "Buildertrend",
+              "short_desc" : "Buildertrend is the No. 1 construction project management software, trusted by homebuilders, remodelers and specialty contractors. ",
+              "features" : "Buildertrend is the No. 1, cloud-based construction project management software for homebuilders, remodelers and specialty contractors. Since 2006, we have empowered the construction industry with a better way to build. More than 1 million users across the globe have chosen Buildertrend as their platform for real-time collaboration. Our software helps construction professionals complete projects while reducing delays, eliminating communication errors and increasing customer satisfaction. ",
+              "url" : "https://buildertrend.com/how-it-works/demo/?source=capterraprofile&utm_medium=cpc&utm_campaign=capterraprofile&utm_content=website"
+            },
+            {
+              "product_id" : 116187,
+              "seo_product_id" : 223313,
+              "seo_slug" : "Acculynx",
+              "vendor_name" : "Exact Logix",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/93284bae-99cc-495e-8d16-2a9404d2b42d.png",
+              "rating" : 4.5,
+              "total_reviews" : 572,
+              "slug" : "Acculynx",
+              "product_name" : "AccuLynx",
+              "short_desc" : "AccuLynx is the roofing industry's most trusted software designed to help contractors manage and grow their business. ",
+              "features" : "AccuLynx is the first & only all-in-one roofing business management software designed to empower roofing contractors to streamline their work and grow their business. Packed with powerful project management and collaboration features, it provides all the tools roofers need to effectively manage every aspect of the job, resulting in higher profits & happier customers. AccuLynx is developed & supported in the USA, with in-house dedicated customer success resources. ",
+              "url" : "https://acculynx.com/capterra-demo-video/"
+            },
+            {
+              "product_id" : 195931,
+              "seo_product_id" : 225280,
+              "seo_slug" : "Jobba",
+              "vendor_name" : "Jobba Trade Technologies",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/b15fc50b-1b1a-4978-b4ef-8b5d9dfd59be.png",
+              "rating" : 4.1,
+              "total_reviews" : 18,
+              "slug" : "Jobba",
+              "product_name" : "Jobba Trade Technologies",
+              "short_desc" : "Jobba? Roofing Software is a growth engine that helps successful roofing contractors take their business to the next level.",
+              "features" : "Jobba? Roofing Software is designed to help Roofers increase revenue and reduce costs.  Unlike simple proposal software, Jobba is an all-in-one Roofer growth engine.  Many top Roofers use Jobba to simplify manual processes and save precious time.  With Jobba you can accelerate the speed of proposals, simplify estimating on Re-roof jobs, easily manage communication with your team or customers and Rapidly Grow Service Revenues.  Visit our website to learn more and request your demo today!",
+              "url" : "https://jobba.com/request-demo/capterra/"
+            },
+            {
+              "product_id" : 157329,
+              "seo_product_id" : 212362,
+              "seo_slug" : "Sales-Rabbit",
+              "vendor_name" : "Sales Rabbit",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/dea15056-10ef-4357-80c1-91ee5d393631.png",
+              "rating" : 4.2,
+              "total_reviews" : 181,
+              "slug" : "Sales-Rabbit",
+              "product_name" : "SalesRabbit",
+              "short_desc" : "The only choice for comprehensive sales enablement.",
+              "features" : "SalesRabbit's game-changing methodology is based on research they've done with sales pros and the top teams in the industry. It targets the main traction points of every successful organization: rep motivation, team efficiency, and sales mastery. The app is built to help your company make changes that enable peak performance at every door. Their dedicated CSMs and support staff work with you to implement these strategies, ensuring you get the results every door-to-door company hopes for.\r\n",
+              "url" : "https://salesrabbit.com/landing/promo/sales-app-11/?utm_source=capterrra&utm_medium=paid_search&utm_campaign=software-review&utm_content=home-page-default"
+            },
+            {
+              "product_id" : 208102,
+              "seo_product_id" : 208102,
+              "seo_slug" : "Roofr",
+              "vendor_name" : "Roofr",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8559112f-aed6-48c7-800a-4f0cfbf04bc0.png",
+              "rating" : 4.6,
+              "total_reviews" : 93,
+              "slug" : "Roofr",
+              "product_name" : "Roofr",
+              "short_desc" : "Fast, accurate roof measurement and proposal software for contractors. $15 measurement reports delivered or free DIY!",
+              "features" : "Roofr offers accurate roof measurement reports for $15 delivered same day or you can measure it yourself using the free DIY software. Every report includes 6-pages outlining total squares, pitch, edges (including hips, valleys, ridges, flashing, and more). \n\nRoofr also allows users to send impressive branded proposals to leads so they can stand out from the competition and sell more jobs.\n\nStart for free now and start winning more work!",
+              "url" : "https://roofr.com/?utm_medium=PPC&utm_source=capterra"
+            },
+            {
+              "product_id" : 152413,
+              "seo_product_id" : 152413,
+              "seo_slug" : "Tradify",
+              "vendor_name" : "Tradify",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/a1b9183b-f7a0-4908-b51f-edd924d2f5c6.png",
+              "rating" : 4.7,
+              "total_reviews" : 129,
+              "slug" : "Tradify",
+              "product_name" : "Tradify",
+              "short_desc" : "Tradify is a job management platform + mobile app built for small businesses. Quote, schedule, track & invoice on the go - with ease!",
+              "features" : "Tradify is an all-in-one job management platform + mobile app designed to help small businesses with 1-20 employees control business admin. Quotes, estimates, invoices, timesheets, field service management, purchase orders, scheduling & job reporting. Tradify handles it all with ease.  \n\nOver 30,000 electricians, plumbers, HVAC, builders, and other trades around the world use and love Tradify. Our customers and their teams benefit from using Tradify because it's quick to set up and easy to use.",
+              "url" : "https://www.tradifyhq.com/?utm_medium=cpc&utm_campaign=general_listing&utm_content=dest_url&"
+            },
+            {
+              "product_id" : 162690,
+              "seo_product_id" : 221720,
+              "seo_slug" : "JOBPROGRESS",
+              "vendor_name" : "JobProgress",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/bd795bdd-2a83-40b4-a738-72d04e7c3d59.png",
+              "rating" : 4.4,
+              "total_reviews" : 353,
+              "slug" : "JobProgress",
+              "product_name" : "JOBPROGRESS",
+              "short_desc" : "The Business Productivity Tool that helps Roofers manage workflow, employees, sales, and field operations.",
+              "features" : "JobProgress is the all-in-one cloud-based Business Management App for Roofers. Our platform equips roofers with an easy-to-use tool that produces unparalleled results by enabling you to control, organize, and manage your business from anywhere, at any time. JobProgress is both simple and powerful, promoting teamwork and efficiency while cutting down on busywork. We designed our platform so that you, and your team, can intuitively track, monitor, and measure your progress with ease.",
+              "url" : "https://www.jobprogress.com/freedemo_new/"
+            },
+            {
+              "product_id" : 158852,
+              "seo_product_id" : 226735,
+              "seo_slug" : "Less-Paper",
+              "vendor_name" : "Less Paper Co.",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/04b7a755-b0c6-4962-acc4-eb818bde68c9.png",
+              "rating" : 4.8,
+              "total_reviews" : 20,
+              "slug" : "Less-Paper",
+              "product_name" : "Less Paper",
+              "short_desc" : "Creates custom-built field service management, work order management and scheduling systems for field service businesses.",
+              "features" : "Less Paper Co. creates custom-built roofing management, field service management, work order management and scheduling systems to help field service businesses become more efficient in the office and the field. Because we custom build every system to each specific clients needs we can offer all of the features that you want and need in a work order system that some of our competitors can't.",
+              "url" : "https://lesspaperco.com/?utm_source=capterrappc&utm_term=field+service+management"
+            },
+            {
+              "product_id" : 147181,
+              "seo_product_id" : 222457,
+              "seo_slug" : "STACK",
+              "vendor_name" : "Stack Construction Technologies",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d8a70e47-2bd8-41aa-b21e-8c5d80c38879.png",
+              "rating" : 4.5,
+              "total_reviews" : 1249,
+              "slug" : "STACK-Takeoff",
+              "product_name" : "STACK",
+              "short_desc" : "Flexible, Fast & Accurate Estimating for Roofing Contractors. Bid & Win More Profitable Work with STACK! Create Your Free Account Now!",
+              "features" : "Flexible, Fast and Accurate Estimating for Roofing Contractors. \r\n\r\nBid & Win More Profitable Work in Less Time with STACK! \r\n\r\nSTACK empowers your team to quickly and accurately measure digital plans, quantify materials and collaborate with key project stakeholders. Our easy-to-use, cloud-based software will help you to ensure takeoff accuracy, eliminate costly bid errors and win more profitable work. \r\n\r\nCreate Your Free Account Today!",
+              "url" : "https://www.stackct.com?utm_medium=cpc&utm_campaign=default"
+            },
+            {
+              "product_id" : 140632,
+              "seo_product_id" : 224871,
+              "seo_slug" : "YourTradebase",
+              "vendor_name" : "Forty Two",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/ed3487c4-00d2-4a0c-a185-df171f5f1e1d.png",
+              "rating" : 4.9,
+              "total_reviews" : 59,
+              "slug" : "YourTradeBase",
+              "product_name" : "YourTradebase",
+              "short_desc" : "Get work won, done and paid with the no-nonsense app made just for trades. Quotes, invoices, scheduling, payments click, click, done. ",
+              "features" : "Made for trades, by trades, YourTradebase is a super-fast, no-nonsense app that helps you get work won, done and paid. \r\n\r\nWrite quotes and invoices, get customer approval, schedule work, take payments, manage teams, make notes and keep everyone in the loop, anytime, on any device. \r\n\r\nIts quick, its easy and it saves trades an average of a day a week on paperwork  leaving you more time to grow your business and do the things you love. \r\n\r\nTake it for a spin with a free 30-day trial.",
+              "url" : "https://www.yourtradebase.com/?utm_medium=cpc&utm_campaign=none"
+            },
+            {
+              "product_id" : 199689,
+              "seo_product_id" : 222576,
+              "seo_slug" : "Houzz-Pro",
+              "vendor_name" : "Houzz",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/45af199d-c295-4ce7-8f9c-99cf36fbb689.png",
+              "rating" : 4.4,
+              "total_reviews" : 408,
+              "slug" : "Houzz-Pro",
+              "product_name" : "Houzz Pro",
+              "short_desc" : "Houzz Pro is the #1 business management and marketing software for residential contractors and design professionals.",
+              "features" : "Houzz Pro is the #1 business software for residential contractors & design professionals. Get an all-in-one solution that spans the full customer lifecycle, including marketing, CRM, estimates & proposals, 3D Floor Plans, project management, collaboration, online invoicing & payments, QuickBooks integration, and a client portal. Start a free trial today to see why thousands of Pros trust Houzz Pro to grow & manage their business. Plans are available for all business sizes starting at $49/month.",
+              "url" : "https://www.houzz.com/pro?lsmr=capterra&lsd=capterra-main&utm_content=us-dsp-pro-cp-houzz_pro-capterra-us_capterra-ppc_capterra-ppc_capterra-main&m_refid=us-dsp-pro-cp-houzz_pro-capterra-us_capterra-ppc_capterra-ppc_capterra-free-demo"
+            }
+          ],
+          "related_categories" : [
+            {
+              "functional_group" : "roofing",
+              "long_name" : "Construction Estimating",
+              "html_name" : "construction-estimating-software",
+              "link_name" : "construction-estimating",
+              "product_count" : 139,
+              "meta_description" : "Find and compare top Construction Estimating software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Construction Estimating tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs.",
+              "description" : "<a href=/construction-estimating-software>Construction estimating software</a> enables contractors and builders to accurately estimate project costs.  Construction cost estimation software is used by home builders, contractors, and architects to effectively manage construction budgets.  Also, construction cost estimating software is common with interior and landscape designers to quickly and efficiently produce accurate and competitively-priced proposals to potential customers.  Contractor estimating software also offers features such as job and sub-contractor scheduling, blueprint scanning and auto-updating materials pricing databases.  <a href=/construction-estimating-software>Construction Estimating software</a> is related to <a href=/construction-accounting-software>Construction Accounting software</a>, <a href=/architectural-drafting-software>Architectural Drafting software</a>, <a href=\"/construction-crm-software\">Construction CRM software</a> and <a href=/construction-management-software>Construction Management software</a>."
+            },
+            {
+              "functional_group" : "roofing",
+              "long_name" : "Field Service Management",
+              "html_name" : "field-service-management-software",
+              "link_name" : "field-service-management",
+              "product_count" : 219,
+              "meta_description" : "Find and compare top Field Service Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Field Service Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/field-service-management-software>Field Service Management software</a> enables organizations to manage resources and communicate with field employees.  Field Service Management systems enhance productivity by allowing constant contact between dispatch office and offsite personnel. They improve the customer experience by giving field personnel access to service histories, mapping services, scheduling tools and to the organization's knowledge base resources.  <a href=/field-service-management-software>Field Service Management software</a> is related to <a href=/maintenance-management-software>Maintenance Management software</a> and <a href=/service-dispatch-software>Service Dispatch software</a>."
+            },
+            {
+              "functional_group" : "roofing",
+              "long_name" : "Home Builder",
+              "html_name" : "home-builder-software",
+              "link_name" : "home-builder",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Home Builder software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Home Builder tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/home-builder-software\">Home Builder software</a> provides construction management solutions specialize for residential builders and contractors. Features typically include job costing, sales and inventory management, scheduling and hours tracking, and accounting tools. Home builders may also be interested in <a href=\"/construction-estimating-software\">Construction Estimating software</a>, <a href=\"/construction-accounting-software\">Construction Accounting software</a>, <a href=\"/architecture-software\">Architecture software</a>, <a href=\"/construction-management-software\">Construction Management software</a>, and <a href=\"/construction-crm-software\">Construction CRM software</a>."
+            },
+            {
+              "functional_group" : "roofing",
+              "long_name" : "Remodeling Estimating",
+              "html_name" : "remodeling-estimating-software",
+              "link_name" : "remodeling-estimating",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Remodeling Estimating software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Remodeling Estimating tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "Remodeling Estimating software enables contractors and builders to accurately estimate project costs."
+            },
+            {
+              "functional_group" : "roofing",
+              "long_name" : "Residential Construction Estimating",
+              "html_name" : "residential-construction-estimating-software",
+              "link_name" : "residential-construction-estimating",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Residential Construction Estimating software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Residential Construction Estimating tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "Residential Construction Estimating software enables home builders and residential contractors to accurately estimate project costs."
+            }
+          ],
+          "is_upgraded" : true,
+          "enabled" : true,
+          "filter_options" : {
+            "users" : 126,
+            "platform" : 897,
+            "pricing_options" : 18,
+            "category_related_features" : [
+              28063,
+              28064,
+              28065,
+              28066,
+              28067,
+              28068,
+              28069,
+              28070,
+              28072,
+              63145,
+              63146,
+              63148,
+              63149,
+              63150,
+              63153,
+              63155,
+              63168
+            ],
+            "employees" : 126
+          },
+          "sort_options" : {
+            "sort_review_rating" : 4.4180073738098145,
+            "most_recent_review" : "2021-12-02T17:22:23Z"
+          },
+          "countries" : "US,CA",
+          "features_tokenized_text" : "billing_&_invoicing commercial crm dispatch_management inspection_management photo_capture quotes/estimates scheduling work_order_management",
+          "platform_tokenized_text" : "cloud,saas,web-based mobileandroid mobileiphone mobileipad",
+          "users_tokenized_text" : "2-10 11-50 51-200 201-500 501-1000 1000+",
+          "pricing_tokenized_text" : "monthlysubscription freetrial",
+          "badges" : [
+            {
+              "id" : 2144,
+              "category_short_name" : "HVAC",
+              "category_html_name" : "hvac-software",
+              "published_year" : 2020,
+              "badge_type" : "Top 20"
+            },
+            {
+              "id" : 1703,
+              "category_short_name" : "Field Service Management",
+              "category_html_name" : "field-service-management-software",
+              "published_year" : 2020,
+              "badge_type" : "Top 20"
+            }
+          ],
+          "bid_spot_us" : 15.0,
+          "currency_code" : "USD",
+          "currency_symbol" : "$",
+          "credit_card_required" : "Unverified",
+          "licensing_model" : null,
+          "open_api_offered" : "Yes",
+          "mobile_urls" : [
+            {
+              "name" : "iOS",
+              "url" : "https://apps.apple.com/us/app/dataforma-2-0/id561791239"
+            },
+            {
+              "name" : "Android",
+              "url" : "https://play.google.com/store/apps/details?id=com.dataforma.dflowslope.android"
+            }
+          ],
+          "integrations" : [
+            {
+              "id" : "b9f1f6f7-08b8-4026-a244-a6d200b354f3",
+              "name" : "ComputerEase"
+            },
+            {
+              "id" : "bcdd9473-58dd-4c24-a82a-a6d200b601d6",
+              "name" : "Quickbooks Online"
+            },
+            {
+              "id" : "7092eaef-b348-4acb-8648-a6d200b64092",
+              "name" : "Sage 50cloud Accounting"
+            },
+            {
+              "id" : "672c51a1-8397-43dc-b306-a6d200b41ffd",
+              "name" : "FOUNDATION"
+            }
+          ],
+          "supported_countries" : [
+            {
+              "id" : 237,
+              "code" : "US",
+              "name" : "United States of America"
+            },
+            {
+              "id" : 41,
+              "code" : "CA",
+              "name" : "Canada"
+            }
+          ],
+          "supported_languages" : [
+            {
+              "id" : 152,
+              "code" : "en",
+              "name" : "English",
+              "location" : null
+            }
+          ],
+          "target_industries" : [
+            {
+              "id" : 26,
+              "code" : "48",
+              "name" : "Construction"
+            },
+            {
+              "id" : 29,
+              "code" : "91",
+              "name" : "Consumer Services"
+            },
+            {
+              "id" : 120,
+              "code" : "44",
+              "name" : "Real Estate"
+            },
+            {
+              "id" : 20,
+              "code" : "128",
+              "name" : "Commercial Real Estate"
+            },
+            {
+              "id" : 123,
+              "code" : "144",
+              "name" : "Renewables & Environment"
+            }
+          ],
+          "price_range_id" : 1,
+          "aggregated_review_ratings" : {
+            "industry" : {
+              "90" : 5.0,
+              "91" : 5.0,
+              "122" : 3.0,
+              "24" : 4.0,
+              "48" : 4.34
+            },
+            "company_size" : {
+              "1-10 employees" : 4.0,
+              "11-50 employees" : 4.26,
+              "51-200 employees" : 4.42,
+              "201-500 employees" : 4.67
+            }
+          },
+          "vct_enabled" : true,
+          "pricing_plans" : [
+            {
+              "created_on_utc" : "2021-01-05T16:52:57Z",
+              "modified_on_utc" : "2022-04-11T20:39:21Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Basic",
+              "description" : null,
+              "display_order" : 1,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 69.99,
+              "ending_price" : null,
+              "pricing_model_name" : "Per Feature",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [ ]
+            }
+          ],
+          "discount_types" : [ ]
+        }
+      }
+    ]
+  }
+}

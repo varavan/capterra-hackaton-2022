@@ -1,0 +1,3695 @@
+{
+  "took" : 9,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 3,
+    "successful" : 3,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : {
+      "value" : 2,
+      "relation" : "eq"
+    },
+    "max_score" : 11.37608,
+    "hits" : [
+      {
+        "_index" : "product_listings_main_data_upc_vt20220920_043802_utc",
+        "_type" : "_doc",
+        "_id" : "223760_lpm",
+        "_score" : 11.37608,
+        "_source" : {
+          "product_id" : 223760,
+          "seo_product_id" : 223760,
+          "seo_slug" : "Jubilee",
+          "product_name" : "Jubilee",
+          "upc_product_uuid" : "42892cc3-731c-4082-a7ff-a6ea0147c0b0",
+          "old_product_ids" : [
+            156277,
+            184749,
+            184748
+          ],
+          "product_url" : "https://jubileebk.com/",
+          "product_slug" : "Jubilee",
+          "former_name" : "Jubilee",
+          "logo_filepath" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/b925e468-79b6-471c-a795-ea85a35decb8.png",
+          "vendor" : {
+            "vendor_id" : 2169829,
+            "vendor_name" : "LegalPRO Systems",
+            "vendor_url" : "https://legal-pro.com/",
+            "year_founded" : 1985,
+            "location" : "United States",
+            "vendor_opted_out_of_reviews" : true,
+            "is_opted_out_of_reviews" : false,
+            "is_hit_limit" : false,
+            "enabled" : true,
+            "has_vendor_level_page" : false,
+            "slug" : null,
+            "vendor_page" : false,
+            "paused_campaign" : false
+          },
+          "category_short_name" : "lpm",
+          "category_html_name" : "law-practice-management-software",
+          "category" : {
+            "id" : 20038,
+            "short_name" : "lpm",
+            "long_name" : "Law Practice Management",
+            "html_name" : "law-practice-management-software",
+            "enabled" : true
+          },
+          "best_category" : "lpm",
+          "is_best_category" : true,
+          "highest_cpc_category" : null,
+          "is_highest_cpc_category" : false,
+          "short_desc" : "Affordable Practice Management & Bankruptcy Software for the Legal Professionals.",
+          "long_desc" : "Jubilee is LegalPRO Systems' cloud-based bankruptcy petition preparation and filing platform. It handles personal and business filings in Chapters 7, 11, 12, and 13. Additional robust features include legal payments and invoicing, notice management, and client messaging. LegalPRO has been providing bankruptcy software for over 30 years and provides the best software, service, and support.",
+          "rating" : 4.5,
+          "number_of_reviews" : 101,
+          "total_reviews" : 101,
+          "ease_of_use_rating" : 4.2,
+          "customer_support_rating" : 4.8,
+          "functionality_rating" : 4.2,
+          "value_for_money_rating" : 4.7,
+          "recommendation_rating" : 8.5,
+          "pricing_enabled" : true,
+          "pricing" : 79.0,
+          "is_per_user" : false,
+          "fee_schedule" : "Per-Month",
+          "pricing_model" : "Flat Rate",
+          "pricing_details" : "Pay Per Case: $59/individual or joint case\r\nSubscription: Start at $20/month",
+          "pricing_created_on" : "2019-08-21T14:47:39Z",
+          "pricing_modified_on" : "2022-06-23T14:42:33Z",
+          "pricing_created_by" : null,
+          "pricing_modified_by" : null,
+          "pricing_vendor_pricing_url" : "https://www.jubileepro.com/pricing/",
+          "free_trial" : true,
+          "free_version" : true,
+          "target_audience" : "Law Firms, Solo Practitioners & Small Firm, and Bankruptcy Firms",
+          "target_users" : [
+            "1",
+            "2-10",
+            "11-50",
+            "51-200",
+            "201-500",
+            "501-1000",
+            "1000+"
+          ],
+          "platform" : [
+            {
+              "enabled" : true,
+              "name" : "Cloud, SaaS, Web-Based"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Mac"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Chromebook"
+            },
+            {
+              "enabled" : false,
+              "name" : "Mobile Android"
+            },
+            {
+              "enabled" : false,
+              "name" : "Mobile iPhone"
+            },
+            {
+              "enabled" : false,
+              "name" : "Mobile iPad"
+            }
+          ],
+          "support" : [
+            {
+              "enabled" : true,
+              "name" : "Email Help Desk"
+            },
+            {
+              "enabled" : true,
+              "name" : "FAQ Forum"
+            },
+            {
+              "enabled" : false,
+              "name" : "Knowledgebase"
+            },
+            {
+              "enabled" : true,
+              "name" : "Phone Support"
+            },
+            {
+              "enabled" : false,
+              "name" : "24/7 Live Rep"
+            },
+            {
+              "enabled" : true,
+              "name" : "Chat"
+            }
+          ],
+          "training" : [
+            {
+              "enabled" : false,
+              "name" : "Not Offered"
+            },
+            {
+              "enabled" : false,
+              "name" : "In-Person"
+            },
+            {
+              "enabled" : true,
+              "name" : "Live Online"
+            },
+            {
+              "enabled" : true,
+              "name" : "Webinars"
+            },
+            {
+              "enabled" : true,
+              "name" : "Documentation"
+            },
+            {
+              "enabled" : true,
+              "name" : "Videos"
+            }
+          ],
+          "media" : [
+            {
+              "product_id" : 223760,
+              "vendor_id" : 2169829,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/3b2a1195-043a-4752-afd4-cbd16d36e339.png",
+              "caption" : "Jubilee Notices",
+              "weight" : 1,
+              "short_name" : "lpm"
+            },
+            {
+              "product_id" : 223760,
+              "vendor_id" : 2169829,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/75bf9ec0-638d-4265-a2a9-6ad8eac299f6.png",
+              "caption" : "Jubilee Overview Menu",
+              "weight" : 2,
+              "short_name" : "lpm"
+            },
+            {
+              "product_id" : 223760,
+              "vendor_id" : 2169829,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/eff44cfd-fe29-4973-8815-0d1927867514.png",
+              "caption" : null,
+              "weight" : 3,
+              "short_name" : "lpm"
+            },
+            {
+              "product_id" : 223760,
+              "vendor_id" : 2169829,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/a9e9437d-15aa-49c1-b7e8-6ad38891b8ee.png",
+              "caption" : "Jubilee Legal Payments",
+              "weight" : 4,
+              "short_name" : "lpm"
+            },
+            {
+              "product_id" : 223760,
+              "vendor_id" : 2169829,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/6d8335a8-cbc1-4ad0-a8aa-a3fb3a3382f5.png",
+              "caption" : "Jubilee BK Plan Recap",
+              "weight" : 5,
+              "short_name" : "lpm"
+            },
+            {
+              "product_id" : 223760,
+              "vendor_id" : 2169829,
+              "media_type" : "VIDEO",
+              "path_url" : "https://youtu.be/YrvebdEOEZA",
+              "caption" : null,
+              "weight" : 0,
+              "short_name" : "lpm"
+            }
+          ],
+          "links" : [ ],
+          "features" : [
+            {
+              "category_name" : "Law Practice Management",
+              "category_features" : [
+                {
+                  "name" : "Billing & Invoicing",
+                  "value" : true,
+                  "id" : "b9829f5b-1e19-49e7-b343-c2286973de15",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Create and manage monetary interactions between parties (i.e. bills and invoices)"
+                },
+                {
+                  "name" : "CRM",
+                  "value" : true,
+                  "id" : "cdf8cb63-9596-4430-bcbb-92162fc532bf",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Contact and lead management to track interactions and notes about clients and prospects"
+                },
+                {
+                  "name" : "Calendar Management",
+                  "value" : true,
+                  "id" : "10dc6d16-b8eb-47be-a3b9-3368fba98bac",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Create, manage, and share multiple calendars"
+                },
+                {
+                  "name" : "Client Portal",
+                  "value" : true,
+                  "id" : "6a55d8f2-f75b-4f1f-ae6a-d51a68db897d",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "A website and login for stakeholders to access information"
+                },
+                {
+                  "name" : "Conflict Management",
+                  "value" : false,
+                  "id" : "349d91d9-fc67-40d1-b058-b554f52c5869",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Search and check for conflicts of interest/statutes of limitations"
+                },
+                {
+                  "name" : "Contract/License Management",
+                  "value" : false,
+                  "id" : "efd314c0-e308-412f-9ff3-8bd8745c3096",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Track, store, and access client/customer contracts"
+                },
+                {
+                  "name" : "Document Management",
+                  "value" : true,
+                  "id" : "a55b34ad-b6ec-4072-b3bd-a7151f7843de",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Collect, upload, store, and share all documents in a centralized location making it easier for everyone involved to access information"
+                },
+                {
+                  "name" : "Email Management",
+                  "value" : true,
+                  "id" : "3e196cb4-81ed-4150-b827-eb5e2f1cb2b7",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Sort and organize large volumes of inbound emails."
+                },
+                {
+                  "name" : "Legal Case Management",
+                  "value" : true,
+                  "id" : "dcf8fd3d-174d-4c59-a2c1-5dc0e6151014",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Process and store case information (i.e. litigation/claims matters) and associated client data"
+                },
+                {
+                  "name" : "Task Management",
+                  "value" : true,
+                  "id" : "82ce67d3-ac09-49d0-ae71-5e6401e3e26b",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "A running list of action items and their respective status"
+                },
+                {
+                  "name" : "Time Tracking",
+                  "value" : true,
+                  "id" : "e876e7a1-0d30-490c-b2e8-8026ed811aa7",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Measure time to completion or hours worked"
+                },
+                {
+                  "name" : "Trust Accounting",
+                  "value" : true,
+                  "id" : "99d958a8-57a6-4e16-a39a-98b51d56eb07",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Bookkeeping of client trust accounts"
+                }
+              ]
+            },
+            {
+              "category_name" : "Legal Billing",
+              "category_features" : [
+                {
+                  "name" : "Accounting",
+                  "value" : false,
+                  "id" : "3990e00b-853e-41a0-a871-33607f212727",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Built-in accounting or integration with a third party accounting system"
+                },
+                {
+                  "name" : "Automatic Billing",
+                  "value" : false,
+                  "id" : "a2733639-aa8f-4a12-b0a5-1da34b8ae65f",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Setup and send recurring or automated bills"
+                },
+                {
+                  "name" : "Calendar Management",
+                  "value" : true,
+                  "id" : "10dc6d16-b8eb-47be-a3b9-3368fba98bac",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Create, manage, and share multiple calendars"
+                },
+                {
+                  "name" : "Case Management",
+                  "value" : true,
+                  "id" : "b81eb686-edd7-486c-9a9f-5d4caf13e3bf",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Work on a set of tasks related to a particular charge, patient, legal issue or any other complex entity or process"
+                },
+                {
+                  "name" : "Client Portal",
+                  "value" : true,
+                  "id" : "6a55d8f2-f75b-4f1f-ae6a-d51a68db897d",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "A website and login for stakeholders to access information"
+                },
+                {
+                  "name" : "Document Management",
+                  "value" : true,
+                  "id" : "a55b34ad-b6ec-4072-b3bd-a7151f7843de",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Collect, upload, store, and share all documents in a centralized location making it easier for everyone involved to access information "
+                },
+                {
+                  "name" : "Expense Tracking",
+                  "value" : true,
+                  "id" : "7ae9a957-9dc5-46d1-bee2-096e03b609b1",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Detailed log and record of costs"
+                },
+                {
+                  "name" : "Time Tracking",
+                  "value" : true,
+                  "id" : "e876e7a1-0d30-490c-b2e8-8026ed811aa7",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Measure time to completion or hours worked"
+                }
+              ]
+            },
+            {
+              "category_name" : "Legal Case Management",
+              "category_features" : [
+                {
+                  "name" : "Billing & Invoicing",
+                  "value" : true,
+                  "id" : "b9829f5b-1e19-49e7-b343-c2286973de15",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Create and manage monetary interactions between parties (i.e. bills and invoices)"
+                },
+                {
+                  "name" : "Calendar Management",
+                  "value" : true,
+                  "id" : "10dc6d16-b8eb-47be-a3b9-3368fba98bac",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Create, manage, and share multiple calendars"
+                },
+                {
+                  "name" : "Case Notes",
+                  "value" : true,
+                  "id" : "8c844d84-bdd0-42e0-9843-f4616d0eab29",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Access and track notes regarding case activities and updates within case files\t"
+                },
+                {
+                  "name" : "Client Management",
+                  "value" : true,
+                  "id" : "2be4a8f3-1afa-49ee-9306-6f11bf4a1f2e",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Manage company interactions with current customers"
+                },
+                {
+                  "name" : "Conflict Management",
+                  "value" : false,
+                  "id" : "349d91d9-fc67-40d1-b058-b554f52c5869",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Search and check for conflicts of interest/statutes of limitations"
+                },
+                {
+                  "name" : "Contract/License Management",
+                  "value" : false,
+                  "id" : "efd314c0-e308-412f-9ff3-8bd8745c3096",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track, store, and access client/customer contracts"
+                },
+                {
+                  "name" : "Docket Management",
+                  "value" : true,
+                  "id" : "fd6d0de9-fc82-4ec2-9c08-8dce42b23eec",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Manage docket information and details associated to each court case to stay organized"
+                },
+                {
+                  "name" : "Document Management",
+                  "value" : true,
+                  "id" : "a55b34ad-b6ec-4072-b3bd-a7151f7843de",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Collect, upload, store, and share all documents in a centralized location making it easier for everyone involved to access information "
+                },
+                {
+                  "name" : "Email Management",
+                  "value" : true,
+                  "id" : "3e196cb4-81ed-4150-b827-eb5e2f1cb2b7",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Sort and organize large volumes of inbound emails."
+                },
+                {
+                  "name" : "Expense Tracking",
+                  "value" : true,
+                  "id" : "7ae9a957-9dc5-46d1-bee2-096e03b609b1",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Detailed log and record of costs"
+                },
+                {
+                  "name" : "Task Management",
+                  "value" : true,
+                  "id" : "82ce67d3-ac09-49d0-ae71-5e6401e3e26b",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "A running list of action items and their respective status"
+                },
+                {
+                  "name" : "Time Tracking",
+                  "value" : true,
+                  "id" : "e876e7a1-0d30-490c-b2e8-8026ed811aa7",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Measure time to completion or hours worked"
+                },
+                {
+                  "name" : "Trust Accounting",
+                  "value" : true,
+                  "id" : "99d958a8-57a6-4e16-a39a-98b51d56eb07",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Bookkeeping of client trust accounts"
+                }
+              ]
+            },
+            {
+              "category_name" : "Legal Document Management",
+              "category_features" : [
+                {
+                  "name" : "Access Controls/Permissions",
+                  "value" : false,
+                  "id" : "12cc6bf7-4736-4dfe-bbf9-4d93ec5d227d",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Define levels of authorization for access to specific files/folders"
+                },
+                {
+                  "name" : "Archiving & Retention",
+                  "value" : true,
+                  "id" : "d040ff59-ba51-46e1-936e-4b89133c24ea",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Process of moving and separately storing data that is not actively used or continuous storage of data for compliance purposes"
+                },
+                {
+                  "name" : "Collaboration Tools",
+                  "value" : false,
+                  "id" : "97efb0d3-9a23-4408-90d4-4db1e3830fbd",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Ability to work collectively on a project while communicating and sharing information within the system in real time"
+                },
+                {
+                  "name" : "Contract/License Management",
+                  "value" : false,
+                  "id" : "efd314c0-e308-412f-9ff3-8bd8745c3096",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track, store, and access client/customer contracts"
+                },
+                {
+                  "name" : "Document Classification",
+                  "value" : false,
+                  "id" : "58157d42-0c69-419d-8366-65164791a20c",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Tag documents so that they may be searched via those tags"
+                },
+                {
+                  "name" : "Document Generation",
+                  "value" : true,
+                  "id" : "de982661-7781-49f7-bf68-a1e897a83222",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Custom forms to streamline repetitious aspects of a document"
+                },
+                {
+                  "name" : "Full Text Search",
+                  "value" : true,
+                  "id" : "7cfc0257-6ed1-458e-899e-aa4226ae2089",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Look through entire documents, not just sections"
+                },
+                {
+                  "name" : "Version Control",
+                  "value" : false,
+                  "id" : "706b5395-e928-4d0c-8152-36ce6b3bfa9c",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track revisions and updates to collateral, and navigate between versions of the same documentation"
+                }
+              ]
+            }
+          ],
+          "infographics" : [ ],
+          "related_products" : [
+            {
+              "product_id" : 105428,
+              "seo_product_id" : 223368,
+              "seo_slug" : "Clio",
+              "vendor_name" : "Clio",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/2427d998-b9b7-4ada-88b7-57324c9d2dc8.jpg",
+              "rating" : 4.7,
+              "total_reviews" : 1200,
+              "slug" : "Clio",
+              "product_name" : "Clio",
+              "short_desc" : "Ranked #1, Clio is the leading law practice management software with the most 5-star reviews.  Schedule a live demo to learn more.",
+              "features" : "Ranked #1, Clio is the leading law practice management software with the most 5-star reviews and the only legal software with over 1,000 reviews on Capterra. Clio is a cloud-based legal practice management solution that lets you manage your law firm securely from anywhere. Access and manage your work in one central system - with matters, contacts, billing, and everything you need in one place. Schedule a live demo to learn more.",
+              "url" : "https://www.clio.com/web/capterra-law-practice-management?utm_campaign=LawPracticeManagement_VisitWebsite&utm_medium=cpc&utm_source=capterra&utm_content=Update06072022"
+            },
+            {
+              "product_id" : 140231,
+              "seo_product_id" : 220737,
+              "seo_slug" : "PracticePanther-Legal-Software",
+              "vendor_name" : "Paradigm",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/cc52b155-9b57-4769-b42d-1623ebabd0b1.png",
+              "rating" : 4.7,
+              "total_reviews" : 472,
+              "slug" : "PracticePanther-Legal-Software",
+              "product_name" : "PracticePanther Legal Software",
+              "short_desc" : "Mobile friendly and secure legal software that's easy to learn and use. Save time. Grow your firm. Go paperless. Work from anywhere.",
+              "features" : "PracticePanther is the top rated law practice management software on Capterra! See why tens of thousands of law firms in over 170 countries use PracticePanther to automate their workflows and get more done in less time. Never miss deadlines, get paid faster, seamlessly track billable time & expenses. Work from anywhere, on any device, with our mobile app. It's easy, user-friendly and intuitive. Spend less time managing your firm and more time making money. Try it free, no credit card needed.",
+              "url" : "https://www.practicepanther.com/free-trial/legal-case-management-software?utm_source=capterra&utm_medium=cpc&utm_campaign=lawprmgmt"
+            },
+            {
+              "product_id" : 115613,
+              "seo_product_id" : 229461,
+              "seo_slug" : "MyCase",
+              "vendor_name" : "MyCase",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/c9fd7cda-1ac2-45fb-a435-f2abdf6b8ec7.png",
+              "rating" : 4.7,
+              "total_reviews" : 437,
+              "slug" : "MyCase",
+              "product_name" : "MyCase",
+              "short_desc" : "MyCase is a top-rated, complete law practice management solution with all the tools firms need to run a better practice, from anywhere.",
+              "features" : "MyCase is a top-rated, end-to-end law practice management solution that helps firms run efficiently from anywhere, provide an exceptional client experience, and easily track firm performance. Streamline day-to-day firm processes in one, easy to adopt solution -- lead tracking, client intake, case management, eSignature, billing, payments and more. Start your free trial (no credit card required) today!",
+              "url" : "https://www.mycase.com/landing/case-management-software/?utm_medium=pay-per-lead&utm_campaign=MC-PPL-Capterra-LawPracticeManagement-May16&utm_content=law-practice-mgmt"
+            },
+            {
+              "product_id" : 18374,
+              "seo_product_id" : 18374,
+              "seo_slug" : "AbacusLaw",
+              "vendor_name" : "AbacusNext",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/a41c20af-f3e7-48da-a50c-7fc69d54d9a6.png",
+              "rating" : 3.9,
+              "total_reviews" : 365,
+              "slug" : "AbacusLaw",
+              "product_name" : "AbacusLaw",
+              "short_desc" : "AbacusLaw is a turn-key, fully integrated Case Management Solution for firms of all sizes, in all practice areas and jurisdictions.",
+              "features" : "AbacusLaw is a turn-key, fully integrated law practice management solution. Founded in 1983, AbacusLaw works for firms of any size in every industry. Features include rules-based calendaring, document / form automation, matter management, conflict checking, contact management, document and email management, time tracking, billing, balance, accounting, trust accounting and more. AbacusLaw is also available in our private cloud for a complete disaster-proof solution.",
+              "url" : "https://www.amicusattorney.com/lp/abacuslaw-demo/?utm_source=capterra&utm_medium=cpc&utm_campaign=law_practice_management&utm_content=destination"
+            },
+            {
+              "product_id" : 18931,
+              "seo_product_id" : 18931,
+              "seo_slug" : "CosmoLex",
+              "vendor_name" : "Tabs3 Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/ac2f6235-4156-4991-9568-591b0db2dfbd.png",
+              "rating" : 4.7,
+              "total_reviews" : 307,
+              "slug" : "CosmoLex",
+              "product_name" : "CosmoLex",
+              "short_desc" : "CosmoLex is the only cloud-based, total practice management, billing, and accounting system (no QuickBooks? required).",
+              "features" : "Thousands of law firms have switched to CosmoLex - the only cloud-based, law practice management software with built-in, compliant legal accounting (no QuickBooks needed). CosmoLex eliminates the struggle of juggling separate systems for law practice management, billing, and accounting. LawPay credit card processing is also built-in with no fixed monthly fee. Simply log into CosmoLex Cloud - anytime, anywhere - to get everything you need to run your entire law practice. Try free today!",
+              "url" : "https://www.cosmolex.com/get-started/?a_aid=int-capt-ppc-pm"
+            },
+            {
+              "product_id" : 152769,
+              "seo_product_id" : 152769,
+              "seo_slug" : "eWay-CRM",
+              "vendor_name" : "eWay System",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/18567409-1dbd-4e3d-b2bd-7ba73185ff32.png",
+              "rating" : 4.6,
+              "total_reviews" : 299,
+              "slug" : "eWay-CRM",
+              "product_name" : "eWay-CRM",
+              "short_desc" : "The best CRM for lawyers. It helps manage Contacts, Projects, and Timesheets. It's great because it sits right within your Outlook.",
+              "features" : "The best CRM for lawyers. It helps you manage your Clients and Cases (Projects) right from within Microsoft Outlook. Our mobile and web apps allow you to stay on top even on the go.\n\nOrganize emails and meetings automatically by projects, automate repetitive tasks with workflow, track your time, customize forms, and much more.",
+              "url" : "https://www.eway-crm.com?utm_source=capterra&utm_medium=cpc&utm_campaign=law"
+            },
+            {
+              "product_id" : 147413,
+              "seo_product_id" : 214097,
+              "seo_slug" : "LEAP",
+              "vendor_name" : "LEAP Legal Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/91b9b8a1-3844-4f5b-b06c-341fd6075ba5.png",
+              "rating" : 4.1,
+              "total_reviews" : 230,
+              "slug" : "LEAP",
+              "product_name" : "LEAP",
+              "short_desc" : "Cloud-based legal practice management software for law firms wishing to become more efficient. Access from anywhere at any time.",
+              "features" : "Cloud-based legal practice management software helping law firms to become more efficient and make more money. The powerful features allow you to manage your practice from anywhere, any time and from any device with real-time matter and client information.\n\nContinually investing in R&D of its many productivity tools its technology ensures SME law firms have access to the very latest legal technology.\n",
+              "url" : "https://info.gartnerdigitalmarkets.com/leap-gdm-lp?category=law-practice-management"
+            },
+            {
+              "product_id" : 82112,
+              "seo_product_id" : 226720,
+              "seo_slug" : "Rocket-Matter",
+              "vendor_name" : "Rocket Matter",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8440bb0f-9754-4b30-9d6f-5b5702961b1c.png",
+              "rating" : 4.4,
+              "total_reviews" : 197,
+              "slug" : "Rocket-Matter",
+              "product_name" : "Rocket Matter",
+              "short_desc" : "Cloud-based legal practice management with all the tools you need to run a more productive and profitable law firm. ",
+              "features" : "Run a more productive and profitable law firm from anywhere with Rocket Matter legal practice management. Trusted by thousands of attorneys for over 12 years for unparalleled product and service. Our intuitive cloud-based software has all the tools you need to become more automated, more profitable, and more on top of your business. Become a lean, modern, automated law firm with Rocket Matter. See it in action with a personalized walk-through. Or try us free for 15 days, no credit card required!",
+              "url" : "https://bit.ly/3ayOIOh"
+            },
+            {
+              "product_id" : 133656,
+              "seo_product_id" : 151312,
+              "seo_slug" : "Smokeball",
+              "vendor_name" : "Smokeball",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/27abe3c6-a2bb-4e27-bacc-efb7efcab6ee.png",
+              "rating" : 4.8,
+              "total_reviews" : 189,
+              "slug" : "Smokeball",
+              "product_name" : "Smokeball",
+              "short_desc" : "The best law practice management software for small law firms. When it's time to get serious about your firm, it's time for Smokeball.",
+              "features" : "Smokeball is the only cloud-based legal case management software that also runs from your desktop. Manage all of your matters with collaborative case management; customize your commonly used forms with a single click in document automation; pull up-to-date local forms from our library of 20,000+ court documents; track your billable hours across programs without a single click; bill, e-file, and collect all in one place. Try Smokeball law manager software and see all of its benefits for yourself!",
+              "url" : "https://www.smokeball.com/book-demo/?utm_source=Capterra&utm_medium=review+site&utm_campaign=Capterra&utm_term=direct&utm_content=destination+url"
+            },
+            {
+              "product_id" : 80199,
+              "seo_product_id" : 5508,
+              "seo_slug" : "Amicus-Attorney",
+              "vendor_name" : "AbacusNext",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/f2c052f2-437c-4553-acea-8507abd86a47.png",
+              "rating" : 3.7,
+              "total_reviews" : 188,
+              "slug" : "Amicus-Attorney",
+              "product_name" : "Amicus Attorney",
+              "short_desc" : "Practice Management software that integrates your information into a single system for improved efficiency and profitability.",
+              "features" : "Amicus Attorney is an intuitive case management solution that tracks and invoices billable time, automates important documents, and provides easy access to all your clients and case files. Work from your desktop or in the private cloud while integrating with QuickBooks and other applications.",
+              "url" : "https://www.amicusattorney.com/lp/attorney-demo/?utm_source=capterra&utm_medium=cpc&utm_campaign=law_practice_management&utm_content=destination"
+            },
+            {
+              "product_id" : 140815,
+              "seo_product_id" : 226933,
+              "seo_slug" : "Filevine",
+              "vendor_name" : "Filevine",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d17a0530-fd82-445b-82d6-a4a0d9713b2e.png",
+              "rating" : 4.6,
+              "total_reviews" : 187,
+              "slug" : "Filevine",
+              "product_name" : "Filevine",
+              "short_desc" : "The #1 Most Customizable, Legal Case, Matter & Project Management Trusted by Over 50,000 Professionals. Get a Personalized Demo.",
+              "features" : "Filevine is the #1 most customizable law practice management software. Don't waste your valuable time on a free trial - Filevine is customized to how you do business and adapts to how your team evolves. Exceptional collaboration tools enable your team to focus on what matters, with automatic task assignments, easy reporting, texting, and emailing. Free, unlimited data storage in the cloud.   Soc 2 Type II certification ensures that your data is protected with the best security.",
+              "url" : "https://www.filevine.com/compare/law-practice-case-management/?utm_campaign=LawPracticeManagement&utm_medium=paid&utm_source=capterra"
+            }
+          ],
+          "similar_products" : [
+            {
+              "product_id" : 105428,
+              "seo_product_id" : 223368,
+              "seo_slug" : "Clio",
+              "vendor_name" : "Clio",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/2427d998-b9b7-4ada-88b7-57324c9d2dc8.jpg",
+              "rating" : 4.7,
+              "total_reviews" : 1200,
+              "slug" : "Clio",
+              "product_name" : "Clio",
+              "short_desc" : "Ranked #1, Clio is the leading law practice management software with the most 5-star reviews.  Schedule a live demo to learn more.",
+              "features" : "Ranked #1, Clio is the leading law practice management software with the most 5-star reviews and the only legal software with over 1,000 reviews on Capterra. Clio is a cloud-based legal practice management solution that lets you manage your law firm securely from anywhere. Access and manage your work in one central system - with matters, contacts, billing, and everything you need in one place. Schedule a live demo to learn more.",
+              "url" : "https://www.clio.com/web/capterra-law-practice-management?utm_campaign=Clio_Capterra_Law_Practice_Management&utm_medium=cpc&utm_source=capterra&utm_content=visit_website"
+            },
+            {
+              "product_id" : 140231,
+              "seo_product_id" : 220737,
+              "seo_slug" : "PracticePanther-Legal-Software",
+              "vendor_name" : "Paradigm",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/cc52b155-9b57-4769-b42d-1623ebabd0b1.png",
+              "rating" : 4.7,
+              "total_reviews" : 472,
+              "slug" : "PracticePanther-Legal-Software",
+              "product_name" : "PracticePanther Legal Software",
+              "short_desc" : "Mobile friendly and secure legal software that's easy to learn and use. Save time. Grow your firm. Go paperless. Work from anywhere.",
+              "features" : "PracticePanther is the top rated law practice management software on Capterra! See why tens of thousands of law firms in over 170 countries use PracticePanther to automate their workflows and get more done in less time. Never miss deadlines, get paid faster, seamlessly track billable time & expenses. Work from anywhere, on any device, with our mobile app. It's easy, user-friendly and intuitive. Spend less time managing your firm and more time making money. Try it free, no credit card needed.",
+              "url" : "https://www.practicepanther.com/free-trial/legal-case-management-software?utm_source=capterra&utm_medium=cpc&utm_campaign=lawprmgmt"
+            },
+            {
+              "product_id" : 140815,
+              "seo_product_id" : 226933,
+              "seo_slug" : "Filevine",
+              "vendor_name" : "Filevine",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d17a0530-fd82-445b-82d6-a4a0d9713b2e.png",
+              "rating" : 4.6,
+              "total_reviews" : 187,
+              "slug" : "Filevine",
+              "product_name" : "Filevine",
+              "short_desc" : "The #1 Most Customizable, Legal Case, Matter & Project Management Trusted by Over 50,000 Professionals. Get a Personalized Demo.",
+              "features" : "Filevine is the #1 most customizable law practice management software. Don't waste your valuable time on a free trial - Filevine is customized to how you do business and adapts to how your team evolves. Exceptional collaboration tools enable your team to focus on what matters, with automatic task assignments, easy reporting, texting, and emailing. Free, unlimited data storage in the cloud.   Soc 2 Type II certification ensures that your data is protected with the best security.",
+              "url" : "https://www.filevine.com/compare/legal-case-management-stats/?utm_campaign=CaseManagement&utm_medium=paid&utm_source=capterra"
+            },
+            {
+              "product_id" : 115613,
+              "seo_product_id" : 229461,
+              "seo_slug" : "MyCase",
+              "vendor_name" : "MyCase",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/c9fd7cda-1ac2-45fb-a435-f2abdf6b8ec7.png",
+              "rating" : 4.7,
+              "total_reviews" : 437,
+              "slug" : "MyCase",
+              "product_name" : "MyCase",
+              "short_desc" : "MyCase is a top-rated, complete law practice management solution with all the tools firms need to run a better practice, from anywhere.",
+              "features" : "MyCase is a top-rated, end-to-end law practice management solution that helps firms run efficiently from anywhere, provide an exceptional client experience, and easily track firm performance. Streamline day-to-day firm processes in one, easy to adopt solution -- lead tracking, client intake, case management, eSignature, billing, payments and more. Start your free trial (no credit card required) today!",
+              "url" : "https://www.mycase.com/landing/case-management-software/?utm_medium=pay-per-lead&utm_campaign=MC-PPL-Capterra-LegalCaseManagement-May16&utm_content=legal-case-mgmt"
+            },
+            {
+              "product_id" : 144573,
+              "seo_product_id" : 221813,
+              "seo_slug" : "Zola-Suite",
+              "vendor_name" : "Zola Suite",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8a26bbac-e9d6-41bc-a32f-6d6e95469f93.png",
+              "rating" : 4.6,
+              "total_reviews" : 119,
+              "slug" : "Zola-Suite",
+              "product_name" : "Zola Suite",
+              "short_desc" : "Modern legal practice management with best-in-class case management, billing, complete accounting and reporting in a single platform.",
+              "features" : "With best-in-class matter management tools and robust billing, accounting and reporting in a single cloud-based solution, Zola Suite seamlessly connects your front and back offices, and delivers a single source of truth. Best-in-class case management tools include built-in email, document management & automation, task management, CRM, secure client portal, calendar & more. The solution also includes sophisticated billing tools and complete business and trust accounting.",
+              "url" : "https://insights.zolasuite.com/lp/zola-suite-demo/capterra-getapp"
+            },
+            {
+              "product_id" : 58931,
+              "seo_product_id" : 58931,
+              "seo_slug" : "Neos",
+              "vendor_name" : "Assembly Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/17d40754-1426-4d65-b39c-27eaa1485b7c.png",
+              "rating" : 4.2,
+              "total_reviews" : 81,
+              "slug" : "Neos",
+              "product_name" : "Neos",
+              "short_desc" : "Neos is ideal for law practice management thanks to its process automation, effective communication tools, and real-time analytics.",
+              "features" : "Over 2,500 top law firms trust Assembly's solutions to optimize processes and maximize their bottom line. Our cloud-based solution, Neos, makes law practice management easier with real-time analytics, effortless payment capture, native intake, automated workflows, and more. Work together on documents with team members in real time. Generate multiple documents for hundreds of cases in a few clicks. Enjoy ready-to-use, customizable file templates. Leverage hundreds of integrations. ",
+              "url" : "https://info.assemblysoftware.com/lps/neos-demo/?utm_source=capterra&utm_medium=cpc&utm_campaign=assembly_neos"
+            },
+            {
+              "product_id" : 82112,
+              "seo_product_id" : 226720,
+              "seo_slug" : "Rocket-Matter",
+              "vendor_name" : "Rocket Matter",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8440bb0f-9754-4b30-9d6f-5b5702961b1c.png",
+              "rating" : 4.4,
+              "total_reviews" : 197,
+              "slug" : "Rocket-Matter",
+              "product_name" : "Rocket Matter",
+              "short_desc" : "Cloud-based legal practice management with all the tools you need to run a more productive and profitable law firm. ",
+              "features" : "Run a more productive and profitable law firm from anywhere with Rocket Matter legal practice management. Trusted by thousands of attorneys for over 12 years for unparalleled product and service. Our intuitive cloud-based software has all the tools you need to become more automated, more profitable, and more on top of your business. Become a lean, modern, automated law firm with Rocket Matter. See it in action with a personalized walk-through. Or try us free for 15 days, no credit card required!",
+              "url" : "https://bit.ly/3ncSkL4"
+            },
+            {
+              "product_id" : 238727,
+              "seo_product_id" : 238727,
+              "seo_slug" : "backdocket",
+              "vendor_name" : "backdocket",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/562c2714-c84e-4724-a7ee-ebca4be77ed1.jpeg",
+              "rating" : 5.0,
+              "total_reviews" : 10,
+              "slug" : "backdocket",
+              "product_name" : "backdocket",
+              "short_desc" : "Designed to help you use proven case management best practices, so you don't need to reinvent the wheel.",
+              "features" : "Practice management is case management + business analytics.\n\nBackdocket was designed to use proven case management best practices, so you don't need to reinvent the wheel. Backdocket then adds business analytics to your case management, so you can see what's making your firm successful.\n\nAvailable at a competitive price, backdocket is also backed by a free demo as well as free tech support and free onboarding for new firms. ",
+              "url" : "http://backdocket.com/intro-to-backdocket/"
+            },
+            {
+              "product_id" : 156217,
+              "seo_product_id" : 225287,
+              "seo_slug" : "CASEpeer",
+              "vendor_name" : "CASEpeer",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/c566b11e-635a-4fe5-aa01-2be7d49ddd7b.png",
+              "rating" : 4.8,
+              "total_reviews" : 45,
+              "slug" : "CASEpeer",
+              "product_name" : "CASEpeer",
+              "short_desc" : "CASEpeer online case management software is built for personal injury law firms. Easy to use, and easy to implement.",
+              "features" : "CASEpeer is the leading practice management solution built for personal injury law firms. \n\nSupercharge your law firm with a cloud-based plaintiffs' practice management solution. With cases and reporting accessible anywhere, anytime, you can execute on outcomes like never before.\n\nCASEpeer provides you with the case and practice management tools that allow you to focus on what matters most -- your clients.",
+              "url" : "https://www.casepeer.com/capterra-new"
+            },
+            {
+              "product_id" : 2600,
+              "seo_product_id" : 222718,
+              "seo_slug" : "Legal-Files",
+              "vendor_name" : "Legal Files Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/2318ecec-1cc0-47fb-b5c7-701d5478e9d0.png",
+              "rating" : 4.6,
+              "total_reviews" : 23,
+              "slug" : "Legal-Files",
+              "product_name" : "Legal Files",
+              "short_desc" : "Legal Files matter management is used by corporations, universities, governmental agencies and insurance companies.",
+              "features" : "Legal Files has been in this business for 30+ years and knows what it takes for you to be successful. Government agencies, corporations, universities and insurance companies rely upon Legal Files to successfully organize workflows and manage operations. From centralizing and organizing your contacts, documents, emails, calendars, etc. to seamlessly integrating with Microsoft Outlook, Legal Files offers the latest technology to help you get the job done more efficiently and more efficiently.",
+              "url" : "https://www.legalfiles.com/demo-contact/?utm_source=capterra&utm_campaign=legalcasemgmt"
+            },
+            {
+              "product_id" : 18931,
+              "seo_product_id" : 18931,
+              "seo_slug" : "CosmoLex",
+              "vendor_name" : "Tabs3 Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/ac2f6235-4156-4991-9568-591b0db2dfbd.png",
+              "rating" : 4.7,
+              "total_reviews" : 307,
+              "slug" : "CosmoLex",
+              "product_name" : "CosmoLex",
+              "short_desc" : "CosmoLex is the only cloud-based, total practice management, billing, and accounting system (no QuickBooks? required).",
+              "features" : "Thousands of law firms have switched to CosmoLex - the only cloud-based, law practice management software with built-in, compliant legal accounting (no QuickBooks needed). CosmoLex eliminates the struggle of juggling separate systems for law practice management, billing, and accounting. LawPay credit card processing is also built-in with no fixed monthly fee. Simply log into CosmoLex Cloud - anytime, anywhere - to get everything you need to run your entire law practice. Try free today!",
+              "url" : "http://www.cosmolex.com/?a_aid=int-capt-ppc"
+            },
+            {
+              "product_id" : 147413,
+              "seo_product_id" : 214097,
+              "seo_slug" : "LEAP",
+              "vendor_name" : "LEAP Legal Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/91b9b8a1-3844-4f5b-b06c-341fd6075ba5.png",
+              "rating" : 4.1,
+              "total_reviews" : 230,
+              "slug" : "LEAP",
+              "product_name" : "LEAP",
+              "short_desc" : "Cloud-based legal practice management software for law firms wishing to become more efficient. Access from anywhere at any time.",
+              "features" : "Cloud-based legal practice management software helping law firms to become more efficient and make more money. The powerful features allow you to manage your practice from anywhere, any time and from any device with real-time matter and client information.\n\nContinually investing in R&D of its many productivity tools its technology ensures SME law firms have access to the very latest legal technology.\n",
+              "url" : "https://www.leap.us/"
+            },
+            {
+              "product_id" : 150737,
+              "seo_product_id" : 226983,
+              "seo_slug" : "ProTempus",
+              "vendor_name" : "ProTempus",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4046daaf-170f-4316-8380-089e0e98352a.png",
+              "rating" : 4.9,
+              "total_reviews" : 10,
+              "slug" : "ProTempus",
+              "product_name" : "ProTempus",
+              "short_desc" : "SECURE AND CLOUDLESS - Law Office Billing/ Management Software\r\nfor solo and small law offices, comprehensive system. FREE Data Import!",
+              "features" : "SECURE AND CLOUDLESS Law Office Practice Management Software -\r\nProTempus is a world-class, comprehensive system designed for solo and small law firms. Our unique technology keeps your data on your local network, not in the cloud, and your authorized staff has access to all your data through the sharable database. Billing/ invoicing, Case Management, Calendar / Time keeping, Trust accounting, Contact and Task Management, AR, AP, GL are just a few of our features. FREE data imports of your data!",
+              "url" : "https://info.gartnerdigitalmarkets.com/protempus-gdm-lp"
+            }
+          ],
+          "related_categories" : [
+            {
+              "functional_group" : "lpm",
+              "long_name" : "Court Management",
+              "html_name" : "court-management-software",
+              "link_name" : "court-management",
+              "product_count" : 53,
+              "meta_description" : "Find and compare top Court Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Court Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/court-management-software\">Court Management software</a> provides solutions for case management including docketing, workflow, calendar, concise case summaries, judicial assignments, and more.  <a href=\"/court-management-software\">Court Management software</a> is related to <a href=\"/legal-case-management-software\">Legal Case Management software</a>, <a href=\"/legal-document-management-software\">Legal Document Management software</a>, <a href=\"law-practice-management-software\">Law Practice Management software</a>, and <a href=\"/legal-billing-software\">Legal Billing software</a>."
+            },
+            {
+              "functional_group" : "lpm",
+              "long_name" : "Legal Billing",
+              "html_name" : "legal-billing-software",
+              "link_name" : "legal-billing",
+              "product_count" : 64,
+              "meta_description" : "Find and compare top Legal Billing software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Legal Billing tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/legal-billing-software>Legal Billing software</a> automates time tracking, billing, calendaring and accounting for law practices.  These applications facilitate legal-style hourly billing and recording of case-related expenses.  Many Legal Billing solutions also feature integration for a broad range of case and workflow management tools as well as accounting and payroll features across multiple office locations.  <a href=/legal-billing-software>Legal Billing software</a> is related to <a href=/law-practice-management-software>Law Practice Management software</a>, <a href=/professional-services-automation-software>Professional Services Automation software</a> and Time and Expense software.  "
+            },
+            {
+              "functional_group" : "lpm",
+              "long_name" : "Legal Calendar",
+              "html_name" : "legal-calendar-software",
+              "link_name" : "legal-calendar",
+              "product_count" : 50,
+              "meta_description" : "Find and compare top Legal Calendar software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Legal Calendar tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/legal-calendar-software\">Legal Calendar software</a> helps attorneys to manage their schedules.  These applications allow users to schedule events and appointments, set deadline reminders and notifies of any conflicts. <a href=\"/legal-calendar-software\">Legal Calendar software</a> is related to <a href=\"/court-management-software\">Court Management software</a>, <a href=\"/law-practice-management-software\">Law Practice Management software</a>, <a href=\"/legal-billing-software\">Legal Billing software</a> and <a href=\"/legal-case-management-software\">Legal Case Management software</a>."
+            },
+            {
+              "functional_group" : "lpm",
+              "long_name" : "Legal Case Management",
+              "html_name" : "legal-case-management-software",
+              "link_name" : "legal-case-management",
+              "product_count" : 135,
+              "meta_description" : "Find and compare top Legal Case Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Legal Case Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/legal-case-management-software\">Legal Case Management software</a> coordinates documents, scheduling, conflicts, contacts, and reporting associated with legal cases.  These applications enable an integrated solution to automate case management, client history tracking, and contracts as well as billing and accounting.  Legal Case Management solutions also often include database management, electronic discovery, and automatic document template editing features, enabling organizations to manage, distribute, and update key case-related data.  <a href=\"/legal-case-management-software\">Legal Case Management software</a> is related to <a href=\"/legal-document-management-software\">Legal Document Management software</a>, <a href=\"/law-practice-management-software\">Law Practice Management software</a> and <a href=\"/legal-billing-software\">Legal Billing software</a>."
+            },
+            {
+              "functional_group" : "lpm",
+              "long_name" : "Legal Document Management",
+              "html_name" : "legal-document-management-software",
+              "link_name" : "legal-document-management",
+              "product_count" : 74,
+              "meta_description" : "Find and compare top Legal Document Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Legal Document Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/legal-document-management-software\">Legal Document Management software</a> allows legal professionals to organize and quickly access electronically-stored legal documents.  Scanning, imaging, and merging allow these documents to be included in a database that is searchable and sortable in any number of ways. This type of software can also allow for transcript and transcription management.  <a href=\"/legal-document-management-software\">Legal Document Management software</a> is related to <a href=\"/document-management-software\">Document Management software</a>, <a href=\"/legal-case-management-software\">Legal Case Management software</a>, <a href=\"/law-practice-management-software\">Law Practice Management software</a>, and <a href=\"/court-management-software\">Court Management software</a>."
+            },
+            {
+              "functional_group" : "lpm",
+              "long_name" : "Legal Research",
+              "html_name" : "legal-research-software",
+              "link_name" : "legal-research",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Legal Research software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Legal Research tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "Legal Research software and services aggregate court judgements, legislation, regulations and case law from a variety of sources as well as provide tools for automating legislation discovery and analysis."
+            },
+            {
+              "functional_group" : "lpm",
+              "long_name" : "Trust Accounting",
+              "html_name" : "trust-accounting-software",
+              "link_name" : "trust-accounting",
+              "product_count" : 27,
+              "meta_description" : "Find and compare top Trust Accounting software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Trust Accounting tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs.",
+              "description" : "<a href=\"/trust-accounting-software\">Trust Accounting software</a> allows administrators to manage trusts, estates and investment portfolios.  Trust Accounting solutions can be used by bank trust departments, accountants, law firms, non-profit organizations and independent trust companies and helps to keep administrators in compliance with all applicable laws and regulations.  <a href=\"/trust-accounting-software\">Trust Accounting software</a> is related to <a href=\"/accounting-software\">Accounting software</a>, <a href=\"/accounting-software\">Fund Accounting software</a>, <a href=\"/law-practice-management-software\">Law Practice Management software</a>, <a href=\"/investment-management-software\">Investment Management software</a> and <a href=\"/legal-billing-software\">Legal Billing software</a>. "
+            }
+          ],
+          "is_upgraded" : false,
+          "enabled" : true,
+          "filter_options" : {
+            "users" : 127,
+            "platform" : 1,
+            "pricing_options" : 26,
+            "category_related_features" : [
+              19149,
+              19150,
+              19151,
+              19153,
+              19155,
+              19159,
+              19166,
+              25053,
+              25055,
+              37123,
+              40057,
+              52921,
+              52923,
+              52927,
+              52929,
+              52930,
+              52931,
+              52933,
+              52934,
+              52938,
+              52939,
+              52940,
+              52941,
+              52944,
+              52945,
+              52950,
+              52953,
+              52955
+            ],
+            "employees" : 127
+          },
+          "sort_options" : {
+            "sort_review_rating" : 4.525134086608887,
+            "most_recent_review" : "2022-07-06T21:44:08Z"
+          },
+          "countries" : "ALL",
+          "features_tokenized_text" : "billing_&_invoicing calendar_management client_portal crm document_management email_management legal_case_management task_management time_tracking trust_accounting",
+          "platform_tokenized_text" : "cloud,saas,web-based",
+          "users_tokenized_text" : "1 2-10 11-50 51-200 201-500 501-1000 1000+",
+          "pricing_tokenized_text" : "monthlysubscription free freetrial",
+          "badges" : [ ],
+          "bid_spot_us" : 0.0,
+          "currency_code" : "USD",
+          "currency_symbol" : "$",
+          "credit_card_required" : "Unverified",
+          "licensing_model" : null,
+          "open_api_offered" : "Unverified",
+          "mobile_urls" : [ ],
+          "integrations" : [ ],
+          "supported_countries" : [
+            {
+              "id" : 237,
+              "code" : "US",
+              "name" : "United States of America"
+            }
+          ],
+          "supported_languages" : [
+            {
+              "id" : 152,
+              "code" : "en",
+              "name" : "English",
+              "location" : null
+            }
+          ],
+          "target_industries" : [
+            {
+              "id" : 61,
+              "code" : "88",
+              "name" : "Individual & Family Services"
+            },
+            {
+              "id" : 73,
+              "code" : "9",
+              "name" : "Law Practice"
+            },
+            {
+              "id" : 114,
+              "code" : "79",
+              "name" : "Public Policy"
+            },
+            {
+              "id" : 11,
+              "code" : "41",
+              "name" : "Banking"
+            },
+            {
+              "id" : 120,
+              "code" : "44",
+              "name" : "Real Estate"
+            },
+            {
+              "id" : 43,
+              "code" : "43",
+              "name" : "Financial Services"
+            }
+          ],
+          "price_range_id" : 1,
+          "aggregated_review_ratings" : {
+            "industry" : {
+              "113" : 5.0,
+              "44" : 5.0,
+              "9" : 4.46,
+              "43" : 5.0,
+              "10" : 4.48
+            },
+            "company_size" : {
+              "11-50 employees" : 4.29,
+              "Self-employed" : 4.55,
+              "51-200 employees" : 4.6,
+              "1-10 employees" : 4.45
+            }
+          },
+          "vct_enabled" : false,
+          "pricing_plans" : [
+            {
+              "created_on_utc" : "2019-08-21T14:47:39Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "JubileeGo",
+              "description" : "$79 per case and $99 per business case.",
+              "display_order" : 1,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 79.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "11"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "12"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "13"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "1 Electronic Signature (Electronic Signature Request"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 5,
+                  "name" : "2 Users"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 6,
+                  "name" : "Bankruptcy Filings (Single Case"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 7,
+                  "name" : "Case Management (Case Notes"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 8,
+                  "name" : "Chapters 7"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 9,
+                  "name" : "Cloudaccess"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 10,
+                  "name" : "Credit Report Integrations)"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 11,
+                  "name" : "Documents Storage"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 12,
+                  "name" : "ECF Integration"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 13,
+                  "name" : "Electronic Filing"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 14,
+                  "name" : "Emails Signed Receipt)"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 15,
+                  "name" : "Free Phone or Email Support"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 16,
+                  "name" : "Free Training Webinars)."
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 17,
+                  "name" : "Internal Calendar)"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 18,
+                  "name" : "Multiple Integrations"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 19,
+                  "name" : "Support (Expert Support Team"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 20,
+                  "name" : "Track Status of Requests"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 21,
+                  "name" : "Unlimited Districts"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 22,
+                  "name" : "Updated Forms"
+                }
+              ]
+            },
+            {
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "JubileePRO",
+              "description" : null,
+              "display_order" : 2,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 71.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "11"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "12"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "13"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "51 Electronic Signatures (Electronic Signature Request"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 5,
+                  "name" : "Bankruptcy Filings (51 Case Filings"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 6,
+                  "name" : "Case Management (Case Notes"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 7,
+                  "name" : "Chapters 7"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 8,
+                  "name" : "Cloudaccess"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 9,
+                  "name" : "Court Notices"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 10,
+                  "name" : "Credit Report Integrations)"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 11,
+                  "name" : "Documents Storage"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 12,
+                  "name" : "ECF Integration"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 13,
+                  "name" : "Electronic Filing"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 14,
+                  "name" : "Electronic Invoicing"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 15,
+                  "name" : "Emails Signed Receipt)"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 16,
+                  "name" : "Free Phone or Email Support"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 17,
+                  "name" : "Free Training Webinars)"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 18,
+                  "name" : "Internal Calendar"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 19,
+                  "name" : "Legal Payments (Billing Plan"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 20,
+                  "name" : "Multiple Integrations"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 21,
+                  "name" : "Reminders)"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 22,
+                  "name" : "Secure Online Payments)"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 23,
+                  "name" : "Support (Expert Support Team"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 24,
+                  "name" : "Text Messaging"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 25,
+                  "name" : "Time Tracking"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 26,
+                  "name" : "Track Status of Requests"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 27,
+                  "name" : "Unlimited Districts"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 28,
+                  "name" : "Unlimited Users"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 29,
+                  "name" : "Updated Forms"
+                }
+              ]
+            },
+            {
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "JubileePM",
+              "description" : "$50 per month for unlimited users.",
+              "display_order" : 3,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 20.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "2 Users"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "51 Electronic Signatures (Electronic Signature Request"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Case Management (Case Notes"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "Cloudaccess"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 5,
+                  "name" : "Court Notices"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 6,
+                  "name" : "Documents Storage"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 7,
+                  "name" : "Electronic Invoicing"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 8,
+                  "name" : "Emails Signed Receipt)"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 9,
+                  "name" : "Free Phone or Email Support"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 10,
+                  "name" : "Free Training Webinars)"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 11,
+                  "name" : "Internal Calendar"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 12,
+                  "name" : "Legal Payments (Billing Plan"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 13,
+                  "name" : "Multiple Integrations"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 14,
+                  "name" : "Reminders)"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 15,
+                  "name" : "Secure Online Payments)"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 16,
+                  "name" : "Support (Expert Support Team"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 18,
+                  "name" : "Time Tracking"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 19,
+                  "name" : "Track Status of Requests"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 17,
+                  "name" : "Text Messaging"
+                }
+              ]
+            }
+          ],
+          "discount_types" : [ ]
+        }
+      },
+      {
+        "_index" : "product_listings_main_data_upc_vt20220920_043802_utc",
+        "_type" : "_doc",
+        "_id" : "156277_bankruptcy",
+        "_score" : 10.53273,
+        "_source" : {
+          "product_id" : 156277,
+          "seo_product_id" : 223760,
+          "seo_slug" : "Jubilee",
+          "product_name" : "Jubilee",
+          "upc_product_uuid" : "42892cc3-731c-4082-a7ff-a6ea0147c0b0",
+          "old_product_ids" : [
+            223760,
+            184749,
+            184748
+          ],
+          "product_url" : "https://software-info.gartnerdigitalmarkets.com/legalpro-systems-jubilee-gdm/",
+          "product_slug" : "Jubilee-Bankruptcy",
+          "former_name" : "Jubilee - Bankruptcy",
+          "logo_filepath" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/b925e468-79b6-471c-a795-ea85a35decb8.png",
+          "vendor" : {
+            "vendor_id" : 2109668,
+            "vendor_name" : "LegalPRO Systems",
+            "vendor_url" : "https://legal-pro.com/",
+            "year_founded" : 1985,
+            "location" : "United States",
+            "vendor_opted_out_of_reviews" : true,
+            "is_opted_out_of_reviews" : false,
+            "is_hit_limit" : false,
+            "enabled" : true,
+            "has_vendor_level_page" : false,
+            "slug" : null,
+            "vendor_page" : false,
+            "paused_campaign" : false
+          },
+          "category_short_name" : "bankruptcy",
+          "category_html_name" : "bankruptcy-software",
+          "category" : {
+            "id" : 31617,
+            "short_name" : "bankruptcy",
+            "long_name" : "Bankruptcy",
+            "html_name" : "bankruptcy-software",
+            "enabled" : true
+          },
+          "best_category" : "bankruptcy",
+          "is_best_category" : true,
+          "highest_cpc_category" : "bankruptcy",
+          "is_highest_cpc_category" : true,
+          "short_desc" : "Affordable Practice Management & Bankruptcy Software for the Legal Professionals.",
+          "long_desc" : "Jubilee is LegalPRO Systems' cloud-based bankruptcy petition preparation and filing platform. It handles personal and business filings in Chapters 7, 11, 12, and 13. Additional robust features include legal payments and invoicing, notice management, and client messaging. LegalPRO has been providing bankruptcy software for over 30 years and provides the best software, service, and support.",
+          "rating" : 4.5,
+          "number_of_reviews" : 101,
+          "total_reviews" : 101,
+          "ease_of_use_rating" : 4.2,
+          "customer_support_rating" : 4.8,
+          "functionality_rating" : 4.2,
+          "value_for_money_rating" : 4.7,
+          "recommendation_rating" : 8.5,
+          "pricing_enabled" : true,
+          "pricing" : 79.0,
+          "is_per_user" : false,
+          "fee_schedule" : "Per-Month",
+          "pricing_model" : "Flat Rate",
+          "pricing_details" : "Pay Per Case: $59/individual or joint case\r\nSubscription: Start at $20/month",
+          "pricing_created_on" : "2019-08-21T14:47:39Z",
+          "pricing_modified_on" : "2022-06-23T14:42:33Z",
+          "pricing_created_by" : null,
+          "pricing_modified_by" : null,
+          "pricing_vendor_pricing_url" : "https://www.jubileepro.com/pricing/",
+          "free_trial" : true,
+          "free_version" : true,
+          "target_audience" : "Law Firms, Solo Practitioners & Small Firm, and Bankruptcy Firms",
+          "target_users" : [
+            "1",
+            "2-10",
+            "11-50",
+            "51-200",
+            "201-500",
+            "501-1000",
+            "1000+"
+          ],
+          "platform" : [
+            {
+              "enabled" : true,
+              "name" : "Cloud, SaaS, Web-Based"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Mac"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Chromebook"
+            },
+            {
+              "enabled" : false,
+              "name" : "Mobile Android"
+            },
+            {
+              "enabled" : false,
+              "name" : "Mobile iPhone"
+            },
+            {
+              "enabled" : false,
+              "name" : "Mobile iPad"
+            }
+          ],
+          "support" : [
+            {
+              "enabled" : true,
+              "name" : "Email Help Desk"
+            },
+            {
+              "enabled" : true,
+              "name" : "FAQ Forum"
+            },
+            {
+              "enabled" : false,
+              "name" : "Knowledgebase"
+            },
+            {
+              "enabled" : true,
+              "name" : "Phone Support"
+            },
+            {
+              "enabled" : false,
+              "name" : "24/7 Live Rep"
+            },
+            {
+              "enabled" : true,
+              "name" : "Chat"
+            }
+          ],
+          "training" : [
+            {
+              "enabled" : false,
+              "name" : "Not Offered"
+            },
+            {
+              "enabled" : false,
+              "name" : "In-Person"
+            },
+            {
+              "enabled" : true,
+              "name" : "Live Online"
+            },
+            {
+              "enabled" : true,
+              "name" : "Webinars"
+            },
+            {
+              "enabled" : true,
+              "name" : "Documentation"
+            },
+            {
+              "enabled" : true,
+              "name" : "Videos"
+            }
+          ],
+          "media" : [
+            {
+              "product_id" : 156277,
+              "vendor_id" : 2109668,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/3b2a1195-043a-4752-afd4-cbd16d36e339.png",
+              "caption" : "Jubilee Notices",
+              "weight" : 1,
+              "short_name" : "bankruptcy"
+            },
+            {
+              "product_id" : 156277,
+              "vendor_id" : 2109668,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/75bf9ec0-638d-4265-a2a9-6ad8eac299f6.png",
+              "caption" : "Jubilee Overview Menu",
+              "weight" : 2,
+              "short_name" : "bankruptcy"
+            },
+            {
+              "product_id" : 156277,
+              "vendor_id" : 2109668,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/eff44cfd-fe29-4973-8815-0d1927867514.png",
+              "caption" : null,
+              "weight" : 3,
+              "short_name" : "bankruptcy"
+            },
+            {
+              "product_id" : 156277,
+              "vendor_id" : 2109668,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/a9e9437d-15aa-49c1-b7e8-6ad38891b8ee.png",
+              "caption" : "Jubilee Legal Payments",
+              "weight" : 4,
+              "short_name" : "bankruptcy"
+            },
+            {
+              "product_id" : 156277,
+              "vendor_id" : 2109668,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/6d8335a8-cbc1-4ad0-a8aa-a3fb3a3382f5.png",
+              "caption" : "Jubilee BK Plan Recap",
+              "weight" : 5,
+              "short_name" : "bankruptcy"
+            },
+            {
+              "product_id" : 156277,
+              "vendor_id" : 2109668,
+              "media_type" : "VIDEO",
+              "path_url" : "https://youtu.be/YrvebdEOEZA",
+              "caption" : null,
+              "weight" : 0,
+              "short_name" : "bankruptcy"
+            }
+          ],
+          "links" : [
+            {
+              "product_id" : 156277,
+              "functional_group" : "bankruptcy",
+              "html_code" : "https://software-info.gartnerdigitalmarkets.com/legalpro-systems-jubilee-gdm/",
+              "link_name" : "Free Trial",
+              "link_priority" : 1.0
+            },
+            {
+              "product_id" : 156277,
+              "functional_group" : "bankruptcy",
+              "html_code" : "https://jubileebk.com/pricing/?utm_source=Capterra+Campaign&utm_medium=PPC&utm_term=Jubilee+BK&utm_content=Directory&utm_campaign=Capterra",
+              "link_name" : "Pricing",
+              "link_priority" : 3.0
+            }
+          ],
+          "features" : [
+            {
+              "category_name" : "Bankruptcy",
+              "category_features" : [
+                {
+                  "name" : "Bankruptcy Case Management",
+                  "value" : true,
+                  "id" : "6ddcfdf5-833f-4e10-bf26-0c9bda744887",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : "Management of a legal case related to insolvency of a business or individual"
+                },
+                {
+                  "name" : "Calendar Management",
+                  "value" : true,
+                  "id" : "10dc6d16-b8eb-47be-a3b9-3368fba98bac",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Create, manage, and share multiple calendars"
+                },
+                {
+                  "name" : "Client Management",
+                  "value" : true,
+                  "id" : "2be4a8f3-1afa-49ee-9306-6f11bf4a1f2e",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Manage company interactions with current customers"
+                },
+                {
+                  "name" : "Client Portal",
+                  "value" : true,
+                  "id" : "6a55d8f2-f75b-4f1f-ae6a-d51a68db897d",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Critical Date Alerts",
+                  "value" : true,
+                  "id" : "ce9f42aa-d414-4127-b18c-a0206c30a93a",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Notifications received when deadlines that are coming up"
+                },
+                {
+                  "name" : "Document Management",
+                  "value" : true,
+                  "id" : "a55b34ad-b6ec-4072-b3bd-a7151f7843de",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Collect, upload, store, and share all documents in a centralized location making it easier for everyone involved to access information "
+                },
+                {
+                  "name" : "Electronic Filing",
+                  "value" : true,
+                  "id" : "d91d1949-d0c9-4991-810f-5deef59b2942",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Transmit documents to regulatory authorities over the web"
+                },
+                {
+                  "name" : "Exemption Management",
+                  "value" : true,
+                  "id" : "47318bbb-80bb-4ba7-84c3-375b24a00a24",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Identify and track situations that legally reduce financial liability"
+                },
+                {
+                  "name" : "Forms Automation",
+                  "value" : true,
+                  "id" : "3c8c4b5e-c740-4c0e-9ffb-b8a022eb3227",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Automate repetitive tasks such as filling out information or creating certain types of forms"
+                },
+                {
+                  "name" : "Legal Forms Library",
+                  "value" : false,
+                  "id" : "ba74577e-0c30-4fef-95cc-522047d0fc2c",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Repository of industry-specific forms that can be used as is"
+                },
+                {
+                  "name" : "Task Management",
+                  "value" : true,
+                  "id" : "82ce67d3-ac09-49d0-ae71-5e6401e3e26b",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "A running list of action items and their respective status"
+                },
+                {
+                  "name" : "Time Tracking",
+                  "value" : true,
+                  "id" : "e876e7a1-0d30-490c-b2e8-8026ed811aa7",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Measure time to completion or hours worked"
+                }
+              ]
+            }
+          ],
+          "infographics" : [
+            {
+              "product_id" : 156277,
+              "html_name" : "law-practice-management-software",
+              "infographic_type" : "general_t20",
+              "infographic_title" : null
+            },
+            {
+              "product_id" : 156277,
+              "html_name" : "legal-billing-software",
+              "infographic_type" : "general_t20",
+              "infographic_title" : null
+            },
+            {
+              "product_id" : 156277,
+              "html_name" : "legal-case-management-software",
+              "infographic_type" : "general_t20",
+              "infographic_title" : null
+            }
+          ],
+          "related_products" : [
+            {
+              "product_id" : 225753,
+              "seo_product_id" : 18374,
+              "seo_slug" : "AbacusLaw",
+              "vendor_name" : "AbacusNext",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/a41c20af-f3e7-48da-a50c-7fc69d54d9a6.png",
+              "rating" : 3.9,
+              "total_reviews" : 365,
+              "slug" : "AbacusLaw",
+              "product_name" : "AbacusLaw",
+              "short_desc" : "AbacusLaw is a turn-key, fully integrated Case Management Solution for firms of all sizes, in all practice areas and jurisdictions.",
+              "features" : "AbacusLaw gives you all the tools you need to grow your firm - including case management, time, billing, and full G/L accounting operations. Automatically capture critical case and client details, prevent important deadlines from falling through the cracks, and gain complete visibility into your practice.",
+              "url" : "https://www.amicusattorney.com/abacuslaw/"
+            },
+            {
+              "product_id" : 130909,
+              "seo_product_id" : 130909,
+              "seo_slug" : "iDeals-Virtual-Data-Room",
+              "vendor_name" : "iDeals ",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/7f7d5873-0d70-4b91-b4b9-59455ea2a39c.png",
+              "rating" : 4.8,
+              "total_reviews" : 248,
+              "slug" : "iDeals-Virtual-Data-Room",
+              "product_name" : "iDeals Virtual Data Room",
+              "short_desc" : "iDeals VDR allows investment bankers, lawyers and top managers to exchange and share confidential information through secure deal room.",
+              "features" : "iDeals is a sophisticated and trusted virtual data room provider. Our experience and exceptional results have been tried and tested by investment bankers, lawyers and top managers of enterprises around the world. As the most result oriented and flexible company in the market we always listen to our customers and offer them the most secure, comfortable and fast solution to achieve their strategic goals in any kind of transaction.",
+              "url" : "https://offers.idealsvdr.com/?utm_source=capterra&utm_medium=cpc&utm_content=bankruptcy-main"
+            },
+            {
+              "product_id" : 225916,
+              "seo_product_id" : 5508,
+              "seo_slug" : "Amicus-Attorney",
+              "vendor_name" : "AbacusNext",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/f2c052f2-437c-4553-acea-8507abd86a47.png",
+              "rating" : 3.7,
+              "total_reviews" : 188,
+              "slug" : "Amicus-Attorney",
+              "product_name" : "Amicus Attorney",
+              "short_desc" : "Practice Management software that integrates your information into a single system for improved efficiency and profitability.",
+              "features" : "Amicus Attorney is an intuitive case management solution that tracks and invoices billable time, automates important documents, and provides easy access to all your clients and case files. Work from your desktop or in the private cloud while integrating with QuickBooks and other applications.",
+              "url" : "https://www.amicusattorney.com/attorney/"
+            },
+            {
+              "product_id" : 140815,
+              "seo_product_id" : 226933,
+              "seo_slug" : "Filevine",
+              "vendor_name" : "Filevine",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d17a0530-fd82-445b-82d6-a4a0d9713b2e.png",
+              "rating" : 4.6,
+              "total_reviews" : 187,
+              "slug" : "Filevine",
+              "product_name" : "Filevine",
+              "short_desc" : "Top-rated bankruptcy project management trusted by over 50,000 professionals. Get a 1:1, customized demo.",
+              "features" : "Filevine is the #1 most customizable bankruptcy management software. Don't waste your valuable time on a free trial - Filevine is customized to how you do business and adapts to how your team evolves. Exceptional collaboration tools enable your team to focus on what matters, with automatic task assignments, easy reporting, texting, and emailing. Free, unlimited data storage in the cloud.  SOC 2 Type II & HIPPA compliance ensures your data is protected with the best security. ",
+              "url" : "https://www.filevine.com/bankruptcy-project-management-software/?utm_campaign=Bankruptcy&utm_medium=paid&utm_source=capterra"
+            },
+            {
+              "product_id" : 168766,
+              "seo_product_id" : 168766,
+              "seo_slug" : "NextChapter",
+              "vendor_name" : "Fastcase",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/41ee9bfc-2ed2-4916-b758-582dc160c88c.png",
+              "rating" : 4.8,
+              "total_reviews" : 103,
+              "slug" : "NextChapter",
+              "product_name" : "NextChapter",
+              "short_desc" : "Bankruptcy software for the modern attorney. Web-based app for attorneys to prepare, manage, and file bankruptcy cases online. ",
+              "features" : "NextChapter's web-based bankruptcy software program allows you to prepare Chapter 7, Chapter 11, and Chapter 13 bankruptcy cases on any browser, any device, any time. With intuitive time-saving features, clean design, integrations and firm customizations, NextChapter streamlines everything you need to run your bankruptcy practice in the cloud. Learn why thousands of legal professionals have switched to NextChapter. Try it for free at NextChapterBK.com.",
+              "url" : "https://nextchapterbk.com"
+            },
+            {
+              "product_id" : 114593,
+              "seo_product_id" : 114593,
+              "seo_slug" : "Best-Client-Practice-Management",
+              "vendor_name" : "Best Client Solutions",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4ed33f0c-0ee8-4c35-bed5-00a16367761f.png",
+              "rating" : 4.9,
+              "total_reviews" : 14,
+              "slug" : "Best-Client-Practice-Management",
+              "product_name" : "Best Client Practice Management",
+              "short_desc" : "Law Office Automation with an eye toward Bankruptcy Practice. Cloud or on premise versions.",
+              "features" : "Practice Management and Client Management Software. Incorporates Case Management with accounting integration, permitting billing and invoicing alongside providing calendar management.  It also facilitates document management, library management.\r\nThis software is designed specifically for attorneys and provides practice management with accounting.\r\nWe specialize in Consumer Bankruptcy.\r\nAutomatically post Court and Client Emails\r\nOn Line Calendar Integration",
+              "url" : "http://iamthewolf.com/"
+            },
+            {
+              "product_id" : 202521,
+              "seo_product_id" : 202521,
+              "seo_slug" : "Solvemint",
+              "vendor_name" : "Solvemint",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/b93e4310-2c5e-4462-9d32-621dc35e1d9c.png",
+              "rating" : 5.0,
+              "total_reviews" : 1,
+              "slug" : "Solvemint",
+              "product_name" : "Solvemint",
+              "short_desc" : "Online software for corporate insolvency resolution process management for insolvency professionals & resolution.",
+              "features" : "Online software for corporate insolvency resolution process management for insolvency professionals & resolution.",
+              "url" : "http://www.solvemint.com"
+            }
+          ],
+          "similar_products" : [
+            {
+              "product_id" : 130909,
+              "seo_product_id" : 130909,
+              "seo_slug" : "iDeals-Virtual-Data-Room",
+              "vendor_name" : "iDeals ",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/7f7d5873-0d70-4b91-b4b9-59455ea2a39c.png",
+              "rating" : 4.8,
+              "total_reviews" : 248,
+              "slug" : "iDeals-Virtual-Data-Room",
+              "product_name" : "iDeals Virtual Data Room",
+              "short_desc" : "iDeals VDR allows investment bankers, lawyers and top managers to exchange and share confidential information through secure deal room.",
+              "features" : "iDeals is a sophisticated and trusted virtual data room provider. Our experience and exceptional results have been tried and tested by investment bankers, lawyers and top managers of enterprises around the world. As the most result oriented and flexible company in the market we always listen to our customers and offer them the most secure, comfortable and fast solution to achieve their strategic goals in any kind of transaction.",
+              "url" : "https://offers.idealsvdr.com/?utm_medium=organic&utm_source=capterra&utm_content=main"
+            },
+            {
+              "product_id" : 140815,
+              "seo_product_id" : 226933,
+              "seo_slug" : "Filevine",
+              "vendor_name" : "Filevine",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d17a0530-fd82-445b-82d6-a4a0d9713b2e.png",
+              "rating" : 4.6,
+              "total_reviews" : 187,
+              "slug" : "Filevine",
+              "product_name" : "Filevine",
+              "short_desc" : "Top-rated bankruptcy project management trusted by over 50,000 professionals. Get a 1:1, customized demo.",
+              "features" : "Filevine is the #1 most customizable bankruptcy management software. Don't waste your valuable time on a free trial - Filevine is customized to how you do business and adapts to how your team evolves. Exceptional collaboration tools enable your team to focus on what matters, with automatic task assignments, easy reporting, texting, and emailing. Free, unlimited data storage in the cloud.  SOC 2 Type II & HIPPA compliance ensures your data is protected with the best security. ",
+              "url" : "https://www.filevine.com/compare/legal-case-management-stats/?utm_campaign=CaseManagement&utm_medium=paid&utm_source=capterra"
+            },
+            {
+              "product_id" : 168766,
+              "seo_product_id" : 168766,
+              "seo_slug" : "NextChapter",
+              "vendor_name" : "Fastcase",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/41ee9bfc-2ed2-4916-b758-582dc160c88c.png",
+              "rating" : 4.8,
+              "total_reviews" : 103,
+              "slug" : "NextChapter",
+              "product_name" : "NextChapter",
+              "short_desc" : "Bankruptcy software for the modern attorney. Web-based app for attorneys to prepare, manage, and file bankruptcy cases online. ",
+              "features" : "NextChapter's web-based bankruptcy software program allows you to prepare Chapter 7, Chapter 11, and Chapter 13 bankruptcy cases on any browser, any device, any time. With intuitive time-saving features, clean design, integrations and firm customizations, NextChapter streamlines everything you need to run your bankruptcy practice in the cloud. Learn why thousands of legal professionals have switched to NextChapter. Try it for free at NextChapterBK.com.",
+              "url" : "https://nextchapterbk.com"
+            },
+            {
+              "product_id" : 181220,
+              "seo_product_id" : 181220,
+              "seo_slug" : "Foreclosure-Bankruptcy-Software",
+              "vendor_name" : "Altisource Solutions",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/75f278e5-3266-4a4a-a0d2-33482349c963.png",
+              "rating" : 4.0,
+              "total_reviews" : 1,
+              "slug" : "Foreclosure-Bankruptcy-Software",
+              "product_name" : "Equator",
+              "short_desc" : "Allows loan servicers to take control of the bankruptcy and foreclosure process and provides easy communication with lawyers.",
+              "features" : "Equator? offers an industry-leading SaaS residential distressed loan and REO management platform. The technology assists servicers, outsource providers and vendors improve net execution by helping to efficiently and effectively manage delinquencies, support compliance requirements, reduce cycle times and decrease operating costs.",
+              "url" : "http://www.equator.com/solutions/servicer/foreclosure-bankruptcy/"
+            },
+            {
+              "product_id" : 223368,
+              "seo_product_id" : 223368,
+              "seo_slug" : "Clio",
+              "vendor_name" : "Clio",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/2427d998-b9b7-4ada-88b7-57324c9d2dc8.jpg",
+              "rating" : 4.7,
+              "total_reviews" : 1200,
+              "slug" : "Clio",
+              "product_name" : "Clio",
+              "short_desc" : "Clio provides a powerful suite of tools to help modern legal professionals run, grow, and manage their firms from intake to invoice.",
+              "features" : "Clio eases the day-to-day of legal professionals all over the world with intuitive time tracking, billing, matter management, mobile apps, and more to streamline every task from client intake to invoice. With Clio Manage, the world's most popular legal practice management software, and Clio Grow, a legal CRM platform designed to help you better manage your client relationships, the Clio Suite provides everything you need to run, grow, and manage your law firm.",
+              "url" : "https://www.clio.com/"
+            },
+            {
+              "product_id" : 216942,
+              "seo_product_id" : 76729,
+              "seo_slug" : "TimeSolv-Legal-Billing",
+              "vendor_name" : "TimeSolv Billing",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/6e14c379-d15e-4c6c-ba4e-b8d8591c3bb1.png",
+              "rating" : 4.7,
+              "total_reviews" : 579,
+              "slug" : "TimeSolv-Legal-Billing",
+              "product_name" : "TimeSolv Legal Billing",
+              "short_desc" : "New realities call for new solutions. We are the #1 time and billing, and payments software for law firms. Try for FREE now.",
+              "features" : "At HALF THE COST of other solutions, TimeSolv provides the robust time and billing needs law firms demand, without the extra features you never use. Store payment information using TimeSolvPay and run hundreds of payments in seconds on YOUR timeline, achieving ZERO AR! For over 20 years, our web-based solution has helped lawyers increase their billable time and get paid faster, whether at home or in the office. Integrate with LawPay, QuickBooks, Office 365, and more. Try for FREE for 30 days!",
+              "url" : "https://www.timesolv.com/lp/free-trial/?utm_campaign=legal-billing-software&utm_medium=legal-billing-listing&utm_source=capterra"
+            },
+            {
+              "product_id" : 226343,
+              "seo_product_id" : 12415,
+              "seo_slug" : "BigTime",
+              "vendor_name" : "BigTime Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d5523c4b-c183-40b2-bf6d-581294f47447.png",
+              "rating" : 4.6,
+              "total_reviews" : 576,
+              "slug" : "BigTime",
+              "product_name" : "BigTime",
+              "short_desc" : "Professional services automation software that helps firms with project management, time tracking, billing, reporting, and accounting",
+              "features" : "BigTime is a leading Professional Services Automation (PSA) software that helps you scale your business by giving you the ability to track and act on your operational metrics. Even with remote work, easily manage time, expenses, and billing for multiple projects all at once, and quickly identify areas of opportunity with advanced features like resource allocation and custom reporting. With BigTime Wallet and client portal, you can get paid faster using custom invoicing and payment processing.",
+              "url" : "https://www.bigtime.net/start/welcome/"
+            },
+            {
+              "product_id" : 221523,
+              "seo_product_id" : 27769,
+              "seo_slug" : "BillQuick",
+              "vendor_name" : "BQE Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/2a6d189c-62c6-45a7-bcad-aeae738925a3.png",
+              "rating" : 4.4,
+              "total_reviews" : 571,
+              "slug" : "BQE-Core-Suite",
+              "product_name" : "BQE CORE Suite",
+              "short_desc" : "BQE CORE makes it easier & more profitable to run your firm by automating repetitive tasks & delivering real-time actionable insights.",
+              "features" : "BQE's powerful all-in-one platform and expert support give A & E firms the intuitive tools they need to meet the demands of their firm, empower their team, maximize profitability, and deliver superior results to clients. Designed for the A&E industry by architects and engineers BQE CORE makes it easier & more profitable to run your firm by automating repetitive tasks & delivering real-time actionable insights.",
+              "url" : "http://www.bqe.com/core-time-expense"
+            },
+            {
+              "product_id" : 220737,
+              "seo_product_id" : 220737,
+              "seo_slug" : "PracticePanther-Legal-Software",
+              "vendor_name" : "Paradigm",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/cc52b155-9b57-4769-b42d-1623ebabd0b1.png",
+              "rating" : 4.7,
+              "total_reviews" : 472,
+              "slug" : "PracticePanther-Legal-Software",
+              "product_name" : "PracticePanther Legal Software",
+              "short_desc" : "Mobile friendly and secure legal software that's easy to learn and use. Save time. Grow your firm. Go paperless. Work from anywhere.",
+              "features" : "PracticePanther is the top rated law practice management software on Capterra! See why tens of thousands of law firms in over 170 countries use PracticePanther to automate their workflows and get more done in less time. Never miss deadlines, get paid faster, seamlessly track billable time & expenses. Work from anywhere, on any device, with our mobile app. It's easy, user-friendly and intuitive. Spend less time managing your firm and more time making money. Try it free, no credit card needed.",
+              "url" : "https://www.practicepanther.com/practice-management/"
+            },
+            {
+              "product_id" : 229461,
+              "seo_product_id" : 229461,
+              "seo_slug" : "MyCase",
+              "vendor_name" : "MyCase",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/c9fd7cda-1ac2-45fb-a435-f2abdf6b8ec7.png",
+              "rating" : 4.7,
+              "total_reviews" : 437,
+              "slug" : "MyCase",
+              "product_name" : "MyCase",
+              "short_desc" : "MyCase is a top-rated, complete law practice management solution with all the tools firms need to run a better practice, from anywhere.",
+              "features" : "MyCase is a top-rated, end-to-end law practice management software that helps firms run efficiently from anywhere, provide an exceptional client experience, and easily track firm performance. Streamline day-to-day firm processes in one, easy to adopt solution -- lead tracking, client intake, case management, eSignature, billing, payments and more. Start your free trial (no credit card required) today!",
+              "url" : "https://learn.mycase.com/lp/396/sem-lp.html?sd=MC-PPL-Capterra-LegalCaseManagement-May16&campaign=70180000000VLLK&ms=converted&partner=capterra&utm_medium=pay-per-lead&utm_campaign=MC-PPL-Capterra-LegalCaseManagement-May16&utm_content=legal-case-mgmt"
+            },
+            {
+              "product_id" : 223566,
+              "seo_product_id" : 76,
+              "seo_slug" : "Intacct",
+              "vendor_name" : "Sage Intacct",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/fe0f5e7e-e066-4ca1-a42f-67ba4ba1c9d0.jpeg",
+              "rating" : 4.2,
+              "total_reviews" : 330,
+              "slug" : "Sage-Intacct",
+              "product_name" : "Sage Intacct",
+              "short_desc" : "The #1 Cloud Accounting & Financial Management System. Achieve real-time visibility, drive efficiency, and scale with confidence.",
+              "features" : "Choose the flexible and scalable financial platform that delivers deep accounting capabilities, including payroll, tax filings, and inventory tracking tools, across multiple industries designed with a single aim-to accelerate your success. Small to medium-sized businesses prefer Sage Intacct for its ease of use, integrated multi-dimensional reporting, high customer satisfaction, dedicated support, and more. Maximize impact and future-proof your business with a partner who can scale with you.",
+              "url" : "https://www.sageintacct.com/"
+            },
+            {
+              "product_id" : 225688,
+              "seo_product_id" : 2589,
+              "seo_slug" : "Tabs3-Billing",
+              "vendor_name" : "Tabs3 Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/db96f7c9-e48c-4c3e-b3d6-b0349d6abfd0.png",
+              "rating" : 4.7,
+              "total_reviews" : 163,
+              "slug" : "Tabs3",
+              "product_name" : "Tabs3",
+              "short_desc" : "Tabs3 Software is a reliable, easy-to-use, seamlessly integrated suite of products for legal professionals.",
+              "features" : "Tabs3 Software is a reliable, easy-to-use, seamlessly integrated suite of products for legal professionals, and consists of Tabs3 Billing, PracticeMaster and Tabs3 Financials. \n\nDeveloped with law firms in mind, Tabs3 Software simplifies managing matters, calendars, contacts, and documents. Our Platinum version provides your firm with increased speed, enhanced data reliability, and premium features like Tabs3 Connect, for mobile access. \n\nSign up for a personal demo to see Tabs3 in action.",
+              "url" : "http://tabs3.com"
+            }
+          ],
+          "related_categories" : [
+            {
+              "functional_group" : "bankruptcy",
+              "long_name" : "Debt Collection",
+              "html_name" : "debt-collection-software",
+              "link_name" : "debt-collection",
+              "product_count" : 145,
+              "meta_description" : "Find and compare top Debt Collection software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Debt Collection tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/debt-collection-software\">Debt Collection software</a> automates the management and accounting process for overdue invoices on behalf of an organization or a specialized collection agency.  Debt Collection applications can integrate with existing accounting and invoicing systems.  <a href=\"/debt-collection-software\">Debt Collection software</a> is related to <a href=\"/accounting-software\">Accounting software</a>, <a href=\"/banking-systems-software\">Banking Systems software</a> and <a href=\"/billing-and-invoicing-software\">Billing and Invoicing software</a>."
+            },
+            {
+              "functional_group" : "bankruptcy",
+              "long_name" : "Docketing",
+              "html_name" : "docketing-software",
+              "link_name" : "docketing",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Docketing software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Docketing tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "Docketing software helps law firms and court clerks track court cases, active litigation, and related documentation. "
+            },
+            {
+              "functional_group" : "bankruptcy",
+              "long_name" : "Forms Automation",
+              "html_name" : "forms-automation-software",
+              "link_name" : "forms-automation",
+              "product_count" : 61,
+              "meta_description" : "Find and compare top Forms Automation software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Forms Automation tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/forms-automation-software\">Forms Automation software</a> gives companies the ability to streamline document workflows.  These solutions optimize document creation, printing, faxing, merging, security, and inbound/outbound document traffic.  Companies can create and manage nearly any kind of document, from invoices to incident reports, and can easily track collected information.  <a href=\"/forms-automation-software\">Forms Automation software</a> is relevant to most industries and is related to <a href=\"/business-process-management-software\">Business Process Management software</a>, <a href=\"/content-management-software\">Content Management software</a>, <a href=\"/contract-management-software\">Contract Management software</a>, and <a href=\"/document-management-software\">Document Management software</a>."
+            },
+            {
+              "functional_group" : "bankruptcy",
+              "long_name" : "Law Practice Management",
+              "html_name" : "law-practice-management-software",
+              "link_name" : "law-practice-management",
+              "product_count" : 106,
+              "meta_description" : "Find and compare top Law Practice Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Law Practice Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/law-practice-management-software>Law Practice Management software</a> integrates and automates the front and back office activities of legal practices including:  calendar management, appointment scheduling, case management, conflict checking, messaging, and more. These applications also often provide integrated solutions for time management, billing and collections as well as accounting. Law Practice Management solutions also provide tools for workflow and document management, marketing and inquiry tracking as well as distributing key data throughout the organization and across multiple office locations.  <a href=/law-practice-management-software>Law Practice Management software</a> is related to <a href=/legal-billing-software>Legal Billing software</a>, <a href=/legal-case-management-software>Legal Case Management software</a> and <a href=/professional-services-automation-software>Professional Services Automation software</a>."
+            },
+            {
+              "functional_group" : "bankruptcy",
+              "long_name" : "Legal Billing",
+              "html_name" : "legal-billing-software",
+              "link_name" : "legal-billing",
+              "product_count" : 64,
+              "meta_description" : "Find and compare top Legal Billing software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Legal Billing tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/legal-billing-software>Legal Billing software</a> automates time tracking, billing, calendaring and accounting for law practices.  These applications facilitate legal-style hourly billing and recording of case-related expenses.  Many Legal Billing solutions also feature integration for a broad range of case and workflow management tools as well as accounting and payroll features across multiple office locations.  <a href=/legal-billing-software>Legal Billing software</a> is related to <a href=/law-practice-management-software>Law Practice Management software</a>, <a href=/professional-services-automation-software>Professional Services Automation software</a> and Time and Expense software.  "
+            },
+            {
+              "functional_group" : "bankruptcy",
+              "long_name" : "Legal Calendar",
+              "html_name" : "legal-calendar-software",
+              "link_name" : "legal-calendar",
+              "product_count" : 50,
+              "meta_description" : "Find and compare top Legal Calendar software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Legal Calendar tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/legal-calendar-software\">Legal Calendar software</a> helps attorneys to manage their schedules.  These applications allow users to schedule events and appointments, set deadline reminders and notifies of any conflicts. <a href=\"/legal-calendar-software\">Legal Calendar software</a> is related to <a href=\"/court-management-software\">Court Management software</a>, <a href=\"/law-practice-management-software\">Law Practice Management software</a>, <a href=\"/legal-billing-software\">Legal Billing software</a> and <a href=\"/legal-case-management-software\">Legal Case Management software</a>."
+            },
+            {
+              "functional_group" : "bankruptcy",
+              "long_name" : "Legal Case Management",
+              "html_name" : "legal-case-management-software",
+              "link_name" : "legal-case-management",
+              "product_count" : 135,
+              "meta_description" : "Find and compare top Legal Case Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Legal Case Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/legal-case-management-software\">Legal Case Management software</a> coordinates documents, scheduling, conflicts, contacts, and reporting associated with legal cases.  These applications enable an integrated solution to automate case management, client history tracking, and contracts as well as billing and accounting.  Legal Case Management solutions also often include database management, electronic discovery, and automatic document template editing features, enabling organizations to manage, distribute, and update key case-related data.  <a href=\"/legal-case-management-software\">Legal Case Management software</a> is related to <a href=\"/legal-document-management-software\">Legal Document Management software</a>, <a href=\"/law-practice-management-software\">Law Practice Management software</a> and <a href=\"/legal-billing-software\">Legal Billing software</a>."
+            },
+            {
+              "functional_group" : "bankruptcy",
+              "long_name" : "Legal Document Management",
+              "html_name" : "legal-document-management-software",
+              "link_name" : "legal-document-management",
+              "product_count" : 74,
+              "meta_description" : "Find and compare top Legal Document Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Legal Document Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/legal-document-management-software\">Legal Document Management software</a> allows legal professionals to organize and quickly access electronically-stored legal documents.  Scanning, imaging, and merging allow these documents to be included in a database that is searchable and sortable in any number of ways. This type of software can also allow for transcript and transcription management.  <a href=\"/legal-document-management-software\">Legal Document Management software</a> is related to <a href=\"/document-management-software\">Document Management software</a>, <a href=\"/legal-case-management-software\">Legal Case Management software</a>, <a href=\"/law-practice-management-software\">Law Practice Management software</a>, and <a href=\"/court-management-software\">Court Management software</a>."
+            }
+          ],
+          "is_upgraded" : true,
+          "enabled" : true,
+          "filter_options" : {
+            "users" : 127,
+            "platform" : 1,
+            "pricing_options" : 26,
+            "category_related_features" : [
+              29851,
+              29852,
+              29853,
+              29854,
+              29855,
+              29857,
+              29858,
+              29859,
+              29860,
+              29861,
+              29862,
+              29863,
+              71842,
+              71844,
+              71847,
+              71848,
+              71850,
+              71853,
+              71856,
+              71858,
+              71861,
+              71862,
+              71863,
+              71864,
+              71866,
+              71867,
+              71868,
+              71871,
+              71873,
+              71876,
+              71878
+            ],
+            "employees" : 127
+          },
+          "sort_options" : {
+            "sort_review_rating" : 4.554083824157715,
+            "most_recent_review" : "2022-07-06T21:44:08Z"
+          },
+          "countries" : "US",
+          "features_tokenized_text" : "bankruptcy_case_management calendar_management client_management client_portal critical_date_alerts document_management electronic_filing exemption_management forms_automation task_management time_tracking",
+          "platform_tokenized_text" : "cloud,saas,web-based",
+          "users_tokenized_text" : "1 2-10 11-50 51-200 201-500 501-1000 1000+",
+          "pricing_tokenized_text" : "monthlysubscription free freetrial",
+          "badges" : [
+            {
+              "id" : 2048,
+              "category_short_name" : "Legal Billing",
+              "category_html_name" : "legal-billing-software",
+              "published_year" : 2020,
+              "badge_type" : "Top 20"
+            },
+            {
+              "id" : 1860,
+              "category_short_name" : "Legal Case Management",
+              "category_html_name" : "legal-case-management-software",
+              "published_year" : 2020,
+              "badge_type" : "Top 20"
+            },
+            {
+              "id" : 1722,
+              "category_short_name" : "Law Practice Management",
+              "category_html_name" : "law-practice-management-software",
+              "published_year" : 2020,
+              "badge_type" : "Top 20"
+            }
+          ],
+          "bid_spot_us" : 4.0,
+          "currency_code" : "USD",
+          "currency_symbol" : "$",
+          "credit_card_required" : "Unverified",
+          "licensing_model" : null,
+          "open_api_offered" : "Unverified",
+          "mobile_urls" : [ ],
+          "integrations" : [ ],
+          "supported_countries" : [
+            {
+              "id" : 237,
+              "code" : "US",
+              "name" : "United States of America"
+            }
+          ],
+          "supported_languages" : [
+            {
+              "id" : 152,
+              "code" : "en",
+              "name" : "English",
+              "location" : null
+            }
+          ],
+          "target_industries" : [
+            {
+              "id" : 61,
+              "code" : "88",
+              "name" : "Individual & Family Services"
+            },
+            {
+              "id" : 73,
+              "code" : "9",
+              "name" : "Law Practice"
+            },
+            {
+              "id" : 114,
+              "code" : "79",
+              "name" : "Public Policy"
+            },
+            {
+              "id" : 11,
+              "code" : "41",
+              "name" : "Banking"
+            },
+            {
+              "id" : 120,
+              "code" : "44",
+              "name" : "Real Estate"
+            },
+            {
+              "id" : 43,
+              "code" : "43",
+              "name" : "Financial Services"
+            }
+          ],
+          "price_range_id" : 1,
+          "aggregated_review_ratings" : {
+            "industry" : {
+              "44" : 5.0,
+              "113" : 5.0,
+              "9" : 4.46,
+              "10" : 4.48,
+              "43" : 5.0
+            },
+            "company_size" : {
+              "51-200 employees" : 4.6,
+              "1-10 employees" : 4.45,
+              "11-50 employees" : 4.29,
+              "Self-employed" : 4.55
+            }
+          },
+          "vct_enabled" : true,
+          "pricing_plans" : [
+            {
+              "created_on_utc" : "2019-08-21T14:47:39Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "JubileeGo",
+              "description" : "$79 per case and $99 per business case.",
+              "display_order" : 1,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 79.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "11"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "12"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "13"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "1 Electronic Signature (Electronic Signature Request"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 5,
+                  "name" : "2 Users"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 6,
+                  "name" : "Bankruptcy Filings (Single Case"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 7,
+                  "name" : "Case Management (Case Notes"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 8,
+                  "name" : "Chapters 7"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 9,
+                  "name" : "Cloudaccess"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 10,
+                  "name" : "Credit Report Integrations)"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 11,
+                  "name" : "Documents Storage"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 12,
+                  "name" : "ECF Integration"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 13,
+                  "name" : "Electronic Filing"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 14,
+                  "name" : "Emails Signed Receipt)"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 15,
+                  "name" : "Free Phone or Email Support"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 16,
+                  "name" : "Free Training Webinars)."
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 17,
+                  "name" : "Internal Calendar)"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 18,
+                  "name" : "Multiple Integrations"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 19,
+                  "name" : "Support (Expert Support Team"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 20,
+                  "name" : "Track Status of Requests"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 21,
+                  "name" : "Unlimited Districts"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 22,
+                  "name" : "Updated Forms"
+                }
+              ]
+            },
+            {
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "JubileePRO",
+              "description" : null,
+              "display_order" : 2,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 71.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "11"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "12"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "13"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "51 Electronic Signatures (Electronic Signature Request"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 5,
+                  "name" : "Bankruptcy Filings (51 Case Filings"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 6,
+                  "name" : "Case Management (Case Notes"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 7,
+                  "name" : "Chapters 7"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 8,
+                  "name" : "Cloudaccess"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 9,
+                  "name" : "Court Notices"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 10,
+                  "name" : "Credit Report Integrations)"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 11,
+                  "name" : "Documents Storage"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 12,
+                  "name" : "ECF Integration"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 13,
+                  "name" : "Electronic Filing"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 14,
+                  "name" : "Electronic Invoicing"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 15,
+                  "name" : "Emails Signed Receipt)"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 16,
+                  "name" : "Free Phone or Email Support"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 17,
+                  "name" : "Free Training Webinars)"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 18,
+                  "name" : "Internal Calendar"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 19,
+                  "name" : "Legal Payments (Billing Plan"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 20,
+                  "name" : "Multiple Integrations"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 21,
+                  "name" : "Reminders)"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 22,
+                  "name" : "Secure Online Payments)"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 23,
+                  "name" : "Support (Expert Support Team"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 24,
+                  "name" : "Text Messaging"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 25,
+                  "name" : "Time Tracking"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 26,
+                  "name" : "Track Status of Requests"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 27,
+                  "name" : "Unlimited Districts"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 28,
+                  "name" : "Unlimited Users"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 29,
+                  "name" : "Updated Forms"
+                }
+              ]
+            },
+            {
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "JubileePM",
+              "description" : "$50 per month for unlimited users.",
+              "display_order" : 3,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 20.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "2 Users"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "51 Electronic Signatures (Electronic Signature Request"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Case Management (Case Notes"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "Cloudaccess"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 5,
+                  "name" : "Court Notices"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 6,
+                  "name" : "Documents Storage"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 7,
+                  "name" : "Electronic Invoicing"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 8,
+                  "name" : "Emails Signed Receipt)"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 9,
+                  "name" : "Free Phone or Email Support"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 10,
+                  "name" : "Free Training Webinars)"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 11,
+                  "name" : "Internal Calendar"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 12,
+                  "name" : "Legal Payments (Billing Plan"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 13,
+                  "name" : "Multiple Integrations"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 14,
+                  "name" : "Reminders)"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 15,
+                  "name" : "Secure Online Payments)"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 16,
+                  "name" : "Support (Expert Support Team"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 18,
+                  "name" : "Time Tracking"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 19,
+                  "name" : "Track Status of Requests"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 17,
+                  "name" : "Text Messaging"
+                }
+              ]
+            }
+          ],
+          "discount_types" : [ ]
+        }
+      }
+    ]
+  }
+}

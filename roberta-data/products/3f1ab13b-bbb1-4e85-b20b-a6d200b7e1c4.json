@@ -1,0 +1,3095 @@
+{
+  "took" : 2,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 3,
+    "successful" : 3,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : {
+      "value" : 2,
+      "relation" : "eq"
+    },
+    "max_score" : 11.380028,
+    "hits" : [
+      {
+        "_index" : "product_listings_main_data_upc_vt20220920_043802_utc",
+        "_type" : "_doc",
+        "_id" : "154358_donman",
+        "_score" : 11.380028,
+        "_source" : {
+          "product_id" : 154358,
+          "seo_product_id" : 222030,
+          "seo_slug" : "Keela",
+          "product_name" : "Keela",
+          "upc_product_uuid" : "3f1ab13b-bbb1-4e85-b20b-a6d200b7e1c4",
+          "old_product_ids" : [
+            222030
+          ],
+          "product_url" : "https://www.keela.co/capterra-demo",
+          "product_slug" : "Keela",
+          "former_name" : "Keela",
+          "logo_filepath" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/3db6e752-5e25-47b3-97ce-6cbc46214297.png",
+          "vendor" : {
+            "vendor_id" : 2108482,
+            "vendor_name" : "Keela",
+            "vendor_url" : "https://www.keela.co/",
+            "year_founded" : 2013,
+            "location" : "Canada",
+            "vendor_opted_out_of_reviews" : true,
+            "is_opted_out_of_reviews" : false,
+            "is_hit_limit" : false,
+            "enabled" : true,
+            "has_vendor_level_page" : false,
+            "slug" : null,
+            "vendor_page" : false,
+            "paused_campaign" : false
+          },
+          "category_short_name" : "donman",
+          "category_html_name" : "donation-management-software",
+          "category" : {
+            "id" : 30548,
+            "short_name" : "donman",
+            "long_name" : "Donation Management",
+            "html_name" : "donation-management-software",
+            "enabled" : true
+          },
+          "best_category" : "donman",
+          "is_best_category" : true,
+          "highest_cpc_category" : "nonprofcrm",
+          "is_highest_cpc_category" : false,
+          "short_desc" : "Keela is a fundraising CRM that unifies fundraising and donor communications.",
+          "long_desc" : "Keela is a fundraising CRM that unifies fundraising and donor communications. Keela's uniquely powerful solution bridges the gap between fundraising and comms, allowing nonprofits to improve donor relations through targeted, multi-channel approaches. \n\nKeela's platform allows you to pull critical donor information directly from your CRM into your donor communications, so you know who to ask for a donation, the best time to ask them, and the perfect amount to ask for. \n",
+          "rating" : 4.3,
+          "number_of_reviews" : 219,
+          "total_reviews" : 216,
+          "ease_of_use_rating" : 4.2,
+          "customer_support_rating" : 4.5,
+          "functionality_rating" : 3.9,
+          "value_for_money_rating" : 4.4,
+          "recommendation_rating" : 8.2,
+          "pricing_enabled" : true,
+          "pricing" : 125.0,
+          "is_per_user" : false,
+          "fee_schedule" : "Per-Month",
+          "pricing_model" : "Flat Rate",
+          "pricing_details" : "We determine pricing based on the number of contacts you will have in the system. Prices start at $89 USD. ",
+          "pricing_created_on" : "2019-08-21T14:47:39Z",
+          "pricing_modified_on" : "2022-06-23T14:42:33Z",
+          "pricing_created_by" : null,
+          "pricing_modified_by" : null,
+          "pricing_vendor_pricing_url" : "https://www.keela.co/pricing",
+          "free_trial" : true,
+          "free_version" : true,
+          "target_audience" : "Perfect for small to medium-sized nonprofit organizations who need to manage and cultivate relationships with donors, oversee donations, and who primarily raise funds through online campaigns!",
+          "target_users" : [
+            "1",
+            "2-10",
+            "11-50",
+            "51-200",
+            "201-500",
+            "501-1000",
+            "1000+"
+          ],
+          "platform" : [
+            {
+              "enabled" : true,
+              "name" : "Cloud, SaaS, Web-Based"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Mac"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Chromebook"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile Android"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPhone"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPad"
+            }
+          ],
+          "support" : [
+            {
+              "enabled" : true,
+              "name" : "Email Help Desk"
+            },
+            {
+              "enabled" : true,
+              "name" : "FAQ Forum"
+            },
+            {
+              "enabled" : true,
+              "name" : "Knowledgebase"
+            },
+            {
+              "enabled" : true,
+              "name" : "Phone Support"
+            },
+            {
+              "enabled" : false,
+              "name" : "24/7 Live Rep"
+            },
+            {
+              "enabled" : true,
+              "name" : "Chat"
+            }
+          ],
+          "training" : [
+            {
+              "enabled" : false,
+              "name" : "Not Offered"
+            },
+            {
+              "enabled" : false,
+              "name" : "In-Person"
+            },
+            {
+              "enabled" : true,
+              "name" : "Live Online"
+            },
+            {
+              "enabled" : true,
+              "name" : "Webinars"
+            },
+            {
+              "enabled" : true,
+              "name" : "Documentation"
+            },
+            {
+              "enabled" : true,
+              "name" : "Videos"
+            }
+          ],
+          "media" : [
+            {
+              "product_id" : 154358,
+              "vendor_id" : 2108482,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/a1dba838-e23f-4e9a-af1d-6fb4bdfe4b5b.png",
+              "caption" : "Dashboard",
+              "weight" : 1,
+              "short_name" : "donman"
+            },
+            {
+              "product_id" : 154358,
+              "vendor_id" : 2108482,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/8127092e-691a-4cb6-b323-ebc4add3847b.png",
+              "caption" : "Reports",
+              "weight" : 2,
+              "short_name" : "donman"
+            },
+            {
+              "product_id" : 154358,
+              "vendor_id" : 2108482,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/c67e8c0d-64df-4fc9-b6ef-d72d345819ee.png",
+              "caption" : "Intelligence Report",
+              "weight" : 3,
+              "short_name" : "donman"
+            },
+            {
+              "product_id" : 154358,
+              "vendor_id" : 2108482,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/ee09dde8-f8ec-4bbb-9d49-87733d9956ac.png",
+              "caption" : "Fundraising",
+              "weight" : 4,
+              "short_name" : "donman"
+            },
+            {
+              "product_id" : 154358,
+              "vendor_id" : 2108482,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/3bfdafb8-0c41-4c3a-9127-3e341b71a0f9.png",
+              "caption" : "Donor Score",
+              "weight" : 5,
+              "short_name" : "donman"
+            },
+            {
+              "product_id" : 154358,
+              "vendor_id" : 2108482,
+              "media_type" : "VIDEO",
+              "path_url" : "https://www.youtube.com/watch?v=3n_uzC8zw5c&t=4s",
+              "caption" : null,
+              "weight" : 0,
+              "short_name" : "donman"
+            }
+          ],
+          "links" : [
+            {
+              "product_id" : 154358,
+              "functional_group" : "donman",
+              "html_code" : "https://www.keela.co/capterra-demo",
+              "link_name" : "Free Trial",
+              "link_priority" : 1.0
+            },
+            {
+              "product_id" : 154358,
+              "functional_group" : "donman",
+              "html_code" : "https://www.keela.co/capterra-demo",
+              "link_name" : "Free Demo",
+              "link_priority" : 2.0
+            }
+          ],
+          "features" : [
+            {
+              "category_name" : "Donation Management",
+              "category_features" : [
+                {
+                  "name" : "Campaign Management",
+                  "value" : true,
+                  "id" : "08a976af-4728-4543-8941-8f3c1da99734",
+                  "avg_rating" : 4.7,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Create a collection of marketing actions to complete specific goals"
+                },
+                {
+                  "name" : "Donation Tracking",
+                  "value" : true,
+                  "id" : "0349e7f4-be87-4c2b-af18-7b2dde71c75d",
+                  "avg_rating" : 4.8,
+                  "cnt_rating" : 8,
+                  "avg_importance" : 2.2,
+                  "cnt_importance" : 5,
+                  "cnt_time_used" : 6,
+                  "pct_time_used" : 0.833,
+                  "cnt_time_critical" : 6,
+                  "pct_time_critical" : 0.333,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Track and view detailed financial donation history made by contacts and members "
+                },
+                {
+                  "name" : "Donor Management",
+                  "value" : true,
+                  "id" : "66b3ffe9-81de-40fb-8d7d-a2800afd65e0",
+                  "avg_rating" : 4.9,
+                  "cnt_rating" : 9,
+                  "avg_importance" : 2.67,
+                  "cnt_importance" : 6,
+                  "cnt_time_used" : 7,
+                  "pct_time_used" : 0.857,
+                  "cnt_time_critical" : 7,
+                  "pct_time_critical" : 0.571,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Track and maintain donor relationships throughout various stages/activities including contact information and previous outreach"
+                },
+                {
+                  "name" : "Event Management",
+                  "value" : true,
+                  "id" : "cdc3bb9d-3c31-48ba-a01c-5101adc90c87",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 0.5,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Schedule and manage the logistics of activities and other gatherings "
+                },
+                {
+                  "name" : "Gift Matching Management",
+                  "value" : false,
+                  "id" : "813efbbc-2899-4c89-8958-1b91fc7032eb",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Ability to match gifts through the system"
+                },
+                {
+                  "name" : "Mobile Giving",
+                  "value" : true,
+                  "id" : "1878459b-e8b1-47cf-b9d7-71da6d2910e4",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Manage and track recurring gifts "
+                },
+                {
+                  "name" : "Online Giving",
+                  "value" : true,
+                  "id" : "5109fae8-5628-4296-8fe8-e0d91b8e19b2",
+                  "avg_rating" : 3.3,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Outlet for members and visitors to submit donations electronically "
+                },
+                {
+                  "name" : "Payment Processing",
+                  "value" : true,
+                  "id" : "aa036a7c-8608-45a0-9f5f-7649beee9dfb",
+                  "avg_rating" : 4.3,
+                  "cnt_rating" : 6,
+                  "avg_importance" : 2.8,
+                  "cnt_importance" : 5,
+                  "cnt_time_used" : 5,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 5,
+                  "pct_time_critical" : 0.8,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Accept, record, and reconcile financial transactions"
+                },
+                {
+                  "name" : "Pledge Management",
+                  "value" : true,
+                  "id" : "5786498f-f0b3-4a91-ac3b-ee6357af120c",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track commitments to donate in the future "
+                },
+                {
+                  "name" : "Receipt Management",
+                  "value" : true,
+                  "id" : "4457f5d1-2616-472e-9e0b-5f47e9f165f4",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Upload, track, and submit receipts in a central database "
+                },
+                {
+                  "name" : "Recurring Giving",
+                  "value" : true,
+                  "id" : "05cbca6a-9a1d-4b11-978f-7a21a5dad8f9",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Manage and track recurring gifts "
+                }
+              ]
+            },
+            {
+              "category_name" : "Fundraising",
+              "category_features" : [
+                {
+                  "name" : "Alumni Management",
+                  "value" : false,
+                  "id" : "56700cd7-0029-4cab-871b-7dbcc2c921cb",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Provides educational institutions and other fundraising organizations with tools to cultivate and stay connected with alumni."
+                },
+                {
+                  "name" : "Auction Management",
+                  "value" : false,
+                  "id" : "9bdd83e5-8882-4592-ab12-b2432ac9579c",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Allows businesses to create and manage auctions."
+                },
+                {
+                  "name" : "CRM",
+                  "value" : true,
+                  "id" : "cdf8cb63-9596-4430-bcbb-92162fc532bf",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Contact and lead management to track interactions and notes about clients and prospects"
+                },
+                {
+                  "name" : "Campaign Management",
+                  "value" : true,
+                  "id" : "08a976af-4728-4543-8941-8f3c1da99734",
+                  "avg_rating" : 4.7,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Create a collection of marketing actions to complete specific goals"
+                },
+                {
+                  "name" : "Contribution Tracking",
+                  "value" : true,
+                  "id" : "12121627-a955-4fe0-8784-1ab86124de03",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "View track donor contribution history"
+                },
+                {
+                  "name" : "Donor Discovery",
+                  "value" : true,
+                  "id" : "1e842660-6218-4542-bd25-1ced7d763009",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Search 3rd party databases to identify potential donors"
+                },
+                {
+                  "name" : "Donor Management",
+                  "value" : true,
+                  "id" : "66b3ffe9-81de-40fb-8d7d-a2800afd65e0",
+                  "avg_rating" : 4.9,
+                  "cnt_rating" : 9,
+                  "avg_importance" : 2.67,
+                  "cnt_importance" : 6,
+                  "cnt_time_used" : 7,
+                  "pct_time_used" : 0.857,
+                  "cnt_time_critical" : 7,
+                  "pct_time_critical" : 0.571,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Track and maintain donor relationships throughout various stages/activities including contact information and previous outreach "
+                },
+                {
+                  "name" : "Event Management",
+                  "value" : true,
+                  "id" : "cdc3bb9d-3c31-48ba-a01c-5101adc90c87",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 0.5,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Schedule and manage the logistics of activities and other gatherings"
+                },
+                {
+                  "name" : "Gift Matching Management",
+                  "value" : false,
+                  "id" : "813efbbc-2899-4c89-8958-1b91fc7032eb",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Ability to match gifts through the system "
+                },
+                {
+                  "name" : "Grant Management",
+                  "value" : true,
+                  "id" : "71171ca7-cf42-4b0d-bef5-600cff7fd438",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Monitor application statuses, proposals and award funds "
+                },
+                {
+                  "name" : "Membership Management",
+                  "value" : false,
+                  "id" : "e0ec230c-01cc-4e78-ac4a-ec6d4cc61b40",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Database of members to track personal information of individuals and families"
+                },
+                {
+                  "name" : "Mobile Giving",
+                  "value" : true,
+                  "id" : "1878459b-e8b1-47cf-b9d7-71da6d2910e4",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Ability to make a donation from a mobile device/app"
+                },
+                {
+                  "name" : "Payment Processing",
+                  "value" : true,
+                  "id" : "aa036a7c-8608-45a0-9f5f-7649beee9dfb",
+                  "avg_rating" : 4.3,
+                  "cnt_rating" : 6,
+                  "avg_importance" : 2.8,
+                  "cnt_importance" : 5,
+                  "cnt_time_used" : 5,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 5,
+                  "pct_time_critical" : 0.8,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : "Accept, record, and reconcile financial transactions"
+                },
+                {
+                  "name" : "Pledge Management",
+                  "value" : true,
+                  "id" : "5786498f-f0b3-4a91-ac3b-ee6357af120c",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track commitments to donate in the future"
+                },
+                {
+                  "name" : "Recurring Giving",
+                  "value" : true,
+                  "id" : "05cbca6a-9a1d-4b11-978f-7a21a5dad8f9",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Manage and track recurring gifts "
+                },
+                {
+                  "name" : "Volunteer Management",
+                  "value" : true,
+                  "id" : "63d4b79e-e6df-4211-b751-6dcb323077d7",
+                  "avg_rating" : 0.0,
+                  "cnt_rating" : 0,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Manage volunteer information and direct volunteer resources"
+                }
+              ]
+            },
+            {
+              "category_name" : "Nonprofit",
+              "category_features" : [
+                {
+                  "name" : "Accounting",
+                  "value" : true,
+                  "id" : "3990e00b-853e-41a0-a871-33607f212727",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Committee Management",
+                  "value" : true,
+                  "id" : "2062b666-4151-459e-b1ad-6709fba623cf",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Donor Management",
+                  "value" : true,
+                  "id" : "66b3ffe9-81de-40fb-8d7d-a2800afd65e0",
+                  "avg_rating" : 4.9,
+                  "cnt_rating" : 9,
+                  "avg_importance" : 2.67,
+                  "cnt_importance" : 6,
+                  "cnt_time_used" : 7,
+                  "pct_time_used" : 0.857,
+                  "cnt_time_critical" : 7,
+                  "pct_time_critical" : 0.571,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Dues Management",
+                  "value" : false,
+                  "id" : "36bfa04f-d225-4c76-a130-40fb15f7392b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Event Management",
+                  "value" : true,
+                  "id" : "cdc3bb9d-3c31-48ba-a01c-5101adc90c87",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 0.5,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Fundraising Management",
+                  "value" : true,
+                  "id" : "632182d5-1542-410d-82b8-8963cd47a256",
+                  "avg_rating" : 4.7,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Activities related to raising money for a specific cause"
+                },
+                {
+                  "name" : "Member Database",
+                  "value" : true,
+                  "id" : "23bf5db1-24fa-4ac1-9554-5b792002f062",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Membership Management",
+                  "value" : false,
+                  "id" : "e0ec230c-01cc-4e78-ac4a-ec6d4cc61b40",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Social Media Management",
+                  "value" : false,
+                  "id" : "addc5501-c5de-481d-92ac-cc81b984acc7",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Volunteer Management",
+                  "value" : true,
+                  "id" : "63d4b79e-e6df-4211-b751-6dcb323077d7",
+                  "avg_rating" : 0.0,
+                  "cnt_rating" : 0,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Manage volunteer information and direct volunteer resources"
+                }
+              ]
+            },
+            {
+              "category_name" : "Nonprofit CRM",
+              "category_features" : [
+                {
+                  "name" : "Committee Management",
+                  "value" : true,
+                  "id" : "2062b666-4151-459e-b1ad-6709fba623cf",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Manage subgroups of members and their membership"
+                },
+                {
+                  "name" : "Contact Management",
+                  "value" : true,
+                  "id" : "0019f365-3e1b-4e2f-8f1e-cb77ba025078",
+                  "avg_rating" : 4.7,
+                  "cnt_rating" : 6,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Store and find contact information such as names, addresses, and social media accounts"
+                },
+                {
+                  "name" : "Donor Management",
+                  "value" : true,
+                  "id" : "66b3ffe9-81de-40fb-8d7d-a2800afd65e0",
+                  "avg_rating" : 4.9,
+                  "cnt_rating" : 9,
+                  "avg_importance" : 2.67,
+                  "cnt_importance" : 6,
+                  "cnt_time_used" : 7,
+                  "pct_time_used" : 0.857,
+                  "cnt_time_critical" : 7,
+                  "pct_time_critical" : 0.571,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Track and maintain donor relationships throughout various stages/activities including contact information and previous outreach"
+                },
+                {
+                  "name" : "Email Marketing",
+                  "value" : true,
+                  "id" : "3e3bef6d-cbd8-43e1-83e6-eaf601c17a48",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Create and send email blasts/campaigns"
+                },
+                {
+                  "name" : "Event Management",
+                  "value" : true,
+                  "id" : "cdc3bb9d-3c31-48ba-a01c-5101adc90c87",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 0.5,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Schedule and manage the logistics of activities and other gatherings"
+                },
+                {
+                  "name" : "Fundraising Management",
+                  "value" : true,
+                  "id" : "632182d5-1542-410d-82b8-8963cd47a256",
+                  "avg_rating" : 4.7,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Activities related to raising money for a specific cause"
+                },
+                {
+                  "name" : "Grant Management",
+                  "value" : true,
+                  "id" : "71171ca7-cf42-4b0d-bef5-600cff7fd438",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Monitor application statuses, proposals and award funds"
+                },
+                {
+                  "name" : "Membership Management",
+                  "value" : false,
+                  "id" : "e0ec230c-01cc-4e78-ac4a-ec6d4cc61b40",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Database of members to track personal information of individuals and families"
+                },
+                {
+                  "name" : "Social Media Integration",
+                  "value" : false,
+                  "id" : "2a14fe93-3eb6-48a4-906a-dabca8d98cc2",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Integrate with Facebook, Twitter, LinkedIn, etc."
+                },
+                {
+                  "name" : "Volunteer Management",
+                  "value" : true,
+                  "id" : "63d4b79e-e6df-4211-b751-6dcb323077d7",
+                  "avg_rating" : 0.0,
+                  "cnt_rating" : 0,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Manage volunteer information and direct volunteer resources"
+                }
+              ]
+            }
+          ],
+          "infographics" : [ ],
+          "related_products" : [
+            {
+              "product_id" : 131207,
+              "seo_product_id" : 225821,
+              "seo_slug" : "Bloomerang",
+              "vendor_name" : "Bloomerang",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/490fa261-4657-4236-b595-701cb770c17f.png",
+              "rating" : 4.7,
+              "total_reviews" : 1191,
+              "slug" : "Bloomerang",
+              "product_name" : "Bloomerang",
+              "short_desc" : "Bloomerang's donor management software helps fundraisers save more time, raise more funds, and do more good.",
+              "features" : "Bloomerang helps nonprofits deliver a better giving experience so they can save time, raise more funds, and create lasting change. With our donor management software, you'll have access to: \n\n- Email Marketing Tools\n- Letters & Mailings Templates\n- An Integrations Hub\n- Online Giving Pages & Forms\n- Peer-to-Peer Fundraising Tools\n- Reporting & Analytics\n- Automatic Data Updates\n",
+              "url" : "https://bloomerang.co/demo/live-capterra/?utm_source=capterra.com&utm_medium=directory&utm_campaign=donation_management"
+            },
+            {
+              "product_id" : 76708,
+              "seo_product_id" : 76708,
+              "seo_slug" : "Planning-Center",
+              "vendor_name" : "Planning Center",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e8f3dad4-fdf3-45c1-911b-48be1f48634a.png",
+              "rating" : 4.7,
+              "total_reviews" : 1040,
+              "slug" : "Planning-Center",
+              "product_name" : "Planning Center",
+              "short_desc" : "Church management solution that offers processing donations, managing memberships, planning services, scheduling volunteers, and more.",
+              "features" : "Planning Center is a set of seven online software products designed to help you find freedom to focus on what matters in your ministry. You can subscribe to individual products, or use them all together as a full church management system. We have tools to help you manage your membership database, schedule volunteers, plan services, check people in, take signups, process online donations, manage your calendar and facilities, and coordinate small groups. Every plan includes full access to support.",
+              "url" : "http://planningcenter.com"
+            },
+            {
+              "product_id" : 2698,
+              "seo_product_id" : 2698,
+              "seo_slug" : "DonorPerfect-Fundraising-Software",
+              "vendor_name" : "SofterWare",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/53b620ec-474a-4f1b-a284-fce7d4852ad5.jpeg",
+              "rating" : 4.5,
+              "total_reviews" : 754,
+              "slug" : "DonorPerfect-Fundraising-Software",
+              "product_name" : "DonorPerfect",
+              "short_desc" : "DonorPerfect organizes all your constituent data in one unified database. It has easy to use tools that help you raise more money.",
+              "features" : "Thousands of nonprofits use DonorPerfect's all-in-one software solution to manage their fundraising activities and donor management.  DonorPerfect offers a variety of fully integrated programs for every type of eCheck and credit card processing, including one-time gifts, automatic collection of preauthorized recurring pledge payments and online payments.  Perfect for annual appeals, grant tracking, capital campaigns, online fundraising, special events, contact management and more.",
+              "url" : "https://software-info.gartnerdigitalmarkets.com/donorperfect-donation/?utm_source=Capterra&utm_medium=Broker&utm_campaign=Broker-Capterra"
+            },
+            {
+              "product_id" : 2681,
+              "seo_product_id" : 2681,
+              "seo_slug" : "Servant-Keeper",
+              "vendor_name" : "Faithlife",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/1b451b5b-916c-4401-82e1-6e5a5709fcc8.png",
+              "rating" : 4.6,
+              "total_reviews" : 666,
+              "slug" : "Servant-Keeper",
+              "product_name" : "Servant Keeper",
+              "short_desc" : "Donor management software includes donor profiles, contributions, online giving, email or printed statements, pledging and more.",
+              "features" : "Servant Keeper will help you quickly and easily manage and communicate with your donors. Entering and managing many donors giving to multiple funds is a breeze and you will love how easy it is to email or mail end of year giving statements.  You can even let your donors download their own statements. Split contributions, recurring giving, pledging, online giving, text to give - do it all! We can convert your current donors and transactions!  Get your free demo and watch the donor overview video!",
+              "url" : "http://www.servantpc.com/capterra-donor-statements"
+            },
+            {
+              "product_id" : 9755,
+              "seo_product_id" : 9755,
+              "seo_slug" : "Donarius",
+              "vendor_name" : "Nuverb Systems",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/7c30964c-f210-4c32-80bb-c5486d94d8be.png",
+              "rating" : 4.6,
+              "total_reviews" : 583,
+              "slug" : "Donarius",
+              "product_name" : "Donarius",
+              "short_desc" : "Donor management software that makes it easy to keep track of your donors, donations and pledges.",
+              "features" : "\"Save time and get more done, with fewer headaches.\" Easily keep track of your donors, donations and pledges - starts at $47.98 (one-time cost, no monthly fees; no accounting or payroll) Record source/motivation codes for each donation. Send out personalized letters, emails and text messages for fundraising. Issue yearly tax receipts or one with each donation.  Print receipts or send them by email as encrypted PDFs.  Share data like web-based software but without any monthly fee. PC or Mac.",
+              "url" : "https://info.gartnerdigitalmarkets.com/donarius-gdm-lp/?category=donation-management"
+            },
+            {
+              "product_id" : 111128,
+              "seo_product_id" : 226362,
+              "seo_slug" : "Network-for-Good",
+              "vendor_name" : "Network for Good",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/2275715c-972c-4f03-88a9-42ad7edcec36.jpeg",
+              "rating" : 4.7,
+              "total_reviews" : 510,
+              "slug" : "Network-For-Good",
+              "product_name" : "Network for Good",
+              "short_desc" : "Thousands of small nonprofits rely on Network for Good's simple and smart fundraising software to cultivate relationships with donors a",
+              "features" : "Reach your fundraising goals, connect with supporters, and advance your mission with Network for Good's all-in-one fundraising software.\n\nBuilt for small and growing nonprofits, only Network for Good is designed to help you become a better fundraiser.\n\nGet donor management, powerful communication tools, online fundraising features, and more-all in one integrated software. Plus, our best-in-class onboarding, customer service, and data migration are always included.\n",
+              "url" : "https://www.networkforgood.com/demo-request/?utm_medium=cpc&utm_source=capterra&utm_campaign=cta__demo__general-demo"
+            },
+            {
+              "product_id" : 102088,
+              "seo_product_id" : 224994,
+              "seo_slug" : "Neon-CRM",
+              "vendor_name" : "Neon One",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/944471b7-c55a-4525-a87d-d205d8608f0a.png",
+              "rating" : 4.4,
+              "total_reviews" : 479,
+              "slug" : "NeonCRM",
+              "product_name" : "Neon CRM",
+              "short_desc" : "Manage offline & online donations and donor interactions with Neon CRM? plus features like automated donation receipting & reporting.\n",
+              "features" : "Neon CRM is a cloud-based fundraising and donor management database designed to build and support lasting relationships. Track all your offline & online donations along with your donor interactions and receive features like automated donation receipting, reporting, and more.\n\nCreate more effective campaign emails, define your email audiences, and manage direct mail appeals out of one single, unified fundraising and donor management software. Ready for a better donor management solution?\n",
+              "url" : "https://neonone.com/l/donation-management-software-request-a-demo-ga/?utm_source=capterra&utm_medium=cpc&utm_campaign=capterra_bofu_neon_crm_donation_mgmt&utm_content=destination"
+            },
+            {
+              "product_id" : 103773,
+              "seo_product_id" : 103773,
+              "seo_slug" : "Churchteams",
+              "vendor_name" : "ChurchTeams",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/c160cb71-b975-455a-b297-5ffebe8021dd.jpeg",
+              "rating" : 4.6,
+              "total_reviews" : 476,
+              "slug" : "Churchteams",
+              "product_name" : "Churchteams",
+              "short_desc" : "Mobilize your church with software that blends best ministry practices with latest technology to effectively reach and disciple people.",
+              "features" : "For pastors who want to use today's tech but don't have IT pros on staff. We cover all the basics (membership, communication, groups, giving) and advanced (check-in, volunteers, registration, workflow automation) features you need to keep all your people data in one place. Online giving is beautiful at the lowest price in the industry. Text-to-Church makes giving, registration, check-in, digital connection cards, links to anywhere, access to my stuff with a text. Now with 2 way text to chat!",
+              "url" : "https://info.gartnerdigitalmarkets.com/churchteams-gdm-lp/?utm_campaign=Capterra&utm_source=ppc"
+            },
+            {
+              "product_id" : 159669,
+              "seo_product_id" : 232370,
+              "seo_slug" : "GiveGab",
+              "vendor_name" : "EveryAction",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/0fb699ca-7b16-48e1-976f-99fb41089cba.png",
+              "rating" : 4.6,
+              "total_reviews" : 443,
+              "slug" : "GiveGab",
+              "product_name" : "GiveGab",
+              "short_desc" : "GiveGab is the #1 digital fundraising solution for Giving Days and year-round giving. Experience the JOY of fundraising with GiveGab!",
+              "features" : "GiveGab is becoming Bonterra. Learn more at www.bonterratech.com.\n\nGiveGab is the #1 digital solution for Giving Days and year-round fundraising tailored to nonprofit networks, community foundations, education institutions, hospital foundations, and public media outlets. GiveGab provides a modern and secure platform built on technology inspired by the feedback of our customers, resulting in products and features tailored to the most popular requests of our partners.",
+              "url" : "https://info.givegab.com/giving-day-advantage?utm_source=capterra&utm_medium=paid%20search&utm_campaign=gg%20-%20donation%20management&utm_adgroup=gg%20-%20donation%20management&utm_term=&utm_content=giving-day-advantage"
+            },
+            {
+              "product_id" : 112910,
+              "seo_product_id" : 112910,
+              "seo_slug" : "Auctria",
+              "vendor_name" : "Auctria",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/17756d45-2e4f-4a6c-b32b-31f09b5db6d2.png",
+              "rating" : 4.8,
+              "total_reviews" : 399,
+              "slug" : "Auctria",
+              "product_name" : "Auctria",
+              "short_desc" : "Auctria: a budget friendly web solution to run your entire event from tickets to receipts; traditional auctions or online fundraisers.",
+              "features" : "Auctria makes live, silent, online, virutal, hybrid auction & event fundraisers easy & affordable for groups large and small. Handle ticket sales, bids, purchases & donations. Track donors & items.  Produce printed forms as needed. Integrated credit card processing optional & accept online donations. Mobile and text-based bidding available. Completely transparent pricing with no performance fees. Explore our demo or get started with a free account to try it out.",
+              "url" : "https://www.auctria.com/features/?utm_source=capterra&utm_medium=cpc&utm_content=main&utm_campaign=Auctria"
+            },
+            {
+              "product_id" : 247647,
+              "seo_product_id" : 2688,
+              "seo_slug" : "Raiser-s-Edge-NXT",
+              "vendor_name" : "Blackbaud",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/911a7dd5-0e33-46bb-867d-7356bb07f37d.png",
+              "rating" : 4.2,
+              "total_reviews" : 394,
+              "slug" : "Blackbaud-Raiser-s-Edge-NXT",
+              "product_name" : "Blackbaud Raiser's Edge NXT",
+              "short_desc" : "Fundraising solution that helps you communicate with your constituents and make better decisions.",
+              "features" : "Raisers Edge NXT is a smart, cloud fundraising solution built to help nonprofits achieve sustainable growth. It's a total solution that includes all the tools needed to be successful on one platform and one simple subscription price. This includes data enrichment services, event management, and social and email marketing tools, online donations, flexible reporting and actionable analytics.  Raisers Edge NXT pulls together your processes and people to move your entire mission forward.",
+              "url" : "https://software-info.gartnerdigitalmarkets.com/blackbaud-fundraising/?utm_medium=tp+review&utm_source=capterra&utm_campaign=renxt-us"
+            }
+          ],
+          "similar_products" : [
+            {
+              "product_id" : 2698,
+              "seo_product_id" : 2698,
+              "seo_slug" : "DonorPerfect-Fundraising-Software",
+              "vendor_name" : "SofterWare",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/53b620ec-474a-4f1b-a284-fce7d4852ad5.jpeg",
+              "rating" : 4.5,
+              "total_reviews" : 754,
+              "slug" : "DonorPerfect-Fundraising-Software",
+              "product_name" : "DonorPerfect",
+              "short_desc" : "DonorPerfect organizes all your constituent data in one unified database. It has easy to use tools that help you raise more money.",
+              "features" : "Thousands of nonprofits use DonorPerfect's all-in-one software solution to manage their fundraising activities and donor management.  DonorPerfect offers a variety of fully integrated programs for every type of eCheck and credit card processing, including one-time gifts, automatic collection of preauthorized recurring pledge payments and online payments.  Perfect for annual appeals, grant tracking, capital campaigns, online fundraising, special events, contact management and more.",
+              "url" : "https://software-info.gartnerdigitalmarkets.com/donorperfect-fundraising/?utm_source=Capterra&utm_medium=Broker&utm_campaign=Broker-Capterra"
+            },
+            {
+              "product_id" : 131207,
+              "seo_product_id" : 225821,
+              "seo_slug" : "Bloomerang",
+              "vendor_name" : "Bloomerang",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/490fa261-4657-4236-b595-701cb770c17f.png",
+              "rating" : 4.7,
+              "total_reviews" : 1191,
+              "slug" : "Bloomerang",
+              "product_name" : "Bloomerang",
+              "short_desc" : "Bloomerang's donor management software helps fundraisers save more time, raise more funds, and do more good.",
+              "features" : "Bloomerang helps nonprofits deliver a better giving experience so they can save time, raise more funds, and create lasting change. With our donor management software, you'll have access to: \n\n- Email Marketing Tools\n- Letters & Mailings Templates\n- An Integrations Hub\n- Online Giving Pages & Forms\n- Peer-to-Peer Fundraising Tools\n- Reporting & Analytics\n- Automatic Data Updates\n",
+              "url" : "https://bloomerang.co/demo/live-capterra/"
+            },
+            {
+              "product_id" : 97513,
+              "seo_product_id" : 220258,
+              "seo_slug" : "DonorSnap",
+              "vendor_name" : "DonorSnap",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/ed65366f-8de8-4a5d-bfcc-23841918a7d5.png",
+              "rating" : 4.5,
+              "total_reviews" : 297,
+              "slug" : "DonorSnap",
+              "product_name" : "DonorSnap",
+              "short_desc" : "Cloud-based donation management software that tracks all of your nonprofit's data. Includes forms, mass email, and QB integration.",
+              "features" : "Discover why thousands of nonprofits have trusted DonorSnap for over a decade. DonorSnap is an all-in-one donor management software. Save countless administrative hours with time-saving tools and integrations. Take your fundraising to the next level with robust reporting and communication tools. Pricing starts at $39 per month. Try DonorSnap with your own data risk-free for 30 days.",
+              "url" : "https://donorsnap.com/donorsnap-nonprofit-crm/?utm_source=Capterra&utm_medium=ppc&utm_campaign=capterrappc"
+            },
+            {
+              "product_id" : 111128,
+              "seo_product_id" : 226362,
+              "seo_slug" : "Network-for-Good",
+              "vendor_name" : "Network for Good",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/2275715c-972c-4f03-88a9-42ad7edcec36.jpeg",
+              "rating" : 4.7,
+              "total_reviews" : 510,
+              "slug" : "Network-For-Good",
+              "product_name" : "Network for Good",
+              "short_desc" : "Thousands of small nonprofits rely on Network for Good's simple and smart fundraising software to cultivate relationships with donors a",
+              "features" : "Reach your fundraising goals, connect with supporters, and advance your mission with Network for Good's all-in-one fundraising software.\n\nBuilt for small and growing nonprofits, only Network for Good is designed to help you become a better fundraiser.\n\nGet donor management, powerful communication tools, online fundraising features, and more-all in one integrated software. Plus, our best-in-class onboarding, customer service, and data migration are always included.\n",
+              "url" : "https://www.networkforgood.com/demo-request/?utm_medium=cpc&utm_source=capterra&utm_campaign=cta__demo__general-demo"
+            },
+            {
+              "product_id" : 102088,
+              "seo_product_id" : 224994,
+              "seo_slug" : "Neon-CRM",
+              "vendor_name" : "Neon One",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/944471b7-c55a-4525-a87d-d205d8608f0a.png",
+              "rating" : 4.4,
+              "total_reviews" : 479,
+              "slug" : "NeonCRM",
+              "product_name" : "Neon CRM",
+              "short_desc" : "Manage offline & online donations and donor interactions with Neon CRM? plus features like automated donation receipting & reporting.\n",
+              "features" : "Neon CRM is a cloud-based fundraising and donor management database designed to build and support lasting relationships. Track all your offline & online donations along with your donor interactions and receive features like automated donation receipting, reporting, and more.\n\nCreate more effective campaign emails, define your email audiences, and manage direct mail appeals out of one single, unified fundraising and donor management software. Ready for a better donor management solution?\n",
+              "url" : "https://neonone.com/l/neoncrm-request-a-demo-ga/?utm_source=capterra&utm_medium=cpc&utm_campaign=capterra_bofu_neon_crm_default&utm_content=destination"
+            },
+            {
+              "product_id" : 133368,
+              "seo_product_id" : 225882,
+              "seo_slug" : "Kindful",
+              "vendor_name" : "Bloomerang",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8ccfa8f9-9c3a-411e-b5b2-e779a9cc1011.png",
+              "rating" : 4.5,
+              "total_reviews" : 289,
+              "slug" : "Kindful",
+              "product_name" : "Kindful",
+              "short_desc" : "With Kindful, you can amplify your fundraising, simplify your donor management, and maximize your impact.",
+              "features" : "Kindful's fundraising and donor management software will help you understand your donors like never before. Kindful helps you build deeper relationships with your donors and keeps you from wasting time on administrative tasks. Kindful provides donor management, fundraising tools, donor communication, tracking & reporting, and more! You're changing the world, and you should be able to rely on partners who are not only experts in their field but who also care about your mission.",
+              "url" : "https://kindful.com/demo/#utm_source=capterra&utm_medium=cta&utm_campaign=referral"
+            },
+            {
+              "product_id" : 142421,
+              "seo_product_id" : 226908,
+              "seo_slug" : "EveryAction",
+              "vendor_name" : "EveryAction",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/081493f1-378c-456c-9813-d12df721255f.png",
+              "rating" : 4.6,
+              "total_reviews" : 113,
+              "slug" : "EveryAction",
+              "product_name" : "EveryAction",
+              "short_desc" : "EveryAction - a unified nonprofit CRM solution built to increase efficiency, optimize multichannel fundraising, & advance your mission.",
+              "features" : "Get more from and do more with your donor data. EveryAction's unified CRM and donation management software gives you a 360-degree view of your donors, empowering you to run automated, personalized, omni-channel fundraising campaigns by managing online and offline fundraising from the same, powerful platform. With best-in-class fundraising, membership, advocacy, and analytics tools built and supported by nonprofit experts, EveryAction enables organizations of all sizes to advance their missions.",
+              "url" : "https://www.everyaction.com/get-demo?utm_medium=paid+search&utm_campaign=ea%20-%20default%20listing&utm_adgroup=default%20listing&utm_term=&utm_content=website-get-demo-page&="
+            },
+            {
+              "product_id" : 159179,
+              "seo_product_id" : 212247,
+              "seo_slug" : "Virtuous",
+              "vendor_name" : "Virtuous",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/df71c545-b301-4688-be9c-4bcc96920f0d.png",
+              "rating" : 4.5,
+              "total_reviews" : 27,
+              "slug" : "Virtuous",
+              "product_name" : "Virtuous",
+              "short_desc" : "Virtuous is the only nonprofit CRM & responsive fundraising platform designed to help nonprofit teams build better donor relationships.",
+              "features" : "Much more than CRM, Virtuous is the only responsive fundraising platform and your growth partner -- unifying fundraising and development activities, ridding teams of redundant back-office tasks, and surfacing the insights needed to deliver dynamic donor experiences at scale. Giving is deeply personal. We believe fundraising should be too, and technology partners should help nonprofit teams create responsive experiences that build better donor relationships and increase impact with confidence.",
+              "url" : "https://www.virtuous.org/nonprofit-platform/?utm_source=Capterra&utm_medium=Demo"
+            },
+            {
+              "product_id" : 154623,
+              "seo_product_id" : 225827,
+              "seo_slug" : "Funraise",
+              "vendor_name" : "Funraise",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/471320f9-bbb2-4961-b94a-97b1f1183183.png",
+              "rating" : 4.7,
+              "total_reviews" : 72,
+              "slug" : "Funraise",
+              "product_name" : "Funraise",
+              "short_desc" : "Funraise provides donation management tech to build your nonprofit's movement & make enterprise-size impact. \n\nGet started for Free!",
+              "features" : "Funraise provides exceptional, friendly digital fundraising technology. Built with innovation and nonprofit experience, Funraise's state-of-the-art donation management tools integrate every critical aspect of fundraising management into a single platform, making it fun to create lasting impact with nonprofit-first technology. Experience why organizations like United Nations HCR and National Wildlife Federation trust Funraise to power their fundraising. \r\n\r\nBecause your cause is our cause.",
+              "url" : "https://www.funraise.org/overview/capterra?utm_source=capterra&utm_medium=ppc&utm_campaign=Capterra+URL"
+            },
+            {
+              "product_id" : 157005,
+              "seo_product_id" : 223885,
+              "seo_slug" : "Eleo",
+              "vendor_name" : "Community Software Solutions",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/89230580-8ba4-46bc-bd3c-8ef0e3293d4e.png",
+              "rating" : 4.8,
+              "total_reviews" : 125,
+              "slug" : "Eleo",
+              "product_name" : "Eleo",
+              "short_desc" : "Eleo is designed with new and seasoned fundraisers in mind.",
+              "features" : "Eleo is designed for new and seasoned fundraisers. Complete with every feature, integration, and report you need to build strong relationships with your donors. Send effective communications and analyze your fundraising efforts.  Eleo comes equipped with event, volunteer, membership and grant modules.\n\nPricing starts at $39/month for up to 2,500 contacts and includes live support, trainings, data import, & more.",
+              "url" : "https://eleoonline.com/capterra-link/"
+            },
+            {
+              "product_id" : 208014,
+              "seo_product_id" : 208014,
+              "seo_slug" : "ParishSOFT-Giving",
+              "vendor_name" : "Ministry Brands",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/929b1cd8-6a42-4236-bac9-263276e0c73e.png",
+              "rating" : 4.6,
+              "total_reviews" : 5,
+              "slug" : "ParishSOFT-Giving",
+              "product_name" : "ParishSOFT Giving",
+              "short_desc" : "With ParishSOFT Giving, you can receive donations from any Internet-enabled device, including desktops and smartphones.",
+              "features" : "More than 10,000 churches use ParishSOFT Giving to help close the contribution gap, reduce paperwork and shredding, and give you back time in your busy day. With ParishSOFT second-generation online giving platform, parishioners can set up one-time donations online or set up recurring gifts with ease.",
+              "url" : "https://info.parishsoft.com/2022-capterra-growth-giving?utm_source=Capterra&utm_medium=CPC&utm_campaign=PSO-2022-Capterra&utm_content=Contact+Us"
+            },
+            {
+              "product_id" : 172138,
+              "seo_product_id" : 79848,
+              "seo_slug" : "Bernard",
+              "vendor_name" : "Aegis Premier Technologies",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/15324242-6389-4f82-aa0a-a54d6c871915.png",
+              "rating" : 4.2,
+              "total_reviews" : 5,
+              "slug" : "Aegis-CRM",
+              "product_name" : "Aegis CRM",
+              "short_desc" : "Aegis Premier Technologies nonprofit CRM solution will help you manage your donors and maximize your fundraising efforts. ",
+              "features" : "Aegis CRM provides all of the donor management and fundraising tools you need to help plan and execute your fundraising campaigns. With a 99% guaranteed uptime, our state-of-the-art platform utilizes best practices in data security, load balancing, and disaster recovery, to ensure your data is being safeguarded at all times. ",
+              "url" : "https://www.aegispremier.com/solutions/donor-management"
+            }
+          ],
+          "related_categories" : [
+            {
+              "functional_group" : "donman",
+              "long_name" : "Association Management",
+              "html_name" : "association-management-software",
+              "link_name" : "association-management",
+              "product_count" : 127,
+              "meta_description" : "Find and compare top Association Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Association Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/association-management-software>Association Management software</a> automates management functions including fundraising, membership, event management and other operations.  These software packages typically offer many features to empower and inform association members, as well as administration and business process tools for association managers. Associations use these applications to communicate with their constituents, share resources, promote events, collect fees and recruit new members.  <a href=/association-management-software>Association Management software</a> is related to <a href=/membership-management-software>Membership Management software</a>."
+            },
+            {
+              "functional_group" : "donman",
+              "long_name" : "Church Management",
+              "html_name" : "church-management-software",
+              "link_name" : "church-management",
+              "product_count" : 187,
+              "meta_description" : "Find and compare top Church Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Church Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs.",
+              "description" : "<a href=\"/church-management-software\">Church Management software</a> handles functions such as accounting, donation tracking, service attendance, membership, schedules and activities.  Churches use these applications to automate and organize administrative functions including document creation, outreach and event scheduling.  Management software helps churches better track resources and foster communication among administrators as well as staff, ministry leaders, members and visitors.  <a href=\"/church-management-software\">Church Management software</a> is related to <a href=\"/fund-accounting-software\">Fund Accounting software</a>, <a href=\"/fundraising-software\">Fundraising software</a> and <a href=\"/membership-management-software\">Membership Management software</a>."
+            },
+            {
+              "functional_group" : "donman",
+              "long_name" : "Fund Accounting",
+              "html_name" : "fund-accounting-software",
+              "link_name" : "fund-accounting",
+              "product_count" : 49,
+              "meta_description" : "Find and compare top Fund Accounting software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Fund Accounting tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/fund-accounting-software\">Fund Accounting software</a> automates accounting and portfolio management functions for nonprofit organizations, alternative asset managers, private bankers, foundations and government agencies.  Fund administrators utilize these applications to assist in strategic decision making and to increase accountability across an organization's financial operations.  <a href=\"/fund-accounting-software\">Fund Accounting software</a> also assists with regulatory <a href=\"/compliance-software\">compliance</a> management and <a href=\"/financial-reporting-software\">financial reporting</a> on portfolio performance.  <a href=\"/fund-accounting-software\">Fund Accounting software</a> is related to <a href=\"/accounting-software\">Accounting software</a> and <a href=\"/government-software\">Government software</a>."
+            },
+            {
+              "functional_group" : "donman",
+              "long_name" : "Fundraising",
+              "html_name" : "fundraising-software",
+              "link_name" : "fundraising",
+              "product_count" : 141,
+              "meta_description" : "Find and compare top Fundraising software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Fundraising tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/fundraising-software>Fundraising software</a> manages donor and pledge information associated with fundraising campaigns. Development professionals use Fundraising applications to enhance their ability to locate, manage and grow donor sources.  <a href=/fundraising-software>Fundraising software</a> facilitates cost effective targeting of likely donors, tracks pledges, and manages contributions and donor relationship management. These applications also provide a variety of tools allowing fundraisers to track the effectiveness of their development campaigns.  <a href=/fundraising-software>Fundraising software</a> is related to <a href=/church-management-software>Church Management software</a>, <a href=/event-management-software>Event Management software</a> and <a href=/political-campaign-software>Political Campaign software</a>."
+            },
+            {
+              "functional_group" : "donman",
+              "long_name" : "Membership Management",
+              "html_name" : "membership-management-software",
+              "link_name" : "membership-management",
+              "product_count" : 177,
+              "meta_description" : "Find and compare top Membership Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Membership Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/membership-management-software>Membership Management software</a> automates the management of membership within associations, communities ,and other member-based organizations. These software packages typically offer many features to empower and inform group members as well as administration and business process tools for organizations.  A variety of membership-oriented groups use these software applications to communicate with their constituents, share resources, promote events, and collect fees as well as to recruit and retain members.  <a href=/membership-management-software>Membership Management software</a> is related to <a href=/association-management-software>Association Management software</a>, <a href=/church-management-software>Church Management software</a> and <a href=/club-management-software>Club Management software</a>."
+            },
+            {
+              "functional_group" : "donman",
+              "long_name" : "Nonprofit",
+              "html_name" : "nonprofit-software",
+              "link_name" : "nonprofit",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Nonprofit software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Nonprofit tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "Nonprofit software automates all aspects of nonprofit operations from database management, to fundraising, to accounting and CRM. Nonprofit software is related to Donation Management software and Nonprofit Accounting software."
+            },
+            {
+              "functional_group" : "donman",
+              "long_name" : "Political Campaign",
+              "html_name" : "political-campaign-software",
+              "link_name" : "political-campaign",
+              "product_count" : 53,
+              "meta_description" : "Find and compare top Political Campaign software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Political Campaign tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/political-campaign-software>Political Campaign software</a> provides financial and management tools, contribution tracking, a voter database, and other features to help political candidates and PACs more effectively manage campaigns.  Campaign managers use these software applications to efficiently identify likely donors, target voters for outreach efforts, manage volunteers, track contributions, and assess the effectiveness of campaigns.  <a href=/political-campaign-software>Political Campaign software</a> also typically offers demographic and voter behavior data, polling tools, <a href=\"/call-center-software\">call center</a> integration and other campaign management necessities such as regulatory compliance monitoring.  <a href=/political-campaign-software>Political Campaign software</a> is related to <a href=/fundraising-software>Fundraising software</a>."
+            }
+          ],
+          "is_upgraded" : true,
+          "enabled" : true,
+          "filter_options" : {
+            "users" : 127,
+            "platform" : 897,
+            "pricing_options" : 26,
+            "category_related_features" : [
+              34819,
+              34821,
+              34825,
+              34826,
+              37022,
+              37023,
+              39246,
+              39247,
+              39250,
+              39251,
+              39252,
+              42000,
+              42001,
+              42491,
+              59648,
+              59649,
+              59650,
+              59653,
+              59655,
+              59656,
+              59659,
+              59662,
+              59663,
+              59664,
+              59665,
+              59666,
+              59674,
+              59675,
+              59676,
+              59678,
+              59679,
+              59680,
+              59682
+            ],
+            "employees" : 127
+          },
+          "sort_options" : {
+            "sort_review_rating" : 4.417979717254639,
+            "most_recent_review" : "2022-09-15T20:09:49Z"
+          },
+          "countries" : "CA,AU,US",
+          "features_tokenized_text" : "campaign_management donation_tracking donor_management event_management mobile_giving online_giving payment_processing pledge_management receipt_management recurring_giving",
+          "platform_tokenized_text" : "cloud,saas,web-based mobileandroid mobileiphone mobileipad",
+          "users_tokenized_text" : "1 2-10 11-50 51-200 201-500 501-1000 1000+",
+          "pricing_tokenized_text" : "monthlysubscription free freetrial",
+          "badges" : [ ],
+          "bid_spot_us" : 13.0,
+          "currency_code" : "USD",
+          "currency_symbol" : "$",
+          "credit_card_required" : "Unverified",
+          "licensing_model" : null,
+          "open_api_offered" : "Unverified",
+          "mobile_urls" : [ ],
+          "integrations" : [
+            {
+              "id" : "b4dd53ea-351c-49e4-9bb1-a6d200b3ce99",
+              "name" : "Eventbrite"
+            },
+            {
+              "id" : "498cb0d5-8b49-44b0-8197-a78a00b59c0c",
+              "name" : "Gmail"
+            },
+            {
+              "id" : "d96b7b2d-d086-417b-a6a3-a6d200b5007d",
+              "name" : "Mailchimp"
+            },
+            {
+              "id" : "bcdd9473-58dd-4c24-a82a-a6d200b601d6",
+              "name" : "Quickbooks Online"
+            },
+            {
+              "id" : "810df55d-b1c1-434d-adbd-a6d200b6c8b9",
+              "name" : "Stripe"
+            },
+            {
+              "id" : "16f6d9b6-3101-4679-a0af-a6d200b5a51b",
+              "name" : "PayPal"
+            },
+            {
+              "id" : "eab58142-6040-46ce-9341-a6d200b7915e",
+              "name" : "Xero"
+            },
+            {
+              "id" : "0fb88484-b5bf-4fff-a643-f715f7eed13a",
+              "name" : "SendGrid"
+            }
+          ],
+          "supported_countries" : [
+            {
+              "id" : 237,
+              "code" : "US",
+              "name" : "United States of America"
+            },
+            {
+              "id" : 41,
+              "code" : "CA",
+              "name" : "Canada"
+            },
+            {
+              "id" : 14,
+              "code" : "AU",
+              "name" : "Australia"
+            }
+          ],
+          "supported_languages" : [
+            {
+              "id" : 152,
+              "code" : "en",
+              "name" : "English",
+              "location" : null
+            }
+          ],
+          "target_industries" : [
+            {
+              "id" : 106,
+              "code" : "131",
+              "name" : "Philanthropy"
+            },
+            {
+              "id" : 53,
+              "code" : "148",
+              "name" : "Government Relations"
+            },
+            {
+              "id" : 92,
+              "code" : "35",
+              "name" : "Motion Pictures and Film"
+            },
+            {
+              "id" : 121,
+              "code" : "40",
+              "name" : "Recreational Facilities and Services"
+            },
+            {
+              "id" : 61,
+              "code" : "88",
+              "name" : "Individual & Family Services"
+            },
+            {
+              "id" : 93,
+              "code" : "37",
+              "name" : "Museums and Institutions"
+            },
+            {
+              "id" : 88,
+              "code" : "13",
+              "name" : "Medical Practice"
+            },
+            {
+              "id" : 34,
+              "code" : "69",
+              "name" : "Education Management"
+            },
+            {
+              "id" : 74,
+              "code" : "10",
+              "name" : "Legal Services"
+            },
+            {
+              "id" : 66,
+              "code" : "74",
+              "name" : "International Affairs"
+            },
+            {
+              "id" : 115,
+              "code" : "98",
+              "name" : "Public Relations and Communications"
+            },
+            {
+              "id" : 109,
+              "code" : "107",
+              "name" : "Political Organization"
+            },
+            {
+              "id" : 122,
+              "code" : "89",
+              "name" : "Religious Institutions"
+            },
+            {
+              "id" : 97,
+              "code" : "100",
+              "name" : "Non-Profit Organization Management"
+            },
+            {
+              "id" : 29,
+              "code" : "91",
+              "name" : "Consumer Services"
+            },
+            {
+              "id" : 38,
+              "code" : "86",
+              "name" : "Environmental Services"
+            },
+            {
+              "id" : 44,
+              "code" : "38",
+              "name" : "Fine Art"
+            },
+            {
+              "id" : 142,
+              "code" : "16",
+              "name" : "Veterinary"
+            },
+            {
+              "id" : 40,
+              "code" : "76",
+              "name" : "Executive Office"
+            },
+            {
+              "id" : 57,
+              "code" : "14",
+              "name" : "Hospital & Health Care"
+            },
+            {
+              "id" : 113,
+              "code" : "102",
+              "name" : "Program Development"
+            },
+            {
+              "id" : 110,
+              "code" : "67",
+              "name" : "Primary/Secondary Education"
+            },
+            {
+              "id" : 56,
+              "code" : "68",
+              "name" : "Higher Education"
+            }
+          ],
+          "price_range_id" : 1,
+          "aggregated_review_ratings" : {
+            "industry" : {
+              "13" : 5.0,
+              "16" : 4.0,
+              "124" : 4.17,
+              "86" : 4.25,
+              "110" : 5.0,
+              "67" : 4.0,
+              "115" : 5.0,
+              "90" : 4.33,
+              "10" : 4.5,
+              "33" : 4.5,
+              "131" : 3.75,
+              "95" : 5.0,
+              "80" : 4.33,
+              "105" : 4.0,
+              "35" : 4.0,
+              "69" : 4.67,
+              "38" : 4.0,
+              "27" : 4.0,
+              "68" : 4.0,
+              "43" : 4.0,
+              "101" : 5.0,
+              "100" : 4.32,
+              "111" : 4.0,
+              "39" : 4.0,
+              "88" : 4.33,
+              "139" : 4.0,
+              "40" : 4.5,
+              "37" : 4.5,
+              "14" : 4.6,
+              "137" : 4.0,
+              "63" : 4.0,
+              "89" : 3.89,
+              "71" : 4.0
+            },
+            "company_size" : {
+              "1-10 employees" : 4.32,
+              "11-50 employees" : 4.31,
+              "1001-5000 employees" : 4.0,
+              "10,001+ employees" : 5.0,
+              "Self-employed" : 3.92,
+              "501-1000 employees" : 4.0,
+              "201-500 employees" : 4.5,
+              "51-200 employees" : 4.5
+            }
+          },
+          "vct_enabled" : false,
+          "pricing_plans" : [
+            {
+              "created_on_utc" : "2019-08-21T14:47:39Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Basic",
+              "description" : "The pricing starts from $125 per month for up to 1000 contacts. It increases with the increasing number of contacts and ends at $1500 per month for up to 150000 contacts.",
+              "display_order" : 1,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 125.0,
+              "ending_price" : 1000.0,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "Automatic Receipts"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "CRM"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Donor Management"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "Integrations"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 5,
+                  "name" : "Membership Management"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 6,
+                  "name" : "Project Management"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 7,
+                  "name" : "Reporting & Analytics"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 8,
+                  "name" : "Unlimited Donations"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 9,
+                  "name" : "Unlimited Emails"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 10,
+                  "name" : "Unlimited Email Support"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 11,
+                  "name" : "Unlimited Forms"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 12,
+                  "name" : "Unlimited Online Training"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 13,
+                  "name" : "Volunteer Management"
+                }
+              ]
+            }
+          ],
+          "discount_types" : [
+            {
+              "name" : "By Plan Frequency",
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null
+            }
+          ]
+        }
+      },
+      {
+        "_index" : "product_listings_main_data_upc_vt20220920_043802_utc",
+        "_type" : "_doc",
+        "_id" : "222030_projectman",
+        "_score" : 10.865253,
+        "_source" : {
+          "product_id" : 222030,
+          "seo_product_id" : 222030,
+          "seo_slug" : "Keela",
+          "product_name" : "Keela",
+          "upc_product_uuid" : "3f1ab13b-bbb1-4e85-b20b-a6d200b7e1c4",
+          "old_product_ids" : [
+            154358
+          ],
+          "product_url" : "https://www.keela.co/capterra-demo",
+          "product_slug" : "Keela",
+          "former_name" : "Keela",
+          "logo_filepath" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/3db6e752-5e25-47b3-97ce-6cbc46214297.png",
+          "vendor" : {
+            "vendor_id" : 2167086,
+            "vendor_name" : "Keela",
+            "vendor_url" : "https://www.keela.co/",
+            "year_founded" : 2013,
+            "location" : "Canada",
+            "vendor_opted_out_of_reviews" : true,
+            "is_opted_out_of_reviews" : false,
+            "is_hit_limit" : false,
+            "enabled" : true,
+            "has_vendor_level_page" : false,
+            "slug" : null,
+            "vendor_page" : false,
+            "paused_campaign" : false
+          },
+          "category_short_name" : "projectman",
+          "category_html_name" : "project-management-software-for-nonprofits-software",
+          "category" : {
+            "id" : 32439,
+            "short_name" : "projectman",
+            "long_name" : "Nonprofit Project Management ",
+            "html_name" : "project-management-software-for-nonprofits-software",
+            "enabled" : true
+          },
+          "best_category" : "projectman",
+          "is_best_category" : true,
+          "highest_cpc_category" : null,
+          "is_highest_cpc_category" : false,
+          "short_desc" : "Keela is a fundraising CRM that unifies fundraising and donor communications.",
+          "long_desc" : "Keela is a fundraising CRM that unifies fundraising and donor communications. Keela's uniquely powerful solution bridges the gap between fundraising and comms, allowing nonprofits to improve donor relations through targeted, multi-channel approaches. \n\nKeela's platform allows you to pull critical donor information directly from your CRM into your donor communications, so you know who to ask for a donation, the best time to ask them, and the perfect amount to ask for. \n",
+          "rating" : 4.3,
+          "number_of_reviews" : 219,
+          "total_reviews" : 216,
+          "ease_of_use_rating" : 4.2,
+          "customer_support_rating" : 4.5,
+          "functionality_rating" : 3.9,
+          "value_for_money_rating" : 4.4,
+          "recommendation_rating" : 8.2,
+          "pricing_enabled" : true,
+          "pricing" : 125.0,
+          "is_per_user" : false,
+          "fee_schedule" : "Per-Month",
+          "pricing_model" : "Flat Rate",
+          "pricing_details" : "We determine pricing based on the number of contacts you will have in the system. Prices start at $89 USD. ",
+          "pricing_created_on" : "2019-08-21T14:47:39Z",
+          "pricing_modified_on" : "2022-06-23T14:42:33Z",
+          "pricing_created_by" : null,
+          "pricing_modified_by" : null,
+          "pricing_vendor_pricing_url" : "https://www.keela.co/pricing",
+          "free_trial" : true,
+          "free_version" : true,
+          "target_audience" : "Perfect for small to medium-sized nonprofit organizations who need to manage and cultivate relationships with donors, oversee donations, and who primarily raise funds through online campaigns!",
+          "target_users" : [
+            "1",
+            "2-10",
+            "11-50",
+            "51-200",
+            "201-500",
+            "501-1000",
+            "1000+"
+          ],
+          "platform" : [
+            {
+              "enabled" : true,
+              "name" : "Cloud, SaaS, Web-Based"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Mac"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Chromebook"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile Android"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPhone"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPad"
+            }
+          ],
+          "support" : [
+            {
+              "enabled" : true,
+              "name" : "Email Help Desk"
+            },
+            {
+              "enabled" : true,
+              "name" : "FAQ Forum"
+            },
+            {
+              "enabled" : true,
+              "name" : "Knowledgebase"
+            },
+            {
+              "enabled" : true,
+              "name" : "Phone Support"
+            },
+            {
+              "enabled" : false,
+              "name" : "24/7 Live Rep"
+            },
+            {
+              "enabled" : true,
+              "name" : "Chat"
+            }
+          ],
+          "training" : [
+            {
+              "enabled" : false,
+              "name" : "Not Offered"
+            },
+            {
+              "enabled" : false,
+              "name" : "In-Person"
+            },
+            {
+              "enabled" : true,
+              "name" : "Live Online"
+            },
+            {
+              "enabled" : true,
+              "name" : "Webinars"
+            },
+            {
+              "enabled" : true,
+              "name" : "Documentation"
+            },
+            {
+              "enabled" : true,
+              "name" : "Videos"
+            }
+          ],
+          "media" : [
+            {
+              "product_id" : 222030,
+              "vendor_id" : 2167086,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/a1dba838-e23f-4e9a-af1d-6fb4bdfe4b5b.png",
+              "caption" : "Dashboard",
+              "weight" : 1,
+              "short_name" : "projectman"
+            },
+            {
+              "product_id" : 222030,
+              "vendor_id" : 2167086,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/8127092e-691a-4cb6-b323-ebc4add3847b.png",
+              "caption" : "Reports",
+              "weight" : 2,
+              "short_name" : "projectman"
+            },
+            {
+              "product_id" : 222030,
+              "vendor_id" : 2167086,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/c67e8c0d-64df-4fc9-b6ef-d72d345819ee.png",
+              "caption" : "Intelligence Report",
+              "weight" : 3,
+              "short_name" : "projectman"
+            },
+            {
+              "product_id" : 222030,
+              "vendor_id" : 2167086,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/ee09dde8-f8ec-4bbb-9d49-87733d9956ac.png",
+              "caption" : "Fundraising",
+              "weight" : 4,
+              "short_name" : "projectman"
+            },
+            {
+              "product_id" : 222030,
+              "vendor_id" : 2167086,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/3bfdafb8-0c41-4c3a-9127-3e341b71a0f9.png",
+              "caption" : "Donor Score",
+              "weight" : 5,
+              "short_name" : "projectman"
+            },
+            {
+              "product_id" : 222030,
+              "vendor_id" : 2167086,
+              "media_type" : "VIDEO",
+              "path_url" : "https://www.youtube.com/watch?v=3n_uzC8zw5c&t=4s",
+              "caption" : null,
+              "weight" : 0,
+              "short_name" : "projectman"
+            }
+          ],
+          "links" : [ ],
+          "features" : [
+            {
+              "category_name" : "Nonprofit Project Management ",
+              "category_features" : [
+                {
+                  "name" : "Activity Dashboard",
+                  "value" : true,
+                  "id" : "856ab03e-a530-4ea9-bac6-968761c9b6c6",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Approval Process Control",
+                  "value" : true,
+                  "id" : "8cc73664-11fe-47ac-a43f-468a931254cb",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Calendar Management",
+                  "value" : true,
+                  "id" : "10dc6d16-b8eb-47be-a3b9-3368fba98bac",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Collaboration Tools",
+                  "value" : true,
+                  "id" : "97efb0d3-9a23-4408-90d4-4db1e3830fbd",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Customizable Templates",
+                  "value" : false,
+                  "id" : "0cbce712-8370-4492-ac43-e500bc2f2b1f",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "For Nonprofits",
+                  "value" : true,
+                  "id" : "8649d74b-9c82-4b3e-998d-8639ceec130e",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 7,
+                  "avg_importance" : 2.75,
+                  "cnt_importance" : 4,
+                  "cnt_time_used" : 4,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 4,
+                  "pct_time_critical" : 0.75,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Gantt/Timeline View",
+                  "value" : false,
+                  "id" : "becd74fd-22bc-49e5-ae0e-06f1c875b823",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Kanban Board",
+                  "value" : false,
+                  "id" : "74a46009-20c8-4ce1-8cec-7dd580495d0b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Mobile Access",
+                  "value" : true,
+                  "id" : "15d49235-ad13-4d33-b009-edd50126375b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Resource Allocation & Planning",
+                  "value" : false,
+                  "id" : "a7ff8744-b978-455b-a4df-cf9db1138cfe",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Task Management",
+                  "value" : true,
+                  "id" : "82ce67d3-ac09-49d0-ae71-5e6401e3e26b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                }
+              ]
+            }
+          ],
+          "infographics" : [ ],
+          "related_products" : [
+            {
+              "product_id" : 72069,
+              "seo_product_id" : 248699,
+              "seo_slug" : "Trello",
+              "vendor_name" : "Atlassian",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/415abb34-71b7-4fa2-8dc4-1211cac6e655.png",
+              "rating" : 4.5,
+              "total_reviews" : 21559,
+              "slug" : "Trello",
+              "product_name" : "Trello",
+              "short_desc" : "A visual collaboration tool that creates a shared perspective for your team on any project in a fun, flexible, and rewarding way.",
+              "features" : "From sales and marketing to HR and operations, teams can design and customize Trello to fit their unique needs and work styles. And with over 100+ integrations with other key tools like Google Drive, Slack, Jira and more, Trello is a living, breathing project hub of cross-team collaboration no matter where your work needs to happen. Trello brings joy to teamwork by making it transparent and easily shareable across boards and teams.",
+              "url" : "https://trello.com/views?utm_source=capterra&utm_medium=paid-review-sites&utm_campaign=P:trello|O:ppm|V:capterra|G:us|L:en|F:disc|I:imc-full-funnel-trello|A:content|D:desktop|U:customer-relationship-management&utm_content=P:trello|O:ppm|V:capterra|G:us|L:en|F:disc|I:imc-full-funnel-trello|A:content|D:desktop|U:customer-relationship-management_listing-views-management"
+            },
+            {
+              "product_id" : 56808,
+              "seo_product_id" : 56808,
+              "seo_slug" : "Basecamp",
+              "vendor_name" : "Basecamp",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/69a98f7c-b7c9-4aa7-8753-d7254a1f7e63.png",
+              "rating" : 4.3,
+              "total_reviews" : 13593,
+              "slug" : "Basecamp",
+              "product_name" : "Basecamp",
+              "short_desc" : "Trusted by millions, Basecamp puts everything you need to get work done in one place.",
+              "features" : "Group chat alone isn't enough. Basecamp combines *all* the tools teams need together in one place: message boards, schedules, to-do lists, group chat, documents & file storage, and more. Instead of stuff scattered all over, everything you're working on will be in one streamlined, organized place. Everyone will know what to do. Nothing will slip through the cracks. You'll always know exactly whats going on.",
+              "url" : "https://basecamp.com?utm_source=capterra&utm_medium=cpc&utm_campaign=bcx&utm_content=button_visit_website_non_profit"
+            },
+            {
+              "product_id" : 267318,
+              "seo_product_id" : 19319,
+              "seo_slug" : "JIRA",
+              "vendor_name" : "Atlassian",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e1b492c5-8a97-4b86-a422-d317b2480afa.png",
+              "rating" : 4.4,
+              "total_reviews" : 12388,
+              "slug" : "Jira",
+              "product_name" : "Jira",
+              "short_desc" : "With 15+ years in the agile space, Jira offers teams the top tools and best practices to provide the right foundation for growth.",
+              "features" : "Jira is the #1 software development tool used by agile teams. Teams of 2 to 20,000 rely on Jira to manage every stage of their workflow, from planning to shipping and releasing. With native roadmaps, teams can ladder up their work to track the big picture. Jira's no-code automation engine allows teams to save time and increase power by automating any task or process with a few clicks. And with a free edition, teams up to ten users can leverage all the power of Jira at no cost, forever. ",
+              "url" : "https://www.atlassian.com/software/jira"
+            },
+            {
+              "product_id" : 179674,
+              "seo_product_id" : 19319,
+              "seo_slug" : "JIRA",
+              "vendor_name" : "Atlassian",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e1b492c5-8a97-4b86-a422-d317b2480afa.png",
+              "rating" : 4.4,
+              "total_reviews" : 12310,
+              "slug" : "JIRA",
+              "product_name" : "Jira",
+              "short_desc" : "With 15+ years in the agile space, Jira offers teams the top tools and best practices to provide the right foundation for growth.",
+              "features" : "Jira is the #1 software development tool used by agile teams. Teams of 2 to 20,000 rely on Jira to manage every stage of their workflow, from planning to shipping and releasing. With native roadmaps, teams can ladder up their work to track the big picture. Jira's no-code automation engine allows teams to save time and increase power by automating any task or process with a few clicks. And with a free edition, teams up to ten users can leverage all the power of Jira at no cost, forever. ",
+              "url" : "https://www.atlassian.com/software/jira/whats-new/tech-roadmaps?utm_source=capterra&utm_medium=paid-review-sites&utm_campaign=P9zjira-software9xO9zppm9xV9zcapterra9xG9zallg9xL9zen9xF9zdisc9xI9zimc-techjira9xA9ztext9xD9zalld9xU9znonprofit-project-management9&utm_content=destination"
+            },
+            {
+              "product_id" : 129067,
+              "seo_product_id" : 129067,
+              "seo_slug" : "GitHub",
+              "vendor_name" : "GitHub",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d0cfa614-0cde-454f-b5f0-aed4c83f6a76.png",
+              "rating" : 4.8,
+              "total_reviews" : 4884,
+              "slug" : "GitHub",
+              "product_name" : "GitHub",
+              "short_desc" : "Keep feature requests, bugs, and more organized with GitHub Issues - engineered for software teams.",
+              "features" : "GitHub makes project management simple. Start with an issue: create an issue to suggest a new idea or track a bug. Then organize and assign tasks to your team. Link issues and pull requests: Track updates to your project without complicating your workflow by cross linking between issues and pull requests anywhere in your GitHub organization.",
+              "url" : "http://github.com/enterprise?utm_source=Capterra&utm_medium=ppc&utm_campaign=2021-site-WW-Capterra"
+            },
+            {
+              "product_id" : 99768,
+              "seo_product_id" : 99768,
+              "seo_slug" : "Box",
+              "vendor_name" : "Box",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/95b201e8-845a-4064-a9b2-a8eb49d19ca3.png",
+              "rating" : 4.3,
+              "total_reviews" : 4277,
+              "slug" : "Box",
+              "product_name" : "Box",
+              "short_desc" : "From supporting disaster relief to lifting up communities in need, we help nonprofits fulfill their missions. Visit box.org to learn mo",
+              "features" : "Box powers how the world does more good together. From supporting disaster relief to lifting up marginalized populations, we enable nonprofits to innovate and fulfill their missions with powerful content management tools. After all, our shared goal is to create a better, more connected world. Visit box.org to learn more.",
+              "url" : "https://www.box.com/overview?utm_medium=ReviewSite&utm_source=Capterra&id=7017V0000012mjtQAA&utm_campaign=PayPerClick_Default&utm_content=VisitWebsite"
+            },
+            {
+              "product_id" : 169607,
+              "seo_product_id" : 169607,
+              "seo_slug" : "Clockify",
+              "vendor_name" : "COING",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e842f9a6-e289-4cd1-90d2-a9f304c9c059.png",
+              "rating" : 4.7,
+              "total_reviews" : 4183,
+              "slug" : "Clockify",
+              "product_name" : "Clockify",
+              "short_desc" : "Nonprofit project management software for tracking time volunteers spend on activities and option for detailed customized reporting.",
+              "features" : "A project management software for nonprofits. Track attendance and how much time volunteers spend on activities. Keep up with ongoing tasks and manage complex projects in Clockify - there is no limit on the number of users, projects or time tracking periods. Time entries are easy to create - one click to start and one to stop a timer, and you can use it to export customized reports for each project. Task log is available across devices, on the web, mobile or desktop - all data is synced online.",
+              "url" : "https://clockify.me/nonprofit-time-tracking?utm_medium=cpc&utm_campaign=Nonprofit_Project_Management&utm_content=destinationurl"
+            },
+            {
+              "product_id" : 225974,
+              "seo_product_id" : 225974,
+              "seo_slug" : "Smartsheet",
+              "vendor_name" : "Smartsheet",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/9efb2a2f-43b2-4ebd-bf24-b9bb46bd93c6.jpeg",
+              "rating" : 4.5,
+              "total_reviews" : 2382,
+              "slug" : "Smartsheet",
+              "product_name" : "Smartsheet",
+              "short_desc" : "Smartsheet is an online work execution platform empowering organizations of all sizes to plan, manage, automate, and report on work.",
+              "features" : "Smartsheet, an online work execution platform, empowers organizations to plan, track, automate, and report on work. Over 80,000 brands rely on Smartsheet for project and work management because of its easy-to-use interface, real-time gantt charts and dashboards, and work automation features. \r\n*2018 Awards: Named a Leader in Enterprise Collaborative Work Management by Forrester Research, Selected to Deloittes Fast 500 List, Recognized for Technology Innovation & Vision by 451 Research",
+              "url" : "https://www.smartsheet.com/"
+            },
+            {
+              "product_id" : 76113,
+              "seo_product_id" : 152501,
+              "seo_slug" : "Wrike",
+              "vendor_name" : "Wrike",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/f7d6685a-9008-4905-bb9e-83a39fe2c19e.png",
+              "rating" : 4.3,
+              "total_reviews" : 1790,
+              "slug" : "Wrike",
+              "product_name" : "Wrike",
+              "short_desc" : "Wrike is software solution for nonprofit project management that features Gantt charts, customizable reports, and planning templates.",
+              "features" : "Wrike is nonprofit project management software used by more than 20,000 companies around the world. Wrike's powerful software can help make any project manageable, thanks to customizable dashboards to suit every team member, automation that streamlines repeated tasks and requests, and templates that simplify planning. Adjust milestones on one-click Gantt charts to adapt to new priorities and get an overview of your project portfolio with custom-built reports.",
+              "url" : "https://try.wrike.com/nonprofit-project-management/?utm_medium=cpc&utm_content=listing&utm_campaign=nonprofit-project-management"
+            },
+            {
+              "product_id" : 149339,
+              "seo_product_id" : 149339,
+              "seo_slug" : "Todoist-for-Business",
+              "vendor_name" : "Doist",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/bd3ede5d-ab39-4984-8bdd-23d0f39ad778.png",
+              "rating" : 4.6,
+              "total_reviews" : 1650,
+              "slug" : "Todoist-for-Business",
+              "product_name" : "Todoist",
+              "short_desc" : "Todoist is the world's #1 to-do list & task manager to organise your life and work.",
+              "features" : "Todoist is the world's #1 to-do list & task manager to organise your life and work. Regain clarity and calmness by getting tasks out of your head and into Todoist, no matter where you are or what device you use. It's a simple yet powerful to-do list app ranked best-in-class by Apple, Google, The Verge, Forbes, and more. Since 2007, over 25 million people have used Todoist to organize work and life, completing more than two billion tasks along the way. ",
+              "url" : "https://todoist.com?utm_medium=comparison_site&utm_campaign=gartner_markets"
+            },
+            {
+              "product_id" : 132376,
+              "seo_product_id" : 132376,
+              "seo_slug" : "Hubstaff",
+              "vendor_name" : "Hubstaff",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/aaac16f3-d85a-4597-a31c-6205c39cadc2.png",
+              "rating" : 4.6,
+              "total_reviews" : 1269,
+              "slug" : "Hubstaff",
+              "product_name" : "Hubstaff",
+              "short_desc" : "See Work Happen in Real-Time With Hubstaff's Nonprofit Project Software and Identify Productivity Trends. Start a 14-Day Free Trial!",
+              "features" : "Avoid inefficiency for nonprofit project management and work better with streamlined time tracking software from Hubstaff. Track time through simple desktop, web, and mobile apps, then manage invoicing, reporting and more through one dashboard. Hubstaff integrates with over 30 apps so your business can run more efficiently, including Jira, Trello, Asana, Github, Slack, and Paypal. Available for Mac, Windows, Linux, and iOS.",
+              "url" : "https://hubstaff.com"
+            }
+          ],
+          "similar_products" : [
+            {
+              "product_id" : 56808,
+              "seo_product_id" : 56808,
+              "seo_slug" : "Basecamp",
+              "vendor_name" : "Basecamp",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/69a98f7c-b7c9-4aa7-8753-d7254a1f7e63.png",
+              "rating" : 4.3,
+              "total_reviews" : 13593,
+              "slug" : "Basecamp",
+              "product_name" : "Basecamp",
+              "short_desc" : "Trusted by millions, Basecamp puts everything you need to get work done in one place.",
+              "features" : "Group chat alone isn't enough. Basecamp combines *all* the tools teams need together in one place: message boards, schedules, to-do lists, group chat, documents & file storage, and more. Instead of stuff scattered all over, everything you're working on will be in one streamlined, organized place. Everyone will know what to do. Nothing will slip through the cracks. You'll always know exactly whats going on.",
+              "url" : "https://basecamp.com?utm_source=capterra&utm_medium=cpc&utm_campaign=bcx&utm_content=button_visit_website"
+            },
+            {
+              "product_id" : 179674,
+              "seo_product_id" : 19319,
+              "seo_slug" : "JIRA",
+              "vendor_name" : "Atlassian",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e1b492c5-8a97-4b86-a422-d317b2480afa.png",
+              "rating" : 4.4,
+              "total_reviews" : 12310,
+              "slug" : "JIRA",
+              "product_name" : "Jira",
+              "short_desc" : "With 15+ years in the agile space, Jira offers teams the top tools and best practices to provide the right foundation for growth.",
+              "features" : "Jira is the #1 software development tool used by agile teams. Teams of 2 to 20,000 rely on Jira to manage every stage of their workflow, from planning to shipping and releasing. With native roadmaps, teams can ladder up their work to track the big picture. Jira's no-code automation engine allows teams to save time and increase power by automating any task or process with a few clicks. And with a free edition, teams up to ten users can leverage all the power of Jira at no cost, forever. ",
+              "url" : "https://www.atlassian.com/software/jira/whats-new/tech-roadmaps?utm_source=capterra&utm_medium=paid-review-sites&utm_campaign=P9zjira-software9xO9zppm9xV9zcapterra9xG9zallg9xL9zen9xF9zdisc9xI9zimc-techjira9xA9ztext9xD9zalld9xU9zapplication-lifecycle-management&utm_content=visit-website"
+            },
+            {
+              "product_id" : 76113,
+              "seo_product_id" : 152501,
+              "seo_slug" : "Wrike",
+              "vendor_name" : "Wrike",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/f7d6685a-9008-4905-bb9e-83a39fe2c19e.png",
+              "rating" : 4.3,
+              "total_reviews" : 1790,
+              "slug" : "Wrike",
+              "product_name" : "Wrike",
+              "short_desc" : "Wrike is software solution for nonprofit project management that features Gantt charts, customizable reports, and planning templates.",
+              "features" : "Wrike is nonprofit project management software used by more than 20,000 companies around the world. Wrike's powerful software can help make any project manageable, thanks to customizable dashboards to suit every team member, automation that streamlines repeated tasks and requests, and templates that simplify planning. Adjust milestones on one-click Gantt charts to adapt to new priorities and get an overview of your project portfolio with custom-built reports.",
+              "url" : "https://try.wrike.com/project-management-capterra/?utm_medium=cpc&utm_campaign=default&utm_content=listing"
+            },
+            {
+              "product_id" : 247647,
+              "seo_product_id" : 2688,
+              "seo_slug" : "Raiser-s-Edge-NXT",
+              "vendor_name" : "Blackbaud",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/911a7dd5-0e33-46bb-867d-7356bb07f37d.png",
+              "rating" : 4.2,
+              "total_reviews" : 394,
+              "slug" : "Blackbaud-Raiser-s-Edge-NXT",
+              "product_name" : "Blackbaud Raiser's Edge NXT",
+              "short_desc" : "Fundraising solution that helps you communicate with your constituents and make better decisions.",
+              "features" : "Raisers Edge NXT is a smart, cloud fundraising solution built to help nonprofits achieve sustainable growth. It's a total solution that includes all the tools needed to be successful on one platform and one simple subscription price. This includes data enrichment services, event management, and social and email marketing tools, online donations, flexible reporting and actionable analytics.  Raisers Edge NXT pulls together your processes and people to move your entire mission forward.",
+              "url" : "https://software-info.gartnerdigitalmarkets.com/blackbaud-fundraising/?utm_medium=tp+review&utm_source=capterra&utm_campaign=renxt-us"
+            },
+            {
+              "product_id" : 132376,
+              "seo_product_id" : 132376,
+              "seo_slug" : "Hubstaff",
+              "vendor_name" : "Hubstaff",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/aaac16f3-d85a-4597-a31c-6205c39cadc2.png",
+              "rating" : 4.6,
+              "total_reviews" : 1269,
+              "slug" : "Hubstaff",
+              "product_name" : "Hubstaff",
+              "short_desc" : "See Work Happen in Real-Time With Hubstaff's Nonprofit Project Software and Identify Productivity Trends. Start a 14-Day Free Trial!",
+              "features" : "Avoid inefficiency for nonprofit project management and work better with streamlined time tracking software from Hubstaff. Track time through simple desktop, web, and mobile apps, then manage invoicing, reporting and more through one dashboard. Hubstaff integrates with over 30 apps so your business can run more efficiently, including Jira, Trello, Asana, Github, Slack, and Paypal. Available for Mac, Windows, Linux, and iOS.",
+              "url" : "https://hubstaff.com"
+            },
+            {
+              "product_id" : 160239,
+              "seo_product_id" : 267078,
+              "seo_slug" : "eM-Client",
+              "vendor_name" : "eM Client",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/39a2e543-fbb4-47d3-9158-836b143c748e.png",
+              "rating" : 4.1,
+              "total_reviews" : 129,
+              "slug" : "eM-Client",
+              "product_name" : "eM Client",
+              "short_desc" : "Desktop email client that also helps organize tasks, calendars, contacts, notes and more. Discounts for non-profit organizations.",
+              "features" : "eM Client is a desktop email client designed to help businesses with handling email communication, daily agenda, upcoming (online) events, collaboration with colleagues and more, all in a unified clean interface. Enforce company-wide email encryption policy (PGP,S/MIME), archive emails or create and save customizable signatures, email templates and QuickTexts to streamline communication processes. International teams can rely on instant translation of all emails. Discounts for non-profits.",
+              "url" : "http://www.emclient.com/"
+            },
+            {
+              "product_id" : 129067,
+              "seo_product_id" : 129067,
+              "seo_slug" : "GitHub",
+              "vendor_name" : "GitHub",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d0cfa614-0cde-454f-b5f0-aed4c83f6a76.png",
+              "rating" : 4.8,
+              "total_reviews" : 4884,
+              "slug" : "GitHub",
+              "product_name" : "GitHub",
+              "short_desc" : "Keep feature requests, bugs, and more organized with GitHub Issues - engineered for software teams.",
+              "features" : "GitHub makes project management simple. Start with an issue: create an issue to suggest a new idea or track a bug. Then organize and assign tasks to your team. Link issues and pull requests: Track updates to your project without complicating your workflow by cross linking between issues and pull requests anywhere in your GitHub organization.",
+              "url" : "http://github.com/enterprise?utm_source=Capterra&utm_medium=ppc&utm_campaign=2021-site-WW-Capterra"
+            },
+            {
+              "product_id" : 42488,
+              "seo_product_id" : 42488,
+              "seo_slug" : "SwiftKanban",
+              "vendor_name" : "Digite",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/54ef9911-297b-48ea-a944-77c5f885df27.png",
+              "rating" : 4.4,
+              "total_reviews" : 27,
+              "slug" : "SwiftKanban",
+              "product_name" : "SwiftKanban",
+              "short_desc" : "SwiftKanban is a Visual Work Management Tool for helping you manage your work effectively and improve continuously. ",
+              "features" : "SwiftKanban is widely considered to be the most powerful Enterprise/ Portfolio Kanban and Visual Project  Management tool for both co-located and distributed teams and enterprises. It combines the best of Visual Management, Kanban, and Scrum to give you a powerful tool for Lean/ Agile software development, visual project management and business collaboration. ",
+              "url" : "https://www.digite.com/swiftkanban/kanban-software/?utm_source=capterra&utm_medium=cpc"
+            },
+            {
+              "product_id" : 20129,
+              "seo_product_id" : 20129,
+              "seo_slug" : "Project-Insight",
+              "vendor_name" : "Project Insight",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e6c67db8-6cd5-4e1a-be3c-7c5202105c28.png",
+              "rating" : 4.4,
+              "total_reviews" : 56,
+              "slug" : "Project-Insight",
+              "product_name" : "Project Insight",
+              "short_desc" : "Project Insight is award-winning project & work management software capable of running all of the projects across your organization.",
+              "features" : "Project Insight (PI) is a modern, full-featured project & portfolio management software capable of aggregating and reporting on all of the projects across your organization. PI centralizes your work, projects, & tasks in one easy-to-use online platform that can be customized to meet your business needs. Seamlessly aggregate data from your key CRM, accounting, DevOps, support, & HR software to give stakeholders real-time project insights. PI's FREE version let's you start simply & grow as you go.",
+              "url" : "https://projectinsight.com/apps/project-portfolio-management-software-referral?c=20210901-capterra-ppc"
+            },
+            {
+              "product_id" : 224902,
+              "seo_product_id" : 250743,
+              "seo_slug" : "Slack",
+              "vendor_name" : "Slack",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/91f64896-759a-41ae-8d14-d540f90c5870.png",
+              "rating" : 4.7,
+              "total_reviews" : 21397,
+              "slug" : "Slack",
+              "product_name" : "Slack",
+              "short_desc" : "Slack brings all your communication together in one place. It's real-time messaging, archiving and search for modern teams.",
+              "features" : "Slack is a collaboration hub, where the right people and the right information come together, helping everyone get work done. When your team needs to kick off a project, hire a new employee, deploy some code, review a sales contract, finalize next year's budget, measure an A/B test, plan your next office opening, and more, Slack has you covered. Try Slack with your team for free.",
+              "url" : "https://slack.com/"
+            },
+            {
+              "product_id" : 212257,
+              "seo_product_id" : 212257,
+              "seo_slug" : "Evernote",
+              "vendor_name" : "Evernote",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/c7e98f77-5ca7-4b37-9143-19b906121201.png",
+              "rating" : 4.4,
+              "total_reviews" : 7482,
+              "slug" : "Evernote",
+              "product_name" : "Evernote Teams",
+              "short_desc" : "Bring your teams work together, and unify your workflow. Create, collaborate, and store information all in one place. ",
+              "features" : "Evernote Business brings your teams work together. Create documents, collaborate on projects, and store information all in one place. Teammates can access, edit, upload, and share notes and files from any device--even if theyre offline. Cut through the noise, and quickly find the information you need with powerful search capabilities and integrations with tools you already use. Unify your workflow with Evernote Business. ",
+              "url" : "https://evernote.com/business?utm_campaign=capterra&utm_source=search-paid&utm_medium=homepage&utm_content=20200511-US-en-capterra_eb_hpg_v01&offer=ft_prom_generic_link_external_exp_capterra&referralUserId=%5Bglobal_user_id%5D"
+            },
+            {
+              "product_id" : 99768,
+              "seo_product_id" : 99768,
+              "seo_slug" : "Box",
+              "vendor_name" : "Box",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/95b201e8-845a-4064-a9b2-a8eb49d19ca3.png",
+              "rating" : 4.3,
+              "total_reviews" : 4277,
+              "slug" : "Box",
+              "product_name" : "Box",
+              "short_desc" : "From supporting disaster relief to lifting up communities in need, we help nonprofits fulfill their missions. Visit box.org to learn mo",
+              "features" : "Box powers how the world does more good together. From supporting disaster relief to lifting up marginalized populations, we enable nonprofits to innovate and fulfill their missions with powerful content management tools. After all, our shared goal is to create a better, more connected world. Visit box.org to learn more.",
+              "url" : "https://www.box.com/overview?utm_medium=ReviewSite&utm_source=Capterra&id=7017V0000012mjtQAA&utm_campaign=PayPerClick_Default&utm_content=VisitWebsite"
+            },
+            {
+              "product_id" : 222938,
+              "seo_product_id" : 251341,
+              "seo_slug" : "ClickUp",
+              "vendor_name" : "ClickUp",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/98ca9b83-b6bd-4a44-92d1-63c526d17630.png",
+              "rating" : 4.7,
+              "total_reviews" : 3020,
+              "slug" : "ClickUp",
+              "product_name" : "ClickUp",
+              "short_desc" : "ClickUp is the future of work - it's one app to replace them all. ClickUp is the #1 fastest growing productivity app in 2022.",
+              "features" : "ClickUp is an all-in-one productivity platform that eliminates work silos. It's the hub where teams come together to plan, organize, and collaborate on work using tasks, Docs, Chat, Goals, Whiteboards, and more. \n\nEasily customized with just a few clicks, ClickUp helps teams of all types and sizes deliver work more effectively. By replacing inflexible and overlapping tools, ClickUp helps teams save one day each week! ",
+              "url" : "https://clickup.com/"
+            }
+          ],
+          "related_categories" : [
+            {
+              "functional_group" : "projectman",
+              "long_name" : "Nonprofit",
+              "html_name" : "nonprofit-software",
+              "link_name" : "nonprofit",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Nonprofit software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Nonprofit tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "Nonprofit software automates all aspects of nonprofit operations from database management, to fundraising, to accounting and CRM. Nonprofit software is related to Donation Management software and Nonprofit Accounting software."
+            },
+            {
+              "functional_group" : "projectman",
+              "long_name" : "Project Management",
+              "html_name" : "project-management-software",
+              "link_name" : "project-management",
+              "product_count" : 459,
+              "meta_description" : "Find and compare top Project Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Project Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/project-management-software>Project Management software</a> automates task assignment, resource allocation and milestone tracking for all phases of a project.  Project Management tools and systems may take one of several approaches:  collaborative, when multiple people work on a project; top-down, when one person works on a project at a time; or integrated, when multiple aspects of the organization are involved.  There are a variety of project management systems and tools that have been designed to fit your project needs. <a href=/project-management-software>Project Management software</a> is related to <a href=/professional-services-automation-software>Professional Services Automation software</a>, <a href=\"/time-and-expense-software\">Time and Expense software</a>, <a href=/web-collaboration-software>Web Collaboration software</a> and <a href=/workforce-management-software>Workforce Management software</a>. Find the <a href=\"/project-management-software\">best project management software</a> for your organization."
+            },
+            {
+              "functional_group" : "projectman",
+              "long_name" : "Project Planning",
+              "html_name" : "project-planning-software",
+              "link_name" : "project-planning",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Project Planning software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Project Planning tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "Project Planning software allows businesses to create timelines for project completion, allocate resources, assign tasks, and budget for project-related expenses."
+            },
+            {
+              "functional_group" : "projectman",
+              "long_name" : "Project Tracking",
+              "html_name" : "project-tracking-software",
+              "link_name" : "project-tracking",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Project Tracking software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Project Tracking tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "Project Tracking software helps teams collaborate on project-related tasks and track project completion, budget, time and expenses, and resource allocation."
+            }
+          ],
+          "is_upgraded" : false,
+          "enabled" : true,
+          "filter_options" : {
+            "users" : 127,
+            "platform" : 897,
+            "pricing_options" : 26,
+            "category_related_features" : [
+              76456,
+              76457,
+              76458,
+              76459,
+              76460,
+              76461,
+              76463,
+              76466,
+              76468,
+              76469
+            ],
+            "employees" : 127
+          },
+          "sort_options" : {
+            "sort_review_rating" : 4.4935173988342285,
+            "most_recent_review" : "2022-09-15T20:09:49Z"
+          },
+          "countries" : "ALL",
+          "features_tokenized_text" : "activity_dashboard approval_process_control calendar_management collaboration_tools for_nonprofits mobile_access task_management",
+          "platform_tokenized_text" : "cloud,saas,web-based mobileandroid mobileiphone mobileipad",
+          "users_tokenized_text" : "1 2-10 11-50 51-200 201-500 501-1000 1000+",
+          "pricing_tokenized_text" : "monthlysubscription free freetrial",
+          "badges" : [ ],
+          "bid_spot_us" : 0.0,
+          "currency_code" : "USD",
+          "currency_symbol" : "$",
+          "credit_card_required" : "Unverified",
+          "licensing_model" : null,
+          "open_api_offered" : "Unverified",
+          "mobile_urls" : [ ],
+          "integrations" : [
+            {
+              "id" : "b4dd53ea-351c-49e4-9bb1-a6d200b3ce99",
+              "name" : "Eventbrite"
+            },
+            {
+              "id" : "498cb0d5-8b49-44b0-8197-a78a00b59c0c",
+              "name" : "Gmail"
+            },
+            {
+              "id" : "d96b7b2d-d086-417b-a6a3-a6d200b5007d",
+              "name" : "Mailchimp"
+            },
+            {
+              "id" : "bcdd9473-58dd-4c24-a82a-a6d200b601d6",
+              "name" : "Quickbooks Online"
+            },
+            {
+              "id" : "810df55d-b1c1-434d-adbd-a6d200b6c8b9",
+              "name" : "Stripe"
+            },
+            {
+              "id" : "16f6d9b6-3101-4679-a0af-a6d200b5a51b",
+              "name" : "PayPal"
+            },
+            {
+              "id" : "eab58142-6040-46ce-9341-a6d200b7915e",
+              "name" : "Xero"
+            },
+            {
+              "id" : "0fb88484-b5bf-4fff-a643-f715f7eed13a",
+              "name" : "SendGrid"
+            }
+          ],
+          "supported_countries" : [
+            {
+              "id" : 237,
+              "code" : "US",
+              "name" : "United States of America"
+            },
+            {
+              "id" : 41,
+              "code" : "CA",
+              "name" : "Canada"
+            },
+            {
+              "id" : 14,
+              "code" : "AU",
+              "name" : "Australia"
+            }
+          ],
+          "supported_languages" : [
+            {
+              "id" : 152,
+              "code" : "en",
+              "name" : "English",
+              "location" : null
+            }
+          ],
+          "target_industries" : [
+            {
+              "id" : 106,
+              "code" : "131",
+              "name" : "Philanthropy"
+            },
+            {
+              "id" : 53,
+              "code" : "148",
+              "name" : "Government Relations"
+            },
+            {
+              "id" : 92,
+              "code" : "35",
+              "name" : "Motion Pictures and Film"
+            },
+            {
+              "id" : 121,
+              "code" : "40",
+              "name" : "Recreational Facilities and Services"
+            },
+            {
+              "id" : 61,
+              "code" : "88",
+              "name" : "Individual & Family Services"
+            },
+            {
+              "id" : 93,
+              "code" : "37",
+              "name" : "Museums and Institutions"
+            },
+            {
+              "id" : 88,
+              "code" : "13",
+              "name" : "Medical Practice"
+            },
+            {
+              "id" : 34,
+              "code" : "69",
+              "name" : "Education Management"
+            },
+            {
+              "id" : 74,
+              "code" : "10",
+              "name" : "Legal Services"
+            },
+            {
+              "id" : 66,
+              "code" : "74",
+              "name" : "International Affairs"
+            },
+            {
+              "id" : 115,
+              "code" : "98",
+              "name" : "Public Relations and Communications"
+            },
+            {
+              "id" : 109,
+              "code" : "107",
+              "name" : "Political Organization"
+            },
+            {
+              "id" : 122,
+              "code" : "89",
+              "name" : "Religious Institutions"
+            },
+            {
+              "id" : 97,
+              "code" : "100",
+              "name" : "Non-Profit Organization Management"
+            },
+            {
+              "id" : 29,
+              "code" : "91",
+              "name" : "Consumer Services"
+            },
+            {
+              "id" : 38,
+              "code" : "86",
+              "name" : "Environmental Services"
+            },
+            {
+              "id" : 44,
+              "code" : "38",
+              "name" : "Fine Art"
+            },
+            {
+              "id" : 142,
+              "code" : "16",
+              "name" : "Veterinary"
+            },
+            {
+              "id" : 40,
+              "code" : "76",
+              "name" : "Executive Office"
+            },
+            {
+              "id" : 57,
+              "code" : "14",
+              "name" : "Hospital & Health Care"
+            },
+            {
+              "id" : 113,
+              "code" : "102",
+              "name" : "Program Development"
+            },
+            {
+              "id" : 110,
+              "code" : "67",
+              "name" : "Primary/Secondary Education"
+            },
+            {
+              "id" : 56,
+              "code" : "68",
+              "name" : "Higher Education"
+            }
+          ],
+          "price_range_id" : 1,
+          "aggregated_review_ratings" : {
+            "industry" : {
+              "124" : 4.17,
+              "110" : 5.0,
+              "43" : 4.0,
+              "86" : 4.25,
+              "38" : 4.0,
+              "95" : 5.0,
+              "115" : 5.0,
+              "131" : 3.75,
+              "139" : 4.0,
+              "100" : 4.32,
+              "40" : 4.5,
+              "37" : 4.5,
+              "111" : 4.0,
+              "71" : 4.0,
+              "90" : 4.33,
+              "67" : 4.0,
+              "88" : 4.33,
+              "16" : 4.0,
+              "105" : 4.0,
+              "10" : 4.5,
+              "137" : 4.0,
+              "14" : 4.6,
+              "27" : 4.0,
+              "101" : 5.0,
+              "89" : 3.89,
+              "35" : 4.0,
+              "63" : 4.0,
+              "13" : 5.0,
+              "33" : 4.5,
+              "39" : 4.0,
+              "68" : 4.0,
+              "80" : 4.33,
+              "69" : 4.67
+            },
+            "company_size" : {
+              "1001-5000 employees" : 4.0,
+              "201-500 employees" : 4.5,
+              "Self-employed" : 3.92,
+              "10,001+ employees" : 5.0,
+              "1-10 employees" : 4.32,
+              "501-1000 employees" : 4.0,
+              "11-50 employees" : 4.31,
+              "51-200 employees" : 4.5
+            }
+          },
+          "vct_enabled" : false,
+          "pricing_plans" : [
+            {
+              "created_on_utc" : "2019-08-21T14:47:39Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Basic",
+              "description" : "The pricing starts from $125 per month for up to 1000 contacts. It increases with the increasing number of contacts and ends at $1500 per month for up to 150000 contacts.",
+              "display_order" : 1,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 125.0,
+              "ending_price" : 1000.0,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "Automatic Receipts"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "CRM"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Donor Management"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "Integrations"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 5,
+                  "name" : "Membership Management"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 6,
+                  "name" : "Project Management"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 7,
+                  "name" : "Reporting & Analytics"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 8,
+                  "name" : "Unlimited Donations"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 9,
+                  "name" : "Unlimited Emails"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 10,
+                  "name" : "Unlimited Email Support"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 11,
+                  "name" : "Unlimited Forms"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 12,
+                  "name" : "Unlimited Online Training"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 13,
+                  "name" : "Volunteer Management"
+                }
+              ]
+            }
+          ],
+          "discount_types" : [
+            {
+              "name" : "By Plan Frequency",
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

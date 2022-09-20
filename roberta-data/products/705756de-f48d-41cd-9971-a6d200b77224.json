@@ -1,0 +1,4237 @@
+{
+  "took" : 9,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 3,
+    "successful" : 3,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : {
+      "value" : 2,
+      "relation" : "eq"
+    },
+    "max_score" : 10.535126,
+    "hits" : [
+      {
+        "_index" : "product_listings_main_data_upc_vt20220920_043802_utc",
+        "_type" : "_doc",
+        "_id" : "113348_hpm",
+        "_score" : 10.535126,
+        "_source" : {
+          "product_id" : 113348,
+          "seo_product_id" : 224647,
+          "seo_slug" : "WebRezPro",
+          "product_name" : "WebRezPro",
+          "upc_product_uuid" : "705756de-f48d-41cd-9971-a6d200b77224",
+          "old_product_ids" : [
+            224647,
+            163456
+          ],
+          "product_url" : "https://webrezpro.com/free-demo/?utm_source=capterra&utm_medium=cpc&utm_campaign=hotels",
+          "product_slug" : "WebRezPro",
+          "former_name" : "WebRezPro",
+          "logo_filepath" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/f51486be-e990-4abb-8ef9-5521827359ed.png",
+          "vendor" : {
+            "vendor_id" : 2076709,
+            "vendor_name" : "World Web Technologies",
+            "vendor_url" : "http://www.webrezpro.com/",
+            "year_founded" : 1994,
+            "location" : "Canada",
+            "vendor_opted_out_of_reviews" : true,
+            "is_opted_out_of_reviews" : false,
+            "is_hit_limit" : false,
+            "enabled" : true,
+            "has_vendor_level_page" : false,
+            "slug" : null,
+            "vendor_page" : false,
+            "paused_campaign" : false
+          },
+          "category_short_name" : "hpm",
+          "category_html_name" : "hospitality-property-management-software",
+          "category" : {
+            "id" : 20031,
+            "short_name" : "hpm",
+            "long_name" : "Hospitality Property Management",
+            "html_name" : "hospitality-property-management-software",
+            "enabled" : true
+          },
+          "best_category" : "hpm",
+          "is_best_category" : true,
+          "highest_cpc_category" : "hpm",
+          "is_highest_cpc_category" : true,
+          "short_desc" : "WebRezPro cloud hospitality management software streamlines operations for all types of properties, saving time and maximizing revenue.",
+          "long_desc" : "WebRezPro is an innovative, all-in-one cloud property management system that simplifies operations for independent hotels and motels, multi-property groups, inns, vacation rentals, hostels and campgrounds, saving hoteliers time and money, boosting direct bookings, and improving the guest experience. Trusted by lodging operators since 2003, WebRezPro is consistently chosen for its powerful, flexible features and excellent customer support, and is used by 2000+ properties in 45 countries.",
+          "rating" : 4.7,
+          "number_of_reviews" : 129,
+          "total_reviews" : 149,
+          "ease_of_use_rating" : 4.5,
+          "customer_support_rating" : 4.8,
+          "functionality_rating" : 4.4,
+          "value_for_money_rating" : 4.7,
+          "recommendation_rating" : 9.0,
+          "pricing_enabled" : false,
+          "pricing" : null,
+          "is_per_user" : false,
+          "fee_schedule" : "Per-Month",
+          "pricing_model" : "Per Feature",
+          "pricing_details" : null,
+          "pricing_created_on" : "2019-08-21T14:47:39Z",
+          "pricing_modified_on" : "2022-04-11T20:39:17Z",
+          "pricing_created_by" : null,
+          "pricing_modified_by" : null,
+          "pricing_vendor_pricing_url" : null,
+          "free_trial" : true,
+          "free_version" : false,
+          "target_audience" : "Hotels & Motels, Inns, Bed & Breakfasts, Vacation Rentals, Hostels, Campgrounds & RV Parks, Hotel Groups/Chains, Activity Reservations, Lodges, Cabins & Chalets.",
+          "target_users" : [
+            "1",
+            "2-10",
+            "11-50",
+            "51-200",
+            "201-500",
+            "501-1000",
+            "1000+"
+          ],
+          "platform" : [
+            {
+              "enabled" : true,
+              "name" : "Cloud, SaaS, Web-Based"
+            },
+            {
+              "enabled" : true,
+              "name" : "Desktop Mac"
+            },
+            {
+              "enabled" : true,
+              "name" : "Desktop Windows"
+            },
+            {
+              "enabled" : true,
+              "name" : "Desktop Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Linux"
+            },
+            {
+              "enabled" : true,
+              "name" : "Desktop Chromebook"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile Android"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPhone"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPad"
+            }
+          ],
+          "support" : [
+            {
+              "enabled" : true,
+              "name" : "Email Help Desk"
+            },
+            {
+              "enabled" : true,
+              "name" : "FAQ Forum"
+            },
+            {
+              "enabled" : true,
+              "name" : "Knowledgebase"
+            },
+            {
+              "enabled" : true,
+              "name" : "Phone Support"
+            },
+            {
+              "enabled" : false,
+              "name" : "24/7 Live Rep"
+            },
+            {
+              "enabled" : true,
+              "name" : "Chat"
+            }
+          ],
+          "training" : [
+            {
+              "enabled" : false,
+              "name" : "Not Offered"
+            },
+            {
+              "enabled" : true,
+              "name" : "In-Person"
+            },
+            {
+              "enabled" : true,
+              "name" : "Live Online"
+            },
+            {
+              "enabled" : true,
+              "name" : "Webinars"
+            },
+            {
+              "enabled" : true,
+              "name" : "Documentation"
+            },
+            {
+              "enabled" : true,
+              "name" : "Videos"
+            }
+          ],
+          "media" : [
+            {
+              "product_id" : 113348,
+              "vendor_id" : 2076709,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/2ff960d1-9f93-432b-9a32-6fb8ecd873df.png",
+              "caption" : "Housekeeping Report",
+              "weight" : 1,
+              "short_name" : "hpm"
+            },
+            {
+              "product_id" : 113348,
+              "vendor_id" : 2076709,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/4a35b9fd-091c-4979-b5b3-bb36a7ae01e3.png",
+              "caption" : "Client Map",
+              "weight" : 2,
+              "short_name" : "hpm"
+            },
+            {
+              "product_id" : 113348,
+              "vendor_id" : 2076709,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/2bb269cb-bfea-41ae-91e8-53450afee07d.png",
+              "caption" : "Dashboard",
+              "weight" : 3,
+              "short_name" : "hpm"
+            },
+            {
+              "product_id" : 113348,
+              "vendor_id" : 2076709,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/ce34b8af-8f1c-4ac1-8617-ce311e23b0fe.png",
+              "caption" : "Booking Engine",
+              "weight" : 4,
+              "short_name" : "hpm"
+            },
+            {
+              "product_id" : 113348,
+              "vendor_id" : 2076709,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/6041d677-d9d0-4f11-bbe1-a99b13d7f617.png",
+              "caption" : "Tape Chart",
+              "weight" : 5,
+              "short_name" : "hpm"
+            },
+            {
+              "product_id" : 113348,
+              "vendor_id" : 2076709,
+              "media_type" : "VIDEO",
+              "path_url" : "https://youtu.be/xkcsdKsGwGQ",
+              "caption" : null,
+              "weight" : 0,
+              "short_name" : "hpm"
+            }
+          ],
+          "links" : [
+            {
+              "product_id" : 113348,
+              "functional_group" : "hpm",
+              "html_code" : "https://webrezpro.com/free-demo/?utm_source=capterra&utm_medium=cpc&utm_campaign=hotels",
+              "link_name" : "Free Demo",
+              "link_priority" : 2.0
+            },
+            {
+              "product_id" : 113348,
+              "functional_group" : "hpm",
+              "html_code" : "https://webrezpro.com/price/?utm_source=capterra&utm_medium=cpc",
+              "link_name" : "Pricing",
+              "link_priority" : 3.0
+            },
+            {
+              "product_id" : 113348,
+              "functional_group" : "hpm",
+              "html_code" : "https://youtu.be/OLr0Wvc_T58",
+              "link_name" : "Intro to WebRezPro",
+              "link_priority" : 4.0
+            },
+            {
+              "product_id" : 113348,
+              "functional_group" : "hpm",
+              "html_code" : "https://youtu.be/9qrvlOlp-JA",
+              "link_name" : "WebRezPro In Action",
+              "link_priority" : 5.0
+            }
+          ],
+          "features" : [
+            {
+              "category_name" : "Hospitality Property Management",
+              "category_features" : [
+                {
+                  "name" : "Built-in Accounting",
+                  "value" : true,
+                  "id" : "4e991a56-55cb-474b-a256-2bff609b4882",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Accounting functionality within the system, not requiring 3rd party assistance"
+                },
+                {
+                  "name" : "CRM",
+                  "value" : true,
+                  "id" : "cdf8cb63-9596-4430-bcbb-92162fc532bf",
+                  "avg_rating" : 2.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Contact and lead management to track interactions and notes about clients and prospects"
+                },
+                {
+                  "name" : "Catering Management",
+                  "value" : true,
+                  "id" : "b058186d-34df-49c4-92b1-36848b907e13",
+                  "avg_rating" : 0.0,
+                  "cnt_rating" : 0,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Manage catering operations/processes"
+                },
+                {
+                  "name" : "Employee Management",
+                  "value" : true,
+                  "id" : "9510ee6b-fcb0-4f43-94ce-07023453048f",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Tracks employee schedules, availability, performance"
+                },
+                {
+                  "name" : "Extended Stay",
+                  "value" : true,
+                  "id" : "d9ee0f90-fb3b-40ef-9612-d06e2f2de846",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Designed for extended stay organizations (ie. longer than one week)"
+                },
+                {
+                  "name" : "For Vacation Rentals",
+                  "value" : true,
+                  "id" : "de48060b-e0ed-4d04-a426-74e044fc4511",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Designed for vacation rentals"
+                },
+                {
+                  "name" : "GDS/OTA Integration",
+                  "value" : true,
+                  "id" : "4114840f-a2e0-4965-83ab-0dfb5bc31681",
+                  "avg_rating" : 4.8,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 4,
+                  "pct_time_used" : 0.75,
+                  "cnt_time_critical" : 4,
+                  "pct_time_critical" : 0.75,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "List rates/occupancy on various channels (ie. online travel agencies and global distribution systems)"
+                },
+                {
+                  "name" : "Loyalty Program",
+                  "value" : true,
+                  "id" : "6b34f1a7-a35e-4df8-8d9f-639803393208",
+                  "avg_rating" : 0.0,
+                  "cnt_rating" : 0,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Marketing tool to have customers return for benefits"
+                },
+                {
+                  "name" : "Maintenance Management",
+                  "value" : true,
+                  "id" : "73ed8cb7-a67f-4a46-8acb-4fd73409c5e8",
+                  "avg_rating" : 4.2,
+                  "cnt_rating" : 5,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 4,
+                  "cnt_time_used" : 4,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 4,
+                  "pct_time_critical" : 0.25,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Assess and plan maintenance operations and updates to ensure longevity of physical assets"
+                },
+                {
+                  "name" : "Marketing Automation",
+                  "value" : true,
+                  "id" : "11cfdb79-2f7c-4116-97f7-4d6b38740131",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Automates workflows and triggers campaigns based on customer actions. "
+                },
+                {
+                  "name" : "Multi-Property",
+                  "value" : true,
+                  "id" : "e3f798a5-a086-4128-9bcc-3d03a0ea11c1",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "More than one location"
+                },
+                {
+                  "name" : "Online Booking",
+                  "value" : true,
+                  "id" : "7bb5b7f3-cec3-4f55-afc3-74dda262a6f6",
+                  "avg_rating" : 4.8,
+                  "cnt_rating" : 9,
+                  "avg_importance" : 2.86,
+                  "cnt_importance" : 7,
+                  "cnt_time_used" : 7,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 7,
+                  "pct_time_critical" : 0.857,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "End users can schedule appointments online"
+                },
+                {
+                  "name" : "Point of Sale (POS)",
+                  "value" : true,
+                  "id" : "4d8a4211-99b1-45f2-a8d9-03b96a38d16f",
+                  "avg_rating" : 4.5,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 0.667,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.333,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Accept and process financial transactions"
+                },
+                {
+                  "name" : "Single Property",
+                  "value" : true,
+                  "id" : "cf37d4d2-ed1b-45de-9286-4ed8a18d8b7a",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "One location"
+                }
+              ]
+            },
+            {
+              "category_name" : "Campground Management",
+              "category_features" : [
+                {
+                  "name" : "Guest Check-in/Check-out",
+                  "value" : true,
+                  "id" : "ccfc2774-7548-4493-bfb2-70722b8c8887",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Manually check guests in and out at the start and end of their stay, or allow guests to check themselves in and out"
+                },
+                {
+                  "name" : "Multi-Location",
+                  "value" : true,
+                  "id" : "cbb330d2-6199-479e-bc91-d95527b5dc05",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Business with more than one location/store"
+                },
+                {
+                  "name" : "Online Reservations",
+                  "value" : true,
+                  "id" : "143ffc02-7670-4605-9212-9a49808a0730",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Make and manage reservations online"
+                },
+                {
+                  "name" : "Permit Management",
+                  "value" : false,
+                  "id" : "8ea87ebe-1ca4-4d70-868d-84fb206bbe8b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Ensure actions, related to permits, are followed in order to ensure company-wide compliance"
+                },
+                {
+                  "name" : "Point of Sale (POS)",
+                  "value" : true,
+                  "id" : "4d8a4211-99b1-45f2-a8d9-03b96a38d16f",
+                  "avg_rating" : 4.5,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 0.667,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.333,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Accept and process financial transactions"
+                },
+                {
+                  "name" : "Rental Management",
+                  "value" : false,
+                  "id" : "6dc063f5-451e-452f-b4e4-d39752db034a",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Manage rental of equipment including scheduling, check-in/out, payments etc."
+                },
+                {
+                  "name" : "Site Maps",
+                  "value" : true,
+                  "id" : "63bc7cff-3a8c-4488-aeb5-7487990482d4",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Manage site maps showing plots, availability, utilities etc."
+                },
+                {
+                  "name" : "Site Reservation Management",
+                  "value" : true,
+                  "id" : "0ab6a83e-8e83-46e5-9c0e-805227185700",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Create and manage reservations for individual camping sites/plots"
+                },
+                {
+                  "name" : "Utility Billing",
+                  "value" : false,
+                  "id" : "5f7ac0dc-f058-4e8c-9d0f-366a4ec2de4d",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Measure and bill for utilities usage including water, electric, gas etc."
+                }
+              ]
+            },
+            {
+              "category_name" : "Hostel Management",
+              "category_features" : [
+                {
+                  "name" : "Cash Management",
+                  "value" : true,
+                  "id" : "4c1b745f-fe1e-4baa-bb19-f2b09961407c",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Dorms",
+                  "value" : true,
+                  "id" : "ed8b2c76-e18b-44b2-a50a-63056ee3f546",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Employee Management",
+                  "value" : true,
+                  "id" : "9510ee6b-fcb0-4f43-94ce-07023453048f",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Tracks employee schedules, availability, performance"
+                },
+                {
+                  "name" : "GDS/OTA Integration",
+                  "value" : true,
+                  "id" : "4114840f-a2e0-4965-83ab-0dfb5bc31681",
+                  "avg_rating" : 4.8,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 4,
+                  "pct_time_used" : 0.75,
+                  "cnt_time_critical" : 4,
+                  "pct_time_critical" : 0.75,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Housekeeping Management",
+                  "value" : true,
+                  "id" : "dac5e46f-01f3-4746-93ea-95d53a6b0b1e",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 6,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 4,
+                  "cnt_time_used" : 5,
+                  "pct_time_used" : 0.8,
+                  "cnt_time_critical" : 5,
+                  "pct_time_critical" : 0.4,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Multi-Property",
+                  "value" : true,
+                  "id" : "e3f798a5-a086-4128-9bcc-3d03a0ea11c1",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Online Booking",
+                  "value" : true,
+                  "id" : "7bb5b7f3-cec3-4f55-afc3-74dda262a6f6",
+                  "avg_rating" : 4.8,
+                  "cnt_rating" : 9,
+                  "avg_importance" : 2.86,
+                  "cnt_importance" : 7,
+                  "cnt_time_used" : 7,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 7,
+                  "pct_time_critical" : 0.857,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Point of Sale (POS)",
+                  "value" : true,
+                  "id" : "4d8a4211-99b1-45f2-a8d9-03b96a38d16f",
+                  "avg_rating" : 4.5,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 0.667,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.333,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Accept and process financial transactions"
+                },
+                {
+                  "name" : "Price Optimization",
+                  "value" : true,
+                  "id" : "a1c8b58f-aa8f-424c-a7fb-e7cf4bc21a0d",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Private Rooms",
+                  "value" : true,
+                  "id" : "28fc26a0-92ba-4e06-8bf3-2a0f66d5ce74",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Reputation Management",
+                  "value" : true,
+                  "id" : "1838c181-658d-468e-a040-3b1aa334fc8f",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Reservations Management",
+                  "value" : true,
+                  "id" : "2c5a8d06-ebae-4893-9c73-faf509f507a7",
+                  "avg_rating" : 4.8,
+                  "cnt_rating" : 9,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 8,
+                  "cnt_time_used" : 8,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 8,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Create and manage reservations"
+                }
+              ]
+            }
+          ],
+          "infographics" : [
+            {
+              "product_id" : 113348,
+              "html_name" : "hospitality-property-management-software",
+              "infographic_type" : "general_t20",
+              "infographic_title" : null
+            },
+            {
+              "product_id" : 113348,
+              "html_name" : "hospitality-property-management-software",
+              "infographic_type" : "popular",
+              "infographic_title" : "Hospitality Property Management Software"
+            },
+            {
+              "product_id" : 113348,
+              "html_name" : "rental-property-management-software",
+              "infographic_type" : "short_list",
+              "infographic_title" : null
+            },
+            {
+              "product_id" : 113348,
+              "html_name" : "vacation-rental-software",
+              "infographic_type" : "general_t20",
+              "infographic_title" : null
+            }
+          ],
+          "related_products" : [
+            {
+              "product_id" : 147657,
+              "seo_product_id" : 220947,
+              "seo_slug" : "mondaycom",
+              "vendor_name" : "monday.com",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/82b193f0-9406-4cf6-90d9-a0f265d61f54.png",
+              "rating" : 4.6,
+              "total_reviews" : 2635,
+              "slug" : "monday-com",
+              "product_name" : "monday.com",
+              "short_desc" : "monday.com is a cloud Work OS, where teams run their projects and everyday work, whether they are in the office, home or on-the-go.",
+              "features" : "monday.com is a Hospitality Property management software your team will actually enjoy using. It makes it fun and easy for everyone to collaborate, focus on what's important, and get more done at work. It's the first visual software of its kind and shows you exactly where things stand at a single glance. Finally get rid of painfully long email threads, cut down on meetings, and experience the satisfaction of turning things green when they're done.",
+              "url" : "https://monday.com/lp/aw/crm-software?utm_medium=cpc&utm_campaign=ww-en-prm-crm-workos-desktop-hospitality_property_management-listing-core&utm_adgroup=hospitality_property_management"
+            },
+            {
+              "product_id" : 131924,
+              "seo_product_id" : 152489,
+              "seo_slug" : "Lodgify",
+              "vendor_name" : "Lodgify",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/ed1f90c9-8004-48d2-9219-deb4ac31ab4e.png",
+              "rating" : 4.4,
+              "total_reviews" : 442,
+              "slug" : "Lodgify",
+              "product_name" : "Lodgify",
+              "short_desc" : "With Lodgify you can build a vacation rental website, receive direct bookings and manage all your reservations from one place.",
+              "features" : "Lodgify's  hospitality property management makes your business a lot more efficient by allowing you to manage your rental bookings, tasks, finances and guest communications from one place. Receive all reservations from your vacation rental website, phone and any external listings in one centralized calendar. Easily approve incoming bookings and create manual quotes for your guests using our property management system.",
+              "url" : "https://use.lodgify.com/capterra-ppc?utm_source=capterra&utm_medium=cpc&utm_campaign=Bofu_USA_EN_propertymanagement&utm_content=destination-url#tk-Source_capterra$Medium_cpc$Campaign_Bofu_USA_EN_propertymanagement$Content_destination-url"
+            },
+            {
+              "product_id" : 66294,
+              "seo_product_id" : 8499,
+              "seo_slug" : "RezOvation-Web",
+              "vendor_name" : "eviivo",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/b20d0ce1-eee4-4b64-ac1d-d9f002f1131b.png",
+              "rating" : 4.0,
+              "total_reviews" : 322,
+              "slug" : "eviivo-suite",
+              "product_name" : "eviivo",
+              "short_desc" : "eviivo is the original all-in-one booking suite. Our award-winning software is the simple way to manage guests, bookings and OTAs. ",
+              "features" : "eviivo is the original all-in-one booking suite and industry leader in managing guests, bookings and OTAs. Channels sing to your tune as rates, availability, photos, descriptions, policies and more automatically sync and update across all your OTAs. Superior features include a stunning website and email designer, an intelligent payment solution and essential dashboards, all in our award-winning property management system. See why eviivo is trusted by over 20,000 properties worldwide!",
+              "url" : "https://eviivo.com/us/hospitality-property-management-software/?utm_source=capterra&utm_medium=cpc&utm_content=hospitality-pms-category"
+            },
+            {
+              "product_id" : 152433,
+              "seo_product_id" : 152433,
+              "seo_slug" : "Hostaway",
+              "vendor_name" : "Hostaway",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e706b8af-6bf7-4cc2-bb55-f44a4c6d65f9.png",
+              "rating" : 4.7,
+              "total_reviews" : 311,
+              "slug" : "Hostaway",
+              "product_name" : "Hostaway",
+              "short_desc" : "Hostaway is the fastest-growing vacation rental software for professional property managers in the world! More bookings. Less hassle.",
+              "features" : "Hostaway has become a market leader in marketing, sales, management, reporting, and communication for vacation rental property managers. One of the largest marketplaces in the industry and deep integrations with Airbnb, VRBO, Expedia, Booking.com, etc, property managers can increase exposure while saving time and money. Have a unique business model? We are the most versatile solution available. Trusted by thousands of property managers, Hostaway is known for stability, performance, and service.",
+              "url" : "https://www.hostaway.com/?utm_source=capterra&utm_medium=ppc&utm_campaign=hospitality_property_management&utm_term=destination_url_pricing&utm_content=homepage"
+            },
+            {
+              "product_id" : 129392,
+              "seo_product_id" : 225127,
+              "seo_slug" : "ResNexus",
+              "vendor_name" : "ResNexus",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/c445ac98-5690-42c5-959b-f07b8635e583.png",
+              "rating" : 4.7,
+              "total_reviews" : 295,
+              "slug" : "Reservation-Nexus",
+              "product_name" : "ResNexus",
+              "short_desc" : "Online bookings and guest management system that provides reservation sources tracking, group reservations, calendar with reminders.",
+              "features" : "Online bookings and guest management system that provides reservation sources tracking, group reservations, calendar with reminders, and more. Professional Edition includes yield management, point-of-sale, and email marketing capabilities.",
+              "url" : "https://software-info.gartnerdigitalmarkets.com/resnexus-reservation-and-property-mgmt-gdm/?directory=hospitality-property-management"
+            },
+            {
+              "product_id" : 99249,
+              "seo_product_id" : 221500,
+              "seo_slug" : "Checkfront",
+              "vendor_name" : "Checkfront",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/2c04f113-83b3-4615-8861-afa32ae0bb07.png",
+              "rating" : 4.5,
+              "total_reviews" : 284,
+              "slug" : "Checkfront",
+              "product_name" : "Checkfront",
+              "short_desc" : "Manage your inventories online, centralize reservations, process payments and get unified access to leading distribution channels.",
+              "features" : "Checkfront is a booking management platform trusted by thousands of tour operators worldwide. Our platform empowers businesses to sell tours and activities on any website by providing live inventory management, dynamic pricing, customer notifications, and channel distribution. Checkfront makes it easy to grow your business by automating your administration and housing all your business tools in one place.",
+              "url" : "https://www.checkfront.com/hospitality-booking-software?utm_source=gartner_ppc&utm_medium=paid_listing&utm_campaign=hospitality"
+            },
+            {
+              "product_id" : 135751,
+              "seo_product_id" : 221190,
+              "seo_slug" : "eZee-Absolute",
+              "vendor_name" : "eZee Technosys",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8df1d8e1-0145-468b-bbfc-92076087d546.png",
+              "rating" : 4.5,
+              "total_reviews" : 264,
+              "slug" : "eZee-Absolute",
+              "product_name" : "eZee Absolute",
+              "short_desc" : "eZee Absolute is a Cloud-Based Hotel Management System which automates a hotel's day-to-day operations and increases hotel revenue.",
+              "features" : "eZee Absolute is a complete cloud-based hotel PMS system that automates all hotel operations; namely front-office, back-office, reservations, billing, housekeeping to impart the best guest experience and increase revenue. It is packed with integrated booking engine and channel manager to provide an all-in-one hotel solution. \r\n\r\nIt is a perfect fit for all types and sizes of accommodations viz. hotels, motels, guest houses, B&Bs, serviced and boutique apartments, hostels, and hotel groups.",
+              "url" : "https://pages.ezeeabsolute.com/hotel-management-system-capterra"
+            },
+            {
+              "product_id" : 158839,
+              "seo_product_id" : 222684,
+              "seo_slug" : "Cloudbeds",
+              "vendor_name" : "Cloudbeds",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/22bc7265-2501-4f95-9965-0a9b683a5c7d.png",
+              "rating" : 4.6,
+              "total_reviews" : 263,
+              "slug" : "Cloudbeds",
+              "product_name" : "Cloudbeds",
+              "short_desc" : "Cloudbeds offers a single platform for you to efficiently manage guests, staff, inventory, pricing, and data in real-time.",
+              "features" : "Cloudbeds is an easy-to-use hospitality platform that offers hoteliers a centralized solution to help run their property simply and effectively. With Cloudbeds, you have one login and one system that is always in sync.  \n\nOur suite includes a PMS, Booking Engine, Channel Manager with 300+ connections, Revenue Management Tool, and Payments. Trusted by thousands of Hotels in over 148 countries, our solution helps hotels get more reservations and happier guests.\n",
+              "url" : "https://www.cloudbeds.com/request-a-demo/?utm_campaign=capterra_hospitality_management&utm_medium=cpc"
+            },
+            {
+              "product_id" : 103570,
+              "seo_product_id" : 223525,
+              "seo_slug" : "Sirvoy",
+              "vendor_name" : "Sirvoy",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/eb86d6e3-d63a-495d-a309-57409d3ea14a.png",
+              "rating" : 4.7,
+              "total_reviews" : 239,
+              "slug" : "Sirvoy-Booking-System",
+              "product_name" : "Sirvoy",
+              "short_desc" : "An easy-to-use and low cost online booking system created for hotels, B&B's and hostels. Try it free with no commitment. ",
+              "features" : "Sirvoy offers a suite of property management tools which include a Property Management System, Booking Engine, Website Builder and integrated Channel Manager. It's powerful, feature full system is incredibly easy to use offering hoteliers the flexibility to tailor the software to suit the needs of their property. Sirvoy's simplicity means setup is effortless and Customer Service is available 24/7 for ongoing training and support. ",
+              "url" : "https://sirvoy.com/"
+            },
+            {
+              "product_id" : 157033,
+              "seo_product_id" : 224820,
+              "seo_slug" : "iGMS",
+              "vendor_name" : "iGMS",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/ae580649-ecd0-4751-a4d1-1e7e81c6b026.png",
+              "rating" : 4.6,
+              "total_reviews" : 226,
+              "slug" : "iGMS",
+              "product_name" : "iGMS",
+              "short_desc" : "iGMS is an all-in-one software integrated with robust tools to automate STR business management. Simplify hosting with a 14-day trial!",
+              "features" : "iGMS is the only vacation rental software that automates up to 90% of daily hosting tasks & management. Easily control all OTA accounts like Airbnb, Booking.com, & Vrbo from one multi-calendar. Grow direct bookings with our intuitive Website Builder. Automate your guest communication & cleanings management, accept payments and monitor your financial performance with ease. Collaborate with your team & use rich direct integrations to grow your revenue. Try 14 days for free (no credit card).",
+              "url" : "https://www.igms.com/software/free-demo/?utm_source=Capterra&utm_medium=cpc"
+            },
+            {
+              "product_id" : 135307,
+              "seo_product_id" : 216982,
+              "seo_slug" : "innRoad",
+              "vendor_name" : "innRoad",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/fe614bcf-1868-4cbc-aaac-580d0bd5addd.jpeg",
+              "rating" : 4.5,
+              "total_reviews" : 217,
+              "slug" : "innRoad",
+              "product_name" : "innRoad",
+              "short_desc" : "innRoad is an award-winning, all-in-one property management system designed to meet the needs of hospitality businesses of all sizes.",
+              "features" : "innRoad's award-winning property management system is trusted by thousands of hoteliers around the world. This all-in-one software is specifically designed to save time, increase occupancy, boost revenue and provide guests with a seamless booking experience. Customers report a 20% increase in direct bookings and a 10% increase in room revenue when switching to innRoad. innRoad's all in one solution offers 24/7 live support, unlimited training, new monthly features, and free data migration. ",
+              "url" : "https://info.innroad.com/gartner-hpms-demo"
+            }
+          ],
+          "similar_products" : [
+            {
+              "product_id" : 135307,
+              "seo_product_id" : 216982,
+              "seo_slug" : "innRoad",
+              "vendor_name" : "innRoad",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/fe614bcf-1868-4cbc-aaac-580d0bd5addd.jpeg",
+              "rating" : 4.5,
+              "total_reviews" : 217,
+              "slug" : "innRoad",
+              "product_name" : "innRoad",
+              "short_desc" : "innRoad is an award-winning, all-in-one property management system designed to meet the needs of hospitality businesses of all sizes.",
+              "features" : "innRoad's award-winning property management system is trusted by thousands of hoteliers around the world. This all-in-one software is specifically designed to save time, increase occupancy, boost revenue and provide guests with a seamless booking experience. Customers report a 20% increase in direct bookings and a 10% increase in room revenue when switching to innRoad. innRoad's all in one solution offers 24/7 live support, unlimited training, new monthly features, and free data migration. ",
+              "url" : "https://info.innroad.com/gartner-hpms-demo"
+            },
+            {
+              "product_id" : 144307,
+              "seo_product_id" : 220253,
+              "seo_slug" : "Little-Hotelier",
+              "vendor_name" : "SiteMinder",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/a42c73bc-3d34-443e-8438-23cc4ab87fcc.png",
+              "rating" : 4.1,
+              "total_reviews" : 140,
+              "slug" : "Little-Hotelier",
+              "product_name" : "Little Hotelier",
+              "short_desc" : "Easily get bookings, & manage reservations & payments from anywhere, with the world's most trusted hotel software for small properties",
+              "features" : "Trusted by most small, independent properties globally, the Little Hotelier platform helps you get more reservations, control your operations, understand your business, have a website, take direct bookings online, & process payments - even on-the-go with our free mobile app. Designed and built with small properties in mind, our platform is simple, our set-up is quick, and our award-winning 24/7 help is always just one click away. Try free for 30 days. No Credit Card. Cancel anytime.",
+              "url" : "http://www.littlehotelier.com/?utm_source=referral_affiliation_capterra&utm_medium=referral&utm_campaign=lh_capterra_profile_home&offer=none&productinterest=lh"
+            },
+            {
+              "product_id" : 182891,
+              "seo_product_id" : 182891,
+              "seo_slug" : "ThinkReservations",
+              "vendor_name" : "ThinkReservations",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/c0f392e0-49c9-451f-9b7b-b515e0397f36.png",
+              "rating" : 5.0,
+              "total_reviews" : 103,
+              "slug" : "ThinkReservations",
+              "product_name" : "ThinkReservations",
+              "short_desc" : "The property management system, online booking engine, and channel manager for your bed & breakfast, boutique hotel, or property group.",
+              "features" : "\nRunning a high-end independent bed & breakfast, boutique hotel, or property group isn't easy. We know because we've been there. You strive to provide your guests with a luxury experience. ThinkReservations makes it simple for you and your staff to make that happen. Whether you're just starting your business or looking to take things to the next level, our all-in-one PMS, booking engine, and channel manager is for you. Take back your time. Increase your revenue. Stand out without burning out.",
+              "url" : "https://info.gartnerdigitalmarkets.com/thinkreservations-gdm-lp"
+            },
+            {
+              "product_id" : 144942,
+              "seo_product_id" : 226383,
+              "seo_slug" : "NewBook",
+              "vendor_name" : "NewBook",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/bc6c4a54-049f-4fbe-acd8-6f9c50663368.png",
+              "rating" : 4.9,
+              "total_reviews" : 35,
+              "slug" : "NewBook",
+              "product_name" : "NewBook",
+              "short_desc" : "NewBook's all-in-one property management suite is the most comprehensive solution for accommodation providers around the world.",
+              "features" : "If you're looking for a way to increase bookings, boost revenue, and save valuable time and money, look no further! NewBook is an all-in-one property management suite designed to help accommodation providers manage their businesses within one central platform. Complete with all the tools you need to succeed, it's the most comprehensive property management solution available on the market. ",
+              "url" : "http://www.newbook.cloud/"
+            },
+            {
+              "product_id" : 253892,
+              "seo_product_id" : 253892,
+              "seo_slug" : "Solonis",
+              "vendor_name" : "RMS",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/ea1744e0-bfa7-410c-88cd-e293d6562ae7.png",
+              "rating" : 0.0,
+              "total_reviews" : 0,
+              "slug" : "Solonis",
+              "product_name" : "Solonis",
+              "short_desc" : "Solonis is a cloud-based property management solution for hotels that offers booking charts, reports, utilities, reservations & more. ",
+              "features" : "Solonis is a cloud-based integrated property management system powered by an intuitive business intelligence platform. Designed by hospitality executives to serve the often fragmented operations of hotels, resorts, and other hospitality venues, properties using Solonis realize increased occupancy, enhanced guest experience, and revenue optimization.  ",
+              "url" : "https://solonis.com/"
+            },
+            {
+              "product_id" : 5937,
+              "seo_product_id" : 5937,
+              "seo_slug" : "RoomKeyPMS",
+              "vendor_name" : "RoomKeyPMS",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4e184275-e8d0-47c4-aad2-66fdf888de31.png",
+              "rating" : 4.1,
+              "total_reviews" : 58,
+              "slug" : "RoomKeyPMS",
+              "product_name" : "RoomKeyPMS",
+              "short_desc" : "Deliver better guest experiences, increase revenue, and reduce costs with one PMS that works, supported by a team of experts.",
+              "features" : "RoomKeyPMS provides a PMS that gives independent hotels an advantage by making it easier and more affordable to provide the best guest experiences, increase revenue and reduce costs. With over 70,000 managed rooms across the US and Canada, they have proven themselves as a trusted hotel industry partner for almost 20 years. In addition to delivering a reliable, well-connected PMS, they pride themselves on superior customer service with their locally-based support team made up of former hoteliers.",
+              "url" : "https://roomkeypms.com/capterra/"
+            },
+            {
+              "product_id" : 248560,
+              "seo_product_id" : 248560,
+              "seo_slug" : "Jurny",
+              "vendor_name" : "Jurny",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8a36870f-0e41-4897-a176-b8fdeefda8a5.png",
+              "rating" : 4.8,
+              "total_reviews" : 4,
+              "slug" : "Jurny",
+              "product_name" : "Jurny",
+              "short_desc" : "Fully automate your guest experience & entire operation. For the first time, all-in-one place, all-in-one system.",
+              "features" : "\nConsolidate all your apps, dashboards, fees, and providers all in one place. Jurny has built the industry's first vertically integrated system. AI pricing, smart access control, noise sensor dashboard, guest verification software, PMS, messaging, channel management, cleaning management software, online reputation tracker, and more all-in-one system, all-in-one dashboard.\n\nTake your operation and guest experience to the next level and join us on this new wave of the hospitality revolution.\n",
+              "url" : "https://www.jurny.com/request-a-demo"
+            },
+            {
+              "product_id" : 40773,
+              "seo_product_id" : 40773,
+              "seo_slug" : "RezStream-Cloud-PMS",
+              "vendor_name" : "rezStream",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/434ed9ff-eeb7-4268-86ad-938ae246f897.png",
+              "rating" : 4.6,
+              "total_reviews" : 75,
+              "slug" : "RezStream-Cloud-PMS",
+              "product_name" : "rezStream",
+              "short_desc" : "rezStream offers an easy-to-use solution that captures more reservations online AND simplifies how you manage operations. ",
+              "features" : "Partner with rezStream for a Cloud-based property management system and online booking engine. Our modern solution will simplify the way you manage your day-to-day operations AND drive more bookings! Schedule automatic emails, easily set and manage rates, offer contactless check-ins, and connect to over 80 OTAs with our channel manager. \n\nWe offer a true one-stop-shop Suite offering with a 99% customer satisfaction rating and 24/7 support. Schedule your demo today!",
+              "url" : "https://www.rezstream.com/cpc-capterra?utm_source=capterra&utm_campaign=rezStream%20Cloud%20PMS&utm_medium=listing"
+            },
+            {
+              "product_id" : 186608,
+              "seo_product_id" : 223679,
+              "seo_slug" : "Jonas-Chorum",
+              "vendor_name" : "Jonas Chorum",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/085489be-45f7-4457-895f-358c34f31642.png",
+              "rating" : 4.4,
+              "total_reviews" : 44,
+              "slug" : "Jonas-Chorum",
+              "product_name" : "Jonas Chorum",
+              "short_desc" : "Suite of property management solutions, designed to provide hotels with everything they need to operate efficiently.",
+              "features" : "Jonas Chorum is a suite of streamlined, intuitive and flexible property management solutions, designed to provide hotels with everything they need to operate more efficiently and cost effectively, all while delivering a personalized guest experience. The cloud-based platform features a lineup of high-tech applications and user-friendly features, making it a superior software solution for independent hotels, chain hotels and hotel management companies.",
+              "url" : "https://go.jonaschorum.com/capterra-request-demo/"
+            },
+            {
+              "product_id" : 159377,
+              "seo_product_id" : 224680,
+              "seo_slug" : "Guesty",
+              "vendor_name" : "Guesty",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/6630536c-9311-4b0e-b6d9-fc05cdf915cf.png",
+              "rating" : 4.5,
+              "total_reviews" : 179,
+              "slug" : "Guesty",
+              "product_name" : "Guesty",
+              "short_desc" : "Guesty is a powerful & robust platform that allows property management companies to simplify operations and scale their businesses. ",
+              "features" : "Guesty is an end-to-end platform for professional vacation rental management companies with 5+ listings. The robust software has 15+ features for all aspects of hospitality property management including channel management, automated guest communication, accounting, task management, payment processing, and more, making your guests' stay smoother & more enjoyable. Guesty integrates with dozens of tools in their marketplace, centralizing operations so users can manage everything from one place.",
+              "url" : "https://www.guesty.com/?utm_source=capterra&utm_medium=paid&utm_campaign=capterra"
+            },
+            {
+              "product_id" : 158839,
+              "seo_product_id" : 222684,
+              "seo_slug" : "Cloudbeds",
+              "vendor_name" : "Cloudbeds",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/22bc7265-2501-4f95-9965-0a9b683a5c7d.png",
+              "rating" : 4.6,
+              "total_reviews" : 263,
+              "slug" : "Cloudbeds",
+              "product_name" : "Cloudbeds",
+              "short_desc" : "Cloudbeds offers a single platform for you to efficiently manage guests, staff, inventory, pricing, and data in real-time.",
+              "features" : "Cloudbeds is an easy-to-use hospitality platform that offers hoteliers a centralized solution to help run their property simply and effectively. With Cloudbeds, you have one login and one system that is always in sync.  \n\nOur suite includes a PMS, Booking Engine, Channel Manager with 300+ connections, Revenue Management Tool, and Payments. Trusted by thousands of Hotels in over 148 countries, our solution helps hotels get more reservations and happier guests.\n",
+              "url" : "https://www.cloudbeds.com/request-a-demo/?utm_campaign=capterra_hospitality_management&utm_medium=cpc"
+            },
+            {
+              "product_id" : 152433,
+              "seo_product_id" : 152433,
+              "seo_slug" : "Hostaway",
+              "vendor_name" : "Hostaway",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e706b8af-6bf7-4cc2-bb55-f44a4c6d65f9.png",
+              "rating" : 4.7,
+              "total_reviews" : 311,
+              "slug" : "Hostaway",
+              "product_name" : "Hostaway",
+              "short_desc" : "Hostaway is the fastest-growing vacation rental software for professional property managers in the world! More bookings. Less hassle.",
+              "features" : "Hostaway has become a market leader in marketing, sales, management, reporting, and communication for vacation rental property managers. One of the largest marketplaces in the industry and deep integrations with Airbnb, VRBO, Expedia, Booking.com, etc, property managers can increase exposure while saving time and money. Have a unique business model? We are the most versatile solution available. Trusted by thousands of property managers, Hostaway is known for stability, performance, and service.",
+              "url" : "https://www.hostaway.com/?utm_source=capterra&utm_medium=ppc&utm_campaign=general&utm_term=destination_url_pricing&utm_content=homepage"
+            }
+          ],
+          "related_categories" : [
+            {
+              "functional_group" : "hpm",
+              "long_name" : "Real Estate Property Management",
+              "html_name" : "real-estate-property-management-software",
+              "link_name" : "real-estate-property-management",
+              "product_count" : 163,
+              "meta_description" : "Find and compare top Real Estate Property Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Real Estate Property Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/real-estate-property-management-software>Real Estate Property Management software</a> automates back office, financial, and operational tools for real estate property managers. These applications provide rental management software tools for apartments, rental housing, commercial property, mobile home parks, storage facilities and property owner associations and enable users to track tenant information, vacancies, and leasing agreements.  Real Estate Property Management solutions enable reporting on revenue generation, operational costs, cash flow, budgeting and forecasting.  <a href=/real-estate-property-management-software>Real Estate Property Management software</a> is related to <a href=/hospitality-property-management-software>Hospitality Property Management software</a>, <a href=/lease-management-software>Lease Management software</a> and <a href=/real-estate-agency-software>Real Estate Agency software</a>.  "
+            },
+            {
+              "functional_group" : "hpm",
+              "long_name" : "Rental",
+              "html_name" : "rental-software",
+              "link_name" : "rental",
+              "product_count" : 67,
+              "meta_description" : "Find and compare top Rental software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Rental tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/rental-software>Rental software</a> automates business management, record keeping, and accounting for rental businesses, including retail stores and rental property management firms.  These applications enable the automation and integration of core business processes such as <a href=\"/point-of-sale-software\">point of sale (POS)</a>, <a href=\"/customer-relationship-management-software\">Customer Relationship Management (CRM)</a>, <a href=\"/accounting-software\">accounting</a> and <a href=\"/inventory-management-software\">inventory management</a> as well as customer satisfaction tools.   <a href=/rental-software>Rental software</a> is related to <a href=/hospitality-property-management-software>Hospitality Property Management software</a>."
+            },
+            {
+              "functional_group" : "hpm",
+              "long_name" : "Reservations",
+              "html_name" : "reservations-software",
+              "link_name" : "reservations",
+              "product_count" : 174,
+              "meta_description" : "Find and compare top Reservations software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Reservations tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/reservations-software>Reservations software</a> manages hospitality industry reservations including web-based and onsite solutions. These applications offer a variety of customizable features designed to suit a wide variety of hospitality clients from hotels, motels, condos, and hostels to travel agents and tour operators. Organizations use Reservations software to speed the processing of information and increase the efficient use of available space. These solutions also typically provide integrated tools for a wide variety of business features from accounting and revenue reporting to maintenance and housekeeping management   <a href=/reservations-software>Reservations software</a> is related to <a href=/hospitality-property-management-software>Hospitality Property Management software</a>, <a href=/rental-software>Rental software</a>, <a href=/tour-operator-software>Tour Operator software</a> and <a href=/travel-agency-software>Travel Agency software</a>."
+            }
+          ],
+          "is_upgraded" : true,
+          "enabled" : true,
+          "filter_options" : {
+            "users" : 127,
+            "platform" : 975,
+            "pricing_options" : 18,
+            "category_related_features" : [
+              18829,
+              18832,
+              18837,
+              18838,
+              18839,
+              18841,
+              18843,
+              18847,
+              29491,
+              29492,
+              32236,
+              35745,
+              35746,
+              36184,
+              38589,
+              38590,
+              38591,
+              38592,
+              38593,
+              38595,
+              38596,
+              38597,
+              38598,
+              52724,
+              52725,
+              52726,
+              52727,
+              52729,
+              52730,
+              52731,
+              52732,
+              52733,
+              52734,
+              52735,
+              52736,
+              52737,
+              52738,
+              52739,
+              52740,
+              52741,
+              52742,
+              52743,
+              52744,
+              52745,
+              52746,
+              52747,
+              52748,
+              52749,
+              52750
+            ],
+            "employees" : 127
+          },
+          "sort_options" : {
+            "sort_review_rating" : 4.667733669281006,
+            "most_recent_review" : "2022-09-07T18:23:40Z"
+          },
+          "countries" : "AN,MQ,CR,BZ,PA,VI,VG,US,UK,TC,TT,VC,PM,MF,ME,MC,MX,JE,JM,IM,IE,IS,HT,GG,GP,GD,GL,GR,DO,DM,CU,KY,CA,BM,BB,BS,AW,AG,AI,AX,MS,LC,KN,PR",
+          "features_tokenized_text" : "built-in_accounting catering_management crm employee_management extended_stay for_vacation_rentals gds/ota_integration loyalty_program maintenance_management marketing_automation multi-property online_booking point_of_sale_(pos) single_property",
+          "platform_tokenized_text" : "cloud,saas,web-based desktopmac desktopwindows desktoplinux desktopchromebook mobileandroid mobileiphone mobileipad",
+          "users_tokenized_text" : "1 2-10 11-50 51-200 201-500 501-1000 1000+",
+          "pricing_tokenized_text" : "monthlysubscription freetrial",
+          "badges" : [
+            {
+              "id" : 2139,
+              "category_short_name" : "Hospitality Property Management",
+              "category_html_name" : "hospitality-property-management-software",
+              "published_year" : 2020,
+              "badge_type" : "Top 20"
+            },
+            {
+              "id" : 2128,
+              "category_short_name" : "Vacation Rental",
+              "category_html_name" : "vacation-rental-software",
+              "published_year" : 2020,
+              "badge_type" : "Top 20"
+            }
+          ],
+          "bid_spot_us" : 8.0,
+          "currency_code" : "USD",
+          "currency_symbol" : "$",
+          "credit_card_required" : "Unverified",
+          "licensing_model" : null,
+          "open_api_offered" : "Unverified",
+          "mobile_urls" : [
+            {
+              "name" : "Android",
+              "url" : "https://webrezpro.com/"
+            },
+            {
+              "name" : "iOS",
+              "url" : "https://webrezpro.com/"
+            }
+          ],
+          "integrations" : [
+            {
+              "id" : "df812352-233a-40b1-b1a0-a6d200b5b240",
+              "name" : "PixelPoint POS"
+            },
+            {
+              "id" : "f2ada79d-499e-414e-b480-a6d200b77ff8",
+              "name" : "Windstream Virtual PBX VoIP"
+            },
+            {
+              "id" : "d101ed08-2c2a-4989-a309-a6d200b7f02d",
+              "name" : "Revinate"
+            },
+            {
+              "id" : "a4d8b9eb-96c2-4d36-9760-a70400814aa4",
+              "name" : "Lightspeed POS"
+            },
+            {
+              "id" : "71a8d6a2-6057-40d0-907d-a753009f5182",
+              "name" : "Nuvola"
+            },
+            {
+              "id" : "b96980ba-e246-49ef-b4bf-a7ed007f76fd",
+              "name" : "Mitel Business Phones"
+            },
+            {
+              "id" : "39b7d91e-24ad-4871-8bd1-a83b00672485",
+              "name" : "Worldline"
+            },
+            {
+              "id" : "9df62b65-010a-453e-ba98-a8420037b321",
+              "name" : "ALICE"
+            },
+            {
+              "id" : "db252404-b2fd-41c5-a034-a87900676b31",
+              "name" : "Intello"
+            },
+            {
+              "id" : "fa2754bb-1a13-458e-8d10-a93400522e82",
+              "name" : "NAVIS Suite"
+            },
+            {
+              "id" : "10bfac01-b995-40b6-aa5c-a93c00592fb1",
+              "name" : "SuiteCRM Twilio SMS Service"
+            },
+            {
+              "id" : "0005d6ce-9d81-41f0-bb71-a6d200b5007e",
+              "name" : "Maitre'D"
+            },
+            {
+              "id" : "ca2f6f92-e742-491a-9c0a-a6d200b44a29",
+              "name" : "GuestCentric"
+            },
+            {
+              "id" : "bcdd9473-58dd-4c24-a82a-a6d200b601d6",
+              "name" : "Quickbooks Online"
+            },
+            {
+              "id" : "cedd2fcf-2b94-4af7-a9e9-a6d200b696d4",
+              "name" : "SiteMinder"
+            },
+            {
+              "id" : "17d603a0-eaa9-493a-9e61-08452f4e99e0",
+              "name" : "Novera"
+            },
+            {
+              "id" : "1a8e7b47-dc9f-49bd-b2df-0b708b26848a",
+              "name" : "Voila"
+            },
+            {
+              "id" : "c912203d-aa00-4c78-b098-0e7bc59f136b",
+              "name" : "Hapi"
+            },
+            {
+              "id" : "bedeb17f-900e-476a-b7f0-2bf16d152d0c",
+              "name" : "Hotelitix"
+            },
+            {
+              "id" : "0082cfd4-a047-4142-abc7-6eb4668b07e9",
+              "name" : "Zenya"
+            },
+            {
+              "id" : "179ad19b-e666-4f58-a26b-7a6237324eef",
+              "name" : "SALTO KS"
+            },
+            {
+              "id" : "37c74918-9aa5-43b7-b691-a48b435700f9",
+              "name" : "IVY"
+            },
+            {
+              "id" : "c0a93ff5-1b5b-434b-87bb-a6d200b2a87f",
+              "name" : "Airbnb Clone"
+            },
+            {
+              "id" : "8ccb57d8-1286-4878-a267-a6d200b2cab3",
+              "name" : "Aura Call Center Elite"
+            },
+            {
+              "id" : "474d2ca1-5a29-4e8a-9bc7-a6d200b44a29",
+              "name" : "Ivy Experience Suite"
+            },
+            {
+              "id" : "f01ad2a9-0ff3-46b6-a9bb-a6d200b4f35c",
+              "name" : "Lightspeed Retail"
+            },
+            {
+              "id" : "0697d8e9-22ee-4edb-a41b-a6d200b71c78",
+              "name" : "Track Vacation Rental PMS"
+            },
+            {
+              "id" : "64140a08-965b-45dd-a165-0925bb2f1fae",
+              "name" : "Lynx"
+            },
+            {
+              "id" : "d42871f2-3c02-4142-a0ba-a6d200b2a87f",
+              "name" : "NCR Aloha"
+            },
+            {
+              "id" : "f971e3f1-c984-446f-8f4b-a6d200b49f49",
+              "name" : "Intellinote"
+            },
+            {
+              "id" : "561e0356-1ce2-42db-acc7-a6d200b52931",
+              "name" : "MiContact Center Business"
+            },
+            {
+              "id" : "db50ae4e-ec56-4838-96f6-a6d200b72eb5",
+              "name" : "Twilio"
+            },
+            {
+              "id" : "84a227b9-2ee3-48bc-9e7f-a6d200b2ee7a",
+              "name" : "BluePay"
+            },
+            {
+              "id" : "810df55d-b1c1-434d-adbd-a6d200b6c8b9",
+              "name" : "Stripe"
+            },
+            {
+              "id" : "bf4e5d59-3f7f-4d67-afa9-a96c0065c663",
+              "name" : "The Channel Manager by SiteMinder"
+            },
+            {
+              "id" : "2bbfc3db-209b-4c7d-9ab8-a9b3003ddace",
+              "name" : "Whistle"
+            },
+            {
+              "id" : "5e19956a-6355-47f2-9245-a9bb00699124",
+              "name" : "OpenKey Front Desk"
+            },
+            {
+              "id" : "df28f384-fccc-4633-b1dc-a9bb00727ef9",
+              "name" : "Whistle Messaging"
+            },
+            {
+              "id" : "f88e851e-df7c-4f21-a906-aa48003b283c",
+              "name" : "Breezeway"
+            },
+            {
+              "id" : "f1c483f2-c3c9-438f-a11f-aa7700ab6a45",
+              "name" : "Akia"
+            },
+            {
+              "id" : "5f114d75-949d-4033-8319-abc7d7ac7115",
+              "name" : "M3 solutions"
+            },
+            {
+              "id" : "f4e5973a-3e04-4b4c-ae3a-a9d600a7867a",
+              "name" : "HiJiffy "
+            },
+            {
+              "id" : "ab3bc6a7-a651-429f-b50c-a6d200b72eb5",
+              "name" : "Tripleseat"
+            },
+            {
+              "id" : "8852948f-d266-49d6-a6c4-48c8794ca845",
+              "name" : "Pricepoint"
+            },
+            {
+              "id" : "aa85a0e3-154f-4bec-bf52-4e60a433cdbe",
+              "name" : "Vrbo"
+            },
+            {
+              "id" : "90c1303a-5169-487e-9cc1-aa30007cc811",
+              "name" : "Clover"
+            },
+            {
+              "id" : "61d62aad-25e6-4e73-a51b-a6d200b2ee7a",
+              "name" : "Book4Time"
+            },
+            {
+              "id" : "30c8339a-6c27-425a-ba26-e6d7caecb707",
+              "name" : "Heartland Restaurant"
+            },
+            {
+              "id" : "1ff94b36-1dac-4a37-8254-9ff3328bace4",
+              "name" : "Kipsu"
+            },
+            {
+              "id" : "610ba856-5189-475d-b660-7328a203f3f8",
+              "name" : "Lightspeed"
+            },
+            {
+              "id" : "806769de-91a3-4bb0-94d3-a6d200b5b240",
+              "name" : "PixelPoint"
+            },
+            {
+              "id" : "ed67881a-7782-4957-ad5d-a6d200b601d6",
+              "name" : "QuickBooks"
+            },
+            {
+              "id" : "42d4ed6e-24b8-413e-aee7-a6d200b49f49",
+              "name" : "Sage Intacct"
+            },
+            {
+              "id" : "eab58142-6040-46ce-9341-a6d200b7915e",
+              "name" : "Xero"
+            },
+            {
+              "id" : "c38bdd12-0d30-410c-a933-a6d200b7b61c",
+              "name" : "Birdeye"
+            },
+            {
+              "id" : "44278a9e-09e7-4c4b-92d9-1a3739abe0ec",
+              "name" : "QuickBooks Online Advanced"
+            },
+            {
+              "id" : "01ec8cd2-dd68-43c4-89e6-a6d200b2cab3",
+              "name" : "Authorize.Net"
+            },
+            {
+              "id" : "0ccf276d-4835-43da-b808-a6d200b354f3",
+              "name" : "Constant Contact"
+            },
+            {
+              "id" : "16f6d9b6-3101-4679-a0af-a6d200b5a51b",
+              "name" : "PayPal"
+            },
+            {
+              "id" : "8c7f8bf5-dbf6-47ee-9df7-a6d200b64092",
+              "name" : "Salesforce Sales Cloud"
+            },
+            {
+              "id" : "6a49e228-39f6-4aec-b8eb-a807005fcb47",
+              "name" : "M3"
+            },
+            {
+              "id" : "5e7e51ab-f372-43c7-9e51-a840007f0462",
+              "name" : "Operto Teams"
+            },
+            {
+              "id" : "dad820ca-b06e-4c77-b9a9-684823ffc637",
+              "name" : "Braintree"
+            },
+            {
+              "id" : "aa7c5ad8-f845-4e21-9c6a-a6d200b5d306",
+              "name" : "Preferred Patron Loyalty"
+            },
+            {
+              "id" : "e643a042-91cf-4c70-bb6f-a6d200b2a87f",
+              "name" : "Aireus"
+            },
+            {
+              "id" : "d6f9916a-b978-41b5-b26d-a6d200b2fce0",
+              "name" : "BookingPal"
+            },
+            {
+              "id" : "3e0f4051-059a-48c3-8a0a-a6d200b3185f",
+              "name" : "Call recording for BroadSoft"
+            },
+            {
+              "id" : "2bee3208-8201-43b6-8892-a6d200b3246c",
+              "name" : "Cendyn Arcaneo"
+            },
+            {
+              "id" : "d6bb8fd0-9430-44e2-a104-a6d200b45761",
+              "name" : "Heartland Payment Processing"
+            },
+            {
+              "id" : "781727da-e16f-4bfc-9170-a6d200b48f17",
+              "name" : "InntopiaCRS"
+            },
+            {
+              "id" : "904ad872-5e58-4cfe-bd47-a6d200b52931",
+              "name" : "Mitel Virtual Solutions"
+            },
+            {
+              "id" : "f53b510e-3c85-4296-bb93-a6d200b53c81",
+              "name" : "MRI Software"
+            },
+            {
+              "id" : "f8396c07-66ed-4467-bd5f-a6d200b58407",
+              "name" : "Ordyx"
+            }
+          ],
+          "supported_countries" : [
+            {
+              "id" : 103,
+              "code" : "IS",
+              "name" : "Iceland"
+            },
+            {
+              "id" : 157,
+              "code" : "NL",
+              "name" : "Netherlands"
+            },
+            {
+              "id" : 114,
+              "code" : "JE",
+              "name" : "Jersey"
+            },
+            {
+              "id" : 205,
+              "code" : "SB",
+              "name" : "Solomon Islands"
+            },
+            {
+              "id" : 77,
+              "code" : "FR",
+              "name" : "France"
+            },
+            {
+              "id" : 17,
+              "code" : "BS",
+              "name" : "Bahamas"
+            },
+            {
+              "id" : 203,
+              "code" : "SK",
+              "name" : "Slovakia"
+            },
+            {
+              "id" : 132,
+              "code" : "MO",
+              "name" : "Macao"
+            },
+            {
+              "id" : 97,
+              "code" : "HT",
+              "name" : "Haiti"
+            },
+            {
+              "id" : 109,
+              "code" : "IM",
+              "name" : "Isle of Man"
+            },
+            {
+              "id" : 149,
+              "code" : "ME",
+              "name" : "Montenegro"
+            },
+            {
+              "id" : 2,
+              "code" : "AX",
+              "name" : "Aland Islands"
+            },
+            {
+              "id" : 183,
+              "code" : "RO",
+              "name" : "Romania"
+            },
+            {
+              "id" : 146,
+              "code" : "MD",
+              "name" : "Moldova (the Republic of)"
+            },
+            {
+              "id" : 70,
+              "code" : "EE",
+              "name" : "Estonia"
+            },
+            {
+              "id" : 129,
+              "code" : "LI",
+              "name" : "Liechtenstein"
+            },
+            {
+              "id" : 240,
+              "code" : "VU",
+              "name" : "Vanuatu"
+            },
+            {
+              "id" : 215,
+              "code" : "SE",
+              "name" : "Sweden"
+            },
+            {
+              "id" : 214,
+              "code" : "SJ",
+              "name" : "Svalbard and Jan Mayen"
+            },
+            {
+              "id" : 6,
+              "code" : "AD",
+              "name" : "Andorra"
+            },
+            {
+              "id" : 3,
+              "code" : "AL",
+              "name" : "Albania"
+            },
+            {
+              "id" : 57,
+              "code" : "CU",
+              "name" : "Cuba"
+            },
+            {
+              "id" : 76,
+              "code" : "FI",
+              "name" : "Finland"
+            },
+            {
+              "id" : 60,
+              "code" : "CZ",
+              "name" : "Czechia"
+            },
+            {
+              "id" : 79,
+              "code" : "PF",
+              "name" : "French Polynesia"
+            },
+            {
+              "id" : 99,
+              "code" : "VA",
+              "name" : "Holy See (Vatican City State)"
+            },
+            {
+              "id" : 86,
+              "code" : "GI",
+              "name" : "Gibraltar"
+            },
+            {
+              "id" : 102,
+              "code" : "HU",
+              "name" : "Hungary"
+            },
+            {
+              "id" : 89,
+              "code" : "GD",
+              "name" : "Grenada"
+            },
+            {
+              "id" : 63,
+              "code" : "DM",
+              "name" : "Dominica"
+            },
+            {
+              "id" : 83,
+              "code" : "GE",
+              "name" : "Georgia"
+            },
+            {
+              "id" : 131,
+              "code" : "LU",
+              "name" : "Luxembourg"
+            },
+            {
+              "id" : 166,
+              "code" : "MP",
+              "name" : "Northern Mariana Islands"
+            },
+            {
+              "id" : 192,
+              "code" : "VC",
+              "name" : "Saint Vincent and the Grenadines"
+            },
+            {
+              "id" : 101,
+              "code" : "HK",
+              "name" : "Hong Kong"
+            },
+            {
+              "id" : 130,
+              "code" : "LT",
+              "name" : "Lithuania"
+            },
+            {
+              "id" : 159,
+              "code" : "NZ",
+              "name" : "New Zealand"
+            },
+            {
+              "id" : 165,
+              "code" : "MK",
+              "name" : "North Macedonia"
+            },
+            {
+              "id" : 191,
+              "code" : "PM",
+              "name" : "Saint Pierre and Miquelon"
+            },
+            {
+              "id" : 194,
+              "code" : "SM",
+              "name" : "San Marino"
+            },
+            {
+              "id" : 8,
+              "code" : "AI",
+              "name" : "Anguilla"
+            },
+            {
+              "id" : 5,
+              "code" : "AS",
+              "name" : "American Samoa"
+            },
+            {
+              "id" : 226,
+              "code" : "TT",
+              "name" : "Trinidad and Tobago"
+            },
+            {
+              "id" : 69,
+              "code" : "ER",
+              "name" : "Eritrea"
+            },
+            {
+              "id" : 172,
+              "code" : "PA",
+              "name" : "Panama"
+            },
+            {
+              "id" : 180,
+              "code" : "PR",
+              "name" : "Puerto Rico"
+            },
+            {
+              "id" : 188,
+              "code" : "KN",
+              "name" : "Saint Kitts and Nevis"
+            },
+            {
+              "id" : 189,
+              "code" : "LC",
+              "name" : "Saint Lucia"
+            },
+            {
+              "id" : 243,
+              "code" : "VG",
+              "name" : "Virgin Islands (British)"
+            },
+            {
+              "id" : 244,
+              "code" : "VI",
+              "name" : "Virgin Islands (U.S.)"
+            },
+            {
+              "id" : 178,
+              "code" : "PL",
+              "name" : "Poland"
+            },
+            {
+              "id" : 118,
+              "code" : "KI",
+              "name" : "Kiribati"
+            },
+            {
+              "id" : 29,
+              "code" : "BA",
+              "name" : "Bosnia and Herzegovina"
+            },
+            {
+              "id" : 138,
+              "code" : "MT",
+              "name" : "Malta"
+            },
+            {
+              "id" : 155,
+              "code" : "NR",
+              "name" : "Nauru"
+            },
+            {
+              "id" : 158,
+              "code" : "NC",
+              "name" : "New Caledonia"
+            },
+            {
+              "id" : 35,
+              "code" : "BG",
+              "name" : "Bulgaria"
+            },
+            {
+              "id" : 210,
+              "code" : "ES",
+              "name" : "Spain"
+            },
+            {
+              "id" : 164,
+              "code" : "NF",
+              "name" : "Norfolk Island"
+            },
+            {
+              "id" : 147,
+              "code" : "MC",
+              "name" : "Monaco"
+            },
+            {
+              "id" : 198,
+              "code" : "RS",
+              "name" : "Serbia"
+            },
+            {
+              "id" : 167,
+              "code" : "NO",
+              "name" : "Norway"
+            },
+            {
+              "id" : 230,
+              "code" : "TC",
+              "name" : "Turks and Caicos Islands"
+            },
+            {
+              "id" : 61,
+              "code" : "DK",
+              "name" : "Denmark"
+            },
+            {
+              "id" : 64,
+              "code" : "DO",
+              "name" : "Dominican Republic"
+            },
+            {
+              "id" : 184,
+              "code" : "RU",
+              "name" : "Russian Federation"
+            },
+            {
+              "id" : 204,
+              "code" : "SI",
+              "name" : "Slovenia"
+            },
+            {
+              "id" : 21,
+              "code" : "BY",
+              "name" : "Belarus"
+            },
+            {
+              "id" : 193,
+              "code" : "WS",
+              "name" : "Samoa"
+            },
+            {
+              "id" : 87,
+              "code" : "GR",
+              "name" : "Greece"
+            },
+            {
+              "id" : 124,
+              "code" : "LV",
+              "name" : "Latvia"
+            },
+            {
+              "id" : 90,
+              "code" : "GP",
+              "name" : "Guadeloupe"
+            },
+            {
+              "id" : 170,
+              "code" : "PW",
+              "name" : "Palau"
+            },
+            {
+              "id" : 233,
+              "code" : "UA",
+              "name" : "Ukraine"
+            },
+            {
+              "id" : 93,
+              "code" : "GG",
+              "name" : "Guernsey"
+            },
+            {
+              "id" : 15,
+              "code" : "AT",
+              "name" : "Austria"
+            },
+            {
+              "id" : 216,
+              "code" : "CH",
+              "name" : "Switzerland"
+            },
+            {
+              "id" : 56,
+              "code" : "HR",
+              "name" : "Croatia"
+            },
+            {
+              "id" : 190,
+              "code" : "MF",
+              "name" : "Saint Martin"
+            },
+            {
+              "id" : 139,
+              "code" : "MH",
+              "name" : "Marshall Islands"
+            },
+            {
+              "id" : 150,
+              "code" : "MS",
+              "name" : "Montserrat"
+            },
+            {
+              "id" : 59,
+              "code" : "CY",
+              "name" : "Cyprus"
+            },
+            {
+              "id" : 16,
+              "code" : "AZ",
+              "name" : "Azerbaijan"
+            },
+            {
+              "id" : 245,
+              "code" : "WF",
+              "name" : "Wallis and Futuna"
+            },
+            {
+              "id" : 53,
+              "code" : "CK",
+              "name" : "Cook Islands"
+            },
+            {
+              "id" : 88,
+              "code" : "GL",
+              "name" : "Greenland"
+            },
+            {
+              "id" : 42,
+              "code" : "KY",
+              "name" : "Cayman Islands"
+            },
+            {
+              "id" : 231,
+              "code" : "TV",
+              "name" : "Tuvalu"
+            },
+            {
+              "id" : 22,
+              "code" : "BE",
+              "name" : "Belgium"
+            },
+            {
+              "id" : 179,
+              "code" : "PT",
+              "name" : "Portugal"
+            },
+            {
+              "id" : 145,
+              "code" : "FM",
+              "name" : "Micronesia"
+            },
+            {
+              "id" : 74,
+              "code" : "FO",
+              "name" : "Faroe Islands"
+            },
+            {
+              "id" : 111,
+              "code" : "IT",
+              "name" : "Italy"
+            },
+            {
+              "id" : 91,
+              "code" : "GU",
+              "name" : "Guam"
+            },
+            {
+              "id" : 250,
+              "code" : "AN",
+              "name" : "Netherlands Antilles"
+            },
+            {
+              "id" : 112,
+              "code" : "JM",
+              "name" : "Jamaica"
+            },
+            {
+              "id" : 113,
+              "code" : "JP",
+              "name" : "Japan"
+            },
+            {
+              "id" : 237,
+              "code" : "US",
+              "name" : "United States of America"
+            },
+            {
+              "id" : 41,
+              "code" : "CA",
+              "name" : "Canada"
+            },
+            {
+              "id" : 46,
+              "code" : "CN",
+              "name" : "China"
+            },
+            {
+              "id" : 32,
+              "code" : "BR",
+              "name" : "Brazil"
+            },
+            {
+              "id" : 14,
+              "code" : "AU",
+              "name" : "Australia"
+            },
+            {
+              "id" : 84,
+              "code" : "DE",
+              "name" : "Germany"
+            },
+            {
+              "id" : 144,
+              "code" : "MX",
+              "name" : "Mexico"
+            },
+            {
+              "id" : 235,
+              "code" : "GB",
+              "name" : "United Kingdom of Great Britain and Northern Ireland"
+            },
+            {
+              "id" : 104,
+              "code" : "IN",
+              "name" : "India"
+            },
+            {
+              "id" : 10,
+              "code" : "AG",
+              "name" : "Antigua and Barbuda"
+            },
+            {
+              "id" : 13,
+              "code" : "AW",
+              "name" : "Aruba"
+            },
+            {
+              "id" : 20,
+              "code" : "BB",
+              "name" : "Barbados"
+            },
+            {
+              "id" : 23,
+              "code" : "BZ",
+              "name" : "Belize"
+            },
+            {
+              "id" : 25,
+              "code" : "BM",
+              "name" : "Bermuda"
+            },
+            {
+              "id" : 54,
+              "code" : "CR",
+              "name" : "Costa Rica"
+            },
+            {
+              "id" : 75,
+              "code" : "FJ",
+              "name" : "Fiji"
+            },
+            {
+              "id" : 108,
+              "code" : "IE",
+              "name" : "Ireland"
+            }
+          ],
+          "supported_languages" : [
+            {
+              "id" : 152,
+              "code" : "en",
+              "name" : "English",
+              "location" : null
+            }
+          ],
+          "target_industries" : [
+            {
+              "id" : 58,
+              "code" : "31",
+              "name" : "Hospitality"
+            },
+            {
+              "id" : 76,
+              "code" : "30",
+              "name" : "Leisure, Travel & Tourism"
+            }
+          ],
+          "price_range_id" : 1,
+          "aggregated_review_ratings" : {
+            "industry" : {
+              "91" : 5.0,
+              "44" : 4.5,
+              "14" : 4.0,
+              "28" : 4.0,
+              "68" : 4.0,
+              "31" : 4.65,
+              "40" : 5.0,
+              "30" : 4.6,
+              "115" : 5.0,
+              "64" : 4.83
+            },
+            "company_size" : {
+              "51-200 employees" : 4.7,
+              "201-500 employees" : 4.5,
+              "10,001+ employees" : 5.0,
+              "11-50 employees" : 4.57,
+              "Self-employed" : 5.0,
+              "1-10 employees" : 4.73,
+              "1001-5000 employees" : 5.0
+            }
+          },
+          "vct_enabled" : true,
+          "pricing_plans" : [
+            {
+              "created_on_utc" : "2019-08-21T14:47:39Z",
+              "modified_on_utc" : "2022-04-11T20:39:21Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Basic",
+              "description" : null,
+              "display_order" : 1,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : null,
+              "ending_price" : null,
+              "pricing_model_name" : "Per Feature",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [ ]
+            }
+          ],
+          "discount_types" : [ ]
+        }
+      },
+      {
+        "_index" : "product_listings_main_data_upc_vt20220920_043802_utc",
+        "_type" : "_doc",
+        "_id" : "224647_vacrental",
+        "_score" : 10.535126,
+        "_source" : {
+          "product_id" : 224647,
+          "seo_product_id" : 224647,
+          "seo_slug" : "WebRezPro",
+          "product_name" : "WebRezPro",
+          "upc_product_uuid" : "705756de-f48d-41cd-9971-a6d200b77224",
+          "old_product_ids" : [
+            113348,
+            163456
+          ],
+          "product_url" : "http://www.webrezpro.com/",
+          "product_slug" : "WebRezPro",
+          "former_name" : "WebRezPro",
+          "logo_filepath" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/f51486be-e990-4abb-8ef9-5521827359ed.png",
+          "vendor" : {
+            "vendor_id" : 2171113,
+            "vendor_name" : "World Web Technologies",
+            "vendor_url" : "http://www.webrezpro.com/",
+            "year_founded" : 1994,
+            "location" : "Canada",
+            "vendor_opted_out_of_reviews" : true,
+            "is_opted_out_of_reviews" : false,
+            "is_hit_limit" : false,
+            "enabled" : true,
+            "has_vendor_level_page" : false,
+            "slug" : null,
+            "vendor_page" : false,
+            "paused_campaign" : false
+          },
+          "category_short_name" : "vacrental",
+          "category_html_name" : "vacation-rental-software",
+          "category" : {
+            "id" : 30616,
+            "short_name" : "vacrental",
+            "long_name" : "Vacation Rental",
+            "html_name" : "vacation-rental-software",
+            "enabled" : true
+          },
+          "best_category" : "vacrental",
+          "is_best_category" : true,
+          "highest_cpc_category" : null,
+          "is_highest_cpc_category" : false,
+          "short_desc" : "WebRezPro is an all-in-one property management system (Cloud PMS) built for properties of all types and sizes.",
+          "long_desc" : "Whether you manage a group of hotels, a B&B, vacation rentals or a hostel, WebRezPro is a cloud-based hospitality property management system that automates all front- and back-office operations to improve your bottom line and give you more time to focus on your guests. Trusted by lodging operators since 2003, WebRezPro is consistently chosen for its comprehensive features, dependability and affordability, and is now used by 2000+ properties in 45+ countries across the globe.",
+          "rating" : 4.7,
+          "number_of_reviews" : 129,
+          "total_reviews" : 149,
+          "ease_of_use_rating" : 4.5,
+          "customer_support_rating" : 4.8,
+          "functionality_rating" : 4.4,
+          "value_for_money_rating" : 4.7,
+          "recommendation_rating" : 9.0,
+          "pricing_enabled" : false,
+          "pricing" : null,
+          "is_per_user" : false,
+          "fee_schedule" : "Per-Month",
+          "pricing_model" : "Per Feature",
+          "pricing_details" : null,
+          "pricing_created_on" : "2019-08-21T14:47:39Z",
+          "pricing_modified_on" : "2022-04-11T20:39:17Z",
+          "pricing_created_by" : null,
+          "pricing_modified_by" : null,
+          "pricing_vendor_pricing_url" : null,
+          "free_trial" : true,
+          "free_version" : false,
+          "target_audience" : "Hotels & Motels, Inns, Bed & Breakfasts, Vacation Rentals, Hostels, Campgrounds & RV Parks, Hotel Groups/Chains, Activity Reservations, Lodges, Cabins & Chalets.",
+          "target_users" : [
+            "1",
+            "2-10",
+            "11-50",
+            "51-200",
+            "201-500",
+            "501-1000",
+            "1000+"
+          ],
+          "platform" : [
+            {
+              "enabled" : true,
+              "name" : "Cloud, SaaS, Web-Based"
+            },
+            {
+              "enabled" : true,
+              "name" : "Desktop Mac"
+            },
+            {
+              "enabled" : true,
+              "name" : "Desktop Windows"
+            },
+            {
+              "enabled" : true,
+              "name" : "Desktop Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Linux"
+            },
+            {
+              "enabled" : true,
+              "name" : "Desktop Chromebook"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile Android"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPhone"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPad"
+            }
+          ],
+          "support" : [
+            {
+              "enabled" : true,
+              "name" : "Email Help Desk"
+            },
+            {
+              "enabled" : true,
+              "name" : "FAQ Forum"
+            },
+            {
+              "enabled" : true,
+              "name" : "Knowledgebase"
+            },
+            {
+              "enabled" : true,
+              "name" : "Phone Support"
+            },
+            {
+              "enabled" : false,
+              "name" : "24/7 Live Rep"
+            },
+            {
+              "enabled" : true,
+              "name" : "Chat"
+            }
+          ],
+          "training" : [
+            {
+              "enabled" : false,
+              "name" : "Not Offered"
+            },
+            {
+              "enabled" : true,
+              "name" : "In-Person"
+            },
+            {
+              "enabled" : true,
+              "name" : "Live Online"
+            },
+            {
+              "enabled" : true,
+              "name" : "Webinars"
+            },
+            {
+              "enabled" : true,
+              "name" : "Documentation"
+            },
+            {
+              "enabled" : true,
+              "name" : "Videos"
+            }
+          ],
+          "media" : [
+            {
+              "product_id" : 224647,
+              "vendor_id" : 2171113,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/2ff960d1-9f93-432b-9a32-6fb8ecd873df.png",
+              "caption" : "Housekeeping Report",
+              "weight" : 1,
+              "short_name" : "vacrental"
+            },
+            {
+              "product_id" : 224647,
+              "vendor_id" : 2171113,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/4a35b9fd-091c-4979-b5b3-bb36a7ae01e3.png",
+              "caption" : "Client Map",
+              "weight" : 2,
+              "short_name" : "vacrental"
+            },
+            {
+              "product_id" : 224647,
+              "vendor_id" : 2171113,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/2bb269cb-bfea-41ae-91e8-53450afee07d.png",
+              "caption" : "Dashboard",
+              "weight" : 3,
+              "short_name" : "vacrental"
+            },
+            {
+              "product_id" : 224647,
+              "vendor_id" : 2171113,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/ce34b8af-8f1c-4ac1-8617-ce311e23b0fe.png",
+              "caption" : "Booking Engine",
+              "weight" : 4,
+              "short_name" : "vacrental"
+            },
+            {
+              "product_id" : 224647,
+              "vendor_id" : 2171113,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/6041d677-d9d0-4f11-bbe1-a99b13d7f617.png",
+              "caption" : "Tape Chart",
+              "weight" : 5,
+              "short_name" : "vacrental"
+            },
+            {
+              "product_id" : 224647,
+              "vendor_id" : 2171113,
+              "media_type" : "VIDEO",
+              "path_url" : "https://youtu.be/xkcsdKsGwGQ",
+              "caption" : null,
+              "weight" : 0,
+              "short_name" : "vacrental"
+            }
+          ],
+          "links" : [ ],
+          "features" : [
+            {
+              "category_name" : "Vacation Rental",
+              "category_features" : [
+                {
+                  "name" : "Commission Management",
+                  "value" : true,
+                  "id" : "97cc20e3-cd5e-49e2-ae87-f63543fdfd5e",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Track employee commission potential and earnings"
+                },
+                {
+                  "name" : "Contact Management",
+                  "value" : false,
+                  "id" : "0019f365-3e1b-4e2f-8f1e-cb77ba025078",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Store and find contact information such as names, addresses, and social media accounts"
+                },
+                {
+                  "name" : "Guest Communications",
+                  "value" : true,
+                  "id" : "d9b57a4a-daa4-4da1-b025-dbafcc5e961c",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Communicate with guests directly within the system"
+                },
+                {
+                  "name" : "Guest Experience Management",
+                  "value" : true,
+                  "id" : "9eaa4bb0-631e-49ae-b714-3dc15c05d802",
+                  "avg_rating" : 3.5,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 4,
+                  "pct_time_used" : 0.5,
+                  "cnt_time_critical" : 4,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Capture guest experience at a granular level and utilize data to deliver tailored services"
+                },
+                {
+                  "name" : "Housekeeping Management",
+                  "value" : true,
+                  "id" : "dac5e46f-01f3-4746-93ea-95d53a6b0b1e",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 6,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 4,
+                  "cnt_time_used" : 5,
+                  "pct_time_used" : 0.8,
+                  "cnt_time_critical" : 5,
+                  "pct_time_critical" : 0.4,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Manages the progress of housekeeping staff and tracks the status of each room."
+                },
+                {
+                  "name" : "Lead Management",
+                  "value" : false,
+                  "id" : "995266c2-fafb-456e-b73c-3d394a240ae3",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Store information about leads and contacts and track them through the sales process"
+                },
+                {
+                  "name" : "Owner Statements",
+                  "value" : false,
+                  "id" : "2ee9be45-6b76-489e-b6cc-1cf4a0bce980",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Report showing financial balance at the beginning and the end of the period, along with activity"
+                },
+                {
+                  "name" : "Payment Processing",
+                  "value" : false,
+                  "id" : "aa036a7c-8608-45a0-9f5f-7649beee9dfb",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Accept, record, and reconcile financial transactions"
+                },
+                {
+                  "name" : "Reservations Management",
+                  "value" : true,
+                  "id" : "2c5a8d06-ebae-4893-9c73-faf509f507a7",
+                  "avg_rating" : 4.8,
+                  "cnt_rating" : 9,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 8,
+                  "cnt_time_used" : 8,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 8,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Create and manage reservations"
+                },
+                {
+                  "name" : "Vendor Management",
+                  "value" : false,
+                  "id" : "f8901e5c-1a6c-4023-a798-a3502e6e359a",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Ability to track and store all vendor-related information, such as contacts, services offered, terms, etc."
+                },
+                {
+                  "name" : "Work Order Management",
+                  "value" : false,
+                  "id" : "2caace3e-d52a-4874-bb04-d700557cf547",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Create work orders and track their status to completion"
+                }
+              ]
+            },
+            {
+              "category_name" : "Property Management",
+              "category_features" : [
+                {
+                  "name" : "Credit Check",
+                  "value" : false,
+                  "id" : "eadb21a9-d356-415a-995a-1769982869a5",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Check credit score of guests before confirming their booking"
+                },
+                {
+                  "name" : "Online Payments",
+                  "value" : true,
+                  "id" : "565782b1-0836-47a8-9f38-1b7209ebe3d5",
+                  "avg_rating" : 4.5,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Payment webpage where clients can pay bills"
+                },
+                {
+                  "name" : "Tax Management",
+                  "value" : false,
+                  "id" : "bc4f8c8b-06f0-4214-8eaa-bfec12a596d2",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Track tax-related transactions and ensure compliance"
+                },
+                {
+                  "name" : "Tenant Portal",
+                  "value" : false,
+                  "id" : "c9bb25bd-057d-444b-a5a6-a7b84ff7d472",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Dedicated portal for tenants to submit their query or interact with the property staff"
+                },
+                {
+                  "name" : "Tenant Tracking",
+                  "value" : false,
+                  "id" : "743dab81-4dce-4f0a-b60d-c99b1faa0adf",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Manage tenant related activities like room booking, rent processing, etc"
+                },
+                {
+                  "name" : "Vacancy Management",
+                  "value" : false,
+                  "id" : "5c1449d3-466c-4161-8d47-029ad2f01934",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Keep a track of vacant properties"
+                },
+                {
+                  "name" : "Website Management",
+                  "value" : false,
+                  "id" : "308d2b02-05de-4b5d-a6e9-90abf3120b67",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Website builder or integration with 3rd party site"
+                }
+              ]
+            }
+          ],
+          "infographics" : [ ],
+          "related_products" : [
+            {
+              "product_id" : 131924,
+              "seo_product_id" : 152489,
+              "seo_slug" : "Lodgify",
+              "vendor_name" : "Lodgify",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/ed1f90c9-8004-48d2-9219-deb4ac31ab4e.png",
+              "rating" : 4.4,
+              "total_reviews" : 442,
+              "slug" : "Lodgify",
+              "product_name" : "Lodgify",
+              "short_desc" : "With Lodgify you can build a vacation rental website, receive direct bookings and manage all your reservations from one place.",
+              "features" : "Lodgify is All-In-One solution for your vacation rental business. We provide the tools needed to build a beautiful website, accept online bookings with credit card payments and manage all your reservations from one place. Our channel manager allows synchronization of property data with Airbnb, Booking.com, Vrbo/Homeaway, Expedia and others.\nOur software offers: Channel manager, PMS, Website builder, Payment processing, Booking System and much more.",
+              "url" : "https://use.lodgify.com/capterra-ppc?utm_source=capterra&utm_medium=cpc&utm_campaign=Bofu_USA_EN_vacationrental&utm_content=destination-url#tk-Source_capterra$Medium_cpc$Campaign_Bofu_USA_EN_vacationrental$Content_destination-url"
+            },
+            {
+              "product_id" : 66294,
+              "seo_product_id" : 8499,
+              "seo_slug" : "RezOvation-Web",
+              "vendor_name" : "eviivo",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/b20d0ce1-eee4-4b64-ac1d-d9f002f1131b.png",
+              "rating" : 4.0,
+              "total_reviews" : 322,
+              "slug" : "eviivo-suite",
+              "product_name" : "eviivo",
+              "short_desc" : "eviivo is the original all-in-one booking suite. Our award-winning software is the simple way to manage guests, bookings and OTAs. ",
+              "features" : "Changeovers are a breeze for vacation rentals with eviivo's built-in Cleaning Dashboard. eviivo is the original all-in-one booking suite and industry leader for managing guests, bookings and OTAs. Channels sing to your tune as your rates, availability, photos, descriptions, policies and more are automatically synced and updated across all your OTAs. With eviivo, channels manage themselves. See why eviivo is trusted by over 20,000 properties worldwide!",
+              "url" : "https://eviivo.com/us/vrbo-airbnb-management-software//?utm_source=capterra&utm_medium=cpc&utm_content=vacation-rental-category"
+            },
+            {
+              "product_id" : 169863,
+              "seo_product_id" : 169863,
+              "seo_slug" : "Your-Porter-App",
+              "vendor_name" : "Guesty",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d1739127-14f3-4926-8160-77f3a3d979a5.png",
+              "rating" : 4.8,
+              "total_reviews" : 314,
+              "slug" : "Your-Porter-App",
+              "product_name" : "Guesty For Hosts",
+              "short_desc" : "Your Porter App was founded in 2016. After being acquired by Guesty, the platform was re-launched in 2021 as Guesty For Hosts.",
+              "features" : "Guesty For Hosts, previously Your Porter App, is a mobile-first property management platform for hosts & property owners managing a handful of short-term rentals. Our platform provides all the features you need to save time, increase your listings' exposure, and manage on-the-go. ",
+              "url" : "https://hosts.guesty.com/?GFH_Lead_Source=guesty-paid"
+            },
+            {
+              "product_id" : 152433,
+              "seo_product_id" : 152433,
+              "seo_slug" : "Hostaway",
+              "vendor_name" : "Hostaway",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e706b8af-6bf7-4cc2-bb55-f44a4c6d65f9.png",
+              "rating" : 4.7,
+              "total_reviews" : 311,
+              "slug" : "Hostaway",
+              "product_name" : "Hostaway",
+              "short_desc" : "Hostaway is the fastest-growing vacation rental software for professional property managers in the world! More bookings. Less hassle.",
+              "features" : "Hostaway has become a market leader in marketing, sales, management, reporting, and communication for vacation rental property managers. One of the largest marketplaces in the industry and deep integrations with Airbnb, VRBO, Expedia, Booking.com, etc, property managers can increase exposure while saving time and money. Have a unique business model? We are the most versatile solution available. Trusted by thousands of property managers, Hostaway is known for stability, performance, and service.",
+              "url" : "https://www.hostaway.com/?utm_source=capterra&utm_medium=ppc&utm_campaign=vacation_rental&utm_term=destination_url&utm_content=homepage"
+            },
+            {
+              "product_id" : 129392,
+              "seo_product_id" : 225127,
+              "seo_slug" : "ResNexus",
+              "vendor_name" : "ResNexus",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/c445ac98-5690-42c5-959b-f07b8635e583.png",
+              "rating" : 4.7,
+              "total_reviews" : 295,
+              "slug" : "Reservation-Nexus",
+              "product_name" : "ResNexus",
+              "short_desc" : "Online bookings and guest management system that provides reservation sources tracking, group reservations, calendar with reminders.",
+              "features" : "Online bookings and guest management system that provides reservation sources tracking, group reservations, calendar with reminders, and more. Professional Edition includes yield management, point-of-sale, and email marketing capabilities.",
+              "url" : "https://software-info.gartnerdigitalmarkets.com/resnexus-reservation-and-property-mgmt-gdm/?directory=vacation-rental"
+            },
+            {
+              "product_id" : 135751,
+              "seo_product_id" : 221190,
+              "seo_slug" : "eZee-Absolute",
+              "vendor_name" : "eZee Technosys",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8df1d8e1-0145-468b-bbfc-92076087d546.png",
+              "rating" : 4.5,
+              "total_reviews" : 264,
+              "slug" : "eZee-Absolute",
+              "product_name" : "eZee Absolute",
+              "short_desc" : "eZee Absolute is a Cloud-Based Hotel Management System which automates a hotel's day-to-day operations and increases hotel revenue.",
+              "features" : "eZee Absolute is a complete cloud-based hotel PMS system that automates all hotel operations; namely front-office, back-office, reservations, billing, housekeeping to impart the best guest experience and increase revenue. It is packed with integrated booking engine and channel manager to provide an all-in-one hotel solution. \r\n\r\nIt is a perfect fit for all types and sizes of accommodations viz. hotels, motels, guest houses, B&Bs, serviced and boutique apartments, hostels, and hotel groups.",
+              "url" : "https://pages.ezeeabsolute.com/hotel-management-system-capterra"
+            },
+            {
+              "product_id" : 222684,
+              "seo_product_id" : 222684,
+              "seo_slug" : "Cloudbeds",
+              "vendor_name" : "Cloudbeds",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/22bc7265-2501-4f95-9965-0a9b683a5c7d.png",
+              "rating" : 4.6,
+              "total_reviews" : 263,
+              "slug" : "Cloudbeds",
+              "product_name" : "Cloudbeds",
+              "short_desc" : "Cloudbeds offers a single platform for you to efficiently manage guests, staff, inventory, pricing, and data in real-time.",
+              "features" : "Cloudbeds is an easy-to-use hospitality platform that offers hoteliers and hosts a centralized solution to help run their property simply and effectively. \nWith Cloudbeds, you have one login, one system that is always in sync. Our suite includes a PMS, Booking Engine, Channel Manager with 300+ connections, Revenue Management Tool, and Payments. Trusted by thousands of properties in over 155 countries, our solution helps our clients achieve more reservations and happier guests.",
+              "url" : "https://www.cloudbeds.com/myfrontdesk/"
+            },
+            {
+              "product_id" : 157033,
+              "seo_product_id" : 224820,
+              "seo_slug" : "iGMS",
+              "vendor_name" : "iGMS",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/ae580649-ecd0-4751-a4d1-1e7e81c6b026.png",
+              "rating" : 4.6,
+              "total_reviews" : 226,
+              "slug" : "iGMS",
+              "product_name" : "iGMS",
+              "short_desc" : "iGMS is an all-in-one software integrated with robust tools to automate STR business management. Simplify hosting with a 14-day trial!",
+              "features" : "iGMS is the only vacation rental software that automates up to 90% of daily hosting tasks & management. Easily control all OTA accounts like Airbnb, Booking.com, & Vrbo from one multi-calendar. Grow direct bookings with our intuitive Website Builder. Automate your guest communication & cleanings management, accept payments and monitor your financial performance with ease. Collaborate with your team & use rich direct integrations to grow your revenue. Try 14 days for free (no credit card).",
+              "url" : "https://www.igms.com/software/free-demo/?utm_source=Capterra&utm_medium=cpc"
+            },
+            {
+              "product_id" : 2732,
+              "seo_product_id" : 2732,
+              "seo_slug" : "Rent-Manager",
+              "vendor_name" : "London Computer Systems",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/93f2fbf3-3ca3-4cc9-a776-66a658e605fa.png",
+              "rating" : 4.4,
+              "total_reviews" : 212,
+              "slug" : "Rent-Manager",
+              "product_name" : "Rent Manager",
+              "short_desc" : "Rent Manager property management software is for companies-global enterprises and mom-and-pops-that manage all varieties of properties.",
+              "features" : "Rent Manager property management software is suited for any length of stay. The short-term rentals feature set enables RV parks, hotels, hostels, and vacation-rental owners to check guests in and out, manage reservations, and keep payment information on file.",
+              "url" : "http://info.rentmanager.com/discover-more"
+            },
+            {
+              "product_id" : 118312,
+              "seo_product_id" : 222831,
+              "seo_slug" : "Bookerville",
+              "vendor_name" : "Bookerville",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/354c45ff-41ed-4f60-96b6-2491cc71401c.png",
+              "rating" : 4.9,
+              "total_reviews" : 203,
+              "slug" : "Bookerville",
+              "product_name" : "Bookerville",
+              "short_desc" : "For multi-property managers, resorts, B&Bs, vacation rental owners. The best value in the industry. Discover what you've been missing!",
+              "features" : "Bookerville offers innovative, flexible, always-evolving cloud-based property management software for short-term vacation rental managers with 1 to 1000s of properties at a reasonable cost. Manage your bookings, automate and simplify time consuming tasks. Includes owner, housekeeper, maintenance portals. Channel manager integration achieves syncing of data with Airbnb, Booking.com, Vrbo, HomeAway, Expedia, more. Free 30-day trial, no credit card required, flat subscription pricing.",
+              "url" : "https://info.gartnerdigitalmarkets.com/bookerville-gdm-lp?category=Vacation-Rental"
+            },
+            {
+              "product_id" : 159377,
+              "seo_product_id" : 224680,
+              "seo_slug" : "Guesty",
+              "vendor_name" : "Guesty",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/6630536c-9311-4b0e-b6d9-fc05cdf915cf.png",
+              "rating" : 4.5,
+              "total_reviews" : 179,
+              "slug" : "Guesty",
+              "product_name" : "Guesty",
+              "short_desc" : "Guesty is the ultimate platform for vacation rental managers with 5+ properties, facilitating all of their tasks from start to finish.",
+              "features" : "Guesty is the industry's leading short-term rental property management software for vacation rental companies with 5+ listings. Their cutting-edge platform automates, streamlines and simplifies the most time-consuming tasks involved in managing rentals. With 15+ features built in-house to facilitate growth & provide positive user experiences, property management companies around the world looking to scale & adapt to the ever-changing ecosystem rely on Guesty to power and optimize their business.",
+              "url" : "https://www.guesty.com/?utm_source=capterra&utm_medium=paid&utm_campaign=capterra&utm_content=vacation-rental"
+            }
+          ],
+          "similar_products" : [
+            {
+              "product_id" : 152433,
+              "seo_product_id" : 152433,
+              "seo_slug" : "Hostaway",
+              "vendor_name" : "Hostaway",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e706b8af-6bf7-4cc2-bb55-f44a4c6d65f9.png",
+              "rating" : 4.7,
+              "total_reviews" : 311,
+              "slug" : "Hostaway",
+              "product_name" : "Hostaway",
+              "short_desc" : "Hostaway is the fastest-growing vacation rental software for professional property managers in the world! More bookings. Less hassle.",
+              "features" : "Hostaway has become a market leader in marketing, sales, management, reporting, and communication for vacation rental property managers. One of the largest marketplaces in the industry and deep integrations with Airbnb, VRBO, Expedia, Booking.com, etc, property managers can increase exposure while saving time and money. Have a unique business model? We are the most versatile solution available. Trusted by thousands of property managers, Hostaway is known for stability, performance, and service.",
+              "url" : "https://www.hostaway.com/?utm_source=capterra&utm_medium=ppc&utm_campaign=general&utm_term=destination_url_pricing&utm_content=homepage"
+            },
+            {
+              "product_id" : 131924,
+              "seo_product_id" : 152489,
+              "seo_slug" : "Lodgify",
+              "vendor_name" : "Lodgify",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/ed1f90c9-8004-48d2-9219-deb4ac31ab4e.png",
+              "rating" : 4.4,
+              "total_reviews" : 442,
+              "slug" : "Lodgify",
+              "product_name" : "Lodgify",
+              "short_desc" : "With Lodgify you can build a vacation rental website, receive direct bookings and manage all your reservations from one place.",
+              "features" : "Lodgify is All-In-One solution for your vacation rental business. We provide the tools needed to build a beautiful website, accept online bookings with credit card payments and manage all your reservations from one place. Our channel manager allows synchronization of property data with Airbnb, Booking.com, Vrbo/Homeaway, Expedia and others.\nOur software offers: Channel manager, PMS, Website builder, Payment processing, Booking System and much more.",
+              "url" : "https://use.lodgify.com/capterra-ppc?utm_source=capterra&utm_medium=cpc&utm_campaign=Bofu_USA_EN_default-product-listing&utm_content=default-url#tk-Source_capterra$Medium_cpc$Campaign_Bofu_USA_EN_default-product-listing$Content_default-url"
+            },
+            {
+              "product_id" : 134081,
+              "seo_product_id" : 212596,
+              "seo_slug" : "Escapia",
+              "vendor_name" : "Escapia",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/293e4332-1a33-453b-b733-7437b593b433.png",
+              "rating" : 4.4,
+              "total_reviews" : 104,
+              "slug" : "Escapia",
+              "product_name" : "Escapia",
+              "short_desc" : "Leading vacation rental software with fee-free distribution, trust accounting, reservation management, & more for property managers. ",
+              "features" : "Escapia is a proven, full-featured property management solution offering business guidance you can trust and automation to simplify. With innovative tools backed by Expedia Group data, it's never been easier to optimize your vacation rental business.  \n\nEscapia also has strong core functionality such as trust accounting, reservation calendar, distribution, housekeeping, owner portal, & more. \n\nEscapia is one of the most trusted and widely used vacation rental software solutions in the industry. ",
+              "url" : "https://software.escapia.com/escapia/?utm_source=Capterra&utm_medium=PPC"
+            },
+            {
+              "product_id" : 82992,
+              "seo_product_id" : 212260,
+              "seo_slug" : "LiveRez",
+              "vendor_name" : "LiveRez",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/074a011c-0027-443d-ae00-3cef3d0e93e7.png",
+              "rating" : 4.6,
+              "total_reviews" : 84,
+              "slug" : "LiveRez",
+              "product_name" : "LiveRez",
+              "short_desc" : "LiveRez is the all in one vacation rental management software bringing you a powerful ecosystem of products included to help you scale!",
+              "features" : "LiveRez goes beyond the standard vacation rental management software. With LiveRez, you can replace your accounting software, booking software, CRM, and operations software. Add to that an included brand-new website that's built to convert and support from our staff, and you have a powerful connected ecosystem of features that will help you reach your goals.\n\nYou'll have everything you need, including access to built-in-house connections to the industry's leading OTA's like VRBO and Airbnb.",
+              "url" : "https://www.liverez.com/demo/?utm_source=capterra&utm_medium=cpc"
+            },
+            {
+              "product_id" : 253892,
+              "seo_product_id" : 253892,
+              "seo_slug" : "Solonis",
+              "vendor_name" : "RMS",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/ea1744e0-bfa7-410c-88cd-e293d6562ae7.png",
+              "rating" : 0.0,
+              "total_reviews" : 0,
+              "slug" : "Solonis",
+              "product_name" : "Solonis",
+              "short_desc" : "Solonis is a cloud-based property management solution for hotels that offers booking charts, reports, utilities, reservations & more. ",
+              "features" : "Solonis is a cloud-based integrated property management system powered by an intuitive business intelligence platform.  Designed by hospitality executives to serve the often fragmented operations of hotels, resorts, and other hospitality venues, properties using Solonis realize increased occupancy, enhanced guest experience, and revenue optimization. ",
+              "url" : "https://solonis.com/"
+            },
+            {
+              "product_id" : 89552,
+              "seo_product_id" : 212104,
+              "seo_slug" : "Streamline",
+              "vendor_name" : "Streamline",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e297f7f0-6822-431e-9cd4-f0b82a1d613b.png",
+              "rating" : 4.6,
+              "total_reviews" : 69,
+              "slug" : "Streamline",
+              "product_name" : "Streamline",
+              "short_desc" : "Streamline is a powerful vacation rental & property management software built to maximize conversions, efficiency, and revenue.",
+              "features" : "Maximize Conversions|Efficiency|Revenue. Streamline is a powerful vacation rental/property management software built by property managers to help save time and increase profits. Integrate direct with VRBO/AirBnB/Booking.com/Tripadvisor/Expedia. Limitless integrations to help grow your business. Get a new website or integrate your existing website. Manage short/long term rentals. Easy to use owners module. Manage housekeeping/maintenance with our new Property Care app. ",
+              "url" : "http://www.streamlinevrs.com"
+            },
+            {
+              "product_id" : 248560,
+              "seo_product_id" : 248560,
+              "seo_slug" : "Jurny",
+              "vendor_name" : "Jurny",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8a36870f-0e41-4897-a176-b8fdeefda8a5.png",
+              "rating" : 4.8,
+              "total_reviews" : 4,
+              "slug" : "Jurny",
+              "product_name" : "Jurny",
+              "short_desc" : "Fully automate your guest experience & entire operation. For the first time, all-in-one place, all-in-one system.",
+              "features" : "\nConsolidate all your apps, dashboards, fees, and providers all in one place. Jurny has built the industry's first vertically integrated system. AI pricing, smart access control, noise sensor dashboard, guest verification software, PMS, messaging, channel management, cleaning management software, online reputation tracker, and more all-in-one system, all-in-one dashboard.\n\nTake your operation and guest experience to the next level and join us on this new wave of the hospitality revolution.\n",
+              "url" : "https://www.jurny.com/request-a-demo"
+            },
+            {
+              "product_id" : 144942,
+              "seo_product_id" : 226383,
+              "seo_slug" : "NewBook",
+              "vendor_name" : "NewBook",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/bc6c4a54-049f-4fbe-acd8-6f9c50663368.png",
+              "rating" : 4.9,
+              "total_reviews" : 35,
+              "slug" : "NewBook",
+              "product_name" : "NewBook",
+              "short_desc" : "NewBook's cloud-based vacation rental software allows owners to seamlessly manage their properties anywhere, any time.",
+              "features" : "NewBook's intuitive, cloud-based vacation rental software allows owners of holiday lettings, vacation homes, and Airbnbs to manage their properties from one centralized platform, anywhere, any time. Our multi-award-winning solution includes a PMS, Booking Engine, Channel Manager, web design services, automation tools, an in-built marketing module, and more. ",
+              "url" : "http://www.newbook.cloud/"
+            },
+            {
+              "product_id" : 186514,
+              "seo_product_id" : 220985,
+              "seo_slug" : "Breezeway",
+              "vendor_name" : "Breezeway",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/2d716bec-a342-4eac-9412-701ab10e4226.png",
+              "rating" : 4.7,
+              "total_reviews" : 29,
+              "slug" : "Breezeway",
+              "product_name" : "Breezeway",
+              "short_desc" : "Breezeway is the leading property operations and services platform for short-term rentals.",
+              "features" : "Breezeway's property operations platform helps coordinate, communicate, and verify detailed work at properties, and deliver the best service experience to guests and homeowners. Our software and mobile apps have facilitated over 6M property tasks across 100+ million square feet and help hundreds of hospitality professionals meet detailed service standards. Combining robust property data, smart messaging, and mobile-first task management, Breezeway is building the future of property care.",
+              "url" : "https://www.breezeway.io/capterra"
+            },
+            {
+              "product_id" : 170587,
+              "seo_product_id" : 225126,
+              "seo_slug" : "VRScheduler-",
+              "vendor_name" : "Operto",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/bb428c2b-60f6-4a31-9369-556a382bc38d.png",
+              "rating" : 4.9,
+              "total_reviews" : 94,
+              "slug" : "VRScheduler",
+              "product_name" : "Operto Teams",
+              "short_desc" : "Operto Teams works with AirBnb, VRBO and other booking software (like Guesty) by importing bookings and auto-creating work schedules.  ",
+              "features" : "Top Rated Operations and Housekeeping Management for 10-100+ vacation rental, short term and long term properties.  Operto Teams (formerly VRScheduler) is the best software platform for scheduling and tracking cleaners, inspectors and maintenance staff. Operto Teams works with your booking software to improve workflow.  Save time, optimize labor and minimize costly mistakes.  Free Trial.  Take a Demo Today!",
+              "url" : "https://www.operto.com/teams/"
+            },
+            {
+              "product_id" : 160106,
+              "seo_product_id" : 225426,
+              "seo_slug" : "Smoobu",
+              "vendor_name" : "Smoobu",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/cda2fadf-1088-4011-9a78-cb97b55d6f88.png",
+              "rating" : 4.6,
+              "total_reviews" : 125,
+              "slug" : "Smoobu",
+              "product_name" : "Smoobu",
+              "short_desc" : "The All-in-One Software for Short-Term & Vacation Rentals. One subscription, all tools. 14-day free trial. No credit card required.",
+              "features" : "Smoobu is the All-in-One Software for Short-Term & Vacation Rentals.\r\n\r\nSmoobu syncs all your booking portals, such as Airbnb, Booking.com, VRBO, Trip.com, Agoda etc, automatically, so you no longer need to worry about double bookings and manual prices.\r\n\r\nOne subscription, all tools. Channel Manager, PMS, Website Builder, Booking Engine, Unified Inbox, Online Check-In, as well as a Dedicated Guest Guide that will make your reviews go up. \r\n\r\nTry Smoobu Pro for 14 days. No credit card required.",
+              "url" : "https://www.smoobu.com/capterra"
+            },
+            {
+              "product_id" : 154137,
+              "seo_product_id" : 221830,
+              "seo_slug" : "Uplisting",
+              "vendor_name" : "Uplisting",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e52dbb53-e266-494c-9edc-ece2dd4c58ee.png",
+              "rating" : 4.9,
+              "total_reviews" : 62,
+              "slug" : "Uplisting",
+              "product_name" : "Uplisting",
+              "short_desc" : "The only tool you need for your vacation rentals. Job done. Save hours every week with automated messages, smart rates and much more.",
+              "features" : "Uplisting is the all-in-one solution designed specifically for  vacation rentals. Its intuitive, reliable & can begin adding value to your business within 30 minutes of starting your 14-day free trial.\r\n\r\nAutomatically import your listings directly from Airbnb & connect to Booking.com & others in minutes. Instantly sync bookings, rates and availabilities with 0% commission, no setup costs and no hidden fees.\r\n\r\nSave hours every week with automated messages, smart rates and much more.\r\n\r\n",
+              "url" : "https://www.uplisting.io"
+            },
+            {
+              "product_id" : 157033,
+              "seo_product_id" : 224820,
+              "seo_slug" : "iGMS",
+              "vendor_name" : "iGMS",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/ae580649-ecd0-4751-a4d1-1e7e81c6b026.png",
+              "rating" : 4.6,
+              "total_reviews" : 226,
+              "slug" : "iGMS",
+              "product_name" : "iGMS",
+              "short_desc" : "iGMS is an all-in-one software integrated with robust tools to automate STR business management. Simplify hosting with a 14-day trial!",
+              "features" : "iGMS is the only vacation rental software that automates up to 90% of daily hosting tasks & management. Easily control all OTA accounts like Airbnb, Booking.com, & Vrbo from one multi-calendar. Grow direct bookings with our intuitive Website Builder. Automate your guest communication & cleanings management, accept payments and monitor your financial performance with ease. Collaborate with your team & use rich direct integrations to grow your revenue. Try 14 days for free (no credit card).",
+              "url" : "https://www.igms.com/software/free-demo/?utm_source=Capterra&utm_medium=cpc"
+            }
+          ],
+          "related_categories" : [
+            {
+              "functional_group" : "vacrental",
+              "long_name" : "Hospitality Property Management",
+              "html_name" : "hospitality-property-management-software",
+              "link_name" : "hospitality-property-management",
+              "product_count" : 229,
+              "meta_description" : "Find and compare top Hospitality Property Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Hospitality Property Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/hospitality-property-management-software>Hospitality Property Management software</a> automates the marketing, booking and billing of rooms for hotels, motels and resorts.  Hotel managers use these applications to optimize the efficiency of their operations, speeding the process of filling and turning over rooms.  Hospitality Property Management solutions offer a variety of vacancy monitoring features and integration for marketing and sales tools, as well as billing functions.  Management tools for other functions such as maintenance requests and housekeeping schedules are also often included. <a href=/hospitality-property-management-software>Hospitality Property Management software</a> is related to <a href=/real-estate-property-management-software>Real Estate Property Management software</a>, <a href=/rental-software>Rental software</a> and <a href=/reservations-software>Reservations software</a>."
+            },
+            {
+              "functional_group" : "vacrental",
+              "long_name" : "Real Estate Property Management",
+              "html_name" : "real-estate-property-management-software",
+              "link_name" : "real-estate-property-management",
+              "product_count" : 163,
+              "meta_description" : "Find and compare top Real Estate Property Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Real Estate Property Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/real-estate-property-management-software>Real Estate Property Management software</a> automates back office, financial, and operational tools for real estate property managers. These applications provide rental management software tools for apartments, rental housing, commercial property, mobile home parks, storage facilities and property owner associations and enable users to track tenant information, vacancies, and leasing agreements.  Real Estate Property Management solutions enable reporting on revenue generation, operational costs, cash flow, budgeting and forecasting.  <a href=/real-estate-property-management-software>Real Estate Property Management software</a> is related to <a href=/hospitality-property-management-software>Hospitality Property Management software</a>, <a href=/lease-management-software>Lease Management software</a> and <a href=/real-estate-agency-software>Real Estate Agency software</a>.  "
+            },
+            {
+              "functional_group" : "vacrental",
+              "long_name" : "Rental",
+              "html_name" : "rental-software",
+              "link_name" : "rental",
+              "product_count" : 67,
+              "meta_description" : "Find and compare top Rental software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Rental tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/rental-software>Rental software</a> automates business management, record keeping, and accounting for rental businesses, including retail stores and rental property management firms.  These applications enable the automation and integration of core business processes such as <a href=\"/point-of-sale-software\">point of sale (POS)</a>, <a href=\"/customer-relationship-management-software\">Customer Relationship Management (CRM)</a>, <a href=\"/accounting-software\">accounting</a> and <a href=\"/inventory-management-software\">inventory management</a> as well as customer satisfaction tools.   <a href=/rental-software>Rental software</a> is related to <a href=/hospitality-property-management-software>Hospitality Property Management software</a>."
+            },
+            {
+              "functional_group" : "vacrental",
+              "long_name" : "Timeshare",
+              "html_name" : "timeshare-software",
+              "link_name" : "timeshare",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Timeshare software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Timeshare tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "Timeshare software helps manage sales, marketing, scheduling, touring and commission calculations for timeshare and vacation club businesses."
+            }
+          ],
+          "is_upgraded" : false,
+          "enabled" : true,
+          "filter_options" : {
+            "users" : 127,
+            "platform" : 975,
+            "pricing_options" : 18,
+            "category_related_features" : [
+              35587,
+              35588,
+              35590,
+              36093,
+              36096,
+              42482,
+              42484,
+              57732,
+              57733,
+              57734,
+              57736,
+              57737,
+              57738,
+              57739,
+              57740,
+              57741,
+              57742,
+              57743,
+              57745,
+              57746,
+              57747,
+              57748,
+              57749,
+              57750,
+              57752,
+              57753,
+              57754,
+              57755,
+              57756,
+              57757,
+              57759,
+              57760,
+              57761,
+              57764,
+              57765,
+              57766,
+              57767
+            ],
+            "employees" : 127
+          },
+          "sort_options" : {
+            "sort_review_rating" : 4.664438724517822,
+            "most_recent_review" : "2022-09-07T18:23:40Z"
+          },
+          "countries" : "ALL",
+          "features_tokenized_text" : "commission_management guest_communications guest_experience_management housekeeping_management reservations_management",
+          "platform_tokenized_text" : "cloud,saas,web-based desktopmac desktopwindows desktoplinux desktopchromebook mobileandroid mobileiphone mobileipad",
+          "users_tokenized_text" : "1 2-10 11-50 51-200 201-500 501-1000 1000+",
+          "pricing_tokenized_text" : "monthlysubscription freetrial",
+          "badges" : [ ],
+          "bid_spot_us" : 0.0,
+          "currency_code" : "USD",
+          "currency_symbol" : "$",
+          "credit_card_required" : "Unverified",
+          "licensing_model" : null,
+          "open_api_offered" : "Unverified",
+          "mobile_urls" : [
+            {
+              "name" : "Android",
+              "url" : "https://webrezpro.com/"
+            },
+            {
+              "name" : "iOS",
+              "url" : "https://webrezpro.com/"
+            }
+          ],
+          "integrations" : [
+            {
+              "id" : "df812352-233a-40b1-b1a0-a6d200b5b240",
+              "name" : "PixelPoint POS"
+            },
+            {
+              "id" : "f2ada79d-499e-414e-b480-a6d200b77ff8",
+              "name" : "Windstream Virtual PBX VoIP"
+            },
+            {
+              "id" : "d101ed08-2c2a-4989-a309-a6d200b7f02d",
+              "name" : "Revinate"
+            },
+            {
+              "id" : "a4d8b9eb-96c2-4d36-9760-a70400814aa4",
+              "name" : "Lightspeed POS"
+            },
+            {
+              "id" : "71a8d6a2-6057-40d0-907d-a753009f5182",
+              "name" : "Nuvola"
+            },
+            {
+              "id" : "b96980ba-e246-49ef-b4bf-a7ed007f76fd",
+              "name" : "Mitel Business Phones"
+            },
+            {
+              "id" : "39b7d91e-24ad-4871-8bd1-a83b00672485",
+              "name" : "Worldline"
+            },
+            {
+              "id" : "9df62b65-010a-453e-ba98-a8420037b321",
+              "name" : "ALICE"
+            },
+            {
+              "id" : "db252404-b2fd-41c5-a034-a87900676b31",
+              "name" : "Intello"
+            },
+            {
+              "id" : "fa2754bb-1a13-458e-8d10-a93400522e82",
+              "name" : "NAVIS Suite"
+            },
+            {
+              "id" : "10bfac01-b995-40b6-aa5c-a93c00592fb1",
+              "name" : "SuiteCRM Twilio SMS Service"
+            },
+            {
+              "id" : "0005d6ce-9d81-41f0-bb71-a6d200b5007e",
+              "name" : "Maitre'D"
+            },
+            {
+              "id" : "ca2f6f92-e742-491a-9c0a-a6d200b44a29",
+              "name" : "GuestCentric"
+            },
+            {
+              "id" : "bcdd9473-58dd-4c24-a82a-a6d200b601d6",
+              "name" : "Quickbooks Online"
+            },
+            {
+              "id" : "cedd2fcf-2b94-4af7-a9e9-a6d200b696d4",
+              "name" : "SiteMinder"
+            },
+            {
+              "id" : "17d603a0-eaa9-493a-9e61-08452f4e99e0",
+              "name" : "Novera"
+            },
+            {
+              "id" : "1a8e7b47-dc9f-49bd-b2df-0b708b26848a",
+              "name" : "Voila"
+            },
+            {
+              "id" : "c912203d-aa00-4c78-b098-0e7bc59f136b",
+              "name" : "Hapi"
+            },
+            {
+              "id" : "bedeb17f-900e-476a-b7f0-2bf16d152d0c",
+              "name" : "Hotelitix"
+            },
+            {
+              "id" : "0082cfd4-a047-4142-abc7-6eb4668b07e9",
+              "name" : "Zenya"
+            },
+            {
+              "id" : "179ad19b-e666-4f58-a26b-7a6237324eef",
+              "name" : "SALTO KS"
+            },
+            {
+              "id" : "37c74918-9aa5-43b7-b691-a48b435700f9",
+              "name" : "IVY"
+            },
+            {
+              "id" : "c0a93ff5-1b5b-434b-87bb-a6d200b2a87f",
+              "name" : "Airbnb Clone"
+            },
+            {
+              "id" : "8ccb57d8-1286-4878-a267-a6d200b2cab3",
+              "name" : "Aura Call Center Elite"
+            },
+            {
+              "id" : "474d2ca1-5a29-4e8a-9bc7-a6d200b44a29",
+              "name" : "Ivy Experience Suite"
+            },
+            {
+              "id" : "f01ad2a9-0ff3-46b6-a9bb-a6d200b4f35c",
+              "name" : "Lightspeed Retail"
+            },
+            {
+              "id" : "0697d8e9-22ee-4edb-a41b-a6d200b71c78",
+              "name" : "Track Vacation Rental PMS"
+            },
+            {
+              "id" : "64140a08-965b-45dd-a165-0925bb2f1fae",
+              "name" : "Lynx"
+            },
+            {
+              "id" : "d42871f2-3c02-4142-a0ba-a6d200b2a87f",
+              "name" : "NCR Aloha"
+            },
+            {
+              "id" : "f971e3f1-c984-446f-8f4b-a6d200b49f49",
+              "name" : "Intellinote"
+            },
+            {
+              "id" : "561e0356-1ce2-42db-acc7-a6d200b52931",
+              "name" : "MiContact Center Business"
+            },
+            {
+              "id" : "db50ae4e-ec56-4838-96f6-a6d200b72eb5",
+              "name" : "Twilio"
+            },
+            {
+              "id" : "84a227b9-2ee3-48bc-9e7f-a6d200b2ee7a",
+              "name" : "BluePay"
+            },
+            {
+              "id" : "810df55d-b1c1-434d-adbd-a6d200b6c8b9",
+              "name" : "Stripe"
+            },
+            {
+              "id" : "bf4e5d59-3f7f-4d67-afa9-a96c0065c663",
+              "name" : "The Channel Manager by SiteMinder"
+            },
+            {
+              "id" : "2bbfc3db-209b-4c7d-9ab8-a9b3003ddace",
+              "name" : "Whistle"
+            },
+            {
+              "id" : "5e19956a-6355-47f2-9245-a9bb00699124",
+              "name" : "OpenKey Front Desk"
+            },
+            {
+              "id" : "df28f384-fccc-4633-b1dc-a9bb00727ef9",
+              "name" : "Whistle Messaging"
+            },
+            {
+              "id" : "f88e851e-df7c-4f21-a906-aa48003b283c",
+              "name" : "Breezeway"
+            },
+            {
+              "id" : "f1c483f2-c3c9-438f-a11f-aa7700ab6a45",
+              "name" : "Akia"
+            },
+            {
+              "id" : "5f114d75-949d-4033-8319-abc7d7ac7115",
+              "name" : "M3 solutions"
+            },
+            {
+              "id" : "f4e5973a-3e04-4b4c-ae3a-a9d600a7867a",
+              "name" : "HiJiffy "
+            },
+            {
+              "id" : "ab3bc6a7-a651-429f-b50c-a6d200b72eb5",
+              "name" : "Tripleseat"
+            },
+            {
+              "id" : "8852948f-d266-49d6-a6c4-48c8794ca845",
+              "name" : "Pricepoint"
+            },
+            {
+              "id" : "aa85a0e3-154f-4bec-bf52-4e60a433cdbe",
+              "name" : "Vrbo"
+            },
+            {
+              "id" : "90c1303a-5169-487e-9cc1-aa30007cc811",
+              "name" : "Clover"
+            },
+            {
+              "id" : "61d62aad-25e6-4e73-a51b-a6d200b2ee7a",
+              "name" : "Book4Time"
+            },
+            {
+              "id" : "30c8339a-6c27-425a-ba26-e6d7caecb707",
+              "name" : "Heartland Restaurant"
+            },
+            {
+              "id" : "1ff94b36-1dac-4a37-8254-9ff3328bace4",
+              "name" : "Kipsu"
+            },
+            {
+              "id" : "610ba856-5189-475d-b660-7328a203f3f8",
+              "name" : "Lightspeed"
+            },
+            {
+              "id" : "806769de-91a3-4bb0-94d3-a6d200b5b240",
+              "name" : "PixelPoint"
+            },
+            {
+              "id" : "ed67881a-7782-4957-ad5d-a6d200b601d6",
+              "name" : "QuickBooks"
+            },
+            {
+              "id" : "42d4ed6e-24b8-413e-aee7-a6d200b49f49",
+              "name" : "Sage Intacct"
+            },
+            {
+              "id" : "eab58142-6040-46ce-9341-a6d200b7915e",
+              "name" : "Xero"
+            },
+            {
+              "id" : "c38bdd12-0d30-410c-a933-a6d200b7b61c",
+              "name" : "Birdeye"
+            },
+            {
+              "id" : "44278a9e-09e7-4c4b-92d9-1a3739abe0ec",
+              "name" : "QuickBooks Online Advanced"
+            },
+            {
+              "id" : "01ec8cd2-dd68-43c4-89e6-a6d200b2cab3",
+              "name" : "Authorize.Net"
+            },
+            {
+              "id" : "0ccf276d-4835-43da-b808-a6d200b354f3",
+              "name" : "Constant Contact"
+            },
+            {
+              "id" : "16f6d9b6-3101-4679-a0af-a6d200b5a51b",
+              "name" : "PayPal"
+            },
+            {
+              "id" : "8c7f8bf5-dbf6-47ee-9df7-a6d200b64092",
+              "name" : "Salesforce Sales Cloud"
+            },
+            {
+              "id" : "6a49e228-39f6-4aec-b8eb-a807005fcb47",
+              "name" : "M3"
+            },
+            {
+              "id" : "5e7e51ab-f372-43c7-9e51-a840007f0462",
+              "name" : "Operto Teams"
+            },
+            {
+              "id" : "dad820ca-b06e-4c77-b9a9-684823ffc637",
+              "name" : "Braintree"
+            },
+            {
+              "id" : "aa7c5ad8-f845-4e21-9c6a-a6d200b5d306",
+              "name" : "Preferred Patron Loyalty"
+            },
+            {
+              "id" : "e643a042-91cf-4c70-bb6f-a6d200b2a87f",
+              "name" : "Aireus"
+            },
+            {
+              "id" : "d6f9916a-b978-41b5-b26d-a6d200b2fce0",
+              "name" : "BookingPal"
+            },
+            {
+              "id" : "3e0f4051-059a-48c3-8a0a-a6d200b3185f",
+              "name" : "Call recording for BroadSoft"
+            },
+            {
+              "id" : "2bee3208-8201-43b6-8892-a6d200b3246c",
+              "name" : "Cendyn Arcaneo"
+            },
+            {
+              "id" : "d6bb8fd0-9430-44e2-a104-a6d200b45761",
+              "name" : "Heartland Payment Processing"
+            },
+            {
+              "id" : "781727da-e16f-4bfc-9170-a6d200b48f17",
+              "name" : "InntopiaCRS"
+            },
+            {
+              "id" : "904ad872-5e58-4cfe-bd47-a6d200b52931",
+              "name" : "Mitel Virtual Solutions"
+            },
+            {
+              "id" : "f53b510e-3c85-4296-bb93-a6d200b53c81",
+              "name" : "MRI Software"
+            },
+            {
+              "id" : "f8396c07-66ed-4467-bd5f-a6d200b58407",
+              "name" : "Ordyx"
+            }
+          ],
+          "supported_countries" : [
+            {
+              "id" : 103,
+              "code" : "IS",
+              "name" : "Iceland"
+            },
+            {
+              "id" : 157,
+              "code" : "NL",
+              "name" : "Netherlands"
+            },
+            {
+              "id" : 114,
+              "code" : "JE",
+              "name" : "Jersey"
+            },
+            {
+              "id" : 205,
+              "code" : "SB",
+              "name" : "Solomon Islands"
+            },
+            {
+              "id" : 77,
+              "code" : "FR",
+              "name" : "France"
+            },
+            {
+              "id" : 17,
+              "code" : "BS",
+              "name" : "Bahamas"
+            },
+            {
+              "id" : 203,
+              "code" : "SK",
+              "name" : "Slovakia"
+            },
+            {
+              "id" : 132,
+              "code" : "MO",
+              "name" : "Macao"
+            },
+            {
+              "id" : 97,
+              "code" : "HT",
+              "name" : "Haiti"
+            },
+            {
+              "id" : 109,
+              "code" : "IM",
+              "name" : "Isle of Man"
+            },
+            {
+              "id" : 149,
+              "code" : "ME",
+              "name" : "Montenegro"
+            },
+            {
+              "id" : 2,
+              "code" : "AX",
+              "name" : "Aland Islands"
+            },
+            {
+              "id" : 183,
+              "code" : "RO",
+              "name" : "Romania"
+            },
+            {
+              "id" : 146,
+              "code" : "MD",
+              "name" : "Moldova (the Republic of)"
+            },
+            {
+              "id" : 70,
+              "code" : "EE",
+              "name" : "Estonia"
+            },
+            {
+              "id" : 129,
+              "code" : "LI",
+              "name" : "Liechtenstein"
+            },
+            {
+              "id" : 240,
+              "code" : "VU",
+              "name" : "Vanuatu"
+            },
+            {
+              "id" : 215,
+              "code" : "SE",
+              "name" : "Sweden"
+            },
+            {
+              "id" : 214,
+              "code" : "SJ",
+              "name" : "Svalbard and Jan Mayen"
+            },
+            {
+              "id" : 6,
+              "code" : "AD",
+              "name" : "Andorra"
+            },
+            {
+              "id" : 3,
+              "code" : "AL",
+              "name" : "Albania"
+            },
+            {
+              "id" : 57,
+              "code" : "CU",
+              "name" : "Cuba"
+            },
+            {
+              "id" : 76,
+              "code" : "FI",
+              "name" : "Finland"
+            },
+            {
+              "id" : 60,
+              "code" : "CZ",
+              "name" : "Czechia"
+            },
+            {
+              "id" : 79,
+              "code" : "PF",
+              "name" : "French Polynesia"
+            },
+            {
+              "id" : 99,
+              "code" : "VA",
+              "name" : "Holy See (Vatican City State)"
+            },
+            {
+              "id" : 86,
+              "code" : "GI",
+              "name" : "Gibraltar"
+            },
+            {
+              "id" : 102,
+              "code" : "HU",
+              "name" : "Hungary"
+            },
+            {
+              "id" : 89,
+              "code" : "GD",
+              "name" : "Grenada"
+            },
+            {
+              "id" : 63,
+              "code" : "DM",
+              "name" : "Dominica"
+            },
+            {
+              "id" : 83,
+              "code" : "GE",
+              "name" : "Georgia"
+            },
+            {
+              "id" : 131,
+              "code" : "LU",
+              "name" : "Luxembourg"
+            },
+            {
+              "id" : 166,
+              "code" : "MP",
+              "name" : "Northern Mariana Islands"
+            },
+            {
+              "id" : 192,
+              "code" : "VC",
+              "name" : "Saint Vincent and the Grenadines"
+            },
+            {
+              "id" : 101,
+              "code" : "HK",
+              "name" : "Hong Kong"
+            },
+            {
+              "id" : 130,
+              "code" : "LT",
+              "name" : "Lithuania"
+            },
+            {
+              "id" : 159,
+              "code" : "NZ",
+              "name" : "New Zealand"
+            },
+            {
+              "id" : 165,
+              "code" : "MK",
+              "name" : "North Macedonia"
+            },
+            {
+              "id" : 191,
+              "code" : "PM",
+              "name" : "Saint Pierre and Miquelon"
+            },
+            {
+              "id" : 194,
+              "code" : "SM",
+              "name" : "San Marino"
+            },
+            {
+              "id" : 8,
+              "code" : "AI",
+              "name" : "Anguilla"
+            },
+            {
+              "id" : 5,
+              "code" : "AS",
+              "name" : "American Samoa"
+            },
+            {
+              "id" : 226,
+              "code" : "TT",
+              "name" : "Trinidad and Tobago"
+            },
+            {
+              "id" : 69,
+              "code" : "ER",
+              "name" : "Eritrea"
+            },
+            {
+              "id" : 172,
+              "code" : "PA",
+              "name" : "Panama"
+            },
+            {
+              "id" : 180,
+              "code" : "PR",
+              "name" : "Puerto Rico"
+            },
+            {
+              "id" : 188,
+              "code" : "KN",
+              "name" : "Saint Kitts and Nevis"
+            },
+            {
+              "id" : 189,
+              "code" : "LC",
+              "name" : "Saint Lucia"
+            },
+            {
+              "id" : 243,
+              "code" : "VG",
+              "name" : "Virgin Islands (British)"
+            },
+            {
+              "id" : 244,
+              "code" : "VI",
+              "name" : "Virgin Islands (U.S.)"
+            },
+            {
+              "id" : 178,
+              "code" : "PL",
+              "name" : "Poland"
+            },
+            {
+              "id" : 118,
+              "code" : "KI",
+              "name" : "Kiribati"
+            },
+            {
+              "id" : 29,
+              "code" : "BA",
+              "name" : "Bosnia and Herzegovina"
+            },
+            {
+              "id" : 138,
+              "code" : "MT",
+              "name" : "Malta"
+            },
+            {
+              "id" : 155,
+              "code" : "NR",
+              "name" : "Nauru"
+            },
+            {
+              "id" : 158,
+              "code" : "NC",
+              "name" : "New Caledonia"
+            },
+            {
+              "id" : 35,
+              "code" : "BG",
+              "name" : "Bulgaria"
+            },
+            {
+              "id" : 210,
+              "code" : "ES",
+              "name" : "Spain"
+            },
+            {
+              "id" : 164,
+              "code" : "NF",
+              "name" : "Norfolk Island"
+            },
+            {
+              "id" : 147,
+              "code" : "MC",
+              "name" : "Monaco"
+            },
+            {
+              "id" : 198,
+              "code" : "RS",
+              "name" : "Serbia"
+            },
+            {
+              "id" : 167,
+              "code" : "NO",
+              "name" : "Norway"
+            },
+            {
+              "id" : 230,
+              "code" : "TC",
+              "name" : "Turks and Caicos Islands"
+            },
+            {
+              "id" : 61,
+              "code" : "DK",
+              "name" : "Denmark"
+            },
+            {
+              "id" : 64,
+              "code" : "DO",
+              "name" : "Dominican Republic"
+            },
+            {
+              "id" : 184,
+              "code" : "RU",
+              "name" : "Russian Federation"
+            },
+            {
+              "id" : 204,
+              "code" : "SI",
+              "name" : "Slovenia"
+            },
+            {
+              "id" : 21,
+              "code" : "BY",
+              "name" : "Belarus"
+            },
+            {
+              "id" : 193,
+              "code" : "WS",
+              "name" : "Samoa"
+            },
+            {
+              "id" : 87,
+              "code" : "GR",
+              "name" : "Greece"
+            },
+            {
+              "id" : 124,
+              "code" : "LV",
+              "name" : "Latvia"
+            },
+            {
+              "id" : 90,
+              "code" : "GP",
+              "name" : "Guadeloupe"
+            },
+            {
+              "id" : 170,
+              "code" : "PW",
+              "name" : "Palau"
+            },
+            {
+              "id" : 233,
+              "code" : "UA",
+              "name" : "Ukraine"
+            },
+            {
+              "id" : 93,
+              "code" : "GG",
+              "name" : "Guernsey"
+            },
+            {
+              "id" : 15,
+              "code" : "AT",
+              "name" : "Austria"
+            },
+            {
+              "id" : 216,
+              "code" : "CH",
+              "name" : "Switzerland"
+            },
+            {
+              "id" : 56,
+              "code" : "HR",
+              "name" : "Croatia"
+            },
+            {
+              "id" : 190,
+              "code" : "MF",
+              "name" : "Saint Martin"
+            },
+            {
+              "id" : 139,
+              "code" : "MH",
+              "name" : "Marshall Islands"
+            },
+            {
+              "id" : 150,
+              "code" : "MS",
+              "name" : "Montserrat"
+            },
+            {
+              "id" : 59,
+              "code" : "CY",
+              "name" : "Cyprus"
+            },
+            {
+              "id" : 16,
+              "code" : "AZ",
+              "name" : "Azerbaijan"
+            },
+            {
+              "id" : 245,
+              "code" : "WF",
+              "name" : "Wallis and Futuna"
+            },
+            {
+              "id" : 53,
+              "code" : "CK",
+              "name" : "Cook Islands"
+            },
+            {
+              "id" : 88,
+              "code" : "GL",
+              "name" : "Greenland"
+            },
+            {
+              "id" : 42,
+              "code" : "KY",
+              "name" : "Cayman Islands"
+            },
+            {
+              "id" : 231,
+              "code" : "TV",
+              "name" : "Tuvalu"
+            },
+            {
+              "id" : 22,
+              "code" : "BE",
+              "name" : "Belgium"
+            },
+            {
+              "id" : 179,
+              "code" : "PT",
+              "name" : "Portugal"
+            },
+            {
+              "id" : 145,
+              "code" : "FM",
+              "name" : "Micronesia"
+            },
+            {
+              "id" : 74,
+              "code" : "FO",
+              "name" : "Faroe Islands"
+            },
+            {
+              "id" : 111,
+              "code" : "IT",
+              "name" : "Italy"
+            },
+            {
+              "id" : 91,
+              "code" : "GU",
+              "name" : "Guam"
+            },
+            {
+              "id" : 250,
+              "code" : "AN",
+              "name" : "Netherlands Antilles"
+            },
+            {
+              "id" : 112,
+              "code" : "JM",
+              "name" : "Jamaica"
+            },
+            {
+              "id" : 113,
+              "code" : "JP",
+              "name" : "Japan"
+            },
+            {
+              "id" : 237,
+              "code" : "US",
+              "name" : "United States of America"
+            },
+            {
+              "id" : 41,
+              "code" : "CA",
+              "name" : "Canada"
+            },
+            {
+              "id" : 46,
+              "code" : "CN",
+              "name" : "China"
+            },
+            {
+              "id" : 32,
+              "code" : "BR",
+              "name" : "Brazil"
+            },
+            {
+              "id" : 14,
+              "code" : "AU",
+              "name" : "Australia"
+            },
+            {
+              "id" : 84,
+              "code" : "DE",
+              "name" : "Germany"
+            },
+            {
+              "id" : 144,
+              "code" : "MX",
+              "name" : "Mexico"
+            },
+            {
+              "id" : 235,
+              "code" : "GB",
+              "name" : "United Kingdom of Great Britain and Northern Ireland"
+            },
+            {
+              "id" : 104,
+              "code" : "IN",
+              "name" : "India"
+            },
+            {
+              "id" : 10,
+              "code" : "AG",
+              "name" : "Antigua and Barbuda"
+            },
+            {
+              "id" : 13,
+              "code" : "AW",
+              "name" : "Aruba"
+            },
+            {
+              "id" : 20,
+              "code" : "BB",
+              "name" : "Barbados"
+            },
+            {
+              "id" : 23,
+              "code" : "BZ",
+              "name" : "Belize"
+            },
+            {
+              "id" : 25,
+              "code" : "BM",
+              "name" : "Bermuda"
+            },
+            {
+              "id" : 54,
+              "code" : "CR",
+              "name" : "Costa Rica"
+            },
+            {
+              "id" : 75,
+              "code" : "FJ",
+              "name" : "Fiji"
+            },
+            {
+              "id" : 108,
+              "code" : "IE",
+              "name" : "Ireland"
+            }
+          ],
+          "supported_languages" : [
+            {
+              "id" : 152,
+              "code" : "en",
+              "name" : "English",
+              "location" : null
+            }
+          ],
+          "target_industries" : [
+            {
+              "id" : 58,
+              "code" : "31",
+              "name" : "Hospitality"
+            },
+            {
+              "id" : 76,
+              "code" : "30",
+              "name" : "Leisure, Travel & Tourism"
+            }
+          ],
+          "price_range_id" : 1,
+          "aggregated_review_ratings" : {
+            "industry" : {
+              "28" : 4.0,
+              "91" : 5.0,
+              "44" : 4.5,
+              "68" : 4.0,
+              "30" : 4.6,
+              "14" : 4.0,
+              "115" : 5.0,
+              "31" : 4.65,
+              "40" : 5.0,
+              "64" : 4.83
+            },
+            "company_size" : {
+              "1001-5000 employees" : 5.0,
+              "11-50 employees" : 4.57,
+              "Self-employed" : 5.0,
+              "51-200 employees" : 4.7,
+              "201-500 employees" : 4.5,
+              "10,001+ employees" : 5.0,
+              "1-10 employees" : 4.73
+            }
+          },
+          "vct_enabled" : false,
+          "pricing_plans" : [
+            {
+              "created_on_utc" : "2019-08-21T14:47:39Z",
+              "modified_on_utc" : "2022-04-11T20:39:21Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Basic",
+              "description" : null,
+              "display_order" : 1,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : null,
+              "ending_price" : null,
+              "pricing_model_name" : "Per Feature",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [ ]
+            }
+          ],
+          "discount_types" : [ ]
+        }
+      }
+    ]
+  }
+}

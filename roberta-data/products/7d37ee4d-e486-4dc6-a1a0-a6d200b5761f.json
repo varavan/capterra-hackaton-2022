@@ -1,0 +1,2318 @@
+{
+  "took" : 3,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 3,
+    "successful" : 3,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : {
+      "value" : 2,
+      "relation" : "eq"
+    },
+    "max_score" : 10.871598,
+    "hits" : [
+      {
+        "_index" : "product_listings_main_data_upc_vt20220920_043802_utc",
+        "_type" : "_doc",
+        "_id" : "220519_salestrack",
+        "_score" : 10.871598,
+        "_source" : {
+          "product_id" : 220519,
+          "seo_product_id" : 9663,
+          "seo_slug" : "OnContact-CRM",
+          "product_name" : "OnContact CRM 7",
+          "upc_product_uuid" : "7d37ee4d-e486-4dc6-a1a0-a6d200b5761f",
+          "old_product_ids" : [
+            9663,
+            213935
+          ],
+          "product_url" : "http://www.workwisellc.com/crm-software/",
+          "product_slug" : "OnContact-CRM-7",
+          "former_name" : "OnContact CRM 7",
+          "logo_filepath" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/07a615a1-aaef-4b99-b927-69ee7b00ebc1.png",
+          "vendor" : {
+            "vendor_id" : 2020564,
+            "vendor_name" : "Aptean",
+            "vendor_url" : "http://www.aptean.com/",
+            "year_founded" : 1984,
+            "location" : "United States",
+            "vendor_opted_out_of_reviews" : true,
+            "is_opted_out_of_reviews" : false,
+            "is_hit_limit" : false,
+            "enabled" : true,
+            "has_vendor_level_page" : false,
+            "slug" : null,
+            "vendor_page" : false,
+            "paused_campaign" : false
+          },
+          "category_short_name" : "salestrack",
+          "category_html_name" : "sales-tracking-software",
+          "category" : {
+            "id" : 32744,
+            "short_name" : "salestrack",
+            "long_name" : "Sales Tracking",
+            "html_name" : "sales-tracking-software",
+            "enabled" : true
+          },
+          "best_category" : "salestrack",
+          "is_best_category" : true,
+          "highest_cpc_category" : null,
+          "is_highest_cpc_category" : false,
+          "short_desc" : "OnContact CRM showcases complete sales, marketing, call center and customer service automation functionality in a responsive interface.",
+          "long_desc" : "OnContact CRM is a full-featured, flexible, and customizable CRM solution that provides the competitive edge your company needs. Offered as a cloud or on-premise deployment, this award-winning CRM application showcases complete sales automation, marketing automation, customer service, and contact center functionality wrapped in a responsive interface that adjusts seamlessly across all browser sizes and mobile devices.",
+          "rating" : 4.4,
+          "number_of_reviews" : 7,
+          "total_reviews" : 36,
+          "ease_of_use_rating" : 4.3,
+          "customer_support_rating" : 4.8,
+          "functionality_rating" : 4.2,
+          "value_for_money_rating" : 4.6,
+          "recommendation_rating" : 8.8,
+          "pricing_enabled" : true,
+          "pricing" : 60.0,
+          "is_per_user" : false,
+          "fee_schedule" : "Per-Month",
+          "pricing_model" : "Per Feature",
+          "pricing_details" : "Cloud CRM $60.00 per user, per month \nOn-Premise $995.00 per user",
+          "pricing_created_on" : "2019-08-21T14:47:39Z",
+          "pricing_modified_on" : "2022-04-11T20:39:17Z",
+          "pricing_created_by" : null,
+          "pricing_modified_by" : null,
+          "pricing_vendor_pricing_url" : null,
+          "free_trial" : true,
+          "free_version" : false,
+          "target_audience" : "Organizations of all sizes, in all industries.",
+          "target_users" : [
+            "1",
+            "2-10",
+            "11-50",
+            "51-200",
+            "201-500",
+            "501-1000",
+            "1000+"
+          ],
+          "platform" : [
+            {
+              "enabled" : true,
+              "name" : "Cloud, SaaS, Web-Based"
+            },
+            {
+              "enabled" : true,
+              "name" : "Desktop Mac"
+            },
+            {
+              "enabled" : true,
+              "name" : "Desktop Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Linux"
+            },
+            {
+              "enabled" : true,
+              "name" : "On-Premise Windows"
+            },
+            {
+              "enabled" : true,
+              "name" : "On-Premise Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Chromebook"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile Android"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPhone"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPad"
+            }
+          ],
+          "support" : [
+            {
+              "enabled" : false,
+              "name" : "Email Help Desk"
+            },
+            {
+              "enabled" : true,
+              "name" : "FAQ Forum"
+            },
+            {
+              "enabled" : false,
+              "name" : "Knowledgebase"
+            },
+            {
+              "enabled" : false,
+              "name" : "Phone Support"
+            },
+            {
+              "enabled" : false,
+              "name" : "24/7 Live Rep"
+            },
+            {
+              "enabled" : true,
+              "name" : "Chat"
+            }
+          ],
+          "training" : [
+            {
+              "enabled" : false,
+              "name" : "Not Offered"
+            },
+            {
+              "enabled" : true,
+              "name" : "In-Person"
+            },
+            {
+              "enabled" : true,
+              "name" : "Live Online"
+            },
+            {
+              "enabled" : true,
+              "name" : "Webinars"
+            },
+            {
+              "enabled" : true,
+              "name" : "Documentation"
+            },
+            {
+              "enabled" : false,
+              "name" : "Videos"
+            }
+          ],
+          "media" : [ ],
+          "links" : [ ],
+          "features" : [
+            {
+              "category_name" : "Sales Tracking",
+              "category_features" : [
+                {
+                  "name" : "Activity Dashboard",
+                  "value" : false,
+                  "id" : "856ab03e-a530-4ea9-bac6-968761c9b6c6",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Alerts/Notifications",
+                  "value" : false,
+                  "id" : "aef68b72-bd4c-4797-ae8c-4735512de81a",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Appointment Scheduling",
+                  "value" : false,
+                  "id" : "3a768565-c8c8-4710-a44d-2e2e4b16d16b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Call Logging",
+                  "value" : false,
+                  "id" : "1d1bda13-276d-4128-af5f-c429b1376e05",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Commenting/Notes",
+                  "value" : false,
+                  "id" : "57b304b0-9ad4-466a-abf6-22eafa0e426d",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Customizable Reports",
+                  "value" : false,
+                  "id" : "fcd1199d-1f74-4104-b348-3de5a9f29347",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Document Management",
+                  "value" : false,
+                  "id" : "a55b34ad-b6ec-4072-b3bd-a7151f7843de",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Email Templates",
+                  "value" : false,
+                  "id" : "4fa6d039-46f4-45f8-9154-b6f6858a629b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Interaction Tracking",
+                  "value" : true,
+                  "id" : "6b92e658-1ab6-4f43-93d2-a2f5bb3f1f65",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Lead Management",
+                  "value" : true,
+                  "id" : "995266c2-fafb-456e-b73c-3d394a240ae3",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Lead Scoring",
+                  "value" : false,
+                  "id" : "a67fe0bc-8c79-45d5-883d-491997abbf90",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Reporting/Analytics",
+                  "value" : false,
+                  "id" : "b0c186d0-0194-4300-abba-ca3bc2474bbe",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Sales Pipeline Management",
+                  "value" : false,
+                  "id" : "a67e943f-bce6-4c6b-86a7-ae895efb3f13",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Task Management",
+                  "value" : false,
+                  "id" : "82ce67d3-ac09-49d0-ae71-5e6401e3e26b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Third Party Integrations",
+                  "value" : false,
+                  "id" : "2a19a42a-aaa2-464e-90a6-5cbcb1791759",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                }
+              ]
+            }
+          ],
+          "infographics" : [ ],
+          "related_products" : [
+            {
+              "product_id" : 226233,
+              "seo_product_id" : 589,
+              "seo_slug" : "Salesforce",
+              "vendor_name" : "Salesforce",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/f11ea590-5812-4ce0-a108-3837d065513d.png",
+              "rating" : 4.4,
+              "total_reviews" : 17167,
+              "slug" : "Salesforce-Sales-Cloud",
+              "product_name" : "Salesforce Sales Cloud",
+              "short_desc" : "Drive growth with Sales Cloud 360, the best-in-class sales solution that drives rep productivity on the world's #1 CRM platform.",
+              "features" : "Drive growth with Sales Cloud 360, the best-in-class sales solution that has helped power the world's best sales teams on the world's #1 CRM platform. Firms of all sizes, industries, and geographies, realize value faster with Sales Cloud 360. Increase rep productivity with data driven selling by quickly deploying industry-specific apps and best practice processes.  You also get access to 150,000+ sales organizations and a 2 million user-strong community that are passionate about sales growth. ",
+              "url" : "https://www.salesforce.com/products/sales-cloud/overview/"
+            },
+            {
+              "product_id" : 223924,
+              "seo_product_id" : 223924,
+              "seo_slug" : "Mailchimp",
+              "vendor_name" : "Intuit",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/247db203-7811-4bdc-9c0a-729dbae623b5.png",
+              "rating" : 4.5,
+              "total_reviews" : 14779,
+              "slug" : "Mailchimp",
+              "product_name" : "Mailchimp",
+              "short_desc" : "Mailchimp's all-in-one Marketing Platform helps small businesses market smarter so you can grow faster. ",
+              "features" : "Mailchimp's all-in-one Marketing Platform helps small businesses market smarter so you can grow faster. As the backbone for your customer relationships, they provide AI-powered, user-friendly tools anyone can use to be successful. Mailchimp puts your audience at the center so you can send marketing emails and automated messages, create targeted ad campaigns, build landing pages, send postcards, facilitate reporting and analytics, and sell online. ",
+              "url" : "http://www.mailchimp.com"
+            },
+            {
+              "product_id" : 158833,
+              "seo_product_id" : 251341,
+              "seo_slug" : "ClickUp",
+              "vendor_name" : "ClickUp",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/98ca9b83-b6bd-4a44-92d1-63c526d17630.png",
+              "rating" : 4.7,
+              "total_reviews" : 3020,
+              "slug" : "ClickUp",
+              "product_name" : "ClickUp",
+              "short_desc" : "ClickUp is the future of work - it's one app to replace them all. ClickUp is the #1 fastest growing productivity app in 2022.",
+              "features" : "ClickUp is an all-in-one productivity platform that eliminates work silos. It's the hub where teams come together to plan, organize, and collaborate on work using tasks, Docs, Chat, Goals, Whiteboards, and more. \n\nEasily customized with just a few clicks, ClickUp helps teams of all types and sizes deliver work more effectively. By replacing inflexible and overlapping tools, ClickUp helps teams save one day each week! ",
+              "url" : "https://clickup.com/teams/sales?utm_medium=cpc&utm_source=capterra&utm_campaign=capt_cpc_t1_nnc_pro_trial_all-devices_cpc_lp_x_all-deparments_x_sales-tracking"
+            },
+            {
+              "product_id" : 226798,
+              "seo_product_id" : 226798,
+              "seo_slug" : "Zendesk",
+              "vendor_name" : "Zendesk",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/20f0b4b6-a84c-436b-854e-81f894defdbf.png",
+              "rating" : 4.4,
+              "total_reviews" : 3001,
+              "slug" : "Zendesk",
+              "product_name" : "Zendesk",
+              "short_desc" : "Zendesk provides the complete customer service solution that's easy to use and scales with your business.",
+              "features" : "Zendesk is the only complete customer service solution, that is both easy to use and scales with your business. On average, companies using Zendesk increase customer satisfaction by 25% and agent productivity by 30% - at any scale. All your customer interactions live in a single, dynamic interface with features like web widgets, pre-defined ticket responses, and a full customer history. Get up and running quickly, and expect to see results even faster.",
+              "url" : "https://www.zendesk.com/"
+            },
+            {
+              "product_id" : 225856,
+              "seo_product_id" : 152591,
+              "seo_slug" : "Pipedrive",
+              "vendor_name" : "Pipedrive",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4d2d5d98-c70f-444e-98da-9c3d9bf384a7.png",
+              "rating" : 4.5,
+              "total_reviews" : 2431,
+              "slug" : "Pipedrive",
+              "product_name" : "Pipedrive",
+              "short_desc" : "Pipedrive is an easy to implement CRM software tool that helps you focus on the activities that drive deals to close.",
+              "features" : "Pipedrive is a sales-focused customer relationship management tool that teams of all sizes love using. With 100'000+ paying customers spanning across 179 countries, sales teams are drawn in by our CRMs simple yet powerful design that prioritizes usability above all else. When using Pipedrive, nothing falls through the cracks, allowing your team to spend less time filing and more time selling with a CRM software that is both agile and powerful.",
+              "url" : "https://www.pipedrive.com/"
+            },
+            {
+              "product_id" : 123032,
+              "seo_product_id" : 123032,
+              "seo_slug" : "Nimble",
+              "vendor_name" : "Nimble",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/0a460f98-bfe9-4de9-a3b8-9d1a269fb560.png",
+              "rating" : 4.4,
+              "total_reviews" : 1776,
+              "slug" : "Nimble",
+              "product_name" : "Nimble",
+              "short_desc" : "Nimble is the simple, smart CRM for Office 365 & G Suite that works for you -- everywhere you work. ",
+              "features" : "Nimble is the simple, smart CRM for Office 365 & G Suite that works for you by automatically combining your contacts, communication histories, email inboxes, and calendar appointments with over 250+ SaaS business app contacts and social media connections (including Linkedin, Twitter, Facebook) into one unified team relationship manager.\n\n",
+              "url" : "https://www.nimble.com/?utm_source=Capterra&utm_medium=CPC&utm_campaign=Capterramarch2018"
+            },
+            {
+              "product_id" : 133171,
+              "seo_product_id" : 133171,
+              "seo_slug" : "Act",
+              "vendor_name" : "Act!",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/5f8aa23f-eb6f-42cd-b33a-e310a590c803.png",
+              "rating" : 3.7,
+              "total_reviews" : 672,
+              "slug" : "Act",
+              "product_name" : "Act!",
+              "short_desc" : "Act! Premium empowers you to market better, sell more, and create customers for life. ",
+              "features" : "Act! Premium, a powerful CRM and Marketing Automation tool in one platform, is perfect for small and midsize businesses looking to market better, sell more, and create customers for life. With unparalleled flexibility and freedom of choice, Act! Premium accommodates the unique ways you do business, whether it's on-premises (Act! Premium Desktop), in the cloud (Act! Premium Cloud), or, you can leverage a hybrid deployment for maximum flexibility! \n\n",
+              "url" : "https://act.com/customizable-crm-and-marketing-automation/?utm_campaign=Capterra&utm_source=ppc&utm_medium=Capterra"
+            },
+            {
+              "product_id" : 216959,
+              "seo_product_id" : 216959,
+              "seo_slug" : "HoneyBook",
+              "vendor_name" : "HoneyBook",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/7c248c64-bbf4-404f-9bf9-d90383f75647.png",
+              "rating" : 4.8,
+              "total_reviews" : 499,
+              "slug" : "HoneyBook",
+              "product_name" : "HoneyBook",
+              "short_desc" : "Tools for the modern professional: proposals, contracts, payments, and more.  Try 7 days free when you're ready.",
+              "features" : "HoneyBook helps creative entrepreneurs and freelancers book more clients, manage projects and get paid all in one place. With our business management software, you can automate your busy work and stay on top of all your to-dos, saving time and money so you can grow your business. Its like your own personal assistant.\n\nSmall business owners and freelancers have used HoneyBook to increase their bookings and save time.\n\nFor your first 6 months, get HoneyBook for $1 per month with code ONLY1.",
+              "url" : "https://get.honeybook.com/onedollar?utm_campaign=general_julypromo&utm_medium=cpc&utm_source=capterra"
+            },
+            {
+              "product_id" : 155563,
+              "seo_product_id" : 152809,
+              "seo_slug" : "Freshsales",
+              "vendor_name" : "Freshworks",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/bf6a3584-3313-4a13-86a7-6d6d000780e8.png",
+              "rating" : 4.6,
+              "total_reviews" : 499,
+              "slug" : "Freshsales",
+              "product_name" : "Freshsales",
+              "short_desc" : "Freshsales is packed with features and a highly intuitive UI so that you don't have to juggle multiple tools to run your business. ",
+              "features" : "Freshsales is a full-fledged sales force automation solution for sales teams. It provides everything a salesperson needs to- attract quality leads, engage in contextual conversations, drive deals with AI-powered insights, and nurture customer relationships. With built-in email, phone, chat, and telephony, Freshsales empowers sales teams with more time for selling by automating the sales process and increases efficiency and productivity in their daily activities. ",
+              "url" : "https://www.freshworks.com/crm/?utm_medium=Capterra-CRM-listing&utm_campaign=CRM-Software-Capterra&tactic_id=3530094"
+            },
+            {
+              "product_id" : 124465,
+              "seo_product_id" : 124465,
+              "seo_slug" : "Streak",
+              "vendor_name" : "Streak",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e55eb78f-a03f-495d-92d4-5b0dce712dd0.png",
+              "rating" : 4.5,
+              "total_reviews" : 423,
+              "slug" : "Streak",
+              "product_name" : "Streak",
+              "short_desc" : "Streak is the only CRM integrated entirely within your Gmail inbox, and works alongside all your other Google Workspace applications.",
+              "features" : "Streak is the only CRM integrated entirely within your Gmail inbox, and works alongside all your other Google Workspace applications.  It can be used to track any business processes including sales, partnerships, support, hiring, deal flow, and much more.  Streak also includes a powerful set of email tools such email tracking and mail merge (with automated follow-ups). ",
+              "url" : "https://www.streak.com/"
+            },
+            {
+              "product_id" : 222137,
+              "seo_product_id" : 2688,
+              "seo_slug" : "Raiser-s-Edge-NXT",
+              "vendor_name" : "Blackbaud",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/911a7dd5-0e33-46bb-867d-7356bb07f37d.png",
+              "rating" : 4.2,
+              "total_reviews" : 394,
+              "slug" : "Blackbaud-Raisers-Edge-NXT",
+              "product_name" : "Blackbaud Raiser's Edge NXT",
+              "short_desc" : "Fundraising solution that helps you communicate with your constituents and make better decisions.",
+              "features" : "Raisers Edge NXT is a smart, cloud fundraising solution built to help nonprofits achieve sustainable growth. It's a total solution that includes all the tools needed to be successful on one platform and one simple subscription price. This includes data enrichment services, event management, and social and email marketing tools, online donations, flexible reporting and actionable analytics.  Raisers Edge NXT pulls together your processes and people to move your entire mission forward.",
+              "url" : "https://www.blackbaud.com/files/raisers-edge-experience/index.html"
+            }
+          ],
+          "similar_products" : [
+            {
+              "product_id" : 157329,
+              "seo_product_id" : 212362,
+              "seo_slug" : "Sales-Rabbit",
+              "vendor_name" : "Sales Rabbit",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/dea15056-10ef-4357-80c1-91ee5d393631.png",
+              "rating" : 4.2,
+              "total_reviews" : 181,
+              "slug" : "Sales-Rabbit",
+              "product_name" : "SalesRabbit",
+              "short_desc" : "The only choice for comprehensive sales enablement.",
+              "features" : "SalesRabbit's game-changing methodology is based on research they've done with sales pros and the top teams in the industry. It targets the main traction points of every successful organization: rep motivation, team efficiency, and sales mastery. The app is built to help your company make changes that enable peak performance at every door. Their dedicated CSMs and support staff work with you to implement these strategies, ensuring you get the results every door-to-door company hopes for.\r\n",
+              "url" : "https://salesrabbit.com/landing/promo/sales-app-11/?utm_source=capterrra&utm_medium=paid_search&utm_campaign=software-review&utm_content=home-page-default"
+            },
+            {
+              "product_id" : 149715,
+              "seo_product_id" : 266201,
+              "seo_slug" : "Vymo",
+              "vendor_name" : "Vymo",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8f5fe1c3-b34f-42c0-9c83-54b10a8e6e1c.png",
+              "rating" : 4.7,
+              "total_reviews" : 38,
+              "slug" : "Vymo",
+              "product_name" : "Vymo",
+              "short_desc" : "Sales Acceleration Platform for the world's largest Financial Services Institutions.",
+              "features" : "Vymo is the Sales Acceleration Platform for leading Financial Institutions across the world. It\nsolves for frontline personnel, sales managers and business leaders through mobility, insights\nand industry playbooks. \n\n60+ global financial institutions have deployed Vymo to solve over 18 deep industry-relevant use cases ranging from allocating leads to the best-fit salespeople to identifying potential cross-sell opportunities and driving conversions.",
+              "url" : "https://info.gartnerdigitalmarkets.com/vymo-gdm-lp/"
+            },
+            {
+              "product_id" : 245800,
+              "seo_product_id" : 245800,
+              "seo_slug" : "Monday-CRM",
+              "vendor_name" : "monday.com",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/89099d96-d149-4414-ae0d-25607ca4cd8a.png",
+              "rating" : 4.7,
+              "total_reviews" : 348,
+              "slug" : "Monday-CRM",
+              "product_name" : "monday sales CRM",
+              "short_desc" : "Let monday sales CRM help you track, manage, and improve your entire sales pipeline with the help of a no-code, customizable platform.",
+              "features" : "Let monday sales CRM help you track, manage, monitor, and improve your entire sales pipeline. Centralize customer and lead information, maximize lead generation, utilize advanced reporting features to assess your success rate and sharpen your sales strategy, and save valuable time by automating repetitive work. monday sales CRM also lets you connect with the tools you already use through seamless integrations, and improves teamwork thanks to the collaborative nature of the platform.",
+              "url" : "https://monday.com/lp/aw/crm-software?utm_medium=cpc&utm_campaign=ww-multi-prm-crm-workos-desktop-crm-listing-core&utm_adgroup=crm"
+            },
+            {
+              "product_id" : 159318,
+              "seo_product_id" : 224333,
+              "seo_slug" : "Outreach",
+              "vendor_name" : "Outreach",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/9bafad58-0a5e-4a95-b31e-2ed02e70b97a.png",
+              "rating" : 4.4,
+              "total_reviews" : 267,
+              "slug" : "Outreach",
+              "product_name" : "Outreach",
+              "short_desc" : "Outreach is the only solution to integrate sales engagement, conversation intelligence, and revenue intelligence into one platform.",
+              "features" : "Outreach Commit delivers real-time pipeline analysis and buyer engagement signals to bring science to the art of forecasting, enabling revenue leaders to go from guessing the future to changing it with recommended actions. Deliver revenue growth with the platform trusted by more than 5,000 companies such as Adobe, Tableau, Okta, Splunk, DocuSign, and SAP.\n",
+              "url" : "https://www.outreach.io/lp/watch-demo-b-2?utm_source=Capterra&utm_medium=Referral&utm_content=Profile&utm_campaign=Global_Q2FY23__Capterra"
+            },
+            {
+              "product_id" : 253713,
+              "seo_product_id" : 253713,
+              "seo_slug" : "Chorus",
+              "vendor_name" : "ZoomInfo",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/9ebb8aa9-9cd1-418c-9b22-649f1968ff45.png",
+              "rating" : 4.6,
+              "total_reviews" : 60,
+              "slug" : "Chorus",
+              "product_name" : "Chorus",
+              "short_desc" : "Chorus is the leader in conversation intelligence and an integral part of ZoomInfo's (NASDAQ: ZI) leading modern go-to-market software.",
+              "features" : "Chorus by ZoomInfo provides the Conversation Intelligence platform that captures & analyzes all your sales interactions across phone calls, video meetings, and email to ensure your sales teams win more deals and hit their number. ",
+              "url" : "https://www.zoominfo.com/offers/chorus-list-offer?camp_id=7014y000001x7deAAA"
+            },
+            {
+              "product_id" : 231665,
+              "seo_product_id" : 252956,
+              "seo_slug" : "Numerik",
+              "vendor_name" : "Numerik",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/f14d879e-efc3-402d-9af8-67cf08a030dc.jpeg",
+              "rating" : 4.8,
+              "total_reviews" : 13,
+              "slug" : "Numerik",
+              "product_name" : "Numerik",
+              "short_desc" : "The roadmap and rocket fuel to make sales targets early. Numerik is a sales performance app that helps reps make your number. ",
+              "features" : "Do you have ambitious sales targets to meet? Numerik is the roadmap and rocket fuel that will help your team smash through them. \n\nIf you've got hefty goals to make, don't just hire more reps! let's make your existing team more effective.\n\nFeaturing tools to track targets, forecast performance, identify sales gaps, report activity and results, motivate reps and more. \n\nUnlike other sales tools like CRMs and ERPs, Numerik easily slots into a rep's day and complements their busy lifestyle. ",
+              "url" : "https://www.numerik.ly/sales-performance-app"
+            },
+            {
+              "product_id" : 159470,
+              "seo_product_id" : 159470,
+              "seo_slug" : "Mixmax",
+              "vendor_name" : "Mixmax",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/fde75d4a-f538-4b4d-9f7e-5d9c5c609afe.png",
+              "rating" : 4.5,
+              "total_reviews" : 180,
+              "slug" : "Mixmax",
+              "product_name" : "Mixmax",
+              "short_desc" : "The #1 Sales Engagement Platform for Gmail. Eliminate busywork and enable real engagement; make your AEs and CSMs more productive!",
+              "features" : "Mixmax, the #1 Sales Engagement Platform for Gmail, helps revenue teams accelerate revenue at every stage of the customer journey. We amplify AEs, CSMs, and anyone in a customer-facing role, not just the SDRs. By automating repetitive tasks and organizing their daily workflows, we increase reps' productivity and empower them with the tools they need to do what they do best: sell. Mixmax customers see a positive ROI in less than 6 months and go live in less than 1 day.",
+              "url" : "https://mixmax.com/revenue?utm_campaign=Capterra&utm_source=capterra"
+            },
+            {
+              "product_id" : 135636,
+              "seo_product_id" : 225712,
+              "seo_slug" : "Kixie-PowerCall",
+              "vendor_name" : "Kixie",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/2d54b99d-d74d-4a6c-99aa-442524562dba.png",
+              "rating" : 4.7,
+              "total_reviews" : 197,
+              "slug" : "Kixie-PowerCall",
+              "product_name" : "Kixie PowerCall",
+              "short_desc" : "Kixie is the sales engagement platform that boosts sales team performance with ultra-reliable, easily-automated calling & texting.\r\n",
+              "features" : "Better Sales, Made Simple. Kixie is the sales engagement platform that boosts sales team performance with ultra-reliable, easily-automated calling and texting for Hubspot, SalesForce, Zoho, Pipedrive, and leading CRMs. Supercharge your CRM into an automated sales machine with intelligent autodialing, seamless CRM integration, and Enterprise phone service. Start making calls in 3 minutes with no hardware and a 100% free trial. \r\n\r\n",
+              "url" : "https://www.kixie.com/?utm_source=capterra&utm_medium=cpc&utm_campaign=software+review+sites"
+            },
+            {
+              "product_id" : 158833,
+              "seo_product_id" : 251341,
+              "seo_slug" : "ClickUp",
+              "vendor_name" : "ClickUp",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/98ca9b83-b6bd-4a44-92d1-63c526d17630.png",
+              "rating" : 4.7,
+              "total_reviews" : 3020,
+              "slug" : "ClickUp",
+              "product_name" : "ClickUp",
+              "short_desc" : "ClickUp is the future of work - it's one app to replace them all. ClickUp is the #1 fastest growing productivity app in 2022.",
+              "features" : "ClickUp is an all-in-one productivity platform that eliminates work silos. It's the hub where teams come together to plan, organize, and collaborate on work using tasks, Docs, Chat, Goals, Whiteboards, and more. \n\nEasily customized with just a few clicks, ClickUp helps teams of all types and sizes deliver work more effectively. By replacing inflexible and overlapping tools, ClickUp helps teams save one day each week! ",
+              "url" : "https://clickup.com/?utm_source=capterra&utm_medium=cpc&utm_campaign=capt_cpc_t1_nnc_pro_trial_all-devices_cpc_lp_x_all-departments_x_generic"
+            },
+            {
+              "product_id" : 155563,
+              "seo_product_id" : 152809,
+              "seo_slug" : "Freshsales",
+              "vendor_name" : "Freshworks",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/bf6a3584-3313-4a13-86a7-6d6d000780e8.png",
+              "rating" : 4.6,
+              "total_reviews" : 499,
+              "slug" : "Freshsales",
+              "product_name" : "Freshsales",
+              "short_desc" : "Freshsales is packed with features and a highly intuitive UI so that you don't have to juggle multiple tools to run your business. ",
+              "features" : "Freshsales is a full-fledged sales force automation solution for sales teams. It provides everything a salesperson needs to- attract quality leads, engage in contextual conversations, drive deals with AI-powered insights, and nurture customer relationships. With built-in email, phone, chat, and telephony, Freshsales empowers sales teams with more time for selling by automating the sales process and increases efficiency and productivity in their daily activities. ",
+              "url" : "https://www.freshworks.com/crm/?utm_medium=Capterra-CRM-listing&utm_campaign=CRM-Software-Capterra&tactic_id=3530094"
+            },
+            {
+              "product_id" : 204998,
+              "seo_product_id" : 227464,
+              "seo_slug" : "Bigin",
+              "vendor_name" : "Zoho",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/add361b8-2db6-47d3-8627-8651bf1573dd.png",
+              "rating" : 4.6,
+              "total_reviews" : 100,
+              "slug" : "Bigin-by-Zoho-CRM",
+              "product_name" : "Bigin by Zoho CRM",
+              "short_desc" : "Bigin helps small businesses move away from spreadsheets and get started with a CRM solution that is truly built for their needs.",
+              "features" : "Bigin, a pipeline centric CRM helps you gather all your prospect information, making it effortless to track and convert your sales leads. \n\nWith the sheer motive to be simple, Bigin is packed with the right features, user-friendly interface, at a pocket friendly price to fit your small business like a glove! \nBigin brings you everything you need-multiple pipelines, built-in telephony, workflow, seamless integrations and a lot more, just to ensure you manage your customer relationships with ease.",
+              "url" : "https://www.bigin.com/simple-small-business-crm.html?utm_medium=cpc&utm_campaign=gartnerbigin"
+            },
+            {
+              "product_id" : 205125,
+              "seo_product_id" : 205125,
+              "seo_slug" : "iHomefinder",
+              "vendor_name" : "iHomefinder",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/b256b931-1114-48d8-a283-7e51361697b1.png",
+              "rating" : 4.4,
+              "total_reviews" : 20,
+              "slug" : "iHomefinder",
+              "product_name" : "iHomefinder",
+              "short_desc" : "IDX website, real estate CRM, and marketing solutions that help real estate agents & brokers grow their business.",
+              "features" : "For over 20 years, thousands of real estate professionals have relied on us to deliver the best IDX property search and technology solutions that help them attract and close more clients.\n\nMuch more than property search, we provide complete solutions that help you attract new prospects, bring in leads, close clients, and build repeat business. \n\nYou can add our service to any website, without requiring  framing, or you can get one of our ready-to-use, hosted websites with IDX property search.",
+              "url" : "https://www.ihomefinder.com/landing/idx-with-real-estate-crm/"
+            },
+            {
+              "product_id" : 130188,
+              "seo_product_id" : 130188,
+              "seo_slug" : "Cirrus-Insight",
+              "vendor_name" : "Cirruspath",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/c6276e3a-81b5-4aae-8f91-e6596c65ec42.png",
+              "rating" : 4.1,
+              "total_reviews" : 108,
+              "slug" : "Cirrus-Insight",
+              "product_name" : "Cirrus Insight",
+              "short_desc" : "Make sales as easy as email. Sync your calendar & emails with Salesforce, track emails, schedule appointments, set follow-ups & more!",
+              "features" : "You work in your inbox, not in Salesforce. No one has to force you to use email. It's easy to use and effective. We think Salesforce should be just as useful and just as simple.\r\n\r\nThat's why we bring Salesforce into the inbox. To save you time and make you more productive.\r\n\r\nNow you can see and update Salesforce as you work. Sync emails to Salesforce, track email opens, create and update Salesforce records, schedule calls and much more.\r\n\r\nTry Cirrus Insight free for 14 days!",
+              "url" : "https://www.cirrusinsight.com/capterra/demo-request-decision-lp?utm_campaign=capterra"
+            }
+          ],
+          "related_categories" : [
+            {
+              "functional_group" : "salestrack",
+              "long_name" : "CRM",
+              "html_name" : "customer-relationship-management-software",
+              "link_name" : "customer-relationship-management",
+              "product_count" : 353,
+              "meta_description" : "Find and compare top Customer Relationship Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Customer Relationship Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "Customer Relationship Management (CRM) software enables customer interaction, support and relationship management.  The purpose of a CRM application is to enable organizations to better manage their customers through the introduction of reliable systems, processes and procedures. <a href=/customer-relationship-management-software>Customer Relationship Management software</a> integrates organizational processes across marketing, sales and customer services.  CRM software is related to <a href=/contract-management-software>Contract Management software</a> and <a href=\"/online-crm-software\">Online CRM software</a>."
+            },
+            {
+              "functional_group" : "salestrack",
+              "long_name" : "Lead Management",
+              "html_name" : "lead-management-software",
+              "link_name" : "lead-management",
+              "product_count" : 137,
+              "meta_description" : "Find and compare top Lead Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Lead Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/lead-management-software>Lead Management software</a> enables the forecasting, collection and tracking of sales leads.  Through the use of Lead Management solutions, organizations can automate and manage their prospect database as well as share and distribute leads throughout the enterprise.  Organizations can also use Lead Management tools to track the progress of leads, analyze the performance of sales staff and marketing campaigns and develop new leads from their existing customer base.  <a href=/lead-management-software>Lead Management software</a> is related to <a href=/contact-management-software>Contact Management software</a> and <a href=/sales-force-automation-software>Sales Force Automation software</a>."
+            },
+            {
+              "functional_group" : "salestrack",
+              "long_name" : "Sales Enablement",
+              "html_name" : "sales-enablement-software",
+              "link_name" : "sales-enablement",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Sales Enablement software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Sales Enablement tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "Sales Enablement covers content and communication tools that help sales teams show off product information to prospective customers, engage potential leads, and overall boost sales team performance. These solutions align sales with marketing to ensure that the sales team gets the most up to date materials. Sales Enablement software includes presentation tools and gamification applications, as well as collaborative content editing and sharing solutions."
+            },
+            {
+              "functional_group" : "salestrack",
+              "long_name" : "Sales Force Automation",
+              "html_name" : "sales-force-automation-software",
+              "link_name" : "sales-force-automation",
+              "product_count" : 176,
+              "meta_description" : "Find and compare top Sales Force Automation software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Sales Force Automation tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/sales-force-automation-software>Sales Force Automation software</a> manages an organization's sales force functions which can include: lead management, customer account management, contact management, quote management, forecasting, customer demographics and <a href=\"/performance-appraisal-software\">employee performance management</a>. Sales Force Automation applications improve sales productivity while providing a method of distribution for sales analytics throughout an enterprise.  <a href=/sales-force-automation-software>Sales Force Automation software</a> is related to <a href=/commission-software>Commission software</a>, <a href=/contact-management-software>Contact Management software</a>, <a href=/lead-management-software>Lead Management software</a> and <a href=/quoting-software>Quoting software</a>."
+            }
+          ],
+          "is_upgraded" : false,
+          "enabled" : true,
+          "filter_options" : {
+            "users" : 127,
+            "platform" : 951,
+            "pricing_options" : 18,
+            "category_related_features" : [
+              77810,
+              77814,
+              77832
+            ],
+            "employees" : 127
+          },
+          "sort_options" : {
+            "sort_review_rating" : 4.447538375854492,
+            "most_recent_review" : "2020-03-10T17:14:50Z"
+          },
+          "countries" : "ALL",
+          "features_tokenized_text" : "interaction_tracking lead_management",
+          "platform_tokenized_text" : "cloud,saas,web-based desktopmac desktopwindows on-premisewindows on-premiselinux mobileandroid mobileiphone mobileipad",
+          "users_tokenized_text" : "1 2-10 11-50 51-200 201-500 501-1000 1000+",
+          "pricing_tokenized_text" : "monthlysubscription freetrial",
+          "badges" : [ ],
+          "bid_spot_us" : 0.0,
+          "currency_code" : "USD",
+          "currency_symbol" : "$",
+          "credit_card_required" : "Unverified",
+          "licensing_model" : null,
+          "open_api_offered" : "Unverified",
+          "mobile_urls" : [
+            {
+              "name" : "Android",
+              "url" : "https://play.google.com/store/apps/details?hl=en&id=com.Oncontact.Android"
+            },
+            {
+              "name" : "iOS",
+              "url" : "https://itunes.apple.com/us/app/oncontact-crm/id481427715?mt=8&uo=4"
+            }
+          ],
+          "integrations" : [ ],
+          "supported_countries" : [
+            {
+              "id" : 237,
+              "code" : "US",
+              "name" : "United States of America"
+            }
+          ],
+          "supported_languages" : [
+            {
+              "id" : 152,
+              "code" : "en",
+              "name" : "English",
+              "location" : null
+            }
+          ],
+          "target_industries" : [
+            {
+              "id" : 1,
+              "code" : "47",
+              "name" : "Accounting"
+            },
+            {
+              "id" : 84,
+              "code" : "80",
+              "name" : "Marketing and Advertising"
+            },
+            {
+              "id" : 26,
+              "code" : "48",
+              "name" : "Construction"
+            },
+            {
+              "id" : 97,
+              "code" : "100",
+              "name" : "Non-Profit Organization Management"
+            },
+            {
+              "id" : 65,
+              "code" : "42",
+              "name" : "Insurance"
+            },
+            {
+              "id" : 98,
+              "code" : "57",
+              "name" : "Oil & Energy"
+            },
+            {
+              "id" : 25,
+              "code" : "4",
+              "name" : "Computer Software"
+            },
+            {
+              "id" : 78,
+              "code" : "116",
+              "name" : "Logistics and Supply Chain"
+            },
+            {
+              "id" : 41,
+              "code" : "122",
+              "name" : "Facilities Services"
+            },
+            {
+              "id" : 85,
+              "code" : "135",
+              "name" : "Mechanical or Industrial Engineering"
+            },
+            {
+              "id" : 11,
+              "code" : "41",
+              "name" : "Banking"
+            },
+            {
+              "id" : 57,
+              "code" : "14",
+              "name" : "Hospital & Health Care"
+            },
+            {
+              "id" : 134,
+              "code" : "8",
+              "name" : "Telecommunications"
+            },
+            {
+              "id" : 62,
+              "code" : "147",
+              "name" : "Industrial Automation"
+            },
+            {
+              "id" : 43,
+              "code" : "43",
+              "name" : "Financial Services"
+            },
+            {
+              "id" : 74,
+              "code" : "10",
+              "name" : "Legal Services"
+            },
+            {
+              "id" : 53,
+              "code" : "148",
+              "name" : "Government Relations"
+            }
+          ],
+          "price_range_id" : 1,
+          "aggregated_review_ratings" : {
+            "industry" : {
+              "99" : 5.0,
+              "34" : 5.0,
+              "41" : 4.67,
+              "80" : 5.0,
+              "144" : 4.0,
+              "27" : 4.25,
+              "117" : 4.0,
+              "14" : 4.0,
+              "95" : 5.0,
+              "92" : 5.0,
+              "17" : 4.0,
+              "28" : 5.0,
+              "55" : 4.0,
+              "23" : 5.0,
+              "112" : 5.0,
+              "132" : 4.5,
+              "25" : 3.0,
+              "138" : 4.0,
+              "42" : 4.0
+            },
+            "company_size" : {
+              "51-200 employees" : 4.62,
+              "201-500 employees" : 4.6,
+              "10,001+ employees" : 5.0,
+              "1001-5000 employees" : 4.5,
+              "1-10 employees" : 4.75,
+              "11-50 employees" : 4.0
+            }
+          },
+          "vct_enabled" : false,
+          "pricing_plans" : [
+            {
+              "created_on_utc" : "2019-08-21T14:47:39Z",
+              "modified_on_utc" : "2022-04-11T20:39:21Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Basic",
+              "description" : null,
+              "display_order" : 1,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 60.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Per Feature",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [ ]
+            }
+          ],
+          "discount_types" : [ ]
+        }
+      },
+      {
+        "_index" : "product_listings_main_data_upc_vt20220920_043802_utc",
+        "_type" : "_doc",
+        "_id" : "213935_ecrm",
+        "_score" : 10.871598,
+        "_source" : {
+          "product_id" : 213935,
+          "seo_product_id" : 9663,
+          "seo_slug" : "OnContact-CRM",
+          "product_name" : "OnContact CRM 7",
+          "upc_product_uuid" : "7d37ee4d-e486-4dc6-a1a0-a6d200b5761f",
+          "old_product_ids" : [
+            9663,
+            220519
+          ],
+          "product_url" : "http://www.workwisellc.com/crm-software/",
+          "product_slug" : "OnContact-CRM",
+          "former_name" : "OnContact CRM",
+          "logo_filepath" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/07a615a1-aaef-4b99-b927-69ee7b00ebc1.png",
+          "vendor" : {
+            "vendor_id" : 2152626,
+            "vendor_name" : "Aptean",
+            "vendor_url" : "http://www.aptean.com/",
+            "year_founded" : 1984,
+            "location" : "United States",
+            "vendor_opted_out_of_reviews" : true,
+            "is_opted_out_of_reviews" : false,
+            "is_hit_limit" : false,
+            "enabled" : true,
+            "has_vendor_level_page" : false,
+            "slug" : null,
+            "vendor_page" : false,
+            "paused_campaign" : false
+          },
+          "category_short_name" : "ecrm",
+          "category_html_name" : "customer-relationship-management-software",
+          "category" : {
+            "id" : 2,
+            "short_name" : "ecrm",
+            "long_name" : "CRM",
+            "html_name" : "customer-relationship-management-software",
+            "enabled" : true
+          },
+          "best_category" : "ecrm",
+          "is_best_category" : true,
+          "highest_cpc_category" : null,
+          "is_highest_cpc_category" : false,
+          "short_desc" : "OnContact CRM showcases complete sales, marketing, call center and customer service automation functionality in a responsive interface.",
+          "long_desc" : "OnContact CRM is a full-featured, flexible, and customizable CRM solution that provides the competitive edge your company needs. Offered as a cloud or on-premise deployment, this award-winning CRM application showcases complete sales automation, marketing automation, customer service, and contact center functionality wrapped in a responsive interface that adjusts seamlessly across all browser sizes and mobile devices.",
+          "rating" : 4.4,
+          "number_of_reviews" : 7,
+          "total_reviews" : 36,
+          "ease_of_use_rating" : 4.3,
+          "customer_support_rating" : 4.8,
+          "functionality_rating" : 4.2,
+          "value_for_money_rating" : 4.6,
+          "recommendation_rating" : 8.8,
+          "pricing_enabled" : true,
+          "pricing" : 60.0,
+          "is_per_user" : false,
+          "fee_schedule" : "Per-Month",
+          "pricing_model" : "Per Feature",
+          "pricing_details" : "Cloud CRM $60.00 per user, per month \nOn-Premise $995.00 per user",
+          "pricing_created_on" : "2019-08-21T14:47:39Z",
+          "pricing_modified_on" : "2022-04-11T20:39:17Z",
+          "pricing_created_by" : null,
+          "pricing_modified_by" : null,
+          "pricing_vendor_pricing_url" : null,
+          "free_trial" : true,
+          "free_version" : false,
+          "target_audience" : "Organizations of all sizes, in all industries.",
+          "target_users" : [
+            "1",
+            "2-10",
+            "11-50",
+            "51-200",
+            "201-500",
+            "501-1000",
+            "1000+"
+          ],
+          "platform" : [
+            {
+              "enabled" : true,
+              "name" : "Cloud, SaaS, Web-Based"
+            },
+            {
+              "enabled" : true,
+              "name" : "Desktop Mac"
+            },
+            {
+              "enabled" : true,
+              "name" : "Desktop Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Linux"
+            },
+            {
+              "enabled" : true,
+              "name" : "On-Premise Windows"
+            },
+            {
+              "enabled" : true,
+              "name" : "On-Premise Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Chromebook"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile Android"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPhone"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPad"
+            }
+          ],
+          "support" : [
+            {
+              "enabled" : false,
+              "name" : "Email Help Desk"
+            },
+            {
+              "enabled" : true,
+              "name" : "FAQ Forum"
+            },
+            {
+              "enabled" : false,
+              "name" : "Knowledgebase"
+            },
+            {
+              "enabled" : false,
+              "name" : "Phone Support"
+            },
+            {
+              "enabled" : false,
+              "name" : "24/7 Live Rep"
+            },
+            {
+              "enabled" : true,
+              "name" : "Chat"
+            }
+          ],
+          "training" : [
+            {
+              "enabled" : false,
+              "name" : "Not Offered"
+            },
+            {
+              "enabled" : true,
+              "name" : "In-Person"
+            },
+            {
+              "enabled" : true,
+              "name" : "Live Online"
+            },
+            {
+              "enabled" : true,
+              "name" : "Webinars"
+            },
+            {
+              "enabled" : true,
+              "name" : "Documentation"
+            },
+            {
+              "enabled" : false,
+              "name" : "Videos"
+            }
+          ],
+          "media" : [
+            {
+              "product_id" : 213935,
+              "vendor_id" : 2152626,
+              "media_type" : "VIDEO",
+              "path_url" : "https://www.youtube.com/watch?v=B9j9ujPu4sA&index=6&list=PLal18WUjV4DLU0uEaIOYgPq5lKfRn2V5z",
+              "caption" : null,
+              "weight" : 0,
+              "short_name" : "ecrm"
+            }
+          ],
+          "links" : [ ],
+          "features" : [
+            {
+              "category_name" : "CRM",
+              "category_features" : [
+                {
+                  "name" : "Activity Dashboard",
+                  "value" : false,
+                  "id" : "856ab03e-a530-4ea9-bac6-968761c9b6c6",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Calendar/Reminder System",
+                  "value" : true,
+                  "id" : "e3b8135b-5016-4386-8e3a-888196258b4c",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Notifications/alerts for upcoming events or tasks"
+                },
+                {
+                  "name" : "Contact Management",
+                  "value" : true,
+                  "id" : "0019f365-3e1b-4e2f-8f1e-cb77ba025078",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Store and find contact information such as names, addresses, and social media accounts"
+                },
+                {
+                  "name" : "Document Storage",
+                  "value" : true,
+                  "id" : "42593e12-7e64-4a46-ae75-b9c904400a7b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Store documents in a centralized location for easy access "
+                },
+                {
+                  "name" : "Email Marketing",
+                  "value" : true,
+                  "id" : "3e3bef6d-cbd8-43e1-83e6-eaf601c17a48",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Create and send email blasts/campaigns"
+                },
+                {
+                  "name" : "Interaction Tracking",
+                  "value" : true,
+                  "id" : "6b92e658-1ab6-4f43-93d2-a2f5bb3f1f65",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Internal Chat Integration",
+                  "value" : true,
+                  "id" : "0d98c6bb-1b94-40b4-a308-9fe1a2a48ee4",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Integrate with real time communication tools like Slack, etc."
+                },
+                {
+                  "name" : "Lead Generation",
+                  "value" : false,
+                  "id" : "da339159-39e6-4fc7-a7ef-f26da470fa9c",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Manage the process of attracting and converting people into leads "
+                },
+                {
+                  "name" : "Lead Management",
+                  "value" : true,
+                  "id" : "995266c2-fafb-456e-b73c-3d394a240ae3",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Store information about leads and contacts and track them through the sales process"
+                },
+                {
+                  "name" : "Marketing Automation",
+                  "value" : true,
+                  "id" : "11cfdb79-2f7c-4116-97f7-4d6b38740131",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Integrate with marketing automation tools"
+                },
+                {
+                  "name" : "Mobile Access",
+                  "value" : false,
+                  "id" : "15d49235-ad13-4d33-b009-edd50126375b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Access the software remotely via mobile devices"
+                },
+                {
+                  "name" : "Quotes/Estimates",
+                  "value" : true,
+                  "id" : "96125292-fba0-4c4b-b429-6afba9eccf8c",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Create and send a quote or proposal to a customer"
+                },
+                {
+                  "name" : "Segmentation",
+                  "value" : true,
+                  "id" : "2ce186ce-3534-475e-8ac3-8e7d0519bc69",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Group leads or contacts based on their specific characteristics"
+                },
+                {
+                  "name" : "Social Media Integration",
+                  "value" : false,
+                  "id" : "2a14fe93-3eb6-48a4-906a-dabca8d98cc2",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Integrate with Facebook, Twitter, LinkedIn, etc."
+                },
+                {
+                  "name" : "Task Management",
+                  "value" : false,
+                  "id" : "82ce67d3-ac09-49d0-ae71-5e6401e3e26b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "A running list of action items and their respective status"
+                },
+                {
+                  "name" : "Territory Management",
+                  "value" : true,
+                  "id" : "afada030-b0b7-4360-b78e-37a8156a546b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Organize customer data and accounts by user or geography"
+                }
+              ]
+            },
+            {
+              "category_name" : "Customer Service",
+              "category_features" : [
+                {
+                  "name" : "Alerts / Escalation",
+                  "value" : false,
+                  "id" : "030d8b13-e19b-4403-ab30-a9111d03d246",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "System notifications about the need to bump priority level of ticket"
+                },
+                {
+                  "name" : "Appointment Management",
+                  "value" : false,
+                  "id" : "6ab35f7f-8e54-47f1-868a-6f35eef38ab5",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Schedule, change or cancel appointments"
+                },
+                {
+                  "name" : "Call Center Management",
+                  "value" : false,
+                  "id" : "2aaef140-e839-40ae-adaa-7984914ee418",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Manage all call center activities including call monitoring, call recording, call answering, call transfer, etc."
+                },
+                {
+                  "name" : "Email Management",
+                  "value" : false,
+                  "id" : "3e196cb4-81ed-4150-b827-eb5e2f1cb2b7",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Sort and organize large volumes of inbound emails."
+                },
+                {
+                  "name" : "Knowledge Base Management",
+                  "value" : true,
+                  "id" : "11996670-18b9-4be4-9392-c7c7d370593d",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Create, store and share information, data, and support articles in a centralized database"
+                },
+                {
+                  "name" : "Live Chat",
+                  "value" : false,
+                  "id" : "9af278c7-ddc8-463b-985f-206165ea83db",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Ability to chat online in real time"
+                },
+                {
+                  "name" : "Performance Metrics",
+                  "value" : false,
+                  "id" : "28071df9-b91d-44b7-9721-10fe2f036819",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "A set of indicators that tracks how well an organization, a division, or a particular project are performing"
+                },
+                {
+                  "name" : "Queue Management",
+                  "value" : false,
+                  "id" : "7d43eb22-86be-4b4c-a60d-f8fc5d1c7607",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Monitor wait time and abandonment for incoming requests that have not been routed"
+                },
+                {
+                  "name" : "Self Service Portal",
+                  "value" : false,
+                  "id" : "80f0258d-e261-4136-ba81-a5251a304f8e",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Gateway through which end users can access the system"
+                },
+                {
+                  "name" : "Social Media Integration",
+                  "value" : false,
+                  "id" : "2a14fe93-3eb6-48a4-906a-dabca8d98cc2",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Integrate with Facebook, Twitter, LinkedIn, etc."
+                },
+                {
+                  "name" : "Surveys & Feedback",
+                  "value" : false,
+                  "id" : "ac019461-1e0e-49b2-a4f0-bd6e13dedf23",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Gauge satisfaction and receive information for improvement and success"
+                },
+                {
+                  "name" : "Virtual Assistant",
+                  "value" : false,
+                  "id" : "2c3ab594-fc03-47d0-85af-ba2a74b42bb9",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "AI program that learns to perform repetitive data-driven actions such as content or product recommendation, chat automation, etc."
+                },
+                {
+                  "name" : "Workflow Management",
+                  "value" : false,
+                  "id" : "c4c63af2-2e9e-4f8b-b965-20e94a16a8b9",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Create, design, and automate processes within the software"
+                }
+              ]
+            }
+          ],
+          "infographics" : [ ],
+          "related_products" : [
+            {
+              "product_id" : 61368,
+              "seo_product_id" : 589,
+              "seo_slug" : "Salesforce",
+              "vendor_name" : "Salesforce",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/f11ea590-5812-4ce0-a108-3837d065513d.png",
+              "rating" : 4.4,
+              "total_reviews" : 17258,
+              "slug" : "Salesforce",
+              "product_name" : "Salesforce Sales Cloud",
+              "short_desc" : "Drive growth with Sales Cloud 360, the best-in-class sales solution that drives rep productivity on the world's #1 CRM platform.",
+              "features" : "Drive growth with Sales Cloud 360, the best-in-class sales solution that has helped power the world's best sales teams on the world's #1 CRM platform. Firms of all sizes, industries, and geographies, realize value faster with Sales Cloud 360. Increase rep productivity with data driven selling by quickly deploying industry-specific apps and best practice processes.  You also get access to 150,000+ sales organizations and a 2 million user-strong community that are passionate about sales growth. ",
+              "url" : "https://www.salesforce.com/form/demo/salesforce-products/?d=7013y000002ZHDQAA4&nc=7013y000002ZHDLAA4&utm_source=capterra&utm_medium=review_sites&utm_campaign=us_slobd&utm_content=salesforce-products_7013y000002ZHDQAA4"
+            },
+            {
+              "product_id" : 110228,
+              "seo_product_id" : 223924,
+              "seo_slug" : "Mailchimp",
+              "vendor_name" : "Intuit",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/247db203-7811-4bdc-9c0a-729dbae623b5.png",
+              "rating" : 4.5,
+              "total_reviews" : 14779,
+              "slug" : "MailChimp",
+              "product_name" : "Mailchimp",
+              "short_desc" : "Mailchimp's all-in-one Marketing Platform helps small businesses market smarter so you can grow faster. ",
+              "features" : "Mailchimp's all-in-one Marketing Platform helps small businesses market smarter so you can grow faster. As the backbone for your customer relationships, they provide AI-powered, user-friendly tools anyone can use to be successful. Mailchimp puts your audience at the center so you can send marketing emails and automated messages, create targeted ad campaigns, build landing pages, send postcards, facilitate reporting and analytics, and sell online. ",
+              "url" : "https://mailchimp.com/features/crm/?utm_medium=cpc&utm_campaign=crm"
+            },
+            {
+              "product_id" : 155928,
+              "seo_product_id" : 227436,
+              "seo_slug" : "Zoho-CRM",
+              "vendor_name" : "Zoho",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e152c902-7c1b-4a0b-8981-5975f7f9ded3.png",
+              "rating" : 4.3,
+              "total_reviews" : 5741,
+              "slug" : "Zoho-CRM",
+              "product_name" : "Zoho CRM",
+              "short_desc" : "Zoho CRM empowers SMBs & enterprises with a 360? customer relationship lifecycle management solution built on an omnichannel platform.",
+              "features" : "Zoho CRM empowers SMBs & enterprises with a 360? customer relationship lifecycle management solution. Key features include contact management, sales funnels, pipeline management, workflow automation, AI-powered conversational assistant, task management, managing marketing campaigns, sales forecasting, customer support & service, inventory management, reporting & analytics, and seamlessly integrate with 500+ popular business apps in a single business system.",
+              "url" : "https://www.zoho.com/crm/lp/everlasting-customer-relationships.html?utm_medium=cpc&utm_campaign=Z-CRM&utm_term=CRM"
+            },
+            {
+              "product_id" : 152373,
+              "seo_product_id" : 152373,
+              "seo_slug" : "HubSpot-CRM",
+              "vendor_name" : "HubSpot",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/f94dcf3a-e9ef-4673-80a0-d25bd50a393d.png",
+              "rating" : 4.5,
+              "total_reviews" : 3375,
+              "slug" : "HubSpot-CRM",
+              "product_name" : "HubSpot CRM",
+              "short_desc" : "HubSpot CRM has everything you need to organize, track, and build better relationships with leads and customers.",
+              "features" : "Whether you've got a small team of five or a sophisticated sales force of 500, HubSpot offers pricing and packaging options that grow with you. HubSpot customer relationship management (CRM) software is built for companies that want to spend less time logging data. It keeps all your contacts in one centralized, customizable database. And you can see everything about a lead in one place -- no more digging through inboxes to find information. Start using the free HubSpot CRM today.",
+              "url" : "https://www.hubspot.com/crm/e010a?utm_medium=paid&utm_content=e010a&utm_campaign=CRM_Portals_EN_Various_Various_Gartner_CustomerRelationshipManagement&utm_term=crm_EN"
+            },
+            {
+              "product_id" : 158833,
+              "seo_product_id" : 251341,
+              "seo_slug" : "ClickUp",
+              "vendor_name" : "ClickUp",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/98ca9b83-b6bd-4a44-92d1-63c526d17630.png",
+              "rating" : 4.7,
+              "total_reviews" : 3020,
+              "slug" : "ClickUp",
+              "product_name" : "ClickUp",
+              "short_desc" : "ClickUp is the future of work - it's one app to replace them all. ClickUp is the #1 fastest growing productivity app in 2022.",
+              "features" : "ClickUp is an all-in-one productivity platform that eliminates work silos. It's the hub where teams come together to plan, organize, and collaborate on work using tasks, Docs, Chat, Goals, Whiteboards, and more. \n\nEasily customized with just a few clicks, ClickUp helps teams of all types and sizes deliver work more effectively. By replacing inflexible and overlapping tools, ClickUp helps teams save one day each week! ",
+              "url" : "https://clickup.com/teams/crm?utm_medium=cpc&utm_source=capterra&utm_campaign=capt_cpc_t1_nnc_pro_trial_all-devices_cpc_lp_x_all-deparments_x_crm"
+            },
+            {
+              "product_id" : 132666,
+              "seo_product_id" : 152591,
+              "seo_slug" : "Pipedrive",
+              "vendor_name" : "Pipedrive",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4d2d5d98-c70f-444e-98da-9c3d9bf384a7.png",
+              "rating" : 4.5,
+              "total_reviews" : 2431,
+              "slug" : "Pipedrive",
+              "product_name" : "Pipedrive",
+              "short_desc" : "Pipedrive is an easy to implement CRM software tool that helps you focus on the activities that drive deals to close.",
+              "features" : "Pipedrive is a sales-focused customer relationship management tool that teams of all sizes love using. With 100'000+ paying customers spanning across 179 countries, sales teams are drawn in by our CRMs simple yet powerful design that prioritizes usability above all else. When using Pipedrive, nothing falls through the cracks, allowing your team to spend less time filing and more time selling with a CRM software that is both agile and powerful.",
+              "url" : "https://www.pipedrive.com/en/gettingstarted?utm_medium=directories&utm_campaign=crm&utm_content=visit_website"
+            },
+            {
+              "product_id" : 79104,
+              "seo_product_id" : 225974,
+              "seo_slug" : "Smartsheet",
+              "vendor_name" : "Smartsheet",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/9efb2a2f-43b2-4ebd-bf24-b9bb46bd93c6.jpeg",
+              "rating" : 4.5,
+              "total_reviews" : 2382,
+              "slug" : "Smartsheet",
+              "product_name" : "Smartsheet",
+              "short_desc" : "Smartsheet is an online work execution platform empowering organizations of all sizes to plan, manage, automate, and report on work.",
+              "features" : "Smartsheet, an online work execution platform, empowers organizations to plan, track, automate, and report on work. Over 80,000 brands rely on Smartsheet for project and work management because of its easy-to-use interface, real-time gantt charts and dashboards, and work automation features. \r\n*2018 Awards: Named a Leader in Enterprise Collaborative Work Management by Forrester Research, Selected to Deloittes Fast 500 List, Recognized for Technology Innovation & Vision by 451 Research",
+              "url" : "https://www.smartsheet.com/s/sales-tool?s=261&c=104&m=3000&utm_source=capterra&utm_medium=cpc&utm_campaign=crm"
+            },
+            {
+              "product_id" : 123032,
+              "seo_product_id" : 123032,
+              "seo_slug" : "Nimble",
+              "vendor_name" : "Nimble",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/0a460f98-bfe9-4de9-a3b8-9d1a269fb560.png",
+              "rating" : 4.4,
+              "total_reviews" : 1776,
+              "slug" : "Nimble",
+              "product_name" : "Nimble",
+              "short_desc" : "Nimble is the simple, smart CRM for Office 365 & G Suite that works for you -- everywhere you work. ",
+              "features" : "Nimble is the simple, smart CRM for Office 365 & G Suite that works for you by automatically combining your contacts, communication histories, email inboxes, and calendar appointments with over 250+ SaaS business app contacts and social media connections (including Linkedin, Twitter, Facebook) into one unified team relationship manager.\n\n",
+              "url" : "https://www.nimble.com/?utm_source=Capterra&utm_medium=CPC&utm_campaign=Capterramarch2018"
+            },
+            {
+              "product_id" : 79367,
+              "seo_product_id" : 226748,
+              "seo_slug" : "ActiveCampaign",
+              "vendor_name" : "ActiveCampaign",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/bb056d74-bac1-4457-a092-fa8dea9486a0.png",
+              "rating" : 4.6,
+              "total_reviews" : 1710,
+              "slug" : "ActiveCampaign",
+              "product_name" : "ActiveCampaign",
+              "short_desc" : "ActiveCampaign CRM helps you sell more in less time by combining automated lead prioritization, task creation, and contact management.",
+              "features" : "ActiveCampaign's CRM combines contact organization with sales automation, helping you sell more in less time. Prioritize your leads, keep track of your tasks, and automate contact management so nothing falls through the cracks. See your whole sales process at a glance and track every interaction, keeping your team on the same page. Features like lead scoring, win probability, and automated segmentation combined with marketing automation turns your team into a well-oiled, deal-closing machine.",
+              "url" : "https://info.gartnerdigitalmarkets.com/activecampaign-gdm-lp?utm_medium=cpc&utm_campaign=capterra_reviews_non_crm_desktop_row_en&utm_content=main_links&utm_source=capterra"
+            },
+            {
+              "product_id" : 76390,
+              "seo_product_id" : 38451,
+              "seo_slug" : "Infusionsoft",
+              "vendor_name" : "Keap",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/bbf09836-8786-4e7d-909b-10b75adc5ef6.png",
+              "rating" : 4.1,
+              "total_reviews" : 1125,
+              "slug" : "Infusionsoft",
+              "product_name" : "Keap",
+              "short_desc" : "The smarter way for small businesses to do great work\nKeap organizes your client information & daily work in one place, freeing you up ",
+              "features" : "Grow your business with the all-in-one CRM, sales & marketing software for serious business owners. Our platform organizes your customer information and daily work in one place, freeing you up from repetitive tasks so you have more time to focus on growing your business.",
+              "url" : "https://keap.com/lp/keap-platform/?utm_source=capterra&utm_medium=affiliate&utm_campaign=capcrmplat&utm_content="
+            },
+            {
+              "product_id" : 148516,
+              "seo_product_id" : 212390,
+              "seo_slug" : "Marketing-360",
+              "vendor_name" : "Madwire",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e0d4096b-6fa3-4d66-98e5-8f3ac4c06590.png",
+              "rating" : 4.6,
+              "total_reviews" : 973,
+              "slug" : "Marketing-360",
+              "product_name" : "Marketing 360",
+              "short_desc" : "Run your business your way with a fully integrated CRM for small to medium sized businesses. ",
+              "features" : "Stay organized as you scale and grow. Finally, a CRM that?s easy to use, fully customizable and puts you in control of how you manage your leads, customers, tasks, team, projects, marketing and more. Create your free account to start customizing your CRM today.",
+              "url" : "https://www.marketing360.com/crm/?ref=CustomerRelationshipManagementDirectoryCapterraAds"
+            }
+          ],
+          "similar_products" : [
+            {
+              "product_id" : 61368,
+              "seo_product_id" : 589,
+              "seo_slug" : "Salesforce",
+              "vendor_name" : "Salesforce",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/f11ea590-5812-4ce0-a108-3837d065513d.png",
+              "rating" : 4.4,
+              "total_reviews" : 17258,
+              "slug" : "Salesforce",
+              "product_name" : "Salesforce Sales Cloud",
+              "short_desc" : "Drive growth with Sales Cloud 360, the best-in-class sales solution that drives rep productivity on the world's #1 CRM platform.",
+              "features" : "Drive growth with Sales Cloud 360, the best-in-class sales solution that has helped power the world's best sales teams on the world's #1 CRM platform. Firms of all sizes, industries, and geographies, realize value faster with Sales Cloud 360. Increase rep productivity with data driven selling by quickly deploying industry-specific apps and best practice processes.  You also get access to 150,000+ sales organizations and a 2 million user-strong community that are passionate about sales growth. ",
+              "url" : "https://www.salesforce.com/form/demo/salesforce-products/?d=7013y000002ZHDQAA4&nc=7013y000002ZHDLAA4&utm_source=capterra&utm_medium=review_sites&utm_campaign=us_slobd&utm_content=salesforce-products_7013y000002ZHDQAA4"
+            },
+            {
+              "product_id" : 199865,
+              "seo_product_id" : 227019,
+              "seo_slug" : "Zendesk-Sell",
+              "vendor_name" : "Zendesk",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/91713ea5-644a-4395-afc8-4b7f6206a913.png",
+              "rating" : 4.3,
+              "total_reviews" : 138,
+              "slug" : "Zendesk-Sell",
+              "product_name" : "Zendesk Sell",
+              "short_desc" : "Zendesk Sell is sales CRM software that helps you close more deals.",
+              "features" : "Zendesk Sell is sales CRM software that helps you close more deals. This sales platform tracks all your customer interactions in one unified interface. It's quick to implement and easy to use: 70% of companies are able to get Sell up and running in 7 days or less. Your teams will be able to focus on selling not admin work and can spend less time on data entry. 80% of customers agree that Zendesk has made their teams more efficient.",
+              "url" : "http://www.zendesk.com/lp/sales-crm?utm_source=capterra&utm_medium=paidlisting&utm_campaign=PL_CAP_AM_US_EN_N_Sell_Pro_CRM_T1_A_H&utm_term=crm"
+            },
+            {
+              "product_id" : 158833,
+              "seo_product_id" : 251341,
+              "seo_slug" : "ClickUp",
+              "vendor_name" : "ClickUp",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/98ca9b83-b6bd-4a44-92d1-63c526d17630.png",
+              "rating" : 4.7,
+              "total_reviews" : 3020,
+              "slug" : "ClickUp",
+              "product_name" : "ClickUp",
+              "short_desc" : "ClickUp is the future of work - it's one app to replace them all. ClickUp is the #1 fastest growing productivity app in 2022.",
+              "features" : "ClickUp is an all-in-one productivity platform that eliminates work silos. It's the hub where teams come together to plan, organize, and collaborate on work using tasks, Docs, Chat, Goals, Whiteboards, and more. \n\nEasily customized with just a few clicks, ClickUp helps teams of all types and sizes deliver work more effectively. By replacing inflexible and overlapping tools, ClickUp helps teams save one day each week! ",
+              "url" : "https://clickup.com/?utm_source=capterra&utm_medium=cpc&utm_campaign=capt_cpc_t1_nnc_pro_trial_all-devices_cpc_lp_x_all-departments_x_generic"
+            },
+            {
+              "product_id" : 136018,
+              "seo_product_id" : 220448,
+              "seo_slug" : "NetSuite-CRM",
+              "vendor_name" : "Oracle",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d0458726-31c9-4ffc-a6e5-b2131b4e0a23.png",
+              "rating" : 3.9,
+              "total_reviews" : 188,
+              "slug" : "NetSuite-CRM",
+              "product_name" : "NetSuite CRM",
+              "short_desc" : "NetSuite CRM+ delivers your business with powerful front-office capabilities in a single, cloud-based CRM solution.",
+              "features" : "NetSuites CRM+ is a complete, front-office solution that unlocks a real-time, 360-degree view of your customers. CRM+ seamlessly integrates your customer-focused activities with accounting, e-commerce, warehousing and shipping applications to support your entire sales process and customer life cycle starting from a lead, and progressing through opportunity, sales order, fulfillment, renewal, upsell, cross-sell and support. ",
+              "url" : "https://nlcorp.extforms.netsuite.com/app/site/crm/externalleadpage.nl?compid=NLCORP&formid=8814&h=AACffht_VUumt_fT_p-tExePVa_owXz5L70&leadsource=Online_Capterra_CRM_2023&cid=Online_Capterra_CRM_2023"
+            },
+            {
+              "product_id" : 157262,
+              "seo_product_id" : 218472,
+              "seo_slug" : "QuickBase",
+              "vendor_name" : "Quickbase",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d0157b8b-f072-4509-bd88-9963aa9b3fdf.jpeg",
+              "rating" : 4.5,
+              "total_reviews" : 244,
+              "slug" : "QuickBase",
+              "product_name" : "Quickbase",
+              "short_desc" : "Improve your team's accountability and productivity with flexible CRM that matches your sales process exactly.",
+              "features" : "Improve your team's accountability and productivity with a flexible CRM that matches your complex sales process exactly. Track tasks, leads, and opportunities in real time. Built-in mobile forms and workflows keep everything moving, trigger-based actions make your team more productive, and automated reporting keeps your stakeholders in the know. Find out why over 80% of the Fortune 50 trusts Quickbase.",
+              "url" : "https://www.quickbase.com/lp/brand/home-k?utm_medium=referral&utm_campaign=capterra-basic-listing"
+            },
+            {
+              "product_id" : 155928,
+              "seo_product_id" : 227436,
+              "seo_slug" : "Zoho-CRM",
+              "vendor_name" : "Zoho",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e152c902-7c1b-4a0b-8981-5975f7f9ded3.png",
+              "rating" : 4.3,
+              "total_reviews" : 5741,
+              "slug" : "Zoho-CRM",
+              "product_name" : "Zoho CRM",
+              "short_desc" : "Zoho CRM empowers SMBs & enterprises with a 360? customer relationship lifecycle management solution built on an omnichannel platform.",
+              "features" : "Zoho CRM empowers SMBs & enterprises with a 360? customer relationship lifecycle management solution. Key features include contact management, sales funnels, pipeline management, workflow automation, AI-powered conversational assistant, task management, managing marketing campaigns, sales forecasting, customer support & service, inventory management, reporting & analytics, and seamlessly integrate with 500+ popular business apps in a single business system.",
+              "url" : "https://www.zoho.com/crm/?utm_medium=cpc&utm_campaign=Z-CRM"
+            },
+            {
+              "product_id" : 132666,
+              "seo_product_id" : 152591,
+              "seo_slug" : "Pipedrive",
+              "vendor_name" : "Pipedrive",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4d2d5d98-c70f-444e-98da-9c3d9bf384a7.png",
+              "rating" : 4.5,
+              "total_reviews" : 2431,
+              "slug" : "Pipedrive",
+              "product_name" : "Pipedrive",
+              "short_desc" : "Pipedrive is an easy to implement CRM software tool that helps you focus on the activities that drive deals to close.",
+              "features" : "Pipedrive is a sales-focused customer relationship management tool that teams of all sizes love using. With 100'000+ paying customers spanning across 179 countries, sales teams are drawn in by our CRMs simple yet powerful design that prioritizes usability above all else. When using Pipedrive, nothing falls through the cracks, allowing your team to spend less time filing and more time selling with a CRM software that is both agile and powerful.",
+              "url" : "https://www.pipedrive.com/en/gettingstarted?utm_medium=directories&utm_campaign=crm&utm_content=visit_website"
+            },
+            {
+              "product_id" : 79104,
+              "seo_product_id" : 225974,
+              "seo_slug" : "Smartsheet",
+              "vendor_name" : "Smartsheet",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/9efb2a2f-43b2-4ebd-bf24-b9bb46bd93c6.jpeg",
+              "rating" : 4.5,
+              "total_reviews" : 2382,
+              "slug" : "Smartsheet",
+              "product_name" : "Smartsheet",
+              "short_desc" : "Smartsheet is an online work execution platform empowering organizations of all sizes to plan, manage, automate, and report on work.",
+              "features" : "Smartsheet, an online work execution platform, empowers organizations to plan, track, automate, and report on work. Over 80,000 brands rely on Smartsheet for project and work management because of its easy-to-use interface, real-time gantt charts and dashboards, and work automation features. \r\n*2018 Awards: Named a Leader in Enterprise Collaborative Work Management by Forrester Research, Selected to Deloittes Fast 500 List, Recognized for Technology Innovation & Vision by 451 Research",
+              "url" : "https://www.smartsheet.com/s/pm-software?s=261&c=3&m=3000&utm_source=capterra&utm_medium=cpc&utm_campaign=project%20management"
+            },
+            {
+              "product_id" : 175860,
+              "seo_product_id" : 133171,
+              "seo_slug" : "Act",
+              "vendor_name" : "Act!",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/5f8aa23f-eb6f-42cd-b33a-e310a590c803.png",
+              "rating" : 3.7,
+              "total_reviews" : 672,
+              "slug" : "Act",
+              "product_name" : "Act!",
+              "short_desc" : "Act! Premium empowers you to market better, sell more, and create customers for life. ",
+              "features" : "Act! Premium, a powerful CRM and Marketing Automation tool in one platform, is perfect for small and midsize businesses looking to market better, sell more, and create customers for life. With unparalleled flexibility and freedom of choice, Act! Premium accommodates the unique ways you do business, whether it's on-premises (Act! Premium Desktop), in the cloud (Act! Premium Cloud), or, you can leverage a hybrid deployment for maximum flexibility! \n\n",
+              "url" : "https://www.act.com/customizable-crm-software/?utm_campaign=NA%20Capterra&utm_source=ppc&utm_medium=affiliate"
+            },
+            {
+              "product_id" : 250096,
+              "seo_product_id" : 250096,
+              "seo_slug" : "TigerLRM",
+              "vendor_name" : "TigerLRM",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4a9dc03d-ff35-4f99-9fe1-b0948682d69a.png",
+              "rating" : 5.0,
+              "total_reviews" : 7,
+              "slug" : "TigerLRM",
+              "product_name" : "TigerLRM",
+              "short_desc" : "TigerLRM is an all-in-one Sales Enablement Software with tools for Content Management, Training & Coaching, In-Built CRM, and more.",
+              "features" : "TigerLRM is an All-in-One Sales Enablement Software with essential tools such as Content Management, Training & Coaching, In-Built CRM, and more!\n\nBring out the Tiger in your sales team with a highly intuitive, easy-to-use suite of Sales Enablement and CRM tools that help sales professionals focus on hunting and closing leads. TigerLRM comes fully equipped with built-in features and tools that cut down on sales guesswork and presumptions. ",
+              "url" : "https://tigerlrm.com/"
+            },
+            {
+              "product_id" : 162588,
+              "seo_product_id" : 216959,
+              "seo_slug" : "HoneyBook",
+              "vendor_name" : "HoneyBook",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/7c248c64-bbf4-404f-9bf9-d90383f75647.png",
+              "rating" : 4.8,
+              "total_reviews" : 499,
+              "slug" : "HoneyBook",
+              "product_name" : "HoneyBook",
+              "short_desc" : "Every CRM tool you need to manage clients, proposals, contracts, invoices, payments, and more. \n\nUse code \"ONLY1\" to start for $1/mo.",
+              "features" : "The go-to CRM for independent professionals-that's HoneyBook.\n\nHoneyBook makes it easy to book more clients, manage projects, and get paid all in one place.\n\nWith proposals, invoices, contracts, payments, and scheduling at your fingertips, you have everything you need to give clients a great experience.\n\nGet your first 6 months for just $1/mo with code \"ONLY1\".",
+              "url" : "https://ad.doubleclick.net/ddm/trackclk/N1580728.4266620CAPTERRA-HONEYBO/B26347654.315915496;dc_trk_aid=508239089;dc_trk_cid=158573843;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd="
+            },
+            {
+              "product_id" : 245800,
+              "seo_product_id" : 245800,
+              "seo_slug" : "Monday-CRM",
+              "vendor_name" : "monday.com",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/89099d96-d149-4414-ae0d-25607ca4cd8a.png",
+              "rating" : 4.7,
+              "total_reviews" : 348,
+              "slug" : "Monday-CRM",
+              "product_name" : "monday sales CRM",
+              "short_desc" : "monday sales CRM empowers sales teams to manage every aspect of their sales cycle and customer data in one centralized place.",
+              "features" : "Perfect for small-medium businesses, monday sales CRM is a no-code fully-customizable CRM built on top of monday.com Work OS. Dubbed the CRM without the frustration, it handles all sales processes and client communication in one place. From capturing leads, managing contact info, tracking deals or collaborating across departments, monday sales CRM lets you manage it all. You can use built-in automations or easily create your own to streamline any manual work so you can focus more time on sales.",
+              "url" : "https://monday.com/lp/aw/crm-software?utm_medium=cpc&utm_campaign=ww-multi-prm-crm-workos-desktop-crm-listing-core&utm_adgroup=crm"
+            },
+            {
+              "product_id" : 178044,
+              "seo_product_id" : 223312,
+              "seo_slug" : "VipeCloud",
+              "vendor_name" : "VipeCloud",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/6ab11c7b-7452-42de-add8-3e523d10a8cf.png",
+              "rating" : 4.9,
+              "total_reviews" : 130,
+              "slug" : "VipeCloud",
+              "product_name" : "VipeCloud",
+              "short_desc" : "The Sales CRM With Marketing Suite That Builds Rapport With You. CRM, Email Marketing, Social Posting, Texting, Video Email, And More.",
+              "features" : "98% of customers rate VipeCloud's Value For Money at 4 stars and above! \n\nVipeCloud is the Sales CRM with Marketing Suite that builds rapport with you. Our All-In-One solution includes CRM, Email Marketing, Social Posting, Texting, Video Email, Integrations, and More.\n\nWith VipeCloud's single solution + rapport building, your business will increase efficiency and accelerate growth. It's no surprise 99% of customers rate our support at 4+ stars.",
+              "url" : "https://vipecloud.com/lp/vipecloud-sales-crm/?utm_source=capterra&utm_medium=cpc&utm_campaign=capterra-feb20"
+            }
+          ],
+          "related_categories" : [
+            {
+              "functional_group" : "ecrm",
+              "long_name" : "Contact Management",
+              "html_name" : "contact-management-software",
+              "link_name" : "contact-management",
+              "product_count" : 119,
+              "meta_description" : "Find and compare top Contact Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Contact Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs.",
+              "description" : "<a href=/contact-management-software>Contact Management software</a> provides powerful tools that enable storage, tracking, and management of contact information throughout an organization. Contact Management applications allow organizations to function more effectively by distributing current contact information for customers, contractors, vendors and others to all levels and locations of an organization. Contact Management solutions also often incorporate efficiency-increasing features such as lead management tools, employee task logs and customer interaction histories.  <a href=/contact-management-software>Contact Management software</a> is related to <a href=/campaign-management-software>Campaign Management software</a>, <a href=/lead-management-software>Lead Management software</a> and <a href=/sales-force-automation-software>Sales Force Automation software</a>."
+            },
+            {
+              "functional_group" : "ecrm",
+              "long_name" : "Lead Management",
+              "html_name" : "lead-management-software",
+              "link_name" : "lead-management",
+              "product_count" : 137,
+              "meta_description" : "Find and compare top Lead Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Lead Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/lead-management-software>Lead Management software</a> enables the forecasting, collection and tracking of sales leads.  Through the use of Lead Management solutions, organizations can automate and manage their prospect database as well as share and distribute leads throughout the enterprise.  Organizations can also use Lead Management tools to track the progress of leads, analyze the performance of sales staff and marketing campaigns and develop new leads from their existing customer base.  <a href=/lead-management-software>Lead Management software</a> is related to <a href=/contact-management-software>Contact Management software</a> and <a href=/sales-force-automation-software>Sales Force Automation software</a>."
+            },
+            {
+              "functional_group" : "ecrm",
+              "long_name" : "Marketing Automation",
+              "html_name" : "marketing-automation-software",
+              "link_name" : "marketing-automation",
+              "product_count" : 184,
+              "meta_description" : "Find and compare top Marketing Automation software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Marketing Automation tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/marketing-automation-software\">Marketing Automation software</a> enables organizations to automate their marketing functions including campaign creation, market segmentation and response analysis.  These applications also allow greater integration between sales staff and management as well as expanded abilities to evaluate the effectiveness of marketing campaigns.  Marketing Automation solutions enable the enterprise-wide sharing of information, providing an essential conduit between management, sales and marketing operations.  <a href=\"/marketing-automation-software\">Marketing Automation software</a> is related to <a href=\"/campaign-management-software\">Campaign Management software</a>, <a href=\"/email-marketing-software\">Email Marketing software</a> and <a href=\"/search-marketing-automation-software\">Search Marketing software</a>."
+            },
+            {
+              "functional_group" : "ecrm",
+              "long_name" : "Sales Force Automation",
+              "html_name" : "sales-force-automation-software",
+              "link_name" : "sales-force-automation",
+              "product_count" : 176,
+              "meta_description" : "Find and compare top Sales Force Automation software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Sales Force Automation tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/sales-force-automation-software>Sales Force Automation software</a> manages an organization's sales force functions which can include: lead management, customer account management, contact management, quote management, forecasting, customer demographics and <a href=\"/performance-appraisal-software\">employee performance management</a>. Sales Force Automation applications improve sales productivity while providing a method of distribution for sales analytics throughout an enterprise.  <a href=/sales-force-automation-software>Sales Force Automation software</a> is related to <a href=/commission-software>Commission software</a>, <a href=/contact-management-software>Contact Management software</a>, <a href=/lead-management-software>Lead Management software</a> and <a href=/quoting-software>Quoting software</a>."
+            },
+            {
+              "functional_group" : "ecrm",
+              "long_name" : "Sales Tracking",
+              "html_name" : "sales-tracking-software",
+              "link_name" : "sales-tracking",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Sales Tracking software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Sales Tracking tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs.",
+              "description" : "Sales Tracking software enables businesses and sales teams to monitor pipelines, manage steps in the sales process, and track key performance numbers. "
+            }
+          ],
+          "is_upgraded" : false,
+          "enabled" : true,
+          "filter_options" : {
+            "users" : 127,
+            "platform" : 951,
+            "pricing_options" : 18,
+            "category_related_features" : [
+              18353,
+              18356,
+              18359,
+              18361,
+              18363,
+              18364,
+              30009,
+              36743,
+              38102,
+              38524,
+              38526,
+              38529,
+              48806,
+              48824
+            ],
+            "employees" : 127
+          },
+          "sort_options" : {
+            "sort_review_rating" : 4.446425914764404,
+            "most_recent_review" : "2020-03-10T17:14:50Z"
+          },
+          "countries" : "ALL",
+          "features_tokenized_text" : "calendar/reminder_system contact_management document_storage email_marketing interaction_tracking internal_chat_integration lead_management marketing_automation quotes/estimates segmentation territory_management",
+          "platform_tokenized_text" : "cloud,saas,web-based desktopmac desktopwindows on-premisewindows on-premiselinux mobileandroid mobileiphone mobileipad",
+          "users_tokenized_text" : "1 2-10 11-50 51-200 201-500 501-1000 1000+",
+          "pricing_tokenized_text" : "monthlysubscription freetrial",
+          "badges" : [ ],
+          "bid_spot_us" : 0.0,
+          "currency_code" : "USD",
+          "currency_symbol" : "$",
+          "credit_card_required" : "Unverified",
+          "licensing_model" : null,
+          "open_api_offered" : "Unverified",
+          "mobile_urls" : [
+            {
+              "name" : "Android",
+              "url" : "https://play.google.com/store/apps/details?hl=en&id=com.Oncontact.Android"
+            },
+            {
+              "name" : "iOS",
+              "url" : "https://itunes.apple.com/us/app/oncontact-crm/id481427715?mt=8&uo=4"
+            }
+          ],
+          "integrations" : [ ],
+          "supported_countries" : [
+            {
+              "id" : 237,
+              "code" : "US",
+              "name" : "United States of America"
+            }
+          ],
+          "supported_languages" : [
+            {
+              "id" : 152,
+              "code" : "en",
+              "name" : "English",
+              "location" : null
+            }
+          ],
+          "target_industries" : [
+            {
+              "id" : 1,
+              "code" : "47",
+              "name" : "Accounting"
+            },
+            {
+              "id" : 84,
+              "code" : "80",
+              "name" : "Marketing and Advertising"
+            },
+            {
+              "id" : 26,
+              "code" : "48",
+              "name" : "Construction"
+            },
+            {
+              "id" : 97,
+              "code" : "100",
+              "name" : "Non-Profit Organization Management"
+            },
+            {
+              "id" : 65,
+              "code" : "42",
+              "name" : "Insurance"
+            },
+            {
+              "id" : 98,
+              "code" : "57",
+              "name" : "Oil & Energy"
+            },
+            {
+              "id" : 25,
+              "code" : "4",
+              "name" : "Computer Software"
+            },
+            {
+              "id" : 78,
+              "code" : "116",
+              "name" : "Logistics and Supply Chain"
+            },
+            {
+              "id" : 41,
+              "code" : "122",
+              "name" : "Facilities Services"
+            },
+            {
+              "id" : 85,
+              "code" : "135",
+              "name" : "Mechanical or Industrial Engineering"
+            },
+            {
+              "id" : 11,
+              "code" : "41",
+              "name" : "Banking"
+            },
+            {
+              "id" : 57,
+              "code" : "14",
+              "name" : "Hospital & Health Care"
+            },
+            {
+              "id" : 134,
+              "code" : "8",
+              "name" : "Telecommunications"
+            },
+            {
+              "id" : 62,
+              "code" : "147",
+              "name" : "Industrial Automation"
+            },
+            {
+              "id" : 43,
+              "code" : "43",
+              "name" : "Financial Services"
+            },
+            {
+              "id" : 74,
+              "code" : "10",
+              "name" : "Legal Services"
+            },
+            {
+              "id" : 53,
+              "code" : "148",
+              "name" : "Government Relations"
+            }
+          ],
+          "price_range_id" : 1,
+          "aggregated_review_ratings" : {
+            "industry" : {
+              "23" : 5.0,
+              "80" : 5.0,
+              "55" : 4.0,
+              "14" : 4.0,
+              "92" : 5.0,
+              "117" : 4.0,
+              "95" : 5.0,
+              "25" : 3.0,
+              "112" : 5.0,
+              "42" : 4.0,
+              "28" : 5.0,
+              "27" : 4.25,
+              "99" : 5.0,
+              "138" : 4.0,
+              "41" : 4.67,
+              "144" : 4.0,
+              "132" : 4.5,
+              "34" : 5.0,
+              "17" : 4.0
+            },
+            "company_size" : {
+              "11-50 employees" : 4.0,
+              "1-10 employees" : 4.75,
+              "1001-5000 employees" : 4.5,
+              "201-500 employees" : 4.6,
+              "51-200 employees" : 4.62,
+              "10,001+ employees" : 5.0
+            }
+          },
+          "vct_enabled" : false,
+          "pricing_plans" : [
+            {
+              "created_on_utc" : "2019-08-21T14:47:39Z",
+              "modified_on_utc" : "2022-04-11T20:39:21Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Basic",
+              "description" : null,
+              "display_order" : 1,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 60.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Per Feature",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [ ]
+            }
+          ],
+          "discount_types" : [ ]
+        }
+      }
+    ]
+  }
+}

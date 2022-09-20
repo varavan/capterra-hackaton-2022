@@ -1,0 +1,3459 @@
+{
+  "took" : 13,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 3,
+    "successful" : 3,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : {
+      "value" : 2,
+      "relation" : "eq"
+    },
+    "max_score" : 11.382424,
+    "hits" : [
+      {
+        "_index" : "product_listings_main_data_upc_vt20220920_043802_utc",
+        "_type" : "_doc",
+        "_id" : "220983_book",
+        "_score" : 11.382424,
+        "_source" : {
+          "product_id" : 220983,
+          "seo_product_id" : 220983,
+          "seo_slug" : "Lightyear",
+          "product_name" : "Lightyear",
+          "upc_product_uuid" : "82b3e922-f674-45ad-b964-a957007c0556",
+          "old_product_ids" : [
+            178978
+          ],
+          "product_url" : "https://www.lightyear.cloud/",
+          "product_slug" : "Lightyear",
+          "former_name" : "Lightyear",
+          "logo_filepath" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/0866d169-dbdf-4d23-8998-f38c2adc1aa7.png",
+          "vendor" : {
+            "vendor_id" : 2165235,
+            "vendor_name" : "Lightyear",
+            "vendor_url" : "https://www.lightyear.cloud/",
+            "year_founded" : 2018,
+            "location" : "United Kingdom",
+            "vendor_opted_out_of_reviews" : true,
+            "is_opted_out_of_reviews" : false,
+            "is_hit_limit" : false,
+            "enabled" : true,
+            "has_vendor_level_page" : false,
+            "slug" : null,
+            "vendor_page" : false,
+            "paused_campaign" : false
+          },
+          "category_short_name" : "book",
+          "category_html_name" : "bookkeeper-software",
+          "category" : {
+            "id" : 30974,
+            "short_name" : "book",
+            "long_name" : "Bookkeeper",
+            "html_name" : "bookkeeper-software",
+            "enabled" : true
+          },
+          "best_category" : "book",
+          "is_best_category" : true,
+          "highest_cpc_category" : null,
+          "is_highest_cpc_category" : false,
+          "short_desc" : "Automate your bookkeeping using Lightyear's advanced data extraction and bookkeeping automation platform today. ",
+          "long_desc" : "Automate the bookkeeping of all your businesses purchases on a line item level in seconds with Lightyear's automated bookkeeping engine. Lightyear will learn how you code the line items on your bills and will automate this process for you saving your teams up to 60% of the time they spend typing up and coding bills. Lightyear has an advanced rules engine will allow you to automate the routing of bills to the correct approver every time. \n",
+          "rating" : 4.9,
+          "number_of_reviews" : 124,
+          "total_reviews" : 117,
+          "ease_of_use_rating" : 4.9,
+          "customer_support_rating" : 4.9,
+          "functionality_rating" : 4.8,
+          "value_for_money_rating" : 4.8,
+          "recommendation_rating" : 9.7,
+          "pricing_enabled" : true,
+          "pricing" : 99.0,
+          "is_per_user" : false,
+          "fee_schedule" : "Per-Month",
+          "pricing_model" : "Flat Rate",
+          "pricing_details" : "Lightyear is available across 3 pricing tiers: Starter, Business, Enterprise. Pricing starts at $79/per month and scales with each tier, outlined below:  \r\n\r\nStarter - $79/month\r\n- Unlimited Users\r\n- Unlimited Sub-entities \r\n\r\n\r\nBusiness - $179/month \r\n- Unlimited Users\r\n- Unlimited Sub-entities\r\n- Purchase Orders\r\n- Good Receivable Notes\r\n- Inventory Management\r\n\r\nEnterprise - $1,099/month \r\n- Unlimited Users\r\n- Unlimited Sub-entities\r\n- Purchase Orders\r\n- Good Receivable Notes\r\n- Inventory Management\r\n- Dedicated Account Manager\r\n- White Labelling Capabilities",
+          "pricing_created_on" : "2019-08-21T14:47:39Z",
+          "pricing_modified_on" : "2022-06-23T14:42:33Z",
+          "pricing_created_by" : null,
+          "pricing_modified_by" : null,
+          "pricing_vendor_pricing_url" : "https://www.lightyear.cloud/row/pricing",
+          "free_trial" : true,
+          "free_version" : false,
+          "target_audience" : "Lightyear can be used by any industry type and scales from large SME up to Enterprise. Our main clients include hospitality, retail, construction, manufacturing, aged care and education.",
+          "target_users" : [
+            "11-50",
+            "51-200",
+            "201-500",
+            "501-1000",
+            "1000+"
+          ],
+          "platform" : [
+            {
+              "enabled" : true,
+              "name" : "Cloud, SaaS, Web-Based"
+            },
+            {
+              "enabled" : true,
+              "name" : "Desktop Mac"
+            },
+            {
+              "enabled" : true,
+              "name" : "Desktop Windows"
+            },
+            {
+              "enabled" : true,
+              "name" : "Desktop Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Linux"
+            },
+            {
+              "enabled" : true,
+              "name" : "Desktop Chromebook"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile Android"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPhone"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPad"
+            }
+          ],
+          "support" : [
+            {
+              "enabled" : true,
+              "name" : "Email Help Desk"
+            },
+            {
+              "enabled" : true,
+              "name" : "FAQ Forum"
+            },
+            {
+              "enabled" : true,
+              "name" : "Knowledgebase"
+            },
+            {
+              "enabled" : true,
+              "name" : "Phone Support"
+            },
+            {
+              "enabled" : true,
+              "name" : "24/7 Live Rep"
+            },
+            {
+              "enabled" : true,
+              "name" : "Chat"
+            }
+          ],
+          "training" : [
+            {
+              "enabled" : false,
+              "name" : "Not Offered"
+            },
+            {
+              "enabled" : false,
+              "name" : "In-Person"
+            },
+            {
+              "enabled" : true,
+              "name" : "Live Online"
+            },
+            {
+              "enabled" : true,
+              "name" : "Webinars"
+            },
+            {
+              "enabled" : true,
+              "name" : "Documentation"
+            },
+            {
+              "enabled" : true,
+              "name" : "Videos"
+            }
+          ],
+          "media" : [
+            {
+              "product_id" : 220983,
+              "vendor_id" : 2165235,
+              "media_type" : "VIDEO",
+              "path_url" : "https://youtu.be/aQroNowof8o",
+              "caption" : null,
+              "weight" : 0,
+              "short_name" : "book"
+            }
+          ],
+          "links" : [
+            {
+              "product_id" : 220983,
+              "functional_group" : "book",
+              "html_code" : "http://bit.ly/2SsDyiJ",
+              "link_name" : "Free Trial",
+              "link_priority" : 1.0
+            },
+            {
+              "product_id" : 220983,
+              "functional_group" : "book",
+              "html_code" : "https://chrisgregg.zohobookings.com/#/customer/lightyear1",
+              "link_name" : "Free Demo",
+              "link_priority" : 2.0
+            },
+            {
+              "product_id" : 220983,
+              "functional_group" : "book",
+              "html_code" : "http://bit.ly/2Sm5K6K",
+              "link_name" : "Pricing",
+              "link_priority" : 3.0
+            },
+            {
+              "product_id" : 220983,
+              "functional_group" : "book",
+              "html_code" : "https://www.lightyear.cloud/features/full-feature-list",
+              "link_name" : "Features",
+              "link_priority" : 4.0
+            }
+          ],
+          "features" : [
+            {
+              "category_name" : "Bookkeeper",
+              "category_features" : [
+                {
+                  "name" : "Accounts Payable",
+                  "value" : false,
+                  "id" : "3decc02b-c1e0-4c1d-a79c-953a7360728b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Accounts Receivable",
+                  "value" : false,
+                  "id" : "d3b8385b-3412-4086-b970-a326be6316c2",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Bank Reconciliation",
+                  "value" : true,
+                  "id" : "60d1a3f0-5e00-4b35-a2ab-8b65e17ebc4d",
+                  "avg_rating" : 3.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Billing & Invoicing",
+                  "value" : true,
+                  "id" : "b9829f5b-1e19-49e7-b343-c2286973de15",
+                  "avg_rating" : 4.9,
+                  "cnt_rating" : 9,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 4,
+                  "cnt_time_used" : 4,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 4,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Create and manage monetary interactions between parties (ie. bills and invoices)"
+                },
+                {
+                  "name" : "Bookkeeping Services Integration",
+                  "value" : false,
+                  "id" : "44e9c44e-1898-48fc-ba63-c07af6ccf4b4",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Cash Management",
+                  "value" : true,
+                  "id" : "4c1b745f-fe1e-4baa-bb19-f2b09961407c",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Expense Tracking",
+                  "value" : true,
+                  "id" : "7ae9a957-9dc5-46d1-bee2-096e03b609b1",
+                  "avg_rating" : 4.8,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Fixed Asset Management",
+                  "value" : false,
+                  "id" : "6b4d33b4-8606-4113-b768-95cbe8b7d88d",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "General Ledger",
+                  "value" : true,
+                  "id" : "0e3dba87-295c-4e2a-8bf4-55ee72c9210b",
+                  "avg_rating" : 4.8,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Payment Collection",
+                  "value" : false,
+                  "id" : "ab56fcfd-d13e-462a-9e0e-3f6b0cf91406",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Payroll Management",
+                  "value" : false,
+                  "id" : "58379ec3-0f90-4b52-ac75-25f0b72a102d",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Track and process employee payroll (salaries, wages, etc.)"
+                },
+                {
+                  "name" : "Revenue Recognition",
+                  "value" : false,
+                  "id" : "71fd91b9-7ef9-4e7e-9e5a-174bb486604f",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Spend Management",
+                  "value" : true,
+                  "id" : "fbc16671-865c-4c7a-a69c-de2050f554b3",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Tax Management",
+                  "value" : false,
+                  "id" : "bc4f8c8b-06f0-4214-8eaa-bfec12a596d2",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                }
+              ]
+            },
+            {
+              "category_name" : "Small Business Invoicing",
+              "category_features" : [
+                {
+                  "name" : "Accounting",
+                  "value" : true,
+                  "id" : "3990e00b-853e-41a0-a871-33607f212727",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Activity Dashboard",
+                  "value" : true,
+                  "id" : "856ab03e-a530-4ea9-bac6-968761c9b6c6",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Alerts/Notifications",
+                  "value" : true,
+                  "id" : "aef68b72-bd4c-4797-ae8c-4735512de81a",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Approval Workflow",
+                  "value" : false,
+                  "id" : "7a011924-4439-4be6-827d-fdfe61a12c84",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Batch Processing",
+                  "value" : false,
+                  "id" : "d2542c63-7981-4adc-ac6d-29acbaaa0823",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Billing & Invoicing",
+                  "value" : true,
+                  "id" : "b9829f5b-1e19-49e7-b343-c2286973de15",
+                  "avg_rating" : 4.9,
+                  "cnt_rating" : 9,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 4,
+                  "cnt_time_used" : 4,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 4,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Customizable Branding",
+                  "value" : false,
+                  "id" : "2ad190f0-241d-4182-9ec3-10f1e12adbb9",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Customizable Fields",
+                  "value" : false,
+                  "id" : "7b8882ba-8459-4c05-87ea-19a2194340dd",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Customizable Invoices",
+                  "value" : false,
+                  "id" : "8bd87e50-35a0-4e79-aa37-58dd1db7f505",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Customizable Reports",
+                  "value" : true,
+                  "id" : "fcd1199d-1f74-4104-b348-3de5a9f29347",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "For Small Businesses",
+                  "value" : false,
+                  "id" : "f188d3b1-c28f-4220-8248-e7464667a99a",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Invoice Creation",
+                  "value" : false,
+                  "id" : "edf1e6ff-5ecc-424e-859f-05c463a71ed9",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Invoice History",
+                  "value" : false,
+                  "id" : "7af17faf-f834-4073-ac76-bc37bfb04adb",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Invoice Processing",
+                  "value" : true,
+                  "id" : "5f8f8f76-1a67-44af-8cdc-af5336b6227a",
+                  "avg_rating" : 4.9,
+                  "cnt_rating" : 22,
+                  "avg_importance" : 2.6,
+                  "cnt_importance" : 10,
+                  "cnt_time_used" : 10,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 10,
+                  "pct_time_critical" : 0.6,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Multi-Currency",
+                  "value" : true,
+                  "id" : "10faf02d-213a-48db-9ec5-937d435316d5",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Online Invoicing",
+                  "value" : false,
+                  "id" : "3e585cda-15e1-45ca-8df0-6b95eb58218a",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Online Payments",
+                  "value" : false,
+                  "id" : "565782b1-0836-47a8-9f38-1b7209ebe3d5",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Payment Tracking",
+                  "value" : false,
+                  "id" : "a4c1c9af-9e5b-4ab9-8474-1672d1bdb03a",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Recurring Invoicing",
+                  "value" : false,
+                  "id" : "800678db-7b1d-4fea-ade8-7450d89efc83",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Tax Calculation",
+                  "value" : false,
+                  "id" : "5c3d857a-faca-44cc-a5df-8d240bf4b1a0",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Third-Party Integration",
+                  "value" : false,
+                  "id" : "50cf9e4f-642c-4088-925f-475c2cd95dce",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                }
+              ]
+            }
+          ],
+          "infographics" : [ ],
+          "related_products" : [
+            {
+              "product_id" : 46497,
+              "seo_product_id" : 46497,
+              "seo_slug" : "QuickBooks",
+              "vendor_name" : "Intuit",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/90cac4f1-9eba-4d30-9949-91da634d4da5.png",
+              "rating" : 4.5,
+              "total_reviews" : 19374,
+              "slug" : "QuickBooks",
+              "product_name" : "QuickBooks Desktop Enterprise",
+              "short_desc" : "The leading accounting software for small businesses. Instant access to customer, vendor and employee information.",
+              "features" : "QuickBooks Enterprise (Save Up to 40%) is an end-to-end accounting software that can grow with your business. It provides all the tools your business needs, yet is easy to use. You can organize your books, manage inventory, track sales, and even run payroll, but at the fraction of the cost. With QuickBooks Enterprise, you save thousands of dollars a year vs. comparable solutions. Powerful and flexible, it also comes in editions designed to fit your specific needs. Take a free test drive today.",
+              "url" : "http://quickbooks.intuit.com"
+            },
+            {
+              "product_id" : 141374,
+              "seo_product_id" : 106730,
+              "seo_slug" : "Quickbooks-Online",
+              "vendor_name" : "Intuit",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d3e4b3cb-cc9c-4e72-b961-5dafcc473f17.png",
+              "rating" : 4.3,
+              "total_reviews" : 5038,
+              "slug" : "QuickBooks-Online",
+              "product_name" : "Quickbooks Online",
+              "short_desc" : "QuickBooks Online is a small business accounting software and app that allows you to manage your business anywhere, anytime.",
+              "features" : "QuickBooks Online is a small business accounting software and app that allows you to manage your business anywhere, anytime. Used by over 3.3 million customers, QuickBooks Online provides smart tools for your business, yet is easy to use. You can organize your books for a bookkeeper, manage expenses, send invoices, track inventory, and even run payroll. With QuickBooks Online, you can get organized, save time, and even get paid fast by adding payments features. Try it free for 30 days!",
+              "url" : "https://ad.doubleclick.net/ddm/trackclk/N5506.813334.CAPTERRA.COM/B21529827.230255948;dc_trk_aid=428199737;dc_trk_cid=106709783;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua="
+            },
+            {
+              "product_id" : 186749,
+              "seo_product_id" : 224455,
+              "seo_slug" : "TaxDome-",
+              "vendor_name" : "TaxDome",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/5a2e8d2d-431e-452f-9a5c-b793aa055843.jpeg",
+              "rating" : 4.7,
+              "total_reviews" : 2235,
+              "slug" : "TaxDome",
+              "product_name" : "TaxDome ",
+              "short_desc" : "All-in-one software for tax preparers, accountants, and bookkeepers. Run your practice from a single integrated hub.",
+              "features" : "TaxDome is an all-in-one practice management platform for CPAs, EAs, bookkeepers, and accounting firms. \n\nTaxDome allows firms of all sizes to streamline their practice by using one platform for both internal practice management (workflow, CRM, reporting) and client-facing tools (documents, signatures, invoicing, messages). Every client, every email, every job, every invoice: all in one shared place for your team.\n\nAutomated workflows, signatures, client onboarding, and client communication are ",
+              "url" : "https://www.taxdome.com?utm_source=capterra&utm_medium=cpc&utm_campaign=Capterra_US_Bookkeeper&utm_content={{ad.name}}"
+            },
+            {
+              "product_id" : 189398,
+              "seo_product_id" : 49768,
+              "seo_slug" : "QuickBooks-Non-Profit",
+              "vendor_name" : "Intuit",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/b14a841d-1dc7-47fc-bdaa-8dc4c7869fa7.png",
+              "rating" : 4.4,
+              "total_reviews" : 705,
+              "slug" : "QuickBooks-Online",
+              "product_name" : "QuickBooks Online Advanced",
+              "short_desc" : "QuickBooks is an end-to-end accounting software that can grow with your business.",
+              "features" : "QuickBooks Online Advanced (Save 50%) is a cloud-based, all-in-one, accounting and business hub solution, designed for growing, small to mid-sized businesses. Get performance reporting with highly customizable tracking tools, automated workflows, and real-time revenue and cash flow management dashboards. Seamlessly integrate best-in-class Premium Apps like Salesforce and HubSpot (CRM), Bill.com (accounts payable), DocuSign, LeanLaw & more to expand your capabilities as your business needs grow.",
+              "url" : "https://ad.doubleclick.net/ddm/trackclk/N5506.813334.CAPTERRA.COM/B26893105.322309567;dc_trk_aid=514778674;dc_trk_cid=162509626;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd="
+            },
+            {
+              "product_id" : 166559,
+              "seo_product_id" : 226669,
+              "seo_slug" : "Billcom",
+              "vendor_name" : "Bill.com",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/58c7479a-6ac6-4e65-80b4-a25024321b44.png",
+              "rating" : 4.1,
+              "total_reviews" : 391,
+              "slug" : "Bill-com",
+              "product_name" : "Bill.com",
+              "short_desc" : "Bill.com is the intelligent business payments platform that delivers financial process efficiency, time savings, and full control.",
+              "features" : "Bill.com delivers financial process efficiency through streamlined accounts payable (AP) and accounts receivable (AR) management. Reduce errors and increase efficiency by leveraging artificial intelligence (AI) and machine learning. Bill.com gets more intelligent as you use it, learning your processes and preferences to give you greater control over every aspect of bill management.",
+              "url" : "https://www.bill.com/lp/trial/?utm_source=capterra&utm_medium=cpc&utm_campaign=affiliate&campaign=Bookkeeper&keyword=getpaid&placement=destination&traffictype=referral"
+            },
+            {
+              "product_id" : 137795,
+              "seo_product_id" : 225450,
+              "seo_slug" : "Bench",
+              "vendor_name" : "Bench Accounting",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/ca09314b-a39d-4491-be36-6a44a33a33c8.png",
+              "rating" : 4.7,
+              "total_reviews" : 270,
+              "slug" : "Bench-Bookkeeping",
+              "product_name" : "Bench",
+              "short_desc" : "Bench does your small business books for you. We sync directly with your accounts to deliver tidy, accurate and tax-ready books.",
+              "features" : "Bench is for small business owners who want to focus on their business, not their bookkeeping. Every month, Bench turns your data into tax-ready financial statements. You can monitor your business's financial health, download your financial statements, and chat with your team any time via the Bench app. And at the end of the year, Bench provides you with everything you (or your CPA) will need to file your taxes.",
+              "url" : "https://bench.co/bench-accounting-software/?utm_source=capterra&utm_medium=cpc&utm_campaign=capterra&utm_content=bookkeeper"
+            },
+            {
+              "product_id" : 174753,
+              "seo_product_id" : 48629,
+              "seo_slug" : "Sage-50",
+              "vendor_name" : "Sage",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8e366903-fe21-436f-9488-2c432f53baa4.jpeg",
+              "rating" : 3.8,
+              "total_reviews" : 267,
+              "slug" : "Sage-50cloud",
+              "product_name" : "Sage 50cloud Accounting",
+              "short_desc" : "Complete, out-of-the-box-desktop accounting software, with secure cloud and mobile access, for small & medium sized businesses.",
+              "features" : "Sage 50cloud Accounting (formerly Peachtree Software) is a comprehensive accounting solution for small business. Designed for security, compliance and cloud-connected productivity. Popular features include detailed profitability tracking, cash flow forecasting, customized reporting via Microsoft Excel, advanced inventory tracking and automated bank reconciliation.\n\n",
+              "url" : "https://ad.doubleclick.net/ddm/clk/470868672;276314744;v"
+            },
+            {
+              "product_id" : 166905,
+              "seo_product_id" : 223384,
+              "seo_slug" : "Divvy-",
+              "vendor_name" : "Divvy",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e6f9587c-e148-4fb6-9b54-f686c25aacd0.png",
+              "rating" : 4.7,
+              "total_reviews" : 247,
+              "slug" : "Divvy",
+              "product_name" : "Divvy",
+              "short_desc" : "The expense management and business card solution for precise control on company-wide spend",
+              "features" : "Divvy has combined seamless expense management software with business cards so you never have to process another expense report. \n\nWith Divvy, you can leverage faster expense reporting, enforceable budgets, and a single platform to offer real-time visibility into all spend. Ready to gain more control and streamline your spend management-in a one-stop, easy-to-use platform?  Get Divvy today to empower your team and save everyone time (including yourself).",
+              "url" : "https://getdivvy.com/capterra/?utm_medium=review&utm_campaign=Bookkeeper"
+            },
+            {
+              "product_id" : 140059,
+              "seo_product_id" : 227264,
+              "seo_slug" : "Sage-Business-Cloud-Accounting",
+              "vendor_name" : "Sage",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d0ab0d87-bb3b-462a-bf21-d95b9293a76f.jpeg",
+              "rating" : 4.1,
+              "total_reviews" : 213,
+              "slug" : "Sage-One",
+              "product_name" : "Sage Business Cloud Accounting",
+              "short_desc" : "Sage Business Cloud Accounting is a simple yet powerful online accounting solution designed for small business owners. ",
+              "features" : "Sage Business Cloud Accounting (formerly Sage One) is an online accounting software that gives you anytime, anywhere access to the most important small business essentials. It has features that help you manage your cashflow and send and track invoices all through the cloud or on the mobile app. See why successful business owners choose Sage | Accounting. Visit our website for a complete list of features. Compatible with Mac/PC, Apple/Android. For a limited time only, try free for 3 months. ",
+              "url" : "https://ad.doubleclick.net/ddm/clk/490398438;297094888;m"
+            },
+            {
+              "product_id" : 154197,
+              "seo_product_id" : 154197,
+              "seo_slug" : "Sunrise",
+              "vendor_name" : "Lendio",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/29bb2662-ed1c-40ae-9650-dce2917fbff5.png",
+              "rating" : 4.5,
+              "total_reviews" : 212,
+              "slug" : "Sunrise",
+              "product_name" : "Sunrise",
+              "short_desc" : "Cloud-based cashflow software to streamline finance & accounting, tax assistance & preparation, documentation, expense tracking & more.",
+              "features" : "Cloud-based cashflow software to streamline finance & accounting, tax assistance & preparation, documentation, expense tracking & more.",
+              "url" : "https://sunriseapp.com/?utm_source=Capterra&utm_campaign=Capterra-PPC&utm_medium=cpc"
+            },
+            {
+              "product_id" : 141684,
+              "seo_product_id" : 227074,
+              "seo_slug" : "Veryfi-Receipts-OCR--Expenses",
+              "vendor_name" : "Veryfi",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/86b04b3a-c112-48cc-9866-a01cb926a3ca.png",
+              "rating" : 4.9,
+              "total_reviews" : 146,
+              "slug" : "Veryfi-Receipts-and-Expenses",
+              "product_name" : "Veryfi Receipts OCR & Expenses",
+              "short_desc" : "Modern mobile products for your team to automate bookkeeping, meet statutory tax obligations, and gain real-time business insights.",
+              "features" : "A new and better way to automate bookkeeping.\n\nVeryfi helps you do more business and less accounting by automating the boring parts of accounting (data entry, categorization & reconciliation) with machines, not humans.\n\nVeryfi has the industry's fastest OCR & Machine Learning engine to consume unstructured receipts, invoices & purchases and turn them into a structured data format. Veryfi helps you meet your tax obligations to the IRS, maximize tax deductions, and eliminates manual data entry.",
+              "url" : "https://www.veryfi.com/expense-management/?utm_source=capterra&utm_medium=listing&utm_campaign=expenses"
+            }
+          ],
+          "similar_products" : [
+            {
+              "product_id" : 203871,
+              "seo_product_id" : 265082,
+              "seo_slug" : "Bookkeep",
+              "vendor_name" : "Bookkeep",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/92ed4281-de56-4b04-9479-dc02764ddb99.png",
+              "rating" : 4.8,
+              "total_reviews" : 12,
+              "slug" : "Bookkeep",
+              "product_name" : "Bookkeep",
+              "short_desc" : "Automation software to help you manage accounting with integrations with Shopify, Square, and more.",
+              "features" : "Bookkeep automatically posts daily sales summary financials to accounting platforms such as QuickBooks Online or Xero and reconciles the payment deposits. We do this for all commerce apps like Square, Shopify, Amazon Seller and many many more. We're accountants, business owners, and data nerds ourselves, so we know the importance of accurate accrual-based financial reporting.",
+              "url" : "https://www.bookkeep.com/?utm_source=capterra&utm_medium=cpc&utm_campaign=Brand&utm_content=general"
+            },
+            {
+              "product_id" : 192999,
+              "seo_product_id" : 192999,
+              "seo_slug" : "Davo-Sales-Tax",
+              "vendor_name" : "Davo",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/cdf360d7-1915-4aee-8b47-29b52bb87078.png",
+              "rating" : 5.0,
+              "total_reviews" : 14,
+              "slug" : "Davo-Sales-Tax",
+              "product_name" : "DAVO",
+              "short_desc" : "DAVO sets aside sales tax daily and pays and files it, on time and in full - guaranteed. Try it for free for the first 30 days!",
+              "features" : "DAVO by Avalara uses sales data from your POS system to set aside the exact amount of sales tax you collect every single day and then files and pays it when it's due. It's fully automatic. Absolutely secure. Totally guaranteed.\n\nIf you are a brick and mortar business and you sell things, chances are you have to collect and pay sales tax. DAVO can do it for you.\n\nDAVO is available on Clover, Square, Toast, Lightspeed, Vend, SpotOn, Quickbooks Online, Heartland, Par Brink, Upserve, Poynt & Revel.",
+              "url" : "https://www.davosalestax.com/?utm_campaign=Review%20Sites&utm_source=Capterra&utm_medium=PPC_Listing"
+            },
+            {
+              "product_id" : 166559,
+              "seo_product_id" : 226669,
+              "seo_slug" : "Billcom",
+              "vendor_name" : "Bill.com",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/58c7479a-6ac6-4e65-80b4-a25024321b44.png",
+              "rating" : 4.1,
+              "total_reviews" : 391,
+              "slug" : "Bill-com",
+              "product_name" : "Bill.com",
+              "short_desc" : "Bill.com is the intelligent business payments platform that delivers financial process efficiency, time savings, and full control.",
+              "features" : "Bill.com delivers financial process efficiency through streamlined accounts payable (AP) and accounts receivable (AR) management. Reduce errors and increase efficiency by leveraging artificial intelligence (AI) and machine learning. Bill.com gets more intelligent as you use it, learning your processes and preferences to give you greater control over every aspect of bill management.",
+              "url" : "https://www.bill.com/lp/trial/?utm_source=capterra&utm_medium=cpc&utm_campaign=affiliate&campaign=Bookkeeper&keyword=getpaid&placement=destination&traffictype=referral"
+            },
+            {
+              "product_id" : 184673,
+              "seo_product_id" : 223058,
+              "seo_slug" : "Melio",
+              "vendor_name" : "Melio",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/88ede00f-aaa2-46e9-9e7e-51466548f18c.png",
+              "rating" : 3.9,
+              "total_reviews" : 134,
+              "slug" : "Melio",
+              "product_name" : "Melio",
+              "short_desc" : "Melio is a simple bill-pay service for accountants and businesses. Manage all your clients' payments & pay business bills for free.",
+              "features" : "Melio is a simple online bill-pay management service tailored for accountants, bookkeepers, and their small business clients. Manage all clients' payments from a single dashboard with one login for all client accounts. Pay business bills for free. Use bank transfer or card even if vendors only accept checks. Set up a payment approval workflow, add users, and manage their roles and permissions with just a few clicks. Save time and eliminate dual data entry with our 2-way sync with QuickBooks.",
+              "url" : "https://meliopayments.com/?utm_source=dir&utm_medium=cpc&utm_campaign=capterra&utm_term=mainpage"
+            },
+            {
+              "product_id" : 246411,
+              "seo_product_id" : 250561,
+              "seo_slug" : "SynkBooks",
+              "vendor_name" : "Tax Lab",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/1fe0e753-1811-4eab-9a48-c03f50299e6f.jpeg",
+              "rating" : 0.0,
+              "total_reviews" : 0,
+              "slug" : "SynkBooks",
+              "product_name" : "SynkBooks",
+              "short_desc" : "Cloud-based bookkeeping tool that lets startups automatically import transaction data and file tax returns on a centralized dashboard.",
+              "features" : "Cloud-based bookkeeping tool that lets startups automatically import transaction data and file tax returns on a centralized dashboard.",
+              "url" : "https://app.synkbooks.com/bookkeeping/"
+            },
+            {
+              "product_id" : 251814,
+              "seo_product_id" : 251814,
+              "seo_slug" : "Centime",
+              "vendor_name" : "Centime",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/f51dec2c-d712-46a4-9ecd-b7c2d2226f7e.jpeg",
+              "rating" : 0.0,
+              "total_reviews" : 0,
+              "slug" : "Centime",
+              "product_name" : "Centime",
+              "short_desc" : "Centime Cash Flow Control integrates with your General Ledger and bank accounts to help you control and manage cash flow.",
+              "features" : "Centime helps bookkeepers, CPAs, fractional CFOs and businesses forecast cash flow, collect faster, pay smarter and access credit.\n\nCentime Cash Flow Control is a cloud-based software solution that integrates with businesses' General Ledger and bank accounts, and helps them control and manage cash by forecasting cash flow, collecting invoices faster, paying bills smarter and accessing short-term credit.\n\nSupported General Ledgers: \nQuickBooks Online\nQuickBooks Desktop\nNetSuite\n",
+              "url" : "https://cashflow.centime.com/smb-cash-flow-forecasting-software-4/"
+            },
+            {
+              "product_id" : 133062,
+              "seo_product_id" : 225029,
+              "seo_slug" : "BeanworksAP",
+              "vendor_name" : "Beanworks Solutions",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/1b76b14e-1bce-4e2a-935b-4b73b09c94b7.png",
+              "rating" : 4.7,
+              "total_reviews" : 35,
+              "slug" : "BeanworksAP",
+              "product_name" : "BeanworksAP",
+              "short_desc" : "Automatically enter invoice data, route approvals, find any document and pay vendors from anywhere with Beanworks AP Automation. ",
+              "features" : "Beanworks empowers accounting teams to efficiently manage accounts payable from anywhere, without paper or manual follow-up. With AI-powered data entry and approval workflows for invoices, POs, payments and expenses, Beanworks provides 360 degree visibility and control for all things AP.",
+              "url" : "https://inbound.beanworks.com/Capterra-AP-Automation-Leader?utm_source=capterra&utm_medium=cpc&utm_campaign=capterra"
+            },
+            {
+              "product_id" : 186313,
+              "seo_product_id" : 186313,
+              "seo_slug" : "Pilot",
+              "vendor_name" : "Pilot",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/3389e39b-4bd8-49ee-82a8-0813b40fc5b5.png",
+              "rating" : 4.9,
+              "total_reviews" : 21,
+              "slug" : "Pilot",
+              "product_name" : "Pilot",
+              "short_desc" : "Pilot offers bookkeeping, tax, and CFO Services for growing businesses.",
+              "features" : "Pilot takes care of your business finances, so you can focus on growing your business. Over a thousand businesses rely on Pilot for bookkeeping, tax, budgeting, fundraising support, & more. \n\nWith Pilot, get a dedicated team of US-based finance experts who deeply understand your business and software that integrates with your financial tech stack like QuickBooks, NetSuite, Stripe, & more.   \n\nGetting started is easy - see why 1,000+ companies like Lattice, Scale, & OpenAI are using Pilot today.",
+              "url" : "https://pilot.com/bookkeeping/?utm_source=otherdigital&utm_medium=digital&utm_campaign=capterra_ppc"
+            },
+            {
+              "product_id" : 166905,
+              "seo_product_id" : 223384,
+              "seo_slug" : "Divvy-",
+              "vendor_name" : "Divvy",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e6f9587c-e148-4fb6-9b54-f686c25aacd0.png",
+              "rating" : 4.7,
+              "total_reviews" : 247,
+              "slug" : "Divvy",
+              "product_name" : "Divvy",
+              "short_desc" : "The expense management and business card solution for precise control on company-wide spend",
+              "features" : "Divvy has combined seamless expense management software with business cards so you never have to process another expense report. \n\nWith Divvy, you can leverage faster expense reporting, enforceable budgets, and a single platform to offer real-time visibility into all spend. Ready to gain more control and streamline your spend management-in a one-stop, easy-to-use platform?  Get Divvy today to empower your team and save everyone time (including yourself).",
+              "url" : "https://getdivvy.com/capterra/?utm_medium=review&utm_campaign=Default&utm_content=Spotlight%20Link-%20Free%20Trial"
+            },
+            {
+              "product_id" : 137795,
+              "seo_product_id" : 225450,
+              "seo_slug" : "Bench",
+              "vendor_name" : "Bench Accounting",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/ca09314b-a39d-4491-be36-6a44a33a33c8.png",
+              "rating" : 4.7,
+              "total_reviews" : 270,
+              "slug" : "Bench-Bookkeeping",
+              "product_name" : "Bench",
+              "short_desc" : "Bench does your small business books for you. We sync directly with your accounts to deliver tidy, accurate and tax-ready books.",
+              "features" : "Bench is for small business owners who want to focus on their business, not their bookkeeping. Every month, Bench turns your data into tax-ready financial statements. You can monitor your business's financial health, download your financial statements, and chat with your team any time via the Bench app. And at the end of the year, Bench provides you with everything you (or your CPA) will need to file your taxes.",
+              "url" : "https://bench.co/bench-accounting-software/?utm_source=capterra&utm_medium=cpc&utm_campaign=capterra"
+            },
+            {
+              "product_id" : 117394,
+              "seo_product_id" : 235353,
+              "seo_slug" : "Passport-Business-Solutions",
+              "vendor_name" : "Passport Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/9e102563-203b-40cd-8965-7afedf0d912b.png",
+              "rating" : 4.5,
+              "total_reviews" : 31,
+              "slug" : "Passport-Business-Solutions",
+              "product_name" : "PBS Accounting",
+              "short_desc" : "Passport Business Solutions (PBS) is professional accounting software perfect for companies outgrowing entry level solutions.",
+              "features" : "Passport Business Solutions (PBS) is professional level accounting software that is perfect for companies outgrowing entry level solutions. PBS Accounts Payable helps you maintain good credit. Keep accurate information on vendor, supplier and costs by tracking payment due dates, available discounts, and money owed to creditors. 1099s, Positive Pay, ACH direct deposit.",
+              "url" : "https://info.gartnerdigitalmarkets.com/pbs-accounting-gdm-lp/?category=accounting&utm_source=capterra"
+            },
+            {
+              "product_id" : 237205,
+              "seo_product_id" : 237205,
+              "seo_slug" : "Online-Check-Writer",
+              "vendor_name" : "Zil Money",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/6ead248e-e782-4a12-9819-7b5b6af0f5fd.png",
+              "rating" : 4.6,
+              "total_reviews" : 140,
+              "slug" : "Online-Check-Writer",
+              "product_name" : "Online Check Writer",
+              "short_desc" : "Pay & Get paid in Single Platform.  Use Printable Checks, eChecks, ACH, RTP. Pay with a credit card even where cards are not accepted. ",
+              "features" : "Online Check Writer provides you services starting from check printing to online banking. The software allows you to print checks instantly on blank stock papers using a regular printer at your office or home. Also, it let you move money seamlessly by ACH, Wire, and e-checks. In addition, OCW's online banking service, Zil, offers a free business checking account with ACH & Wire Transfers.\nOur latest offer is the ability to pay anywhere using a credit card even where cards are not accepted.\n",
+              "url" : "https://onlinecheckwriter.com/business-plan/"
+            },
+            {
+              "product_id" : 39398,
+              "seo_product_id" : 39398,
+              "seo_slug" : "Big-E-Z-Books",
+              "vendor_name" : "Big E-Z Bookkeeping Co.",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/1de074d3-5711-4161-b2c4-ac69bf55a69f.jpeg",
+              "rating" : 4.6,
+              "total_reviews" : 25,
+              "slug" : "Big-E-Z-Books",
+              "product_name" : "Big E-Z Accounting for Google Sheets",
+              "short_desc" : "Easy to use accounting software for online use with Google Sheets. Free 30-day trial.",
+              "features" : "Big E-Z Accounting Software won't waste your time. Why? Because our software is easy to use and even easier to correct entry errors. Great for the smallest of businesses, non-profits, groups, and clubs. You'll get clear, concise reports just like a professional whether you understand accounting or not. Includes FREE half-hour demo, tour, setup, and customization help. The online version is available for $180 for an annual license.",
+              "url" : "https://bigez.com"
+            }
+          ],
+          "related_categories" : [
+            {
+              "functional_group" : "book",
+              "long_name" : "Accounting",
+              "html_name" : "accounting-software",
+              "link_name" : "accounting",
+              "product_count" : 240,
+              "meta_description" : "Find and compare top Accounting software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Accounting tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/accounting-software\">Accounting software</a> automates an organization's financial functions and transactions with modules including accounts payable, accounts receivable, payroll, billing and general ledger.  Integration of Accounting applications allows for comprehensive, real-time, on-demand analysis of an organization's financial status.  Toolsets within Accounting solutions can often be customized to the specific needs of an organization.  <a href=\"/accounting-software\">Accounting software</a> is related to <a href=\"/audit-software\">Audit software</a>, <a href=\"/billing-and-invoicing-software\">Billing and Invoicing software</a>, <a href=\"/compliance-software\">Compliance software</a> and <a href=\"/financial-reporting-software\">Financial Reporting software</a>."
+            },
+            {
+              "functional_group" : "book",
+              "long_name" : "Accounting Practice Management",
+              "html_name" : "accounting-practice-management-software",
+              "link_name" : "accounting-practice-management",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Accounting Practice Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Accounting Practice Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "Accounting Practice Management software helps professional accountants manage workflow, communicate with their clients, and automate their daily processes."
+            },
+            {
+              "functional_group" : "book",
+              "long_name" : "Financial Reporting",
+              "html_name" : "financial-reporting-software",
+              "link_name" : "financial-reporting",
+              "product_count" : 104,
+              "meta_description" : "Find and compare top Financial Reporting software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Financial Reporting tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/financial-reporting-software>Financial <a href=/reporting-software>Reporting software</a></a> automates the task of reporting an organization's financial results, status and transactions.  Financial Reporting applications help organizations control and increase operational efficiencies. These solutions provide the ability to collect, translate and consolidate data from various systems and geographic locations.  <a href=/financial-reporting-software>Financial <a href=/reporting-software>Reporting software</a></a> is related to <a href=/accounting-software>Accounting software</a>, <a href=/budgeting-software>Budgeting software</a>, <a href=/business-performance-management-software>Business Performance Management software</a> and <a href=/compliance-software>Compliance software</a>."
+            },
+            {
+              "functional_group" : "book",
+              "long_name" : "Sales Tax",
+              "html_name" : "sales-tax-software",
+              "link_name" : "sales-tax",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Sales Tax software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Sales Tax tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "Sales Tax software manages the calculation, collection, and reporting of state and local taxes on sales of goods and services while maintaining compliance with various local and federal regulations."
+            }
+          ],
+          "is_upgraded" : false,
+          "enabled" : true,
+          "filter_options" : {
+            "users" : 124,
+            "platform" : 975,
+            "pricing_options" : 18,
+            "category_related_features" : [
+              26371,
+              26371,
+              26374,
+              26374,
+              26375,
+              26375,
+              26376,
+              26376,
+              26379,
+              26379,
+              26382,
+              26382,
+              64982,
+              64982,
+              64983,
+              64983,
+              64985,
+              64985,
+              64986,
+              64986,
+              64988,
+              64988,
+              64990,
+              64990,
+              64992,
+              64992,
+              64994,
+              64994,
+              64996,
+              64996,
+              64997,
+              64997,
+              64998,
+              64998,
+              64999,
+              64999,
+              65000,
+              65000,
+              65001,
+              65001,
+              65006,
+              65006,
+              65007,
+              65007,
+              65008,
+              65008,
+              65012,
+              65012,
+              65013,
+              65013,
+              65016,
+              65016
+            ],
+            "employees" : 124
+          },
+          "sort_options" : {
+            "sort_review_rating" : 4.6017866134643555,
+            "most_recent_review" : "2022-08-04T03:17:22Z"
+          },
+          "countries" : "ALL",
+          "features_tokenized_text" : "bank_reconciliation billing_&_invoicing cash_management expense_tracking general_ledger spend_management",
+          "platform_tokenized_text" : "cloud,saas,web-based desktopmac desktopwindows desktoplinux desktopchromebook mobileandroid mobileiphone mobileipad",
+          "users_tokenized_text" : "11-50 51-200 201-500 501-1000 1000+",
+          "pricing_tokenized_text" : "monthlysubscription freetrial",
+          "badges" : [ ],
+          "bid_spot_us" : 0.0,
+          "currency_code" : "USD",
+          "currency_symbol" : "$",
+          "credit_card_required" : "Unverified",
+          "licensing_model" : null,
+          "open_api_offered" : "Yes",
+          "mobile_urls" : [
+            {
+              "name" : "iOS",
+              "url" : "https://apps.apple.com/us/app/lightyear/id1455334590"
+            },
+            {
+              "name" : "Android",
+              "url" : "https://play.google.com/store/apps/details?id=cloud.lightyear&hl=en_US&gl=US"
+            }
+          ],
+          "integrations" : [
+            {
+              "id" : "6a680041-f372-46f3-a3e9-a6d200b556c0",
+              "name" : "NetSuite"
+            },
+            {
+              "id" : "eab58142-6040-46ce-9341-a6d200b7915e",
+              "name" : "Xero"
+            },
+            {
+              "id" : "bcdd9473-58dd-4c24-a82a-a6d200b601d6",
+              "name" : "Quickbooks Online"
+            },
+            {
+              "id" : "9903178f-6f12-42f0-a28c-a7f6005f2958",
+              "name" : "VIA"
+            },
+            {
+              "id" : "05b14a19-f2bd-4af2-a60f-a82d00adbe15",
+              "name" : "MYOB Advanced Business"
+            },
+            {
+              "id" : "7092eaef-b348-4acb-8648-a6d200b64092",
+              "name" : "Sage 50cloud Accounting"
+            }
+          ],
+          "supported_countries" : [
+            {
+              "id" : 235,
+              "code" : "GB",
+              "name" : "United Kingdom of Great Britain and Northern Ireland"
+            },
+            {
+              "id" : 237,
+              "code" : "US",
+              "name" : "United States of America"
+            },
+            {
+              "id" : 108,
+              "code" : "IE",
+              "name" : "Ireland"
+            },
+            {
+              "id" : 207,
+              "code" : "ZA",
+              "name" : "South Africa"
+            },
+            {
+              "id" : 41,
+              "code" : "CA",
+              "name" : "Canada"
+            },
+            {
+              "id" : 14,
+              "code" : "AU",
+              "name" : "Australia"
+            },
+            {
+              "id" : 159,
+              "code" : "NZ",
+              "name" : "New Zealand"
+            }
+          ],
+          "supported_languages" : [
+            {
+              "id" : 152,
+              "code" : "en",
+              "name" : "English",
+              "location" : null
+            }
+          ],
+          "target_industries" : [
+            {
+              "id" : 2,
+              "code" : "94",
+              "name" : "Airlines/Aviation"
+            },
+            {
+              "id" : 6,
+              "code" : "19",
+              "name" : "Apparel & Fashion"
+            },
+            {
+              "id" : 10,
+              "code" : "52",
+              "name" : "Aviation & Aerospace"
+            },
+            {
+              "id" : 13,
+              "code" : "36",
+              "name" : "Broadcast Media"
+            },
+            {
+              "id" : 14,
+              "code" : "49",
+              "name" : "Building Materials"
+            },
+            {
+              "id" : 15,
+              "code" : "138",
+              "name" : "Business Supplies and Equipment"
+            },
+            {
+              "id" : 19,
+              "code" : "51",
+              "name" : "Civil Engineering"
+            },
+            {
+              "id" : 20,
+              "code" : "128",
+              "name" : "Commercial Real Estate"
+            },
+            {
+              "id" : 24,
+              "code" : "5",
+              "name" : "Computer Networking"
+            },
+            {
+              "id" : 34,
+              "code" : "69",
+              "name" : "Education Management"
+            },
+            {
+              "id" : 47,
+              "code" : "23",
+              "name" : "Food Production"
+            },
+            {
+              "id" : 49,
+              "code" : "26",
+              "name" : "Furniture"
+            },
+            {
+              "id" : 50,
+              "code" : "29",
+              "name" : "Gambling & Casinos"
+            },
+            {
+              "id" : 55,
+              "code" : "124",
+              "name" : "Health, Wellness and Fitness"
+            },
+            {
+              "id" : 57,
+              "code" : "14",
+              "name" : "Hospital & Health Care"
+            },
+            {
+              "id" : 64,
+              "code" : "96",
+              "name" : "Information Technology and Services"
+            },
+            {
+              "id" : 89,
+              "code" : "139",
+              "name" : "Mental Health Care"
+            },
+            {
+              "id" : 91,
+              "code" : "56",
+              "name" : "Mining & Metals"
+            },
+            {
+              "id" : 92,
+              "code" : "35",
+              "name" : "Motion Pictures and Film"
+            },
+            {
+              "id" : 110,
+              "code" : "67",
+              "name" : "Primary/Secondary Education"
+            },
+            {
+              "id" : 118,
+              "code" : "62",
+              "name" : "Railroad Manufacture"
+            },
+            {
+              "id" : 133,
+              "code" : "22",
+              "name" : "Supermarkets"
+            },
+            {
+              "id" : 135,
+              "code" : "60",
+              "name" : "Textiles"
+            },
+            {
+              "id" : 143,
+              "code" : "93",
+              "name" : "Warehousing"
+            },
+            {
+              "id" : 144,
+              "code" : "133",
+              "name" : "Wholesale"
+            },
+            {
+              "id" : 37,
+              "code" : "28",
+              "name" : "Entertainment"
+            },
+            {
+              "id" : 94,
+              "code" : "115",
+              "name" : "Music"
+            },
+            {
+              "id" : 21,
+              "code" : "118",
+              "name" : "Computer & Network Security"
+            },
+            {
+              "id" : 125,
+              "code" : "32",
+              "name" : "Restaurants"
+            },
+            {
+              "id" : 7,
+              "code" : "50",
+              "name" : "Architecture & Planning"
+            },
+            {
+              "id" : 58,
+              "code" : "31",
+              "name" : "Hospitality"
+            },
+            {
+              "id" : 1,
+              "code" : "47",
+              "name" : "Accounting"
+            },
+            {
+              "id" : 62,
+              "code" : "147",
+              "name" : "Industrial Automation"
+            },
+            {
+              "id" : 139,
+              "code" : "92",
+              "name" : "Transportation/Trucking/Railroad"
+            },
+            {
+              "id" : 98,
+              "code" : "57",
+              "name" : "Oil & Energy"
+            },
+            {
+              "id" : 120,
+              "code" : "44",
+              "name" : "Real Estate"
+            },
+            {
+              "id" : 42,
+              "code" : "63",
+              "name" : "Farming"
+            },
+            {
+              "id" : 84,
+              "code" : "80",
+              "name" : "Marketing and Advertising"
+            },
+            {
+              "id" : 105,
+              "code" : "15",
+              "name" : "Pharmaceuticals"
+            },
+            {
+              "id" : 86,
+              "code" : "126",
+              "name" : "Media Production"
+            },
+            {
+              "id" : 85,
+              "code" : "135",
+              "name" : "Mechanical or Industrial Engineering"
+            },
+            {
+              "id" : 140,
+              "code" : "59",
+              "name" : "Utilities"
+            },
+            {
+              "id" : 81,
+              "code" : "11",
+              "name" : "Management Consulting"
+            },
+            {
+              "id" : 78,
+              "code" : "116",
+              "name" : "Logistics and Supply Chain"
+            },
+            {
+              "id" : 65,
+              "code" : "42",
+              "name" : "Insurance"
+            },
+            {
+              "id" : 41,
+              "code" : "122",
+              "name" : "Facilities Services"
+            },
+            {
+              "id" : 134,
+              "code" : "8",
+              "name" : "Telecommunications"
+            },
+            {
+              "id" : 11,
+              "code" : "41",
+              "name" : "Banking"
+            },
+            {
+              "id" : 52,
+              "code" : "75",
+              "name" : "Government Administration"
+            },
+            {
+              "id" : 9,
+              "code" : "53",
+              "name" : "Automotive"
+            },
+            {
+              "id" : 74,
+              "code" : "10",
+              "name" : "Legal Services"
+            },
+            {
+              "id" : 25,
+              "code" : "4",
+              "name" : "Computer Software"
+            },
+            {
+              "id" : 97,
+              "code" : "100",
+              "name" : "Non-Profit Organization Management"
+            },
+            {
+              "id" : 43,
+              "code" : "43",
+              "name" : "Financial Services"
+            },
+            {
+              "id" : 26,
+              "code" : "48",
+              "name" : "Construction"
+            },
+            {
+              "id" : 126,
+              "code" : "27",
+              "name" : "Retail"
+            },
+            {
+              "id" : 35,
+              "code" : "132",
+              "name" : "E-Learning"
+            },
+            {
+              "id" : 46,
+              "code" : "34",
+              "name" : "Food & Beverages"
+            }
+          ],
+          "price_range_id" : 1,
+          "aggregated_review_ratings" : {
+            "industry" : {
+              "43" : 5.0,
+              "116" : 5.0,
+              "57" : 5.0,
+              "46" : 5.0,
+              "25" : 5.0,
+              "118" : 5.0,
+              "47" : 4.96,
+              "44" : 5.0,
+              "53" : 5.0,
+              "90" : 5.0,
+              "121" : 5.0,
+              "34" : 5.0,
+              "86" : 5.0,
+              "80" : 5.0,
+              "56" : 5.0,
+              "48" : 4.91,
+              "27" : 5.0,
+              "59" : 5.0,
+              "8" : 5.0,
+              "115" : 5.0,
+              "96" : 5.0,
+              "92" : 5.0,
+              "51" : 5.0,
+              "28" : 5.0,
+              "31" : 4.82,
+              "14" : 5.0,
+              "63" : 5.0,
+              "32" : 5.0,
+              "112" : 4.0,
+              "69" : 5.0,
+              "100" : 5.0
+            },
+            "company_size" : {
+              "201-500 employees" : 4.88,
+              "1-10 employees" : 5.0,
+              "5001-10,000 employees" : 5.0,
+              "51-200 employees" : 4.9,
+              "501-1000 employees" : 5.0,
+              "Self-employed" : 5.0,
+              "1001-5000 employees" : 5.0,
+              "11-50 employees" : 4.9
+            }
+          },
+          "vct_enabled" : false,
+          "pricing_plans" : [
+            {
+              "created_on_utc" : "2019-08-21T14:47:39Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Starter",
+              "description" : "The plan offers an 30-day free trial after which the software is available at $99/month",
+              "display_order" : 1,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 99.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "Accounting Integrations"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "Approvals Workflow"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Automated Line-Item Coding"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "Line-Item Data-Extraction"
+                }
+              ]
+            },
+            {
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Business",
+              "description" : "The plan offers an 30-day free trial after which the software is available at $199/month",
+              "display_order" : 2,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 199.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "Accounting Integrations"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "Approvals Workflow"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Automated Line-Item Coding"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "Line-Item Data-Extraction"
+                }
+              ]
+            },
+            {
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Enterprise ",
+              "description" : "The plan offers an 30-day free trial after which the software is available at $1199/month",
+              "display_order" : 3,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 1199.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "Accounting Integrations"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "Approvals Workflow"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Automated Line-Item Coding"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "Line-Item Data-Extraction"
+                }
+              ]
+            }
+          ],
+          "discount_types" : [ ]
+        }
+      },
+      {
+        "_index" : "product_listings_main_data_upc_vt20220920_043802_utc",
+        "_type" : "_doc",
+        "_id" : "178978_acctpay",
+        "_score" : 10.869203,
+        "_source" : {
+          "product_id" : 178978,
+          "seo_product_id" : 220983,
+          "seo_slug" : "Lightyear",
+          "product_name" : "Lightyear",
+          "upc_product_uuid" : "82b3e922-f674-45ad-b964-a957007c0556",
+          "old_product_ids" : [
+            220983
+          ],
+          "product_url" : "https://www.lightyear.cloud?utm_medium=cpc&utm_source=capterra&utm_campaign=capterra",
+          "product_slug" : "Lightyear",
+          "former_name" : "Lightyear",
+          "logo_filepath" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/0866d169-dbdf-4d23-8998-f38c2adc1aa7.png",
+          "vendor" : {
+            "vendor_id" : 2124740,
+            "vendor_name" : "Lightyear",
+            "vendor_url" : "https://www.lightyear.cloud/",
+            "year_founded" : 2018,
+            "location" : "United Kingdom",
+            "vendor_opted_out_of_reviews" : true,
+            "is_opted_out_of_reviews" : false,
+            "is_hit_limit" : false,
+            "enabled" : true,
+            "has_vendor_level_page" : false,
+            "slug" : null,
+            "vendor_page" : false,
+            "paused_campaign" : false
+          },
+          "category_short_name" : "acctpay",
+          "category_html_name" : "accounts-payable-software",
+          "category" : {
+            "id" : 30520,
+            "short_name" : "acctpay",
+            "long_name" : "Accounts Payable",
+            "html_name" : "accounts-payable-software",
+            "enabled" : true
+          },
+          "best_category" : "acctpay",
+          "is_best_category" : true,
+          "highest_cpc_category" : "acctpay",
+          "is_highest_cpc_category" : true,
+          "short_desc" : "Automate your Accounts Payable with line item data extraction with multi-tier approvals today and save up to 80% of your teams time.",
+          "long_desc" : "Suppliers email in their standard bills (invoices), credit notes and statements, all of which have line-item data extracted in real-time. Bills are then automatically matched to POs if applicable, or presented to individual managers at the start of a customisable approvals workflow, after which the approved data is automatically synced with your accounting system (and Point of Sale systems if required). Bills are stored online for 8 years, enabling a truly connected and paperless organisation.\n",
+          "rating" : 4.9,
+          "number_of_reviews" : 124,
+          "total_reviews" : 117,
+          "ease_of_use_rating" : 4.9,
+          "customer_support_rating" : 4.9,
+          "functionality_rating" : 4.8,
+          "value_for_money_rating" : 4.8,
+          "recommendation_rating" : 9.7,
+          "pricing_enabled" : true,
+          "pricing" : 99.0,
+          "is_per_user" : false,
+          "fee_schedule" : "Per-Month",
+          "pricing_model" : "Flat Rate",
+          "pricing_details" : "Lightyear is available across 3 pricing tiers: Starter, Business, Enterprise. Pricing starts at $79/per month and scales with each tier, outlined below:  \r\n\r\nStarter - $79/month\r\n- Unlimited Users\r\n- Unlimited Sub-entities \r\n\r\n\r\nBusiness - $179/month \r\n- Unlimited Users\r\n- Unlimited Sub-entities\r\n- Purchase Orders\r\n- Good Receivable Notes\r\n- Inventory Management\r\n\r\nEnterprise - $1,099/month \r\n- Unlimited Users\r\n- Unlimited Sub-entities\r\n- Purchase Orders\r\n- Good Receivable Notes\r\n- Inventory Management\r\n- Dedicated Account Manager\r\n- White Labelling Capabilities",
+          "pricing_created_on" : "2019-08-21T14:47:39Z",
+          "pricing_modified_on" : "2022-06-23T14:42:33Z",
+          "pricing_created_by" : null,
+          "pricing_modified_by" : null,
+          "pricing_vendor_pricing_url" : "https://www.lightyear.cloud/row/pricing",
+          "free_trial" : true,
+          "free_version" : false,
+          "target_audience" : "Lightyear can be used by any industry type and scales from large SME up to Enterprise. Our main clients include hospitality, retail, construction, manufacturing, aged care and education.",
+          "target_users" : [
+            "11-50",
+            "51-200",
+            "201-500",
+            "501-1000",
+            "1000+"
+          ],
+          "platform" : [
+            {
+              "enabled" : true,
+              "name" : "Cloud, SaaS, Web-Based"
+            },
+            {
+              "enabled" : true,
+              "name" : "Desktop Mac"
+            },
+            {
+              "enabled" : true,
+              "name" : "Desktop Windows"
+            },
+            {
+              "enabled" : true,
+              "name" : "Desktop Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Linux"
+            },
+            {
+              "enabled" : true,
+              "name" : "Desktop Chromebook"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile Android"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPhone"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPad"
+            }
+          ],
+          "support" : [
+            {
+              "enabled" : true,
+              "name" : "Email Help Desk"
+            },
+            {
+              "enabled" : true,
+              "name" : "FAQ Forum"
+            },
+            {
+              "enabled" : true,
+              "name" : "Knowledgebase"
+            },
+            {
+              "enabled" : true,
+              "name" : "Phone Support"
+            },
+            {
+              "enabled" : true,
+              "name" : "24/7 Live Rep"
+            },
+            {
+              "enabled" : true,
+              "name" : "Chat"
+            }
+          ],
+          "training" : [
+            {
+              "enabled" : false,
+              "name" : "Not Offered"
+            },
+            {
+              "enabled" : false,
+              "name" : "In-Person"
+            },
+            {
+              "enabled" : true,
+              "name" : "Live Online"
+            },
+            {
+              "enabled" : true,
+              "name" : "Webinars"
+            },
+            {
+              "enabled" : true,
+              "name" : "Documentation"
+            },
+            {
+              "enabled" : true,
+              "name" : "Videos"
+            }
+          ],
+          "media" : [
+            {
+              "product_id" : 178978,
+              "vendor_id" : 2124740,
+              "media_type" : "VIDEO",
+              "path_url" : "https://youtu.be/aQroNowof8o",
+              "caption" : null,
+              "weight" : 0,
+              "short_name" : "acctpay"
+            }
+          ],
+          "links" : [ ],
+          "features" : [
+            {
+              "category_name" : "Accounts Payable",
+              "category_features" : [
+                {
+                  "name" : "1099 Preparation",
+                  "value" : false,
+                  "id" : "ece88889-0ecd-4908-9a81-ff43aa598ca6",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Create and distribute 1099 tax forms to suppliers"
+                },
+                {
+                  "name" : "Aging Tracking",
+                  "value" : true,
+                  "id" : "eb2f1b1e-7909-4e97-a424-c622a99764fc",
+                  "avg_rating" : 4.9,
+                  "cnt_rating" : 10,
+                  "avg_importance" : 1.5,
+                  "cnt_importance" : 4,
+                  "cnt_time_used" : 5,
+                  "pct_time_used" : 0.8,
+                  "cnt_time_critical" : 5,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Pull a report on unpaid invoices that shows how much time has elapsed since the date of the invoice"
+                },
+                {
+                  "name" : "Approval Process Control",
+                  "value" : true,
+                  "id" : "8cc73664-11fe-47ac-a43f-468a931254cb",
+                  "avg_rating" : 4.9,
+                  "cnt_rating" : 16,
+                  "avg_importance" : 2.62,
+                  "cnt_importance" : 8,
+                  "cnt_time_used" : 9,
+                  "pct_time_used" : 0.889,
+                  "cnt_time_critical" : 9,
+                  "pct_time_critical" : 0.556,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Streamline and manage the process of granting permission to the correct parties throughout task progression "
+                },
+                {
+                  "name" : "Cash Management",
+                  "value" : true,
+                  "id" : "4c1b745f-fe1e-4baa-bb19-f2b09961407c",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Collection, handling, management and usage of an organization's funds"
+                },
+                {
+                  "name" : "Check Writing",
+                  "value" : false,
+                  "id" : "46616995-003f-4e88-a10f-352f5e62d7e7",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Issue payments to third parties via checks"
+                },
+                {
+                  "name" : "Data Extraction",
+                  "value" : true,
+                  "id" : "e9a46c60-0024-4ea5-ab1b-464c6b7d4747",
+                  "avg_rating" : 4.9,
+                  "cnt_rating" : 19,
+                  "avg_importance" : 2.56,
+                  "cnt_importance" : 9,
+                  "cnt_time_used" : 9,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 9,
+                  "pct_time_critical" : 0.556,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Automatically extract information from documents or websites and input it into a database in a specified format"
+                },
+                {
+                  "name" : "Duplicate Payment Alert",
+                  "value" : true,
+                  "id" : "72899b1f-5e47-4e5e-918f-a88967221a1d",
+                  "avg_rating" : 4.9,
+                  "cnt_rating" : 15,
+                  "avg_importance" : 2.25,
+                  "cnt_importance" : 8,
+                  "cnt_time_used" : 9,
+                  "pct_time_used" : 0.889,
+                  "cnt_time_critical" : 9,
+                  "pct_time_critical" : 0.222,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Receive an automatic notification when the same exact payment is about to be initiated for the second time"
+                },
+                {
+                  "name" : "Electronic Funds Transfer",
+                  "value" : false,
+                  "id" : "0833de67-98c3-45a5-96ce-5e9fca0e410f",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Transfer money electronically between two bank accounts"
+                },
+                {
+                  "name" : "Fraud Detection",
+                  "value" : true,
+                  "id" : "4edb9d73-1b72-44f6-b078-24bc71f2e31e",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 7,
+                  "avg_importance" : 2.2,
+                  "cnt_importance" : 5,
+                  "cnt_time_used" : 8,
+                  "pct_time_used" : 0.625,
+                  "cnt_time_critical" : 8,
+                  "pct_time_critical" : 0.125,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Identify and prevent suspicious activity"
+                },
+                {
+                  "name" : "Invoice Processing",
+                  "value" : true,
+                  "id" : "5f8f8f76-1a67-44af-8cdc-af5336b6227a",
+                  "avg_rating" : 4.9,
+                  "cnt_rating" : 22,
+                  "avg_importance" : 2.6,
+                  "cnt_importance" : 10,
+                  "cnt_time_used" : 10,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 10,
+                  "pct_time_critical" : 0.6,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : "Create, process, execute and manage suppliers invoices till the payment is made"
+                },
+                {
+                  "name" : "PO Reconciliation",
+                  "value" : true,
+                  "id" : "667a8399-6884-4861-ba00-053407712ccb",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 11,
+                  "avg_importance" : 1.75,
+                  "cnt_importance" : 4,
+                  "cnt_time_used" : 5,
+                  "pct_time_used" : 0.8,
+                  "cnt_time_critical" : 5,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Verify that invoices comply to the terms of pre-issued purchase orders prior to issuing payments"
+                },
+                {
+                  "name" : "Recurring Payments",
+                  "value" : true,
+                  "id" : "0094c93c-6832-40f9-91d4-19f24276b818",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Automate supplier payments on a predetermined schedule (monthly, quarterly, etc)"
+                },
+                {
+                  "name" : "Vendor Management",
+                  "value" : true,
+                  "id" : "f8901e5c-1a6c-4023-a798-a3502e6e359a",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 12,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 5,
+                  "cnt_time_used" : 5,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 5,
+                  "pct_time_critical" : 0.2,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Ability to track and store all vendor-related information, such as contacts, services offered, terms, etc."
+                }
+              ]
+            },
+            {
+              "category_name" : "Purchasing",
+              "category_features" : [
+                {
+                  "name" : "Compliance Management",
+                  "value" : true,
+                  "id" : "067f6bae-1749-483f-ac79-6c2c3c4114c8",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Track and manage non-adherence to policies in a service, product, process, or supplier behavior"
+                },
+                {
+                  "name" : "Contract/License Management",
+                  "value" : false,
+                  "id" : "efd314c0-e308-412f-9ff3-8bd8745c3096",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track, store, and access client/customer contracts"
+                },
+                {
+                  "name" : "Inventory Management",
+                  "value" : true,
+                  "id" : "80f46038-6ae8-4725-8064-788b20380eeb",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track and manage the quantity of resources on hand to maintain proper supply"
+                },
+                {
+                  "name" : "Invoice Processing",
+                  "value" : true,
+                  "id" : "5f8f8f76-1a67-44af-8cdc-af5336b6227a",
+                  "avg_rating" : 4.9,
+                  "cnt_rating" : 22,
+                  "avg_importance" : 2.6,
+                  "cnt_importance" : 10,
+                  "cnt_time_used" : 10,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 10,
+                  "pct_time_critical" : 0.6,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Create, process, execute and manage suppliers invoices till the payment is made"
+                },
+                {
+                  "name" : "Purchase Order Management",
+                  "value" : true,
+                  "id" : "a9f6bc9b-faba-4d7a-95c4-d72a86ef6937",
+                  "avg_rating" : 4.9,
+                  "cnt_rating" : 8,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 0.667,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.333,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Create, send, and track purchase orders and their statuses"
+                },
+                {
+                  "name" : "Requisition Management",
+                  "value" : true,
+                  "id" : "19b32b58-b5e4-423d-9cff-3d153a687022",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Review, approve and cancel requests for goods/services to be purchased"
+                },
+                {
+                  "name" : "Sourcing Management",
+                  "value" : false,
+                  "id" : "93b5e32f-a2ee-46af-9d88-f0ba991d00e0",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Negotiate best prices and choose the right vendor for various purchases"
+                },
+                {
+                  "name" : "Spend Management",
+                  "value" : true,
+                  "id" : "fbc16671-865c-4c7a-a69c-de2050f554b3",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : "Track the amount of money spent on a certain product or with a certain supplier"
+                },
+                {
+                  "name" : "Supplier Management",
+                  "value" : true,
+                  "id" : "aa61511b-b73d-4fbb-a5f4-0ea85d124fcb",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Manage various aspects of the relationship with suppliers (e.g. interactions, history)"
+                }
+              ]
+            }
+          ],
+          "infographics" : [ ],
+          "related_products" : [
+            {
+              "product_id" : 174984,
+              "seo_product_id" : 46497,
+              "seo_slug" : "QuickBooks",
+              "vendor_name" : "Intuit",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/90cac4f1-9eba-4d30-9949-91da634d4da5.png",
+              "rating" : 4.5,
+              "total_reviews" : 19511,
+              "slug" : "QuickBooks-Enterprise",
+              "product_name" : "QuickBooks Desktop Enterprise",
+              "short_desc" : "The leading accounting software for small businesses. Instant access to customer, vendor and employee information.",
+              "features" : "QuickBooks Enterprise (Save Up to 40%) is an end-to-end accounting software that can grow with your business. It provides all the tools your business needs, yet is easy to use. You can organize your books, manage inventory, track sales, and even run payroll, but at the fraction of the cost. With QuickBooks Enterprise, you save thousands of dollars a year vs. comparable solutions. Powerful and flexible, it also comes in editions designed to fit your specific needs. Take a free test drive today.",
+              "url" : "https://ad.doubleclick.net/ddm/trackclk/N5506.813334.CAPTERRA.COM/B26893105.322309570;dc_trk_aid=514411544;dc_trk_cid=162844656;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd="
+            },
+            {
+              "product_id" : 46497,
+              "seo_product_id" : 46497,
+              "seo_slug" : "QuickBooks",
+              "vendor_name" : "Intuit",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/90cac4f1-9eba-4d30-9949-91da634d4da5.png",
+              "rating" : 4.5,
+              "total_reviews" : 19374,
+              "slug" : "QuickBooks",
+              "product_name" : "QuickBooks Desktop Enterprise",
+              "short_desc" : "The leading accounting software for small businesses. Instant access to customer, vendor and employee information.",
+              "features" : "QuickBooks Enterprise (Save Up to 40%) is an end-to-end accounting software that can grow with your business. It provides all the tools your business needs, yet is easy to use. You can organize your books, manage inventory, track sales, and even run payroll, but at the fraction of the cost. With QuickBooks Enterprise, you save thousands of dollars a year vs. comparable solutions. Powerful and flexible, it also comes in editions designed to fit your specific needs. Take a free test drive today.",
+              "url" : "http://quickbooks.intuit.com"
+            },
+            {
+              "product_id" : 169561,
+              "seo_product_id" : 225791,
+              "seo_slug" : "Xero",
+              "vendor_name" : "Xero",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/35e9db05-94a1-4859-b307-858b9d3946cb.png",
+              "rating" : 4.3,
+              "total_reviews" : 2145,
+              "slug" : "Xero",
+              "product_name" : "Xero",
+              "short_desc" : "Manage your bills with Xero. Reduce admin time, pay your bills on time and get an overview of where your business is spending money.",
+              "features" : "Billing made easy with Xero. Xero helps you easily understand and manage your cash flow and shows you what bills are due for payment. Schedule payments, batch pay suppliers and spend less time on business admin by paying multiple bills in one simple transaction. You'll avoid late fees and build good relationships with your suppliers by paying your bills on time. Keep all of your bills in one place by emailing bills and documents straight to your files inbox in Xero for paperless record-keeping.",
+              "url" : "https://www.xero.com/us/try-now/capterra-accounting/?utm_source=capterra&utm_medium=paid-aggregator&utm_campaign=ua-d-lf-review-site"
+            },
+            {
+              "product_id" : 380,
+              "seo_product_id" : 380,
+              "seo_slug" : "Concur-Expense",
+              "vendor_name" : "SAP",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/f544dccf-4bd2-4b67-a23e-94ff1a43accc.png",
+              "rating" : 4.2,
+              "total_reviews" : 1560,
+              "slug" : "Concur-Expense",
+              "product_name" : "SAP Concur",
+              "short_desc" : "SAP Concur takes you beyond automation to a completely connected spend management solution that grows with your business",
+              "features" : "SAP Concur Invoice takes companies of all sizes and stages beyond automation to a completely connected spend management solution encompassing travel, expense, vendor invoice, compliance and risk. Our global expertise, industry-leading innovation and dynamic ecosystem of diverse partners and applications unlock powerful insights that help businesses reduce complexity and see spending clearly, so they can manage it proactively.",
+              "url" : "https://www.concur.com?pid=review_sites&cid=capterra_p2p_invoice_hmpg"
+            },
+            {
+              "product_id" : 173879,
+              "seo_product_id" : 212058,
+              "seo_slug" : "QuickBooks-Desktop-Pro",
+              "vendor_name" : "Intuit",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/c6b3e5be-f6ab-48fd-9e6b-a416fe39cfd4.png",
+              "rating" : 4.3,
+              "total_reviews" : 1428,
+              "slug" : "QuickBooks-Desktop-Pro",
+              "product_name" : "QuickBooks Desktop Pro",
+              "short_desc" : "Accounting tool that provides multi-monitor support and past due stamps through improved cash flow. ",
+              "features" : "Accounting tool that provides multi-monitor support and past due stamps through improved cash flow. ",
+              "url" : "https://quickbooks.intuit.com/desktop/pro/?lid=left_nav"
+            },
+            {
+              "product_id" : 135757,
+              "seo_product_id" : 212456,
+              "seo_slug" : "NetSuite",
+              "vendor_name" : "Oracle",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/70a405ae-214e-4735-8e1f-ce093f53f337.png",
+              "rating" : 4.1,
+              "total_reviews" : 856,
+              "slug" : "NetSuite",
+              "product_name" : "NetSuite",
+              "short_desc" : "Streamline the processes to review, approve and pay invoices with NetSuite's cloud accounting software.",
+              "features" : "NetSuite cloud accounting software automates the processing and payment of supplier invoices. Processes such as transaction matching, journal entries, approvals, and reconciliations are automated which means manual data entry is eliminated, and the time and effort required to process bills are minimized.  AP-specific dashboards, reports, and KPIs put you in control of your company's accounts payable process.",
+              "url" : "https://6262239.extforms.netsuite.com/app/site/crm/externalleadpage.nl?compid=6262239&formid=2338&h=AAFdikaIwivXpki07BYu494V0evdhpyLEojozQF91sJovgRFQ7w&leadsource=Online_Capterra_NewLP_AP_2023&cid=Online_Capterra_NewLP_AP_2023"
+            },
+            {
+              "product_id" : 135618,
+              "seo_product_id" : 135618,
+              "seo_slug" : "Odoo",
+              "vendor_name" : "Odoo",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/17efceca-38ea-4e7e-83dc-2cdd9fb0987f.png",
+              "rating" : 4.1,
+              "total_reviews" : 463,
+              "slug" : "Odoo",
+              "product_name" : "Odoo ",
+              "short_desc" : "Fully integrated app offers up bank synchronization, automated invoices, recurring billing management, reconciliations, and more.",
+              "features" : "Odoo Accounting helps users easily manage their daily accounting. They offer a global view of the state of their business, as well as a list view, which offers greater visibility on document statuses and next activities. This fully integrated app has in-depth reports and financial tools, such as double-entry bookkeeping, accounts receivable & payable, multi-currency management, tax calculation, unrealized gains & losses, automatic bank feed import, accrual & cash basis methods, and more.",
+              "url" : "https://www.odoo.com/page/accounting?utm_campaign=accounts-payable&utm_medium=cpc-review&utm_source=capterra"
+            },
+            {
+              "product_id" : 166559,
+              "seo_product_id" : 226669,
+              "seo_slug" : "Billcom",
+              "vendor_name" : "Bill.com",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/58c7479a-6ac6-4e65-80b4-a25024321b44.png",
+              "rating" : 4.1,
+              "total_reviews" : 391,
+              "slug" : "Bill-com",
+              "product_name" : "Bill.com",
+              "short_desc" : "Bill.com is the intelligent business payments platform that delivers financial process efficiency, time savings, and full control.",
+              "features" : "Bill.com delivers financial process efficiency through streamlined accounts payable (AP) and accounts receivable (AR) management. Reduce errors and increase efficiency by leveraging artificial intelligence (AI) and machine learning. Bill.com gets more intelligent as you use it, learning your processes and preferences to give you greater control over every aspect of bill management.",
+              "url" : "https://www.bill.com/lp/trial/?utm_source=capterra&utm_medium=affiliate&utm_campaign=apsoftware&content=listing&term=cpc"
+            },
+            {
+              "product_id" : 227394,
+              "seo_product_id" : 227394,
+              "seo_slug" : "Quicken",
+              "vendor_name" : "Intuit",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/9d08ed1f-bdf1-4d8c-9017-8992df5f7829.png",
+              "rating" : 3.9,
+              "total_reviews" : 348,
+              "slug" : "Quicken",
+              "product_name" : "Quicken",
+              "short_desc" : "Rental property and personal finances management solution with tenant information tracking, income management, and expense tracking.",
+              "features" : "Rental property and personal finances management solution with tenant information tracking, income management, and expense tracking.",
+              "url" : "https://www.quicken.com/"
+            },
+            {
+              "product_id" : 144848,
+              "seo_product_id" : 222000,
+              "seo_slug" : "Pipefy",
+              "vendor_name" : "Pipefy",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/06e32786-d6a3-46c1-8727-2f04051245b7.png",
+              "rating" : 4.6,
+              "total_reviews" : 275,
+              "slug" : "Pipefy",
+              "product_name" : "Pipefy",
+              "short_desc" : "Forget late payments, gain full control of your process and start changing the reality of your Accounts Payable process with Pipefy.\r\n",
+              "features" : "Pipefy is a software that helps Financial teams to control Accounts Payable processes. Our solution is simpler and more organized than spreadsheets and emails, providing full visibility of each payment and establishing an error-proof workflow. More than 50,000 users are enhancing their results with Pipefy. Join them and improve the way you manage your accounts payable process today.\r\n",
+              "url" : "https://www.pipefy.com/lp/accounts-payable-cd/?utm_medium=cpc&utm_source=capterra&utm_campaign=capterra_perf_usa_usa_mktplace_na_fin_accountspayable"
+            },
+            {
+              "product_id" : 141644,
+              "seo_product_id" : 222895,
+              "seo_slug" : "Patriot-Accounting",
+              "vendor_name" : "Patriot Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/cd8dcaf1-e87e-4883-abf2-27abeb024368.png",
+              "rating" : 4.7,
+              "total_reviews" : 273,
+              "slug" : "Patriot-Accounting",
+              "product_name" : "Patriot Accounting",
+              "short_desc" : "Affordable, easy, yet powerful accounting for small business owners and their accountants. Streamline your money management.",
+              "features" : "Voted most user-friendly and affordable accounting software by users! Patented double view accounting. Easy startup! Import data customers, vendors, trial balance, and Chart of Accounts.\n\nBasic Accounting ($15/mo): Pay 1099s, create & mail invoices, record payments, track invoices auto-import bank transactions (most major banks supported), & accept credit cards. \n\nPremium Accounting ($25/mo)  All Basic features + estimates, reminders, recurring invoices, attach receipts, reconciliation & more",
+              "url" : "https://try.patriotsoftware.com/lp/accounting/?utm_medium=cpc&utm_term=Accounting-Software&utm_campaign=Accounting&utm_source=capterra"
+            }
+          ],
+          "similar_products" : [
+            {
+              "product_id" : 152950,
+              "seo_product_id" : 152950,
+              "seo_slug" : "Nvoicepay",
+              "vendor_name" : "Corpay",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4da31e26-17a9-4794-94c3-5ad3d07e1eb4.jpeg",
+              "rating" : 4.7,
+              "total_reviews" : 28,
+              "slug" : "Nvoicepay",
+              "product_name" : "Corpay",
+              "short_desc" : "Corpay automates the payables process by consolidating all invoice payments into a single electronic workflow.",
+              "features" : "Corpay is an AP automation solution for large enterprises that streamlines all invoice payments into a single workflow, across multiple locations, bank accounts, payment methods, and approval hierarchies. When its time for a payment run, you submit and approve payments in our software, then Corpay pays vendors according to their remit-to instructions and in their preferred method. We manage payment data for all your vendors and proactively reach out to resolve unprocessed payments.",
+              "url" : "https://payments.corpay.com/request-demo?utm_source=capterra&utm_medium=cpc&utm_campaign=2022_Corpay_Capterra_Leads"
+            },
+            {
+              "product_id" : 148851,
+              "seo_product_id" : 224809,
+              "seo_slug" : "SoftCo-AP-Automation",
+              "vendor_name" : "SoftCo",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8f123a92-81b0-48a5-922e-b567cdf43121.png",
+              "rating" : 4.8,
+              "total_reviews" : 11,
+              "slug" : "Invoice-Automation",
+              "product_name" : "SoftCo AP Automation",
+              "short_desc" : "Processes your vendor invoices electronically from capture and matching, to invoice approval and query management. ",
+              "features" : "SoftCo AP Automation processes vendor invoices electronically from capture and matching, to invoice approval and query management. The solution manages all PO and non-PO vendor invoices. \n\nThe dynamic matching engine handles 2-way, 3-way & Smart AI Matching, while automated approval workflows ensure that invoices are routed to the relevant approvers. The process of approving invoices is accelerated via on-the-go signoff by e-mail or the mobile app.",
+              "url" : "https://softco.com/automate-your-ap-process-demo-request/"
+            },
+            {
+              "product_id" : 144102,
+              "seo_product_id" : 38474,
+              "seo_slug" : "AvidXchange",
+              "vendor_name" : "AvidXchange",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e30856a6-e546-4f48-b87c-06ab4ba4104e.png",
+              "rating" : 4.6,
+              "total_reviews" : 91,
+              "slug" : "AvidXchange",
+              "product_name" : "AvidXchange",
+              "short_desc" : "AvidXchange's AP automation solutions transform your invoice management process by eliminating paper and reducing processing costs.",
+              "features" : "AvidXchange transforms how growing organizations pay bills by providing industry-leading AP and payment automation. We offer a combination of services and technology that helps you streamline your AP workflows and easily pay suppliers while removing manual tasks and paper from current processes. Our invoice-to-pay solution integrates with your existing financial accounting or ERP solution so you can automate your entire AP process without giving up control.",
+              "url" : "https://ap.avidxchange.com/?utm_medium=Search&utm_campaign=7016R0000016E2BQAU"
+            },
+            {
+              "product_id" : 133062,
+              "seo_product_id" : 225029,
+              "seo_slug" : "BeanworksAP",
+              "vendor_name" : "Beanworks Solutions",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/1b76b14e-1bce-4e2a-935b-4b73b09c94b7.png",
+              "rating" : 4.7,
+              "total_reviews" : 35,
+              "slug" : "BeanworksAP",
+              "product_name" : "BeanworksAP",
+              "short_desc" : "Automatically enter invoice data, route approvals, find any document and pay vendors from anywhere with Beanworks AP Automation. ",
+              "features" : "Beanworks empowers accounting teams to efficiently manage accounts payable from anywhere, without paper or manual follow-up. With AI-powered data entry and approval workflows for invoices, POs, payments and expenses, Beanworks provides 360 degree visibility and control for all things AP.",
+              "url" : "https://inbound.beanworks.com/Capterra-AP-Automation-Leader?utm_source=capterra&utm_medium=cpc&utm_campaign=capterra"
+            },
+            {
+              "product_id" : 135757,
+              "seo_product_id" : 212456,
+              "seo_slug" : "NetSuite",
+              "vendor_name" : "Oracle",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/70a405ae-214e-4735-8e1f-ce093f53f337.png",
+              "rating" : 4.1,
+              "total_reviews" : 856,
+              "slug" : "NetSuite",
+              "product_name" : "NetSuite",
+              "short_desc" : "Streamline the processes to review, approve and pay invoices with NetSuite's cloud accounting software.",
+              "features" : "NetSuite cloud accounting software automates the processing and payment of supplier invoices. Processes such as transaction matching, journal entries, approvals, and reconciliations are automated which means manual data entry is eliminated, and the time and effort required to process bills are minimized.  AP-specific dashboards, reports, and KPIs put you in control of your company's accounts payable process.",
+              "url" : "https://6262239.extforms.netsuite.com/app/site/crm/externalleadpage.nl?compid=6262239&formid=2332&h=AAFdikaISXcjhmkzuQ25OBfGrJSFmJ9yfiPm280zU3KRQSmNnCM&leadsource=Online_Capterra_NewLP_Accounting_2023&cid=Online_Capterra_NewLP_Accounting_2023"
+            },
+            {
+              "product_id" : 125393,
+              "seo_product_id" : 225529,
+              "seo_slug" : "DocuPhase",
+              "vendor_name" : "Docuphase",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/9483a386-2028-415a-bebc-3a7a9015cb7f.jpeg",
+              "rating" : 4.4,
+              "total_reviews" : 61,
+              "slug" : "DocuPhase",
+              "product_name" : "DocuPhase",
+              "short_desc" : "DocuPhase's end-to-end AP Automation and Vendor Payment solution helps finance teams automate the entire lifecycle of an invoice. ",
+              "features" : "DocuPhase is an end-to-end AP Automation and Vendor Payment solution that automates the entire procure to pay process in one easy to use application.\n\nDocuPhase is the only AP and Vendor Payment solution that completely automates the 3-way match process and works with your ERP of choice. Finance teams are able to automate how invoices are routed for approval and receive real-time status updates. \n\nGain more time back in your day by completely automating your AP processes with DocuPhase.\n\n",
+              "url" : "https://www.docuphase.com/ap-automation/capterra"
+            },
+            {
+              "product_id" : 234925,
+              "seo_product_id" : 234925,
+              "seo_slug" : "PayEm",
+              "vendor_name" : "PayEm",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/c2cdd0cf-9465-493e-bbb4-ea38e16042fb.jpeg",
+              "rating" : 4.9,
+              "total_reviews" : 31,
+              "slug" : "PayEm",
+              "product_name" : "PayEm",
+              "short_desc" : "With PayEm, centralize and simplify your accounts payable process. Introduce tech that offers control, flexibility, and visibility.",
+              "features" : "Go beyond the same-old accounts payable process with PayEm. With us, companies will be able to accelerate their payment processs from beginning to end while reducing errors and workload. PayEm's platform will also allow you to seamlessly sync with your ERP or accounting software, so you'll never have to worry about manual inputs or double data entry. Moreover, approve funding requests in minutes across over 200 territories in 130 different currencies.",
+              "url" : "https://info.gartnerdigitalmarkets.com/payem-gdm-lp"
+            },
+            {
+              "product_id" : 166559,
+              "seo_product_id" : 226669,
+              "seo_slug" : "Billcom",
+              "vendor_name" : "Bill.com",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/58c7479a-6ac6-4e65-80b4-a25024321b44.png",
+              "rating" : 4.1,
+              "total_reviews" : 391,
+              "slug" : "Bill-com",
+              "product_name" : "Bill.com",
+              "short_desc" : "Bill.com is the intelligent business payments platform that delivers financial process efficiency, time savings, and full control.",
+              "features" : "Bill.com delivers financial process efficiency through streamlined accounts payable (AP) and accounts receivable (AR) management. Reduce errors and increase efficiency by leveraging artificial intelligence (AI) and machine learning. Bill.com gets more intelligent as you use it, learning your processes and preferences to give you greater control over every aspect of bill management.",
+              "url" : "https://www.bill.com/lp/trial/?utm_source=capterra&utm_medium=cpc&utm_campaign=affiliate&campaign=Bookkeeper&keyword=getpaid&placement=destination&traffictype=referral"
+            },
+            {
+              "product_id" : 129758,
+              "seo_product_id" : 224569,
+              "seo_slug" : "Procurify",
+              "vendor_name" : "Procurify",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4fbec6ff-12fe-4cbc-a11a-892c86724435.png",
+              "rating" : 4.5,
+              "total_reviews" : 138,
+              "slug" : "Procurify",
+              "product_name" : "Procurify",
+              "short_desc" : "Smart and simple spend management for scaling organizations. Verify, approve, and pay from within one platform with Procurify.",
+              "features" : "Speed up purchasing and empower teams to buy what they need, when they need it, without the bottlenecks. The Procurify Platform lets your finance team verify, approve, and track your purchases in one easy-to-use platform that fully integrates with your existing accounting systems. Maximize operational efficiency and increase spend visibility and control with comprehensive procure-to-pay workflows, 3-way matching, and custom approvals.",
+              "url" : "https://start.procurify.com/purchasing?utm_source=capterra&utm_medium=referral&utm_campaign=2005_General_Default_Demo_WebRef_MKTGt"
+            },
+            {
+              "product_id" : 136904,
+              "seo_product_id" : 236980,
+              "seo_slug" : "Tipalti",
+              "vendor_name" : "Tipalti",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/5b5fc1ce-4d2f-42e0-9fcc-b69917a3c845.png",
+              "rating" : 4.6,
+              "total_reviews" : 74,
+              "slug" : "Tipalti",
+              "product_name" : "Tipalti",
+              "short_desc" : "Tipalti provides the only end-to-end accounts payables automation solution, streamlining the entire global supplier payments operation.",
+              "features" : "Tipalti provides the only end-to-end accounts payables automation solution, eliminating 80% of the workload spent managing the entire global supplier payment operations. Tipalti's holistic cloud system includes supplier onboarding, tax form capture and validation, invoice processing, PO matching, payment method and currency selection, cross border remittance, early payments, supplier payment status communications, payment reconciliation, ERP integration, and tax filing preparation reporting.",
+              "url" : "https://tipalti.com/capterra-ptr/?utm_campaign=accounts_payable&utm_medium=directory&utm_content=ap_landing_page"
+            },
+            {
+              "product_id" : 380,
+              "seo_product_id" : 380,
+              "seo_slug" : "Concur-Expense",
+              "vendor_name" : "SAP",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/f544dccf-4bd2-4b67-a23e-94ff1a43accc.png",
+              "rating" : 4.2,
+              "total_reviews" : 1560,
+              "slug" : "Concur-Expense",
+              "product_name" : "SAP Concur",
+              "short_desc" : "SAP Concur takes you beyond automation to a completely connected spend management solution that grows with your business",
+              "features" : "SAP Concur Invoice takes companies of all sizes and stages beyond automation to a completely connected spend management solution encompassing travel, expense, vendor invoice, compliance and risk. Our global expertise, industry-leading innovation and dynamic ecosystem of diverse partners and applications unlock powerful insights that help businesses reduce complexity and see spending clearly, so they can manage it proactively.",
+              "url" : "https://www.concur.com?pid=review_sites&cid=capterra_p2p_hmpg"
+            },
+            {
+              "product_id" : 161813,
+              "seo_product_id" : 221335,
+              "seo_slug" : "Negotiatus",
+              "vendor_name" : "Order",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/608748e2-a1ae-4183-a0c6-1c8c9e5b0a99.png",
+              "rating" : 4.4,
+              "total_reviews" : 56,
+              "slug" : "Order-Software",
+              "product_name" : "Order",
+              "short_desc" : "Order is a guided B2B marketplace with a mission to simplify buying for businesses. See growth from a new perspective with Order.",
+              "features" : "Order (formerly Negotiatus) is a guided B2B marketplace with a mission to simplify buying for businesses. Order makes it easy for businesses to place and track purchases across all their vendors, control spend, and make all payments in a single, consolidated bill. Tailored insights and purchasing recommendations fuel smarter spending decisions so businesses can easily save time and money on what they need to grow.",
+              "url" : "https://get.order.co/demo-request/?utm_source=Capterra&utm_medium=ppc"
+            },
+            {
+              "product_id" : 184673,
+              "seo_product_id" : 223058,
+              "seo_slug" : "Melio",
+              "vendor_name" : "Melio",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/88ede00f-aaa2-46e9-9e7e-51466548f18c.png",
+              "rating" : 3.9,
+              "total_reviews" : 134,
+              "slug" : "Melio",
+              "product_name" : "Melio",
+              "short_desc" : "Melio is a free AP software. No setup or monthly fees. Users pay with a bank transfer or a card. Vendors receive a check or a transfer.",
+              "features" : "Melio is a free Accounts Payable software that minimizes busywork and maximizes cash flow for US small businesses in all sectors. \nSimplify invoice payments - pay vendors, suppliers, and contractors using bank transfers for free or credit/debit cards even if they only accept checks! No monthly fee, no subscription costs. \n\nAccounts Payable re-invented. Melio automatically syncs with your QuickBooks and even mails checks on your behalf to vendors, so you don't need to cut checks anymore.",
+              "url" : "https://meliopayments.com/?utm_source=dir&utm_medium=cpc&utm_campaign=capterra&utm_term=mainpage"
+            }
+          ],
+          "related_categories" : [
+            {
+              "functional_group" : "acctpay",
+              "long_name" : "Accounting",
+              "html_name" : "accounting-software",
+              "link_name" : "accounting",
+              "product_count" : 240,
+              "meta_description" : "Find and compare top Accounting software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Accounting tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/accounting-software\">Accounting software</a> automates an organization's financial functions and transactions with modules including accounts payable, accounts receivable, payroll, billing and general ledger.  Integration of Accounting applications allows for comprehensive, real-time, on-demand analysis of an organization's financial status.  Toolsets within Accounting solutions can often be customized to the specific needs of an organization.  <a href=\"/accounting-software\">Accounting software</a> is related to <a href=\"/audit-software\">Audit software</a>, <a href=\"/billing-and-invoicing-software\">Billing and Invoicing software</a>, <a href=\"/compliance-software\">Compliance software</a> and <a href=\"/financial-reporting-software\">Financial Reporting software</a>."
+            },
+            {
+              "functional_group" : "acctpay",
+              "long_name" : "Accounting Practice Management",
+              "html_name" : "accounting-practice-management-software",
+              "link_name" : "accounting-practice-management",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Accounting Practice Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Accounting Practice Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "Accounting Practice Management software helps professional accountants manage workflow, communicate with their clients, and automate their daily processes."
+            },
+            {
+              "functional_group" : "acctpay",
+              "long_name" : "Accounts Receivable",
+              "html_name" : "accounts-receivable-software",
+              "link_name" : "accounts-receivable",
+              "product_count" : 76,
+              "meta_description" : "Find and compare top Accounts Receivable software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Accounts Receivable tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/accounts-receivable-software\">Accounts Receivable software</a> deals with money that is owed to an organization. It automates the recording of payments on outstanding invoices and provides reports on collection and aging. Along with reports, Accounts Receivable applications generate monthly customer statements and collection letters. Accounts Receivable solutions integrate with Accounting software. <a href=\"/accounts-receivable-software\">Accounts Receivable software</a> is related to <a href=\"/accounting-software\">Accounting software</a>."
+            },
+            {
+              "functional_group" : "acctpay",
+              "long_name" : "Billing and Invoicing",
+              "html_name" : "billing-and-invoicing-software",
+              "link_name" : "billing-and-invoicing",
+              "product_count" : 185,
+              "meta_description" : "Find and compare top Billing and Invoicing software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Billing and Invoicing tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/billing-and-invoicing-software>Billing and Invoicing software</a> automates the process of producing and sending invoices and receiving payments.  These applications enable the efficient processing of complex accounts across multiple customers and product lines, incorporating <a href=\"/contract-management-software\">contract data</a> and <a href=\"/customer-relationship-management-software\">customer relationship management</a> tools.  Billing and Invoicing solutions are designed to work with <a href=\"/accounting-software\">accounting</a> applications and provide a variety of business <a href=\"/reporting-software\">reporting</a> tools.  <a href=/billing-and-invoicing-software>Billing and Invoicing software</a> is related to <a href=/procurement-software>Procurement software</a> and <a href=/purchasing-software>Purchasing software</a>."
+            }
+          ],
+          "is_upgraded" : true,
+          "enabled" : true,
+          "filter_options" : {
+            "users" : 124,
+            "platform" : 975,
+            "pricing_options" : 18,
+            "category_related_features" : [
+              20570,
+              34495,
+              34496,
+              34498,
+              34505,
+              41701,
+              41702,
+              41704,
+              41705,
+              41706,
+              41707,
+              58706,
+              58707,
+              58708,
+              58709,
+              58710,
+              58711,
+              58712,
+              58713,
+              58714,
+              58715,
+              58716,
+              58717,
+              58718,
+              58719,
+              58720,
+              58721,
+              58722,
+              58723,
+              58724,
+              58725,
+              58727,
+              58728,
+              58729,
+              58730,
+              58731,
+              58732,
+              58733,
+              58734,
+              58735,
+              58736,
+              58737,
+              58738,
+              58739,
+              58740,
+              58741
+            ],
+            "employees" : 124
+          },
+          "sort_options" : {
+            "sort_review_rating" : 4.633764266967773,
+            "most_recent_review" : "2022-08-04T03:17:22Z"
+          },
+          "countries" : "ZA,IE,US,CA,NZ,AU,UK",
+          "features_tokenized_text" : "aging_tracking approval_process_control cash_management data_extraction duplicate_payment_alert fraud_detection invoice_processing po_reconciliation recurring_payments vendor_management",
+          "platform_tokenized_text" : "cloud,saas,web-based desktopmac desktopwindows desktoplinux desktopchromebook mobileandroid mobileiphone mobileipad",
+          "users_tokenized_text" : "11-50 51-200 201-500 501-1000 1000+",
+          "pricing_tokenized_text" : "monthlysubscription freetrial",
+          "badges" : [ ],
+          "bid_spot_us" : 38.0,
+          "currency_code" : "USD",
+          "currency_symbol" : "$",
+          "credit_card_required" : "Unverified",
+          "licensing_model" : null,
+          "open_api_offered" : "Yes",
+          "mobile_urls" : [
+            {
+              "name" : "iOS",
+              "url" : "https://apps.apple.com/us/app/lightyear/id1455334590"
+            },
+            {
+              "name" : "Android",
+              "url" : "https://play.google.com/store/apps/details?id=cloud.lightyear&hl=en_US&gl=US"
+            }
+          ],
+          "integrations" : [
+            {
+              "id" : "6a680041-f372-46f3-a3e9-a6d200b556c0",
+              "name" : "NetSuite"
+            },
+            {
+              "id" : "eab58142-6040-46ce-9341-a6d200b7915e",
+              "name" : "Xero"
+            },
+            {
+              "id" : "bcdd9473-58dd-4c24-a82a-a6d200b601d6",
+              "name" : "Quickbooks Online"
+            },
+            {
+              "id" : "9903178f-6f12-42f0-a28c-a7f6005f2958",
+              "name" : "VIA"
+            },
+            {
+              "id" : "05b14a19-f2bd-4af2-a60f-a82d00adbe15",
+              "name" : "MYOB Advanced Business"
+            },
+            {
+              "id" : "7092eaef-b348-4acb-8648-a6d200b64092",
+              "name" : "Sage 50cloud Accounting"
+            }
+          ],
+          "supported_countries" : [
+            {
+              "id" : 235,
+              "code" : "GB",
+              "name" : "United Kingdom of Great Britain and Northern Ireland"
+            },
+            {
+              "id" : 237,
+              "code" : "US",
+              "name" : "United States of America"
+            },
+            {
+              "id" : 108,
+              "code" : "IE",
+              "name" : "Ireland"
+            },
+            {
+              "id" : 207,
+              "code" : "ZA",
+              "name" : "South Africa"
+            },
+            {
+              "id" : 41,
+              "code" : "CA",
+              "name" : "Canada"
+            },
+            {
+              "id" : 14,
+              "code" : "AU",
+              "name" : "Australia"
+            },
+            {
+              "id" : 159,
+              "code" : "NZ",
+              "name" : "New Zealand"
+            }
+          ],
+          "supported_languages" : [
+            {
+              "id" : 152,
+              "code" : "en",
+              "name" : "English",
+              "location" : null
+            }
+          ],
+          "target_industries" : [
+            {
+              "id" : 2,
+              "code" : "94",
+              "name" : "Airlines/Aviation"
+            },
+            {
+              "id" : 6,
+              "code" : "19",
+              "name" : "Apparel & Fashion"
+            },
+            {
+              "id" : 10,
+              "code" : "52",
+              "name" : "Aviation & Aerospace"
+            },
+            {
+              "id" : 13,
+              "code" : "36",
+              "name" : "Broadcast Media"
+            },
+            {
+              "id" : 14,
+              "code" : "49",
+              "name" : "Building Materials"
+            },
+            {
+              "id" : 15,
+              "code" : "138",
+              "name" : "Business Supplies and Equipment"
+            },
+            {
+              "id" : 19,
+              "code" : "51",
+              "name" : "Civil Engineering"
+            },
+            {
+              "id" : 20,
+              "code" : "128",
+              "name" : "Commercial Real Estate"
+            },
+            {
+              "id" : 24,
+              "code" : "5",
+              "name" : "Computer Networking"
+            },
+            {
+              "id" : 34,
+              "code" : "69",
+              "name" : "Education Management"
+            },
+            {
+              "id" : 47,
+              "code" : "23",
+              "name" : "Food Production"
+            },
+            {
+              "id" : 49,
+              "code" : "26",
+              "name" : "Furniture"
+            },
+            {
+              "id" : 50,
+              "code" : "29",
+              "name" : "Gambling & Casinos"
+            },
+            {
+              "id" : 55,
+              "code" : "124",
+              "name" : "Health, Wellness and Fitness"
+            },
+            {
+              "id" : 57,
+              "code" : "14",
+              "name" : "Hospital & Health Care"
+            },
+            {
+              "id" : 64,
+              "code" : "96",
+              "name" : "Information Technology and Services"
+            },
+            {
+              "id" : 89,
+              "code" : "139",
+              "name" : "Mental Health Care"
+            },
+            {
+              "id" : 91,
+              "code" : "56",
+              "name" : "Mining & Metals"
+            },
+            {
+              "id" : 92,
+              "code" : "35",
+              "name" : "Motion Pictures and Film"
+            },
+            {
+              "id" : 110,
+              "code" : "67",
+              "name" : "Primary/Secondary Education"
+            },
+            {
+              "id" : 118,
+              "code" : "62",
+              "name" : "Railroad Manufacture"
+            },
+            {
+              "id" : 133,
+              "code" : "22",
+              "name" : "Supermarkets"
+            },
+            {
+              "id" : 135,
+              "code" : "60",
+              "name" : "Textiles"
+            },
+            {
+              "id" : 143,
+              "code" : "93",
+              "name" : "Warehousing"
+            },
+            {
+              "id" : 144,
+              "code" : "133",
+              "name" : "Wholesale"
+            },
+            {
+              "id" : 37,
+              "code" : "28",
+              "name" : "Entertainment"
+            },
+            {
+              "id" : 94,
+              "code" : "115",
+              "name" : "Music"
+            },
+            {
+              "id" : 21,
+              "code" : "118",
+              "name" : "Computer & Network Security"
+            },
+            {
+              "id" : 125,
+              "code" : "32",
+              "name" : "Restaurants"
+            },
+            {
+              "id" : 7,
+              "code" : "50",
+              "name" : "Architecture & Planning"
+            },
+            {
+              "id" : 58,
+              "code" : "31",
+              "name" : "Hospitality"
+            },
+            {
+              "id" : 1,
+              "code" : "47",
+              "name" : "Accounting"
+            },
+            {
+              "id" : 62,
+              "code" : "147",
+              "name" : "Industrial Automation"
+            },
+            {
+              "id" : 139,
+              "code" : "92",
+              "name" : "Transportation/Trucking/Railroad"
+            },
+            {
+              "id" : 98,
+              "code" : "57",
+              "name" : "Oil & Energy"
+            },
+            {
+              "id" : 120,
+              "code" : "44",
+              "name" : "Real Estate"
+            },
+            {
+              "id" : 42,
+              "code" : "63",
+              "name" : "Farming"
+            },
+            {
+              "id" : 84,
+              "code" : "80",
+              "name" : "Marketing and Advertising"
+            },
+            {
+              "id" : 105,
+              "code" : "15",
+              "name" : "Pharmaceuticals"
+            },
+            {
+              "id" : 86,
+              "code" : "126",
+              "name" : "Media Production"
+            },
+            {
+              "id" : 85,
+              "code" : "135",
+              "name" : "Mechanical or Industrial Engineering"
+            },
+            {
+              "id" : 140,
+              "code" : "59",
+              "name" : "Utilities"
+            },
+            {
+              "id" : 81,
+              "code" : "11",
+              "name" : "Management Consulting"
+            },
+            {
+              "id" : 78,
+              "code" : "116",
+              "name" : "Logistics and Supply Chain"
+            },
+            {
+              "id" : 65,
+              "code" : "42",
+              "name" : "Insurance"
+            },
+            {
+              "id" : 41,
+              "code" : "122",
+              "name" : "Facilities Services"
+            },
+            {
+              "id" : 134,
+              "code" : "8",
+              "name" : "Telecommunications"
+            },
+            {
+              "id" : 11,
+              "code" : "41",
+              "name" : "Banking"
+            },
+            {
+              "id" : 52,
+              "code" : "75",
+              "name" : "Government Administration"
+            },
+            {
+              "id" : 9,
+              "code" : "53",
+              "name" : "Automotive"
+            },
+            {
+              "id" : 74,
+              "code" : "10",
+              "name" : "Legal Services"
+            },
+            {
+              "id" : 25,
+              "code" : "4",
+              "name" : "Computer Software"
+            },
+            {
+              "id" : 97,
+              "code" : "100",
+              "name" : "Non-Profit Organization Management"
+            },
+            {
+              "id" : 43,
+              "code" : "43",
+              "name" : "Financial Services"
+            },
+            {
+              "id" : 26,
+              "code" : "48",
+              "name" : "Construction"
+            },
+            {
+              "id" : 126,
+              "code" : "27",
+              "name" : "Retail"
+            },
+            {
+              "id" : 35,
+              "code" : "132",
+              "name" : "E-Learning"
+            },
+            {
+              "id" : 46,
+              "code" : "34",
+              "name" : "Food & Beverages"
+            }
+          ],
+          "price_range_id" : 1,
+          "aggregated_review_ratings" : {
+            "industry" : {
+              "32" : 5.0,
+              "92" : 5.0,
+              "44" : 5.0,
+              "28" : 5.0,
+              "69" : 5.0,
+              "8" : 5.0,
+              "47" : 4.96,
+              "116" : 5.0,
+              "14" : 5.0,
+              "59" : 5.0,
+              "48" : 4.91,
+              "96" : 5.0,
+              "57" : 5.0,
+              "31" : 4.82,
+              "121" : 5.0,
+              "56" : 5.0,
+              "118" : 5.0,
+              "51" : 5.0,
+              "86" : 5.0,
+              "43" : 5.0,
+              "53" : 5.0,
+              "115" : 5.0,
+              "46" : 5.0,
+              "34" : 5.0,
+              "25" : 5.0,
+              "100" : 5.0,
+              "90" : 5.0,
+              "80" : 5.0,
+              "112" : 4.0,
+              "63" : 5.0,
+              "27" : 5.0
+            },
+            "company_size" : {
+              "201-500 employees" : 4.88,
+              "51-200 employees" : 4.9,
+              "1001-5000 employees" : 5.0,
+              "501-1000 employees" : 5.0,
+              "5001-10,000 employees" : 5.0,
+              "1-10 employees" : 5.0,
+              "11-50 employees" : 4.9,
+              "Self-employed" : 5.0
+            }
+          },
+          "vct_enabled" : true,
+          "pricing_plans" : [
+            {
+              "created_on_utc" : "2019-08-21T14:47:39Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Starter",
+              "description" : "The plan offers an 30-day free trial after which the software is available at $99/month",
+              "display_order" : 1,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 99.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "Accounting Integrations"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "Approvals Workflow"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Automated Line-Item Coding"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "Line-Item Data-Extraction"
+                }
+              ]
+            },
+            {
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Business",
+              "description" : "The plan offers an 30-day free trial after which the software is available at $199/month",
+              "display_order" : 2,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 199.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "Accounting Integrations"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "Approvals Workflow"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Automated Line-Item Coding"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "Line-Item Data-Extraction"
+                }
+              ]
+            },
+            {
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Enterprise ",
+              "description" : "The plan offers an 30-day free trial after which the software is available at $1199/month",
+              "display_order" : 3,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 1199.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "Accounting Integrations"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "Approvals Workflow"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Automated Line-Item Coding"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "Line-Item Data-Extraction"
+                }
+              ]
+            }
+          ],
+          "discount_types" : [ ]
+        }
+      }
+    ]
+  }
+}

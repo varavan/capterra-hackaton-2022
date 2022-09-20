@@ -1,0 +1,2809 @@
+{
+  "took" : 3,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 3,
+    "successful" : 3,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : {
+      "value" : 2,
+      "relation" : "eq"
+    },
+    "max_score" : 11.382424,
+    "hits" : [
+      {
+        "_index" : "product_listings_main_data_upc_vt20220920_043802_utc",
+        "_type" : "_doc",
+        "_id" : "227251_community",
+        "_score" : 11.382424,
+        "_source" : {
+          "product_id" : 227251,
+          "seo_product_id" : 227251,
+          "seo_slug" : "Business-Hangouts",
+          "product_name" : "Business Hangouts",
+          "upc_product_uuid" : "d0c69fed-0c17-42e2-9ff3-a6d200b30c3a",
+          "old_product_ids" : [
+            159090,
+            152092
+          ],
+          "product_url" : "https://www.business-hangouts.com/",
+          "product_slug" : "Business-Hangouts",
+          "former_name" : "Business Hangouts",
+          "logo_filepath" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d90196de-4164-403b-9c60-6939bfae4f17.png",
+          "vendor" : {
+            "vendor_id" : 2102306,
+            "vendor_name" : "JetVideo Technologies",
+            "vendor_url" : "http://www.JetWebinar.com",
+            "year_founded" : 2011,
+            "location" : "United States",
+            "vendor_opted_out_of_reviews" : true,
+            "is_opted_out_of_reviews" : false,
+            "is_hit_limit" : false,
+            "enabled" : true,
+            "has_vendor_level_page" : false,
+            "slug" : null,
+            "vendor_page" : false,
+            "paused_campaign" : false
+          },
+          "category_short_name" : "community",
+          "category_html_name" : "community-software",
+          "category" : {
+            "id" : 30800,
+            "short_name" : "community",
+            "long_name" : "Community",
+            "html_name" : "community-software",
+            "enabled" : true
+          },
+          "best_category" : "community",
+          "is_best_category" : true,
+          "highest_cpc_category" : null,
+          "is_highest_cpc_category" : false,
+          "short_desc" : "Webinar platform for G-suite apps used by over 2 million enterprise users. Webinars, Webcasts, Live Video, Web Conferencing software.",
+          "long_desc" : "Business Hangouts is a robust webinar solution for Marketers, Trainers, Entrepreneurs, and SMB's. No downloads & no PINs for viewers. Record directly to YouTube/Social Media. it comes with an integrated email service that will remind viewers of the upcoming webinar & follow up after with your brand. It includes support for multiple presenters, private or public events, multiple sharing options, & unified chat with full moderator controls. can download from the G-suite marketplace.",
+          "rating" : 4.5,
+          "number_of_reviews" : 57,
+          "total_reviews" : 79,
+          "ease_of_use_rating" : 4.5,
+          "customer_support_rating" : 4.2,
+          "functionality_rating" : 4.3,
+          "value_for_money_rating" : 4.3,
+          "recommendation_rating" : 8.4,
+          "pricing_enabled" : true,
+          "pricing" : 29.0,
+          "is_per_user" : false,
+          "fee_schedule" : "One-Time",
+          "pricing_model" : "Flat Rate",
+          "pricing_details" : "Four subscription plan levels are available:\nLite - up to 25 attendees: $19 per month\nPro - up to 100 attendees: $49 per month\nBusiness - up to 200 attendees: $79 per month\nWebcast - up to 5000 attendees: $490 per month\n\nDiscounts are available for paying annually, and the software can be tried risk-free for 30-days with a money back guarantee.",
+          "pricing_created_on" : "2019-08-21T14:47:39Z",
+          "pricing_modified_on" : "2022-06-23T14:42:33Z",
+          "pricing_created_by" : null,
+          "pricing_modified_by" : null,
+          "pricing_vendor_pricing_url" : "https://www.business-hangouts.com/webinar-benefits-adwords/",
+          "free_trial" : true,
+          "free_version" : true,
+          "target_audience" : "Enterprises, Marketers, Educators/eLearning, Government Agencies, Religious Organizations, Non-Profits, Franchise Operators, Online Academies, Event Organizers/Promoters, Software Developers/Vendors",
+          "target_users" : [
+            "1",
+            "2-10",
+            "11-50",
+            "51-200",
+            "201-500",
+            "501-1000",
+            "1000+"
+          ],
+          "platform" : [
+            {
+              "enabled" : true,
+              "name" : "Cloud, SaaS, Web-Based"
+            },
+            {
+              "enabled" : true,
+              "name" : "Desktop Mac"
+            },
+            {
+              "enabled" : true,
+              "name" : "Desktop Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Chromebook"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile Android"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPhone"
+            },
+            {
+              "enabled" : false,
+              "name" : "Mobile iPad"
+            }
+          ],
+          "support" : [
+            {
+              "enabled" : true,
+              "name" : "Email Help Desk"
+            },
+            {
+              "enabled" : true,
+              "name" : "FAQ Forum"
+            },
+            {
+              "enabled" : true,
+              "name" : "Knowledgebase"
+            },
+            {
+              "enabled" : true,
+              "name" : "Phone Support"
+            },
+            {
+              "enabled" : true,
+              "name" : "24/7 Live Rep"
+            },
+            {
+              "enabled" : true,
+              "name" : "Chat"
+            }
+          ],
+          "training" : [
+            {
+              "enabled" : false,
+              "name" : "Not Offered"
+            },
+            {
+              "enabled" : false,
+              "name" : "In-Person"
+            },
+            {
+              "enabled" : true,
+              "name" : "Live Online"
+            },
+            {
+              "enabled" : true,
+              "name" : "Webinars"
+            },
+            {
+              "enabled" : true,
+              "name" : "Documentation"
+            },
+            {
+              "enabled" : true,
+              "name" : "Videos"
+            }
+          ],
+          "media" : [
+            {
+              "product_id" : 227251,
+              "vendor_id" : 2102306,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/21561641-b860-45ab-bd10-7791da2758cb.png",
+              "caption" : "Presenter",
+              "weight" : 1,
+              "short_name" : "community"
+            },
+            {
+              "product_id" : 227251,
+              "vendor_id" : 2102306,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/96b477f5-7b20-491c-9867-bb144b703764.png",
+              "caption" : "webinar",
+              "weight" : 2,
+              "short_name" : "community"
+            },
+            {
+              "product_id" : 227251,
+              "vendor_id" : 2102306,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/083696c4-9e71-4b53-8db0-ad7c2ec92a21.png",
+              "caption" : "Integrate with G suite",
+              "weight" : 3,
+              "short_name" : "community"
+            },
+            {
+              "product_id" : 227251,
+              "vendor_id" : 2102306,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/f8f7a174-e806-433c-bbf2-7a97d82ab0ea.png",
+              "caption" : "Easy to Host",
+              "weight" : 4,
+              "short_name" : "community"
+            },
+            {
+              "product_id" : 227251,
+              "vendor_id" : 2102306,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/e080bd8c-a046-4541-a496-a9f23b6351e2.png",
+              "caption" : null,
+              "weight" : 5,
+              "short_name" : "community"
+            },
+            {
+              "product_id" : 227251,
+              "vendor_id" : 2102306,
+              "media_type" : "VIDEO",
+              "path_url" : "https://www.youtube.com/watch?v=pvelqXBgv3g",
+              "caption" : null,
+              "weight" : 0,
+              "short_name" : "community"
+            }
+          ],
+          "links" : [
+            {
+              "product_id" : 227251,
+              "functional_group" : "community",
+              "html_code" : "https://www.business-hangouts.com/trial/?p=100&t=m",
+              "link_name" : "Free Trial",
+              "link_priority" : 1.0
+            },
+            {
+              "product_id" : 227251,
+              "functional_group" : "community",
+              "html_code" : "https://www.jetwebinar.com/bookacall/step2",
+              "link_name" : "Free Demo",
+              "link_priority" : 2.0
+            },
+            {
+              "product_id" : 227251,
+              "functional_group" : "community",
+              "html_code" : "https://www.business-hangouts.com/pricing/",
+              "link_name" : "Pricing",
+              "link_priority" : 3.0
+            }
+          ],
+          "features" : [
+            {
+              "category_name" : "Community",
+              "category_features" : [
+                {
+                  "name" : "Communication Management",
+                  "value" : false,
+                  "id" : "4a459942-0400-418a-b104-e2e7a2b13db1",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Content Management",
+                  "value" : false,
+                  "id" : "41247b85-41d2-42cb-aa15-4e6c78c904c2",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Creating, updating, monitoring accuracy, and ensuring brand consistency for all written materials that are distributed to stakeholders."
+                },
+                {
+                  "name" : "Customizable Branding",
+                  "value" : true,
+                  "id" : "2ad190f0-241d-4182-9ec3-10f1e12adbb9",
+                  "avg_rating" : 0.0,
+                  "cnt_rating" : 0,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Discussions / Forums",
+                  "value" : false,
+                  "id" : "fcad067b-d85e-4333-9602-2e61025d29b4",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Online forums/groups where users can ask questions, share ideas, best practices, etc."
+                },
+                {
+                  "name" : "Event Management",
+                  "value" : true,
+                  "id" : "cdc3bb9d-3c31-48ba-a01c-5101adc90c87",
+                  "avg_rating" : 3.5,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Schedule and manage the logistics of activities and other gatherings"
+                },
+                {
+                  "name" : "Group Management",
+                  "value" : false,
+                  "id" : "e722d6ed-253c-4227-9af6-4773bbb86236",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Organize and edit a group of people's policy and members"
+                },
+                {
+                  "name" : "Ideation",
+                  "value" : false,
+                  "id" : "94102b10-d8c1-4e9c-b3fd-fd7c605e6979",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "The creation, development, sharing and storage of potentially innovative new ideas"
+                },
+                {
+                  "name" : "Member Directory",
+                  "value" : false,
+                  "id" : "c7063ef4-072f-4b69-871a-cb2c75d335a3",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Online or printable list/directory of members (for external use)"
+                },
+                {
+                  "name" : "Membership Management",
+                  "value" : false,
+                  "id" : "e0ec230c-01cc-4e78-ac4a-ec6d4cc61b40",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Database of members to track personal information of individuals and families"
+                },
+                {
+                  "name" : "Moderation",
+                  "value" : false,
+                  "id" : "e72562a8-5ed3-48ea-a596-078f26dcf9ca",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Controls/tools to moderate the session"
+                },
+                {
+                  "name" : "Surveys & Feedback",
+                  "value" : false,
+                  "id" : "ac019461-1e0e-49b2-a4f0-bd6e13dedf23",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Third Party Integrations",
+                  "value" : false,
+                  "id" : "2a19a42a-aaa2-464e-90a6-5cbcb1791759",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Website Management",
+                  "value" : false,
+                  "id" : "308d2b02-05de-4b5d-a6e9-90abf3120b67",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Website builder or integration with 3rd party site"
+                }
+              ]
+            },
+            {
+              "category_name" : "Video Conferencing",
+              "category_features" : [
+                {
+                  "name" : "Auto Framing",
+                  "value" : false,
+                  "id" : "03d910b9-fc9e-4e3a-8cfa-8afe51d381e8",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Detect speech to highlight frame subjects"
+                },
+                {
+                  "name" : "Automatic Transcription",
+                  "value" : false,
+                  "id" : "d85d89da-5600-4850-a614-acb410483a89",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Voice conversion to text "
+                },
+                {
+                  "name" : "File Sharing",
+                  "value" : true,
+                  "id" : "818ff03c-f979-454f-a3c9-112513dbab56",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Digitally share a wide variety of media types"
+                },
+                {
+                  "name" : "Mobile Access",
+                  "value" : true,
+                  "id" : "15d49235-ad13-4d33-b009-edd50126375b",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Access the software remotely via mobile devices"
+                },
+                {
+                  "name" : "Polls/Voting",
+                  "value" : true,
+                  "id" : "e77de5ee-3e8d-409f-91d4-7a8e4519462b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Create quick polls to keep people engaged"
+                },
+                {
+                  "name" : "Presentation Streaming",
+                  "value" : false,
+                  "id" : "9bcd1ea4-f6c2-4e44-b3a0-49378c983bbb",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Stream slide presentations during the web conference to present it to the audience"
+                },
+                {
+                  "name" : "Private Chat",
+                  "value" : false,
+                  "id" : "543df549-823a-4d8b-a838-6bec6f650037",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Send messages to selected individual(s) from the entire audience"
+                },
+                {
+                  "name" : "Real-Time Chat",
+                  "value" : false,
+                  "id" : "ebcc93e9-b049-4da0-a750-02fa0ea70ec4",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Engage in direct, instant messaging"
+                },
+                {
+                  "name" : "Recording",
+                  "value" : false,
+                  "id" : "de12fb0f-30bc-4dc5-b452-ff035986caeb",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Record live video calls to play later"
+                },
+                {
+                  "name" : "Screen Sharing",
+                  "value" : true,
+                  "id" : "a4e50f33-a0b2-417d-a6b8-faa8213a3312",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Digitally share screen view with others"
+                },
+                {
+                  "name" : "Two Way Audio & Video",
+                  "value" : false,
+                  "id" : "383634be-08c0-4b59-8468-e42678612d1e",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : "Presenter can see and hear participants and vice versa."
+                },
+                {
+                  "name" : "User Profiles",
+                  "value" : false,
+                  "id" : "3aab730c-c1d8-4e5a-b6c8-b6ed8f593fad",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Profiles of users providing basic information"
+                }
+              ]
+            }
+          ],
+          "infographics" : [ ],
+          "related_products" : [
+            {
+              "product_id" : 135003,
+              "seo_product_id" : 250743,
+              "seo_slug" : "Slack",
+              "vendor_name" : "Slack",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/91f64896-759a-41ae-8d14-d540f90c5870.png",
+              "rating" : 4.7,
+              "total_reviews" : 22027,
+              "slug" : "Slack",
+              "product_name" : "Slack",
+              "short_desc" : "Slack brings all your communication together in one place. It's real-time messaging, archiving and search for modern teams.",
+              "features" : "Slack is a collaboration hub, where the right people and the right information come together, helping everyone get work done. When your team needs to kick off a project, hire a new employee, deploy some code, review a sales contract, finalize next year's budget, measure an A/B test, plan your next office opening, and more, Slack has you covered. Try Slack with your team for free.",
+              "url" : "https://slack.com/demo?utm_medium=ppc&utm_source=capterra&utm_campaign=cd_ppc_capterra_us_en_community_ob-p_request-a-demo&campaign=7013a000001ruVWAAY"
+            },
+            {
+              "product_id" : 210721,
+              "seo_product_id" : 210721,
+              "seo_slug" : "Instagram",
+              "vendor_name" : "Facebook",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/f1058d00-f7dc-4bb6-9e7c-5fc29da702ad.png",
+              "rating" : 4.7,
+              "total_reviews" : 3155,
+              "slug" : "Instagram",
+              "product_name" : "Instagram",
+              "short_desc" : "Social media solution that helps businesses manage content, create and edit posts, and monitor engagement across Instagram accounts.",
+              "features" : "Social media solution that helps businesses manage content, create and edit posts, and monitor engagement across Instagram accounts.",
+              "url" : "https://business.instagram.com"
+            },
+            {
+              "product_id" : 226798,
+              "seo_product_id" : 226798,
+              "seo_slug" : "Zendesk",
+              "vendor_name" : "Zendesk",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/20f0b4b6-a84c-436b-854e-81f894defdbf.png",
+              "rating" : 4.4,
+              "total_reviews" : 3001,
+              "slug" : "Zendesk",
+              "product_name" : "Zendesk",
+              "short_desc" : "Zendesk provides the complete customer service solution that's easy to use and scales with your business.",
+              "features" : "Zendesk is the only complete customer service solution, that is both easy to use and scales with your business. On average, companies using Zendesk increase customer satisfaction by 25% and agent productivity by 30% - at any scale. All your customer interactions live in a single, dynamic interface with features like web widgets, pre-defined ticket responses, and a full customer history. Get up and running quickly, and expect to see results even faster.",
+              "url" : "https://www.zendesk.com/"
+            },
+            {
+              "product_id" : 143461,
+              "seo_product_id" : 143461,
+              "seo_slug" : "Squarespace",
+              "vendor_name" : "Squarespace",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/713f882b-f7a1-4f3f-a484-7af2fe13f5c3.png",
+              "rating" : 4.6,
+              "total_reviews" : 2497,
+              "slug" : "Squarespace",
+              "product_name" : "Squarespace",
+              "short_desc" : "Squarespace is the all-in-one platform to build a beautiful website, online store, or portfolio.",
+              "features" : "Squarespace is the all-in-one platform to build a beautiful online presence. Look like an expert right from the start with award-winning templates for your website, online store, or portfolio. Customize the design to fit your personal style and professional needs. Get found in search by more people with powerful SEO tools. Learn where your website traffic is coming from, what your visitors are looking for, and how they're interacting with your content or products with in-depth Analytics tools.",
+              "url" : "https://www.squarespace.com/website-design/?channel=paid_community&subchannel=capterra&campaign=default"
+            },
+            {
+              "product_id" : 168669,
+              "seo_product_id" : 168669,
+              "seo_slug" : "Workplace",
+              "vendor_name" : "Facebook",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/9158f690-b30c-4217-9e59-db3bcd7024a0.jpeg",
+              "rating" : 4.4,
+              "total_reviews" : 1114,
+              "slug" : "Workplace",
+              "product_name" : "Workplace from Meta",
+              "short_desc" : "Workplace connects everyone in an organization using familiar Facebook features like chat, video calling, posts and groups.",
+              "features" : "Workplace connects everyone in an organization using familiar Facebook features like Chat, video calling, posts and Groups. It integrates with the business tools you already use and provides a simple, secure and more productive way for people to share knowledge, work together and build connected communities.",
+              "url" : "https://ad.doubleclick.net/ddm/clk/433238831;235650721;b"
+            },
+            {
+              "product_id" : 133173,
+              "seo_product_id" : 129236,
+              "seo_slug" : "Brilliant-Directories",
+              "vendor_name" : "Brilliant Directories",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/eecf3b20-7034-423c-afbb-8136d7ad0972.png",
+              "rating" : 4.7,
+              "total_reviews" : 639,
+              "slug" : "Brilliant-Directories",
+              "product_name" : "Brilliant Directories",
+              "short_desc" : "Affordable, All-In-One Solution to streamline community management,  memberships, email marketing, website design & more.  Try A Demo!",
+              "features" : "---- TRY OUR 7-DAY FREE TRIAL:\nhttps://www.brilliantdirectories.com/trial  ----\n\nBrilliant Directories offers an Affordable, All-In-One Member Management Solution to streamline all aspects of your membership website or association.  A complete, turn-key solution with quick setup and free, unlimited support from real people. Includes website design, online payment processing, multi-level memberships, past due monitoring, premium member's only content, and more. ",
+              "url" : "https://get.brilliantdirectories.com/best-member-community-platform"
+            },
+            {
+              "product_id" : 151072,
+              "seo_product_id" : 151072,
+              "seo_slug" : "Flock",
+              "vendor_name" : "Flock",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/c578e594-a20e-47cf-9d0e-b898fe3132b1.png",
+              "rating" : 4.5,
+              "total_reviews" : 300,
+              "slug" : "Flock",
+              "product_name" : "Flock",
+              "short_desc" : "Flock is a collaboration tool that helps you get work done, only faster! Trusted by over 32,000 businesses globally.",
+              "features" : "Build your community with Flock! From instant messaging and web conferencing to creating channels and integrating with your favorite external apps like Google, MailChimp, Dropbox, Jira, Trello and more - Do more together. Flock is a powerful tool that comes loaded with built-in features like Shared To-Dos, Reminders, Notes, Polls and more! Start for FREE",
+              "url" : "https://www.flock.com/lp/capterra?utm_campaign=capterra_Community&utm_source=capterra&utm_medium=paid_listing"
+            },
+            {
+              "product_id" : 135455,
+              "seo_product_id" : 135455,
+              "seo_slug" : "QuestionPro",
+              "vendor_name" : "Question Pro",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/a63c18f5-f595-4bc9-8aa8-67b6e0bc3733.png",
+              "rating" : 4.7,
+              "total_reviews" : 246,
+              "slug" : "QuestionPro",
+              "product_name" : "QuestionPro",
+              "short_desc" : "Create a stand-alone branded website for your members. and engage with your customer community.\n",
+              "features" : "QuestionPro is a leading SaaS survey solutions company providing a wide range of applications to measure and manage customer experience, employee engagement, and the pulse of the audience. Conduct video discussions and multiple polls with online communities.\n\nSend surveys in under 5 mins with 40+ question types, ready-made survey templates, and customizable design themes. We are ISO 27001 certified and comply with leading data security standards and data privacy laws including GDPR.\n",
+              "url" : "http://www.questionpro.com/?utm_source=Capterra&utm_campaign=Directory&utm_medium=CapterraCPC"
+            },
+            {
+              "product_id" : 136258,
+              "seo_product_id" : 227008,
+              "seo_slug" : "Influitive",
+              "vendor_name" : "Influitive",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/32d31776-808d-42aa-bca8-5ca58df4ee1a.png",
+              "rating" : 4.7,
+              "total_reviews" : 229,
+              "slug" : "AdvocateHub",
+              "product_name" : "Influitive",
+              "short_desc" : "Influitive offers a unique solution designed for CS, CX, and Product teams to engage with customers and gather rapid feedback.",
+              "features" : "Influitive offers a unique community solution designed for CS, CX, and Product teams to engage with customers and gather rapid feedback on any topic. Influitive combines a modern approach to forums and gamification and even integrates with existing communities powered by Salesforce and Khoros to create seamless customer experiences. The community solution also supports employee intranets.",
+              "url" : "https://influitive.com/request-a-demo/?utm_medium=referral&utm_source=capterra&utm_campaign=demo-request"
+            },
+            {
+              "product_id" : 224862,
+              "seo_product_id" : 224862,
+              "seo_slug" : "ON24",
+              "vendor_name" : "ON24",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/32d127cd-b673-4675-86a4-1ca7aa2b96cf.png",
+              "rating" : 4.3,
+              "total_reviews" : 215,
+              "slug" : "ON24",
+              "product_name" : "ON24",
+              "short_desc" : "ON24 provides digital experiences and webcasting for corporate communications and demand generation via a cloud-based SaaS application.",
+              "features" : "ON24 is on a mission to redefine how organizations engage with their audiences, powering interactive, data-rich webinars and content experiences that help people connect on a more human level and make smarter business decisions. Through ON24, marketers can create Live, On Demand and Personalized Engagement, turn it into actionable intelligence and integrate it across their operations. Informed by over a billion engagement minutes, marketers drive more revenue from ON24 than any other channel. ",
+              "url" : "http://www.on24.com"
+            },
+            {
+              "product_id" : 151651,
+              "seo_product_id" : 225623,
+              "seo_slug" : "Quip",
+              "vendor_name" : "Salesforce",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/c28de16e-b312-4624-8369-b21364b82932.png",
+              "rating" : 4.4,
+              "total_reviews" : 180,
+              "slug" : "Quip",
+              "product_name" : "Quip",
+              "short_desc" : "Quip is a new way to collaborate with your team that combines documents, spreadsheets, to-do's, and chat in one seamless experience.",
+              "features" : "Quip is a new way to collaborate with your team and customers that combines documents, spreadsheets, checklists, and chat in one seamless experience. Create an easy-to-use intranet by organizing your content into shareable folders for easy navigation and discovery. Used by thousands of the most innovative companies in the world: Facebook, NewRelic, Quora, and Pinterest. Available on web, Mac, Windows, Android, and iOS. Get started with Quip for free.",
+              "url" : "https://quip.com/landing/wiki-v2?nc=7010M000000miAf&d=7010M000001yII4&utm_source=Capterra&utm_medium=paid_social&utm_content=WIKI&utm_campaign=Cap_Comm"
+            }
+          ],
+          "similar_products" : [
+            {
+              "product_id" : 147279,
+              "seo_product_id" : 221942,
+              "seo_slug" : "Hivebrite",
+              "vendor_name" : "Hivebrite",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/2c8f1a67-e7b3-44db-af26-4a6f7cfd2205.png",
+              "rating" : 4.5,
+              "total_reviews" : 48,
+              "slug" : "Hivebrite",
+              "product_name" : "Hivebrite",
+              "short_desc" : "Strengthen community engagement and grow fully branded private communities with Hivebrite's all-in-one community management platform.",
+              "features" : "Hivebrite is an all-in-one community management platform. It empowers organizations of all sizes and sectors to launch, manage, and grow fully branded private communities. Hivebrite is completely customizable and provides all the tools needed to strengthen community engagement. Keep member data up-to-date, manage memberships and events, collect payments, centralize communication, and more from one easy-to-use platform. Over 1000 clients worldwide use Hivebrite to create and engage communities.",
+              "url" : "https://hivebrite.com/?utm_source=capterra&utm_medium=cpc&utm_term=community"
+            },
+            {
+              "product_id" : 185819,
+              "seo_product_id" : 212184,
+              "seo_slug" : "Mighty-Networks",
+              "vendor_name" : "Mighty Networks",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/81def19b-10bb-4ca8-89cf-fa26c917503d.png",
+              "rating" : 4.6,
+              "total_reviews" : 70,
+              "slug" : "Mighty-Networks",
+              "product_name" : "Mighty Networks",
+              "short_desc" : "Bring together your community, online courses, sales pages, and more in one place under your brand, across the web, iOS and Android.",
+              "features" : "Mighty Network serves creators and entrepreneurs by bringing together their community, online courses, sales pages, and more, all under their brand, across the web, and native iOS and Android apps. Connect members to each other with an activity feed, sub-groups, member categories, chat messages, and more. Create articles with a rich CMS, embed images, videos and sound files, and post engaging questions and polls, all of which support comments and cheers.\r\n",
+              "url" : "https://www.mightynetworks.com/?utm_source=review_site&utm_medium=capterra&utm_campaign=profile"
+            },
+            {
+              "product_id" : 136258,
+              "seo_product_id" : 227008,
+              "seo_slug" : "Influitive",
+              "vendor_name" : "Influitive",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/32d31776-808d-42aa-bca8-5ca58df4ee1a.png",
+              "rating" : 4.7,
+              "total_reviews" : 229,
+              "slug" : "AdvocateHub",
+              "product_name" : "Influitive",
+              "short_desc" : "Influitive offers a unique solution designed for CS, CX, and Product teams to engage with customers and gather rapid feedback.",
+              "features" : "Influitive offers a unique community solution designed for CS, CX, and Product teams to engage with customers and gather rapid feedback on any topic. Influitive combines a modern approach to forums and gamification and even integrates with existing communities powered by Salesforce and Khoros to create seamless customer experiences. The community solution also supports employee intranets.",
+              "url" : "https://influitive.com/request-a-demo/?utm_medium=referral&utm_source=capterra&utm_campaign=demo-request"
+            },
+            {
+              "product_id" : 170758,
+              "seo_product_id" : 224681,
+              "seo_slug" : "inSided",
+              "vendor_name" : "inSided",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e9c756e6-0568-4375-9078-f2cfe6a4f280.png",
+              "rating" : 4.2,
+              "total_reviews" : 9,
+              "slug" : "inSided",
+              "product_name" : "inSided",
+              "short_desc" : "InSided is the only customer community platform built for B2B SaaS and subscription-based companies. ",
+              "features" : "InSided is the leading customer community platform for B2B SaaS and subscription-based companies. We are the only community platform built specifically for B2B SaaS. \n\nOur customer community platform helps SaaS companies become market leaders by driving digital customer engagement at scale.\n\nIn short, with inSided you reduce pressure on the customer success team, build customer engagement & advocacy, and get product feedback & ideas.\n\n",
+              "url" : "https://www.insided.com/request-a-demo?utm_medium=cpc&utm_source=capterra&utm_campaign=default-url"
+            },
+            {
+              "product_id" : 86198,
+              "seo_product_id" : 227092,
+              "seo_slug" : "Higher-Logic",
+              "vendor_name" : "Higher Logic",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/83ac2853-1ec2-4451-869d-1cb09ab0a0de.png",
+              "rating" : 4.4,
+              "total_reviews" : 97,
+              "slug" : "Higher-Logic-Online-Community",
+              "product_name" : "Higher Logic Thrive",
+              "short_desc" : "Higher Logic Thrive is a powerful yet simple member experience solution, improving interactions across the member lifecycle.",
+              "features" : "Purpose-built for associations, Higher Logic Thrive is a powerful yet simple member experience solution touching every stage of the member lifecycle. Built on nearly 20 years of serving associations, we understand your unique needs, and that's reflected in everything we do. \n \nThe Higher Logic Thrive portfolio contains three products: Higher Logic Thrive Platform, Higher Logic Thrive Community, and Higher Logic Thrive Marketing.",
+              "url" : "https://thrive.higherlogic.com/request-demo/?utm_medium=review&utm_source=capterra&utm_campaign=22assnqall00wfthrivedemorequest&utm_content=demo_request"
+            },
+            {
+              "product_id" : 128657,
+              "seo_product_id" : 128657,
+              "seo_slug" : "Bazaarvoice-Connections",
+              "vendor_name" : "Bazaarvoice",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4400803d-496c-4c30-8b98-9ba1120ef457.jpeg",
+              "rating" : 4.2,
+              "total_reviews" : 15,
+              "slug" : "Bazaarvoice-Connections",
+              "product_name" : "Bazaarvoice",
+              "short_desc" : "Bazaarvoice's community software lets you easily connect to customers to build customer relationships and drive loyalty.",
+              "features" : "Bazaarvoice's community software lets you easily connect to customers and turn their feedback into high-quality user-generated content (UGC) that drives customer loyalty. Amplify the voice of your customer and discover influencers who are perfectly aligned with your brand.",
+              "url" : "https://www.bazaarvoice.com/?utm_campaign=win+at+retail&utm_medium=cpc&utm_content=reputation+management&utm_term=none&personalization="
+            },
+            {
+              "product_id" : 134140,
+              "seo_product_id" : 223135,
+              "seo_slug" : "Graduway",
+              "vendor_name" : "Graduway",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/03a5f63d-851b-4806-abc2-72e1424512fe.jpeg",
+              "rating" : 4.4,
+              "total_reviews" : 131,
+              "slug" : "Graduway",
+              "product_name" : "Graduway",
+              "short_desc" : "#1 Virtual community and enablement platform to recruit & mentor students, engage alumni & volunteers, & cultivate donors at scale.",
+              "features" : "Graduway is the leading community, development, and enablement company that provides tools and technologies supporting the entire virtual community lifecycle for nonprofits, schools, and universities. From recruiting and mentoring students or volunteers to cultivating donors, Graduway enables all online community management. In addition to partnerships with over 2,000 educational institutions, the company extends its solutions to other nonprofits and healthcare organizations worldwide.",
+              "url" : "https://graduway.com/demo/?utm_source=Capterra&utm_campaign=destination+url"
+            },
+            {
+              "product_id" : 166934,
+              "seo_product_id" : 166934,
+              "seo_slug" : "Zapnito",
+              "vendor_name" : "Zapnito",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/759f3c88-d785-4d58-ab49-d86bd6f1d827.png",
+              "rating" : 4.7,
+              "total_reviews" : 40,
+              "slug" : "Zapnito",
+              "product_name" : "Zapnito ",
+              "short_desc" : "Zapnito is the SaaS community platform for intelligent organizations.",
+              "features" : "Zapnito is the SaaS community platform for intelligence-driven organizations. We power branded, expert communities that allow members to learn, share knowledge and collaborate.\n\nAn all-in-one community and learning platform, Zapnito provides all the tools you need to engage, retain and grow your communities so they stay longer, spend more, and encourage others to do the same.",
+              "url" : "https://discover.zapnito.com/?utm_campaign=Capterra&utm_medium=ppc&utm_source=capterra"
+            },
+            {
+              "product_id" : 181800,
+              "seo_product_id" : 181800,
+              "seo_slug" : "Webex-Events",
+              "vendor_name" : "Cisco",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8974b756-3b58-4dce-adbd-03c7d59aed89.png",
+              "rating" : 4.9,
+              "total_reviews" : 153,
+              "slug" : "Webex-Events",
+              "product_name" : "Webex Events (Formerly Socio)",
+              "short_desc" : "The Webex Events (formerly Socio) online event community platform enables year-round, continuous attendee engagement and networking.",
+              "features" : "The Webex Events (formerly Socio) online event community platform allows marketers and event organizers to build a hub for continuous attendee engagement. Event marketers and organizers can connect their customers and power ongoing learning, engagement, collaboration, and networking in one central location. Enable year-round participation with virtual events, virtual roundtables, games, and more, all hosted within the online community. Full branding and customization options are also available. ",
+              "url" : "https://socio.events/?utm_medium=referral&utm_source=capterra&utm_campaign=capterra&utm_leadsource=review-site&utm_term=default"
+            },
+            {
+              "product_id" : 242274,
+              "seo_product_id" : 242274,
+              "seo_slug" : "Participate",
+              "vendor_name" : "Participate",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/72d87126-cb7e-46a3-a29d-fb56c79c8f64.jpeg",
+              "rating" : 0.0,
+              "total_reviews" : 0,
+              "slug" : "Participate",
+              "product_name" : "Participate",
+              "short_desc" : "Participate is an online platform for streamlining the set-up and management of social learning communities.",
+              "features" : "Participate allows organizations with models that depend on social learning communities to scale their initiatives, with no loss in quality, while streamlining their operations. \n\nUsing our social learning platform, customers can easily create, grow, and sustain social learning communities. Our ability to capture, aggregate and and give recognition for knowledge created in these communities is our key differentiator.",
+              "url" : "https://explore.participate.com/build-your-community-1-0-1"
+            },
+            {
+              "product_id" : 134209,
+              "seo_product_id" : 223690,
+              "seo_slug" : "Glue-Up",
+              "vendor_name" : "Glue Up",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/767f0c5d-872b-4c45-93f5-2a316ddf9d32.png",
+              "rating" : 4.5,
+              "total_reviews" : 92,
+              "slug" : "Glue-Up",
+              "product_name" : "Glue Up",
+              "short_desc" : "Give your community a digital space where they can connect with you and your mission 365 days a year even when meeting isn't possible.",
+              "features" : "Make it your business to enable everyone in your community develop lasting relationships with you and each other via 1-on-1 chats, private and open groups, social walls, virtual business cards, community hub, webinars and more. \r\n\r\nGive your community a digital space where they can share their ideas, discuss various topics and stay social even when meeting in person is not an option.\r\n\r\nEnable your community to thrive now. \r\n\r\nGlue Up (a.k.a. EventBank) is an all-in-one software for communities.",
+              "url" : "https://glueup.com/lp/event-management-cpt?utm_medium=lp&utm_campaign=PPC&utm_term=event-management"
+            },
+            {
+              "product_id" : 130784,
+              "seo_product_id" : 223027,
+              "seo_slug" : "Jostle",
+              "vendor_name" : "Jostle Corporation",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/c089623d-e4ef-44ec-a55f-1bffa9f5a792.png",
+              "rating" : 4.3,
+              "total_reviews" : 60,
+              "slug" : "Jostle",
+              "product_name" : "Jostle",
+              "short_desc" : "More than ever, we need a place to bring everyone together and help each person succeed. That's Jostle.",
+              "features" : "Discover a seriously simple tool that brings people together. Why? Because today's organizations are more complex than ever: people are dispersed, there's more info, and we have more ways to communicate than ever before. Striving to create a community at your workplace is a noble goal, but it shouldn't add to this complexity. You need a way to help people participate in your culture and feel the value of the contribution they make. Jostle is designed to empower people and organizations.",
+              "url" : "https://success.jostle.me/intranet-software?&utm_source=capterra&utm_medium=ppc&utm_campaign=intranet"
+            },
+            {
+              "product_id" : 179231,
+              "seo_product_id" : 179231,
+              "seo_slug" : "Open-Social",
+              "vendor_name" : "Open Social",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/3725de3a-36d4-43db-a26c-988a67410f46.png",
+              "rating" : 4.7,
+              "total_reviews" : 12,
+              "slug" : "Open-Social",
+              "product_name" : "Open Social",
+              "short_desc" : "Open Social is a purpose-built community engagement platform perfect for volunteer, organization, and professional member management. ",
+              "features" : "Create digital spaces that empower your members to share\r\n\r\nOpen Socials community engagement platform allows organizations to empower their members to come together, communicate and collaborate from anywhere in the world.  Drive real-world change and create organizational value with an online platform and purpose-built extensions for managing, mobilizing and engaging new and existing members.\r\n",
+              "url" : "https://www.getopensocial.com/capterra-demo/?utm_source=capterra&utm_medium=cpc&utm_campaign=capterra"
+            }
+          ],
+          "related_categories" : [
+            {
+              "functional_group" : "community",
+              "long_name" : "Collaboration",
+              "html_name" : "collaboration-software",
+              "link_name" : "collaboration",
+              "product_count" : 306,
+              "meta_description" : "Find and compare top Collaboration software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Collaboration tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs.",
+              "description" : "<a href=\"/collaboration-software/\">Collaboration software</a> enables the sharing of information by providing an online or intranet-based environment for virtual teamwork.  These applications allow for greater efficiency in managing document libraries and versions, projects in progress, report editing, threaded discussions, calendar sharing, knowledge base search, workflow and task management. Collaboration solutions often feature integration for a variety of real-time communications tools including:  video or voice conferencing, email and instant messaging.  <a href=\"/collaboration-software/\">Collaboration software</a> is related to <a href=\"/project-management-software\">Project Management software</a> and <a href=\"/web-conferencing-software\">Web Conferencing software</a>."
+            },
+            {
+              "functional_group" : "community",
+              "long_name" : "Directory",
+              "html_name" : "directory-software",
+              "link_name" : "directory",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Directory software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Directory tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "Directory software is used to create product and services classifieds, informational portals and membership lists with or without monetization options."
+            },
+            {
+              "functional_group" : "community",
+              "long_name" : "Knowledge Management",
+              "html_name" : "knowledge-management-software",
+              "link_name" : "knowledge-management",
+              "product_count" : 118,
+              "meta_description" : "Find and compare top Knowledge Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Knowledge Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/knowledge-management-software>Knowledge Management software</a> offers ways to optimize the utility of intellectual capital and intangible assets by capturing, preserving and organizing institutional knowledge in a measurable format. Knowledge Management solutions allow successful strategies to be transferred and replicated throughout an organization.  Implementation can be inwardly focused on faster learning, new knowledge creation, and innovation or directed outwardly, providing a self-guided service path for customers.  <a href=/knowledge-management-software>Knowledge Management software</a> is related to <a href=/business-intelligence-software>Business Intelligence software</a> and <a href=/document-management-software>Document Management software</a>."
+            },
+            {
+              "functional_group" : "community",
+              "long_name" : "Social Networking",
+              "html_name" : "social-networking-software",
+              "link_name" : "social-networking",
+              "product_count" : 132,
+              "meta_description" : "Find and compare top Social Networking software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Social Networking tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/social-networking-software\">Social Networking software</a> supports customer interactions with one another as well as with the organization.  Search Engine optimization, blogging, podcasting, newsletters, profile pages, message boards, viral content and membership directories are all <a href=\"/social-networking-software\">Social Networking software</a> features, which can increase web-traffic, visibility, and interactivity for companies with a web presence.  <a href=\"/social-networking-software\">Social Networking</a> is related to <a href=\"/contact-management-software\">Contact Management software</a>, <a href=\"/content-management-software\">Content Management software</a>, <a href=\"/membership-management-software\">Membership Management software</a>, and <a href=\"/portal-software\">Portal software</a>."
+            }
+          ],
+          "is_upgraded" : false,
+          "enabled" : true,
+          "filter_options" : {
+            "users" : 127,
+            "platform" : 391,
+            "pricing_options" : 25,
+            "category_related_features" : [
+              38994,
+              43849,
+              62305,
+              62309,
+              62313,
+              62317,
+              62325
+            ],
+            "employees" : 127
+          },
+          "sort_options" : {
+            "sort_review_rating" : 4.583543300628662,
+            "most_recent_review" : "2022-07-19T16:01:18Z"
+          },
+          "countries" : "ALL",
+          "features_tokenized_text" : "customizable_branding event_management",
+          "platform_tokenized_text" : "cloud,saas,web-based desktopmac desktopwindows mobileandroid mobileiphone",
+          "users_tokenized_text" : "1 2-10 11-50 51-200 201-500 501-1000 1000+",
+          "pricing_tokenized_text" : "one-timelicense free freetrial",
+          "badges" : [ ],
+          "bid_spot_us" : 0.0,
+          "currency_code" : "USD",
+          "currency_symbol" : "$",
+          "credit_card_required" : "Unverified",
+          "licensing_model" : null,
+          "open_api_offered" : "Unverified",
+          "mobile_urls" : [ ],
+          "integrations" : [ ],
+          "supported_countries" : [
+            {
+              "id" : 14,
+              "code" : "AU",
+              "name" : "Australia"
+            },
+            {
+              "id" : 32,
+              "code" : "BR",
+              "name" : "Brazil"
+            },
+            {
+              "id" : 237,
+              "code" : "US",
+              "name" : "United States of America"
+            },
+            {
+              "id" : 235,
+              "code" : "GB",
+              "name" : "United Kingdom of Great Britain and Northern Ireland"
+            },
+            {
+              "id" : 41,
+              "code" : "CA",
+              "name" : "Canada"
+            },
+            {
+              "id" : 46,
+              "code" : "CN",
+              "name" : "China"
+            },
+            {
+              "id" : 104,
+              "code" : "IN",
+              "name" : "India"
+            },
+            {
+              "id" : 113,
+              "code" : "JP",
+              "name" : "Japan"
+            },
+            {
+              "id" : 84,
+              "code" : "DE",
+              "name" : "Germany"
+            },
+            {
+              "id" : 144,
+              "code" : "MX",
+              "name" : "Mexico"
+            },
+            {
+              "id" : 108,
+              "code" : "IE",
+              "name" : "Ireland"
+            },
+            {
+              "id" : 234,
+              "code" : "AE",
+              "name" : "United Arab Emirates"
+            },
+            {
+              "id" : 111,
+              "code" : "IT",
+              "name" : "Italy"
+            },
+            {
+              "id" : 77,
+              "code" : "FR",
+              "name" : "France"
+            },
+            {
+              "id" : 201,
+              "code" : "SG",
+              "name" : "Singapore"
+            },
+            {
+              "id" : 159,
+              "code" : "NZ",
+              "name" : "New Zealand"
+            },
+            {
+              "id" : 176,
+              "code" : "PH",
+              "name" : "Philippines"
+            },
+            {
+              "id" : 207,
+              "code" : "ZA",
+              "name" : "South Africa"
+            },
+            {
+              "id" : 157,
+              "code" : "NL",
+              "name" : "Netherlands"
+            }
+          ],
+          "supported_languages" : [
+            {
+              "id" : 152,
+              "code" : "en",
+              "name" : "English",
+              "location" : null
+            }
+          ],
+          "target_industries" : [
+            {
+              "id" : 78,
+              "code" : "116",
+              "name" : "Logistics and Supply Chain"
+            },
+            {
+              "id" : 35,
+              "code" : "132",
+              "name" : "E-Learning"
+            },
+            {
+              "id" : 98,
+              "code" : "57",
+              "name" : "Oil & Energy"
+            },
+            {
+              "id" : 126,
+              "code" : "27",
+              "name" : "Retail"
+            },
+            {
+              "id" : 86,
+              "code" : "126",
+              "name" : "Media Production"
+            },
+            {
+              "id" : 52,
+              "code" : "75",
+              "name" : "Government Administration"
+            },
+            {
+              "id" : 132,
+              "code" : "104",
+              "name" : "Staffing and Recruiting"
+            },
+            {
+              "id" : 26,
+              "code" : "48",
+              "name" : "Construction"
+            },
+            {
+              "id" : 57,
+              "code" : "14",
+              "name" : "Hospital & Health Care"
+            },
+            {
+              "id" : 140,
+              "code" : "59",
+              "name" : "Utilities"
+            },
+            {
+              "id" : 42,
+              "code" : "63",
+              "name" : "Farming"
+            },
+            {
+              "id" : 9,
+              "code" : "53",
+              "name" : "Automotive"
+            },
+            {
+              "id" : 46,
+              "code" : "34",
+              "name" : "Food & Beverages"
+            },
+            {
+              "id" : 97,
+              "code" : "100",
+              "name" : "Non-Profit Organization Management"
+            },
+            {
+              "id" : 74,
+              "code" : "10",
+              "name" : "Legal Services"
+            },
+            {
+              "id" : 134,
+              "code" : "8",
+              "name" : "Telecommunications"
+            },
+            {
+              "id" : 84,
+              "code" : "80",
+              "name" : "Marketing and Advertising"
+            },
+            {
+              "id" : 41,
+              "code" : "122",
+              "name" : "Facilities Services"
+            },
+            {
+              "id" : 1,
+              "code" : "47",
+              "name" : "Accounting"
+            },
+            {
+              "id" : 58,
+              "code" : "31",
+              "name" : "Hospitality"
+            },
+            {
+              "id" : 105,
+              "code" : "15",
+              "name" : "Pharmaceuticals"
+            },
+            {
+              "id" : 65,
+              "code" : "42",
+              "name" : "Insurance"
+            },
+            {
+              "id" : 81,
+              "code" : "11",
+              "name" : "Management Consulting"
+            },
+            {
+              "id" : 59,
+              "code" : "137",
+              "name" : "Human Resources"
+            },
+            {
+              "id" : 120,
+              "code" : "44",
+              "name" : "Real Estate"
+            },
+            {
+              "id" : 139,
+              "code" : "92",
+              "name" : "Transportation/Trucking/Railroad"
+            },
+            {
+              "id" : 62,
+              "code" : "147",
+              "name" : "Industrial Automation"
+            },
+            {
+              "id" : 11,
+              "code" : "41",
+              "name" : "Banking"
+            },
+            {
+              "id" : 25,
+              "code" : "4",
+              "name" : "Computer Software"
+            },
+            {
+              "id" : 85,
+              "code" : "135",
+              "name" : "Mechanical or Industrial Engineering"
+            },
+            {
+              "id" : 144,
+              "code" : "133",
+              "name" : "Wholesale"
+            }
+          ],
+          "price_range_id" : 1,
+          "aggregated_review_ratings" : {
+            "industry" : {
+              "132" : 5.0,
+              "43" : 5.0,
+              "9" : 4.0,
+              "134" : 5.0,
+              "116" : 4.0,
+              "118" : 5.0,
+              "12" : 5.0,
+              "84" : 5.0,
+              "88" : 5.0,
+              "14" : 5.0,
+              "69" : 4.0,
+              "8" : 4.5,
+              "111" : 5.0,
+              "145" : 4.0,
+              "51" : 4.0,
+              "11" : 4.5,
+              "10" : 5.0,
+              "6" : 4.8,
+              "96" : 4.5,
+              "53" : 5.0,
+              "136" : 3.0,
+              "4" : 4.2,
+              "57" : 4.5,
+              "47" : 4.0,
+              "133" : 4.0,
+              "80" : 5.0,
+              "89" : 4.0,
+              "124" : 4.0,
+              "75" : 4.0
+            },
+            "company_size" : {
+              "501-1000 employees" : 5.0,
+              "11-50 employees" : 4.71,
+              "1001-5000 employees" : 4.2,
+              "201-500 employees" : 4.43,
+              "Self-employed" : 4.5,
+              "1-10 employees" : 4.56,
+              "10,001+ employees" : 5.0,
+              "51-200 employees" : 4.0
+            }
+          },
+          "vct_enabled" : false,
+          "pricing_plans" : [
+            {
+              "created_on_utc" : "2019-08-21T14:47:39Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Business Hangouts",
+              "description" : "The plan starts at $29.",
+              "display_order" : 1,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 29.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : "One Time",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "Anonymized Chat"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "Charge for Webinars"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Customizable Event Signup Pages & Emails"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "Google Suite & Calendar Integration"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 5,
+                  "name" : "Multiple Login Options"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 6,
+                  "name" : "Record Event 60 Fps With Unlimited Storage"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 7,
+                  "name" : "Supports up to 5000 Participants"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 8,
+                  "name" : "Webinars + Web Conferencing Included"
+                }
+              ]
+            }
+          ],
+          "discount_types" : [ ]
+        }
+      },
+      {
+        "_index" : "product_listings_main_data_upc_vt20220920_043802_utc",
+        "_type" : "_doc",
+        "_id" : "159090_webinar",
+        "_score" : 11.37608,
+        "_source" : {
+          "product_id" : 159090,
+          "seo_product_id" : 227251,
+          "seo_slug" : "Business-Hangouts",
+          "product_name" : "Business Hangouts",
+          "upc_product_uuid" : "d0c69fed-0c17-42e2-9ff3-a6d200b30c3a",
+          "old_product_ids" : [
+            227251,
+            152092
+          ],
+          "product_url" : "https://business-hangouts.com/webinar-benefits-adwords/?utm_source=Capterra&utm_campaign=Webinars&utm_medium=PPC",
+          "product_slug" : "Business-Hangouts",
+          "former_name" : "Business Hangouts",
+          "logo_filepath" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d90196de-4164-403b-9c60-6939bfae4f17.png",
+          "vendor" : {
+            "vendor_id" : 2107087,
+            "vendor_name" : "JetVideo Technologies",
+            "vendor_url" : "http://www.JetWebinar.com",
+            "year_founded" : 2011,
+            "location" : "United States",
+            "vendor_opted_out_of_reviews" : true,
+            "is_opted_out_of_reviews" : false,
+            "is_hit_limit" : false,
+            "enabled" : true,
+            "has_vendor_level_page" : false,
+            "slug" : null,
+            "vendor_page" : false,
+            "paused_campaign" : false
+          },
+          "category_short_name" : "webinar",
+          "category_html_name" : "webinar-software",
+          "category" : {
+            "id" : 30937,
+            "short_name" : "webinar",
+            "long_name" : "Webinar",
+            "html_name" : "webinar-software",
+            "enabled" : true
+          },
+          "best_category" : "webinar",
+          "is_best_category" : true,
+          "highest_cpc_category" : null,
+          "is_highest_cpc_category" : false,
+          "short_desc" : "Webinar platform for G-suite apps used by over 2 million enterprise users. Webinars, Webcasts, Live Video, Web Conferencing software.",
+          "long_desc" : "Business Hangouts is a robust webinar solution for Marketers, Trainers, Entrepreneurs, and SMB's. No downloads & no PINs for viewers. Record directly to YouTube/Social Media. it comes with an integrated email service that will remind viewers of the upcoming webinar & follow up after with your brand. It includes support for multiple presenters, private or public events, multiple sharing options, & unified chat with full moderator controls. can download from the G-suite marketplace.",
+          "rating" : 4.5,
+          "number_of_reviews" : 57,
+          "total_reviews" : 79,
+          "ease_of_use_rating" : 4.5,
+          "customer_support_rating" : 4.2,
+          "functionality_rating" : 4.3,
+          "value_for_money_rating" : 4.3,
+          "recommendation_rating" : 8.4,
+          "pricing_enabled" : true,
+          "pricing" : 29.0,
+          "is_per_user" : false,
+          "fee_schedule" : "One-Time",
+          "pricing_model" : "Flat Rate",
+          "pricing_details" : "Four subscription plan levels are available:\nLite - up to 25 attendees: $19 per month\nPro - up to 100 attendees: $49 per month\nBusiness - up to 200 attendees: $79 per month\nWebcast - up to 5000 attendees: $490 per month\n\nDiscounts are available for paying annually, and the software can be tried risk-free for 30-days with a money back guarantee.",
+          "pricing_created_on" : "2019-08-21T14:47:39Z",
+          "pricing_modified_on" : "2022-06-23T14:42:33Z",
+          "pricing_created_by" : null,
+          "pricing_modified_by" : null,
+          "pricing_vendor_pricing_url" : "https://www.business-hangouts.com/webinar-benefits-adwords/",
+          "free_trial" : true,
+          "free_version" : true,
+          "target_audience" : "Enterprises, Marketers, Educators/eLearning, Government Agencies, Religious Organizations, Non-Profits, Franchise Operators, Online Academies, Event Organizers/Promoters, Software Developers/Vendors",
+          "target_users" : [
+            "1",
+            "2-10",
+            "11-50",
+            "51-200",
+            "201-500",
+            "501-1000",
+            "1000+"
+          ],
+          "platform" : [
+            {
+              "enabled" : true,
+              "name" : "Cloud, SaaS, Web-Based"
+            },
+            {
+              "enabled" : true,
+              "name" : "Desktop Mac"
+            },
+            {
+              "enabled" : true,
+              "name" : "Desktop Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Chromebook"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile Android"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPhone"
+            },
+            {
+              "enabled" : false,
+              "name" : "Mobile iPad"
+            }
+          ],
+          "support" : [
+            {
+              "enabled" : true,
+              "name" : "Email Help Desk"
+            },
+            {
+              "enabled" : true,
+              "name" : "FAQ Forum"
+            },
+            {
+              "enabled" : true,
+              "name" : "Knowledgebase"
+            },
+            {
+              "enabled" : true,
+              "name" : "Phone Support"
+            },
+            {
+              "enabled" : true,
+              "name" : "24/7 Live Rep"
+            },
+            {
+              "enabled" : true,
+              "name" : "Chat"
+            }
+          ],
+          "training" : [
+            {
+              "enabled" : false,
+              "name" : "Not Offered"
+            },
+            {
+              "enabled" : false,
+              "name" : "In-Person"
+            },
+            {
+              "enabled" : true,
+              "name" : "Live Online"
+            },
+            {
+              "enabled" : true,
+              "name" : "Webinars"
+            },
+            {
+              "enabled" : true,
+              "name" : "Documentation"
+            },
+            {
+              "enabled" : true,
+              "name" : "Videos"
+            }
+          ],
+          "media" : [
+            {
+              "product_id" : 159090,
+              "vendor_id" : 2107087,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/da074378-a19b-4b22-a4a5-b3f5772722d8.png",
+              "caption" : "Presenter",
+              "weight" : 1,
+              "short_name" : "webinar"
+            },
+            {
+              "product_id" : 159090,
+              "vendor_id" : 2107087,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/a58d9d69-858e-4092-b171-87ba5b6f24ed.png",
+              "caption" : "webinar",
+              "weight" : 2,
+              "short_name" : "webinar"
+            },
+            {
+              "product_id" : 159090,
+              "vendor_id" : 2107087,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/b6f0698a-a55e-4a7b-a976-5c0b9e274162.png",
+              "caption" : "Integrate with G suite",
+              "weight" : 3,
+              "short_name" : "webinar"
+            },
+            {
+              "product_id" : 159090,
+              "vendor_id" : 2107087,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/4de6a524-6894-4e63-932e-00804daa422a.png",
+              "caption" : "Easy to Host",
+              "weight" : 4,
+              "short_name" : "webinar"
+            },
+            {
+              "product_id" : 159090,
+              "vendor_id" : 2107087,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/ae65c3c5-c899-46f9-b256-4708afb4c0fe.png",
+              "caption" : null,
+              "weight" : 5,
+              "short_name" : "webinar"
+            },
+            {
+              "product_id" : 159090,
+              "vendor_id" : 2107087,
+              "media_type" : "VIDEO",
+              "path_url" : "https://www.youtube.com/watch?v=pvelqXBgv3g",
+              "caption" : null,
+              "weight" : 0,
+              "short_name" : "webinar"
+            }
+          ],
+          "links" : [
+            {
+              "product_id" : 159090,
+              "functional_group" : "webinar",
+              "html_code" : "https://business-hangouts.com/?utm_source=Capterra&utm_campaign=Webinars&utm_medium=Trial",
+              "link_name" : "Free Trial",
+              "link_priority" : 1.0
+            },
+            {
+              "product_id" : 159090,
+              "functional_group" : "webinar",
+              "html_code" : "https://business-hangouts.com/webinar-benefits-adwords/?utm_source=Capterra&utm_campaign=Webinars&utm_medium=Demo",
+              "link_name" : "Free Demo",
+              "link_priority" : 2.0
+            },
+            {
+              "product_id" : 159090,
+              "functional_group" : "webinar",
+              "html_code" : "https://business-hangouts.com/pricing/?utm_source=Capterra&utm_campaign=Webinars&utm_medium=Pricing",
+              "link_name" : "Pricing",
+              "link_priority" : 3.0
+            }
+          ],
+          "features" : [
+            {
+              "category_name" : "Webinar",
+              "category_features" : [
+                {
+                  "name" : "Alerts/Notifications",
+                  "value" : true,
+                  "id" : "aef68b72-bd4c-4797-ae8c-4735512de81a",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Alerts/notifications within the system"
+                },
+                {
+                  "name" : "Customizable Branding",
+                  "value" : true,
+                  "id" : "2ad190f0-241d-4182-9ec3-10f1e12adbb9",
+                  "avg_rating" : 0.0,
+                  "cnt_rating" : 0,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Add customized logos and colors to the interface"
+                },
+                {
+                  "name" : "Event Management",
+                  "value" : true,
+                  "id" : "cdc3bb9d-3c31-48ba-a01c-5101adc90c87",
+                  "avg_rating" : 3.5,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Schedule and manage the logistics of activities and other gatherings"
+                },
+                {
+                  "name" : "Live Chat",
+                  "value" : true,
+                  "id" : "9af278c7-ddc8-463b-985f-206165ea83db",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : "Ability to chat online in real time"
+                },
+                {
+                  "name" : "Multi hosts",
+                  "value" : true,
+                  "id" : "b5b3aca5-0331-477d-88a4-040ade31c84a",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Allow multiple participants to present/co-host."
+                },
+                {
+                  "name" : "On-Demand Webinars",
+                  "value" : true,
+                  "id" : "6786a79c-7ac4-498f-9005-e66ad5ef9bb8",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Allow users to schedule a webinar with registration and record the webinar automatically in the cloud."
+                },
+                {
+                  "name" : "Polls/Voting",
+                  "value" : true,
+                  "id" : "e77de5ee-3e8d-409f-91d4-7a8e4519462b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Create quick polls to keep people engaged"
+                },
+                {
+                  "name" : "Q&A Management",
+                  "value" : true,
+                  "id" : "28d1f0f4-4f59-47b9-8b1d-a123da2f6feb",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Answer attendee questions privately or publicly."
+                },
+                {
+                  "name" : "Reporting/Analytics",
+                  "value" : true,
+                  "id" : "b0c186d0-0194-4300-abba-ca3bc2474bbe",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "View and track pertinent metrics"
+                },
+                {
+                  "name" : "Screen Sharing",
+                  "value" : true,
+                  "id" : "a4e50f33-a0b2-417d-a6b8-faa8213a3312",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Enable users to share screen during a presentation."
+                },
+                {
+                  "name" : "Social Promotion",
+                  "value" : true,
+                  "id" : "36bec0f0-f1dc-4a02-8def-e429c7f4b389",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Share webinar on various social media channels."
+                }
+              ]
+            }
+          ],
+          "infographics" : [ ],
+          "related_products" : [
+            {
+              "product_id" : 144037,
+              "seo_product_id" : 144037,
+              "seo_slug" : "Zoom-Video-Conferencing",
+              "vendor_name" : "Zoom Video Communications",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4fd155b9-038a-4a45-8495-f050359e5f56.png",
+              "rating" : 4.6,
+              "total_reviews" : 12258,
+              "slug" : "Zoom-Video-Conferencing",
+              "product_name" : "Zoom Meetings",
+              "short_desc" : "Zoom Meetings are easy, reliable, and secure, providing HD video, audio, and content sharing across a multitude of systems.",
+              "features" : "Zoom Meetings are easy, reliable, and secure, providing HD video, audio, and content sharing across everything from your mobile and desktop devices to telephones and conference room systems. Special features include cloud and local recording with transcripts and multi-user annotation capabilities via screen share.  Easy access with one click, chat across platforms and share files all with encrypted, compliant settings for extra security. \r\n",
+              "url" : "https://zoom.us"
+            },
+            {
+              "product_id" : 237272,
+              "seo_product_id" : 733,
+              "seo_slug" : "WebEx-Meeting-Center",
+              "vendor_name" : "Cisco",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e60c0fa1-f0d4-40ac-a412-0b2261b1f9a0.png",
+              "rating" : 4.4,
+              "total_reviews" : 6438,
+              "slug" : "Webex",
+              "product_name" : "Webex",
+              "short_desc" : "Webex Webinars, a scalable webinar platform for interactive experiences.",
+              "features" : "Webex Webinars, a scalable webinar platform for interactive experiences.\n\n-Accomodate up to 100,000 attendees\n-Encourage active participation with moderated Q&A, live polling, chat, emoji reactions, and gesture recognition.\n-Rehearse the entire presentation before going on stage\n-Decide who and what your audience sees in the Stage View at any given moment.\n-Bring your presentations to life with immersive share\n-Curate the attendee registration experience with custom branding options and themes.",
+              "url" : "https://ad.doubleclick.net/ddm/trackclk/N7442.813334CAPTERRA.COM/B26514157.315263240;dc_trk_aid=507616946;dc_trk_cid=158630622;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd="
+            },
+            {
+              "product_id" : 157062,
+              "seo_product_id" : 157062,
+              "seo_slug" : "Zoom-Video-Webinar",
+              "vendor_name" : "Zoom Video Communications",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/a8ece6ee-b425-40c9-ae62-79f181111fa8.png",
+              "rating" : 4.6,
+              "total_reviews" : 5358,
+              "slug" : "Zoom-Video-Webinar",
+              "product_name" : "Zoom Video Webinars",
+              "short_desc" : "Broaden your reach with Zoom's reliable, scalable webinar solution. Connect audiences everywhere for engaging corporate communication. ",
+              "features" : "Providing enormous reach and impact, Zoom Video Webinars offers you as many as 10,000 view-only attendees and up to 100 video panelists with streaming options to Youtube and Facebook Live.  Interactive and dynamic qualities include Q/A, polling, raise hand, reporting, MP4/M4A recording with transcripts, and registration options such as reminder and follow-up emails, all with high-quality video, audio, and screen sharing.  \r\n\r\n",
+              "url" : "https://zoom.us/webinar"
+            },
+            {
+              "product_id" : 163335,
+              "seo_product_id" : 222472,
+              "seo_slug" : "GoToWebinar",
+              "vendor_name" : "GoTo",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/84f70fe9-9c12-4d54-bcc6-4bb2cf3bdcfd.jpeg",
+              "rating" : 4.5,
+              "total_reviews" : 1544,
+              "slug" : "GoToWebinar",
+              "product_name" : "GoTo Webinar",
+              "short_desc" : "GoTo Webinar powers millions of webinars each year and is now part of GoTo Connect, all-in-one communications software built for SMBs.",
+              "features" : "GoTo Webinar is trusted by more customers than any other online webinar solution and powers millions of webinars each year. Whether you use webinars for marketing, training, or corporate communications, GoTo Webinar puts the fun back into webinars with reliable technology that's super simple to use. Get the features, integrations and analytics you need to engage your audience and make personal connections that drive your business.",
+              "url" : "https://www.goto.com/pricing/webinar?utm_source=capterra&utm_medium=review-sites&utm_campaign=webinar&campaignID=7014P0000016hxhQAA"
+            },
+            {
+              "product_id" : 175001,
+              "seo_product_id" : 122052,
+              "seo_slug" : "Join-Me",
+              "vendor_name" : "GoTo",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e5b3a2cf-bc2f-42a4-b898-9de949c46a93.png",
+              "rating" : 4.3,
+              "total_reviews" : 1448,
+              "slug" : "join-me",
+              "product_name" : "Join.Me",
+              "short_desc" : "Ridiculously simple screen sharing tool for meetings on the fly. Get everybody on the same page, when they're not in the same room!",
+              "features" : "join.me is the fastest and easiest way to connect and collaborate. Anyone can share ideas instantly with screen sharing, audio, video, whiteboard and chat. join.me is a personalized meeting experience where users can personalize participant bubbles, URLs, backgrounds and more!",
+              "url" : "https://www.join.me/?utm_source=capterra&utm_medium=referrer&utm_campaign=webinar_main"
+            },
+            {
+              "product_id" : 203963,
+              "seo_product_id" : 48968,
+              "seo_slug" : "Adobe-Connect",
+              "vendor_name" : "Adobe",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/fefedc49-99ed-47b2-8fce-44a509277fcf.png",
+              "rating" : 4.3,
+              "total_reviews" : 641,
+              "slug" : "Adobe-Connect",
+              "product_name" : "Adobe Connect",
+              "short_desc" : "Securely share presentations and multimedia right from your desktop, and get feedback from hundreds of participants.",
+              "features" : "Communicate your ideas powerfully using Adobe Connect web conferencing software. Securely share presentations and multimedia right from your desktop, and get feedback from hundreds of participants - all using a web browser and the Adobe Flash Player runtime, already installed on 98% of Internet-connected personal computers.",
+              "url" : "https://www.adobe.com/products/adobeconnect.html"
+            },
+            {
+              "product_id" : 122054,
+              "seo_product_id" : 223180,
+              "seo_slug" : "BlueJeans",
+              "vendor_name" : "Verizon",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/21bc4416-f05d-4e92-a69a-38443b69b926.png",
+              "rating" : 4.3,
+              "total_reviews" : 575,
+              "slug" : "BlueJeans-Video-Communications",
+              "product_name" : "BlueJeans",
+              "short_desc" : "Host and manage interactive video webinars for large audiences around the world.",
+              "features" : "BlueJeans Events, a globally trusted live video streaming solution, is an easy-to-use webinar platform for engagement marketing,\r\ncustomer activation, and demand generation. \r\n\r\nNurture and qualify prospects to drive product pipeline with in-event participation tools. BlueJeans Events combine the collaborative features of a meeting platform with the scalability of a broadcast -- connecting presenters with attendees through an interactive, immersive video experience.",
+              "url" : "https://info.gartnerdigitalmarkets.com/bluejeans-gdm-lp?utm_campaign=webinar&utm_medium=cpc&utm_content=events-trial&utm_source=capterra"
+            },
+            {
+              "product_id" : 141222,
+              "seo_product_id" : 141222,
+              "seo_slug" : "Blackboard-Collaborate",
+              "vendor_name" : "Blackboard",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/6160f224-4bd4-4259-a592-d35787f21b3f.png",
+              "rating" : 4.2,
+              "total_reviews" : 400,
+              "slug" : "Blackboard-Collaborate",
+              "product_name" : "Blackboard Collaborate",
+              "short_desc" : "Built for learning, our fully redesigned web conferencing solution allows employees to fulfill training requirements anywhere, anytime.",
+              "features" : "Focused on education and training, Blackboard Collaborate is designed for simplicity, accessibility and to support education and training workflows. Whether it's an online meeting, virtual group training, or connecting remote employees, our one-click virtual training solution offers a level of connection and engagement that makes learners forget that they're not in a physical space.",
+              "url" : "http://www.blackboard.com/online-collaborative-learning/information/collaborate-trial.aspx?utm_source=Capterra&utm_medium=referral&utm_campaign=ProEd_Collaborate"
+            },
+            {
+              "product_id" : 184117,
+              "seo_product_id" : 184117,
+              "seo_slug" : "Restream",
+              "vendor_name" : "Restream",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/6aebe666-9dee-46bd-9a56-072eb40bfd6c.png",
+              "rating" : 4.6,
+              "total_reviews" : 370,
+              "slug" : "Restream",
+              "product_name" : "Restream",
+              "short_desc" : "Restream is a professional web-based live streaming tool that lets you go live on multiple platforms, live YouTube, Facebook, and more.",
+              "features" : "Restream is an excellent live streaming tool for SMB that helps you deliver high-quality video to your audience. Easily broadcast professional webinars from your browser to multiple social platforms. Everything is customized to match your brand, engage with your audience with built-in live-chat, and drive action during your live streams. We have a community of over 5M streamers, using Restream to go live on Facebook, Youtube, Twitter, LinkedIn, and 30+ other platforms at the same time.",
+              "url" : "https://try.restream.io/saas-signup/?utm_medium=cpc&utm_campaign=webinar&utm_content=main_link"
+            },
+            {
+              "product_id" : 153937,
+              "seo_product_id" : 212180,
+              "seo_slug" : "Livestorm",
+              "vendor_name" : "Livestorm",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/27c8c6f9-a992-42bf-9981-850c12c31765.png",
+              "rating" : 4.7,
+              "total_reviews" : 367,
+              "slug" : "Livestorm",
+              "product_name" : "Livestorm",
+              "short_desc" : "Livestorm is a webinar solution tailored for companies of all sizes looking to host live training or demo webinars from a browser.",
+              "features" : "Livestorm is the webinar solution for all your customer training sessions and demo. Everything work inside a browser, in real-time, without any download. We take care of everything for you (landing page, analytics, recording, email automation, etc) so you don't have to focus on the technical stuff anymore. Companies of all sizes are already hosting webinars with Livestorm.",
+              "url" : "https://livestorm.co/webinar-software/?utm_medium=ppc&utm_campaign=cat-webinar"
+            },
+            {
+              "product_id" : 165878,
+              "seo_product_id" : 165878,
+              "seo_slug" : "Webinar-Jam",
+              "vendor_name" : "Genesis Digital",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/eccafdf3-62ab-455e-b9e8-473dbdb8c5c5.png",
+              "rating" : 3.9,
+              "total_reviews" : 254,
+              "slug" : "Webinar-Jam",
+              "product_name" : "WebinarJam",
+              "short_desc" : "The most powerful all-in-one webinar platform used by over 50,000 professionals across 40 different industries.",
+              "features" : "Increase your sales and attendance with the only webinar system that produces a complete live stream event from registration to replay. WebinarJam has more features, no downloads, and is the most dramatic improvement to Live Casting, Event Streaming, and Webinar Broadcasting ever released. Trusted by over 50,000 customers across 40 different industries.\n",
+              "url" : "https://gdsmk.krtra.com/t/xi2ZAjWbVGa4"
+            }
+          ],
+          "similar_products" : [
+            {
+              "product_id" : 163335,
+              "seo_product_id" : 222472,
+              "seo_slug" : "GoToWebinar",
+              "vendor_name" : "GoTo",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/84f70fe9-9c12-4d54-bcc6-4bb2cf3bdcfd.jpeg",
+              "rating" : 4.5,
+              "total_reviews" : 1544,
+              "slug" : "GoToWebinar",
+              "product_name" : "GoTo Webinar",
+              "short_desc" : "GoTo Webinar powers millions of webinars each year and is now part of GoTo Connect, all-in-one communications software built for SMBs.",
+              "features" : "GoTo Webinar is trusted by more customers than any other online webinar solution and powers millions of webinars each year. Whether you use webinars for marketing, training, or corporate communications, GoTo Webinar puts the fun back into webinars with reliable technology that's super simple to use. Get the features, integrations and analytics you need to engage your audience and make personal connections that drive your business.",
+              "url" : "https://www.goto.com/pricing/webinar?utm_source=capterra&utm_medium=review-sites&utm_campaign=default&campaignID=7014P0000016hxhQAA"
+            },
+            {
+              "product_id" : 167140,
+              "seo_product_id" : 226651,
+              "seo_slug" : "BigMarker",
+              "vendor_name" : "BigMarker",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/668c4830-084d-45de-b7bc-ef6d7e9e0937.png",
+              "rating" : 4.8,
+              "total_reviews" : 302,
+              "slug" : "BigMarker",
+              "product_name" : "BigMarker",
+              "short_desc" : "BigMarker is a fully customizable webinar platform that combines powerful video technology with robust interactive experiences.",
+              "features" : "BigMarker is the world's most customizable platform for webinars, virtual and hybrid events. We combine powerful video technology with robust marketing and interactive experience capabilities to create unique branded events.",
+              "url" : "https://get.bigmarker.com/lp/lp-ve-a2d5g9cap"
+            },
+            {
+              "product_id" : 121484,
+              "seo_product_id" : 239480,
+              "seo_slug" : "Kaltura-Video-Platform",
+              "vendor_name" : "Kaltura",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/b08d0b22-153f-4c11-9f3c-8f6ea6bdec42.png",
+              "rating" : 4.2,
+              "total_reviews" : 28,
+              "slug" : "Kaltura-Video-Platform",
+              "product_name" : "Kaltura Video Platform",
+              "short_desc" : "Kaltura is a powerful webinar platform that will help you create webinars your audience will love.",
+              "features" : "Kaltura Webinars provides an A-Z solution to create convenient, educational, and engaging experiences for your audience with minimal interruptions. With Kaltura Webinars, you'll be setting up, promoting, and running highly effective webinars in no time. The branding features and many customizable options will help you create the experience you want while keeping full control over who has access to your content.",
+              "url" : "https://corp.kaltura.com?utm_campaign=default_kaltura"
+            },
+            {
+              "product_id" : 151102,
+              "seo_product_id" : 225134,
+              "seo_slug" : "SpotMe",
+              "vendor_name" : "SpotMe",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/6fc88400-b050-469f-a171-a0eb66e38480.jpeg",
+              "rating" : 4.5,
+              "total_reviews" : 11,
+              "slug" : "SpotMe",
+              "product_name" : "SpotMe",
+              "short_desc" : "SpotMe is a webinar solution tailored for companies looking to host high-touch events.",
+              "features" : "SpotMe is a webinar engagement solution tailored for companies looking to host high-touch events. All event management, video production and app building tools are included, directly from your browser. The solution is suitable for simple webinars to sophisticated events with high production values. Forrester and G2 say SpotMe is a leader due to high engagement capabilities and deep customization and flexibility.",
+              "url" : "https://www.spotme.com/?utm_source=capterra&utm_medium=cpc"
+            },
+            {
+              "product_id" : 202121,
+              "seo_product_id" : 212498,
+              "seo_slug" : "Zoho-Meetings",
+              "vendor_name" : "Zoho",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/794cfbab-e927-4022-82ae-89db1520c051.png",
+              "rating" : 4.6,
+              "total_reviews" : 592,
+              "slug" : "Zoho-Meeting",
+              "product_name" : "Zoho Meeting",
+              "short_desc" : "A web conferencing solution that empowers you to host interactive online meeting, video conferencing and organize engaging webinars.",
+              "features" : "Zoho Meeting is a robust web conferencing solution built for online meeting and webinar needs. It is completely browser-based and attendees don't need to download any application to attend a meeting or webinar. Keep your meetings handy using the desktop plugin for Windows, Linux and Mac, iOS app, android app, Google Chrome extension, Firefox extension, embed widget and calendar integrations. Embed webinar registration, polls, Q&A, allow to talk, recording, in-depth analytics, etc",
+              "url" : "https://www.zoho.com/meeting/?utm_medium=cpc&utm_campaign=meeting"
+            },
+            {
+              "product_id" : 144596,
+              "seo_product_id" : 212036,
+              "seo_slug" : "Accelevents1",
+              "vendor_name" : "Accelevents",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/bf02b95b-ecfd-46cd-8c38-c13a0203a828.jpeg",
+              "rating" : 4.7,
+              "total_reviews" : 134,
+              "slug" : "Accelevents",
+              "product_name" : "Accelevents",
+              "short_desc" : "Accelevents is an all-in-one events platform that empowers you to expand your reach and drive sustainable growth.",
+              "features" : "Accelevents is an all-in-one event management platform for in-person, virtual & hybrid events. Built to save you time and frustration while delivering measurable results for your organization. \n\nAs a leading event technology platform, Accelevents is redefining the way brands connect with their audiences with a user-friendly yet robust set of customizable and interactive features. ",
+              "url" : "https://get.accelevents.com/get-demo-capterra?utm_source=Capterra&utm_medium=cpc&utm_campaign=CapterraAuction"
+            },
+            {
+              "product_id" : 200811,
+              "seo_product_id" : 234556,
+              "seo_slug" : "WebinarGeek",
+              "vendor_name" : "WebinarGeek",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/56749f4f-54e4-41a7-8317-a6a6d0ea52a2.png",
+              "rating" : 4.6,
+              "total_reviews" : 188,
+              "slug" : "WebinarGeek",
+              "product_name" : "WebinarGeek",
+              "short_desc" : "The interaction, marketing, and analytics tools of WebinarGeek make webinar marketing easy. Organize every kind of webinar with ease. ",
+              "features" : "WebinarGeek is the most complete webinar platform. Host successful webinars with interactions, assessments, and evaluations. Integrate your favorite marketing tools to get more out of your webinar. Create your own channel to share your webinars. All completely GDPR proof and for a great price. WebinarGeek is the most reliable and secure webinar platform for hosting your webinars, no download required.\n",
+              "url" : "https://www.webinargeek.com/"
+            },
+            {
+              "product_id" : 157063,
+              "seo_product_id" : 226636,
+              "seo_slug" : "ClickMeeting",
+              "vendor_name" : "ClickMeeting",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/6628e256-52e9-44eb-b9de-e37c7ac12ee0.png",
+              "rating" : 4.2,
+              "total_reviews" : 86,
+              "slug" : "ClickMeeting",
+              "product_name" : "ClickMeeting",
+              "short_desc" : "ClickMeeting is a browser-based webinar solution, brings the power of webinars to organizations of any size",
+              "features" : "ClickMeeting is a browser-based webinar solution, brings the power of webinars to organizations of any size, from one-person firms to multinational enterprises. The web-based solution is easy to use and covers the entire webinar process from preparation to presentation, and from interaction to follow-up. The software requires no installation and works on all devices and operating systems. ",
+              "url" : "https://clickmeeting.com?utm_source=capterra&utm_medium=cpc&utm_campaign=webinar_reviews&utm_content=webinar&utm_term=reviews"
+            },
+            {
+              "product_id" : 165878,
+              "seo_product_id" : 165878,
+              "seo_slug" : "Webinar-Jam",
+              "vendor_name" : "Genesis Digital",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/eccafdf3-62ab-455e-b9e8-473dbdb8c5c5.png",
+              "rating" : 3.9,
+              "total_reviews" : 254,
+              "slug" : "Webinar-Jam",
+              "product_name" : "WebinarJam",
+              "short_desc" : "The most powerful all-in-one webinar platform used by over 50,000 professionals across 40 different industries.",
+              "features" : "Increase your sales and attendance with the only webinar system that produces a complete live stream event from registration to replay. WebinarJam has more features, no downloads, and is the most dramatic improvement to Live Casting, Event Streaming, and Webinar Broadcasting ever released. Trusted by over 50,000 customers across 40 different industries.\n",
+              "url" : "https://gdsmk.krtra.com/t/p8rxAO9z06Xc"
+            },
+            {
+              "product_id" : 196795,
+              "seo_product_id" : 196795,
+              "seo_slug" : "Ecamm-Live",
+              "vendor_name" : "Ecamm Network",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/6e47c273-ae28-48e0-ad06-4a706a4fcc29.png",
+              "rating" : 4.9,
+              "total_reviews" : 164,
+              "slug" : "Ecamm-Live",
+              "product_name" : "Ecamm Live",
+              "short_desc" : "Ecamm Live is an all-in-one live video production\nplatform for Mac that allows anyone to create professional live streams and video.",
+              "features" : "Ecamm Live is an all-in-one live streaming & video production studio for Mac. With Ecamm Live, video creation is easy, professional, and fully customizable. If you can think it, you can create it in Ecamm Live.\n\nWith Ecamm Live you can quickly & easily create professional live stream broadcasts or pre-produced videos. Add logos, titles, lower thirds, and graphics, share your screen, drop in video clips, bring on interview guests, and so much more.\n\nThe possibilities are endless.\n",
+              "url" : "https://www.ecamm.com/mac/ecammlive?utm_source=capterra&utm_medium=cpc&utm_campaign=2022&utm_id=PPC"
+            },
+            {
+              "product_id" : 165411,
+              "seo_product_id" : 165411,
+              "seo_slug" : "Demio",
+              "vendor_name" : "Banzai",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/cfb3c415-89a6-477d-a636-10e549b41d5e.png",
+              "rating" : 4.8,
+              "total_reviews" : 221,
+              "slug" : "Demio",
+              "product_name" : "Demio",
+              "short_desc" : "Run engaging, ROI-driven webinars. Get started for free!",
+              "features" : "Demio is the easy way for revenue generating teams to drive ROI and engagement on virtual events.  Whether you are looking to Generate & Qualify Leads/Customers, Activate Users & Increase Trial Conversions, or Educate Customers & Reduce Churn, Demio is the perfect platform for you. Learn why Demio is trusted by some of the leading SaaS companies around the world.",
+              "url" : "https://demio.com?utm_medium=ppc&utm_campaign=directory&utm_content=main"
+            },
+            {
+              "product_id" : 158453,
+              "seo_product_id" : 226670,
+              "seo_slug" : "Onstream-Webinars",
+              "vendor_name" : "Onstream Media",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8a5bfd53-1a97-42d0-8267-e9a63c1a2475.png",
+              "rating" : 4.0,
+              "total_reviews" : 37,
+              "slug" : "Onstream-Meetings",
+              "product_name" : "Onstream Webinars",
+              "short_desc" : "Onstream Media's webinar platform provides an interactive tools perfect for communicating, interacting and sharing information.",
+              "features" : "Onstream Media's webinar platform comes equip with all the tools you need to host a successful webinar! Onstream puts you in control of the entire process ? simply and cost effectively. Send invitations, collect registrations, email reminders, record the session and distributing follow-up communications all in one solution.",
+              "url" : "https://try.onstreammedia.com/"
+            },
+            {
+              "product_id" : 186997,
+              "seo_product_id" : 186997,
+              "seo_slug" : "Webinars",
+              "vendor_name" : "TwentyThree",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8a154a67-c428-4292-b7d9-8e92f9c3d43b.png",
+              "rating" : 4.7,
+              "total_reviews" : 11,
+              "slug" : "Webinars",
+              "product_name" : "TwentyThree Webinars",
+              "short_desc" : "Just One Tool to Run Webinars. Bring landing pages, emails, production, and on-demand videos into a single tool.\r\n\r\n",
+              "features" : "Just One Tool to Run Webinars. Bring landing pages, emails, production, and on-demand videos into a single tool. Full reports on visits, conversions, attendees, and leads, fully integrated into your marketing tech stack. Split live webinar and on-demand data to see the real results. Boost engagement and show-up rates by letting speakers and audience join webinars directly from their browser, on any device.",
+              "url" : "https://www.twentythree.net/webinar-tool/?utm_source=capterra&utm_medium=cpc&utm_campaign=gartner-reviews"
+            }
+          ],
+          "related_categories" : [
+            {
+              "functional_group" : "webinar",
+              "long_name" : "Collaboration",
+              "html_name" : "collaboration-software",
+              "link_name" : "collaboration",
+              "product_count" : 306,
+              "meta_description" : "Find and compare top Collaboration software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Collaboration tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs.",
+              "description" : "<a href=\"/collaboration-software/\">Collaboration software</a> enables the sharing of information by providing an online or intranet-based environment for virtual teamwork.  These applications allow for greater efficiency in managing document libraries and versions, projects in progress, report editing, threaded discussions, calendar sharing, knowledge base search, workflow and task management. Collaboration solutions often feature integration for a variety of real-time communications tools including:  video or voice conferencing, email and instant messaging.  <a href=\"/collaboration-software/\">Collaboration software</a> is related to <a href=\"/project-management-software\">Project Management software</a> and <a href=\"/web-conferencing-software\">Web Conferencing software</a>."
+            },
+            {
+              "functional_group" : "webinar",
+              "long_name" : "Live Streaming",
+              "html_name" : "live-streaming-software",
+              "link_name" : "live-streaming",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Live Streaming software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Live Streaming tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "Live Streaming software allows organizations to broadcast live event feeds over the internet and engage with their target audience."
+            },
+            {
+              "functional_group" : "webinar",
+              "long_name" : "Meeting",
+              "html_name" : "meeting-software",
+              "link_name" : "meeting",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Meeting software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Meeting tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "Meeting software enables teams to coordinate, schedule, conduct, and participate in collaborative meetings. "
+            },
+            {
+              "functional_group" : "webinar",
+              "long_name" : "Presentation",
+              "html_name" : "presentation-software",
+              "link_name" : "presentation",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Presentation software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Presentation tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "Presentation software helps ministers, salespeople, marketing employees, and other professionals with creating and conducting presentations."
+            },
+            {
+              "functional_group" : "webinar",
+              "long_name" : "Remote Work",
+              "html_name" : "remote-work-software",
+              "link_name" : "remote-work",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Remote Work software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Remote Work tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "Remote Work software includes a combination of different types of solutions needed for professionals to be efficient and effective in their role from outside a fixed office space. Collaboration and team communication are vital for productive and successful remote work professionals.  Remote Work consists of software like, Softphone, Live Chat, Web Conferencing, Collaboration, Project Management, Remote Support and more. "
+            },
+            {
+              "functional_group" : "webinar",
+              "long_name" : "Training",
+              "html_name" : "training-software",
+              "link_name" : "training",
+              "product_count" : 209,
+              "meta_description" : "Find and compare top Training software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Training tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/training-software>Training software</a>, also known as eLearning or Computer-Based Training (CBT) software, automates educational activities for students and/or corporate employees. Training solutions are often customizable based on the needs of specific organizations and include capabilities such as course registration and testing, certification tracking, conferencing, skills tracking, and reporting. Training applications may provide the framework for presenting classes, as well as an ecommerce functions, to allow for payments. <a href=/training-software>Training software</a> is related to <a href=\"/courseware-software\">Courseware</a> and <a href=\"/learning-management-system-software\">Learning Management Systems (LMS)</a>."
+            },
+            {
+              "functional_group" : "webinar",
+              "long_name" : "Web Conferencing",
+              "html_name" : "web-conferencing-software",
+              "link_name" : "web-conferencing",
+              "product_count" : 126,
+              "meta_description" : "Find and compare top Web Conferencing software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Web Conferencing tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs.",
+              "description" : "<a href=\"/web-conferencing-software\">Web Conferencing software</a> enables organizations to conduct interactive conferences and meetings online. Typical features include: two-way audio, video conferencing, application sharing, presentation streaming, presence/availability detection and electronic hand raising. Web Conferencing applications also often feature instant messaging, presence and <a href=\"/contact-management-software\">contact management</a> features.  <a href=\"/web-conferencing-software\">Web Conferencing software</a> is related to <a href=\"/web-collaboration-software\">Web Collaboration software</a>."
+            }
+          ],
+          "is_upgraded" : false,
+          "enabled" : true,
+          "filter_options" : {
+            "users" : 127,
+            "platform" : 391,
+            "pricing_options" : 25,
+            "category_related_features" : [
+              26021,
+              26022,
+              26023,
+              26024,
+              26025,
+              26026,
+              26027,
+              26028,
+              26029,
+              26030,
+              26041,
+              29432,
+              29433,
+              64438,
+              64453,
+              64454,
+              64457,
+              64458,
+              64462
+            ],
+            "employees" : 127
+          },
+          "sort_options" : {
+            "sort_review_rating" : 4.535987377166748,
+            "most_recent_review" : "2022-07-19T16:01:18Z"
+          },
+          "countries" : "UK,AE,ZA,SG,PH,NZ,NL,MX,IT,IE,IN,DE,FR,US,CA,AU",
+          "features_tokenized_text" : "alerts/notifications customizable_branding event_management live_chat multi_hosts on-demand_webinars polls/voting q&a_management reporting/analytics screen_sharing social_promotion",
+          "platform_tokenized_text" : "cloud,saas,web-based desktopmac desktopwindows mobileandroid mobileiphone",
+          "users_tokenized_text" : "1 2-10 11-50 51-200 201-500 501-1000 1000+",
+          "pricing_tokenized_text" : "one-timelicense free freetrial",
+          "badges" : [ ],
+          "bid_spot_us" : 0.0,
+          "currency_code" : "USD",
+          "currency_symbol" : "$",
+          "credit_card_required" : "Unverified",
+          "licensing_model" : null,
+          "open_api_offered" : "Unverified",
+          "mobile_urls" : [ ],
+          "integrations" : [ ],
+          "supported_countries" : [
+            {
+              "id" : 14,
+              "code" : "AU",
+              "name" : "Australia"
+            },
+            {
+              "id" : 32,
+              "code" : "BR",
+              "name" : "Brazil"
+            },
+            {
+              "id" : 237,
+              "code" : "US",
+              "name" : "United States of America"
+            },
+            {
+              "id" : 235,
+              "code" : "GB",
+              "name" : "United Kingdom of Great Britain and Northern Ireland"
+            },
+            {
+              "id" : 41,
+              "code" : "CA",
+              "name" : "Canada"
+            },
+            {
+              "id" : 46,
+              "code" : "CN",
+              "name" : "China"
+            },
+            {
+              "id" : 104,
+              "code" : "IN",
+              "name" : "India"
+            },
+            {
+              "id" : 113,
+              "code" : "JP",
+              "name" : "Japan"
+            },
+            {
+              "id" : 84,
+              "code" : "DE",
+              "name" : "Germany"
+            },
+            {
+              "id" : 144,
+              "code" : "MX",
+              "name" : "Mexico"
+            },
+            {
+              "id" : 108,
+              "code" : "IE",
+              "name" : "Ireland"
+            },
+            {
+              "id" : 234,
+              "code" : "AE",
+              "name" : "United Arab Emirates"
+            },
+            {
+              "id" : 111,
+              "code" : "IT",
+              "name" : "Italy"
+            },
+            {
+              "id" : 77,
+              "code" : "FR",
+              "name" : "France"
+            },
+            {
+              "id" : 201,
+              "code" : "SG",
+              "name" : "Singapore"
+            },
+            {
+              "id" : 159,
+              "code" : "NZ",
+              "name" : "New Zealand"
+            },
+            {
+              "id" : 176,
+              "code" : "PH",
+              "name" : "Philippines"
+            },
+            {
+              "id" : 207,
+              "code" : "ZA",
+              "name" : "South Africa"
+            },
+            {
+              "id" : 157,
+              "code" : "NL",
+              "name" : "Netherlands"
+            }
+          ],
+          "supported_languages" : [
+            {
+              "id" : 152,
+              "code" : "en",
+              "name" : "English",
+              "location" : null
+            }
+          ],
+          "target_industries" : [
+            {
+              "id" : 78,
+              "code" : "116",
+              "name" : "Logistics and Supply Chain"
+            },
+            {
+              "id" : 35,
+              "code" : "132",
+              "name" : "E-Learning"
+            },
+            {
+              "id" : 98,
+              "code" : "57",
+              "name" : "Oil & Energy"
+            },
+            {
+              "id" : 126,
+              "code" : "27",
+              "name" : "Retail"
+            },
+            {
+              "id" : 86,
+              "code" : "126",
+              "name" : "Media Production"
+            },
+            {
+              "id" : 52,
+              "code" : "75",
+              "name" : "Government Administration"
+            },
+            {
+              "id" : 132,
+              "code" : "104",
+              "name" : "Staffing and Recruiting"
+            },
+            {
+              "id" : 26,
+              "code" : "48",
+              "name" : "Construction"
+            },
+            {
+              "id" : 57,
+              "code" : "14",
+              "name" : "Hospital & Health Care"
+            },
+            {
+              "id" : 140,
+              "code" : "59",
+              "name" : "Utilities"
+            },
+            {
+              "id" : 42,
+              "code" : "63",
+              "name" : "Farming"
+            },
+            {
+              "id" : 9,
+              "code" : "53",
+              "name" : "Automotive"
+            },
+            {
+              "id" : 46,
+              "code" : "34",
+              "name" : "Food & Beverages"
+            },
+            {
+              "id" : 97,
+              "code" : "100",
+              "name" : "Non-Profit Organization Management"
+            },
+            {
+              "id" : 74,
+              "code" : "10",
+              "name" : "Legal Services"
+            },
+            {
+              "id" : 134,
+              "code" : "8",
+              "name" : "Telecommunications"
+            },
+            {
+              "id" : 84,
+              "code" : "80",
+              "name" : "Marketing and Advertising"
+            },
+            {
+              "id" : 41,
+              "code" : "122",
+              "name" : "Facilities Services"
+            },
+            {
+              "id" : 1,
+              "code" : "47",
+              "name" : "Accounting"
+            },
+            {
+              "id" : 58,
+              "code" : "31",
+              "name" : "Hospitality"
+            },
+            {
+              "id" : 105,
+              "code" : "15",
+              "name" : "Pharmaceuticals"
+            },
+            {
+              "id" : 65,
+              "code" : "42",
+              "name" : "Insurance"
+            },
+            {
+              "id" : 81,
+              "code" : "11",
+              "name" : "Management Consulting"
+            },
+            {
+              "id" : 59,
+              "code" : "137",
+              "name" : "Human Resources"
+            },
+            {
+              "id" : 120,
+              "code" : "44",
+              "name" : "Real Estate"
+            },
+            {
+              "id" : 139,
+              "code" : "92",
+              "name" : "Transportation/Trucking/Railroad"
+            },
+            {
+              "id" : 62,
+              "code" : "147",
+              "name" : "Industrial Automation"
+            },
+            {
+              "id" : 11,
+              "code" : "41",
+              "name" : "Banking"
+            },
+            {
+              "id" : 25,
+              "code" : "4",
+              "name" : "Computer Software"
+            },
+            {
+              "id" : 85,
+              "code" : "135",
+              "name" : "Mechanical or Industrial Engineering"
+            },
+            {
+              "id" : 144,
+              "code" : "133",
+              "name" : "Wholesale"
+            }
+          ],
+          "price_range_id" : 1,
+          "aggregated_review_ratings" : {
+            "industry" : {
+              "11" : 4.5,
+              "53" : 5.0,
+              "12" : 5.0,
+              "6" : 4.8,
+              "88" : 5.0,
+              "145" : 4.0,
+              "118" : 5.0,
+              "96" : 4.5,
+              "51" : 4.0,
+              "4" : 4.2,
+              "132" : 5.0,
+              "133" : 4.0,
+              "84" : 5.0,
+              "124" : 4.0,
+              "89" : 4.0,
+              "10" : 5.0,
+              "14" : 5.0,
+              "69" : 4.0,
+              "47" : 4.0,
+              "9" : 4.0,
+              "136" : 3.0,
+              "116" : 4.0,
+              "111" : 5.0,
+              "43" : 5.0,
+              "57" : 4.5,
+              "75" : 4.0,
+              "80" : 5.0,
+              "134" : 5.0,
+              "8" : 4.5
+            },
+            "company_size" : {
+              "10,001+ employees" : 5.0,
+              "Self-employed" : 4.5,
+              "11-50 employees" : 4.71,
+              "501-1000 employees" : 5.0,
+              "1-10 employees" : 4.56,
+              "201-500 employees" : 4.43,
+              "51-200 employees" : 4.0,
+              "1001-5000 employees" : 4.2
+            }
+          },
+          "vct_enabled" : true,
+          "pricing_plans" : [
+            {
+              "created_on_utc" : "2019-08-21T14:47:39Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Business Hangouts",
+              "description" : "The plan starts at $29.",
+              "display_order" : 1,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 29.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : "One Time",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "Anonymized Chat"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "Charge for Webinars"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Customizable Event Signup Pages & Emails"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "Google Suite & Calendar Integration"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 5,
+                  "name" : "Multiple Login Options"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 6,
+                  "name" : "Record Event 60 Fps With Unlimited Storage"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 7,
+                  "name" : "Supports up to 5000 Participants"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 8,
+                  "name" : "Webinars + Web Conferencing Included"
+                }
+              ]
+            }
+          ],
+          "discount_types" : [ ]
+        }
+      }
+    ]
+  }
+}

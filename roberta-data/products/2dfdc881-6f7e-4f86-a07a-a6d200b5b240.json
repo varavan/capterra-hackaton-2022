@@ -1,0 +1,3152 @@
+{
+  "took" : 7,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 3,
+    "successful" : 3,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : {
+      "value" : 3,
+      "relation" : "eq"
+    },
+    "max_score" : 11.382424,
+    "hits" : [
+      {
+        "_index" : "product_listings_main_data_upc_vt20220920_043802_utc",
+        "_type" : "_doc",
+        "_id" : "23130_pestcont",
+        "_score" : 11.382424,
+        "_source" : {
+          "product_id" : 23130,
+          "seo_product_id" : 23130,
+          "seo_slug" : "PestPac",
+          "product_name" : "PestPac",
+          "upc_product_uuid" : "2dfdc881-6f7e-4f86-a07a-a6d200b5b240",
+          "old_product_ids" : [
+            212178,
+            225828
+          ],
+          "product_url" : "https://www.pestpac.com/?utm_source=cap&utm_medium=dir&utm_campaign=pp_pestcontrol",
+          "product_slug" : "PestPac",
+          "former_name" : "PestPac",
+          "logo_filepath" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/f0a37192-715d-4af6-8091-cb6bc78d4ce9.png",
+          "vendor" : {
+            "vendor_id" : 2009183,
+            "vendor_name" : "WorkWave",
+            "vendor_url" : "http://www.WorkWave.com",
+            "year_founded" : 1984,
+            "location" : "United States",
+            "vendor_opted_out_of_reviews" : true,
+            "is_opted_out_of_reviews" : false,
+            "is_hit_limit" : false,
+            "enabled" : true,
+            "has_vendor_level_page" : false,
+            "slug" : null,
+            "vendor_page" : false,
+            "paused_campaign" : false
+          },
+          "category_short_name" : "pestcont",
+          "category_html_name" : "pest-control-software",
+          "category" : {
+            "id" : 30592,
+            "short_name" : "pestcont",
+            "long_name" : "Pest Control",
+            "html_name" : "pest-control-software",
+            "enabled" : true
+          },
+          "best_category" : "pestcont",
+          "is_best_category" : true,
+          "highest_cpc_category" : "pestcont",
+          "is_highest_cpc_category" : true,
+          "short_desc" : "WorkWave PestPac is built to improve all facets of your pest control business. Grow your profits. Easily manage your entire business.",
+          "long_desc" : "PestPac by WorkWave is the one true pest control software, providing robust, innovative features and empowering pest control operators to grow their business, service their customers and maximize their money. As a true all-in-one solution, PestPac enables users to reduce paperwork, operate more efficiently, generate leads, close more sales and keep customers. With 40 years of experience, PestPac offers unique expertise in developing solutions built specifically for pest control operators.",
+          "rating" : 3.9,
+          "number_of_reviews" : 165,
+          "total_reviews" : 226,
+          "ease_of_use_rating" : 3.6,
+          "customer_support_rating" : 3.9,
+          "functionality_rating" : 3.9,
+          "value_for_money_rating" : 3.8,
+          "recommendation_rating" : 7.4,
+          "pricing_enabled" : false,
+          "pricing" : null,
+          "is_per_user" : false,
+          "fee_schedule" : null,
+          "pricing_model" : null,
+          "pricing_details" : null,
+          "pricing_created_on" : "2019-08-21T14:47:39Z",
+          "pricing_modified_on" : "2022-04-11T20:39:17Z",
+          "pricing_created_by" : null,
+          "pricing_modified_by" : null,
+          "pricing_vendor_pricing_url" : null,
+          "free_trial" : false,
+          "free_version" : false,
+          "target_audience" : "Residential and commercial small to enterprise-level pest control companies.",
+          "target_users" : [
+            "1",
+            "2-10",
+            "11-50",
+            "51-200",
+            "201-500",
+            "501-1000",
+            "1000+"
+          ],
+          "platform" : [
+            {
+              "enabled" : true,
+              "name" : "Cloud, SaaS, Web-Based"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Mac"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Chromebook"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile Android"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPhone"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPad"
+            }
+          ],
+          "support" : [
+            {
+              "enabled" : true,
+              "name" : "Email Help Desk"
+            },
+            {
+              "enabled" : true,
+              "name" : "FAQ Forum"
+            },
+            {
+              "enabled" : true,
+              "name" : "Knowledgebase"
+            },
+            {
+              "enabled" : true,
+              "name" : "Phone Support"
+            },
+            {
+              "enabled" : false,
+              "name" : "24/7 Live Rep"
+            },
+            {
+              "enabled" : true,
+              "name" : "Chat"
+            }
+          ],
+          "training" : [
+            {
+              "enabled" : false,
+              "name" : "Not Offered"
+            },
+            {
+              "enabled" : true,
+              "name" : "In-Person"
+            },
+            {
+              "enabled" : true,
+              "name" : "Live Online"
+            },
+            {
+              "enabled" : true,
+              "name" : "Webinars"
+            },
+            {
+              "enabled" : true,
+              "name" : "Documentation"
+            },
+            {
+              "enabled" : true,
+              "name" : "Videos"
+            }
+          ],
+          "media" : [
+            {
+              "product_id" : 23130,
+              "vendor_id" : 2009183,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/7356d5aa-c368-4434-82a6-d98fb7f4a936.png",
+              "caption" : null,
+              "weight" : 1,
+              "short_name" : "pestcont"
+            },
+            {
+              "product_id" : 23130,
+              "vendor_id" : 2009183,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/361286b7-7a70-49a5-98d7-7231ef967566.png",
+              "caption" : null,
+              "weight" : 2,
+              "short_name" : "pestcont"
+            },
+            {
+              "product_id" : 23130,
+              "vendor_id" : 2009183,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/adc8d2a2-fb7a-4c77-99c8-3762762a5a19.png",
+              "caption" : null,
+              "weight" : 3,
+              "short_name" : "pestcont"
+            },
+            {
+              "product_id" : 23130,
+              "vendor_id" : 2009183,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/8e2af6d2-9078-42bf-bee9-144dcfc43a46.png",
+              "caption" : null,
+              "weight" : 4,
+              "short_name" : "pestcont"
+            },
+            {
+              "product_id" : 23130,
+              "vendor_id" : 2009183,
+              "media_type" : "VIDEO",
+              "path_url" : "https://workwave.wistia.com/medias/z6e01n2dzc",
+              "caption" : null,
+              "weight" : 0,
+              "short_name" : "pestcont"
+            }
+          ],
+          "links" : [
+            {
+              "product_id" : 23130,
+              "functional_group" : "pestcont",
+              "html_code" : "https://www.pestpac.com/contact-us/?utm_source=cap&utm_medium=dir&utm_campaign=pppestcontrol",
+              "link_name" : "Book a Demo",
+              "link_priority" : 4.0
+            }
+          ],
+          "features" : [
+            {
+              "category_name" : "Pest Control",
+              "category_features" : [
+                {
+                  "name" : "Billing & Invoicing",
+                  "value" : true,
+                  "id" : "b9829f5b-1e19-49e7-b343-c2286973de15",
+                  "avg_rating" : 3.4,
+                  "cnt_rating" : 7,
+                  "avg_importance" : 2.6,
+                  "cnt_importance" : 5,
+                  "cnt_time_used" : 5,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 5,
+                  "pct_time_critical" : 0.6,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Create and manage monetary interactions between parties (ie. bills and invoices)"
+                },
+                {
+                  "name" : "Customer History",
+                  "value" : true,
+                  "id" : "92fd4ddf-0024-4cdf-a2a9-032640280ecf",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Manage relationships with customers and address customer concerns while tracking previous interactions"
+                },
+                {
+                  "name" : "Dispatch Management",
+                  "value" : true,
+                  "id" : "81deed45-5410-49ab-b293-36fe67fd13a8",
+                  "avg_rating" : 1.8,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 1.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Manage sending personnel and resources to a site as needed"
+                },
+                {
+                  "name" : "Fleet Management",
+                  "value" : true,
+                  "id" : "b7e2f3e9-9e74-41dc-990a-f453d790e4f7",
+                  "avg_rating" : 1.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Management of commercial motor vehicles for work-related purposes"
+                },
+                {
+                  "name" : "Mobile Access",
+                  "value" : true,
+                  "id" : "15d49235-ad13-4d33-b009-edd50126375b",
+                  "avg_rating" : 3.5,
+                  "cnt_rating" : 8,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 4,
+                  "cnt_time_used" : 4,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 4,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : "Access the software remotely via mobile devices"
+                },
+                {
+                  "name" : "Pest Activity Tracking",
+                  "value" : true,
+                  "id" : "5a3542e7-2bb1-44e1-8481-d9b38656d479",
+                  "avg_rating" : 2.5,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 2.67,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.667,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Manage inventory based on different requirements of individual work orders"
+                },
+                {
+                  "name" : "Pesticide Usage Tracking",
+                  "value" : true,
+                  "id" : "25a38705-4348-4392-818a-5bdf3d56aae8",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Track the amount of pesticide inventory used on jobs"
+                },
+                {
+                  "name" : "Property Layouts",
+                  "value" : true,
+                  "id" : "3b30b6e2-0c0f-42cb-9c6d-963f42785c81",
+                  "avg_rating" : 1.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Analyze floor plans to generate workflow "
+                },
+                {
+                  "name" : "Quotes/Estimates",
+                  "value" : true,
+                  "id" : "96125292-fba0-4c4b-b429-6afba9eccf8c",
+                  "avg_rating" : 2.0,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Generate quotes and estimates forms to send to customers"
+                },
+                {
+                  "name" : "Routing",
+                  "value" : true,
+                  "id" : "2edeff5e-4a6d-49f6-aeb7-a79de1cda540",
+                  "avg_rating" : 2.7,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Provide directions and plan the day's work to optimize employee scheduling"
+                },
+                {
+                  "name" : "Scheduling",
+                  "value" : true,
+                  "id" : "0cc5cde1-b9c8-4aaf-9a3b-67ed2aafe507",
+                  "avg_rating" : 3.2,
+                  "cnt_rating" : 9,
+                  "avg_importance" : 2.8,
+                  "cnt_importance" : 5,
+                  "cnt_time_used" : 5,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 5,
+                  "pct_time_critical" : 0.8,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Plan availability and assign specific time slots for tasks and resources"
+                }
+              ]
+            }
+          ],
+          "infographics" : [
+            {
+              "product_id" : 23130,
+              "html_name" : "pest-control-software",
+              "infographic_type" : "short_list",
+              "infographic_title" : null
+            }
+          ],
+          "related_products" : [
+            {
+              "product_id" : 140363,
+              "seo_product_id" : 212387,
+              "seo_slug" : "Housecall-Pro",
+              "vendor_name" : "Housecall Pro",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e5acd859-9814-442f-91f2-01e124d15963.png",
+              "rating" : 4.7,
+              "total_reviews" : 2620,
+              "slug" : "HouseCall-Pro",
+              "product_name" : "Housecall Pro",
+              "short_desc" : "Housecall Pro is a top-rated business solution for home service professionals to streamline scheduling, dispatching, payments, & more.",
+              "features" : "Call now to get up to 80% off your first month: 855-921-4757.\n\nHousecall Pro is a top-rated, all-in-one business solution that helps home service professionals work simpler and grow smarter. With easy-to-use digital tools for scheduling and dispatching jobs, managing payments, automating marketing efforts, and more, Housecall Pro helps Pros efficiently manage every aspect of their business all in one place.\n",
+              "url" : "https://www.housecallpro.com/get-started/?utm_source=gartner&utm_medium=paid-external-page&utm_campaign=field-service-management&mc=capterra&msc=back-to-school-promo-3q-2022"
+            },
+            {
+              "product_id" : 77264,
+              "seo_product_id" : 77264,
+              "seo_slug" : "mHelpDesk",
+              "vendor_name" : "mHelpDesk",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/273c54aa-4d75-41b9-9914-e2c0a26baa2c.png",
+              "rating" : 4.3,
+              "total_reviews" : 801,
+              "slug" : "mHelpDesk",
+              "product_name" : "mHelpDesk",
+              "short_desc" : "The fastest, easiest, and highest value service management software to automate everything from first customer contact to getting paid.",
+              "features" : "mHelpDesk is the #1 easiest and most powerful software solution for your field service business, automating everything from first customer contact all the way to getting paid. We provide our customers with mobile and online tools that are unmatched in performance, reliability, and functionality. We've packed the best tools into one extremely easy-to-use and affordable package that requires no big upfront investment. And we have in-house product experts to get you up and running immediately.",
+              "url" : "https://www.mhelpdesk.com/request-demo/?utm_medium=cpc&utm_campaign=field-service"
+            },
+            {
+              "product_id" : 127994,
+              "seo_product_id" : 226766,
+              "seo_slug" : "Jobber",
+              "vendor_name" : "Jobber Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8f70afa2-9658-46e3-9871-9c90ef679553.png",
+              "rating" : 4.5,
+              "total_reviews" : 603,
+              "slug" : "Jobber",
+              "product_name" : "Jobber",
+              "short_desc" : "Operations got a bug in the gears? Try Jobber for Free & take your pest control business to the next level w/ tracking & automation!",
+              "features" : "Looking for field management software that really works? Try Jobber for FREE & take advantage of automatic payment reminders, team tracking, & text quotes or invoices. Oversee your crews, take instant in-person payments or 24-hour online order processing, and enjoy easy setup with Jobber. 5-Star service to grow your business. Get today's FREE trial. You'll squash the competition like a bug.\n",
+              "url" : "https://getjobber.com/dlp/pest-control-software/?utm_medium=cpc&utm_campaign=pest_control&utm_content=visit_website_button"
+            },
+            {
+              "product_id" : 122541,
+              "seo_product_id" : 232369,
+              "seo_slug" : "Kickserv",
+              "vendor_name" : "KickServ",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d1e7d608-d772-44d5-beb5-cb794d0b7851.png",
+              "rating" : 4.4,
+              "total_reviews" : 332,
+              "slug" : "Kickserv",
+              "product_name" : "Kickserv",
+              "short_desc" : "Easy to use & implement field service software automating your mobile work force.  Manage Leads, Estimates, Jobs & Invoices. Sync to QB",
+              "features" : "TRUSTED BY PEST CONTROL PROFESSIONALS. #1 Most user-friendly & most affordable software for local service companies with 1-25 employees. Complete job management: scheduling, leads management, estimates, running complete jobs from the field, invoices, payments & more! Fully integrated with Quickbooks. We are also one of the most proven platforms available to simplify and manage your service business. Trusted by 1000s of service businesses for over 20 years. Plans starting as low as $39/month.",
+              "url" : "https://app.kickserv.com/app/signup?utm_source=capterra&utm_medium=main&utm_campaign=kickserv"
+            },
+            {
+              "product_id" : 110711,
+              "seo_product_id" : 225549,
+              "seo_slug" : "ServiceM8",
+              "vendor_name" : "ServiceM8",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/844c0615-3f41-42f1-8b37-359ecd3da4a0.png",
+              "rating" : 4.7,
+              "total_reviews" : 291,
+              "slug" : "ServiceM8",
+              "product_name" : "ServiceM8",
+              "short_desc" : "The app for pest control. Schedule jobs, create quotes and invoices, complete pest inspections and even take credit card payments.",
+              "features" : "Great for Pest Control businesses with less than 30 staff. Powerful management of estimates, scheduling, invoicing, maintenance schedules, pest inspection reports, customers, reporting & much more. Cut admin time dramatically by sending invoices directly into your accounting package. ServiceM8 is revolutionizing small businesses around the world, we guarantee you'll be booking more work within 3 months. Try ServiceM8 free today.",
+              "url" : "https://www.servicem8.com/industries/pest-control-software?utm_source=Capterra_Pest_Control"
+            },
+            {
+              "product_id" : 149343,
+              "seo_product_id" : 62749,
+              "seo_slug" : "Smart-Service",
+              "vendor_name" : "My Service Depot",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/16ffe04a-6d34-4036-be20-2fe628cd39dc.png",
+              "rating" : 4.3,
+              "total_reviews" : 260,
+              "slug" : "Smart-Service",
+              "product_name" : "Smart Service",
+              "short_desc" : "Add scheduling, billing, work orders, customer management, and more to QuickBooks with Smart Service, the best pest control software.",
+              "features" : "Already using QuickBooks to manage your pest control accounting? Kick things up a notch with Smart Service, the direct QuickBooks add-on that tackles scheduling, billing, dispatch, customer management, work orders, chemical tracking, and more. Replace your clipboards and filing cabinets with an easy-to-use, 100% paperless, 100% mobile software system that will streamline your operations, eliminate waste, boost revenue, and ultimately grow your business.",
+              "url" : "https://www.smartservice.com/pest-control-software-landing/"
+            },
+            {
+              "product_id" : 130290,
+              "seo_product_id" : 212246,
+              "seo_slug" : "GorillaDesk",
+              "vendor_name" : "GorillaDesk",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/dfbab8c0-6f46-48de-bf2d-a6ed52bd7548.png",
+              "rating" : 4.8,
+              "total_reviews" : 249,
+              "slug" : "GorillaDesk",
+              "product_name" : "GorillaDesk",
+              "short_desc" : "Need Pest Control Software? Try GorillaDesk for FREE. Get all our amazing features & top-rated support, with no credit card required.",
+              "features" : "We're here for you and your Pest Control Company every step of the way. Whether your biggest challenge is scheduling jobs, invoicing customers, collecting payments, or something totally different, our Pest Control Software can help you get there. Create the business and life you want today. Get started with a FREE 14-day trial of GorillaDesk!",
+              "url" : "https://gorilladesk.com/pest-control-gd/?utm_medium=cpc&utm_campaign=pest-control&"
+            },
+            {
+              "product_id" : 150053,
+              "seo_product_id" : 220441,
+              "seo_slug" : "ServiceTitan",
+              "vendor_name" : "ServiceTitan",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/341f924d-664f-4110-8f29-7e2a151565f5.png",
+              "rating" : 4.4,
+              "total_reviews" : 190,
+              "slug" : "ServiceTitan",
+              "product_name" : "ServiceTitan",
+              "short_desc" : "ServiceTitan is the leading business software that's changing the way pest control companies do business.",
+              "features" : "ServiceTitan is the leading all-in-one software solution for residential and commercial pest control businesses. With powerful tools that improve sales, supercharge your team, and provide real-time insights, ServiceTitan is trusted by more than 100,000 service professionals and by the world's best companies. Get a customized demo to see how ServiceTitan can help YOUR business grow.",
+              "url" : "https://www.servicetitan.com/go/pest-control-service-software?utm_source=capterra&utm_medium=review_sites&utm_term=pest_control&capterra_source=capterra"
+            },
+            {
+              "product_id" : 157329,
+              "seo_product_id" : 212362,
+              "seo_slug" : "Sales-Rabbit",
+              "vendor_name" : "Sales Rabbit",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/dea15056-10ef-4357-80c1-91ee5d393631.png",
+              "rating" : 4.2,
+              "total_reviews" : 181,
+              "slug" : "Sales-Rabbit",
+              "product_name" : "SalesRabbit",
+              "short_desc" : "The only choice for comprehensive sales enablement.",
+              "features" : "SalesRabbit's game-changing methodology is based on research they've done with sales pros and the top teams in the industry. It targets the main traction points of every successful organization: rep motivation, team efficiency, and sales mastery. The app is built to help your company make changes that enable peak performance at every door. Their dedicated CSMs and support staff work with you to implement these strategies, ensuring you get the results every door-to-door company hopes for.\r\n",
+              "url" : "https://salesrabbit.com/landing/promo/sales-app-11/?utm_source=capterrra&utm_medium=paid_search&utm_campaign=software-review&utm_content=home-page-pestcontrol"
+            },
+            {
+              "product_id" : 25008,
+              "seo_product_id" : 25008,
+              "seo_slug" : "ServSuite",
+              "vendor_name" : "FieldRoutes",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/9fe26237-c5b7-4d46-bab7-d6c559dd27fa.png",
+              "rating" : 4.2,
+              "total_reviews" : 137,
+              "slug" : "ServSuite",
+              "product_name" : "ServSuite",
+              "short_desc" : "ServSuite Pest Control Software is an all-in-one solution to manage and grow your business, with over 20 years of experience.",
+              "features" : "Manage and grow your Pest Control business with ServSuite Pest Control Software, trusted by over 50,000 users.  ServSuite provides various tools to improve the way you do business including Scheduling, Billing, Renewals, Invoicing, Commissions, Collections, Credit Card Processing, as well as features that automate business and create a paperless environment like ServSuite Mobile Application, GPS Vehicle Tracking, Voice and Text Notifications, Print to Mail services, and More.  ",
+              "url" : "https://www.servicepro.com/pest-control-software-capterra/"
+            }
+          ],
+          "similar_products" : [
+            {
+              "product_id" : 146076,
+              "seo_product_id" : 212177,
+              "seo_slug" : "PestRoutes",
+              "vendor_name" : "FieldRoutes",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/ccd24df2-c08d-4ab0-b4d4-dea472ff53cc.png",
+              "rating" : 4.4,
+              "total_reviews" : 101,
+              "slug" : "FieldRoutes",
+              "product_name" : "FieldRoutes",
+              "short_desc" : "Earn more business, simplify operations, get paid promptly & track your results in real-time with FieldRoutes pest control software.",
+              "features" : "Run a lean, mean, pest-fighting machine with commercial, residential, and multi-unit operations software and integrated marketing solutions that make life easier for your employees and customers alike. Earn more business, simplify your process, get paid promptly, and track your results in real time with FieldRoutes automation tools. Cut hours off your process and leave your competition in the dust with easy-to-use solutions that help you grow quickly, scale effectively, and operate efficiently. ",
+              "url" : "https://www.fieldroutes.com/?utm_medium=review_site&utm_source=gartner&utm_campaign=website&cid=7015G000001OZoiQAG"
+            },
+            {
+              "product_id" : 127994,
+              "seo_product_id" : 226766,
+              "seo_slug" : "Jobber",
+              "vendor_name" : "Jobber Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8f70afa2-9658-46e3-9871-9c90ef679553.png",
+              "rating" : 4.5,
+              "total_reviews" : 603,
+              "slug" : "Jobber",
+              "product_name" : "Jobber",
+              "short_desc" : "Operations got a bug in the gears? Try Jobber for Free & take your pest control business to the next level w/ tracking & automation!",
+              "features" : "Looking for field management software that really works? Try Jobber for FREE & take advantage of automatic payment reminders, team tracking, & text quotes or invoices. Oversee your crews, take instant in-person payments or 24-hour online order processing, and enjoy easy setup with Jobber. 5-Star service to grow your business. Get today's FREE trial. You'll squash the competition like a bug.\n",
+              "url" : "https://getjobber.com/?utm_medium=cpc&utm_campaign=fsmhome&utm_content=visit_website_button"
+            },
+            {
+              "product_id" : 157329,
+              "seo_product_id" : 212362,
+              "seo_slug" : "Sales-Rabbit",
+              "vendor_name" : "Sales Rabbit",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/dea15056-10ef-4357-80c1-91ee5d393631.png",
+              "rating" : 4.2,
+              "total_reviews" : 181,
+              "slug" : "Sales-Rabbit",
+              "product_name" : "SalesRabbit",
+              "short_desc" : "The only choice for comprehensive sales enablement.",
+              "features" : "SalesRabbit's game-changing methodology is based on research they've done with sales pros and the top teams in the industry. It targets the main traction points of every successful organization: rep motivation, team efficiency, and sales mastery. The app is built to help your company make changes that enable peak performance at every door. Their dedicated CSMs and support staff work with you to implement these strategies, ensuring you get the results every door-to-door company hopes for.\r\n",
+              "url" : "https://salesrabbit.com/landing/promo/sales-app-11/?utm_source=capterrra&utm_medium=paid_search&utm_campaign=software-review&utm_content=home-page-default"
+            },
+            {
+              "product_id" : 122075,
+              "seo_product_id" : 223188,
+              "seo_slug" : "Service-Autopilot",
+              "vendor_name" : "Xplor Technologies",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/a49c1822-66b8-4345-98b0-1398db1d5168.png",
+              "rating" : 4.2,
+              "total_reviews" : 119,
+              "slug" : "Service-Autopilot",
+              "product_name" : "Service Autopilot",
+              "short_desc" : "\"Stop working. Start growing.\" Service Autopilot was designed to automate your Service Business, so you can focus on growing faster.",
+              "features" : "Gain TRUE business growth with the #1 total solution software for the service industry. Service Autopilot was built for entrepreneurs in Lawn Care, Landscaping, Residential/Commercial Cleaning, Snow Removal, Pest Control, and virtually ANY field service. This all-in-one platform automates everyday tasks, so you can focus on growing FASTER. Sell more work, optimize schedules, get paid quickly, and build your dream business with Service Autopilot.\n",
+              "url" : "https://www.serviceautopilot.com/?utm_medium=cpc&utm_campaign=capterra-listings&utm_content=default"
+            },
+            {
+              "product_id" : 119312,
+              "seo_product_id" : 238310,
+              "seo_slug" : "ServiceMonster",
+              "vendor_name" : "Principal Focus",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/47e5a647-96d0-4ae4-8326-87dfd3b462a4.png",
+              "rating" : 4.6,
+              "total_reviews" : 7,
+              "slug" : "ServiceMonster",
+              "product_name" : "ServiceMonster",
+              "short_desc" : "Software for scheduling jobs, tracking orders, and managing clients; with marketing features to help you grow your business.",
+              "features" : "ServiceMonster is an excellent choice for pest control professionals, providing an online all-in-one customer management, scheduling, and marketing solution. In ServiceMonster you will find the tools your business needs like inventory control, site notes, and employee management. ServiceMonster has spent the last 20 years developing software specifically for the field service industry, with the goal of helping businesses become more professional, more efficient, and more profitable.",
+              "url" : "https://www.servicemonster.net/"
+            },
+            {
+              "product_id" : 25008,
+              "seo_product_id" : 25008,
+              "seo_slug" : "ServSuite",
+              "vendor_name" : "FieldRoutes",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/9fe26237-c5b7-4d46-bab7-d6c559dd27fa.png",
+              "rating" : 4.2,
+              "total_reviews" : 137,
+              "slug" : "ServSuite",
+              "product_name" : "ServSuite",
+              "short_desc" : "ServSuite Pest Control Software is an all-in-one solution to manage and grow your business, with over 20 years of experience.",
+              "features" : "Manage and grow your Pest Control business with ServSuite Pest Control Software, trusted by over 50,000 users.  ServSuite provides various tools to improve the way you do business including Scheduling, Billing, Renewals, Invoicing, Commissions, Collections, Credit Card Processing, as well as features that automate business and create a paperless environment like ServSuite Mobile Application, GPS Vehicle Tracking, Voice and Text Notifications, Print to Mail services, and More.  ",
+              "url" : "https://www.servicepro.com/pest-control-software-capterra/"
+            },
+            {
+              "product_id" : 130290,
+              "seo_product_id" : 212246,
+              "seo_slug" : "GorillaDesk",
+              "vendor_name" : "GorillaDesk",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/dfbab8c0-6f46-48de-bf2d-a6ed52bd7548.png",
+              "rating" : 4.8,
+              "total_reviews" : 249,
+              "slug" : "GorillaDesk",
+              "product_name" : "GorillaDesk",
+              "short_desc" : "Need Pest Control Software? Try GorillaDesk for FREE. Get all our amazing features & top-rated support, with no credit card required.",
+              "features" : "We're here for you and your Pest Control Company every step of the way. Whether your biggest challenge is scheduling jobs, invoicing customers, collecting payments, or something totally different, our Pest Control Software can help you get there. Create the business and life you want today. Get started with a FREE 14-day trial of GorillaDesk!",
+              "url" : "https://gorilladesk.com/pest-control-gd/?utm_medium=cpc&utm_campaign=pest-control&"
+            },
+            {
+              "product_id" : 140363,
+              "seo_product_id" : 212387,
+              "seo_slug" : "Housecall-Pro",
+              "vendor_name" : "Housecall Pro",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e5acd859-9814-442f-91f2-01e124d15963.png",
+              "rating" : 4.7,
+              "total_reviews" : 2620,
+              "slug" : "HouseCall-Pro",
+              "product_name" : "Housecall Pro",
+              "short_desc" : "Housecall Pro is a top-rated business solution for home service professionals to streamline scheduling, dispatching, payments, & more.",
+              "features" : "Call now to get up to 80% off your first month: 855-921-4757.\n\nHousecall Pro is a top-rated, all-in-one business solution that helps home service professionals work simpler and grow smarter. With easy-to-use digital tools for scheduling and dispatching jobs, managing payments, automating marketing efforts, and more, Housecall Pro helps Pros efficiently manage every aspect of their business all in one place.\n",
+              "url" : "https://www.housecallpro.com/get-started/?utm_source=gartner&utm_medium=paid-external-page&utm_campaign=field-service-management&mc=capterra&msc=back-to-school-promo-3q-2022"
+            },
+            {
+              "product_id" : 242343,
+              "seo_product_id" : 250179,
+              "seo_slug" : "BidClips",
+              "vendor_name" : "BidClips",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/b47cce3e-a614-400c-b84a-5016004b3837.png",
+              "rating" : 4.7,
+              "total_reviews" : 14,
+              "slug" : "BidClips",
+              "product_name" : "BidClips",
+              "short_desc" : "\nSales automation solution that helps home service businesses capture leads, automatically follow-up, and collect online payments 24/7.",
+              "features" : "\nBidClips is a sales enablement software solution that helps home service businesses capture qualified leads, automatically follow-up, and collect online payments for jobs 24/7. BidClips keeps owners, CSR, and technicians all on the same page with customer messaging and activity history. No more paper notes and spreadsheets. All of your customer requests, notes, and jobs are in one place!",
+              "url" : "https://bidclips.com/"
+            },
+            {
+              "product_id" : 122541,
+              "seo_product_id" : 232369,
+              "seo_slug" : "Kickserv",
+              "vendor_name" : "KickServ",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d1e7d608-d772-44d5-beb5-cb794d0b7851.png",
+              "rating" : 4.4,
+              "total_reviews" : 332,
+              "slug" : "Kickserv",
+              "product_name" : "Kickserv",
+              "short_desc" : "Easy to use & implement field service software automating your mobile work force.  Manage Leads, Estimates, Jobs & Invoices. Sync to QB",
+              "features" : "TRUSTED BY PEST CONTROL PROFESSIONALS. #1 Most user-friendly & most affordable software for local service companies with 1-25 employees. Complete job management: scheduling, leads management, estimates, running complete jobs from the field, invoices, payments & more! Fully integrated with Quickbooks. We are also one of the most proven platforms available to simplify and manage your service business. Trusted by 1000s of service businesses for over 20 years. Plans starting as low as $39/month.",
+              "url" : "https://app.kickserv.com/app/signup?utm_source=capterra&utm_medium=cpc"
+            },
+            {
+              "product_id" : 144620,
+              "seo_product_id" : 222904,
+              "seo_slug" : "ReachOut-Suite",
+              "vendor_name" : "Fingent",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/b3bc3ce9-0f7b-487d-9ad2-30edfb162bf9.png",
+              "rating" : 4.8,
+              "total_reviews" : 19,
+              "slug" : "ReachOut-Suite",
+              "product_name" : "ReachOut Suite",
+              "short_desc" : "ReachOut is one of the most flexible and affordable service scheduling software in the market. Cloud-based solution. Mobile-optimized.",
+              "features" : "ReachOut's powerful web backend and intuitive mobile apps empower businesses to manage their entire spectrum of field operations in one place. The superior customer support and intuitive interface help customers get started quickly, and the cloud-based technology ensures data security. Idaho Backflow saved 2 hours a day with ReachOut's digital forms; its reliable scheduling now offers end-to-end visibility into their technicians' schedules! ReachOut is fully integrated with Quickbooks and Xero.",
+              "url" : "https://www.reachoutsuite.com/?utm_source=Capterra&utm_medium=Ad&utm_term=fsm"
+            },
+            {
+              "product_id" : 152413,
+              "seo_product_id" : 152413,
+              "seo_slug" : "Tradify",
+              "vendor_name" : "Tradify",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/a1b9183b-f7a0-4908-b51f-edd924d2f5c6.png",
+              "rating" : 4.7,
+              "total_reviews" : 129,
+              "slug" : "Tradify",
+              "product_name" : "Tradify",
+              "short_desc" : "Tradify is a job management software built for trade & service businesses. Quote, schedule, track & invoice on the go.",
+              "features" : "Tradify is an all-in-one job management software designed to help trade businesses with 1-20 employees control business admin. Quotes, estimates, invoices, timesheets, field service management, purchase orders, scheduling and job reporting. Tradify handles it all with ease.  \n\nOver 30,000 electricians, plumbers, HVAC, builders, and other trades around the world use and love Tradify. Our customers and their teams love Tradify because it's quick to set up and easy to use.",
+              "url" : "https://www.tradifyhq.com/?utm_medium=cpc&utm_campaign=general_listing&utm_content=dest_url&"
+            }
+          ],
+          "related_categories" : [
+            {
+              "functional_group" : "pestcont",
+              "long_name" : "Facility Management",
+              "html_name" : "facility-management-software",
+              "link_name" : "facility-management",
+              "product_count" : 132,
+              "meta_description" : "Find and compare top Facility Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Facility Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/facility-management-software\">Facility Management software</a> enables organizations to more effectively administer facility and plant assets.  Details such as building layouts, assets, employees, and square footage are recorded and made readily accessible. Facility Management solutions allow for easy access to drawings and schematics, room scheduling, preventative maintenance tasks, work orders, and records for equipment including lighting, security, HVAC, elevators, and fire alarms.  <a href=\"/facility-management-software\">Facility Management software</a> is related to <a href=\"/fixed-asset-management-software\">Fixed Asset Management software</a>, <a href=\"/building-maintenance-software\">Building Maintenance software</a>, <a href=\"/equipment-maintenance-software\">Equipment Maintenance software</a>, <a href=\"/hvac-software\">HVAC software</a>, <a href=\"/maintenance-management-software\">Maintenance Management software</a>, <a href=\"/ehs-management-software\">EHS Management software</a>, <a href=\"/visitor-management-software\">Visitor Management software</a>, and <a href=\"/scheduling-software\">Scheduling software</a>."
+            },
+            {
+              "functional_group" : "pestcont",
+              "long_name" : "Field Service Management",
+              "html_name" : "field-service-management-software",
+              "link_name" : "field-service-management",
+              "product_count" : 219,
+              "meta_description" : "Find and compare top Field Service Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Field Service Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/field-service-management-software>Field Service Management software</a> enables organizations to manage resources and communicate with field employees.  Field Service Management systems enhance productivity by allowing constant contact between dispatch office and offsite personnel. They improve the customer experience by giving field personnel access to service histories, mapping services, scheduling tools and to the organization's knowledge base resources.  <a href=/field-service-management-software>Field Service Management software</a> is related to <a href=/maintenance-management-software>Maintenance Management software</a> and <a href=/service-dispatch-software>Service Dispatch software</a>."
+            },
+            {
+              "functional_group" : "pestcont",
+              "long_name" : "Service Dispatch",
+              "html_name" : "service-dispatch-software",
+              "link_name" : "service-dispatch",
+              "product_count" : 141,
+              "meta_description" : "Find and compare top Service Dispatch software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Service Dispatch tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/service-dispatch-software>Service Dispatch software</a> assists with the scheduling and dispatching of field personnel.  Service Dispatch applications enhance efficiency and productivity by allowing constant contact between dispatch office and offsite personnel.  Service Dispatch solutions also provide field personnel with access to service histories, contracts, mapping services, job management and scheduling tools, expediting work orders and reducing downtime.  <a href=/service-dispatch-software>Service Dispatch software</a> is related to <a href=/field-service-management-software>Field Service Management software</a> and <a href=/maintenance-management-software>Maintenance Management software</a>."
+            }
+          ],
+          "is_upgraded" : true,
+          "enabled" : true,
+          "filter_options" : {
+            "users" : 127,
+            "platform" : 897,
+            "pricing_options" : 0,
+            "category_related_features" : [
+              35303,
+              35304,
+              35306,
+              35307,
+              35308,
+              35311,
+              35312,
+              35313,
+              35841,
+              37894,
+              38050,
+              43128,
+              43129,
+              43986,
+              58028,
+              58029,
+              58030,
+              58031,
+              58032,
+              58033,
+              58034,
+              58035,
+              58036,
+              58037,
+              58039,
+              58040,
+              58041,
+              58042,
+              58043,
+              58044,
+              58045,
+              58046,
+              58047,
+              58048,
+              58049,
+              58050,
+              58051,
+              58052,
+              58053,
+              58054,
+              58055,
+              58057,
+              58058,
+              58059,
+              58060,
+              58061,
+              58062
+            ],
+            "employees" : 127
+          },
+          "sort_options" : {
+            "sort_review_rating" : 4.067412376403809,
+            "most_recent_review" : "2022-08-30T19:10:01Z"
+          },
+          "countries" : "US",
+          "features_tokenized_text" : "billing_&_invoicing customer_history dispatch_management fleet_management mobile_access pest_activity_tracking pesticide_usage_tracking property_layouts quotes/estimates routing scheduling",
+          "platform_tokenized_text" : "cloud,saas,web-based mobileandroid mobileiphone mobileipad",
+          "users_tokenized_text" : "1 2-10 11-50 51-200 201-500 501-1000 1000+",
+          "pricing_tokenized_text" : "",
+          "badges" : [ ],
+          "bid_spot_us" : 3.0,
+          "currency_code" : "USD",
+          "currency_symbol" : "$",
+          "credit_card_required" : null,
+          "licensing_model" : null,
+          "open_api_offered" : "Yes",
+          "mobile_urls" : [
+            {
+              "name" : "Android",
+              "url" : "https://play.google.com/store/apps/details?id=com.marathon.mobile&hl=en"
+            },
+            {
+              "name" : "iOS",
+              "url" : "https://itunes.apple.com/us/app/pestpac-mobile/id850529183?mt=8"
+            }
+          ],
+          "integrations" : [
+            {
+              "id" : "44278a9e-09e7-4c4b-92d9-1a3739abe0ec",
+              "name" : "QuickBooks Online Advanced"
+            },
+            {
+              "id" : "19763204-ea0d-4465-9b63-a6e200c28aa7",
+              "name" : "SalesRabbit"
+            }
+          ],
+          "supported_countries" : [
+            {
+              "id" : 237,
+              "code" : "US",
+              "name" : "United States of America"
+            },
+            {
+              "id" : 41,
+              "code" : "CA",
+              "name" : "Canada"
+            }
+          ],
+          "supported_languages" : [
+            {
+              "id" : 152,
+              "code" : "en",
+              "name" : "English",
+              "location" : null
+            }
+          ],
+          "target_industries" : [
+            {
+              "id" : 41,
+              "code" : "122",
+              "name" : "Facilities Services"
+            },
+            {
+              "id" : 46,
+              "code" : "34",
+              "name" : "Food & Beverages"
+            },
+            {
+              "id" : 47,
+              "code" : "23",
+              "name" : "Food Production"
+            },
+            {
+              "id" : 140,
+              "code" : "59",
+              "name" : "Utilities"
+            },
+            {
+              "id" : 1,
+              "code" : "47",
+              "name" : "Accounting"
+            },
+            {
+              "id" : 38,
+              "code" : "86",
+              "name" : "Environmental Services"
+            },
+            {
+              "id" : 26,
+              "code" : "48",
+              "name" : "Construction"
+            },
+            {
+              "id" : 25,
+              "code" : "4",
+              "name" : "Computer Software"
+            },
+            {
+              "id" : 20,
+              "code" : "128",
+              "name" : "Commercial Real Estate"
+            },
+            {
+              "id" : 120,
+              "code" : "44",
+              "name" : "Real Estate"
+            },
+            {
+              "id" : 29,
+              "code" : "91",
+              "name" : "Consumer Services"
+            },
+            {
+              "id" : 17,
+              "code" : "54",
+              "name" : "Chemicals"
+            }
+          ],
+          "price_range_id" : 1,
+          "aggregated_review_ratings" : {
+            "industry" : {
+              "148" : 5.0,
+              "53" : 5.0,
+              "76" : 4.0,
+              "15" : 3.0,
+              "86" : 4.04,
+              "27" : 4.5,
+              "44" : 5.0,
+              "122" : 2.86,
+              "59" : 5.0,
+              "23" : 1.0,
+              "78" : 4.75,
+              "42" : 5.0,
+              "140" : 1.0,
+              "54" : 3.86,
+              "47" : 5.0,
+              "103" : 5.0,
+              "25" : 5.0,
+              "91" : 3.85,
+              "137" : 5.0,
+              "48" : 5.0,
+              "4" : 2.0,
+              "75" : 4.0,
+              "16" : 3.0,
+              "138" : 5.0
+            },
+            "company_size" : {
+              "51-200 employees" : 4.0,
+              "5001-10,000 employees" : 5.0,
+              "501-1000 employees" : 5.0,
+              "Self-employed" : 3.73,
+              "201-500 employees" : 4.5,
+              "1001-5000 employees" : 5.0,
+              "1-10 employees" : 3.98,
+              "11-50 employees" : 4.05
+            }
+          },
+          "vct_enabled" : true,
+          "pricing_plans" : [
+            {
+              "created_on_utc" : "2019-08-21T14:47:39Z",
+              "modified_on_utc" : "2022-04-11T20:39:21Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Basic",
+              "description" : null,
+              "display_order" : 1,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 1.0,
+              "ending_price" : null,
+              "pricing_model_name" : null,
+              "payment_frequency_name" : null,
+              "attributes" : [ ]
+            }
+          ],
+          "discount_types" : [ ]
+        }
+      },
+      {
+        "_index" : "product_listings_main_data_upc_vt20220920_043802_utc",
+        "_type" : "_doc",
+        "_id" : "212178_fsm",
+        "_score" : 11.380028,
+        "_source" : {
+          "product_id" : 212178,
+          "seo_product_id" : 23130,
+          "seo_slug" : "PestPac",
+          "product_name" : "PestPac",
+          "upc_product_uuid" : "2dfdc881-6f7e-4f86-a07a-a6d200b5b240",
+          "old_product_ids" : [
+            23130,
+            225828
+          ],
+          "product_url" : "https://offer.workwave.com/pestpac-pest-control-software.html?utm_source=cap&utm_medium=dir&utm_campaign=pp_pestcontrol",
+          "product_slug" : "PestPac",
+          "former_name" : "PestPac",
+          "logo_filepath" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/f0a37192-715d-4af6-8091-cb6bc78d4ce9.png",
+          "vendor" : {
+            "vendor_id" : 2152644,
+            "vendor_name" : "WorkWave",
+            "vendor_url" : "http://www.WorkWave.com",
+            "year_founded" : 1984,
+            "location" : "United States",
+            "vendor_opted_out_of_reviews" : true,
+            "is_opted_out_of_reviews" : false,
+            "is_hit_limit" : false,
+            "enabled" : true,
+            "has_vendor_level_page" : false,
+            "slug" : null,
+            "vendor_page" : false,
+            "paused_campaign" : false
+          },
+          "category_short_name" : "fsm",
+          "category_html_name" : "field-service-management-software",
+          "category" : {
+            "id" : 10009,
+            "short_name" : "fsm",
+            "long_name" : "Field Service Management",
+            "html_name" : "field-service-management-software",
+            "enabled" : true
+          },
+          "best_category" : "fsm",
+          "is_best_category" : true,
+          "highest_cpc_category" : null,
+          "is_highest_cpc_category" : false,
+          "short_desc" : "WorkWave PestPac is built to improve all facets of your pest control business. Grow your profits. Easily manage your entire business.",
+          "long_desc" : "PestPac by WorkWave is the one true pest control software, providing robust, innovative features and empowering pest control operators to grow their business, service their customers and maximize their money. As a true all-in-one solution, PestPac enables users to reduce paperwork, operate more efficiently, generate leads, close more sales and keep customers. With 40 years of experience, PestPac offers unique expertise in developing solutions built specifically for pest control operators.",
+          "rating" : 3.9,
+          "number_of_reviews" : 165,
+          "total_reviews" : 226,
+          "ease_of_use_rating" : 3.6,
+          "customer_support_rating" : 3.9,
+          "functionality_rating" : 3.9,
+          "value_for_money_rating" : 3.8,
+          "recommendation_rating" : 7.4,
+          "pricing_enabled" : false,
+          "pricing" : null,
+          "is_per_user" : false,
+          "fee_schedule" : null,
+          "pricing_model" : null,
+          "pricing_details" : null,
+          "pricing_created_on" : "2019-08-21T14:47:39Z",
+          "pricing_modified_on" : "2022-04-11T20:39:17Z",
+          "pricing_created_by" : null,
+          "pricing_modified_by" : null,
+          "pricing_vendor_pricing_url" : null,
+          "free_trial" : false,
+          "free_version" : false,
+          "target_audience" : "Residential and commercial small to enterprise-level pest control companies.",
+          "target_users" : [
+            "1",
+            "2-10",
+            "11-50",
+            "51-200",
+            "201-500",
+            "501-1000",
+            "1000+"
+          ],
+          "platform" : [
+            {
+              "enabled" : true,
+              "name" : "Cloud, SaaS, Web-Based"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Mac"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Chromebook"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile Android"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPhone"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPad"
+            }
+          ],
+          "support" : [
+            {
+              "enabled" : true,
+              "name" : "Email Help Desk"
+            },
+            {
+              "enabled" : true,
+              "name" : "FAQ Forum"
+            },
+            {
+              "enabled" : true,
+              "name" : "Knowledgebase"
+            },
+            {
+              "enabled" : true,
+              "name" : "Phone Support"
+            },
+            {
+              "enabled" : false,
+              "name" : "24/7 Live Rep"
+            },
+            {
+              "enabled" : true,
+              "name" : "Chat"
+            }
+          ],
+          "training" : [
+            {
+              "enabled" : false,
+              "name" : "Not Offered"
+            },
+            {
+              "enabled" : true,
+              "name" : "In-Person"
+            },
+            {
+              "enabled" : true,
+              "name" : "Live Online"
+            },
+            {
+              "enabled" : true,
+              "name" : "Webinars"
+            },
+            {
+              "enabled" : true,
+              "name" : "Documentation"
+            },
+            {
+              "enabled" : true,
+              "name" : "Videos"
+            }
+          ],
+          "media" : [
+            {
+              "product_id" : 212178,
+              "vendor_id" : 2152644,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/2727cfb4-a136-4ae9-b37b-ea3f4d995ae1.png",
+              "caption" : "Customer Portal",
+              "weight" : 1,
+              "short_name" : "fsm"
+            },
+            {
+              "product_id" : 212178,
+              "vendor_id" : 2152644,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/04d4f51c-d0f2-418e-9087-96a2cc380050.jpeg",
+              "caption" : "Route Optimization",
+              "weight" : 2,
+              "short_name" : "fsm"
+            },
+            {
+              "product_id" : 212178,
+              "vendor_id" : 2152644,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/5791b8c4-6faa-43d8-b205-5d51915c1cb0.png",
+              "caption" : "Sales Center ",
+              "weight" : 3,
+              "short_name" : "fsm"
+            },
+            {
+              "product_id" : 212178,
+              "vendor_id" : 2152644,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/b9965c34-873e-4995-9d23-1cd32b830b03.png",
+              "caption" : "Business Analytics",
+              "weight" : 4,
+              "short_name" : "fsm"
+            },
+            {
+              "product_id" : 212178,
+              "vendor_id" : 2152644,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/49a1a514-c3ef-4dea-8a2d-6834e61c85d0.webp",
+              "caption" : "PestPac Multi-Unit",
+              "weight" : 5,
+              "short_name" : "fsm"
+            },
+            {
+              "product_id" : 212178,
+              "vendor_id" : 2152644,
+              "media_type" : "VIDEO",
+              "path_url" : "https://workwave.wistia.com/medias/z6e01n2dzc",
+              "caption" : null,
+              "weight" : 0,
+              "short_name" : "fsm"
+            }
+          ],
+          "links" : [ ],
+          "features" : [
+            {
+              "category_name" : "Field Service Management",
+              "category_features" : [
+                {
+                  "name" : "Billing & Invoicing",
+                  "value" : true,
+                  "id" : "b9829f5b-1e19-49e7-b343-c2286973de15",
+                  "avg_rating" : 3.4,
+                  "cnt_rating" : 7,
+                  "avg_importance" : 2.6,
+                  "cnt_importance" : 5,
+                  "cnt_time_used" : 5,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 5,
+                  "pct_time_critical" : 0.6,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Create and manage monetary interactions between parties (i.e. bills and invoices)"
+                },
+                {
+                  "name" : "Contact Database",
+                  "value" : false,
+                  "id" : "eec2c352-bd86-4424-9857-bd7482a539de",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Centralized database of an organization's customers and clients"
+                },
+                {
+                  "name" : "Contract/License Management",
+                  "value" : false,
+                  "id" : "efd314c0-e308-412f-9ff3-8bd8745c3096",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Track, store, and access client/customer contracts"
+                },
+                {
+                  "name" : "Dispatch Management",
+                  "value" : true,
+                  "id" : "81deed45-5410-49ab-b293-36fe67fd13a8",
+                  "avg_rating" : 1.8,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 1.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Manage sending personnel and resources to a site as needed"
+                },
+                {
+                  "name" : "Electronic Signature",
+                  "value" : true,
+                  "id" : "129d469f-1e77-489e-ac24-45c91b5277db",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Sign a document within the system"
+                },
+                {
+                  "name" : "Inventory Management",
+                  "value" : true,
+                  "id" : "80f46038-6ae8-4725-8064-788b20380eeb",
+                  "avg_rating" : 1.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track and manage the quantity of resources on hand to maintain proper supply"
+                },
+                {
+                  "name" : "Mobile Access",
+                  "value" : true,
+                  "id" : "15d49235-ad13-4d33-b009-edd50126375b",
+                  "avg_rating" : 3.5,
+                  "cnt_rating" : 8,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 4,
+                  "cnt_time_used" : 4,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 4,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Access the software remotely via mobile devices"
+                },
+                {
+                  "name" : "Online Time Clock",
+                  "value" : false,
+                  "id" : "5e87ddce-b43b-4c23-80ba-0bd219d4d173",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track/log the amount of time employees worked per job"
+                },
+                {
+                  "name" : "Payment Collection in the Field",
+                  "value" : false,
+                  "id" : "f5d747c4-b2b4-4bbd-8706-d9396a838e13",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Swipe a credit card or manually process payments while with the customer in the field"
+                },
+                {
+                  "name" : "Quotes/Estimates",
+                  "value" : true,
+                  "id" : "96125292-fba0-4c4b-b429-6afba9eccf8c",
+                  "avg_rating" : 2.0,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Generate quotes and estimates forms to send to customers"
+                },
+                {
+                  "name" : "Routing",
+                  "value" : true,
+                  "id" : "2edeff5e-4a6d-49f6-aeb7-a79de1cda540",
+                  "avg_rating" : 2.7,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Provide directions and plan the day's work to optimize employee scheduling"
+                },
+                {
+                  "name" : "Scheduling",
+                  "value" : true,
+                  "id" : "0cc5cde1-b9c8-4aaf-9a3b-67ed2aafe507",
+                  "avg_rating" : 3.2,
+                  "cnt_rating" : 9,
+                  "avg_importance" : 2.8,
+                  "cnt_importance" : 5,
+                  "cnt_time_used" : 5,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 5,
+                  "pct_time_critical" : 0.8,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : "Plan availability and assign specific time slots for tasks and resources"
+                },
+                {
+                  "name" : "Service History",
+                  "value" : false,
+                  "id" : "aa27c3f2-09d9-4db3-b017-8f3c488ef9b4",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Track work performed and resources used for past customers, sites, or assets"
+                },
+                {
+                  "name" : "Work Order Management",
+                  "value" : true,
+                  "id" : "2caace3e-d52a-4874-bb04-d700557cf547",
+                  "avg_rating" : 3.3,
+                  "cnt_rating" : 6,
+                  "avg_importance" : 2.67,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.667,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Create work orders and track their status to completion"
+                }
+              ]
+            }
+          ],
+          "infographics" : [ ],
+          "related_products" : [
+            {
+              "product_id" : 140363,
+              "seo_product_id" : 212387,
+              "seo_slug" : "Housecall-Pro",
+              "vendor_name" : "Housecall Pro",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e5acd859-9814-442f-91f2-01e124d15963.png",
+              "rating" : 4.7,
+              "total_reviews" : 2620,
+              "slug" : "HouseCall-Pro",
+              "product_name" : "Housecall Pro",
+              "short_desc" : "Housecall Pro is a top-rated business solution for home service professionals to streamline scheduling, dispatching, payments, & more.",
+              "features" : "Call now to get up to 80% off your first month: 855-921-4757.\n\nHousecall Pro is a top-rated, all-in-one business solution that helps home service professionals work simpler and grow smarter. With easy-to-use digital tools for scheduling and dispatching jobs, managing payments, automating marketing efforts, and more, Housecall Pro helps Pros efficiently manage every aspect of their business all in one place.",
+              "url" : "https://www.housecallpro.com/get-started/?utm_source=gartner&utm_medium=paid-external-page&utm_campaign=field-service-management&mc=capterra&msc=back-to-school-promo-3q-2022"
+            },
+            {
+              "product_id" : 218046,
+              "seo_product_id" : 218046,
+              "seo_slug" : "Autodesk-Construction-Cloud",
+              "vendor_name" : "Autodesk",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/b1347be5-c9e0-43b8-b580-4d55494b1ebe.jpeg",
+              "rating" : 4.3,
+              "total_reviews" : 1892,
+              "slug" : "Autodesk-Construction-Cloud",
+              "product_name" : "Autodesk Construction Cloud",
+              "short_desc" : "Mobile-first, powerfully simple design to improve collaboration on the construction site and beyond.",
+              "features" : "Access all essential project information when you're out in the field and ensure that you are working with the most up-to-date version of drawings. Easily create and track issues, RFIs, checklists, submittals, assets - even if you can't connect to the internet.",
+              "url" : "https://getconstructioncloud.autodesk.com/autodesk-build-referral/?utm_medium=paid-referral&utm_source=capterra&utm_campaign=acc-build-demo&utm_audience=prospecting&utm_content=text&utm_region=global&utm_term=service-management"
+            },
+            {
+              "product_id" : 70092,
+              "seo_product_id" : 70092,
+              "seo_slug" : "Buildertrend",
+              "vendor_name" : "Buildertrend",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/68133a0e-07a2-4a9a-a1fa-f3f54e17035c.png",
+              "rating" : 4.5,
+              "total_reviews" : 1570,
+              "slug" : "Buildertrend",
+              "product_name" : "Buildertrend",
+              "short_desc" : "Buildertrend is the No. 1 construction project management software, trusted by homebuilders, remodelers and specialty contractors. ",
+              "features" : "Buildertrend is the No. 1, cloud-based construction project management software for homebuilders, remodelers and specialty contractors. Since 2006, we have empowered the construction industry with a better way to build. More than 1 million users across the globe have chosen Buildertrend as their platform for real-time collaboration. Our software helps construction professionals complete projects while reducing delays, eliminating communication errors and increasing customer satisfaction. ",
+              "url" : "https://buildertrend.com/field-service-management-software/?source=capterrafsm&utm_medium=cpc&utm_campaign=capterraprofile&utm_content=website"
+            },
+            {
+              "product_id" : 239420,
+              "seo_product_id" : 239420,
+              "seo_slug" : "KeepTruckin",
+              "vendor_name" : "Motive",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/a755e735-3c73-47d0-9a0e-dc5dcfca7e3c.png",
+              "rating" : 4.5,
+              "total_reviews" : 1290,
+              "slug" : "KeepTruckin",
+              "product_name" : "Motive",
+              "short_desc" : "Motive, formerly KeepTruckin, builds technology to improve the safety, productivity, and profitability of businesses.",
+              "features" : "Motive, formerly KeepTruckin, builds technology to improve the safety, productivity, and profitability of businesses that power the physical economy. The Motive Automated Operations Platform combines IoT hardware with AI-powered applications to automate vehicle and equipment tracking, driver safety, compliance, maintenance, spend management, and more. Motive serves more than 120,000 businesses in trucking and logistics, construction, oil and gas, food and beverage, field service & agriculture.",
+              "url" : "https://info.keeptruckin.com/eld-free-hw-sem-cap.html?utm_campaign=SEC-2021-10-ELD-Free-Hardware&utm_medium=paid-search&utm_source=capterra"
+            },
+            {
+              "product_id" : 145635,
+              "seo_product_id" : 152541,
+              "seo_slug" : "UpKeep",
+              "vendor_name" : "UpKeep Technologies",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4e7b9786-fe6c-40d1-a26c-a304326fa220.png",
+              "rating" : 4.6,
+              "total_reviews" : 1234,
+              "slug" : "UpKeep",
+              "product_name" : "UpKeep",
+              "short_desc" : "UpKeep is rated the #1 mobile-first Field Service Management Software to streamline work orders, facility, and asset management. ",
+              "features" : "UpKeep's field service management software is a modern maintenance and asset management solution for your team. From your desktop to your phone and even your tablet, UpKeep is easily accessible from anywhere at any time. Create work orders on-the-go, get notifications when tasks are updated, and receive alerts straight from your app when assets go down making your business run more efficiently than ever before. 100% Free Download and Signup.",
+              "url" : "https://www.upkeep.com/demo?utm_medium=ppc&utm_term=field_service_management"
+            },
+            {
+              "product_id" : 77264,
+              "seo_product_id" : 77264,
+              "seo_slug" : "mHelpDesk",
+              "vendor_name" : "mHelpDesk",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/273c54aa-4d75-41b9-9914-e2c0a26baa2c.png",
+              "rating" : 4.3,
+              "total_reviews" : 801,
+              "slug" : "mHelpDesk",
+              "product_name" : "mHelpDesk",
+              "short_desc" : "The fastest, easiest, and highest value service management software to automate everything from first customer contact to getting paid.",
+              "features" : "mHelpDesk is the #1 easiest and most powerful software solution for your field service business, automating everything from first customer contact all the way to getting paid. We provide our customers with mobile and online tools that are unmatched in performance, reliability, and functionality. We've packed the best tools into one extremely easy-to-use and affordable package that requires no big upfront investment. And we have in-house product experts to get you up and running immediately.",
+              "url" : "https://www.mhelpdesk.com/request-demo/?utm_medium=cpc&utm_campaign=field-service"
+            },
+            {
+              "product_id" : 124641,
+              "seo_product_id" : 72551,
+              "seo_slug" : "Fleetmatics-Work",
+              "vendor_name" : "Verizon Connect",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/681064a2-e7b6-4c46-a5f7-4547af1c3e94.png",
+              "rating" : 3.1,
+              "total_reviews" : 760,
+              "slug" : "FleetMatics-REVEAL",
+              "product_name" : "Verizon Connect",
+              "short_desc" : "Reveal Field is a field service management solution to help simplify job management, scheduling and dispatching. ",
+              "features" : "Reveal Field is a user-friendly field service management solution to help simplify job management, scheduling and dispatching. It can increase productivity by removing the need to call technicians for job update and streamlines your field service management tools, CRM functions and business processes into one solution. Our system also allows you to better estimate ETAs, so you can offer more exact time windows complete with text and email reminders and confirmations.",
+              "url" : "https://info.gartnerdigitalmarkets.com/verizonconnect-gdm-lp/?utm_campaign=field%20service%20management%20demo&utm_content=field%20service%20management&utm_source=capterra"
+            },
+            {
+              "product_id" : 191474,
+              "seo_product_id" : 72551,
+              "seo_slug" : "Fleetmatics-Work",
+              "vendor_name" : "Verizon Connect",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/681064a2-e7b6-4c46-a5f7-4547af1c3e94.png",
+              "rating" : 3.1,
+              "total_reviews" : 760,
+              "slug" : "Field-Service-Dispatch",
+              "product_name" : "Verizon Connect",
+              "short_desc" : "Reveal Field is a field service management solution to help simplify job management, scheduling and dispatching. ",
+              "features" : "Reveal Field is a user-friendly field service management solution to help simplify job management, scheduling and dispatching. It can increase productivity by removing the need to call technicians for job update and streamlines your field service management tools, CRM functions and business processes into one solution. Our system also allows you to better estimate ETAs, so you can offer more exact time windows complete with text and email reminders and confirmations.",
+              "url" : "https://www.verizonconnect.com/solutions/field-service-management-software/?lead=Capterra&utm_campaign=Field%20Service%20Management%20Demo&utm_medium=media%20programs&utm_source=capterra&utm_content=Field%20Service%20Management"
+            },
+            {
+              "product_id" : 72551,
+              "seo_product_id" : 72551,
+              "seo_slug" : "Fleetmatics-Work",
+              "vendor_name" : "Verizon Connect",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/681064a2-e7b6-4c46-a5f7-4547af1c3e94.png",
+              "rating" : 3.1,
+              "total_reviews" : 760,
+              "slug" : "Fleetmatics-Work",
+              "product_name" : "Verizon Connect",
+              "short_desc" : "Reveal Field is a field service management solution to help simplify job management, scheduling and dispatching. ",
+              "features" : "Reveal Field is a user-friendly field service management solution to help simplify job management, scheduling and dispatching. It can increase productivity by removing the need to call technicians for job update and streamlines your field service management tools, CRM functions and business processes into one solution. Our system also allows you to better estimate ETAs, so you can offer more exact time windows complete with text and email reminders and confirmations.",
+              "url" : "https://www.verizonconnect.com/v/field/field/field-service-capterra/?lead=Capterra&utm_campaign=Work%20Demo%20-%20Field%20Service%20Management&utm_medium=cpc&utm_source=capterra"
+            },
+            {
+              "product_id" : 127994,
+              "seo_product_id" : 226766,
+              "seo_slug" : "Jobber",
+              "vendor_name" : "Jobber Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8f70afa2-9658-46e3-9871-9c90ef679553.png",
+              "rating" : 4.5,
+              "total_reviews" : 603,
+              "slug" : "Jobber",
+              "product_name" : "Jobber",
+              "short_desc" : "Jobber helps field service businesses keep their jobs on track and offer a seamless customer experience. Try it now for free!",
+              "features" : "Manage your field service jobs and customer experiences with Jobber. Our field management software allows you to schedule jobs more efficiently, give your crew the necessary job details, and track jobs from start to finish, all in one place. You'll be able to send automatic payment reminders, take payments, and let customers book appointments through Facebook. With a mobile app, free training, and a simple setup, Jobber helps you save time while delivering 5-star service. Try it FREE!",
+              "url" : "https://getjobber.com/dlp/fsm-software-b/?utm_medium=cpc&utm_campaign=field_service_management&utm_content=visit_website_button"
+            },
+            {
+              "product_id" : 130989,
+              "seo_product_id" : 227011,
+              "seo_slug" : "RazorSync",
+              "vendor_name" : "RazorSync",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/c564f283-92d5-4d8c-bf99-d7d9551bedd9.png",
+              "rating" : 4.3,
+              "total_reviews" : 486,
+              "slug" : "RazorSync",
+              "product_name" : "RazorSync",
+              "short_desc" : "Streamline your service business with RazorSync's estimating, work order scheduling and invoicing app. Free, full-access trial!",
+              "features" : "RazorSync is a leading field service software designed to improve and streamline operations for field service businesses. With a desktop and mobile application, RazorSync provides expert features built to grow your business and reduce your workload. Our robust yet simple to use features include customer and team management, scheduling, integration with Quickbooks, merchant services and more. Try us risk-free for 14 days or schedule a free live demo today!\n",
+              "url" : "https://www.razorsync.com/features/field-service-tech-management/?utm_source=Capterra&utm_medium=Field%20Service%20Management"
+            }
+          ],
+          "similar_products" : [
+            {
+              "product_id" : 140363,
+              "seo_product_id" : 212387,
+              "seo_slug" : "Housecall-Pro",
+              "vendor_name" : "Housecall Pro",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e5acd859-9814-442f-91f2-01e124d15963.png",
+              "rating" : 4.7,
+              "total_reviews" : 2620,
+              "slug" : "HouseCall-Pro",
+              "product_name" : "Housecall Pro",
+              "short_desc" : "Housecall Pro is a top-rated business solution for home service professionals to streamline scheduling, dispatching, payments, & more.",
+              "features" : "Call now to get up to 80% off your first month: 855-921-4757.\n\nHousecall Pro is a top-rated, all-in-one business solution that helps home service professionals work simpler and grow smarter. With easy-to-use digital tools for scheduling and dispatching jobs, managing payments, automating marketing efforts, and more, Housecall Pro helps Pros efficiently manage every aspect of their business all in one place.",
+              "url" : "https://www.housecallpro.com/get-started/?utm_source=gartner&utm_medium=paid-external-page&utm_campaign=field-service-management&mc=capterra&msc=back-to-school-promo-3q-2022"
+            },
+            {
+              "product_id" : 153526,
+              "seo_product_id" : 227100,
+              "seo_slug" : "Field-Service-Lightning",
+              "vendor_name" : "Salesforce",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/bcf20b96-c675-463c-97ab-9d16f27345ca.png",
+              "rating" : 4.2,
+              "total_reviews" : 19,
+              "slug" : "Field-Service-Lightning",
+              "product_name" : "Salesforce Field Service",
+              "short_desc" : "Salesforce helps transform the agent and customer experience in the field to drive satisfaction. Monitor performance in real time.",
+              "features" : "Salesforce Field Service, built on the world's #1 CRM, empowers teams to provide a connected experience. By connecting the back office to the field, organizations can elevate employee interactions and exceed customer expectations. Meeting customers on their digital channel of choice with real-time appointment updates, mobile worker details, and virtual troubleshooting to make every moment memorable.",
+              "url" : "https://www.salesforce.com/form/sem/field-service-lightning/?d=7010M0000..."
+            },
+            {
+              "product_id" : 127994,
+              "seo_product_id" : 226766,
+              "seo_slug" : "Jobber",
+              "vendor_name" : "Jobber Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8f70afa2-9658-46e3-9871-9c90ef679553.png",
+              "rating" : 4.5,
+              "total_reviews" : 603,
+              "slug" : "Jobber",
+              "product_name" : "Jobber",
+              "short_desc" : "Jobber helps field service businesses keep their jobs on track and offer a seamless customer experience. Try it now for free!",
+              "features" : "Manage your field service jobs and customer experiences with Jobber. Our field management software allows you to schedule jobs more efficiently, give your crew the necessary job details, and track jobs from start to finish, all in one place. You'll be able to send automatic payment reminders, take payments, and let customers book appointments through Facebook. With a mobile app, free training, and a simple setup, Jobber helps you save time while delivering 5-star service. Try it FREE!",
+              "url" : "https://getjobber.com/?utm_medium=cpc&utm_campaign=fsmhome&utm_content=visit_website_button"
+            },
+            {
+              "product_id" : 122541,
+              "seo_product_id" : 232369,
+              "seo_slug" : "Kickserv",
+              "vendor_name" : "KickServ",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d1e7d608-d772-44d5-beb5-cb794d0b7851.png",
+              "rating" : 4.4,
+              "total_reviews" : 332,
+              "slug" : "Kickserv",
+              "product_name" : "Kickserv",
+              "short_desc" : "BUILT & TRUSTED BY SERVICE PROS. #1 Most User-Friendly & Most Affordable Software for Local Service Companies with 1-25 employees. ",
+              "features" : "#1 Most user-friendly & most affordable FIELD SERVICE MANAGEMENT software for local service companies with 1-25 employees. Complete job management: scheduling, leads management, estimates, running complete jobs from the field, invoices, payments & more! Fully integrated with Quickbooks. We are also one of the most proven platforms available to simplify and manage your service business. Trusted by 1000s of service businesses for over 20 years. Plans starting as low as $39/month.",
+              "url" : "https://app.kickserv.com/app/signup?utm_source=capterra&utm_medium=cpc"
+            },
+            {
+              "product_id" : 111740,
+              "seo_product_id" : 5841,
+              "seo_slug" : "FieldEdge",
+              "vendor_name" : "Xplor Technologies",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/aff1b11c-8e00-4b36-b34a-4d7b4a817da3.png",
+              "rating" : 4.3,
+              "total_reviews" : 280,
+              "slug" : "FieldEdge",
+              "product_name" : "FieldEdge",
+              "short_desc" : "The #1 software to run your entire business - FieldEdge helps you save time and make you more money!",
+              "features" : "The field service management software to run your entire business is the one that the owner, office staff and technicians actually find helpful! Save 20+ hours/week with a seamless QuickBooks integration - no more double entry! Our mobile app gives technicians all the information they need to provide great customer service and be more efficient on-site. Less hassle and more control, FieldEdge is the ultimate field service software to connect your team in the office and field.\n",
+              "url" : "https://fieldedge.com/ppc/capterra/field-service-management/?utm_medium=cpc&utm_term=field%20service%20management"
+            },
+            {
+              "product_id" : 109930,
+              "seo_product_id" : 34552,
+              "seo_slug" : "BlueFolder",
+              "vendor_name" : "BlueFolder",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/ad528b3f-98f3-4058-9c73-905d077c2b09.png",
+              "rating" : 4.7,
+              "total_reviews" : 33,
+              "slug" : "BlueFolder",
+              "product_name" : "BlueFolder",
+              "short_desc" : "BlueFolder helps commercial service pros in the field stay on-schedule & access critical job details in a user-friendly interface.",
+              "features" : "BlueFolder helps commercial service pros in the field stay on-schedule, access critical job details & work order management features in a user-friendly interface. Access robust features: recurring jobs, secure custom user permissions, scheduling/dispatch, customer portals, & more. Streamline paperwork using integrations with QuickBooks & more.  \n\nKeep all your field techs on track and streamline operations with powerful features, useful integrations, and a simple, user-friendly interface.",
+              "url" : "https://bluefolder.com/?utm_source=capterra&utm_medium=ppc&utm_campaign=home"
+            },
+            {
+              "product_id" : 194155,
+              "seo_product_id" : 222225,
+              "seo_slug" : "BuildOps",
+              "vendor_name" : "BuildOps",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/91ad609f-0af8-4e0c-bda9-1459d559f6aa.png",
+              "rating" : 4.9,
+              "total_reviews" : 13,
+              "slug" : "BuildOps",
+              "product_name" : "BuildOps",
+              "short_desc" : "All-in-one Field Service Management Software for commercial MEP contractors. Dispatch, workflows, quoting/invoicing, reporting + more.",
+              "features" : "#1 Field Service Management Solution For Commercial Contractors With 5+ Technicians.\n\nThe cloud-based platform contains everything contractors need to streamline + optimize their entire service operation. Mobile + web-based applications streamline communication between field + office, improving workflows, sales, margins + customer experience. With mobile offline mode, techs don't miss a beat, even in areas with low to no service. Best for commercial contractors with 5+ technicians.",
+              "url" : "https://buildops.com/commercial-hvac-platform/?utm_source=capterra&utm_medium=cpc"
+            },
+            {
+              "product_id" : 246280,
+              "seo_product_id" : 246280,
+              "seo_slug" : "Sera",
+              "vendor_name" : "Sera Systems",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/c2de9baa-8ab5-476d-866e-f44b23531fb3.jpeg",
+              "rating" : 4.8,
+              "total_reviews" : 4,
+              "slug" : "Sera",
+              "product_name" : "Sera",
+              "short_desc" : "Sera's automated intelligence & simplified solutions empower field service businesses to focus on what matters - margins & memberships.",
+              "features" : "Sera is software built for your field service business by someone who knows the business best - an award-winning plumbing and HVAC business owner. Sera uses automation and patent-pending artificial intelligence to streamline your business while reducing costly touchpoints. Running a field service business is hard, so put Sera to work for you and free up your key players to focus on what matters most - money, memberships, and margins. ",
+              "url" : "https://get.sera.tech/capterra/"
+            },
+            {
+              "product_id" : 136363,
+              "seo_product_id" : 218471,
+              "seo_slug" : "ServiceBox",
+              "vendor_name" : "Jobbox Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d9358e1c-7f84-4e0f-bbe2-6d45bac65f76.png",
+              "rating" : 4.3,
+              "total_reviews" : 100,
+              "slug" : "ServiceBox",
+              "product_name" : "ServiceBox",
+              "short_desc" : "ServiceBox is the custom solution without the custom price. Able to handle your entire business, let us show you how.",
+              "features" : "Field Service Company? Want to make things easy on your office staff and simple for your technicians?\r\nWant to easily schedule work orders? Know where your field staff are? Looking for a solution that feels custom built for your company without the high costs? ServiceBox is the solution!  Our software is configurable to meet the needs of your company with many features.  \r\nServiceBox will take your company mobile and integrates with Quickbooks and Sage 50 (Canada).\r\nFind out how we can help you!",
+              "url" : "https://www.getservicebox.com/?utm_source=referral&utm_medium=capterra&utm_campaign=general_category"
+            },
+            {
+              "product_id" : 10529,
+              "seo_product_id" : 10529,
+              "seo_slug" : "simPRO-Enterprise",
+              "vendor_name" : "simPRO Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4a5221e9-3ad1-4b16-a5e5-b2ce68a11a06.png",
+              "rating" : 4.2,
+              "total_reviews" : 115,
+              "slug" : "simPRO-Enterprise",
+              "product_name" : "simPRO",
+              "short_desc" : "simPRO is a cloud-based field service software platform designed for trade contractors. Bid/Schedule Jobs, Track Payments & Much More.",
+              "features" : "simPRO is a powerful field service management software solution created by trade contractors, for trade contractors. If you're struggling with quoting jobs, managing multi-stage projects, managing inventory, connecting the office to the field, or any other areas of your workflow, simPRO provides a streamlined platform to address your pressing challenges all while helping you increase productivity and profits. More than 150,000 field service professionals trust simPRO for workflow management.",
+              "url" : "https://www.simprogroup.com/campaigns/ca/simpro-field-service-mgmt-software"
+            },
+            {
+              "product_id" : 147480,
+              "seo_product_id" : 222567,
+              "seo_slug" : "SkyBoss",
+              "vendor_name" : "SkyBoss",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/1305ebac-6e96-4355-91d2-044b0c48c663.png",
+              "rating" : 4.6,
+              "total_reviews" : 22,
+              "slug" : "SkyBoss",
+              "product_name" : "SkyBoss",
+              "short_desc" : "Mobile friendly solution that provides robust dispatching, invoicing, customer tracking, technician tracking, billing and accounting.",
+              "features" : "SkyBoss is a cloud-based, mobile software system that provides service businesses in depth real time field management, call tracking, technician tracking, paperless invoicing, payment processing, price book, and reporting on critical business metrics. SkyBoss is designed to streamline your business give you the tools needed to take your business to new levels of performance and revenue. SkyBoss also syncs with QuickBooks!",
+              "url" : "https://www.housecallpro.com/partner/skyboss/?utm_source=gartner&utm_medium=paid-external-page&utm_campaign=skyboss&mc=capterra&msc=skyboss"
+            },
+            {
+              "product_id" : 157262,
+              "seo_product_id" : 218472,
+              "seo_slug" : "QuickBase",
+              "vendor_name" : "Quickbase",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d0157b8b-f072-4509-bd88-9963aa9b3fdf.jpeg",
+              "rating" : 4.5,
+              "total_reviews" : 244,
+              "slug" : "QuickBase",
+              "product_name" : "Quickbase",
+              "short_desc" : "Give more power to your field teams. Track client and project information from any location and on any device.",
+              "features" : "Quickbase is an application development platform that enables field teams to track client and project information from any location and on any device. Relying on spreadsheets and legacy systems can slow field teams down, resulting in missed deadlines, errors and waste. With the Quickbase platform, equip your teams with the tools they need to better manage their day with a tailored field services solution that matches your business.",
+              "url" : "https://www.quickbase.com/lp/brand/home-k?utm_medium=referral&utm_campaign=capterra-basic-listing"
+            },
+            {
+              "product_id" : 119837,
+              "seo_product_id" : 228311,
+              "seo_slug" : "Document-Decisioning-Suite",
+              "vendor_name" : "Orcatec",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/15bc333c-8471-4140-b945-45f0840e704e.png",
+              "rating" : 5.0,
+              "total_reviews" : 6,
+              "slug" : "orcatec",
+              "product_name" : "Orcatec",
+              "short_desc" : "All MUST HAVE features gathered in one place to run successful business in service industry.",
+              "features" : "Leading software for service industry, e.g. HVAC, Electrical, Plumbing, General Contracting, Carpet Cleaning, Gates, Fences, Windows, Hair and Beauty Salons.\nAll MUST HAVE features gathered in one place to run successful business.\nCreate and dispatch appointments.\nDistribute work for your team through unique system of work planning.\nTime Cards.\nProtect yourself from negative reviews with a special service.\nGPS tracking of employees.\nRoute optimization.\nVery low credit card processing fees!\n",
+              "url" : "https://info.gartnerdigitalmarkets.com/orcatec-gdm-lp"
+            }
+          ],
+          "related_categories" : [
+            {
+              "functional_group" : "fsm",
+              "long_name" : "HVAC",
+              "html_name" : "hvac-software",
+              "link_name" : "hvac",
+              "product_count" : 84,
+              "meta_description" : "Find and compare top HVAC software on Capterra, with our free and interactive tool. Quickly browse through hundreds of HVAC tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/hvac-software\">HVAC software</a> automates service management for heating, ventilation and air conditioning contractors.  These applications help manage inbound service calls, appointment scheduling, dispatch and communication tools for technicians in the field. They also offer features like customer / location service histories, wireless communications integration, and job location mapping tools, as well as integrating traditional business functions such as accounting, contract management, invoicing and customer relationship management into one convenient tool.  HVAC software is related to <a href=\"/building-maintenance-software\">Building Maintenance software</a>, <a href=/equipment-maintenance-software>Equipment Maintenance software</a>, <a href=/facility-management-software>Facility Management software</a> and <a href=/mobile-software>Mobile software</a>."
+            },
+            {
+              "functional_group" : "fsm",
+              "long_name" : "Locksmith",
+              "html_name" : "locksmith-software",
+              "link_name" : "locksmith",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Locksmith software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Locksmith tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "Locksmith software automates business operations, such as scheduling, dispatching, billing and customer management, for locksmith companies."
+            },
+            {
+              "functional_group" : "fsm",
+              "long_name" : "Maid Service",
+              "html_name" : "maid-service-software",
+              "link_name" : "maid-service",
+              "product_count" : 25,
+              "meta_description" : "Find and compare top Maid Service software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Maid Service tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/maid-service-software\">Maid Service software</a> provides management solutions for the front and back end of maid service companies.  Customer information, service calendars, employee scheduling and payroll, invoicing, payment processing, dispatch, estimating, and marketing tools are common in this type of software.  Maintaining all this information in one place helps optimize service and customer retention.  <a href=\"/maid-service-software\">Maid Service software</a> is related to <a href=\"/hospitality-property-management-software\">Hospitality Property Management software</a>, <a href=\"/field-service-management-software\">Field Service Management software</a>, <a href=\"/franchise-management-software\">Franchise Management software</a>, and <a href=\"/facility-management-software\">Facility Management software</a>.  "
+            },
+            {
+              "functional_group" : "fsm",
+              "long_name" : "Maintenance Management",
+              "html_name" : "maintenance-management-software",
+              "link_name" : "maintenance-management",
+              "product_count" : 149,
+              "meta_description" : "Find and compare top Maintenance Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Maintenance Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/maintenance-management-software>Maintenance Management software</a> automates the tracking and scheduling of maintenance activities, enabling service organizations to operate proactively while reducing downtime and increasing operating efficiency. Maintenance Management applications can automate routine tasks while keeping track of scheduled maintenance service calls and converting completed work assignments directly into invoices ready to be processed.  <a href=/maintenance-management-software>Maintenance Management software</a> is related to <a href=/field-service-management-software>Field Service Management software</a> and <a href=/service-dispatch-software>Service Dispatch software</a>."
+            },
+            {
+              "functional_group" : "fsm",
+              "long_name" : "Plumbing",
+              "html_name" : "plumbing-software",
+              "link_name" : "plumbing",
+              "product_count" : 38,
+              "meta_description" : "Find and compare top Plumbing software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Plumbing tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/plumbing-software\">Plumbing software</a> enhances the productivity of organizations that provide plumbing services by automating their day-to-day operations such as scheduling, dispatching, job costing and billing. These solutions enable communication between field employees and the dispatch office and enhance the customer experience by providing access to service history and the organization's knowledgebase to all field personnel. <a href=\"/plumbing-software\">Plumbing software</a> is related to <a href=\"/field-service-management-software\">Field Service Management software</a>."
+            },
+            {
+              "functional_group" : "fsm",
+              "long_name" : "Service Dispatch",
+              "html_name" : "service-dispatch-software",
+              "link_name" : "service-dispatch",
+              "product_count" : 141,
+              "meta_description" : "Find and compare top Service Dispatch software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Service Dispatch tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/service-dispatch-software>Service Dispatch software</a> assists with the scheduling and dispatching of field personnel.  Service Dispatch applications enhance efficiency and productivity by allowing constant contact between dispatch office and offsite personnel.  Service Dispatch solutions also provide field personnel with access to service histories, contracts, mapping services, job management and scheduling tools, expediting work orders and reducing downtime.  <a href=/service-dispatch-software>Service Dispatch software</a> is related to <a href=/field-service-management-software>Field Service Management software</a> and <a href=/maintenance-management-software>Maintenance Management software</a>."
+            },
+            {
+              "functional_group" : "fsm",
+              "long_name" : "Work Order",
+              "html_name" : "work-order-software",
+              "link_name" : "work-order",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Work Order software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Work Order tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/work-order-software>Work Order software</a> often comes as a feature or an add on to more comprehensive <a href=/field-service-management-software>Field Service Management</a>, <a href=/service-dispatch-software>Service Dispatch</a>, and <a href=/maintenance-management-software>Maintenance Management</a> software systems. However, there are also stand along applications. <a href=/work-order-software>Work Order software</a> schedules, tracks, and reports on service requests, helps dispatch technicians to jobs, identifies overdue requests, and tracks completion time and quality of service. Some applications also allow invoicing for specific work orders. This type of software is used to automate work assignment for building and fleet maintenance crews, as well as various filed service businesses."
+            }
+          ],
+          "is_upgraded" : false,
+          "enabled" : true,
+          "filter_options" : {
+            "users" : 127,
+            "platform" : 897,
+            "pricing_options" : 0,
+            "category_related_features" : [
+              18637,
+              18646,
+              18650,
+              18652,
+              18654,
+              28555,
+              28556,
+              28559,
+              37854,
+              38046,
+              38425,
+              38427,
+              48521,
+              48522,
+              48524,
+              48526,
+              48528,
+              48529,
+              48530,
+              48531,
+              48532,
+              48534,
+              48535,
+              48537,
+              48538,
+              48539,
+              48541,
+              48542,
+              48543,
+              48544,
+              48545,
+              48546,
+              48547,
+              48548
+            ],
+            "employees" : 127
+          },
+          "sort_options" : {
+            "sort_review_rating" : 3.987286329269409,
+            "most_recent_review" : "2022-08-30T19:10:01Z"
+          },
+          "countries" : "ALL",
+          "features_tokenized_text" : "billing_&_invoicing dispatch_management electronic_signature inventory_management mobile_access quotes/estimates routing scheduling work_order_management",
+          "platform_tokenized_text" : "cloud,saas,web-based mobileandroid mobileiphone mobileipad",
+          "users_tokenized_text" : "1 2-10 11-50 51-200 201-500 501-1000 1000+",
+          "pricing_tokenized_text" : "",
+          "badges" : [ ],
+          "bid_spot_us" : 0.0,
+          "currency_code" : "USD",
+          "currency_symbol" : "$",
+          "credit_card_required" : null,
+          "licensing_model" : null,
+          "open_api_offered" : "Yes",
+          "mobile_urls" : [
+            {
+              "name" : "Android",
+              "url" : "https://play.google.com/store/apps/details?id=com.marathon.mobile&hl=en"
+            },
+            {
+              "name" : "iOS",
+              "url" : "https://itunes.apple.com/us/app/pestpac-mobile/id850529183?mt=8"
+            }
+          ],
+          "integrations" : [
+            {
+              "id" : "44278a9e-09e7-4c4b-92d9-1a3739abe0ec",
+              "name" : "QuickBooks Online Advanced"
+            },
+            {
+              "id" : "19763204-ea0d-4465-9b63-a6e200c28aa7",
+              "name" : "SalesRabbit"
+            }
+          ],
+          "supported_countries" : [
+            {
+              "id" : 237,
+              "code" : "US",
+              "name" : "United States of America"
+            },
+            {
+              "id" : 41,
+              "code" : "CA",
+              "name" : "Canada"
+            }
+          ],
+          "supported_languages" : [
+            {
+              "id" : 152,
+              "code" : "en",
+              "name" : "English",
+              "location" : null
+            }
+          ],
+          "target_industries" : [
+            {
+              "id" : 41,
+              "code" : "122",
+              "name" : "Facilities Services"
+            },
+            {
+              "id" : 46,
+              "code" : "34",
+              "name" : "Food & Beverages"
+            },
+            {
+              "id" : 47,
+              "code" : "23",
+              "name" : "Food Production"
+            },
+            {
+              "id" : 140,
+              "code" : "59",
+              "name" : "Utilities"
+            },
+            {
+              "id" : 1,
+              "code" : "47",
+              "name" : "Accounting"
+            },
+            {
+              "id" : 38,
+              "code" : "86",
+              "name" : "Environmental Services"
+            },
+            {
+              "id" : 26,
+              "code" : "48",
+              "name" : "Construction"
+            },
+            {
+              "id" : 25,
+              "code" : "4",
+              "name" : "Computer Software"
+            },
+            {
+              "id" : 20,
+              "code" : "128",
+              "name" : "Commercial Real Estate"
+            },
+            {
+              "id" : 120,
+              "code" : "44",
+              "name" : "Real Estate"
+            },
+            {
+              "id" : 29,
+              "code" : "91",
+              "name" : "Consumer Services"
+            },
+            {
+              "id" : 17,
+              "code" : "54",
+              "name" : "Chemicals"
+            }
+          ],
+          "price_range_id" : 1,
+          "aggregated_review_ratings" : {
+            "industry" : {
+              "86" : 4.04,
+              "15" : 3.0,
+              "48" : 5.0,
+              "103" : 5.0,
+              "27" : 4.5,
+              "44" : 5.0,
+              "78" : 4.75,
+              "76" : 4.0,
+              "42" : 5.0,
+              "47" : 5.0,
+              "138" : 5.0,
+              "54" : 3.86,
+              "137" : 5.0,
+              "140" : 1.0,
+              "148" : 5.0,
+              "4" : 2.0,
+              "23" : 1.0,
+              "122" : 2.86,
+              "91" : 3.85,
+              "16" : 3.0,
+              "25" : 5.0,
+              "59" : 5.0,
+              "75" : 4.0,
+              "53" : 5.0
+            },
+            "company_size" : {
+              "51-200 employees" : 4.0,
+              "501-1000 employees" : 5.0,
+              "1-10 employees" : 3.98,
+              "11-50 employees" : 4.05,
+              "Self-employed" : 3.73,
+              "201-500 employees" : 4.5,
+              "1001-5000 employees" : 5.0,
+              "5001-10,000 employees" : 5.0
+            }
+          },
+          "vct_enabled" : false,
+          "pricing_plans" : [
+            {
+              "created_on_utc" : "2019-08-21T14:47:39Z",
+              "modified_on_utc" : "2022-04-11T20:39:21Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Basic",
+              "description" : null,
+              "display_order" : 1,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 1.0,
+              "ending_price" : null,
+              "pricing_model_name" : null,
+              "payment_frequency_name" : null,
+              "attributes" : [ ]
+            }
+          ],
+          "discount_types" : [ ]
+        }
+      },
+      {
+        "_index" : "product_listings_main_data_upc_vt20220920_043802_utc",
+        "_type" : "_doc",
+        "_id" : "225828_fsmxsd",
+        "_score" : 11.37608,
+        "_source" : {
+          "product_id" : 225828,
+          "seo_product_id" : 23130,
+          "seo_slug" : "PestPac",
+          "product_name" : "PestPac",
+          "upc_product_uuid" : "2dfdc881-6f7e-4f86-a07a-a6d200b5b240",
+          "old_product_ids" : [
+            23130,
+            212178
+          ],
+          "product_url" : "https://offer.workwave.com/pestpac-pest-control-software.html",
+          "product_slug" : "PestPac",
+          "former_name" : "PestPac",
+          "logo_filepath" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/f0a37192-715d-4af6-8091-cb6bc78d4ce9.png",
+          "vendor" : {
+            "vendor_id" : 2049242,
+            "vendor_name" : "WorkWave",
+            "vendor_url" : "http://www.WorkWave.com",
+            "year_founded" : 1984,
+            "location" : "United States",
+            "vendor_opted_out_of_reviews" : true,
+            "is_opted_out_of_reviews" : false,
+            "is_hit_limit" : false,
+            "enabled" : true,
+            "has_vendor_level_page" : false,
+            "slug" : null,
+            "vendor_page" : false,
+            "paused_campaign" : false
+          },
+          "category_short_name" : "fsmxsd",
+          "category_html_name" : "service-dispatch-software",
+          "category" : {
+            "id" : 30059,
+            "short_name" : "fsmxsd",
+            "long_name" : "Service Dispatch",
+            "html_name" : "service-dispatch-software",
+            "enabled" : true
+          },
+          "best_category" : "fsmxsd",
+          "is_best_category" : true,
+          "highest_cpc_category" : null,
+          "is_highest_cpc_category" : false,
+          "short_desc" : "WorkWave PestPac is built to improve all facets of your pest control business. Grow your profits. Easily manage your entire business.",
+          "long_desc" : "PestPac by WorkWave is the one true pest control software, providing robust, innovative features and empowering pest control operators to grow their business, service their customers and maximize their money. As a true all-in-one solution, PestPac enables users to reduce paperwork, operate more efficiently, generate leads, close more sales and keep customers. With 40 years of experience, PestPac offers unique expertise in developing solutions built specifically for pest control operators.",
+          "rating" : 3.9,
+          "number_of_reviews" : 165,
+          "total_reviews" : 226,
+          "ease_of_use_rating" : 3.6,
+          "customer_support_rating" : 3.9,
+          "functionality_rating" : 3.9,
+          "value_for_money_rating" : 3.8,
+          "recommendation_rating" : 7.4,
+          "pricing_enabled" : false,
+          "pricing" : null,
+          "is_per_user" : false,
+          "fee_schedule" : null,
+          "pricing_model" : null,
+          "pricing_details" : null,
+          "pricing_created_on" : "2019-08-21T14:47:39Z",
+          "pricing_modified_on" : "2022-04-11T20:39:17Z",
+          "pricing_created_by" : null,
+          "pricing_modified_by" : null,
+          "pricing_vendor_pricing_url" : null,
+          "free_trial" : false,
+          "free_version" : false,
+          "target_audience" : "Residential and commercial small to enterprise-level pest control companies.",
+          "target_users" : [
+            "1",
+            "2-10",
+            "11-50",
+            "51-200",
+            "201-500",
+            "501-1000",
+            "1000+"
+          ],
+          "platform" : [
+            {
+              "enabled" : true,
+              "name" : "Cloud, SaaS, Web-Based"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Mac"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Chromebook"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile Android"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPhone"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPad"
+            }
+          ],
+          "support" : [
+            {
+              "enabled" : true,
+              "name" : "Email Help Desk"
+            },
+            {
+              "enabled" : true,
+              "name" : "FAQ Forum"
+            },
+            {
+              "enabled" : true,
+              "name" : "Knowledgebase"
+            },
+            {
+              "enabled" : true,
+              "name" : "Phone Support"
+            },
+            {
+              "enabled" : false,
+              "name" : "24/7 Live Rep"
+            },
+            {
+              "enabled" : true,
+              "name" : "Chat"
+            }
+          ],
+          "training" : [
+            {
+              "enabled" : false,
+              "name" : "Not Offered"
+            },
+            {
+              "enabled" : true,
+              "name" : "In-Person"
+            },
+            {
+              "enabled" : true,
+              "name" : "Live Online"
+            },
+            {
+              "enabled" : true,
+              "name" : "Webinars"
+            },
+            {
+              "enabled" : true,
+              "name" : "Documentation"
+            },
+            {
+              "enabled" : true,
+              "name" : "Videos"
+            }
+          ],
+          "media" : [
+            {
+              "product_id" : 225828,
+              "vendor_id" : 2049242,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/2727cfb4-a136-4ae9-b37b-ea3f4d995ae1.png",
+              "caption" : "Customer Portal",
+              "weight" : 1,
+              "short_name" : "fsmxsd"
+            },
+            {
+              "product_id" : 225828,
+              "vendor_id" : 2049242,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/04d4f51c-d0f2-418e-9087-96a2cc380050.jpeg",
+              "caption" : "Route Optimization",
+              "weight" : 2,
+              "short_name" : "fsmxsd"
+            },
+            {
+              "product_id" : 225828,
+              "vendor_id" : 2049242,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/5791b8c4-6faa-43d8-b205-5d51915c1cb0.png",
+              "caption" : "Sales Center ",
+              "weight" : 3,
+              "short_name" : "fsmxsd"
+            },
+            {
+              "product_id" : 225828,
+              "vendor_id" : 2049242,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/b9965c34-873e-4995-9d23-1cd32b830b03.png",
+              "caption" : "Business Analytics",
+              "weight" : 4,
+              "short_name" : "fsmxsd"
+            },
+            {
+              "product_id" : 225828,
+              "vendor_id" : 2049242,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/49a1a514-c3ef-4dea-8a2d-6834e61c85d0.webp",
+              "caption" : "PestPac Multi-Unit",
+              "weight" : 5,
+              "short_name" : "fsmxsd"
+            },
+            {
+              "product_id" : 225828,
+              "vendor_id" : 2049242,
+              "media_type" : "VIDEO",
+              "path_url" : "https://workwave.wistia.com/medias/z6e01n2dzc",
+              "caption" : null,
+              "weight" : 0,
+              "short_name" : "fsmxsd"
+            }
+          ],
+          "links" : [ ],
+          "features" : [
+            {
+              "category_name" : "Service Dispatch",
+              "category_features" : [
+                {
+                  "name" : "Billing & Invoicing",
+                  "value" : true,
+                  "id" : "b9829f5b-1e19-49e7-b343-c2286973de15",
+                  "avg_rating" : 3.4,
+                  "cnt_rating" : 7,
+                  "avg_importance" : 2.6,
+                  "cnt_importance" : 5,
+                  "cnt_time_used" : 5,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 5,
+                  "pct_time_critical" : 0.6,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Create and manage monetary interactions between parties (ie. bills and invoices)"
+                },
+                {
+                  "name" : "Contract/License Management",
+                  "value" : false,
+                  "id" : "efd314c0-e308-412f-9ff3-8bd8745c3096",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Track, store, and access client/customer contracts"
+                },
+                {
+                  "name" : "Customer Database",
+                  "value" : false,
+                  "id" : "be9bfa3a-3e91-44f8-8207-5c3fb385a54b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Searchable repository of information about clients"
+                },
+                {
+                  "name" : "Inventory Control",
+                  "value" : false,
+                  "id" : "0314b703-d4f8-4465-af7a-e1c6c3b3721e",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Monitor product stock levels"
+                },
+                {
+                  "name" : "Job Management",
+                  "value" : true,
+                  "id" : "df7dfb70-67b4-4f9f-98e1-3399a184c3ac",
+                  "avg_rating" : 1.5,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 1.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Manage all job information in one place"
+                },
+                {
+                  "name" : "Mobile Access",
+                  "value" : true,
+                  "id" : "15d49235-ad13-4d33-b009-edd50126375b",
+                  "avg_rating" : 3.5,
+                  "cnt_rating" : 8,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 4,
+                  "cnt_time_used" : 4,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 4,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Access the software remotely via mobile devices"
+                },
+                {
+                  "name" : "Routing",
+                  "value" : true,
+                  "id" : "2edeff5e-4a6d-49f6-aeb7-a79de1cda540",
+                  "avg_rating" : 2.7,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Provide directions and plan the day's work to optimize employee scheduling"
+                },
+                {
+                  "name" : "Self Service Portal",
+                  "value" : false,
+                  "id" : "80f0258d-e261-4136-ba81-a5251a304f8e",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Gateway through which end users can access the system"
+                },
+                {
+                  "name" : "Service History",
+                  "value" : false,
+                  "id" : "aa27c3f2-09d9-4db3-b017-8f3c488ef9b4",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Track work performed and resources used for past customers, sites, or assets"
+                },
+                {
+                  "name" : "Technician Management",
+                  "value" : true,
+                  "id" : "ea2c500d-0483-4417-813c-e03cf84c2db3",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Track and oversee work orders assigned to technicians"
+                },
+                {
+                  "name" : "Work Order Management",
+                  "value" : true,
+                  "id" : "2caace3e-d52a-4874-bb04-d700557cf547",
+                  "avg_rating" : 3.3,
+                  "cnt_rating" : 6,
+                  "avg_importance" : 2.67,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.667,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Create work orders and track their status to completion"
+                }
+              ]
+            }
+          ],
+          "infographics" : [ ],
+          "related_products" : [
+            {
+              "product_id" : 140363,
+              "seo_product_id" : 212387,
+              "seo_slug" : "Housecall-Pro",
+              "vendor_name" : "Housecall Pro",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e5acd859-9814-442f-91f2-01e124d15963.png",
+              "rating" : 4.7,
+              "total_reviews" : 2620,
+              "slug" : "HouseCall-Pro",
+              "product_name" : "Housecall Pro",
+              "short_desc" : "Housecall Pro is a top-rated business solution for home service professionals to streamline scheduling, dispatching, payments, & more.",
+              "features" : "Call now to get up to 80% off your first month: 855-921-4757.\n\nHousecall Pro is a top-rated, all-in-one business solution that helps home service professionals work simpler and grow smarter. With easy-to-use digital tools for scheduling and dispatching jobs, managing payments, automating marketing efforts, and more, Housecall Pro helps Pros efficiently manage every aspect of their business all in one place.\n",
+              "url" : "https://www.housecallpro.com/get-started/?utm_source=gartner&utm_medium=paid-external-page&utm_campaign=field-service-management&mc=capterra&msc=back-to-school-promo-3q-2022"
+            },
+            {
+              "product_id" : 138669,
+              "seo_product_id" : 239420,
+              "seo_slug" : "KeepTruckin",
+              "vendor_name" : "Motive",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/a755e735-3c73-47d0-9a0e-dc5dcfca7e3c.png",
+              "rating" : 4.5,
+              "total_reviews" : 1290,
+              "slug" : "KeepTruckin",
+              "product_name" : "Motive",
+              "short_desc" : "Automate complex operations for your dispatch to gain optimal performance. ",
+              "features" : "Motive, formerly KeepTruckin, builds technology to improve the safety, productivity, and profitability of businesses that power the physical economy. The Motive Automated Operations Platform combines IoT hardware with AI-powered applications to automate vehicle and equipment tracking, driver safety, compliance, maintenance, spend management, and more. Motive serves more than 120,000 businesses in trucking and logistics, construction, oil and gas, food and beverage, field service & agriculture.",
+              "url" : "https://gomotive.com/products/dispatch-workflow?utm_campaign=LTGA-2022-04-Service-Dispatch&utm_medium=listing&utm_term=service-batch"
+            },
+            {
+              "product_id" : 77264,
+              "seo_product_id" : 77264,
+              "seo_slug" : "mHelpDesk",
+              "vendor_name" : "mHelpDesk",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/273c54aa-4d75-41b9-9914-e2c0a26baa2c.png",
+              "rating" : 4.3,
+              "total_reviews" : 801,
+              "slug" : "mHelpDesk",
+              "product_name" : "mHelpDesk",
+              "short_desc" : "The fastest, easiest, and highest value dispatch software to automate everything from first customer contact to getting paid.",
+              "features" : "mHelpDesk is the #1 easiest and most powerful software solution for your dispatch, automating everything from first customer contact all the way to getting paid. We provide our customers with mobile and online tools that are unmatched in performance, reliability, and functionality. We've packed the best tools into one extremely easy-to-use and affordable package that requires no big upfront investment. And we have in-house product experts to get you up and running immediately.",
+              "url" : "https://www.mhelpdesk.com/features/scheduling-and-dispatch/?utm_medium=cpc&utm_campaign=service-dispatch"
+            },
+            {
+              "product_id" : 191474,
+              "seo_product_id" : 72551,
+              "seo_slug" : "Fleetmatics-Work",
+              "vendor_name" : "Verizon Connect",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/681064a2-e7b6-4c46-a5f7-4547af1c3e94.png",
+              "rating" : 3.1,
+              "total_reviews" : 760,
+              "slug" : "Field-Service-Dispatch",
+              "product_name" : "Verizon Connect",
+              "short_desc" : "Verizon WORK field service automation software helps companies like yours get the most out of their team.\r\nGet Paid Faster!",
+              "features" : "Verizon WORK field service automation software helps companies like yours get the most out of their team by eliminating inaccurate paperwork, gaining instant visibility into work schedules and efficiently getting information from the field to the office in real time.\r\n-Get Organised\r\n-Gain Control of Your Schedule\r\n-Make Your Staff More Productive\r\n-Get Paid Faster",
+              "url" : "https://www.verizonconnect.com/solutions/field-service-management-software/?lead=Capterra&utm_campaign=Field%20Service%20Management%20Demo&utm_medium=media%20programs&utm_source=capterra&utm_content=Service%20Dispatch"
+            },
+            {
+              "product_id" : 127994,
+              "seo_product_id" : 226766,
+              "seo_slug" : "Jobber",
+              "vendor_name" : "Jobber Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8f70afa2-9658-46e3-9871-9c90ef679553.png",
+              "rating" : 4.5,
+              "total_reviews" : 603,
+              "slug" : "Jobber",
+              "product_name" : "Jobber",
+              "short_desc" : "Jobber is perfect for service businesses that want to keep jobs on track and provide a seamless customer experience. Try it free!",
+              "features" : "Jobber keeps your jobs on track and your customers informed. Schedule jobs more efficiently, dispatch techs optimize routes, and send quotes and invoices by text. Give your crew the job details they need, see where they are, and get notified when a job is done. Send automatic payment reminders and take payments instantly in-person, online within 24 hours, or automatically every month. With a mobile app, free training, and simple setup, Jobber helps you save time while delivering 5-star service.",
+              "url" : "https://getjobber.com/dlp/fsm-software/?utm_medium=cpc&utm_campaign=service_dispatch&utm_content=visit_website_button"
+            },
+            {
+              "product_id" : 130989,
+              "seo_product_id" : 227011,
+              "seo_slug" : "RazorSync",
+              "vendor_name" : "RazorSync",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/c564f283-92d5-4d8c-bf99-d7d9551bedd9.png",
+              "rating" : 4.3,
+              "total_reviews" : 486,
+              "slug" : "RazorSync",
+              "product_name" : "RazorSync",
+              "short_desc" : "Streamline your service business with RazorSync's estimating, work order scheduling and invoicing app. Free, full-access trial!",
+              "features" : "RazorSync field service management software allows you to manage your business from phone, tablet, or office computer. View workers and jobs on a map, schedule and dispatch employees via text or email, and shorten the payment cycle with job site invoicing. Customer records are automatically updated in QuickBooks, reducing back-office entry and errors. All your data is stored in the cloud, accessible from any mobile device. Our customers report higher billings, revenue, and customer satisfaction.",
+              "url" : "https://www.razorsync.com/features/field-service-tech-management/?utm_source=Capterra"
+            },
+            {
+              "product_id" : 122541,
+              "seo_product_id" : 232369,
+              "seo_slug" : "Kickserv",
+              "vendor_name" : "KickServ",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d1e7d608-d772-44d5-beb5-cb794d0b7851.png",
+              "rating" : 4.4,
+              "total_reviews" : 332,
+              "slug" : "Kickserv",
+              "product_name" : "Kickserv",
+              "short_desc" : "Easy to use & implement field service software automating your mobile work force.  Manage Leads, Estimates, Jobs & Invoices. Sync to QB",
+              "features" : "TRUSTED BY SERVICE DISPATCH PROFESSIONALS. #1 Most user-friendly & most affordable software for local service companies with 1-25 employees. Complete job management: scheduling, leads management, estimates, running complete jobs from the field, invoices, payments & more! Fully integrated with Quickbooks. We are also one of the most proven platforms available to simplify and manage your service business. Trusted by 1000s of service businesses for over 20 years. Plans starting as low as $39/month.",
+              "url" : "https://app.kickserv.com/app/signup?utm_source=capterra&utm_medium=cpc&utm_campaign=profile&utm_content=dispatch"
+            },
+            {
+              "product_id" : 149633,
+              "seo_product_id" : 220490,
+              "seo_slug" : "Route4Me",
+              "vendor_name" : "Route4Me",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/80d360b1-4f1a-4162-88c7-529b65658d96.png",
+              "rating" : 4.4,
+              "total_reviews" : 312,
+              "slug" : "Route4Me",
+              "product_name" : "Route4Me",
+              "short_desc" : "Routing chaos finally solved! Extremely easy-to-use, Route4Me plans routes for your business.\n\nCall Today & Get Started\n+1-888-552-9045",
+              "features" : "Routing chaos finally solved. Extremely easy-to-use, Route4Me automatically plans routes for your business and dispatches them to a mobile app with built-in navigation. \n\nPerfect for field service, field sales, field marketing, territory management, and every business requiring last-mile optimization.\n\nRoute4Me provides the world's most used route sequencing and optimization software for small businesses and enterprises to over 35,000 customers.\n\nCall Today & Get Started\n+1-888-552-9045",
+              "url" : "https://www.route4me.com/?utm_source=capterra&utm_medium=ppc&utm_campaign=route_planner"
+            },
+            {
+              "product_id" : 111740,
+              "seo_product_id" : 5841,
+              "seo_slug" : "FieldEdge",
+              "vendor_name" : "Xplor Technologies",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/aff1b11c-8e00-4b36-b34a-4d7b4a817da3.png",
+              "rating" : 4.3,
+              "total_reviews" : 280,
+              "slug" : "FieldEdge",
+              "product_name" : "FieldEdge",
+              "short_desc" : "The #1 software to run your entire business - FieldEdge helps you save time and make you more money!\n",
+              "features" : "The field service management software to run your entire business is the one that the owner, office staff and technicians actually find helpful! Scheduling and dispatching techs more efficiently means completing more jobs daily, increasing customer satisfaction and increasing profit. Along with dispatching techs to the field, FieldEdge gives contractors the power to take payments in the field, create service agreements, integrate with QuickBooks and much more.",
+              "url" : "https://fieldedge.com/ppc/capterra/service-dispatch/?utm_medium=cpc&utm_term=service%20dispatch"
+            },
+            {
+              "product_id" : 132690,
+              "seo_product_id" : 223417,
+              "seo_slug" : "ServiceTrade",
+              "vendor_name" : "ServiceTrade",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/2d8e754b-00f3-4a05-ac7a-40f4ff3a7511.png",
+              "rating" : 4.6,
+              "total_reviews" : 272,
+              "slug" : "ServiceTrade-Commercial",
+              "product_name" : "ServiceTrade",
+              "short_desc" : "ServiceTrade mobile and web applications coordinate office staff and field technicians to deliver an amazing customer experience.",
+              "features" : "ServiceTrade mobile and web apps streamline service operations for commercial service contractors by managing work orders, scheduling planned work, and dispatching for emergency services. When customers call with emergencies, check the dispatch board to see who is available, alert your technicians of any appointment changes, access customer history and records, and track your techs' progress. Go paperless so you can invoice customers faster and improve your customer service.",
+              "url" : "https://www.servicetrade.com/lp/capterra/"
+            },
+            {
+              "product_id" : 149343,
+              "seo_product_id" : 62749,
+              "seo_slug" : "Smart-Service",
+              "vendor_name" : "My Service Depot",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/16ffe04a-6d34-4036-be20-2fe628cd39dc.png",
+              "rating" : 4.3,
+              "total_reviews" : 260,
+              "slug" : "Smart-Service",
+              "product_name" : "Smart Service",
+              "short_desc" : "Add scheduling, billing, work orders, and customer management to QuickBooks with Smart Service, the best software for contractors.",
+              "features" : "Already using QuickBooks to manage your accounting? Kick things up a notch with Smart Service, the direct QuickBooks add-on that tackles scheduling, billing, dispatch, customer management, work orders, service histories, and more. Replace your clipboards and filing cabinets with an easy-to-use, 100% paperless, 100% mobile software system that will streamline your operations, eliminate waste, boost revenue, and ultimately grow your business.",
+              "url" : "https://www.smartservice.com/field-service-software-landing/"
+            }
+          ],
+          "similar_products" : [
+            {
+              "product_id" : 140363,
+              "seo_product_id" : 212387,
+              "seo_slug" : "Housecall-Pro",
+              "vendor_name" : "Housecall Pro",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e5acd859-9814-442f-91f2-01e124d15963.png",
+              "rating" : 4.7,
+              "total_reviews" : 2620,
+              "slug" : "HouseCall-Pro",
+              "product_name" : "Housecall Pro",
+              "short_desc" : "Housecall Pro is a top-rated business solution for home service professionals to streamline scheduling, dispatching, payments, & more.",
+              "features" : "Call now to get up to 80% off your first month: 855-921-4757.\n\nHousecall Pro is a top-rated, all-in-one business solution that helps home service professionals work simpler and grow smarter. With easy-to-use digital tools for scheduling and dispatching jobs, managing payments, automating marketing efforts, and more, Housecall Pro helps Pros efficiently manage every aspect of their business all in one place.\n",
+              "url" : "https://www.housecallpro.com/get-started/?utm_source=gartner&utm_medium=paid-external-page&utm_campaign=field-service-management&mc=capterra&msc=back-to-school-promo-3q-2022"
+            },
+            {
+              "product_id" : 111740,
+              "seo_product_id" : 5841,
+              "seo_slug" : "FieldEdge",
+              "vendor_name" : "Xplor Technologies",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/aff1b11c-8e00-4b36-b34a-4d7b4a817da3.png",
+              "rating" : 4.3,
+              "total_reviews" : 280,
+              "slug" : "FieldEdge",
+              "product_name" : "FieldEdge",
+              "short_desc" : "The #1 software to run your entire business - FieldEdge helps you save time and make you more money!\n",
+              "features" : "The field service management software to run your entire business is the one that the owner, office staff and technicians actually find helpful! Scheduling and dispatching techs more efficiently means completing more jobs daily, increasing customer satisfaction and increasing profit. Along with dispatching techs to the field, FieldEdge gives contractors the power to take payments in the field, create service agreements, integrate with QuickBooks and much more.",
+              "url" : "https://fieldedge.com/ppc/capterra/field-service-management/?utm_medium=cpc&utm_term=field%20service%20management"
+            },
+            {
+              "product_id" : 127994,
+              "seo_product_id" : 226766,
+              "seo_slug" : "Jobber",
+              "vendor_name" : "Jobber Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8f70afa2-9658-46e3-9871-9c90ef679553.png",
+              "rating" : 4.5,
+              "total_reviews" : 603,
+              "slug" : "Jobber",
+              "product_name" : "Jobber",
+              "short_desc" : "Jobber is perfect for service businesses that want to keep jobs on track and provide a seamless customer experience. Try it free!",
+              "features" : "Jobber keeps your jobs on track and your customers informed. Schedule jobs more efficiently, dispatch techs optimize routes, and send quotes and invoices by text. Give your crew the job details they need, see where they are, and get notified when a job is done. Send automatic payment reminders and take payments instantly in-person, online within 24 hours, or automatically every month. With a mobile app, free training, and simple setup, Jobber helps you save time while delivering 5-star service.",
+              "url" : "https://getjobber.com/?utm_medium=cpc&utm_campaign=fsmhome&utm_content=visit_website_button"
+            },
+            {
+              "product_id" : 153526,
+              "seo_product_id" : 227100,
+              "seo_slug" : "Field-Service-Lightning",
+              "vendor_name" : "Salesforce",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/bcf20b96-c675-463c-97ab-9d16f27345ca.png",
+              "rating" : 4.2,
+              "total_reviews" : 19,
+              "slug" : "Field-Service-Lightning",
+              "product_name" : "Salesforce Field Service",
+              "short_desc" : "You can instantly book service appointments from Lightning Console. Increase employee productivity by automatically assigning appointme",
+              "features" : "Dispatcher Console lets you ensure that the right job is assigned and routed to the right mobile employee every time. Immediately see alerts for issues that need attention and take action. Schedule bulk jobs with just one click, and track and monitor the service delivery in real time. You can instantly book service appointments from Lightning Console. Increase employee productivity by automatically assigning appointments to the right technician based on time, skills, location, and business rules",
+              "url" : "https://www.salesforce.com/form/sem/field-service-lightning/?d=7010M0000..."
+            },
+            {
+              "product_id" : 123572,
+              "seo_product_id" : 226071,
+              "seo_slug" : "Vonigo",
+              "vendor_name" : "Vonigo",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/81119311-731f-4a15-b63e-c6bf7a09cfca.png",
+              "rating" : 4.7,
+              "total_reviews" : 73,
+              "slug" : "Vonigo",
+              "product_name" : "Vonigo",
+              "short_desc" : "Vonigo works great for service companies looking to streamline operations and increase sales.",
+              "features" : "Vonigo helps streamline the service dispatch process from end-to-end. We offer a unified suite of configurable cloud-based modules including; service dispatch, scheduling, routing, GPS, work order management, online booking, CRM, estimating, invoicing, payments, reporting, and more all accessible over the internet from any desktop or mobile device. Millions of jobs have been booked and managed with Vonigo. Join us for a Free demo today.",
+              "url" : "https://go.vonigo.com/field-service-management?utm_source=capterra&utm_medium=referral"
+            },
+            {
+              "product_id" : 158918,
+              "seo_product_id" : 239440,
+              "seo_slug" : "ServiceCore",
+              "vendor_name" : "ServiceCore",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/21fc8aa5-bdaf-4274-9383-874aaf141b94.png",
+              "rating" : 4.0,
+              "total_reviews" : 51,
+              "slug" : "ServiceCore",
+              "product_name" : "ServiceCore",
+              "short_desc" : "Get More Done & Stress Less with one tool built to supercharge liquid waste & roll-off businesses",
+              "features" : "Get More Done. Stress Less.\nSupercharge your liquid waste or roll-off business with one tool that cuts wasted time, manages jobs, optimizes routes, tracks inventory, and automates billing. That's more revenue, happy staff, and satisfied customers.",
+              "url" : "https://try.servicecore.com/servicecore-software-capterra"
+            },
+            {
+              "product_id" : 98911,
+              "seo_product_id" : 222372,
+              "seo_slug" : "Ventus",
+              "vendor_name" : "Jonas Construction Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/0eb1f4bd-3f03-4d3a-ba72-4a9ba623d7a1.png",
+              "rating" : 4.3,
+              "total_reviews" : 42,
+              "slug" : "VMS-for-Service-Managers",
+              "product_name" : "Ventus",
+              "short_desc" : "Vertical Market Software is a fully-integrated construction enterprise software solution to help you run and manage your business.",
+              "features" : "Vertical Market Software is a fully-integrated service management solution. VMS' mobile software solution allows contractors with service departments to effectively enter data from the field, reduce paper costs, streamline communications, and use GPS mapping for better dispatching. With the ability to operate on all tablets, including iPad and Android devices, VMS mobile is a solution your field technicians will get on board with.",
+              "url" : "http://try.verticalmarketsoftware.com/capterra_service-management-/"
+            },
+            {
+              "product_id" : 136363,
+              "seo_product_id" : 218471,
+              "seo_slug" : "ServiceBox",
+              "vendor_name" : "Jobbox Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d9358e1c-7f84-4e0f-bbe2-6d45bac65f76.png",
+              "rating" : 4.3,
+              "total_reviews" : 100,
+              "slug" : "ServiceBox",
+              "product_name" : "ServiceBox",
+              "short_desc" : "Quick Dispatch, schedule from calendar, find the nearest technician and get them on site quickly with mobile access and other features.",
+              "features" : "Struggling to stay up to speed with your scheduling?  Need to dispatch work orders quickly? Want to find the technician closest to the job site? ServiceBox has the capability to make your dispatching easy.  Add Work Orders directly from the scheduler and dispatch in seconds to the technician. \r\nCredit card payments on site and integration with Quickbooks and Sage 50 (Canada) managing your operations has never been easier.\r\nServiceBox allows you to take your company mobile and so much more!",
+              "url" : "https://www.getservicebox.com/?utm_source=referral&utm_medium=capterra&utm_campaign=general_category"
+            },
+            {
+              "product_id" : 160948,
+              "seo_product_id" : 238209,
+              "seo_slug" : "Tenna",
+              "vendor_name" : "Tenna",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/c12452c9-dd2b-4a02-baeb-cb11d047b961.png",
+              "rating" : 4.6,
+              "total_reviews" : 24,
+              "slug" : "Tenna",
+              "product_name" : "Tenna",
+              "short_desc" : "The first construction-specific dispatch solution for mixed asset fleets leveraging telematics-based insights.",
+              "features" : "Tenna's Resource Management Product is the first construction-specific dispatch solution for mixed asset fleets leveraging telematics-based insights. With Tenna's construction resource management software, field personnel can reserve assets along with related labor and crews they need for their projects, make requests and reservations and coordinate moving equipment and materials between locations. Logistics and equipment managers can leverage the construction scheduling and dispatch functional.",
+              "url" : "https://www.tenna.com/?utm_source=capterra&utm_medium=referral"
+            },
+            {
+              "product_id" : 183763,
+              "seo_product_id" : 230570,
+              "seo_slug" : "Payzerware",
+              "vendor_name" : "Payzer",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/879d9b0f-0ec0-4fc0-a86e-e419ee7dee38.png",
+              "rating" : 4.7,
+              "total_reviews" : 42,
+              "slug" : "Payzerware",
+              "product_name" : "Payzerware",
+              "short_desc" : "Payzerware is the field management software for contractors focused on simplifying operations, managing teams, and growing business.",
+              "features" : "Payzerware is built for HVAC, plumbing, and industry contractors focused on growing their business. Whether you need to simplify your operations, improve collections, or sell more jobs, Payzerware can solve that for you.\n+ Schedule and dispatch with ease\n+ View customer history, parts, and equipment\n+ Produce professional proposals\n+Access an integrated flat rate pricebook\n+ Create invoices\n+ Accept credit or debit cards, and checks\n+ Works with QuickBooks",
+              "url" : "https://payzer.com?utm_medium=ppc&utm_campaign=affiliate&utm_audience=native&utm_content=payzerware"
+            },
+            {
+              "product_id" : 233506,
+              "seo_product_id" : 233506,
+              "seo_slug" : "ServiceBase",
+              "vendor_name" : "ServiceBase",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/39a4c6fe-429f-4028-b772-f13e813deff6.png",
+              "rating" : 0.0,
+              "total_reviews" : 0,
+              "slug" : "ServiceBase",
+              "product_name" : "ServiceBase",
+              "short_desc" : "Dispatching software for small businesses designed to help dispatchers, technicians, and customers create and schedule jobs. ",
+              "features" : "Dispatching software for small businesses designed to help dispatchers, technicians, and customers create and schedule jobs. ",
+              "url" : "https://www.servicebase.net"
+            },
+            {
+              "product_id" : 116489,
+              "seo_product_id" : 789,
+              "seo_slug" : "IFS",
+              "vendor_name" : "IFS",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/aaad71de-099b-425d-813f-a39091170114.png",
+              "rating" : 4.5,
+              "total_reviews" : 22,
+              "slug" : "IFS",
+              "product_name" : "IFS Field Service Management",
+              "short_desc" : "IFS Field Service Management is an industry-leading service lifecycle management solution.",
+              "features" : "IFS develops and delivers enterprise software for customers around the world who manufacture and distribute goods, maintain assets, and manage service-focused operations. IFS Field Service Management offers the most complete service lifecycle management solution, with industry-leading functional breadth to tackle the most complex emerging field service challenges.",
+              "url" : "http://ifs.biz/tbhnx"
+            },
+            {
+              "product_id" : 189894,
+              "seo_product_id" : 223843,
+              "seo_slug" : "Commusoft",
+              "vendor_name" : "Commusoft",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/6f8b4457-3fc8-499a-853d-b88823d7f375.png",
+              "rating" : 4.7,
+              "total_reviews" : 173,
+              "slug" : "Commusoft",
+              "product_name" : "Commusoft",
+              "short_desc" : "Take your service dispatch management to the next level with Commusoft cloud-based web and mobile software.",
+              "features" : "Whether your focus is on boosting profits, driving more efficiency with your workforce, or improving the customer experience you provide, Commusoft has a solution that fits your needs. From scheduling and dispatching, all the way to the final invoice, you can manage employees, finances, inventory, and more with ease. By automating your most tedious workflows, you'll cut back on cost and maximize profitability.",
+              "url" : "https://www.commusoft.us/demo-video-promo/?utm_campaign=Capterra&utm_source=ppc&utm_medium=demo&utm_content=fsm&capterra=capterra"
+            }
+          ],
+          "related_categories" : [
+            {
+              "functional_group" : "fsmxsd",
+              "long_name" : "Field Service Management",
+              "html_name" : "field-service-management-software",
+              "link_name" : "field-service-management",
+              "product_count" : 219,
+              "meta_description" : "Find and compare top Field Service Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Field Service Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/field-service-management-software>Field Service Management software</a> enables organizations to manage resources and communicate with field employees.  Field Service Management systems enhance productivity by allowing constant contact between dispatch office and offsite personnel. They improve the customer experience by giving field personnel access to service histories, mapping services, scheduling tools and to the organization's knowledge base resources.  <a href=/field-service-management-software>Field Service Management software</a> is related to <a href=/maintenance-management-software>Maintenance Management software</a> and <a href=/service-dispatch-software>Service Dispatch software</a>."
+            },
+            {
+              "functional_group" : "fsmxsd",
+              "long_name" : "Locksmith",
+              "html_name" : "locksmith-software",
+              "link_name" : "locksmith",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Locksmith software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Locksmith tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "Locksmith software automates business operations, such as scheduling, dispatching, billing and customer management, for locksmith companies."
+            },
+            {
+              "functional_group" : "fsmxsd",
+              "long_name" : "Transportation Dispatch",
+              "html_name" : "transportation-dispatch-software",
+              "link_name" : "transportation-dispatch",
+              "product_count" : 119,
+              "meta_description" : "Find and compare top Transportation Dispatch software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Transportation Dispatch tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/transportation-dispatch-software\">Transportation Dispatch software</a> allows dispatchers to view, track and manage dispatch activities from one central location. These solutions can track courier, delivery, service vehicles and trucking data. Shipment needs can be matched with available resources where optimal routes and loads can be determined.  <a href=\"/transportation-dispatch-software\">Transportation Dispatch software</a> is related to <a href=\"/trucking-software\">Trucking software</a>, <a href=\"/fleet-management-software\">Fleet Management software</a>, <a href=\"/shipping-software\">Shipping Management software</a>, <a href=\"/courier-software\">Courier software</a>, <a href=\"/service-dispatch-software\">Service Dispatch software</a>, and <a href=\"/logistics-software\">Logistics software</a>."
+            }
+          ],
+          "is_upgraded" : false,
+          "enabled" : true,
+          "filter_options" : {
+            "users" : 127,
+            "platform" : 897,
+            "pricing_options" : 0,
+            "category_related_features" : [
+              20148,
+              20158,
+              20161,
+              20165,
+              38036,
+              38052,
+              38451,
+              42842,
+              42843,
+              52531,
+              52533,
+              52534,
+              52535,
+              52537,
+              52538,
+              52539,
+              52540,
+              52541,
+              52543,
+              52544,
+              52546,
+              52547,
+              52548,
+              52549,
+              52550,
+              52551,
+              52552,
+              52554,
+              52558,
+              52559,
+              52560,
+              52561,
+              52562,
+              52563,
+              52565
+            ],
+            "employees" : 127
+          },
+          "sort_options" : {
+            "sort_review_rating" : 3.9694387912750244,
+            "most_recent_review" : "2022-08-30T19:10:01Z"
+          },
+          "countries" : "CA,UK,US",
+          "features_tokenized_text" : "billing_&_invoicing job_management mobile_access routing technician_management work_order_management",
+          "platform_tokenized_text" : "cloud,saas,web-based mobileandroid mobileiphone mobileipad",
+          "users_tokenized_text" : "1 2-10 11-50 51-200 201-500 501-1000 1000+",
+          "pricing_tokenized_text" : "",
+          "badges" : [ ],
+          "bid_spot_us" : 0.0,
+          "currency_code" : "USD",
+          "currency_symbol" : "$",
+          "credit_card_required" : null,
+          "licensing_model" : null,
+          "open_api_offered" : "Yes",
+          "mobile_urls" : [
+            {
+              "name" : "Android",
+              "url" : "https://play.google.com/store/apps/details?id=com.marathon.mobile&hl=en"
+            },
+            {
+              "name" : "iOS",
+              "url" : "https://itunes.apple.com/us/app/pestpac-mobile/id850529183?mt=8"
+            }
+          ],
+          "integrations" : [
+            {
+              "id" : "44278a9e-09e7-4c4b-92d9-1a3739abe0ec",
+              "name" : "QuickBooks Online Advanced"
+            },
+            {
+              "id" : "19763204-ea0d-4465-9b63-a6e200c28aa7",
+              "name" : "SalesRabbit"
+            }
+          ],
+          "supported_countries" : [
+            {
+              "id" : 237,
+              "code" : "US",
+              "name" : "United States of America"
+            },
+            {
+              "id" : 41,
+              "code" : "CA",
+              "name" : "Canada"
+            }
+          ],
+          "supported_languages" : [
+            {
+              "id" : 152,
+              "code" : "en",
+              "name" : "English",
+              "location" : null
+            }
+          ],
+          "target_industries" : [
+            {
+              "id" : 41,
+              "code" : "122",
+              "name" : "Facilities Services"
+            },
+            {
+              "id" : 46,
+              "code" : "34",
+              "name" : "Food & Beverages"
+            },
+            {
+              "id" : 47,
+              "code" : "23",
+              "name" : "Food Production"
+            },
+            {
+              "id" : 140,
+              "code" : "59",
+              "name" : "Utilities"
+            },
+            {
+              "id" : 1,
+              "code" : "47",
+              "name" : "Accounting"
+            },
+            {
+              "id" : 38,
+              "code" : "86",
+              "name" : "Environmental Services"
+            },
+            {
+              "id" : 26,
+              "code" : "48",
+              "name" : "Construction"
+            },
+            {
+              "id" : 25,
+              "code" : "4",
+              "name" : "Computer Software"
+            },
+            {
+              "id" : 20,
+              "code" : "128",
+              "name" : "Commercial Real Estate"
+            },
+            {
+              "id" : 120,
+              "code" : "44",
+              "name" : "Real Estate"
+            },
+            {
+              "id" : 29,
+              "code" : "91",
+              "name" : "Consumer Services"
+            },
+            {
+              "id" : 17,
+              "code" : "54",
+              "name" : "Chemicals"
+            }
+          ],
+          "price_range_id" : 1,
+          "aggregated_review_ratings" : {
+            "industry" : {
+              "138" : 5.0,
+              "122" : 2.86,
+              "140" : 1.0,
+              "27" : 4.5,
+              "4" : 2.0,
+              "47" : 5.0,
+              "59" : 5.0,
+              "148" : 5.0,
+              "44" : 5.0,
+              "16" : 3.0,
+              "42" : 5.0,
+              "86" : 4.04,
+              "137" : 5.0,
+              "53" : 5.0,
+              "76" : 4.0,
+              "25" : 5.0,
+              "48" : 5.0,
+              "23" : 1.0,
+              "54" : 3.86,
+              "78" : 4.75,
+              "103" : 5.0,
+              "91" : 3.85,
+              "15" : 3.0,
+              "75" : 4.0
+            },
+            "company_size" : {
+              "1-10 employees" : 3.98,
+              "Self-employed" : 3.73,
+              "1001-5000 employees" : 5.0,
+              "501-1000 employees" : 5.0,
+              "51-200 employees" : 4.0,
+              "201-500 employees" : 4.5,
+              "5001-10,000 employees" : 5.0,
+              "11-50 employees" : 4.05
+            }
+          },
+          "vct_enabled" : false,
+          "pricing_plans" : [
+            {
+              "created_on_utc" : "2019-08-21T14:47:39Z",
+              "modified_on_utc" : "2022-04-11T20:39:21Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Basic",
+              "description" : null,
+              "display_order" : 1,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 1.0,
+              "ending_price" : null,
+              "pricing_model_name" : null,
+              "payment_frequency_name" : null,
+              "attributes" : [ ]
+            }
+          ],
+          "discount_types" : [ ]
+        }
+      }
+    ]
+  }
+}

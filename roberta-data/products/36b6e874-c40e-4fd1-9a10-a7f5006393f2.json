@@ -1,0 +1,4485 @@
+{
+  "took" : 7,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 3,
+    "successful" : 3,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : {
+      "value" : 1,
+      "relation" : "eq"
+    },
+    "max_score" : 11.380028,
+    "hits" : [
+      {
+        "_index" : "product_listings_main_data_upc_vt20220920_043802_utc",
+        "_type" : "_doc",
+        "_id" : "139770_mktgxemail",
+        "_score" : 11.380028,
+        "_source" : {
+          "product_id" : 139770,
+          "seo_product_id" : 139770,
+          "seo_slug" : "SENDER",
+          "product_name" : "Sender",
+          "upc_product_uuid" : "36b6e874-c40e-4fd1-9a10-a7f5006393f2",
+          "old_product_ids" : [ ],
+          "product_url" : "https://auth.sender.net/register?scope=scope&client_id=21&response_type=code&redirect_uri=https://app.sender.net/&utm_source=capterra&utm_medium=ppc&utm_campaign=email_marketing",
+          "product_slug" : "SENDER",
+          "former_name" : "SENDER",
+          "logo_filepath" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/2fd9ce8b-eefb-45db-b0df-fa2bd6bb0d5a.png",
+          "vendor" : {
+            "vendor_id" : 2098984,
+            "vendor_name" : "Sender.net",
+            "vendor_url" : "http://www.sender.net",
+            "year_founded" : 2012,
+            "location" : "Lithuania",
+            "vendor_opted_out_of_reviews" : true,
+            "is_opted_out_of_reviews" : false,
+            "is_hit_limit" : false,
+            "enabled" : true,
+            "has_vendor_level_page" : false,
+            "slug" : null,
+            "vendor_page" : false,
+            "paused_campaign" : false
+          },
+          "category_short_name" : "mktgxemail",
+          "category_html_name" : "email-marketing-software",
+          "category" : {
+            "id" : 30013,
+            "short_name" : "mktgxemail",
+            "long_name" : "Email Marketing",
+            "html_name" : "email-marketing-software",
+            "enabled" : true
+          },
+          "best_category" : "mktgxemail",
+          "is_best_category" : true,
+          "highest_cpc_category" : null,
+          "is_highest_cpc_category" : false,
+          "short_desc" : "Sender is super easy and affordable email marketing platform with powerful features, solid deliverability, and top-notch support.",
+          "long_desc" : "It's easy to use, full featured, and yet surprisingly affordable - Sender is the best choice for marketers to send marketing emails and drive more revenue. Everything you need for effective email marketing is within a few clicks, and for a fraction of the cost of other email marketing providers, such as MailChimp or ConstantContact. Use our integrations to connect your Magento, WooCommerce, WordPress, PrestaShop or other platform and send highly converting newsletters to grow your business. ",
+          "rating" : 4.6,
+          "number_of_reviews" : 133,
+          "total_reviews" : 135,
+          "ease_of_use_rating" : 4.6,
+          "customer_support_rating" : 4.9,
+          "functionality_rating" : 4.5,
+          "value_for_money_rating" : 4.8,
+          "recommendation_rating" : 9.1,
+          "pricing_enabled" : true,
+          "pricing" : 0.0,
+          "is_per_user" : false,
+          "fee_schedule" : null,
+          "pricing_model" : null,
+          "pricing_details" : "Free Forever: €0 for up to 2500 subscribers. Send up to 15 000\nemails per month.\n\nMonthly: €9 for 5000 subscribers. Send up to 60 000 emails / month.\n\nContact Sender.net for detailed pricing information.",
+          "pricing_created_on" : "2019-08-21T14:47:39Z",
+          "pricing_modified_on" : "2022-06-23T14:42:33Z",
+          "pricing_created_by" : null,
+          "pricing_modified_by" : null,
+          "pricing_vendor_pricing_url" : "https://www.sender.net/pricing/",
+          "free_trial" : true,
+          "free_version" : true,
+          "target_audience" : "Small & medium businesses, e-commerce vendors, entrepreneurs and more - Sender.net is trusted by more than 130 000 customers and delivers over 50M emails daily. Create your free account today!",
+          "target_users" : [
+            "1",
+            "2-10",
+            "11-50",
+            "51-200",
+            "201-500",
+            "501-1000",
+            "1000+"
+          ],
+          "platform" : [
+            {
+              "enabled" : true,
+              "name" : "Cloud, SaaS, Web-Based"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Mac"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Chromebook"
+            },
+            {
+              "enabled" : false,
+              "name" : "Mobile Android"
+            },
+            {
+              "enabled" : false,
+              "name" : "Mobile iPhone"
+            },
+            {
+              "enabled" : false,
+              "name" : "Mobile iPad"
+            }
+          ],
+          "support" : [
+            {
+              "enabled" : true,
+              "name" : "Email Help Desk"
+            },
+            {
+              "enabled" : true,
+              "name" : "FAQ Forum"
+            },
+            {
+              "enabled" : true,
+              "name" : "Knowledgebase"
+            },
+            {
+              "enabled" : false,
+              "name" : "Phone Support"
+            },
+            {
+              "enabled" : true,
+              "name" : "24/7 Live Rep"
+            },
+            {
+              "enabled" : true,
+              "name" : "Chat"
+            }
+          ],
+          "training" : [
+            {
+              "enabled" : false,
+              "name" : "Not Offered"
+            },
+            {
+              "enabled" : false,
+              "name" : "In-Person"
+            },
+            {
+              "enabled" : true,
+              "name" : "Live Online"
+            },
+            {
+              "enabled" : true,
+              "name" : "Webinars"
+            },
+            {
+              "enabled" : true,
+              "name" : "Documentation"
+            },
+            {
+              "enabled" : true,
+              "name" : "Videos"
+            }
+          ],
+          "media" : [
+            {
+              "product_id" : 139770,
+              "vendor_id" : 2098984,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/d6c46422-7cc8-4e43-b723-dcb20f527f88.png",
+              "caption" : "99% Email Deverability",
+              "weight" : 2,
+              "short_name" : "mktgxemail"
+            },
+            {
+              "product_id" : 139770,
+              "vendor_id" : 2098984,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/e32e3ae5-8866-41fc-8d12-b340f70d155a.png",
+              "caption" : "Subscribers management",
+              "weight" : 3,
+              "short_name" : "mktgxemail"
+            },
+            {
+              "product_id" : 139770,
+              "vendor_id" : 2098984,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/28cb40b7-40b2-4a87-aaa6-72fdec634fcf.png",
+              "caption" : "Drip automation",
+              "weight" : 4,
+              "short_name" : "mktgxemail"
+            },
+            {
+              "product_id" : 139770,
+              "vendor_id" : 2098984,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/4b39c2b2-adeb-4dac-a482-5018f230c31b.png",
+              "caption" : "Embedded forms & Pop-ups",
+              "weight" : 5,
+              "short_name" : "mktgxemail"
+            },
+            {
+              "product_id" : 139770,
+              "vendor_id" : 2098984,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/977398c1-c359-4bf9-8cbb-881aea7cf6ff.png",
+              "caption" : null,
+              "weight" : 1,
+              "short_name" : "mktgxemail"
+            }
+          ],
+          "links" : [
+            {
+              "product_id" : 139770,
+              "functional_group" : "mktgxemail",
+              "html_code" : "https://auth.sender.net/register?scope=scope&client_id=21&response_type=code&redirect_uri=https://app.sender.net/&utm_source=capterra&utm_medium=ppc&utm_campaign=email_marketing",
+              "link_name" : "Free Trial",
+              "link_priority" : 1.0
+            },
+            {
+              "product_id" : 139770,
+              "functional_group" : "mktgxemail",
+              "html_code" : "https://auth.sender.net/register?scope=scope&client_id=21&response_type=code&redirect_uri=https://app.sender.net/&utm_source=capterra&utm_medium=ppc&utm_campaign=email_marketing",
+              "link_name" : "Free Demo",
+              "link_priority" : 2.0
+            },
+            {
+              "product_id" : 139770,
+              "functional_group" : "mktgxemail",
+              "html_code" : "https://www.sender.net/pricing/?utm_source=capterra&utm_medium=ppc&utm_campaign=email_marketing",
+              "link_name" : "Pricing",
+              "link_priority" : 3.0
+            }
+          ],
+          "features" : [
+            {
+              "category_name" : "Email Marketing",
+              "category_features" : [
+                {
+                  "name" : "AB Testing",
+                  "value" : false,
+                  "id" : "83ac06ef-609f-47cc-9b0d-4654f513f0a1",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Create two versions of emails, forms, or actions and gauge which is more effective "
+                },
+                {
+                  "name" : "Auto-Responders",
+                  "value" : true,
+                  "id" : "96edabaa-cf05-4616-b05b-0c34438ff810",
+                  "avg_rating" : 4.8,
+                  "cnt_rating" : 5,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Create and automatically send premade copy in response to customer's messages"
+                },
+                {
+                  "name" : "CAN SPAM Compliance",
+                  "value" : true,
+                  "id" : "d76d5081-79e7-458f-9a46-55b8865ad7cf",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Ensure all of your emails are compliant with anti-spam guidelines"
+                },
+                {
+                  "name" : "Customer Surveys",
+                  "value" : true,
+                  "id" : "3b06014b-9143-47d6-a0e1-76b3e30be767",
+                  "avg_rating" : 4.9,
+                  "cnt_rating" : 7,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.333,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Tool to send questionnaires to customers to gauge feedback"
+                },
+                {
+                  "name" : "Drip Campaigns",
+                  "value" : true,
+                  "id" : "8d281eae-9ecd-44bc-931d-0d4192188340",
+                  "avg_rating" : 4.6,
+                  "cnt_rating" : 5,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 4,
+                  "cnt_time_used" : 4,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 4,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Create a path to complete a specific goal and guide leads based on the time between actions"
+                },
+                {
+                  "name" : "Dynamic Content",
+                  "value" : true,
+                  "id" : "e796f638-e401-4fcc-92ee-f9daed5b8a1f",
+                  "avg_rating" : 4.4,
+                  "cnt_rating" : 5,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Create marketing content that changes based on the viewer"
+                },
+                {
+                  "name" : "Event Triggered Actions",
+                  "value" : true,
+                  "id" : "59bd4ae4-2a94-4322-a5ac-144d2d3b74fc",
+                  "avg_rating" : 4.5,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Send automated emails based on customer behavior"
+                },
+                {
+                  "name" : "Image Library",
+                  "value" : true,
+                  "id" : "fc2ea5eb-0cf8-4b6f-8dc1-4b3b87e526bc",
+                  "avg_rating" : 4.6,
+                  "cnt_rating" : 5,
+                  "avg_importance" : 1.5,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Store and reuse images in your email body"
+                },
+                {
+                  "name" : "Landing Pages/Web Forms",
+                  "value" : true,
+                  "id" : "ba097fb8-3f98-4f38-874a-693f1077ec6c",
+                  "avg_rating" : 4.6,
+                  "cnt_rating" : 7,
+                  "avg_importance" : 1.5,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 0.667,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Create an online form to capture new lead information"
+                },
+                {
+                  "name" : "List Management",
+                  "value" : true,
+                  "id" : "c2a88ab8-c3cc-4535-9293-00fbd40d220e",
+                  "avg_rating" : 4.8,
+                  "cnt_rating" : 5,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Manage contacts across multiple mailing lists"
+                },
+                {
+                  "name" : "Mobile Optimized Emails",
+                  "value" : true,
+                  "id" : "0d77ef04-76d2-4a25-8420-51aec95dbac1",
+                  "avg_rating" : 4.2,
+                  "cnt_rating" : 6,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 4,
+                  "cnt_time_used" : 4,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 4,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Ensure the integrity of your email formatting when viewed on mobile devices"
+                },
+                {
+                  "name" : "Reporting/Analytics",
+                  "value" : true,
+                  "id" : "b0c186d0-0194-4300-abba-ca3bc2474bbe",
+                  "avg_rating" : 4.5,
+                  "cnt_rating" : 10,
+                  "avg_importance" : 2.25,
+                  "cnt_importance" : 4,
+                  "cnt_time_used" : 4,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 4,
+                  "pct_time_critical" : 0.25,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "View and track pertinent metrics"
+                },
+                {
+                  "name" : "Subscriber Management",
+                  "value" : true,
+                  "id" : "6235ea7b-9e38-4f6d-817c-76e874b159d9",
+                  "avg_rating" : 4.6,
+                  "cnt_rating" : 11,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 4,
+                  "cnt_time_used" : 4,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 4,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Add or remove contacts from your mailing list"
+                },
+                {
+                  "name" : "Template Management",
+                  "value" : true,
+                  "id" : "f6364f68-ad3c-4d2c-b40b-6e1f41bbea7e",
+                  "avg_rating" : 4.6,
+                  "cnt_rating" : 13,
+                  "avg_importance" : 2.2,
+                  "cnt_importance" : 5,
+                  "cnt_time_used" : 5,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 5,
+                  "pct_time_critical" : 0.2,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Create, save, and re-purpose formatting for emails, forms, and other campaign elements"
+                },
+                {
+                  "name" : "WYSIWYG Editor",
+                  "value" : true,
+                  "id" : "d0bef9fe-ccd2-42c3-8592-5ba24f31742f",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "\"What You See Is What You Get\" - see how recipients will see your email formatting while creating the email (no html coding, etc)"
+                }
+              ]
+            },
+            {
+              "category_name" : "Marketing Automation",
+              "category_features" : [
+                {
+                  "name" : "AB Testing",
+                  "value" : false,
+                  "id" : "83ac06ef-609f-47cc-9b0d-4654f513f0a1",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Create two versions of emails, forms, or actions and gauge which is more effective "
+                },
+                {
+                  "name" : "Customizable CTAs",
+                  "value" : false,
+                  "id" : "fae366f7-b84d-4c6b-93d9-3e45b043731a",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Create unique call-to-actions to drive clicks (buttons, banners, graphics, etc.)"
+                },
+                {
+                  "name" : "Drip Campaigns",
+                  "value" : true,
+                  "id" : "8d281eae-9ecd-44bc-931d-0d4192188340",
+                  "avg_rating" : 4.6,
+                  "cnt_rating" : 5,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 4,
+                  "cnt_time_used" : 4,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 4,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Create a path to complete a specific goal and guide leads based on the time between actions"
+                },
+                {
+                  "name" : "Dynamic Content",
+                  "value" : true,
+                  "id" : "e796f638-e401-4fcc-92ee-f9daed5b8a1f",
+                  "avg_rating" : 4.4,
+                  "cnt_rating" : 5,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Create marketing content that changes based on the viewer"
+                },
+                {
+                  "name" : "Landing Pages/Web Forms",
+                  "value" : true,
+                  "id" : "ba097fb8-3f98-4f38-874a-693f1077ec6c",
+                  "avg_rating" : 4.6,
+                  "cnt_rating" : 7,
+                  "avg_importance" : 1.5,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 0.667,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Create an online form to capture new lead information"
+                },
+                {
+                  "name" : "Lead Qualification",
+                  "value" : false,
+                  "id" : "3fa6c515-bcb7-4643-8f5e-87de0635c91f",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Score a lead on their quality or likelihood to buy based on certain behaviors"
+                },
+                {
+                  "name" : "ROI Tracking",
+                  "value" : false,
+                  "id" : "a50e6f17-c2f1-40e1-9131-fb4f3fb5b206",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Monitor conversion rates and analyze effectiveness and profitability of marketing efforts"
+                },
+                {
+                  "name" : "Sales Analytics",
+                  "value" : false,
+                  "id" : "683a894f-29d1-4185-8466-f01755fc2c4a",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track in detail how users interact with your campaigns and pages (scrolling, button interactions, etc.) "
+                },
+                {
+                  "name" : "Search Marketing",
+                  "value" : false,
+                  "id" : "674c179f-f7e2-4897-9466-e82863faccc4",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track visibility and traffic from search engines"
+                },
+                {
+                  "name" : "Segmentation",
+                  "value" : true,
+                  "id" : "2ce186ce-3534-475e-8ac3-8e7d0519bc69",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Group leads or contacts based on their specific characteristics"
+                },
+                {
+                  "name" : "Social Marketing",
+                  "value" : false,
+                  "id" : "7803b4c3-a807-45eb-b8cc-071e9e0831e6",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Manage campaigns and track engagement for marketing efforts across social media channels"
+                },
+                {
+                  "name" : "Website Visitor Tracking",
+                  "value" : false,
+                  "id" : "b59c35fc-5667-4865-9fc2-093fe1924d6c",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Monitor activity of individuals who visit your website using cookies"
+                }
+              ]
+            },
+            {
+              "category_name" : "SMS Marketing",
+              "category_features" : [
+                {
+                  "name" : "2-Way Messaging",
+                  "value" : false,
+                  "id" : "dfbb0183-1388-4022-b96d-c61f34f72fc1",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Send and receive text messages in real time "
+                },
+                {
+                  "name" : "Contact Management",
+                  "value" : true,
+                  "id" : "0019f365-3e1b-4e2f-8f1e-cb77ba025078",
+                  "avg_rating" : 4.6,
+                  "cnt_rating" : 5,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 0.5,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Store and find contact information such as names, addresses, and social media accounts"
+                },
+                {
+                  "name" : "MMS",
+                  "value" : false,
+                  "id" : "464bc80a-69c8-4a6b-8637-c10b38ef5eef",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Send and receive multimedia messages (i.e. photos, videos, and audio recordings)"
+                },
+                {
+                  "name" : "Mass Texting",
+                  "value" : true,
+                  "id" : "6b0cf507-6d5a-49e6-94b5-9c0bc95ab9ac",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Send messages to multiple subscribers at the same time. "
+                },
+                {
+                  "name" : "Message Personalization",
+                  "value" : false,
+                  "id" : "78c28182-e80e-4b57-b07b-ded5c8391e92",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Automatically personalize text messages using templates and custom fields"
+                },
+                {
+                  "name" : "Mobile Coupons",
+                  "value" : false,
+                  "id" : "7c2419ec-9ba7-4cb9-a631-6fbd54548ffd",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Electronic coupons delivered to a mobile device that can be exchanged for a discount or rebate when purchasing a product or service"
+                },
+                {
+                  "name" : "Mobile Keywords",
+                  "value" : false,
+                  "id" : "98812d3f-4997-4d4b-ad91-2473d8e1d09b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Unique word that contains letters or numbers that identifies specific campaigns"
+                },
+                {
+                  "name" : "Polls/Voting",
+                  "value" : false,
+                  "id" : "e77de5ee-3e8d-409f-91d4-7a8e4519462b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Create quick polls to keep people engaged"
+                },
+                {
+                  "name" : "Reporting/Analytics",
+                  "value" : true,
+                  "id" : "b0c186d0-0194-4300-abba-ca3bc2474bbe",
+                  "avg_rating" : 4.5,
+                  "cnt_rating" : 10,
+                  "avg_importance" : 2.25,
+                  "cnt_importance" : 4,
+                  "cnt_time_used" : 4,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 4,
+                  "pct_time_critical" : 0.25,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "View and track pertinent metrics"
+                },
+                {
+                  "name" : "Scheduled Messaging",
+                  "value" : false,
+                  "id" : "55aba9c4-9b4a-4b6e-96b8-df3bffd0e4e7",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Send individual or bulk text messages at predetermined times"
+                },
+                {
+                  "name" : "Shortcodes",
+                  "value" : false,
+                  "id" : "de64a530-32d3-4bf5-b92b-add2e740df7c",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Short phone numbers that are typically 5 to 6 digits long which are used to opt-in to SMS campaigns/promotions"
+                },
+                {
+                  "name" : "Text-to-Win",
+                  "value" : false,
+                  "id" : "41e1fa34-bcee-495c-a5b4-ade1520185bf",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Contests and sweepstakes administered via text messages"
+                }
+              ]
+            }
+          ],
+          "infographics" : [
+            {
+              "product_id" : 139770,
+              "html_name" : "email-marketing-software",
+              "infographic_type" : "affordable",
+              "infographic_title" : "The Top 20 Most Affordable Email Marketing Software Report"
+            },
+            {
+              "product_id" : 139770,
+              "html_name" : "email-marketing-software",
+              "infographic_type" : "user_friendly",
+              "infographic_title" : "The Top 20 Most User Friendly Email Marketing Software Report"
+            }
+          ],
+          "related_products" : [
+            {
+              "product_id" : 110228,
+              "seo_product_id" : 223924,
+              "seo_slug" : "Mailchimp",
+              "vendor_name" : "Intuit",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/247db203-7811-4bdc-9c0a-729dbae623b5.png",
+              "rating" : 4.5,
+              "total_reviews" : 14779,
+              "slug" : "MailChimp",
+              "product_name" : "Mailchimp",
+              "short_desc" : "Mailchimp's all-in-one Marketing Platform helps small businesses market smarter so you can grow faster. ",
+              "features" : "Mailchimp's all-in-one Marketing Platform helps small businesses market smarter so you can grow faster. As the backbone for your customer relationships, they provide AI-powered, user-friendly tools anyone can use to be successful. Mailchimp puts your audience at the center so you can send marketing emails and automated messages, create targeted ad campaigns, build landing pages, send postcards, facilitate reporting and analytics, and sell online. ",
+              "url" : "https://mailchimp.com/why-mailchimp/?utm_medium=cpc&utm_campaign=email_marketing"
+            },
+            {
+              "product_id" : 171840,
+              "seo_product_id" : 82534,
+              "seo_slug" : "HubSpot-Marketing-Automation",
+              "vendor_name" : "HubSpot",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/5152f7c6-61ed-4168-b89f-f436d97ebccd.png",
+              "rating" : 4.5,
+              "total_reviews" : 4919,
+              "slug" : "HubSpot-Marketing",
+              "product_name" : "HubSpot Marketing Hub",
+              "short_desc" : "Over 100,000 customers in more than 120 countries use HubSpot's award-winning software to attract, engage and delight their customers.",
+              "features" : "HubSpot email marketing software makes it easy to start running personalized email marketing campaigns. The intuitive interface makes list and content creation simple, so you're always sending the most relevant information. You can also monitor your email marketing with baked-in analytics, so you can improve your open and click-through rates. Sign up for free, and start running email campaigns that convert and nurture leads, close customers, and contribute to the growth of your business.",
+              "url" : "https://www.hubspot.com/marketing/free/f160?utm_medium=paid&utm_content=f160&utm_campaign=Marketing_Portals_EN_Various_Various_Gartner_Email&utm_term=marketing_EN"
+            },
+            {
+              "product_id" : 143461,
+              "seo_product_id" : 143461,
+              "seo_slug" : "Squarespace",
+              "vendor_name" : "Squarespace",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/713f882b-f7a1-4f3f-a484-7af2fe13f5c3.png",
+              "rating" : 4.6,
+              "total_reviews" : 2497,
+              "slug" : "Squarespace",
+              "product_name" : "Squarespace",
+              "short_desc" : "Squarespace is the all-in-one platform to build a beautiful website, online store, or portfolio.",
+              "features" : "Squarespace is the all-in-one platform to build a beautiful online presence. Look like an expert right from the start with award-winning templates for your website, online store, or portfolio. Customize the design to fit your personal style and professional needs. Get found in search by more people with powerful SEO tools. Learn where your website traffic is coming from, what your visitors are looking for, and how they're interacting with your content or products with in-depth Analytics tools.",
+              "url" : "https://www.squarespace.com/email-marketing/?channel=paid_community&subchannel=capterra&campaign=email_marketing"
+            },
+            {
+              "product_id" : 132666,
+              "seo_product_id" : 152591,
+              "seo_slug" : "Pipedrive",
+              "vendor_name" : "Pipedrive",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4d2d5d98-c70f-444e-98da-9c3d9bf384a7.png",
+              "rating" : 4.5,
+              "total_reviews" : 2431,
+              "slug" : "Pipedrive",
+              "product_name" : "Pipedrive",
+              "short_desc" : "Campaigns by Pipedrive is a powerful email marketing tool to help you win prospects' attention with beautiful, customizable layouts.",
+              "features" : "Campaigns by Pipedrive is a powerful email marketing tool that helps you win your prospects' attention with beautiful, customizable layouts and then keep it with tracking, analytics and filtering features.\n\nCampaigns is as intuitive as Pipedrive's CRM solution. Simply use its drag-and-drop elements to create your layout or choose one of its conversion-optimized email templates. Then, enter your email and use data in Pipedrive to segment your recipients and start sending.",
+              "url" : "https://www.pipedrive.com/en/products/email-marketing-software?utm_medium=directories&utm_campaign=email_marketing&utm_content=visit_website"
+            },
+            {
+              "product_id" : 31898,
+              "seo_product_id" : 31898,
+              "seo_slug" : "Constant-Contact",
+              "vendor_name" : "Constant Contact",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d5bb525e-43fd-44ad-b018-e69dbd4d4817.jpeg",
+              "rating" : 4.3,
+              "total_reviews" : 2067,
+              "slug" : "Constant-Contact",
+              "product_name" : "Constant Contact",
+              "short_desc" : "Drag. Drop. Done.\n\nOur easy-to-use editor makes it simple to customize and design great-looking emails that stand out on any device.\n",
+              "features" : "Connect with customers and prospects in minutes with so many great features including one-click editing & marketing automation!\n\nWe provide you with real-time tracking tools that report who's opening, clicking, and sharing your emails so you can keep growing.\n\nIf your next steps include list growth, we can help you grow faster with landing pages, leads from Instagram and Facebook social ads, and even SMS text messaging-- Constant Contact has all of the tools you need in one easy-to-use platform!",
+              "url" : "https://constant-contact.evyy.net/c/1981242/1213424/3411?sharedid=60dft"
+            },
+            {
+              "product_id" : 123032,
+              "seo_product_id" : 123032,
+              "seo_slug" : "Nimble",
+              "vendor_name" : "Nimble",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/0a460f98-bfe9-4de9-a3b8-9d1a269fb560.png",
+              "rating" : 4.4,
+              "total_reviews" : 1776,
+              "slug" : "Nimble",
+              "product_name" : "Nimble",
+              "short_desc" : "Nimble is the simple, smart CRM for Office 365 & G Suite that works for you -- everywhere you work. ",
+              "features" : "Nimble is the simple, smart CRM for Office 365 & G Suite that works for you by automatically combining your contacts, communication histories, email inboxes, and calendar appointments with over 250+ SaaS business app contacts and social media connections (including Linkedin, Twitter, Facebook) into one unified team relationship manager.\n\n",
+              "url" : "https://www.nimble.com/?utm_source=Capterra&utm_medium=CPC&utm_campaign=Capterramarch2018"
+            },
+            {
+              "product_id" : 79367,
+              "seo_product_id" : 226748,
+              "seo_slug" : "ActiveCampaign",
+              "vendor_name" : "ActiveCampaign",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/bb056d74-bac1-4457-a092-fa8dea9486a0.png",
+              "rating" : 4.6,
+              "total_reviews" : 1710,
+              "slug" : "ActiveCampaign",
+              "product_name" : "ActiveCampaign",
+              "short_desc" : "130k+ customers use ActiveCampaign for personalized email marketing, giving their contacts exactly what they want, when they want it.",
+              "features" : "ActiveCampaign helps any business connect and engage with their contacts through powerful, easy-to-use email marketing and contact management. Build newsletters, send triggered campaigns, and create personalized messages targeted to each contact's interests so they get exactly what they want, when they want it. The campaign builder and full template library lets you design beautiful emails with just a few clicks, getting the right emails to the right people. Pricing starts at just $9/month.",
+              "url" : "https://www.activecampaign.com/lp/sem/email-marketing?utm_medium=cpc&utm_campaign=capterra_reviews_non_email-marketing_desktop_row_en&utm_content=main_links&utm_source=capterra"
+            },
+            {
+              "product_id" : 132996,
+              "seo_product_id" : 222353,
+              "seo_slug" : "Sendinblue",
+              "vendor_name" : "Sendinblue",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/dbef5210-22af-483f-8206-88ef12ab9319.png",
+              "rating" : 4.6,
+              "total_reviews" : 1270,
+              "slug" : "Sendinblue",
+              "product_name" : "Sendinblue",
+              "short_desc" : "Get all the email marketing tools you need to grow your business-at an unbeatable price.",
+              "features" : "Send better emails with Sendinblue's all-in-1 marketing platform. We empower businesses to run smart campaigns and build strong customer relationships. Design beautiful emails with our Drag & Drop editor and 40+ email templates. Run campaigns with A/B testing, advanced segmentation, and automation tools. Sendinblue is trusted by over 300,000 active users worldwide. Try for free and discover what Sendinblue can do for you!",
+              "url" : "https://landing.sendinblue.com/en/email-marketing-service?utm_source=gartner&utm_medium=paid_referral&utm_term=email%20marketing"
+            },
+            {
+              "product_id" : 76390,
+              "seo_product_id" : 38451,
+              "seo_slug" : "Infusionsoft",
+              "vendor_name" : "Keap",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/bbf09836-8786-4e7d-909b-10b75adc5ef6.png",
+              "rating" : 4.1,
+              "total_reviews" : 1125,
+              "slug" : "Infusionsoft",
+              "product_name" : "Keap",
+              "short_desc" : "Improve Your Email Marketing With Keap\nLet our software make your email marketing easier and more effective than ever. ",
+              "features" : "Grow your business with the all-in-one CRM, sales & marketing software for serious business owners. Our platform organizes your customer information and daily work in one place, freeing you up from repetitive tasks so you have more time to focus on growing your business.",
+              "url" : "https://keap.com/lp/nb/email-marketing/?utm_source=capterra&utm_medium=affiliate&utm_campaign=capememlpt&utm_content="
+            },
+            {
+              "product_id" : 136603,
+              "seo_product_id" : 233128,
+              "seo_slug" : "MailerLite",
+              "vendor_name" : "MailerLite",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/26438247-3509-4d2d-b80c-3600664c8acd.png",
+              "rating" : 4.7,
+              "total_reviews" : 1050,
+              "slug" : "MailerLite",
+              "product_name" : "MailerLite",
+              "short_desc" : "Advanced email marketing tools that are easy to use so you can grow your business using newsletters, websites and more.\n\n",
+              "features" : "Grow your business with MailerLite's fast and scalable email marketing platform.\n\nCreate professional newsletters, landing pages and websites using our drag & drop builders or with pre-designed templates. And manage campaigns on-the-go in the iOS app.\n\nAttract subscribers and nurture relationships with advanced features like pop-ups, multi-trigger automations, embedded surveys, Facebook custom audiences and auto resend campaigns. Measure performance with detailed reporting inside your dashboard.",
+              "url" : "https://www.mailerlite.com/?utm_source=gartner&utm_medium=cpc&utm_campaign=gartner&utm_content=gartner&ml_campaignid=gartner2021&ml_adsetid=gartner2021?"
+            },
+            {
+              "product_id" : 148516,
+              "seo_product_id" : 212390,
+              "seo_slug" : "Marketing-360",
+              "vendor_name" : "Madwire",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e0d4096b-6fa3-4d66-98e5-8f3ac4c06590.png",
+              "rating" : 4.6,
+              "total_reviews" : 973,
+              "slug" : "Marketing-360",
+              "product_name" : "Marketing 360",
+              "short_desc" : "#1 Marketing Platform for Email Marketing. ",
+              "features" : "Email Marketing 360 - Everyone checks their email. In fact, most of us check our email multiple times per day! Therefore, it's key to have a well thought out email marketing campaign. Email Marketing 360 makes designing and creating email campaigns easy. You can even create automated journeys where specific emails are sent to specific people at specific times. No question, email needs to be part of your overall marketing strategy. Get started today.",
+              "url" : "https://www.marketing360.com/nurture/?ref=EmailAutomationDirectoryCapterraAds"
+            }
+          ],
+          "similar_products" : [
+            {
+              "product_id" : 156699,
+              "seo_product_id" : 225621,
+              "seo_slug" : "Klaviyo",
+              "vendor_name" : "Klaviyo",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/70e73485-b7f8-4007-a323-f5c47bba15b3.png",
+              "rating" : 4.7,
+              "total_reviews" : 277,
+              "slug" : "Klaviyo",
+              "product_name" : "Klaviyo",
+              "short_desc" : "Klaviyo is a unified customer platform for email, SMS, and more that gives you direct ownership of your customer data and interactions.",
+              "features" : "Klaviyo is a unified customer platform that gives your online brand direct ownership of your consumer data and interactions, empowering you to turn transactions with customers into productive long-term relationships-at scale. Because the Klaviyo database integrates seamlessly with your tech stack, you can get the full story on every customer that visits, and then-from the same platform-use those insights to automate personalized email and SMS communications that make people feel seen. ",
+              "url" : "https://www.klaviyo.com?utm_source=review-site-sponsorship&utm_medium=paid"
+            },
+            {
+              "product_id" : 134347,
+              "seo_product_id" : 134347,
+              "seo_slug" : "Intercom",
+              "vendor_name" : "Intercom",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/6a454b39-277e-4602-aaed-5412bfd47102.png",
+              "rating" : 4.5,
+              "total_reviews" : 839,
+              "slug" : "Intercom",
+              "product_name" : "Intercom",
+              "short_desc" : "Intercom is a Customer Communications Platform that offers an unparalleled user experience, engaging customers across their lifecycle.",
+              "features" : "Intercom is the Engagement OS, an open channel between customer and business that is in the product, in the moment, and on their terms. We break down silos, unifying data and systems to create an ongoing dialogue, so companies can make the most of every opportunity.\n",
+              "url" : "https://www.intercom.com/drlp/business-growth-sb?utm_medium=review&utm_term=capt_rev_pm_acq_core_demo_pros_kw_profile_sb_alld_namer_us_en"
+            },
+            {
+              "product_id" : 7723,
+              "seo_product_id" : 7723,
+              "seo_slug" : "Salesforce-Marketing-Cloud",
+              "vendor_name" : "Salesforce",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/1a2b2816-ff47-405e-a9e2-2b8d6fd68dfd.png",
+              "rating" : 4.0,
+              "total_reviews" : 284,
+              "slug" : "Salesforce-Marketing-Cloud",
+              "product_name" : "Salesforce Marketing Cloud",
+              "short_desc" : "Build customer relationships for life with data-first digital marketing",
+              "features" : "Meet Salesforce Email Studio. Reach your customers with the world's #1 email marketing platform. Build smarter email - from basic marketing campaigns to sophisticated 1-to-1 messages. Use drag-and-drop segmentation tools to hone your subscriber list, so your messaging is always relevant. Filter millions of profiles in seconds, and get instant counts for sending. Strengthen your customer relationships with email conversations that drive every stage of the customer lifecycle.",
+              "url" : "https://www.salesforce.com/form/sem/marketing-cloud/email-studio-demo/?d=7013y000001zA1nAAE&nc=7013y000001zA1iAAE&utm_source=capterra&utm_medium=review_sites&utm_campaign=us_mktlobd&utm_content=email-studio-demo_7013y000001zA1nAAE"
+            },
+            {
+              "product_id" : 132996,
+              "seo_product_id" : 222353,
+              "seo_slug" : "Sendinblue",
+              "vendor_name" : "Sendinblue",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/dbef5210-22af-483f-8206-88ef12ab9319.png",
+              "rating" : 4.6,
+              "total_reviews" : 1270,
+              "slug" : "Sendinblue",
+              "product_name" : "Sendinblue",
+              "short_desc" : "Get all the email marketing tools you need to grow your business-at an unbeatable price.",
+              "features" : "Send better emails with Sendinblue's all-in-1 marketing platform. We empower businesses to run smart campaigns and build strong customer relationships. Design beautiful emails with our Drag & Drop editor and 40+ email templates. Run campaigns with A/B testing, advanced segmentation, and automation tools. Sendinblue is trusted by over 300,000 active users worldwide. Try for free and discover what Sendinblue can do for you!",
+              "url" : "https://www.sendinblue.com/?utm_source=gartner&utm_medium=paid_referral&utm_term=email%20marketing"
+            },
+            {
+              "product_id" : 147905,
+              "seo_product_id" : 226180,
+              "seo_slug" : "Maropost",
+              "vendor_name" : "Maropost",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8eea9011-0b3c-412b-aa7a-89391b200544.png",
+              "rating" : 4.0,
+              "total_reviews" : 12,
+              "slug" : "Maropost-Marketing-Cloud",
+              "product_name" : "Maropost",
+              "short_desc" : "Advanced Email reporting and segmentation, list management, template management, AB testing, email automation. Top deliverability.",
+              "features" : "Designed for Media, Publishing and Ecommerce companies, Maropost is a premium Email marketing automation platform that allows you to acquire, engage and convert prospects and customers across multiple marketing channels.\n\nWe ensure the best deliverability rates in the market (98%) with a dedicated team to take care of your email marketing needs.",
+              "url" : "https://www.maropost.com/lp/mmc-search-email-automation/?utm_source=capterra&utm_medium=cpc&utm_campaign=Capterrahome"
+            },
+            {
+              "product_id" : 174023,
+              "seo_product_id" : 174023,
+              "seo_slug" : "Customer-io",
+              "vendor_name" : "Customer.io",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/903f2b65-9abf-475f-9b4c-ddcd2587281b.png",
+              "rating" : 4.7,
+              "total_reviews" : 31,
+              "slug" : "Customer-io",
+              "product_name" : "Customer.io",
+              "short_desc" : "Customer engagement platform for sending automated emails, push notifications, texts, and more to engage and retain your audience.",
+              "features" : "Customer.io is the customer engagement platform that enables marketers to build their most sophisticated automated messaging campaigns. With access to your real-time behavioral data, create personalized and relevant messages that engage and retain your customers. Send email, push notifications, text messages, and more all through an intuitive and powerful visual building experience. Built for scale, Customer.io is used by over 4,100 companies, sending over 8 billion messages per year.",
+              "url" : "https://customer.io/ppc/demo/"
+            },
+            {
+              "product_id" : 226111,
+              "seo_product_id" : 234481,
+              "seo_slug" : "Freshmarketer",
+              "vendor_name" : "Freshworks",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/24c99f2e-2495-42d9-ab48-9367d1f8d43e.png",
+              "rating" : 4.5,
+              "total_reviews" : 22,
+              "slug" : "Freshmarketer",
+              "product_name" : "Freshmarketer",
+              "short_desc" : "Full-stack Marketing Automation Software. Built for Marketers. Designed for Humans.\t\t\t\t",
+              "features" : "Create email campaigns from scratch with the drag-and-drop email builder/choose from 150+ templates/upload your own HTML email template file.\n\nFreshmarketer is a full-fledged marketing automation solution for fast-paced marketing teams. It lets you intelligently engage your users across their lifecycle from pre to post-acquisition.\n\t\t\n\t",
+              "url" : "https://www.freshworks.com/crm/marketing/?utm_medium=Capterra-CRM-listing&utm_campaign=Email-Marketing-Software-Capterra&tactic_id=3530094"
+            },
+            {
+              "product_id" : 153508,
+              "seo_product_id" : 224863,
+              "seo_slug" : "Omnisend",
+              "vendor_name" : "Omnisend",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/c71d1a35-7b58-4bb8-bbab-ebc53a2995f7.png",
+              "rating" : 4.8,
+              "total_reviews" : 459,
+              "slug" : "Omnisend",
+              "product_name" : "Omnisend",
+              "short_desc" : "Omnisend ecommerce email marketing & automation platform that helps you sell more. Compatible with most popular ecommerce platforms.",
+              "features" : "Omnisend is an all-in-one email marketing automation platform built for growth-focused ecommerce brands. Convert visitors into customers, create personalized emails in minutes, and automate your email marketing. Use smart segmentation to create hyper targeted and relevant email messages, earning you more revenue. Omnisend works with all ecommerce platforms including Shopify, Bigcommerce, Magento, WooCommerce and many more.\n\nJoin Omnisend Partner program and earn a 20% revenue share.",
+              "url" : "https://www.omnisend.com/landing-capterra-email-marketing-v3/?utm_source=capterra&utm_medium=cpc&utm_campaign=email_marketing"
+            },
+            {
+              "product_id" : 75130,
+              "seo_product_id" : 227132,
+              "seo_slug" : "Marketo-Engage",
+              "vendor_name" : "Adobe",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/199791ad-8770-493d-bb55-98544cc98cf7.png",
+              "rating" : 4.2,
+              "total_reviews" : 609,
+              "slug" : "Marketo-Lead-Management",
+              "product_name" : "Marketo Engage",
+              "short_desc" : "Powerful, easy to use marketing automation software that helps generate qualified leads and translate marketing spending into revenue.",
+              "features" : "Adobe Marketo Engage does more than just help you create engaging, responsive emails. It intelligently builds and updates customer segments in real time based on their behaviors on other channels, then dynamically sends personalized communications to maximize engagement. Real-time performance metrics allow you to optimize mid-program to increase conversions. Liven up the inbox with impactful email campaigns that are personalized based on your customer's real-time behavior.",
+              "url" : "https://www.marketo.com/product-tour/?utm_source=Default&utm_medium=PPC&utm_region=AMER&utm_campaign=NA_220726_18835_PPC_ME_Default_GartnerDigitalMarkets&utm_content=Gartner-Digital-Markets"
+            },
+            {
+              "product_id" : 131879,
+              "seo_product_id" : 220608,
+              "seo_slug" : "Autopilot",
+              "vendor_name" : "Ortto",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/420c243c-8f1a-4172-beec-55de4b2fb4fd.png",
+              "rating" : 4.6,
+              "total_reviews" : 104,
+              "slug" : "Autopilot",
+              "product_name" : "Ortto",
+              "short_desc" : "Ortto is a customer data platform, business intelligence tool, and marketing automation all-in-one.",
+              "features" : "With Ortto, you can automate all your emails at exactly the right time. Trigger emails based on time, behavior and interest - like when a website visitor submits a demo request form or abandons your shopping cart without making a purchase.\n\nOrtto helps marketers communicate with their audience, transforming leads into customers and customers into repeat buyers and advocates. Build and manage email lists and design intuitive email campaigns with fully-customizable email templates.",
+              "url" : "https://ortto.com/?utm_source=capterra&utm_medium=affiliate&utm_campaign=brand"
+            },
+            {
+              "product_id" : 103468,
+              "seo_product_id" : 226932,
+              "seo_slug" : "Act-On",
+              "vendor_name" : "Act-On Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/23dfe65b-2b51-478a-b9f1-19cd45c355d6.png",
+              "rating" : 4.3,
+              "total_reviews" : 250,
+              "slug" : "Act-On",
+              "product_name" : "Act-On",
+              "short_desc" : "Act-On email and SMS marketing software helps sales and marketing teams go beyond just email with the power of automation.",
+              "features" : "Make an impact with your audience by sending the right message on the right channel at the right time. With our range of simple-to-build and easy-to-deploy email marketing and SMS messaging solutions, you can design, test, and deploy communications that drive engagement to your target audiences while collecting vital information along the way.\n\nAct-On offers easy to build content templates for email, landing pages, and web forms and provides in-depth reporting for optimization of your campaigns.",
+              "url" : "https://success.act-on.com/acton/media/9883/email-marketing-for-the-modern-marketer?utm_channel=ppc&utm_subchannel=intent%20partner&utm_medium=intent%20partner&utm_campaign=act-on%20capterra%20default%20listing&utm_content=success-em-demo&utm_adgroup=act-on%20capterra%20default%20listing"
+            },
+            {
+              "product_id" : 131900,
+              "seo_product_id" : 131900,
+              "seo_slug" : "OngageConnect",
+              "vendor_name" : "Ongage",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/360d4d0f-b38a-41d5-b118-7745181037a8.jpeg",
+              "rating" : 4.8,
+              "total_reviews" : 37,
+              "slug" : "OngageConnect",
+              "product_name" : "Ongage",
+              "short_desc" : "An end-to-end email marketing platform for advanced email operations and data-driven growth.",
+              "features" : "Ongage is an email marketing platform for advanced email marketers who are looking to know their customers better and reach their inboxes at scale.\n\nOngage has the most powerful email API in the market, a built-in SMTP relay, and segmentation, personalization, and campaign optimization capabilities that you have to see.\n\nGive your email operation a new home with Ongage and capitalize on all your previous platform features, while increasing your cost-effectiveness, deliverability, and more.",
+              "url" : "https://www.ongage.com/?utm_medium=cpc&utm_campaign=general"
+            },
+            {
+              "product_id" : 88929,
+              "seo_product_id" : 225692,
+              "seo_slug" : "Really-Simple-Systems-CRM",
+              "vendor_name" : "Really Simple Systems",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/98466c58-67a7-4bb7-8b46-3b06d5ad0b24.png",
+              "rating" : 4.4,
+              "total_reviews" : 369,
+              "slug" : "Really-Simple-Systems-CRM",
+              "product_name" : "Really Simple Systems CRM",
+              "short_desc" : "An integrated CRM and marketing solution to build campaigns and send emails directly from your CRM. Choose Simple or Advanced solutions",
+              "features" : "Our integrated CRM and marketing solution lets you build campaigns and send emails directly from your CRM, using your data to personalize and segment. New leads can be captured from your website and assigned to sales staff to follow up. Or you can add them directly to an automated marketing campaign, letting you work smarter. The stats package means you can monitor the leads, opportunities and value of closed deals, then track the ROI for each campaign, and optimise your marketing spend.",
+              "url" : "https://www.reallysimplesystems.com/small-business-crm/?utm_campaign_id=1241&utm_source=gartner"
+            }
+          ],
+          "related_categories" : [
+            {
+              "functional_group" : "mktgxemail",
+              "long_name" : "All-in-One Marketing Platform",
+              "html_name" : "all-in-one-marketing-software",
+              "link_name" : "all-in-one-marketing",
+              "product_count" : null,
+              "meta_description" : "Find and compare top All-in-One Marketing Platforms on Capterra, with our free and interactive tool. Quickly browse through hundreds of All-in-One Marketing tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "All-in-One Marketing Platforms provide multiple digital marketing tools for SMBs as part of one comprehensive package. Products offer marketing automation, campaign management, email and social marketing, lead management, landing pages/web forms, dynamic content, and various other marketing features.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+            },
+            {
+              "functional_group" : "mktgxemail",
+              "long_name" : "Campaign Management",
+              "html_name" : "campaign-management-software",
+              "link_name" : "campaign-management",
+              "product_count" : 67,
+              "meta_description" : "Find and compare top Campaign Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Campaign Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs.",
+              "description" : "<a href=/campaign-management-software>Campaign Management software</a> enables organizations to automate the tracking, delivery, reporting and analysis of marketing campaigns and promotions through the integration of customer data sources and the ability to parse the data through a broad range of analytic searches.  Using this type of marketing campaign reporting allows organizations to evaluate and optimize multiple campaigns for different business sectors based on real-world analysis of their effectiveness. <a href=/campaign-management-software>Campaign Management software</a> is related to <a href=/email-marketing-software>Email Marketing software</a>, <a href=/marketing-automation-software>Marketing Automation software</a> and <a href=/search-marketing-automation-software>Search Marketing Automation software</a>."
+            },
+            {
+              "functional_group" : "mktgxemail",
+              "long_name" : "Contact Management",
+              "html_name" : "contact-management-software",
+              "link_name" : "contact-management",
+              "product_count" : 119,
+              "meta_description" : "Find and compare top Contact Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Contact Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs.",
+              "description" : "<a href=/contact-management-software>Contact Management software</a> provides powerful tools that enable storage, tracking, and management of contact information throughout an organization. Contact Management applications allow organizations to function more effectively by distributing current contact information for customers, contractors, vendors and others to all levels and locations of an organization. Contact Management solutions also often incorporate efficiency-increasing features such as lead management tools, employee task logs and customer interaction histories.  <a href=/contact-management-software>Contact Management software</a> is related to <a href=/campaign-management-software>Campaign Management software</a>, <a href=/lead-management-software>Lead Management software</a> and <a href=/sales-force-automation-software>Sales Force Automation software</a>."
+            },
+            {
+              "functional_group" : "mktgxemail",
+              "long_name" : "CRM",
+              "html_name" : "customer-relationship-management-software",
+              "link_name" : "customer-relationship-management",
+              "product_count" : 353,
+              "meta_description" : "Find and compare top Customer Relationship Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Customer Relationship Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "Customer Relationship Management (CRM) software enables customer interaction, support and relationship management.  The purpose of a CRM application is to enable organizations to better manage their customers through the introduction of reliable systems, processes and procedures. <a href=/customer-relationship-management-software>Customer Relationship Management software</a> integrates organizational processes across marketing, sales and customer services.  CRM software is related to <a href=/contract-management-software>Contract Management software</a> and <a href=\"/online-crm-software\">Online CRM software</a>."
+            },
+            {
+              "functional_group" : "mktgxemail",
+              "long_name" : "Marketing Automation",
+              "html_name" : "marketing-automation-software",
+              "link_name" : "marketing-automation",
+              "product_count" : 184,
+              "meta_description" : "Find and compare top Marketing Automation software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Marketing Automation tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/marketing-automation-software\">Marketing Automation software</a> enables organizations to automate their marketing functions including campaign creation, market segmentation and response analysis.  These applications also allow greater integration between sales staff and management as well as expanded abilities to evaluate the effectiveness of marketing campaigns.  Marketing Automation solutions enable the enterprise-wide sharing of information, providing an essential conduit between management, sales and marketing operations.  <a href=\"/marketing-automation-software\">Marketing Automation software</a> is related to <a href=\"/campaign-management-software\">Campaign Management software</a>, <a href=\"/email-marketing-software\">Email Marketing software</a> and <a href=\"/search-marketing-automation-software\">Search Marketing software</a>."
+            },
+            {
+              "functional_group" : "mktgxemail",
+              "long_name" : "Survey",
+              "html_name" : "survey-software",
+              "link_name" : "survey",
+              "product_count" : 187,
+              "meta_description" : "Find and compare top Survey software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Survey tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/survey-software>Survey software</a> enables the efficient design and management of electronic surveys, polls, and questionnaires for market research, measuring customer satisfaction, and collecting employee feedback, along with many other applications. Survey software automates designing, scheduling, publishing, and conducting surveys while featuring a variety of user feedback formats including: radio buttons, check boxes, drop-down menus, and free-form text fields.  Survey solutions also accommodate a variety of methodological approaches and provide data reporting tools.  <a href=/survey-software>Survey software</a> is related to <a href=/business-intelligence-software>Business Intelligence software</a> and <a href=/reporting-software>Reporting software</a>."
+            }
+          ],
+          "is_upgraded" : false,
+          "enabled" : true,
+          "filter_options" : {
+            "users" : 127,
+            "platform" : 1,
+            "pricing_options" : 24,
+            "category_related_features" : [
+              18533,
+              18535,
+              18536,
+              18537,
+              18539,
+              18540,
+              18542,
+              18544,
+              18545,
+              18546,
+              18547,
+              18549,
+              28203,
+              28204,
+              28205,
+              28206,
+              32054,
+              32056,
+              49294,
+              49295,
+              49296,
+              49297,
+              49298,
+              49299,
+              49300,
+              49301,
+              49302,
+              49303,
+              49304,
+              49305,
+              49307,
+              49308,
+              49309,
+              49310,
+              49311,
+              49312,
+              49313,
+              49314,
+              49315,
+              49316,
+              49317,
+              49318,
+              49319,
+              49320,
+              49321,
+              49322,
+              49323,
+              49324
+            ],
+            "employees" : 127
+          },
+          "sort_options" : {
+            "sort_review_rating" : 4.612057685852051,
+            "most_recent_review" : "2022-08-12T00:54:36Z"
+          },
+          "countries" : "AI,VE,UY,SR,PE,PY,GY,GF,FK,EC,CO,CL,BR,BO,AR,YE,WF,VU,UZ,TV,TM,TO,TL,TJ,TW,SY,LK,SB,SG,SA,WS,QA,PG,PS,PW,OM,MP,NF,NZ,NC,NP,NR,MM,MN,FM,MH,MV,MY,MO,LB,LA,KG,KW,KR,KI,KZ,JO,JP,IL,IQ,HK,GU,GE,PF,FJ,CK,CN,KH,BN,BH,AZ,AU,AM,AS,FO,BA,BY,AD,AL,AX,US,TR,SJ,SI,SM,RO,MD,MK,JE,GR,GI,HR,BG,ZW,ZM,VN,AE,UG,TN,TG,TH,TZ,SZ,SD,ZA,SO,SL,NE,NA,MZ,YT,MU,MR,ML,MW,MG,LY,LR,LS,KE,IR,ID,IN,GW,GN,GH,GM,GA,ET,ER,GQ,EG,DJ,CD,CG,KM,TD,CF,CV,CM,BI,BF,BW,BT,BJ,AO,AF,SC,SN,ST,SH,RW,RE,PH,NG,VI,VG,UK,UA,TC,TT,CH,SE,ES,SK,RS,VC,PM,MF,LC,KN,RU,PR,PT,PL,PA,NO,NI,AN,NL,MS,ME,MC,MX,MQ,MT,LU,LT,LI,LV,JM,IT,IM,IE,IS,HU,HN,VA,HT,GG,GT,GP,GD,GL,DE,FR,FI,EE,SV,DO,DM,DK,CZ,CY,CU,CR,KY,CA,BM,BZ,BE,BB,BS,AT,AW,AG",
+          "features_tokenized_text" : "auto-responders can_spam_compliance customer_surveys drip_campaigns dynamic_content event_triggered_actions image_library landing_pages/web_forms list_management mobile_optimized_emails reporting/analytics subscriber_management template_management wysiwyg_editor",
+          "platform_tokenized_text" : "cloud,saas,web-based",
+          "users_tokenized_text" : "1 2-10 11-50 51-200 201-500 501-1000 1000+",
+          "pricing_tokenized_text" : "free freetrial",
+          "badges" : [ ],
+          "bid_spot_us" : 0.0,
+          "currency_code" : "USD",
+          "currency_symbol" : "$",
+          "credit_card_required" : "Unverified",
+          "licensing_model" : null,
+          "open_api_offered" : "Yes",
+          "mobile_urls" : [ ],
+          "integrations" : [
+            {
+              "id" : "13e1cedb-89a9-4f45-81a5-a6d200b33c9d",
+              "name" : "Cloudflare"
+            },
+            {
+              "id" : "14f66ecf-7da3-4633-b5e6-a6d200b5007d",
+              "name" : "Adobe Commerce"
+            },
+            {
+              "id" : "167b3492-24f8-4060-aa97-a6d200b77ff8",
+              "name" : "WooCommerce"
+            },
+            {
+              "id" : "3d610edd-bba0-4be0-9894-a6d200b5d306",
+              "name" : "PrestaShop"
+            },
+            {
+              "id" : "78c3b557-4b98-4474-94a6-a6d200b77ff8",
+              "name" : "WordPress"
+            },
+            {
+              "id" : "3ecee0e7-8233-490b-858c-a6d200b7a22f",
+              "name" : "Zapier"
+            }
+          ],
+          "supported_countries" : [
+            {
+              "id" : 108,
+              "code" : "IE",
+              "name" : "Ireland"
+            },
+            {
+              "id" : 16,
+              "code" : "AZ",
+              "name" : "Azerbaijan"
+            },
+            {
+              "id" : 59,
+              "code" : "CY",
+              "name" : "Cyprus"
+            },
+            {
+              "id" : 13,
+              "code" : "AW",
+              "name" : "Aruba"
+            },
+            {
+              "id" : 219,
+              "code" : "TJ",
+              "name" : "Tajikistan"
+            },
+            {
+              "id" : 116,
+              "code" : "KZ",
+              "name" : "Kazakhstan"
+            },
+            {
+              "id" : 56,
+              "code" : "HR",
+              "name" : "Croatia"
+            },
+            {
+              "id" : 206,
+              "code" : "SO",
+              "name" : "Somalia"
+            },
+            {
+              "id" : 242,
+              "code" : "VN",
+              "name" : "Viet Nam"
+            },
+            {
+              "id" : 156,
+              "code" : "NP",
+              "name" : "Nepal"
+            },
+            {
+              "id" : 20,
+              "code" : "BB",
+              "name" : "Barbados"
+            },
+            {
+              "id" : 225,
+              "code" : "TO",
+              "name" : "Tonga"
+            },
+            {
+              "id" : 160,
+              "code" : "NI",
+              "name" : "Nicaragua"
+            },
+            {
+              "id" : 182,
+              "code" : "RE",
+              "name" : "Reunion"
+            },
+            {
+              "id" : 77,
+              "code" : "FR",
+              "name" : "France"
+            },
+            {
+              "id" : 203,
+              "code" : "SK",
+              "name" : "Slovakia"
+            },
+            {
+              "id" : 97,
+              "code" : "HT",
+              "name" : "Haiti"
+            },
+            {
+              "id" : 123,
+              "code" : "LA",
+              "name" : "Lao People's Democratic Republic"
+            },
+            {
+              "id" : 180,
+              "code" : "PR",
+              "name" : "Puerto Rico"
+            },
+            {
+              "id" : 120,
+              "code" : "KR",
+              "name" : "South Korea"
+            },
+            {
+              "id" : 183,
+              "code" : "RO",
+              "name" : "Romania"
+            },
+            {
+              "id" : 105,
+              "code" : "ID",
+              "name" : "Indonesia"
+            },
+            {
+              "id" : 174,
+              "code" : "PY",
+              "name" : "Paraguay"
+            },
+            {
+              "id" : 51,
+              "code" : "CD",
+              "name" : "Congo (the Democratic Republic of the)"
+            },
+            {
+              "id" : 117,
+              "code" : "KE",
+              "name" : "Kenya"
+            },
+            {
+              "id" : 114,
+              "code" : "JE",
+              "name" : "Jersey"
+            },
+            {
+              "id" : 243,
+              "code" : "VG",
+              "name" : "Virgin Islands (British)"
+            },
+            {
+              "id" : 179,
+              "code" : "PT",
+              "name" : "Portugal"
+            },
+            {
+              "id" : 103,
+              "code" : "IS",
+              "name" : "Iceland"
+            },
+            {
+              "id" : 100,
+              "code" : "HN",
+              "name" : "Honduras"
+            },
+            {
+              "id" : 37,
+              "code" : "BI",
+              "name" : "Burundi"
+            },
+            {
+              "id" : 157,
+              "code" : "NL",
+              "name" : "Netherlands"
+            },
+            {
+              "id" : 68,
+              "code" : "GQ",
+              "name" : "Equatorial Guinea"
+            },
+            {
+              "id" : 234,
+              "code" : "AE",
+              "name" : "United Arab Emirates"
+            },
+            {
+              "id" : 200,
+              "code" : "SL",
+              "name" : "Sierra Leone"
+            },
+            {
+              "id" : 154,
+              "code" : "NA",
+              "name" : "Namibia"
+            },
+            {
+              "id" : 94,
+              "code" : "GN",
+              "name" : "Guinea"
+            },
+            {
+              "id" : 34,
+              "code" : "BN",
+              "name" : "Brunei Darussalam"
+            },
+            {
+              "id" : 102,
+              "code" : "HU",
+              "name" : "Hungary"
+            },
+            {
+              "id" : 91,
+              "code" : "GU",
+              "name" : "Guam"
+            },
+            {
+              "id" : 54,
+              "code" : "CR",
+              "name" : "Costa Rica"
+            },
+            {
+              "id" : 131,
+              "code" : "LU",
+              "name" : "Luxembourg"
+            },
+            {
+              "id" : 221,
+              "code" : "TH",
+              "name" : "Thailand"
+            },
+            {
+              "id" : 52,
+              "code" : "CG",
+              "name" : "Congo"
+            },
+            {
+              "id" : 115,
+              "code" : "JO",
+              "name" : "Jordan"
+            },
+            {
+              "id" : 112,
+              "code" : "JM",
+              "name" : "Jamaica"
+            },
+            {
+              "id" : 74,
+              "code" : "FO",
+              "name" : "Faroe Islands"
+            },
+            {
+              "id" : 60,
+              "code" : "CZ",
+              "name" : "Czechia"
+            },
+            {
+              "id" : 238,
+              "code" : "UY",
+              "name" : "Uruguay"
+            },
+            {
+              "id" : 35,
+              "code" : "BG",
+              "name" : "Bulgaria"
+            },
+            {
+              "id" : 53,
+              "code" : "CK",
+              "name" : "Cook Islands"
+            },
+            {
+              "id" : 71,
+              "code" : "SZ",
+              "name" : "Eswatini"
+            },
+            {
+              "id" : 175,
+              "code" : "PE",
+              "name" : "Peru"
+            },
+            {
+              "id" : 57,
+              "code" : "CU",
+              "name" : "Cuba"
+            },
+            {
+              "id" : 218,
+              "code" : "TW",
+              "name" : "Taiwan"
+            },
+            {
+              "id" : 29,
+              "code" : "BA",
+              "name" : "Bosnia and Herzegovina"
+            },
+            {
+              "id" : 138,
+              "code" : "MT",
+              "name" : "Malta"
+            },
+            {
+              "id" : 161,
+              "code" : "NE",
+              "name" : "Niger"
+            },
+            {
+              "id" : 241,
+              "code" : "VE",
+              "name" : "Venezuela"
+            },
+            {
+              "id" : 158,
+              "code" : "NC",
+              "name" : "New Caledonia"
+            },
+            {
+              "id" : 244,
+              "code" : "VI",
+              "name" : "Virgin Islands (U.S.)"
+            },
+            {
+              "id" : 155,
+              "code" : "NR",
+              "name" : "Nauru"
+            },
+            {
+              "id" : 181,
+              "code" : "QA",
+              "name" : "Qatar"
+            },
+            {
+              "id" : 83,
+              "code" : "GE",
+              "name" : "Georgia"
+            },
+            {
+              "id" : 135,
+              "code" : "MY",
+              "name" : "Malaysia"
+            },
+            {
+              "id" : 178,
+              "code" : "PL",
+              "name" : "Poland"
+            },
+            {
+              "id" : 217,
+              "code" : "SY",
+              "name" : "Syrian Arab Republic"
+            },
+            {
+              "id" : 146,
+              "code" : "MD",
+              "name" : "Moldova (the Republic of)"
+            },
+            {
+              "id" : 79,
+              "code" : "PF",
+              "name" : "French Polynesia"
+            },
+            {
+              "id" : 109,
+              "code" : "IM",
+              "name" : "Isle of Man"
+            },
+            {
+              "id" : 232,
+              "code" : "UG",
+              "name" : "Uganda"
+            },
+            {
+              "id" : 214,
+              "code" : "SJ",
+              "name" : "Svalbard and Jan Mayen"
+            },
+            {
+              "id" : 192,
+              "code" : "VC",
+              "name" : "Saint Vincent and the Grenadines"
+            },
+            {
+              "id" : 129,
+              "code" : "LI",
+              "name" : "Liechtenstein"
+            },
+            {
+              "id" : 106,
+              "code" : "IR",
+              "name" : "Iran"
+            },
+            {
+              "id" : 76,
+              "code" : "FI",
+              "name" : "Finland"
+            },
+            {
+              "id" : 26,
+              "code" : "BT",
+              "name" : "Bhutan"
+            },
+            {
+              "id" : 126,
+              "code" : "LS",
+              "name" : "Lesotho"
+            },
+            {
+              "id" : 189,
+              "code" : "LC",
+              "name" : "Saint Lucia"
+            },
+            {
+              "id" : 152,
+              "code" : "MZ",
+              "name" : "Mozambique"
+            },
+            {
+              "id" : 86,
+              "code" : "GI",
+              "name" : "Gibraltar"
+            },
+            {
+              "id" : 149,
+              "code" : "ME",
+              "name" : "Montenegro"
+            },
+            {
+              "id" : 23,
+              "code" : "BZ",
+              "name" : "Belize"
+            },
+            {
+              "id" : 176,
+              "code" : "PH",
+              "name" : "Philippines"
+            },
+            {
+              "id" : 73,
+              "code" : "FK",
+              "name" : "Falkland Islands (Malvinas)"
+            },
+            {
+              "id" : 215,
+              "code" : "SE",
+              "name" : "Sweden"
+            },
+            {
+              "id" : 173,
+              "code" : "PG",
+              "name" : "Papua New Guinea"
+            },
+            {
+              "id" : 170,
+              "code" : "PW",
+              "name" : "Palau"
+            },
+            {
+              "id" : 3,
+              "code" : "AL",
+              "name" : "Albania"
+            },
+            {
+              "id" : 110,
+              "code" : "IL",
+              "name" : "Israel"
+            },
+            {
+              "id" : 239,
+              "code" : "UZ",
+              "name" : "Uzbekistan"
+            },
+            {
+              "id" : 14,
+              "code" : "AU",
+              "name" : "Australia"
+            },
+            {
+              "id" : 235,
+              "code" : "GB",
+              "name" : "United Kingdom of Great Britain and Northern Ireland"
+            },
+            {
+              "id" : 84,
+              "code" : "DE",
+              "name" : "Germany"
+            },
+            {
+              "id" : 144,
+              "code" : "MX",
+              "name" : "Mexico"
+            },
+            {
+              "id" : 32,
+              "code" : "BR",
+              "name" : "Brazil"
+            },
+            {
+              "id" : 237,
+              "code" : "US",
+              "name" : "United States of America"
+            },
+            {
+              "id" : 113,
+              "code" : "JP",
+              "name" : "Japan"
+            },
+            {
+              "id" : 41,
+              "code" : "CA",
+              "name" : "Canada"
+            },
+            {
+              "id" : 46,
+              "code" : "CN",
+              "name" : "China"
+            },
+            {
+              "id" : 130,
+              "code" : "LT",
+              "name" : "Lithuania"
+            },
+            {
+              "id" : 145,
+              "code" : "FM",
+              "name" : "Micronesia"
+            },
+            {
+              "id" : 22,
+              "code" : "BE",
+              "name" : "Belgium"
+            },
+            {
+              "id" : 65,
+              "code" : "EC",
+              "name" : "Ecuador"
+            },
+            {
+              "id" : 188,
+              "code" : "KN",
+              "name" : "Saint Kitts and Nevis"
+            },
+            {
+              "id" : 128,
+              "code" : "LY",
+              "name" : "Libya"
+            },
+            {
+              "id" : 248,
+              "code" : "ZM",
+              "name" : "Zambia"
+            },
+            {
+              "id" : 62,
+              "code" : "DJ",
+              "name" : "Djibouti"
+            },
+            {
+              "id" : 171,
+              "code" : "PS",
+              "name" : "Palestine (State of)"
+            },
+            {
+              "id" : 125,
+              "code" : "LB",
+              "name" : "Lebanon"
+            },
+            {
+              "id" : 122,
+              "code" : "KG",
+              "name" : "Kyrgyzstan"
+            },
+            {
+              "id" : 228,
+              "code" : "TR",
+              "name" : "Turkey"
+            },
+            {
+              "id" : 82,
+              "code" : "GM",
+              "name" : "Gambia"
+            },
+            {
+              "id" : 231,
+              "code" : "TV",
+              "name" : "Tuvalu"
+            },
+            {
+              "id" : 185,
+              "code" : "RW",
+              "name" : "Rwanda"
+            },
+            {
+              "id" : 88,
+              "code" : "GL",
+              "name" : "Greenland"
+            },
+            {
+              "id" : 25,
+              "code" : "BM",
+              "name" : "Bermuda"
+            },
+            {
+              "id" : 42,
+              "code" : "KY",
+              "name" : "Cayman Islands"
+            },
+            {
+              "id" : 2,
+              "code" : "AX",
+              "name" : "Aland Islands"
+            },
+            {
+              "id" : 148,
+              "code" : "MN",
+              "name" : "Mongolia"
+            },
+            {
+              "id" : 85,
+              "code" : "GH",
+              "name" : "Ghana"
+            },
+            {
+              "id" : 99,
+              "code" : "VA",
+              "name" : "Holy See (Vatican City State)"
+            },
+            {
+              "id" : 39,
+              "code" : "KH",
+              "name" : "Cambodia"
+            },
+            {
+              "id" : 222,
+              "code" : "TL",
+              "name" : "Timor-Leste"
+            },
+            {
+              "id" : 205,
+              "code" : "SB",
+              "name" : "Solomon Islands"
+            },
+            {
+              "id" : 211,
+              "code" : "LK",
+              "name" : "Sri Lanka"
+            },
+            {
+              "id" : 96,
+              "code" : "GY",
+              "name" : "Guyana"
+            },
+            {
+              "id" : 142,
+              "code" : "MU",
+              "name" : "Mauritius"
+            },
+            {
+              "id" : 36,
+              "code" : "BF",
+              "name" : "Burkina Faso"
+            },
+            {
+              "id" : 245,
+              "code" : "WF",
+              "name" : "Wallis and Futuna"
+            },
+            {
+              "id" : 199,
+              "code" : "SC",
+              "name" : "Seychelles"
+            },
+            {
+              "id" : 45,
+              "code" : "CL",
+              "name" : "Chile"
+            },
+            {
+              "id" : 193,
+              "code" : "WS",
+              "name" : "Samoa"
+            },
+            {
+              "id" : 95,
+              "code" : "GW",
+              "name" : "Guinea-Bissau"
+            },
+            {
+              "id" : 212,
+              "code" : "SD",
+              "name" : "Sudan"
+            },
+            {
+              "id" : 6,
+              "code" : "AD",
+              "name" : "Andorra"
+            },
+            {
+              "id" : 207,
+              "code" : "ZA",
+              "name" : "South Africa"
+            },
+            {
+              "id" : 92,
+              "code" : "GT",
+              "name" : "Guatemala"
+            },
+            {
+              "id" : 67,
+              "code" : "SV",
+              "name" : "El Salvador"
+            },
+            {
+              "id" : 240,
+              "code" : "VU",
+              "name" : "Vanuatu"
+            },
+            {
+              "id" : 5,
+              "code" : "AS",
+              "name" : "American Samoa"
+            },
+            {
+              "id" : 132,
+              "code" : "MO",
+              "name" : "Macao"
+            },
+            {
+              "id" : 7,
+              "code" : "AO",
+              "name" : "Angola"
+            },
+            {
+              "id" : 190,
+              "code" : "MF",
+              "name" : "Saint Martin"
+            },
+            {
+              "id" : 90,
+              "code" : "GP",
+              "name" : "Guadeloupe"
+            },
+            {
+              "id" : 30,
+              "code" : "BW",
+              "name" : "Botswana"
+            },
+            {
+              "id" : 10,
+              "code" : "AG",
+              "name" : "Antigua and Barbuda"
+            },
+            {
+              "id" : 204,
+              "code" : "SI",
+              "name" : "Slovenia"
+            },
+            {
+              "id" : 167,
+              "code" : "NO",
+              "name" : "Norway"
+            },
+            {
+              "id" : 184,
+              "code" : "RU",
+              "name" : "Russian Federation"
+            },
+            {
+              "id" : 147,
+              "code" : "MC",
+              "name" : "Monaco"
+            },
+            {
+              "id" : 1,
+              "code" : "AF",
+              "name" : "Afghanistan"
+            },
+            {
+              "id" : 143,
+              "code" : "YT",
+              "name" : "Mayotte"
+            },
+            {
+              "id" : 93,
+              "code" : "GG",
+              "name" : "Guernsey"
+            },
+            {
+              "id" : 210,
+              "code" : "ES",
+              "name" : "Spain"
+            },
+            {
+              "id" : 187,
+              "code" : "SH",
+              "name" : "Saint Helena, Ascension and Tristan da Cunha"
+            },
+            {
+              "id" : 118,
+              "code" : "KI",
+              "name" : "Kiribati"
+            },
+            {
+              "id" : 70,
+              "code" : "EE",
+              "name" : "Estonia"
+            },
+            {
+              "id" : 164,
+              "code" : "NF",
+              "name" : "Norfolk Island"
+            },
+            {
+              "id" : 64,
+              "code" : "DO",
+              "name" : "Dominican Republic"
+            },
+            {
+              "id" : 66,
+              "code" : "EG",
+              "name" : "Egypt"
+            },
+            {
+              "id" : 250,
+              "code" : "AN",
+              "name" : "Netherlands Antilles"
+            },
+            {
+              "id" : 247,
+              "code" : "YE",
+              "name" : "Yemen"
+            },
+            {
+              "id" : 61,
+              "code" : "DK",
+              "name" : "Denmark"
+            },
+            {
+              "id" : 213,
+              "code" : "SR",
+              "name" : "Suriname"
+            },
+            {
+              "id" : 87,
+              "code" : "GR",
+              "name" : "Greece"
+            },
+            {
+              "id" : 27,
+              "code" : "BO",
+              "name" : "Bolivia"
+            },
+            {
+              "id" : 216,
+              "code" : "CH",
+              "name" : "Switzerland"
+            },
+            {
+              "id" : 24,
+              "code" : "BJ",
+              "name" : "Benin"
+            },
+            {
+              "id" : 81,
+              "code" : "GA",
+              "name" : "Gabon"
+            },
+            {
+              "id" : 141,
+              "code" : "MR",
+              "name" : "Mauritania"
+            },
+            {
+              "id" : 196,
+              "code" : "SA",
+              "name" : "Saudi Arabia"
+            },
+            {
+              "id" : 140,
+              "code" : "MQ",
+              "name" : "Martinique"
+            },
+            {
+              "id" : 166,
+              "code" : "MP",
+              "name" : "Northern Mariana Islands"
+            },
+            {
+              "id" : 12,
+              "code" : "AM",
+              "name" : "Armenia"
+            },
+            {
+              "id" : 124,
+              "code" : "LV",
+              "name" : "Latvia"
+            },
+            {
+              "id" : 201,
+              "code" : "SG",
+              "name" : "Singapore"
+            },
+            {
+              "id" : 15,
+              "code" : "AT",
+              "name" : "Austria"
+            },
+            {
+              "id" : 121,
+              "code" : "KW",
+              "name" : "Kuwait"
+            },
+            {
+              "id" : 198,
+              "code" : "RS",
+              "name" : "Serbia"
+            },
+            {
+              "id" : 195,
+              "code" : "ST",
+              "name" : "Sao Tome and Principe"
+            },
+            {
+              "id" : 172,
+              "code" : "PA",
+              "name" : "Panama"
+            },
+            {
+              "id" : 50,
+              "code" : "KM",
+              "name" : "Comoros"
+            },
+            {
+              "id" : 233,
+              "code" : "UA",
+              "name" : "Ukraine"
+            },
+            {
+              "id" : 44,
+              "code" : "TD",
+              "name" : "Chad"
+            },
+            {
+              "id" : 21,
+              "code" : "BY",
+              "name" : "Belarus"
+            },
+            {
+              "id" : 230,
+              "code" : "TC",
+              "name" : "Turks and Caicos Islands"
+            },
+            {
+              "id" : 18,
+              "code" : "BH",
+              "name" : "Bahrain"
+            },
+            {
+              "id" : 227,
+              "code" : "TN",
+              "name" : "Tunisia"
+            },
+            {
+              "id" : 191,
+              "code" : "PM",
+              "name" : "Saint Pierre and Miquelon"
+            },
+            {
+              "id" : 168,
+              "code" : "OM",
+              "name" : "Oman"
+            },
+            {
+              "id" : 165,
+              "code" : "MK",
+              "name" : "North Macedonia"
+            },
+            {
+              "id" : 159,
+              "code" : "NZ",
+              "name" : "New Zealand"
+            },
+            {
+              "id" : 139,
+              "code" : "MH",
+              "name" : "Marshall Islands"
+            },
+            {
+              "id" : 136,
+              "code" : "MV",
+              "name" : "Maldives"
+            },
+            {
+              "id" : 162,
+              "code" : "NG",
+              "name" : "Nigeria"
+            },
+            {
+              "id" : 223,
+              "code" : "TG",
+              "name" : "Togo"
+            },
+            {
+              "id" : 38,
+              "code" : "CV",
+              "name" : "Cabo Verde"
+            },
+            {
+              "id" : 63,
+              "code" : "DM",
+              "name" : "Dominica"
+            },
+            {
+              "id" : 89,
+              "code" : "GD",
+              "name" : "Grenada"
+            },
+            {
+              "id" : 111,
+              "code" : "IT",
+              "name" : "Italy"
+            },
+            {
+              "id" : 137,
+              "code" : "ML",
+              "name" : "Mali"
+            },
+            {
+              "id" : 153,
+              "code" : "MM",
+              "name" : "Myanmar"
+            },
+            {
+              "id" : 150,
+              "code" : "MS",
+              "name" : "Montserrat"
+            },
+            {
+              "id" : 134,
+              "code" : "MW",
+              "name" : "Malawi"
+            },
+            {
+              "id" : 127,
+              "code" : "LR",
+              "name" : "Liberia"
+            },
+            {
+              "id" : 249,
+              "code" : "ZW",
+              "name" : "Zimbabwe"
+            },
+            {
+              "id" : 17,
+              "code" : "BS",
+              "name" : "Bahamas"
+            },
+            {
+              "id" : 226,
+              "code" : "TT",
+              "name" : "Trinidad and Tobago"
+            },
+            {
+              "id" : 40,
+              "code" : "CM",
+              "name" : "Cameroon"
+            },
+            {
+              "id" : 8,
+              "code" : "AI",
+              "name" : "Anguilla"
+            },
+            {
+              "id" : 11,
+              "code" : "AR",
+              "name" : "Argentina"
+            },
+            {
+              "id" : 220,
+              "code" : "TZ",
+              "name" : "Tanzania (the United Republic of)"
+            },
+            {
+              "id" : 197,
+              "code" : "SN",
+              "name" : "Senegal"
+            },
+            {
+              "id" : 194,
+              "code" : "SM",
+              "name" : "San Marino"
+            },
+            {
+              "id" : 75,
+              "code" : "FJ",
+              "name" : "Fiji"
+            },
+            {
+              "id" : 72,
+              "code" : "ET",
+              "name" : "Ethiopia"
+            },
+            {
+              "id" : 49,
+              "code" : "CO",
+              "name" : "Colombia"
+            },
+            {
+              "id" : 229,
+              "code" : "TM",
+              "name" : "Turkmenistan"
+            },
+            {
+              "id" : 43,
+              "code" : "CF",
+              "name" : "Central African Republic"
+            },
+            {
+              "id" : 69,
+              "code" : "ER",
+              "name" : "Eritrea"
+            },
+            {
+              "id" : 107,
+              "code" : "IQ",
+              "name" : "Iraq"
+            },
+            {
+              "id" : 133,
+              "code" : "MG",
+              "name" : "Madagascar"
+            },
+            {
+              "id" : 78,
+              "code" : "GF",
+              "name" : "French Guiana"
+            },
+            {
+              "id" : 104,
+              "code" : "IN",
+              "name" : "India"
+            },
+            {
+              "id" : 101,
+              "code" : "HK",
+              "name" : "Hong Kong"
+            }
+          ],
+          "supported_languages" : [
+            {
+              "id" : 152,
+              "code" : "en",
+              "name" : "English",
+              "location" : null
+            }
+          ],
+          "target_industries" : [
+            {
+              "id" : 84,
+              "code" : "80",
+              "name" : "Marketing and Advertising"
+            },
+            {
+              "id" : 126,
+              "code" : "27",
+              "name" : "Retail"
+            },
+            {
+              "id" : 25,
+              "code" : "4",
+              "name" : "Computer Software"
+            },
+            {
+              "id" : 33,
+              "code" : "99",
+              "name" : "Design"
+            },
+            {
+              "id" : 99,
+              "code" : "113",
+              "name" : "Online Media"
+            },
+            {
+              "id" : 117,
+              "code" : "82",
+              "name" : "Publishing"
+            },
+            {
+              "id" : 8,
+              "code" : "111",
+              "name" : "Arts and Crafts"
+            },
+            {
+              "id" : 94,
+              "code" : "115",
+              "name" : "Music"
+            },
+            {
+              "id" : 54,
+              "code" : "140",
+              "name" : "Graphic Design"
+            },
+            {
+              "id" : 98,
+              "code" : "57",
+              "name" : "Oil & Energy"
+            },
+            {
+              "id" : 15,
+              "code" : "138",
+              "name" : "Business Supplies and Equipment"
+            },
+            {
+              "id" : 112,
+              "code" : "105",
+              "name" : "Professional Training & Coaching"
+            },
+            {
+              "id" : 138,
+              "code" : "108",
+              "name" : "Translation and Localization"
+            },
+            {
+              "id" : 55,
+              "code" : "124",
+              "name" : "Health, Wellness and Fitness"
+            },
+            {
+              "id" : 35,
+              "code" : "132",
+              "name" : "E-Learning"
+            },
+            {
+              "id" : 9,
+              "code" : "53",
+              "name" : "Automotive"
+            },
+            {
+              "id" : 97,
+              "code" : "100",
+              "name" : "Non-Profit Organization Management"
+            },
+            {
+              "id" : 37,
+              "code" : "28",
+              "name" : "Entertainment"
+            },
+            {
+              "id" : 76,
+              "code" : "30",
+              "name" : "Leisure, Travel & Tourism"
+            },
+            {
+              "id" : 86,
+              "code" : "126",
+              "name" : "Media Production"
+            },
+            {
+              "id" : 68,
+              "code" : "6",
+              "name" : "Internet"
+            },
+            {
+              "id" : 52,
+              "code" : "75",
+              "name" : "Government Administration"
+            },
+            {
+              "id" : 64,
+              "code" : "96",
+              "name" : "Information Technology and Services"
+            },
+            {
+              "id" : 147,
+              "code" : "103",
+              "name" : "Writing and Editing"
+            },
+            {
+              "id" : 89,
+              "code" : "139",
+              "name" : "Mental Health Care"
+            },
+            {
+              "id" : 18,
+              "code" : "90",
+              "name" : "Civic & Social Organization"
+            },
+            {
+              "id" : 81,
+              "code" : "11",
+              "name" : "Management Consulting"
+            },
+            {
+              "id" : 58,
+              "code" : "31",
+              "name" : "Hospitality"
+            },
+            {
+              "id" : 63,
+              "code" : "84",
+              "name" : "Information Services"
+            }
+          ],
+          "price_range_id" : 1,
+          "aggregated_review_ratings" : {
+            "industry" : {
+              "4" : 4.83,
+              "60" : 5.0,
+              "80" : 5.0,
+              "111" : 4.75,
+              "109" : 5.0,
+              "138" : 4.0,
+              "124" : 5.0,
+              "31" : 4.0,
+              "99" : 4.5,
+              "42" : 5.0,
+              "84" : 4.33,
+              "5" : 5.0,
+              "9" : 5.0,
+              "8" : 5.0,
+              "29" : 1.0,
+              "75" : 5.0,
+              "27" : 5.0,
+              "100" : 5.0,
+              "113" : 5.0,
+              "53" : 4.0,
+              "139" : 5.0,
+              "44" : 5.0,
+              "11" : 5.0,
+              "98" : 5.0,
+              "67" : 5.0,
+              "6" : 4.67,
+              "137" : 5.0,
+              "108" : 5.0,
+              "118" : 5.0,
+              "28" : 5.0,
+              "82" : 5.0,
+              "74" : 5.0,
+              "132" : 4.75,
+              "39" : 5.0,
+              "105" : 5.0,
+              "43" : 4.5,
+              "110" : 4.67,
+              "57" : 5.0,
+              "127" : 5.0,
+              "90" : 4.0,
+              "69" : 4.67,
+              "48" : 4.0,
+              "10" : 5.0,
+              "96" : 4.5,
+              "92" : 4.67,
+              "33" : 3.0,
+              "140" : 4.0,
+              "115" : 5.0,
+              "103" : 4.5,
+              "41" : 5.0
+            },
+            "company_size" : {
+              "Self-employed" : 4.78,
+              "1-10 employees" : 4.65,
+              "201-500 employees" : 4.33,
+              "1001-5000 employees" : 5.0,
+              "10,001+ employees" : 5.0,
+              "501-1000 employees" : 5.0,
+              "11-50 employees" : 4.73,
+              "51-200 employees" : 4.67
+            }
+          },
+          "vct_enabled" : false,
+          "pricing_plans" : [
+            {
+              "created_on_utc" : "2019-08-21T14:47:39Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Free Forever!",
+              "description" : "The Free Forever plan is free of cost (no credit card required).",
+              "display_order" : 1,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 0.0,
+              "ending_price" : null,
+              "pricing_model_name" : null,
+              "payment_frequency_name" : null,
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "1 User"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "24/7 Chat Support"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "3rd Party Integrations"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "Audience Growth"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 5,
+                  "name" : "Automation Reports"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 6,
+                  "name" : "Automation Splits"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 7,
+                  "name" : "Campaign Reports"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 8,
+                  "name" : "Collection"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 9,
+                  "name" : "Contact Profiles"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 10,
+                  "name" : "Contains Sender Branding"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 11,
+                  "name" : "Custom DKIM Settings"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 12,
+                  "name" : "Custom HTML Block"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 13,
+                  "name" : "Custom Timing"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 14,
+                  "name" : "Custom Trigger Automations"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 15,
+                  "name" : "Drag & Drop Editor"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 16,
+                  "name" : "Email Automation Features"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 17,
+                  "name" : "Email Content"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 18,
+                  "name" : "Email Templates"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 19,
+                  "name" : "Exit-Intent Popup"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 20,
+                  "name" : "Google Analytics Tracking"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 21,
+                  "name" : "Heatmap/Clicks"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 22,
+                  "name" : "HTML Editor"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 23,
+                  "name" : "Image Editor"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 24,
+                  "name" : "Image Library"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 25,
+                  "name" : "Personalization"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 26,
+                  "name" : "Plain Text Editor"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 27,
+                  "name" : "Popups"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 28,
+                  "name" : "Pre-Built Workflows"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 29,
+                  "name" : "Product Picker"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 30,
+                  "name" : "Scheduled Frequency"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 31,
+                  "name" : "Show On Specific Location"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 32,
+                  "name" : "Show When Element Is Clicked"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 33,
+                  "name" : "Sign Up Forms"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 34,
+                  "name" : "SMS Opt-In Collection"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 35,
+                  "name" : "SPAM Check"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 36,
+                  "name" : "TCPA & GDPR Consent"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 37,
+                  "name" : "Two-Factor Authentication"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 38,
+                  "name" : "Unlimited Custom Fields"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 39,
+                  "name" : "Unlimited Segmentation"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 40,
+                  "name" : "Up to 15000 Emails/Month"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 41,
+                  "name" : "Up to 2500 Subscribers"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 42,
+                  "name" : "Video Block"
+                }
+              ]
+            },
+            {
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Standard",
+              "description" : "The pricing increases with the number of subscribers ($500 for 200k subscribers - maximum). The Standard plan also offers 2 months free with annual billing.",
+              "display_order" : 2,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 15.0,
+              "ending_price" : 500.0,
+              "pricing_model_name" : "Other",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "24/7 Chat Support"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "3rd Party Integrations"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "3 User"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "Audience Growth"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 5,
+                  "name" : "Automation Reports"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 6,
+                  "name" : "Automation Splits"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 7,
+                  "name" : "Campaign Reports"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 8,
+                  "name" : "Collection"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 9,
+                  "name" : "Contact Profiles"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 10,
+                  "name" : "Contains Sender Branding"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 11,
+                  "name" : "Custom DKIM Settings"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 12,
+                  "name" : "Custom HTML Block"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 13,
+                  "name" : "Custom Timing"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 14,
+                  "name" : "Custom Trigger Automations"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 15,
+                  "name" : "Drag & Drop Editor"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 16,
+                  "name" : "Email Automation Features"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 17,
+                  "name" : "Email Content"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 18,
+                  "name" : "Email Templates"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 19,
+                  "name" : "Exit-Intent Popup"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 20,
+                  "name" : "Google Analytics Tracking"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 21,
+                  "name" : "Heatmap/Clicks"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 22,
+                  "name" : "HTML Editor"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 23,
+                  "name" : "Image Editor"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 24,
+                  "name" : "Image Library"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 25,
+                  "name" : "Multi-User Access"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 26,
+                  "name" : "No Sender Branding"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 27,
+                  "name" : "Personalization"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 28,
+                  "name" : "Plain Text Editor"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 29,
+                  "name" : "Popups"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 30,
+                  "name" : "Pre-Built Workflows"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 31,
+                  "name" : "Product Picker"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 32,
+                  "name" : "Scheduled Frequency"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 33,
+                  "name" : "Show On Specific Location"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 34,
+                  "name" : "Show When Element Is Clicked"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 35,
+                  "name" : "Sign Up Forms"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 36,
+                  "name" : "SMS and MMS Messaging"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 37,
+                  "name" : "SMS Opt-In Collection"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 38,
+                  "name" : "SPAM Check"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 39,
+                  "name" : "TCPA & GDPR Consent"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 40,
+                  "name" : "Two-Factor Authentication"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 41,
+                  "name" : "Unlimited Custom Fields"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 42,
+                  "name" : "Unlimited Segmentation"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 43,
+                  "name" : "Up to 200k Subscribers"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 44,
+                  "name" : "Up to 2.40m Emails/Month"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 45,
+                  "name" : "Video Block"
+                }
+              ]
+            },
+            {
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Professional",
+              "description" : "The Professional plan offers 2 months free with annual billing. Additionally, the pricing will increase with the number of subscribers ($1660 for 200k subscribers- maximum).",
+              "display_order" : 3,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 70.0,
+              "ending_price" : 1660.0,
+              "pricing_model_name" : "Other",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "10 User"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "24/7 Chat Support"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "3rd Party Integrations"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "Advanced Automation"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 5,
+                  "name" : "Animated Countdown Timers"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 6,
+                  "name" : "Audience Growth"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 7,
+                  "name" : "Automation Reports"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 8,
+                  "name" : "Automation Splits"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 9,
+                  "name" : "Campaign Reports"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 10,
+                  "name" : "Collection"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 11,
+                  "name" : "Contact Profiles"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 12,
+                  "name" : "Contains Sender Branding"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 13,
+                  "name" : "Custom DKIM Settings"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 14,
+                  "name" : "Custom HTML Block"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 15,
+                  "name" : "Custom Timing"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 16,
+                  "name" : "Custom Trigger Automations"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 17,
+                  "name" : "Dedicated IP"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 18,
+                  "name" : "Dedicated IP Address"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 19,
+                  "name" : "Drag & Drop Editor"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 20,
+                  "name" : "Email Automation Features"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 21,
+                  "name" : "Email Content"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 22,
+                  "name" : "Email Templates"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 23,
+                  "name" : "Exit-Intent Popup"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 24,
+                  "name" : "Feedback Block"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 25,
+                  "name" : "Free SMS Credits"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 26,
+                  "name" : "Google Analytics Tracking"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 27,
+                  "name" : "Heatmap/Clicks"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 28,
+                  "name" : "HTML Editor"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 29,
+                  "name" : "Image Editor"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 30,
+                  "name" : "Image Library"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 31,
+                  "name" : "Inbox Preview"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 32,
+                  "name" : "Multi-User Access"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 33,
+                  "name" : "No Sender Branding"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 34,
+                  "name" : "Personalization"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 35,
+                  "name" : "Plain Text Editor"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 36,
+                  "name" : "Popups"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 37,
+                  "name" : "Pre-Built Workflows"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 38,
+                  "name" : "Product Picker"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 39,
+                  "name" : "Scheduled Frequency"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 40,
+                  "name" : "Show On Specific Location"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 41,
+                  "name" : "Show When Element Is Clicked"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 42,
+                  "name" : "Sign Up Forms"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 43,
+                  "name" : "SMS and MMS Worth $70/Month"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 44,
+                  "name" : "SMS Automation"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 45,
+                  "name" : "SMS Opt-In Collection"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 46,
+                  "name" : "SPAM Check"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 47,
+                  "name" : "TCPA & GDPR Consent"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 48,
+                  "name" : "Timer"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 49,
+                  "name" : "Two-Factor Authentication"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 50,
+                  "name" : "Unlimited Custom Fields"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 51,
+                  "name" : "Unlimited Segmentation"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 52,
+                  "name" : "Up to 200k Subscribers"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 53,
+                  "name" : "Up to 4.80m Emails/Month"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 54,
+                  "name" : "Video Block"
+                }
+              ]
+            },
+            {
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Enterprise",
+              "description" : "Contact Sender.net for custom pricing.",
+              "display_order" : 4,
+              "price_type_name" : "Custom",
+              "custom_price" : "Contact for pricing",
+              "starting_price" : null,
+              "ending_price" : null,
+              "pricing_model_name" : null,
+              "payment_frequency_name" : null,
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "24/7 Chat Support"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "3rd Party Integrations"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Activity Logs for Auditing"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "Advanced Automation"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 5,
+                  "name" : "Advanced User Permissions"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 6,
+                  "name" : "Animated Countdown Timers"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 7,
+                  "name" : "Audience Growth"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 8,
+                  "name" : "Automation Reports"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 9,
+                  "name" : "Automation Splits"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 10,
+                  "name" : "Campaign Reports"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 11,
+                  "name" : "Collection"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 12,
+                  "name" : "Contact Profiles"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 13,
+                  "name" : "Contains Sender Branding"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 14,
+                  "name" : "Custom DKIM Settings"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 15,
+                  "name" : "Custom HTML Block"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 16,
+                  "name" : "Custom Timing"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 17,
+                  "name" : "Custom Trigger Automations"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 18,
+                  "name" : "Dedicated IP"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 19,
+                  "name" : "Dedicated IP Address"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 20,
+                  "name" : "Dedicated Success Manager"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 21,
+                  "name" : "Drag & Drop Editor"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 22,
+                  "name" : "Email Automation Features"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 23,
+                  "name" : "Email Content"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 24,
+                  "name" : "Email Templates"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 25,
+                  "name" : "Exit-Intent Popup"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 26,
+                  "name" : "Feedback Block"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 27,
+                  "name" : "Free SMS Credits"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 28,
+                  "name" : "Google Analytics Tracking"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 29,
+                  "name" : "Heatmap/Clicks"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 30,
+                  "name" : "HTML Editor"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 31,
+                  "name" : "Image Editor"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 32,
+                  "name" : "Image Library"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 33,
+                  "name" : "Inbox Preview"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 34,
+                  "name" : "Multi-User Access"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 35,
+                  "name" : "No Sender Branding"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 36,
+                  "name" : "Personalization"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 37,
+                  "name" : "Phone Support"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 38,
+                  "name" : "Plain Text Editor"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 39,
+                  "name" : "Popups"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 40,
+                  "name" : "Pre-Built Workflows"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 41,
+                  "name" : "Product Picker"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 42,
+                  "name" : "Scheduled Frequency"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 43,
+                  "name" : "Service Level Agreement"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 44,
+                  "name" : "Show On Specific Location"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 45,
+                  "name" : "Show When Element Is Clicked"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 46,
+                  "name" : "Sign Up Forms"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 47,
+                  "name" : "SMS and MMS Worth $70/Month"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 48,
+                  "name" : "SMS Automation"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 49,
+                  "name" : "SMS Opt-In Collection"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 50,
+                  "name" : "SPAM Check"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 51,
+                  "name" : "SSO (SAML V2)"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 52,
+                  "name" : "TCPA & GDPR Consent"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 53,
+                  "name" : "Timer"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 54,
+                  "name" : "Two-Factor Authentication"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 55,
+                  "name" : "Unlimited Custom Fields"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 56,
+                  "name" : "Unlimited Emails"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 57,
+                  "name" : "Unlimited Segmentation"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 58,
+                  "name" : "Unlimited User"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 59,
+                  "name" : "Video Block"
+                }
+              ]
+            }
+          ],
+          "discount_types" : [
+            {
+              "name" : "By Plan Frequency",
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

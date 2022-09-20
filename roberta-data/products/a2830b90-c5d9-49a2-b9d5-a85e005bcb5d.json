@@ -1,0 +1,2177 @@
+{
+  "took" : 2,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 3,
+    "successful" : 3,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : {
+      "value" : 1,
+      "relation" : "eq"
+    },
+    "max_score" : 11.380028,
+    "hits" : [
+      {
+        "_index" : "product_listings_main_data_upc_vt20220920_043802_utc",
+        "_type" : "_doc",
+        "_id" : "171554_hrxpa",
+        "_score" : 11.380028,
+        "_source" : {
+          "product_id" : 171554,
+          "seo_product_id" : 171554,
+          "seo_slug" : "Hi5",
+          "product_name" : "Hi5",
+          "upc_product_uuid" : "a2830b90-c5d9-49a2-b9d5-a85e005bcb5d",
+          "old_product_ids" : [ ],
+          "product_url" : "https://www.hi5.team/?f=capT4?utm_source=Capterra&utm_medium=PPC&utm_campaign=Hi5%20Capterra&utm_term=Employee%20Recognition",
+          "product_slug" : "Hi5",
+          "former_name" : "Hi5",
+          "logo_filepath" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d348f467-3b40-4530-b821-8c8c1f599fd7.png",
+          "vendor" : {
+            "vendor_id" : 2118847,
+            "vendor_name" : "Hi5 Technologies",
+            "vendor_url" : "https://www.get5.io",
+            "year_founded" : 2016,
+            "location" : "South Africa",
+            "vendor_opted_out_of_reviews" : true,
+            "is_opted_out_of_reviews" : false,
+            "is_hit_limit" : false,
+            "enabled" : true,
+            "has_vendor_level_page" : false,
+            "slug" : null,
+            "vendor_page" : false,
+            "paused_campaign" : false
+          },
+          "category_short_name" : "hrxpa",
+          "category_html_name" : "performance-appraisal-software",
+          "category" : {
+            "id" : 30061,
+            "short_name" : "hrxpa",
+            "long_name" : "Performance Management System",
+            "html_name" : "performance-appraisal-software",
+            "enabled" : true
+          },
+          "best_category" : "hrxpa",
+          "is_best_category" : true,
+          "highest_cpc_category" : null,
+          "is_highest_cpc_category" : false,
+          "short_desc" : "Simple cloud solution that lets employees give recognition & feedback at work. Play games to get to know your team & company culture.",
+          "long_desc" : "Hi5 makes it easier for people to manage people. It's a simple, easy cloud solution that enables co-workers to give recognition and feedback at work. Play employee engagement games to learn more about the company culture and employees. Hi5 helps Managers and HR teams measure Appreciation, Goals, Culture and Happiness. Hi5 integrates with Slack, WhatsApp and MS Teams.",
+          "rating" : 4.4,
+          "number_of_reviews" : 146,
+          "total_reviews" : 146,
+          "ease_of_use_rating" : 4.3,
+          "customer_support_rating" : 4.5,
+          "functionality_rating" : 4.2,
+          "value_for_money_rating" : 4.2,
+          "recommendation_rating" : 8.2,
+          "pricing_enabled" : true,
+          "pricing" : 1.0,
+          "is_per_user" : true,
+          "fee_schedule" : "Per-Month",
+          "pricing_model" : "Per User",
+          "pricing_details" : "Awesome (Free for up to 10 users): $3 / user / month\n\nBusiness: $7 / user / month\n\nVolume pricing available for Enterprise, please contact Hi5 Technologies for details: help@get5.io\n\nNGO's, schools, universities, religious organisations get 50% off - see www.get5.io/non-profit\n\nStartups get 50% off for 6 months - see www.get5.io/startup",
+          "pricing_created_on" : "2019-08-21T14:47:39Z",
+          "pricing_modified_on" : "2022-06-23T14:42:33Z",
+          "pricing_created_by" : null,
+          "pricing_modified_by" : null,
+          "pricing_vendor_pricing_url" : "https://www.hi5.team/pricing",
+          "free_trial" : true,
+          "free_version" : true,
+          "target_audience" : "Organisations and companies in all sectors looking for a fresh, simple way to improve Employee Engagement through Games and measure Recognition, Culture, Growth and Happiness.",
+          "target_users" : [
+            "2-10",
+            "11-50",
+            "51-200",
+            "201-500",
+            "501-1000",
+            "1000+"
+          ],
+          "platform" : [
+            {
+              "enabled" : true,
+              "name" : "Cloud, SaaS, Web-Based"
+            },
+            {
+              "enabled" : true,
+              "name" : "Desktop Mac"
+            },
+            {
+              "enabled" : true,
+              "name" : "Desktop Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Linux"
+            },
+            {
+              "enabled" : true,
+              "name" : "On-Premise Windows"
+            },
+            {
+              "enabled" : true,
+              "name" : "On-Premise Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Chromebook"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile Android"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPhone"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPad"
+            }
+          ],
+          "support" : [
+            {
+              "enabled" : true,
+              "name" : "Email Help Desk"
+            },
+            {
+              "enabled" : true,
+              "name" : "FAQ Forum"
+            },
+            {
+              "enabled" : true,
+              "name" : "Knowledgebase"
+            },
+            {
+              "enabled" : true,
+              "name" : "Phone Support"
+            },
+            {
+              "enabled" : true,
+              "name" : "24/7 Live Rep"
+            },
+            {
+              "enabled" : true,
+              "name" : "Chat"
+            }
+          ],
+          "training" : [
+            {
+              "enabled" : false,
+              "name" : "Not Offered"
+            },
+            {
+              "enabled" : true,
+              "name" : "In-Person"
+            },
+            {
+              "enabled" : true,
+              "name" : "Live Online"
+            },
+            {
+              "enabled" : true,
+              "name" : "Webinars"
+            },
+            {
+              "enabled" : true,
+              "name" : "Documentation"
+            },
+            {
+              "enabled" : true,
+              "name" : "Videos"
+            }
+          ],
+          "media" : [
+            {
+              "product_id" : 171554,
+              "vendor_id" : 2118847,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/17278a6a-26d4-4bb3-9de3-3a022f0be345.png",
+              "caption" : "Recognition on Hi5 Wall",
+              "weight" : 1,
+              "short_name" : "hrxpa"
+            },
+            {
+              "product_id" : 171554,
+              "vendor_id" : 2118847,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/e80638f8-116a-4c5e-8749-e877ee8f8950.png",
+              "caption" : "Rate on company values",
+              "weight" : 2,
+              "short_name" : "hrxpa"
+            },
+            {
+              "product_id" : 171554,
+              "vendor_id" : 2118847,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/e47d37a8-399f-4b4d-ab9c-7e528255d09f.png",
+              "caption" : "Get recognition data",
+              "weight" : 3,
+              "short_name" : "hrxpa"
+            },
+            {
+              "product_id" : 171554,
+              "vendor_id" : 2118847,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/1b610d2e-e186-45ad-ac0c-6caae54a932a.png",
+              "caption" : "Get people data",
+              "weight" : 4,
+              "short_name" : "hrxpa"
+            },
+            {
+              "product_id" : 171554,
+              "vendor_id" : 2118847,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/72867f38-02ef-43b7-b938-06c87e0919dd.png",
+              "caption" : "Get culture data",
+              "weight" : 5,
+              "short_name" : "hrxpa"
+            },
+            {
+              "product_id" : 171554,
+              "vendor_id" : 2118847,
+              "media_type" : "VIDEO",
+              "path_url" : "https://youtu.be/Ffp7qArs_I4",
+              "caption" : null,
+              "weight" : 0,
+              "short_name" : "hrxpa"
+            }
+          ],
+          "links" : [
+            {
+              "product_id" : 171554,
+              "functional_group" : "hrxpa",
+              "html_code" : "https://app.get5.io/?f=capT4?utm_source=Capterra&utm_medium=PPC&utm_campaign=Hi5%20Capterra&utm_term=Employee%20Recognition",
+              "link_name" : "Free Trial",
+              "link_priority" : 1.0
+            },
+            {
+              "product_id" : 171554,
+              "functional_group" : "hrxpa",
+              "html_code" : "https://www.hi5.team/contact?f=capT4?utm_source=Capterra&utm_medium=PPC&utm_campaign=Hi5%20Capterra&utm_term=Employee%20Recognition",
+              "link_name" : "Free Demo",
+              "link_priority" : 2.0
+            },
+            {
+              "product_id" : 171554,
+              "functional_group" : "hrxpa",
+              "html_code" : "https://www.hi5.team/pricing?f=capT4?utm_source=Capterra&utm_medium=PPC&utm_campaign=Hi5%20Capterra&utm_term=Employee%20Recognition",
+              "link_name" : "Pricing",
+              "link_priority" : 3.0
+            },
+            {
+              "product_id" : 171554,
+              "functional_group" : "hrxpa",
+              "html_code" : "https://www.get5.io/product?f=capT4?utm_source=Capterra&utm_medium=PPC&utm_campaign=Hi5%20Capterra&utm_term=Employee%20Recognition",
+              "link_name" : "Product features",
+              "link_priority" : 4.0
+            },
+            {
+              "product_id" : 171554,
+              "functional_group" : "hrxpa",
+              "html_code" : "https://www.get5.io/customers?f=capT4?utm_source=Capterra&utm_medium=PPC&utm_campaign=Hi5%20Capterra&utm_term=Employee%20Recognition",
+              "link_name" : "Why Customers Love Us",
+              "link_priority" : 5.0
+            }
+          ],
+          "features" : [
+            {
+              "category_name" : "Performance Management System",
+              "category_features" : [
+                {
+                  "name" : "360 Degree Feedback",
+                  "value" : true,
+                  "id" : "17221459-9050-4a20-ae76-28c661981223",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "A process in which an employee receives feedback and a full analysis of how their peers, managers, and direct reports perceive them. "
+                },
+                {
+                  "name" : "Compensation Management",
+                  "value" : false,
+                  "id" : "40ff7a9a-d3f9-44b8-8e55-940e919a48d4",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Organize and track payroll, bonuses, and additional company benefits and perks distributed to each employee "
+                },
+                {
+                  "name" : "Customizable Templates",
+                  "value" : true,
+                  "id" : "0cbce712-8370-4492-ac43-e500bc2f2b1f",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Create, save, and re-purpose formatting"
+                },
+                {
+                  "name" : "Customization",
+                  "value" : false,
+                  "id" : "084d71dc-d683-4bbe-aa37-1f547c3f756f",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Customize the levels of performance/achievement (i.e. numeric or alphabetic)"
+                },
+                {
+                  "name" : "Individual Development Plans",
+                  "value" : false,
+                  "id" : "13fbc8da-cdc2-497c-b26c-96fe6bfef668",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Document completed by employee to assist with career and personal development to reach short term and long term goals"
+                },
+                {
+                  "name" : "On-going Performance Tracking",
+                  "value" : false,
+                  "id" : "f79a7951-9b3f-4481-b2e3-be6efe06f76b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Organize real time feedback and assessments on employees' skills and accomplishments to determine promotions or performance plans"
+                },
+                {
+                  "name" : "Peer Appraisals",
+                  "value" : true,
+                  "id" : "988c4776-1eb3-49d9-8c99-90e836df4e1f",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Peer/teammate feedback and review on individual's performance "
+                },
+                {
+                  "name" : "Review Cycle Tracking",
+                  "value" : false,
+                  "id" : "e46a4a64-9061-4c65-8fef-cf5a2b1195ed",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Follow the progression of a task associated with performance reviews"
+                },
+                {
+                  "name" : "Self Assessment",
+                  "value" : true,
+                  "id" : "e3c85ece-d551-4c24-a1e6-1b82890d2528",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "An individual's evaluation of his or her own strengths, weaknesses, and skills "
+                },
+                {
+                  "name" : "Self Service Portal",
+                  "value" : false,
+                  "id" : "80f0258d-e261-4136-ba81-a5251a304f8e",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Gateway through which end users can access the system"
+                },
+                {
+                  "name" : "Skills Assessment",
+                  "value" : true,
+                  "id" : "ff0b0f8c-1453-4358-bde1-f3a2fe18a5a6",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Observe employees over a period of time to gain an understanding of their abilities to perform certain tasks"
+                },
+                {
+                  "name" : "Weighted Performance Measures",
+                  "value" : false,
+                  "id" : "d5f1e31c-fcae-4145-be16-fa2de9fd9e12",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Assess skills, outcomes and results using preset metrics and averages "
+                }
+              ]
+            },
+            {
+              "category_name" : "360 Degree Feedback",
+              "category_features" : [
+                {
+                  "name" : "Anonymous Feedback",
+                  "value" : true,
+                  "id" : "883eef74-f329-4423-8860-74f4cd45e045",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Allow reviewers to provide anonymous feedback to encourage honest conversations"
+                },
+                {
+                  "name" : "Assessment Management",
+                  "value" : true,
+                  "id" : "10f60c73-3636-440c-89fa-7be5d6722b68",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Continuous Feedback",
+                  "value" : true,
+                  "id" : "c1861bc0-8177-4097-bc59-e8bdf274f550",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Provide ongoing performance feedback to employees on a regular basis, rather than giving feedback at designated times"
+                },
+                {
+                  "name" : "Dashboard",
+                  "value" : true,
+                  "id" : "bc649e89-65ca-4012-976f-193e4a4ae7d8",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "View statistics and metrics about a document on a dashboard or by exporting a file"
+                },
+                {
+                  "name" : "Progress Tracking",
+                  "value" : true,
+                  "id" : "f4c95e5a-0756-4e8d-97e0-301ef5e4f395",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Reporting on how each task or process has advanced since its initiation"
+                },
+                {
+                  "name" : "Question Library",
+                  "value" : true,
+                  "id" : "4b3ac545-8403-42d9-8ffb-bb4213825573",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Prepopulate common question/answer options "
+                },
+                {
+                  "name" : "Rater Selection",
+                  "value" : true,
+                  "id" : "1c202543-f0d1-4fe2-842d-6d463f63044f",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Select specific number and type of reviewers to provide feedback for an individual/participant (e.g. peers, supervisors, etc.)"
+                },
+                {
+                  "name" : "Reporting/Analytics",
+                  "value" : true,
+                  "id" : "b0c186d0-0194-4300-abba-ca3bc2474bbe",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : "View and track pertinent metrics"
+                },
+                {
+                  "name" : "Self Service Portal",
+                  "value" : false,
+                  "id" : "80f0258d-e261-4136-ba81-a5251a304f8e",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Gateway through which end users can access the system"
+                },
+                {
+                  "name" : "Surveys & Feedback",
+                  "value" : true,
+                  "id" : "ac019461-1e0e-49b2-a4f0-bd6e13dedf23",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Gauge satisfaction and receive information for improvement and success"
+                }
+              ]
+            },
+            {
+              "category_name" : "Employee Engagement",
+              "category_features" : [
+                {
+                  "name" : "Activity Dashboard",
+                  "value" : true,
+                  "id" : "856ab03e-a530-4ea9-bac6-968761c9b6c6",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Benchmarking",
+                  "value" : true,
+                  "id" : "304c4e1e-896d-48ab-9cc2-27ebcae4cc4f",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Compare key metrics for the business against prominent players in the industry"
+                },
+                {
+                  "name" : "Chat/Messaging",
+                  "value" : false,
+                  "id" : "b60bc794-f9c3-40db-9f61-110a61b26f58",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Employee Recognition",
+                  "value" : true,
+                  "id" : "7418ebc5-fb83-4b4f-a7f8-0b6c0f965f2d",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Acknowledge and reward employees for reaching specific goals and/or for exemplary performance. "
+                },
+                {
+                  "name" : "Engagement Tracking",
+                  "value" : true,
+                  "id" : "274bb73c-f611-430d-adfc-673ebbb6fb94",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Goal Management",
+                  "value" : true,
+                  "id" : "7a0a1611-2472-4f98-99e5-d04889b84dbc",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Allows employees to set and manage work or career related goals."
+                },
+                {
+                  "name" : "Negative Feedback Management",
+                  "value" : true,
+                  "id" : "21c4585c-c39a-4660-b5b9-23e8d737350b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Identify, track, and respond to negative feedback"
+                },
+                {
+                  "name" : "Performance Management",
+                  "value" : true,
+                  "id" : "eb784380-a0f0-4ada-a01f-e260ec286bc0",
+                  "avg_rating" : 3.8,
+                  "cnt_rating" : 6,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 4,
+                  "cnt_time_used" : 4,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 4,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Organize and manage the accomplishments and development of employees"
+                },
+                {
+                  "name" : "Performance Metrics",
+                  "value" : true,
+                  "id" : "28071df9-b91d-44b7-9721-10fe2f036819",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Pulse Surveys",
+                  "value" : true,
+                  "id" : "ee033dee-d864-45f1-992e-0868d0c3c731",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Surveys sent out at regularly scheduled intervals to track important metrics like job satisfaction, work environment, etc."
+                },
+                {
+                  "name" : "Reporting/Analytics",
+                  "value" : true,
+                  "id" : "b0c186d0-0194-4300-abba-ca3bc2474bbe",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : "View and track pertinent metrics"
+                }
+              ]
+            },
+            {
+              "category_name" : "Employee Recognition",
+              "category_features" : [
+                {
+                  "name" : "Goal Management",
+                  "value" : true,
+                  "id" : "7a0a1611-2472-4f98-99e5-d04889b84dbc",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Manager-to-Peer Recognition",
+                  "value" : true,
+                  "id" : "b4dca935-6db2-4022-8771-11d36a2f166b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Mention Management",
+                  "value" : true,
+                  "id" : "e1153324-fc62-447e-bf73-329c732184ec",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Nominations",
+                  "value" : true,
+                  "id" : "1fec2122-8b44-44a3-8eff-2d91262db76c",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Peer-to-Peer Recognition",
+                  "value" : true,
+                  "id" : "fc894a28-c44a-46fb-9acb-0b5791491b8f",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Allows employees to praise one another in a social network-like feed visible to the whole organization."
+                },
+                {
+                  "name" : "Performance Management",
+                  "value" : true,
+                  "id" : "eb784380-a0f0-4ada-a01f-e260ec286bc0",
+                  "avg_rating" : 3.8,
+                  "cnt_rating" : 6,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 4,
+                  "cnt_time_used" : 4,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 4,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Recognition Tracking",
+                  "value" : true,
+                  "id" : "8b28c128-1a1f-4483-84bb-d7211b7a9232",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Track accrued recognition and rewards at an individual employee level"
+                },
+                {
+                  "name" : "Rewards Catalog",
+                  "value" : false,
+                  "id" : "f0570e58-4c88-483e-9663-b88e79c47f9a",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Rewards Points",
+                  "value" : false,
+                  "id" : "5f4632f8-6554-4bd7-b5f7-7df746954d58",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Social Recognition",
+                  "value" : true,
+                  "id" : "74b8e8ba-31d4-49a0-9d41-7693965861c9",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "eCards",
+                  "value" : false,
+                  "id" : "24c958a6-cdc5-44d1-8a56-da7f50a87378",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                }
+              ]
+            }
+          ],
+          "infographics" : [ ],
+          "related_products" : [
+            {
+              "product_id" : 155895,
+              "seo_product_id" : 226199,
+              "seo_slug" : "ADP-Workforce-Now",
+              "vendor_name" : "ADP",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/3f97e69e-54a0-4b38-95b7-c226481cff4c.png",
+              "rating" : 4.4,
+              "total_reviews" : 6074,
+              "slug" : "WorkforceNow",
+              "product_name" : "ADP Workforce Now",
+              "short_desc" : "ADP Workforce Now is a human capital management solution for companies with more than 50 employees. ",
+              "features" : "The core capabilities of the solution are human resources management, payroll, benefits, talent management, compliance, time & labor management, analytics & benchmarking. \r\nThe fully integrated suite is built on a single database, which automates data synchronization across different components and helps users to minimize manual administrative tasks. The platform also integrates with other HR and business applications via the ADP Marketplace and APIs. \r\n\r\n\r\n",
+              "url" : "https://www.adp.com/semlps/2017/payroll.aspx?CID=iP_PPL_Capterra_All_Apr_4_WorkforceNow&elqCampaignId=10271&vendor=capterra"
+            },
+            {
+              "product_id" : 158833,
+              "seo_product_id" : 251341,
+              "seo_slug" : "ClickUp",
+              "vendor_name" : "ClickUp",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/98ca9b83-b6bd-4a44-92d1-63c526d17630.png",
+              "rating" : 4.7,
+              "total_reviews" : 3020,
+              "slug" : "ClickUp",
+              "product_name" : "ClickUp",
+              "short_desc" : "ClickUp is the future of work - it's one app to replace them all. ClickUp is the #1 fastest growing productivity app in 2022.",
+              "features" : "ClickUp is an all-in-one productivity platform that eliminates work silos. It's the hub where teams come together to plan, organize, and collaborate on work using tasks, Docs, Chat, Goals, Whiteboards, and more. \n\nEasily customized with just a few clicks, ClickUp helps teams of all types and sizes deliver work more effectively. By replacing inflexible and overlapping tools, ClickUp helps teams save one day each week! ",
+              "url" : "https://clickup.com?utm_medium=cpc&utm_source=capterra&utm_campaign=capt_cpc_t1_nnc_pro_trial_all-devices_cpc_lp_x_all-deparments_x_performance-management"
+            },
+            {
+              "product_id" : 147657,
+              "seo_product_id" : 220947,
+              "seo_slug" : "mondaycom",
+              "vendor_name" : "monday.com",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/82b193f0-9406-4cf6-90d9-a0f265d61f54.png",
+              "rating" : 4.6,
+              "total_reviews" : 2635,
+              "slug" : "monday-com",
+              "product_name" : "monday.com",
+              "short_desc" : "Improve your HR processes by building custom workflows on monday.com for your employee performance reviews using our advanced forms.",
+              "features" : "Improve your HR processes by building custom workflows on monday.com for your employee performance reviews using our advanced forms. In fact, you can manage your entire employee life cycle on this flexible platform. Simply start with one of our ready-made templates and create recruitment pipelines, employee onboarding tools, and engagement surveys all with a few clicks. Then automate your workflows so you can stop working on manual work, and focus on tasks that really make a difference.",
+              "url" : "https://monday.com/lp/aw/hr?cluster=hr&subcluster=HR_dynamic_tittle_performance_management&utm_medium=cpc&utm_campaign=ww-multi-prm-hr-workos-desktop-performance_management_system-listing-core&utm_adgroup=performance_management_system"
+            },
+            {
+              "product_id" : 110968,
+              "seo_product_id" : 224075,
+              "seo_slug" : "BambooHR",
+              "vendor_name" : "BambooHR",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/670d76a5-76f8-4742-a6f9-a42d167cc69d.png",
+              "rating" : 4.6,
+              "total_reviews" : 1817,
+              "slug" : "BambooHR",
+              "product_name" : "BambooHR",
+              "short_desc" : "The award-winning BambooHR Performance Management makes performance reviews a pain-free experience.",
+              "features" : "The award-winning BambooHR Performance Management makes performance reviews a pain-free experience by modernizing the review process and focusing on a continuous feedback approach. Discover the new way of doing Performance Management by utilizing multiple review cycles, custom questions, employee-specific goals, confidential feedback, impromptu assessments, and reporting that provides powerful, real-time insights into your top performers, struggling employees, and employee/manager misalignments.",
+              "url" : "https://www.bamboohr.com/pl-pages/performance-management?utm_source=RS&utm_medium=PER&utm_campaign=Capt-DE-LiveDemoRe-20220805-01&utm_content=PER&utm_term=PER"
+            },
+            {
+              "product_id" : 147912,
+              "seo_product_id" : 227517,
+              "seo_slug" : "Motivosity",
+              "vendor_name" : "Motivosity",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/03136d12-3c74-411b-a6fe-1964b0296ad1.png",
+              "rating" : 4.8,
+              "total_reviews" : 909,
+              "slug" : "Motivosity",
+              "product_name" : "Motivosity",
+              "short_desc" : "Motivosity is an employee engagement platform that helps people be more motivated at work. ",
+              "features" : "Motivosity is a modern employee engagement software with the mission to make people happier at work. Our platform focuses on three of the top drivers of employee satisfaction: feeling appreciated for your work, being part of a community, and having a meaningful relationship with your manager. With an average 95% user engagement rate, our software drives amazing results by making consistent recognition a part of your culture and making visible all the great work your team members are doing.",
+              "url" : "https://www.motivosity.com/modern-performance-management/?utm_medium=ppc&utm_source=capterra&utm_campaign=performance_management"
+            },
+            {
+              "product_id" : 140437,
+              "seo_product_id" : 140437,
+              "seo_slug" : "15Five",
+              "vendor_name" : "15Five",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/b5bba84b-fcaa-4ce4-a4c5-d776f9337c8f.png",
+              "rating" : 4.7,
+              "total_reviews" : 851,
+              "slug" : "15Five",
+              "product_name" : "15Five",
+              "short_desc" : "15Five is a people and performance platform that instantly upgrades each and every manager. ",
+              "features" : "15Five is a people and performance platform that instantly upgrades each and every manager. It works by combining employee engagement, continuous performance management, and manager effectiveness software with education, services, and community. At the heart of our approach is Best-Self Management, an evidence-inspired strategy for cultivating world-class managers and transforming organizations by unlocking every employee's potential. ",
+              "url" : "https://www.15five.com/"
+            },
+            {
+              "product_id" : 133019,
+              "seo_product_id" : 152590,
+              "seo_slug" : "Zenefits",
+              "vendor_name" : "Zenefits",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/46761a58-9959-4c08-b54f-2ca458001179.png",
+              "rating" : 4.2,
+              "total_reviews" : 793,
+              "slug" : "Zenefits",
+              "product_name" : "Zenefits",
+              "short_desc" : "Eliminate the stress and complexity of HR administration for you and your employees.",
+              "features" : "Zenefits is a SaaS cloud-based HR platform that helps small and mid-sized companies empower their workforce, manage change and stay compliant. Zenefits' People Platform delivers the most comprehensive, intuitive HR experience in the market. Its HR, Benefits, Payroll and Performance apps combine with advisory services and integrated partner apps to radically simplify HR administration  reducing paperwork and complexity so companies can focus on starting, running and growing their businesses.",
+              "url" : "https://www.zenefits.com/learn/trial-signup/?utm_source=Capterra&utm_medium=HR-Software&lc=PPC&ls=Capterra&cm1=HR-Software"
+            },
+            {
+              "product_id" : 143079,
+              "seo_product_id" : 143079,
+              "seo_slug" : "Kronos-Workforce-Ready",
+              "vendor_name" : "UKG",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/119d3a52-3fb2-481a-8c59-80f1d1c8cff1.png",
+              "rating" : 4.1,
+              "total_reviews" : 785,
+              "slug" : "Kronos-Workforce-Ready",
+              "product_name" : "UKG Ready",
+              "short_desc" : "The BEST Workforce Management, HR & Employee scheduling solution that helps organizations manage shifts, payroll, leaves, overtime etc",
+              "features" : "UKG/Kronos Workforce Ready is a human capital management suite of tools on a single unified cloud platform that helps you manage the entire employee lifecycle from pre-hire to retire. Solutions for HR, recruiting, onboarding, time tracking, payroll, and more are easily accessed through a single intuitive interface. Automated and scalable tools provide a single source of truth with common reporting, dashboards, and robust workflows. Included self-service and mobile app allow easy, anytime access.",
+              "url" : "https://www.ukg.com/solutions"
+            },
+            {
+              "product_id" : 114628,
+              "seo_product_id" : 114628,
+              "seo_slug" : "Dayforce-HCM",
+              "vendor_name" : "Ceridian",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/a24573ea-6021-4ddd-ab3b-fb2961ccf503.png",
+              "rating" : 4.3,
+              "total_reviews" : 679,
+              "slug" : "Dayforce-HCM",
+              "product_name" : "Dayforce HCM",
+              "short_desc" : "Cloud-based HCM platform bringing together payroll, time + attendance, and HR for organisations with between 500 and 50,000 employees.",
+              "features" : "Dayforce is a global HCM platform that transforms the employee experience. It unifies data from across the entire employee lifecycle to enable better decision-making at every level. Dayforce is a comprehensive cloud platform that combines HR, payroll, workforce management and talent management in a single application. Our scalable platform is built with a single, flexible rules engine combined with real-time updates and calculations that help address complex regulatory requirements.",
+              "url" : "https://cloud.ceridian.com/customers-choice?utm_source=capterra-na-df-mql&CampaignID=7011Y000002PDWUQA4"
+            },
+            {
+              "product_id" : 118042,
+              "seo_product_id" : 223379,
+              "seo_slug" : "WebHR",
+              "vendor_name" : "Verge Systems",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/2f511202-8e6a-4ead-a8b7-b5f9f18df605.png",
+              "rating" : 4.3,
+              "total_reviews" : 499,
+              "slug" : "WebHR",
+              "product_name" : "WebHR",
+              "short_desc" : "WebHR is everyone's favorite and a global leader in Cloud HR - Helps you manage the most important asset in your company - your People!",
+              "features" : "WebHR is revolutionizing the way HR works. WebHR is a Social all-in-one Cloud based HR Software for Small & Medium Enterprises that handles everything from Hire to Retire, in the most innovate way. WebHR not only saves money to the companies, but also boosts productivity, saves space and make inter and intra-office communications fast, reliable and more efficient. WebHR assists in managing a companys most important asset - its People.",
+              "url" : "https://web.hr/get/Social-HR-Software/?utm_medium=cpc&utm_campaign=CapterraCampaign1"
+            },
+            {
+              "product_id" : 143606,
+              "seo_product_id" : 225522,
+              "seo_slug" : "Namely",
+              "vendor_name" : "Namely",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/037c95e4-cfb2-4006-b825-98c765a14f5a.png",
+              "rating" : 4.2,
+              "total_reviews" : 412,
+              "slug" : "Namely",
+              "product_name" : "Namely",
+              "short_desc" : "Empower and ignite your workforce to live to their fullest potential with Namely's comprehensive HR platform. ",
+              "features" : "Your people are your best assets. A comprehensive HR platform like Namely empowers and ignites your workforce to live to their fullest potential. Simplify your assessment cycles, collect 360 feedback, while aligning on and tracking employee goals and competencies. It doesn't stop with performance reviews-recognize great work all year around with appreciations in the Namely news feed.",
+              "url" : "https://www.namely.com/benefits-administration/?utm_campaign=mql-demo-request&utm_source=capterra&utm_medium=referral"
+            }
+          ],
+          "similar_products" : [
+            {
+              "product_id" : 110968,
+              "seo_product_id" : 224075,
+              "seo_slug" : "BambooHR",
+              "vendor_name" : "BambooHR",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/670d76a5-76f8-4742-a6f9-a42d167cc69d.png",
+              "rating" : 4.6,
+              "total_reviews" : 1817,
+              "slug" : "BambooHR",
+              "product_name" : "BambooHR",
+              "short_desc" : "The award-winning BambooHR Performance Management makes performance reviews a pain-free experience.",
+              "features" : "The award-winning BambooHR Performance Management makes performance reviews a pain-free experience by modernizing the review process and focusing on a continuous feedback approach. Discover the new way of doing Performance Management by utilizing multiple review cycles, custom questions, employee-specific goals, confidential feedback, impromptu assessments, and reporting that provides powerful, real-time insights into your top performers, struggling employees, and employee/manager misalignments.",
+              "url" : "https://www.bamboohr.com/pl-pages/applicant-tracking-system?utm_source=RS&utm_medium=ATR&utm_campaign=Capt-DE-LiveDemoRe-20180111-01&utm_content=blank&utm_term=blank"
+            },
+            {
+              "product_id" : 155747,
+              "seo_product_id" : 212173,
+              "seo_slug" : "PerformYard",
+              "vendor_name" : "PerformYard",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/46d11091-67b3-438c-bc46-fa7df8394c71.png",
+              "rating" : 4.8,
+              "total_reviews" : 87,
+              "slug" : "PerformYard-Talent",
+              "product_name" : "PerformYard",
+              "short_desc" : "Painless Performance Reviews! PerformYard is simple and flexible for HR and a snap for employees.",
+              "features" : "Top performance management software for companies with 50 to 1000 employees - PerformYard is simple and flexible for HR and a snap for employees. Recreate your existing review process online or build out a new performance management strategy. This software supports continuous feedback, 360 reviews, annual reviews, project based reviews, recognition, client feedback, and any other feedback. All your employee assessments now live in one place. Support is always free and unlimited.",
+              "url" : "https://www.performyard.com/?utm_source=capterra&utm_campaign=360degreefeedback"
+            },
+            {
+              "product_id" : 9014,
+              "seo_product_id" : 9014,
+              "seo_slug" : "Trakstar-Performance-Appraisal-Software",
+              "vendor_name" : "Trakstar",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/2ec4a1b7-2e98-4806-8e25-a702af046e8a.png",
+              "rating" : 4.4,
+              "total_reviews" : 285,
+              "slug" : "Trakstar-Performance-Appraisal-Software",
+              "product_name" : "Trakstar Perform",
+              "short_desc" : "Learn how leading midsize companies motivate and engage employees with online performance management software. See a free demo today!",
+              "features" : "Motivate and engage employees with Trakstar's performance management software. Unlimited online performance reviews, automated workflows and reports. Manage performance reviews easily across hundreds or thousands of employees in your organization. Learn how leading mid size companies use Trakstar to increase employee engagement, streamline goal management and create an environment of real-time feedback to drive business growth. See a free demo today!",
+              "url" : "https://www.trakstar.com/go/performance-management-software-3/?utm_medium=cpc&utm_campaign=capterra-trakstar&utm_content=capterra-destination-url"
+            },
+            {
+              "product_id" : 80949,
+              "seo_product_id" : 223254,
+              "seo_slug" : "Reviewsnap",
+              "vendor_name" : "Trakstar",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/ada87d57-053e-4977-8d36-a3e28cb65dce.png",
+              "rating" : 4.4,
+              "total_reviews" : 114,
+              "slug" : "Reviewsnap",
+              "product_name" : "Reviewsnap",
+              "short_desc" : "Lean how leading mid size companies complete more employee reviews with Reviewsnap. Automate & simplify the performance review process.",
+              "features" : "Complete more employee reviews with Reviewsnap's performance management software. Eliminate paperwork and save time with easy to use online tools. Manage performance reviews easily across hundreds or thousands of employees in your organization. Get up and running in 48 hours. Learn how leading mid size companies use Reviewsnap to enhance employee communication, morale, productivity and develop a culture focused on high performance. See a free demo today!\r\n",
+              "url" : "https://www.reviewsnap.com/info/performance-reviews-2/?utm_medium=cpc&utm_campaign=capterra-reviewsnap&utm_content=capterra-destination-url"
+            },
+            {
+              "product_id" : 45188,
+              "seo_product_id" : 45188,
+              "seo_slug" : "ClearCompany",
+              "vendor_name" : "ClearCompany",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/b98328be-d832-44ac-83a6-60369490057a.png",
+              "rating" : 4.4,
+              "total_reviews" : 285,
+              "slug" : "ClearCompany",
+              "product_name" : "ClearCompany",
+              "short_desc" : "We give HR a simplified, automated workflow to easily set-up and analyze performance reviews.",
+              "features" : "ClearCompany is the easiest way to bring all of your employee performance review processes into a single, automated solution. ClearCompany's easy-to-use performance review software allows you to quickly set up reviews, including custom scoring tables, weighted sections, and free-form responses. ClearCompany's flat-rate pricing model allows you to send as many performance reviews as you need, as frequently as you need to, without worrying about the price tag.",
+              "url" : "https://offers.clearcompany.com/applicant-tracking-software-demo-capterra?a_campaign=Applicant-Tracking&a_source=Capterra&utm_medium=cpc&utm_campaign=Applicant-Tracking"
+            },
+            {
+              "product_id" : 151676,
+              "seo_product_id" : 217108,
+              "seo_slug" : "Lattice",
+              "vendor_name" : "Lattice",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/734e91ea-06a6-4b99-8e06-d9a1d4aa3700.png",
+              "rating" : 4.5,
+              "total_reviews" : 88,
+              "slug" : "Lattice",
+              "product_name" : "Lattice",
+              "short_desc" : "Lattice is the way engaged, high-performing teams do performance management and appraisals to build a winning culture.",
+              "features" : "Lattice integrates performance appraisals with continuous management tools into a people management platform that gives People Leaders solutions to build engaged, high-performing teams. They empower HR teams to make more strategic, data-driven decisions and build winning cultures. Find out why over 1,850+ companies trust Lattice for people management. Schedule a demo at Lattice.com.",
+              "url" : "https://lattice.com/?utm_campaign=capterra&utm_medium=review-site&utm_source=Capterra"
+            },
+            {
+              "product_id" : 154170,
+              "seo_product_id" : 217103,
+              "seo_slug" : "Culture-Amp",
+              "vendor_name" : "Culture Amp",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4e92706f-3aa9-41c6-9039-1c3b021efcf4.png",
+              "rating" : 4.7,
+              "total_reviews" : 66,
+              "slug" : "Employee-Effectiveness",
+              "product_name" : "Culture Amp",
+              "short_desc" : "From fast-growing start-ups to the Fortune 500, Culture Amp is designed to help build an employee experience your people will love.",
+              "features" : "With Culture Amp, prioritize and deliver impactful programs across performance management, employee engagement, and development - all in one intuitive platform. By leveraging science-backed goal/OKR tracking, 1-on-1 templates, built-in calibrations, and 360? feedback, you can create a performance review process that supports managers and employees. Discover how 6,000+ companies, including Salesforce, Unilever, and PwC use our trusted data, tools, and partnership to build high-performing teams.",
+              "url" : "https://www.cultureamp.com/?utm_medium=paid_listing&utm_campaign=Product+Listing"
+            },
+            {
+              "product_id" : 149919,
+              "seo_product_id" : 223391,
+              "seo_slug" : "Performance-Culture",
+              "vendor_name" : "WorkDove",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/c10483ca-c0e6-4e2b-abaf-e2b27c01224a.png",
+              "rating" : 4.8,
+              "total_reviews" : 55,
+              "slug" : "WorkDove",
+              "product_name" : "WorkDove",
+              "short_desc" : "Performance Management Software that engages employees and embraces your organization's core values.",
+              "features" : "Performance management software to help people reach their fullest potential by improving appreciation, coaching, and evaluation inside an organization.   Software features include Recognition, 9-Box Leadership Succession Tool, Goal Management, 360-Degree Feedback, Check-Ins, Engagement Surveys, and Performance Reviews.\n\n",
+              "url" : "https://workdove.com/Engage_Your_Team"
+            },
+            {
+              "product_id" : 156106,
+              "seo_product_id" : 224953,
+              "seo_slug" : "bob",
+              "vendor_name" : "Hibob HRIS Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/f0424980-f49e-45c7-bcea-34440d2b977d.png",
+              "rating" : 4.5,
+              "total_reviews" : 55,
+              "slug" : "Hibob",
+              "product_name" : "bob",
+              "short_desc" : "bob's performance management gives you everything you need: streamlined 360-degree feedback, valuable insights, and actionable goals.",
+              "features" : "Managing performance reviews in bob generates data that provides valuable insights about your employees, managers, and your teams. This data enables you to track their progress and address any issues and concerns early.\nPlus, you can easily set up new performance cycles within bob, customize them per site, and define which team members (no matter their location) will be part of the cycle.",
+              "url" : "https://www.hibob.com/get/hr-built-for-your-needs/?utm_medium=cpc&utm_campaign=basic_info"
+            },
+            {
+              "product_id" : 178769,
+              "seo_product_id" : 220923,
+              "seo_slug" : "StaffCircle-",
+              "vendor_name" : "StaffCircle",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/5c75f6b4-3ebd-4a9f-ae87-14274e309188.png",
+              "rating" : 4.8,
+              "total_reviews" : 19,
+              "slug" : "StaffCircle",
+              "product_name" : "StaffCircle ",
+              "short_desc" : "The First Multi-Channel Performance Management Platform OKR for your hard to reach non-desk based employees without downloading an App.",
+              "features" : "StaffCircle provides an advanced but easy to use mobile friendly Performance Management and 360 Agile Appraisal system for any size of Organisation. \r\n\r\nUnify and improve 2-way Internal performance with easy and quick 360 Appraisals using mobile or web. Objectives OKR can be set by the user or Manager. Managers and users can request quick One2One Reviews. Add self Appraisals or 180, 270, 360 to your Performance Reviews and then link to Awards, Rewards or even career progression.",
+              "url" : "https://www.staffcircle.com/?utm_source=capterra&utm_medium=ppc&utm_campaign=website"
+            },
+            {
+              "product_id" : 201072,
+              "seo_product_id" : 201072,
+              "seo_slug" : "ChartHop",
+              "vendor_name" : "ChartHop",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/abeb1ae9-1416-49d6-9808-30bc34553ae3.png",
+              "rating" : 4.6,
+              "total_reviews" : 62,
+              "slug" : "ChartHop",
+              "product_name" : "ChartHop",
+              "short_desc" : "ChartHop is a new People Analytics platform, bringing disparate sources of people data together in a dynamic, visual, & actionable way.",
+              "features" : "ChartHop is a new People Analytics platform, bringing disparate sources of people data together in a dynamic, visual, & actionable way.\n\nUnlike legacy People Analytics solutions, ChartHop is designed to be used by the whole organization. \n\nNow, HR and people managers alike can have the insights they need to make real-time strategic decisions about their organizations. This helps companies improve organizational health, drive alignment and accountability, and save money. \n\n",
+              "url" : "https://www.charthop.com/?utm_source=capterra&utm_medium=cpc&utm_campaign=capterracpc"
+            },
+            {
+              "product_id" : 148621,
+              "seo_product_id" : 152763,
+              "seo_slug" : "Cornerstone-Performance",
+              "vendor_name" : "Cornerstone OnDemand",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/f2c74205-acf3-4d82-a5a3-cfb506637697.png",
+              "rating" : 4.1,
+              "total_reviews" : 35,
+              "slug" : "Cornerstone-Performance",
+              "product_name" : "Cornerstone Performance",
+              "short_desc" : "Define success for your organization and connect employees to your purpose with a continuous performance management tool. ",
+              "features" : "Ensuring that your people support your most important KPIs can be challenging. However, the right performance management software makes it easier to define success for your organization and connect employees to your mission. Cornerstone Performance provides you with tools to align your people and business strategy. Rich insights into your talent landscape allow you to quickly identify and mobilize employees for your organization's top priorities. ",
+              "url" : "https://www.cornerstoneondemand.com/solutions/performance-management/?utm_campaign=LGEN_capterra-Performance&utm_medium=cpc&utm_source=capterra&utm_content=request-demo&utm_term=Performance"
+            },
+            {
+              "product_id" : 118042,
+              "seo_product_id" : 223379,
+              "seo_slug" : "WebHR",
+              "vendor_name" : "Verge Systems",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/2f511202-8e6a-4ead-a8b7-b5f9f18df605.png",
+              "rating" : 4.3,
+              "total_reviews" : 499,
+              "slug" : "WebHR",
+              "product_name" : "WebHR",
+              "short_desc" : "WebHR is everyone's favorite and a global leader in Cloud HR - Helps you manage the most important asset in your company - your People!",
+              "features" : "WebHR is revolutionizing the way HR works. WebHR is a Social all-in-one Cloud based HR Software for Small & Medium Enterprises that handles everything from Hire to Retire, in the most innovate way. WebHR not only saves money to the companies, but also boosts productivity, saves space and make inter and intra-office communications fast, reliable and more efficient. WebHR assists in managing a companys most important asset - its People.",
+              "url" : "https://web.hr/get/Social-HR-Software/?utm_medium=cpc&utm_campaign=CapterraCampaign1"
+            }
+          ],
+          "related_categories" : [
+            {
+              "functional_group" : "hrxpa",
+              "long_name" : "360 Degree Feedback",
+              "html_name" : "360-degree-feedback-software",
+              "link_name" : "360-degree-feedback",
+              "product_count" : 64,
+              "meta_description" : "Find and compare top 360 Degree Feedback software on Capterra, with our free and interactive tool. Quickly browse through hundreds of 360 Degree Feedback tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs.",
+              "description" : "<a href=\"/360-degree-feedback-software\">360 Degree Feedback software</a> is designed to help human resource departments gather all-around information about an employee. Unlike performance assessment software, 360 Degree Feedback applications allow organizations to collect information not only from superiors but also from peers and subordinates, as well as clients. The information collected can be used either for assessment or training purposes. <a href=\"/360-degree-feedback-software\">360 Degree Feedback software</a> is related to <a href=\"/performance-appraisal-software\">Performance Appraisal software</a>, <a href=\"/survey-software\">Survey software</a> and <a href=\"/human-resource-software\">Human Resource software</a>."
+            },
+            {
+              "functional_group" : "hrxpa",
+              "long_name" : "Employee Recognition",
+              "html_name" : "employee-recognition-software",
+              "link_name" : "employee-recognition",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Employee Recognition software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Employee Recognition tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "Employee Recognition solutions assist with keeping employees feeling engaged and appreciated at work. This software facilitates peer recognition on corporate and team discussion boards, administration of awards and loyalty programs, as well as extensive reporting and analytics. Employee Recognition software is related to HR software and Talent Management software."
+            },
+            {
+              "functional_group" : "hrxpa",
+              "long_name" : "Human Resources",
+              "html_name" : "human-resource-software",
+              "link_name" : "human-resource",
+              "product_count" : 258,
+              "meta_description" : "Find and compare top Human Resource software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Human Resource tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/human-resource-software>Human Resource software</a>, also known as a Human Resources Information System (HRIS) or Human Resources Management System (HRMS), enables an organization to manage employee records and information.  Human Resource Management software allows you to organize contact details, department, attendance, salary, training, benefits and more.   Many Human Resource Management systems and resource management software also interface with applicant tracking and payroll software.  <a href=/human-resource-software>Human Resource Management software</a> is related to <a href=/applicant-tracking-software>Applicant Tracking software</a>, <a href=/payroll-software>Payroll software</a>, <a href=/performance-appraisal-software>Performance Appraisal software</a> and <a href=/workforce-management-software>Workforce Management software</a>."
+            },
+            {
+              "functional_group" : "hrxpa",
+              "long_name" : "Mentoring",
+              "html_name" : "mentoring-software",
+              "link_name" : "mentoring",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Mentoring software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Mentoring tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "Mentoring software streamlines administration of corporate mentoring programs, including matching mentors to mentees, conducting surveys, and tracking mentees' progress. "
+            },
+            {
+              "functional_group" : "hrxpa",
+              "long_name" : "Talent Management",
+              "html_name" : "talent-management-software",
+              "link_name" : "talent-management",
+              "product_count" : 122,
+              "meta_description" : "Find and compare top Talent Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Talent Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/talent-management-software\">Talent Management software</a> gives employers the tools to accurately manage, evaluate, and compensate based on employee performance.  By tracking performance and standards, <a href=\"/talent-management-software\">Talent Management software</a> allows companies to create and maintain a high-performance workforce.  Key features of this type of software include employee learning, compensation evaluations, policy compliance, and succession planning, all of which help companies manage personnel growth.  Directories related to <a href=\"/talent-management-software\">Talent Management software</a> are <a href=\"/human-resource-software\">Human Resource software</a>, <a href=\"/performance-appraisal-software\">Performance Appraisal software</a>, <a href=\"/succession-planning-software\">Succession Planning software</a>, <a href=\"/training-software\">Training software</a>, <a href=\"/workforce-management-software\">Workforce Management software</a>, and <a href=\"/applicant-tracking-software\">Applicant Tracking software</a>.  "
+            }
+          ],
+          "is_upgraded" : false,
+          "enabled" : true,
+          "filter_options" : {
+            "users" : 126,
+            "platform" : 951,
+            "pricing_options" : 26,
+            "category_related_features" : [
+              19619,
+              19622,
+              19626,
+              19627,
+              19630,
+              19631,
+              38391,
+              53842,
+              53845,
+              53846,
+              53847,
+              53848,
+              53849,
+              53850,
+              53851,
+              53858,
+              53859,
+              53860,
+              53863,
+              53864,
+              53865,
+              53866,
+              53867,
+              53868,
+              53869,
+              53870,
+              53871,
+              53872,
+              53873,
+              53874,
+              53875
+            ],
+            "employees" : 126
+          },
+          "sort_options" : {
+            "sort_review_rating" : 4.425761699676514,
+            "most_recent_review" : "2021-11-09T14:43:26Z"
+          },
+          "countries" : "ALL",
+          "features_tokenized_text" : "360_degree_feedback customizable_templates peer_appraisals self_assessment skills_assessment",
+          "platform_tokenized_text" : "cloud,saas,web-based desktopmac desktopwindows on-premisewindows on-premiselinux mobileandroid mobileiphone mobileipad",
+          "users_tokenized_text" : "2-10 11-50 51-200 201-500 501-1000 1000+",
+          "pricing_tokenized_text" : "monthlysubscription free freetrial",
+          "badges" : [ ],
+          "bid_spot_us" : 0.0,
+          "currency_code" : "USD",
+          "currency_symbol" : "$",
+          "credit_card_required" : "No",
+          "licensing_model" : null,
+          "open_api_offered" : "Yes",
+          "mobile_urls" : [
+            {
+              "name" : "Android",
+              "url" : "https://app.get5.io"
+            },
+            {
+              "name" : "iOS",
+              "url" : "https://app.get5.io"
+            }
+          ],
+          "integrations" : [
+            {
+              "id" : "6b6e6c1f-ed3a-48c5-93db-2f12c895bb10",
+              "name" : "Microsoft Teams"
+            },
+            {
+              "id" : "964a02e4-2901-4992-aea5-a6d200b696d4",
+              "name" : "Slack"
+            },
+            {
+              "id" : "3487bff3-5096-48a7-953d-a98300640f76",
+              "name" : "WhatsApp"
+            }
+          ],
+          "supported_countries" : [
+            {
+              "id" : 113,
+              "code" : "JP",
+              "name" : "Japan"
+            },
+            {
+              "id" : 144,
+              "code" : "MX",
+              "name" : "Mexico"
+            },
+            {
+              "id" : 46,
+              "code" : "CN",
+              "name" : "China"
+            },
+            {
+              "id" : 32,
+              "code" : "BR",
+              "name" : "Brazil"
+            },
+            {
+              "id" : 235,
+              "code" : "GB",
+              "name" : "United Kingdom of Great Britain and Northern Ireland"
+            },
+            {
+              "id" : 41,
+              "code" : "CA",
+              "name" : "Canada"
+            },
+            {
+              "id" : 84,
+              "code" : "DE",
+              "name" : "Germany"
+            },
+            {
+              "id" : 104,
+              "code" : "IN",
+              "name" : "India"
+            },
+            {
+              "id" : 14,
+              "code" : "AU",
+              "name" : "Australia"
+            },
+            {
+              "id" : 237,
+              "code" : "US",
+              "name" : "United States of America"
+            },
+            {
+              "id" : 207,
+              "code" : "ZA",
+              "name" : "South Africa"
+            }
+          ],
+          "supported_languages" : [
+            {
+              "id" : 152,
+              "code" : "en",
+              "name" : "English",
+              "location" : null
+            }
+          ],
+          "target_industries" : [
+            {
+              "id" : 52,
+              "code" : "75",
+              "name" : "Government Administration"
+            },
+            {
+              "id" : 1,
+              "code" : "47",
+              "name" : "Accounting"
+            },
+            {
+              "id" : 97,
+              "code" : "100",
+              "name" : "Non-Profit Organization Management"
+            },
+            {
+              "id" : 2,
+              "code" : "94",
+              "name" : "Airlines/Aviation"
+            },
+            {
+              "id" : 5,
+              "code" : "127",
+              "name" : "Animation"
+            },
+            {
+              "id" : 6,
+              "code" : "19",
+              "name" : "Apparel & Fashion"
+            },
+            {
+              "id" : 7,
+              "code" : "50",
+              "name" : "Architecture & Planning"
+            },
+            {
+              "id" : 9,
+              "code" : "53",
+              "name" : "Automotive"
+            },
+            {
+              "id" : 10,
+              "code" : "52",
+              "name" : "Aviation & Aerospace"
+            },
+            {
+              "id" : 11,
+              "code" : "41",
+              "name" : "Banking"
+            },
+            {
+              "id" : 12,
+              "code" : "12",
+              "name" : "Biotechnology"
+            },
+            {
+              "id" : 13,
+              "code" : "36",
+              "name" : "Broadcast Media"
+            },
+            {
+              "id" : 14,
+              "code" : "49",
+              "name" : "Building Materials"
+            },
+            {
+              "id" : 15,
+              "code" : "138",
+              "name" : "Business Supplies and Equipment"
+            },
+            {
+              "id" : 16,
+              "code" : "129",
+              "name" : "Capital Markets"
+            },
+            {
+              "id" : 17,
+              "code" : "54",
+              "name" : "Chemicals"
+            },
+            {
+              "id" : 18,
+              "code" : "90",
+              "name" : "Civic & Social Organization"
+            },
+            {
+              "id" : 19,
+              "code" : "51",
+              "name" : "Civil Engineering"
+            },
+            {
+              "id" : 20,
+              "code" : "128",
+              "name" : "Commercial Real Estate"
+            },
+            {
+              "id" : 21,
+              "code" : "118",
+              "name" : "Computer & Network Security"
+            },
+            {
+              "id" : 22,
+              "code" : "109",
+              "name" : "Computer Games"
+            },
+            {
+              "id" : 23,
+              "code" : "3",
+              "name" : "Computer Hardware"
+            },
+            {
+              "id" : 24,
+              "code" : "5",
+              "name" : "Computer Networking"
+            },
+            {
+              "id" : 25,
+              "code" : "4",
+              "name" : "Computer Software"
+            },
+            {
+              "id" : 26,
+              "code" : "48",
+              "name" : "Construction"
+            },
+            {
+              "id" : 27,
+              "code" : "24",
+              "name" : "Consumer Electronics"
+            },
+            {
+              "id" : 28,
+              "code" : "25",
+              "name" : "Consumer Goods"
+            },
+            {
+              "id" : 29,
+              "code" : "91",
+              "name" : "Consumer Services"
+            },
+            {
+              "id" : 30,
+              "code" : "18",
+              "name" : "Cosmetics"
+            },
+            {
+              "id" : 32,
+              "code" : "1",
+              "name" : "Defense & Space"
+            },
+            {
+              "id" : 33,
+              "code" : "99",
+              "name" : "Design"
+            },
+            {
+              "id" : 34,
+              "code" : "69",
+              "name" : "Education Management"
+            },
+            {
+              "id" : 35,
+              "code" : "132",
+              "name" : "E-Learning"
+            },
+            {
+              "id" : 38,
+              "code" : "86",
+              "name" : "Environmental Services"
+            },
+            {
+              "id" : 39,
+              "code" : "110",
+              "name" : "Events Services"
+            },
+            {
+              "id" : 40,
+              "code" : "76",
+              "name" : "Executive Office"
+            },
+            {
+              "id" : 43,
+              "code" : "43",
+              "name" : "Financial Services"
+            },
+            {
+              "id" : 46,
+              "code" : "34",
+              "name" : "Food & Beverages"
+            },
+            {
+              "id" : 47,
+              "code" : "23",
+              "name" : "Food Production"
+            },
+            {
+              "id" : 50,
+              "code" : "29",
+              "name" : "Gambling & Casinos"
+            },
+            {
+              "id" : 54,
+              "code" : "140",
+              "name" : "Graphic Design"
+            },
+            {
+              "id" : 56,
+              "code" : "68",
+              "name" : "Higher Education"
+            },
+            {
+              "id" : 57,
+              "code" : "14",
+              "name" : "Hospital & Health Care"
+            },
+            {
+              "id" : 58,
+              "code" : "31",
+              "name" : "Hospitality"
+            },
+            {
+              "id" : 59,
+              "code" : "137",
+              "name" : "Human Resources"
+            },
+            {
+              "id" : 64,
+              "code" : "96",
+              "name" : "Information Technology and Services"
+            },
+            {
+              "id" : 65,
+              "code" : "42",
+              "name" : "Insurance"
+            },
+            {
+              "id" : 36,
+              "code" : "112",
+              "name" : "Electrical/Electronic Manufacturing"
+            },
+            {
+              "id" : 68,
+              "code" : "6",
+              "name" : "Internet"
+            },
+            {
+              "id" : 76,
+              "code" : "30",
+              "name" : "Leisure, Travel & Tourism"
+            },
+            {
+              "id" : 78,
+              "code" : "116",
+              "name" : "Logistics and Supply Chain"
+            },
+            {
+              "id" : 84,
+              "code" : "80",
+              "name" : "Marketing and Advertising"
+            },
+            {
+              "id" : 89,
+              "code" : "139",
+              "name" : "Mental Health Care"
+            },
+            {
+              "id" : 121,
+              "code" : "40",
+              "name" : "Recreational Facilities and Services"
+            },
+            {
+              "id" : 125,
+              "code" : "32",
+              "name" : "Restaurants"
+            },
+            {
+              "id" : 126,
+              "code" : "27",
+              "name" : "Retail"
+            },
+            {
+              "id" : 133,
+              "code" : "22",
+              "name" : "Supermarkets"
+            },
+            {
+              "id" : 134,
+              "code" : "8",
+              "name" : "Telecommunications"
+            },
+            {
+              "id" : 142,
+              "code" : "16",
+              "name" : "Veterinary"
+            },
+            {
+              "id" : 144,
+              "code" : "133",
+              "name" : "Wholesale"
+            },
+            {
+              "id" : 145,
+              "code" : "142",
+              "name" : "Wine and Spirits"
+            }
+          ],
+          "price_range_id" : 1,
+          "aggregated_review_ratings" : {
+            "industry" : {
+              "42" : 4.67,
+              "27" : 3.83,
+              "48" : 4.33,
+              "91" : 4.33,
+              "36" : 4.0,
+              "89" : 5.0,
+              "127" : 5.0,
+              "76" : 5.0,
+              "121" : 5.0,
+              "53" : 4.17,
+              "8" : 5.0,
+              "57" : 5.0,
+              "11" : 5.0,
+              "142" : 4.0,
+              "69" : 4.5,
+              "100" : 5.0,
+              "96" : 4.35,
+              "4" : 4.0,
+              "102" : 5.0,
+              "146" : 4.0,
+              "43" : 4.3,
+              "135" : 5.0,
+              "41" : 4.67,
+              "93" : 3.0,
+              "137" : 4.67,
+              "132" : 4.0,
+              "12" : 5.0,
+              "47" : 4.33,
+              "126" : 4.0,
+              "80" : 4.64,
+              "103" : 4.0,
+              "31" : 4.5,
+              "6" : 4.4,
+              "84" : 4.0,
+              "99" : 5.0
+            },
+            "company_size" : {
+              "11-50 employees" : 4.46,
+              "51-200 employees" : 4.25,
+              "201-500 employees" : 4.57,
+              "501-1000 employees" : 4.33,
+              "Self-employed" : 5.0,
+              "10,001+ employees" : 4.25,
+              "1001-5000 employees" : 4.11,
+              "5001-10,000 employees" : 5.0,
+              "1-10 employees" : 4.71
+            }
+          },
+          "vct_enabled" : false,
+          "pricing_plans" : [
+            {
+              "created_on_utc" : "2019-08-21T14:47:39Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Games",
+              "description" : "This plan is for unlimited users and includes engaging games and knowledge sharing for your full company.",
+              "display_order" : 1,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 1.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Per User",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "Add Company Values"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "Add Roles & Goals"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Employee Profile Management"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "Engaging Games for Entire Company"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 5,
+                  "name" : "High Scores"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 6,
+                  "name" : "Support & Knowledge Base"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 7,
+                  "name" : "Unlimited Hi5's for Recognition"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 8,
+                  "name" : "Unlimited Users"
+                }
+              ]
+            },
+            {
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Awesome",
+              "description" : "Free for up to 10 users and includes unlimited Hi5's, recognition reports and appreciation for your employees. ",
+              "display_order" : 2,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 3.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Per User",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "5 X Free Pulse Surveys & Reports"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "Hi5 Crowning"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Hi5 Games Features"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "People Directory"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 5,
+                  "name" : "Recognition Reports"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 6,
+                  "name" : "Team Communication"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 7,
+                  "name" : "View Company Organogram"
+                }
+              ]
+            },
+            {
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Business",
+              "description" : "This plan includes a 14 day free trial and is for businesses that want to measure and report on recognitoin, growth, culture and happiness in the company. ",
+              "display_order" : 3,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 7.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Per User",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "Hi5 Awesome Features"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "Hi5 Games Features"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Individual Employee Reports"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "Measure Company Culture"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 5,
+                  "name" : "Measure Performance & Growth"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 6,
+                  "name" : "Unlimited Pulse Surveys & Reports"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 7,
+                  "name" : "View & Download Organogram"
+                }
+              ]
+            }
+          ],
+          "discount_types" : [ ]
+        }
+      }
+    ]
+  }
+}

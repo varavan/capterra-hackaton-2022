@@ -1,0 +1,3471 @@
+{
+  "took" : 4,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 3,
+    "successful" : 3,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : {
+      "value" : 2,
+      "relation" : "eq"
+    },
+    "max_score" : 11.382424,
+    "hits" : [
+      {
+        "_index" : "product_listings_main_data_upc_vt20220920_043802_utc",
+        "_type" : "_doc",
+        "_id" : "221184_shipping",
+        "_score" : 11.382424,
+        "_source" : {
+          "product_id" : 221184,
+          "seo_product_id" : 221184,
+          "seo_slug" : "SkuVault",
+          "product_name" : "SkuVault",
+          "upc_product_uuid" : "bd01b842-4447-4cc8-be11-a6d200b696d4",
+          "old_product_ids" : [
+            139964,
+            160163
+          ],
+          "product_url" : "http://www.skuvault.com/capterra",
+          "product_slug" : "SkuVault",
+          "former_name" : "SkuVault",
+          "logo_filepath" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/c79c3c1a-e76f-4421-bf66-f751bbf66cf9.png",
+          "vendor" : {
+            "vendor_id" : 2165571,
+            "vendor_name" : "SkuVault Inc.",
+            "vendor_url" : "http://skuvault.com/",
+            "year_founded" : 2011,
+            "location" : "United States",
+            "vendor_opted_out_of_reviews" : true,
+            "is_opted_out_of_reviews" : false,
+            "is_hit_limit" : false,
+            "enabled" : true,
+            "has_vendor_level_page" : false,
+            "slug" : null,
+            "vendor_page" : false,
+            "paused_campaign" : false
+          },
+          "category_short_name" : "shipping",
+          "category_html_name" : "shipping-software",
+          "category" : {
+            "id" : 30104,
+            "short_name" : "shipping",
+            "long_name" : "Shipping",
+            "html_name" : "shipping-software",
+            "enabled" : true
+          },
+          "best_category" : "shipping",
+          "is_best_category" : true,
+          "highest_cpc_category" : null,
+          "is_highest_cpc_category" : false,
+          "short_desc" : "SkuVault solves the most difficult challenge in eCommerce fulfillment: managing and tracking inventory at scale. ",
+          "long_desc" : "SkuVault solves the most difficult challenge in eCommerce fulfillment: managing and tracking inventory at scale. Our platform delivers transparency into inventory location, quantity, and velocity, and is the true centerpiece of all integrations. \n\nSkuVault enables clients to eliminate mis-ships, stockouts, and oversells. Our best in class  sales forecasting, order accuracy, and clear reporting help merchants create a clean and organized warehouse so they can sell more.",
+          "rating" : 4.6,
+          "number_of_reviews" : 40,
+          "total_reviews" : 49,
+          "ease_of_use_rating" : 4.3,
+          "customer_support_rating" : 4.7,
+          "functionality_rating" : 4.4,
+          "value_for_money_rating" : 4.3,
+          "recommendation_rating" : 8.7,
+          "pricing_enabled" : true,
+          "pricing" : 329.0,
+          "is_per_user" : false,
+          "fee_schedule" : "Per-Month",
+          "pricing_model" : "Flat Rate",
+          "pricing_details" : null,
+          "pricing_created_on" : "2019-08-21T14:47:39Z",
+          "pricing_modified_on" : "2022-07-04T05:17:32Z",
+          "pricing_created_by" : null,
+          "pricing_modified_by" : "Tripti Chawla",
+          "pricing_vendor_pricing_url" : "https://www.skuvault.com/pricing/",
+          "free_trial" : false,
+          "free_version" : false,
+          "target_audience" : "We serve medium, small, and enterprise level inventory-based businesses. We support multi-channel eCommerce merchants, manufacturers, 3PL, brick and mortar retailers, and everything in-between! ",
+          "target_users" : [
+            "2-10",
+            "11-50",
+            "51-200",
+            "201-500",
+            "501-1000"
+          ],
+          "platform" : [
+            {
+              "enabled" : true,
+              "name" : "Cloud, SaaS, Web-Based"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Mac"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Chromebook"
+            },
+            {
+              "enabled" : false,
+              "name" : "Mobile Android"
+            },
+            {
+              "enabled" : false,
+              "name" : "Mobile iPhone"
+            },
+            {
+              "enabled" : false,
+              "name" : "Mobile iPad"
+            }
+          ],
+          "support" : [
+            {
+              "enabled" : true,
+              "name" : "Email Help Desk"
+            },
+            {
+              "enabled" : true,
+              "name" : "FAQ Forum"
+            },
+            {
+              "enabled" : true,
+              "name" : "Knowledgebase"
+            },
+            {
+              "enabled" : true,
+              "name" : "Phone Support"
+            },
+            {
+              "enabled" : false,
+              "name" : "24/7 Live Rep"
+            },
+            {
+              "enabled" : true,
+              "name" : "Chat"
+            }
+          ],
+          "training" : [
+            {
+              "enabled" : false,
+              "name" : "Not Offered"
+            },
+            {
+              "enabled" : true,
+              "name" : "In-Person"
+            },
+            {
+              "enabled" : true,
+              "name" : "Live Online"
+            },
+            {
+              "enabled" : true,
+              "name" : "Webinars"
+            },
+            {
+              "enabled" : true,
+              "name" : "Documentation"
+            },
+            {
+              "enabled" : true,
+              "name" : "Videos"
+            }
+          ],
+          "media" : [
+            {
+              "product_id" : 221184,
+              "vendor_id" : 2165571,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/995eb1e4-4b45-47bd-be66-a48087b55899.png",
+              "caption" : "Wave Picking",
+              "weight" : 1,
+              "short_name" : "shipping"
+            },
+            {
+              "product_id" : 221184,
+              "vendor_id" : 2165571,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/69d80dff-dc70-4813-b826-37ecc1210711.png",
+              "caption" : "Sync Status",
+              "weight" : 2,
+              "short_name" : "shipping"
+            },
+            {
+              "product_id" : 221184,
+              "vendor_id" : 2165571,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/29d62c1e-fb42-4f62-ba23-1fd2334da9a9.png",
+              "caption" : "Suppliers",
+              "weight" : 3,
+              "short_name" : "shipping"
+            },
+            {
+              "product_id" : 221184,
+              "vendor_id" : 2165571,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/3c0b1774-d290-4eba-8bbc-c362c20b284d.png",
+              "caption" : "Replenishment Report ",
+              "weight" : 4,
+              "short_name" : "shipping"
+            },
+            {
+              "product_id" : 221184,
+              "vendor_id" : 2165571,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/8910ef4d-45cc-4670-8773-b14c16df06b3.png",
+              "caption" : "Data Coach",
+              "weight" : 5,
+              "short_name" : "shipping"
+            },
+            {
+              "product_id" : 221184,
+              "vendor_id" : 2165571,
+              "media_type" : "VIDEO",
+              "path_url" : "https://www.youtube.com/watch?v=71XlAp5Pzos",
+              "caption" : null,
+              "weight" : 0,
+              "short_name" : "shipping"
+            }
+          ],
+          "links" : [ ],
+          "features" : [
+            {
+              "category_name" : "Shipping",
+              "category_features" : [
+                {
+                  "name" : "Air Shipping",
+                  "value" : false,
+                  "id" : "0448c8eb-bca0-427c-b43e-07ee3bdef82a",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Bills of Lading",
+                  "value" : false,
+                  "id" : "abb50bf9-5566-411a-9983-b05d19def544",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Container Shipping",
+                  "value" : false,
+                  "id" : "50759869-09dc-47f4-a748-edcbe8f2eb14",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Freight Shipping",
+                  "value" : false,
+                  "id" : "a2c680d8-bb80-4c7c-b7bb-079cac6012e9",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Ground Shipping",
+                  "value" : false,
+                  "id" : "5e530228-3aa4-477f-98f3-866a40373170",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Import/Export Management",
+                  "value" : false,
+                  "id" : "20b0e929-74e2-4085-b2a7-84fee49bb077",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Ocean Shipping",
+                  "value" : false,
+                  "id" : "dc248e73-017d-4de9-8bed-880c47079b6e",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Parcel Shipping",
+                  "value" : false,
+                  "id" : "1b568d3c-655b-4fd5-a814-9cf4f4aa2c99",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Shipment Price Calculation",
+                  "value" : false,
+                  "id" : "4a9575c9-a637-40e5-b9a0-e4ff02b76309",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Calculation of shipment price based on size, weight, route, timeframe, and carrier.  "
+                },
+                {
+                  "name" : "Shipment Tracking",
+                  "value" : false,
+                  "id" : "e40fb70a-3bc0-42c2-9dea-cec4251c5209",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "The software will assign a tracking number associated to the order number to track the physical progress of the package in delivery."
+                },
+                {
+                  "name" : "Shipping Services Integration",
+                  "value" : false,
+                  "id" : "1814ddcf-391c-42de-8358-0b51ff4fb574",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Warehouse Management",
+                  "value" : true,
+                  "id" : "7753b90c-778c-4e25-8322-71085d53c9de",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                }
+              ]
+            },
+            {
+              "category_name" : "Supply Chain Management",
+              "category_features" : [
+                {
+                  "name" : "Demand Forecasting",
+                  "value" : false,
+                  "id" : "a3e57314-e6ed-44ca-a6b6-13fade585c53",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Use historical insights and simulations to forecast customer demand in different situations"
+                },
+                {
+                  "name" : "EDI",
+                  "value" : false,
+                  "id" : "bb06822e-12df-401f-b362-2e25dc3f73d1",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Transfer of data from one computer system to another"
+                },
+                {
+                  "name" : "Import/Export Management",
+                  "value" : false,
+                  "id" : "20b0e929-74e2-4085-b2a7-84fee49bb077",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Management of imports and exports (ie. international trade)"
+                },
+                {
+                  "name" : "Inventory Management",
+                  "value" : true,
+                  "id" : "80f46038-6ae8-4725-8064-788b20380eeb",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Track and manage the quantity of resources on hand to maintain proper supply"
+                },
+                {
+                  "name" : "Order Fulfillment",
+                  "value" : false,
+                  "id" : "4c12fcde-8a66-4e63-8836-2066cc4ba6bf",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Process of taking, organizing, tracking and fulfilling purchase requests for a company's products or services"
+                },
+                {
+                  "name" : "Sales & Operations Planning",
+                  "value" : false,
+                  "id" : "6b861e60-1a26-49fb-aff5-4e154e182312",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Oversee various functions of the organization while balancing and optimizing supply and demand"
+                },
+                {
+                  "name" : "Shipping Management",
+                  "value" : true,
+                  "id" : "fb1c8d2b-071c-4181-8188-48ff121fb41a",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Organize and track orders being sent and delivered to customers"
+                },
+                {
+                  "name" : "Supplier Management",
+                  "value" : true,
+                  "id" : "aa61511b-b73d-4fbb-a5f4-0ea85d124fcb",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Manage various aspects of the relationship with suppliers (e.g. interactions, history)"
+                },
+                {
+                  "name" : "Transportation Management",
+                  "value" : false,
+                  "id" : "45c7f919-3b23-4fc1-83ea-1cc53ca7627c",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track and organize transportation operations"
+                },
+                {
+                  "name" : "Warehouse Management",
+                  "value" : true,
+                  "id" : "7753b90c-778c-4e25-8322-71085d53c9de",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Software specialized for managing warehouses and tracking where inventory is located within the warehouses"
+                }
+              ]
+            }
+          ],
+          "infographics" : [ ],
+          "related_products" : [
+            {
+              "product_id" : 128334,
+              "seo_product_id" : 226054,
+              "seo_slug" : "ShippingEasy",
+              "vendor_name" : "ShippingEasy",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/348d4416-ebb7-4de3-834c-bbe200983e36.png",
+              "rating" : 4.8,
+              "total_reviews" : 1080,
+              "slug" : "ShippingEasy",
+              "product_name" : "ShippingEasy",
+              "short_desc" : "E-commerce shipping fulfillment software that integrates with over 50 platforms and qualifies you for the lowest rates on shipping.",
+              "features" : "ShippingEasy is the easiest online shipping, tracking, and customer marketing platform for e-commerce sellers. Integrate from over 50 stores and marketplaces, reduce costs with the lowest available USPS and UPS shipping rates, or connect your UPS/FedEx account. Optimize order fulfillment with powerful automation and batch printing. Try it free for 30 days!",
+              "url" : "https://shippingeasy.com/capterra-reviews/?ref=Capterra_ShippingEasyPaid_Listings&utm_source=capterra&utm_medium=cpc&utm_campaign=ShippingEasyPaid_Listings"
+            },
+            {
+              "product_id" : 172133,
+              "seo_product_id" : 224154,
+              "seo_slug" : "Pirate-Ship",
+              "vendor_name" : "Pirate Ship",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/367627c7-2a9a-421f-932e-196e2b447e81.png",
+              "rating" : 4.9,
+              "total_reviews" : 869,
+              "slug" : "Pirate-Ship",
+              "product_name" : "Pirate Ship",
+              "short_desc" : "Pirate Ship is free shipping software that passes through the cheapest USPS rates with no markup. Top choice for small businesses!",
+              "features" : "Get the cheapest USPS shipping rates possible with no fees! (We really mean it). \r\n\r\nPirate Ship is the only free web-based shipping software that gives you the cheapest rates for USPS-approved postage with absolutely no markup, fees or monthly commitments.\r\n\r\nFast and reliable shipping software built for modern small businesses. Import your ecommerce orders to quickly buy and print labels. \r\n\r\nSign up for your free account and start shipping in minutes! ",
+              "url" : "https://www.pirateship.com/?utm_source=capterra&utm_medium=ppc&utm_campaign=promoted_profile&utm_content=destinationurl"
+            },
+            {
+              "product_id" : 155621,
+              "seo_product_id" : 230117,
+              "seo_slug" : "ShipStation",
+              "vendor_name" : "Shipstation",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/fb126310-8265-4138-ad44-e2c38fdef856.png",
+              "rating" : 4.7,
+              "total_reviews" : 798,
+              "slug" : "ShipStation",
+              "product_name" : "ShipStation",
+              "short_desc" : "With ShipStation, you can find the best rates, print a label, or batch orders for rapid multi-label creation.",
+              "features" : "ShipStation helps merchants quickly generate discounted shipping labels for all of their online orders. With ShipStation, you can connect all of your carriers and order sources in one place. ShipStation not only gives you the ability to integrate all of your selling channels and carrier accounts, but we also make the entire order management and shipping experience simple. With just a few clicks, you can spend more time selling and less time shipping.",
+              "url" : "https://www.shipstation.com/step1/?ref=Capterra_ShipStationPaid_Listings&utm_source=capterra&utm_medium=cpc&utm_campaign=ShipStationPaid_Listings"
+            },
+            {
+              "product_id" : 146146,
+              "seo_product_id" : 226063,
+              "seo_slug" : "Shippo",
+              "vendor_name" : "Shippo",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/94e791fd-a102-4db1-bc39-e0da232202ec.png",
+              "rating" : 4.9,
+              "total_reviews" : 781,
+              "slug" : "Shippo",
+              "product_name" : "Shippo",
+              "short_desc" : "Deliver by design - at every stage of e-commerce complexity. Start shipping with Shippo, free.",
+              "features" : "Ecommerce is complex. Shipping doesn't have to be. Shippo connects you with the best rates at the most carriers using a solution integrated with your business and experienced support at every stage so you can grow into the future. Manage shipping for all of your sales channels and get access to exclusive discounts from USPS, UPS, FedEx, DHL + 80 more, automated workflows, detailed tracking and notifications, seamless returns, international customs declarations, and more.",
+              "url" : "https://goshippo.com?utm_medium=cpc&utm_content=shipping&utm_term=default"
+            },
+            {
+              "product_id" : 136895,
+              "seo_product_id" : 224386,
+              "seo_slug" : "Freightview",
+              "vendor_name" : "Freightview",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/03d95777-2d9c-4815-b38b-7cf7b200bd45.png",
+              "rating" : 4.6,
+              "total_reviews" : 608,
+              "slug" : "Freightview",
+              "product_name" : "Freightview",
+              "short_desc" : "Compare your contracted pricing, schedule pickups, prepare bills of lading, print labels, track data about your freight shipping.",
+              "features" : "If you ship LTL freight or parcel, you can use Freightview to pull all of your negotiated LTL and parcel rates into one place so it's easy to compare your options and pick the best one. Then you can schedule pickups, prepare bills of lading, print shipping labels and track your shipments from pickup to delivery. Our unified address book means you never have to type an address twice. Plus you can visualize all of your shipping data as charts, graphs, reports and spreadsheet download.",
+              "url" : "http://www.freightview.com/c1"
+            },
+            {
+              "product_id" : 133133,
+              "seo_product_id" : 152445,
+              "seo_slug" : "Cin7",
+              "vendor_name" : "Cin7",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/56fe047c-0333-4d1b-b4ec-f41f678c2715.png",
+              "rating" : 4.3,
+              "total_reviews" : 495,
+              "slug" : "Cin7",
+              "product_name" : "Cin7",
+              "short_desc" : "Cin7 is a highly configurable inventory management, and order management solution with best-in-class built-in EDI and 700 integrations.",
+              "features" : "Cin7 is a highly configurable inventory management and order management solution with built-in EDI and integrations to all the popular eCommerce platforms, marketplaces, and 3PLs. It's best-in-class for all combinations of B2B and D2C sales channels, warehouses, shipping, and fulfillment. Cin7 provides exceptional automations, workflows, reports, and analysis to enable brands, retailers, and wholesalers to operate efficiently as they scale and efficiently match demand to supply. ",
+              "url" : "https://get.cin7.com/shipping-software-capterra?utm_campaign=Capterra&utm_source=ppc&utm_term=shipping"
+            },
+            {
+              "product_id" : 227399,
+              "seo_product_id" : 227399,
+              "seo_slug" : "QuickBooks-Commerce",
+              "vendor_name" : "Intuit",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/a04a169b-1159-4018-9bf6-d3f3f966fa7d.png",
+              "rating" : 4.5,
+              "total_reviews" : 480,
+              "slug" : "QuickBooks-Commerce",
+              "product_name" : "QuickBooks Commerce",
+              "short_desc" : "QuickBooks Commerce enables you to manage inventory and orders for your multichannel business and keep track of products.",
+              "features" : "QuickBooks Commerce enables you to manage inventory and orders for your multichannel business and keep track of your products as you sell and restock across multiple warehouse locations and channels. \n\nQuickBooks Commerce allows brands to automate and integrate their commerce platforms and get powerful insights into all their sales data on-demand.",
+              "url" : "https://www.tradegecko.com/"
+            },
+            {
+              "product_id" : 122488,
+              "seo_product_id" : 122488,
+              "seo_slug" : "AscendTMS-Logistics-Software",
+              "vendor_name" : "InMotion Global",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/6b4c9447-2151-44c5-af5c-f5d4bc0e8902.png",
+              "rating" : 4.8,
+              "total_reviews" : 288,
+              "slug" : "AscendTMS-Logistics-Software",
+              "product_name" : "AscendTMS Logistics Software",
+              "short_desc" : "The only NO Fee, NO Contract, NO Setup TMS. Over 47,833+ users. TRUE cloud TMS. The World's Most Popular TMS. Capterra's BEST RATING!",
+              "features" : "AscendTMS is the world's most popular TMS software (47,833+ active users), for Freight Brokers, 3PL's, Trucking Companies and Shippers. NO upfront fees, NO license fees, NO support fees, NO contracts. They are 100% independent and NOT affiliated with any broker, carrier, or other transportation entity. Get instant TMS access from ANY device with NO installs, NO hardware, NO setup. Compare to TMW, McLeod, Mercury Gate, Aljex and other old legacy systems. AscendTMS has Capterra's BEST RATING!",
+              "url" : "http://www.TheFreeTMS.com/?utm_source=Capterra%20To%20IMG%20Mktg%20Site&utm_medium=PPC&utm_campaign=Capterra%20To%20IMG%20Mktg%20Site"
+            },
+            {
+              "product_id" : 133214,
+              "seo_product_id" : 212480,
+              "seo_slug" : "Orderhive",
+              "vendor_name" : "Orderhive Inc.",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8da40beb-86f0-438f-94df-d2f4bd13cc31.png",
+              "rating" : 4.4,
+              "total_reviews" : 245,
+              "slug" : "Orderhive",
+              "product_name" : "Orderhive",
+              "short_desc" : "Grow your business with multi-channel shipping software to invite lowest shipping rates and real-time shipment tracking system. ",
+              "features" : "Ship orders faster with Orderhive, economical shipping software that enables you to streamline shipping pipeline by integrating with global shipping carriers like USPS, DHL, FedEx, UPS and more. With Orderhive, you can choose the best shipping options, calculate shipping costs with an in-built shipping calculator and compare rates according to package sizes, weight, place and delivery date. ",
+              "url" : "https://www.orderhive.com/shipping-management-capt2021?utm_campaign=Capterra&utm_source=ppc&utm_term=Shipping%20Management"
+            },
+            {
+              "product_id" : 207521,
+              "seo_product_id" : 207521,
+              "seo_slug" : "XPS-Ship",
+              "vendor_name" : "XPS Ship",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/91d1e57d-f38c-49b0-865e-c9ad54eacc74.png",
+              "rating" : 4.7,
+              "total_reviews" : 238,
+              "slug" : "XPS-Ship",
+              "product_name" : "XPS Ship",
+              "short_desc" : "Shipping software that helps businesses manage delivery, track status, verify addresses, calculate costs and more.",
+              "features" : "Shipping software that helps businesses manage delivery, track status, verify addresses, calculate costs and more.",
+              "url" : "https://xpsship.com"
+            },
+            {
+              "product_id" : 170399,
+              "seo_product_id" : 225208,
+              "seo_slug" : "Easyship",
+              "vendor_name" : "Easyship",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/5afc3e28-c887-45f7-8634-9f61447cefa0.png",
+              "rating" : 4.2,
+              "total_reviews" : 122,
+              "slug" : "Easyship",
+              "product_name" : "Easyship",
+              "short_desc" : "Easyship is a end-to-end logistics platform for global commerce. Sync your store, ship with 250+ shipping solutions and save up to 70%.",
+              "features" : "Easyship is the worlds leading cloud-based shipping technology platform that helps eCommerce merchants ship their products globally. As a user-centric product, Easyship has helped to simplify the complex world of cross-border logistics for more than 40,000 clients worldwide; with exclusive rates from leading couriers, on-demand pickup requests, and a dashboard to track every shipment, we've got your logistics operations covered from checkout to delivery.",
+              "url" : "https://www.easyship.com/?utm_source=capterra&utm_medium=cpc&utm_campaign=listing_shipping_homepage"
+            }
+          ],
+          "similar_products" : [
+            {
+              "product_id" : 155621,
+              "seo_product_id" : 230117,
+              "seo_slug" : "ShipStation",
+              "vendor_name" : "Shipstation",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/fb126310-8265-4138-ad44-e2c38fdef856.png",
+              "rating" : 4.7,
+              "total_reviews" : 798,
+              "slug" : "ShipStation",
+              "product_name" : "ShipStation",
+              "short_desc" : "With ShipStation, you can find the best rates, print a label, or batch orders for rapid multi-label creation.",
+              "features" : "ShipStation helps merchants quickly generate discounted shipping labels for all of their online orders. With ShipStation, you can connect all of your carriers and order sources in one place. ShipStation not only gives you the ability to integrate all of your selling channels and carrier accounts, but we also make the entire order management and shipping experience simple. With just a few clicks, you can spend more time selling and less time shipping.",
+              "url" : "https://www.shipstation.com/step1/?ref=Capterra_ShipStationPaid_Listings&utm_source=capterra&utm_medium=cpc&utm_campaign=ShipStationPaid_Listings"
+            },
+            {
+              "product_id" : 100796,
+              "seo_product_id" : 222104,
+              "seo_slug" : "2Ship",
+              "vendor_name" : "2Ship Solutions",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/35b43388-50e7-48f9-86f3-0978f7a935b6.png",
+              "rating" : 4.5,
+              "total_reviews" : 61,
+              "slug" : "2Ship",
+              "product_name" : "2Ship",
+              "short_desc" : "2Ship is a powerful web based solution from shipping envelopes, to small packages, to a LTL/FTL multi carrier SaaS platform.\r\n",
+              "features" : "2Ship is an online, multi-carrier shipping platform built for businesses who have ecommerce webstores and marketplaces looking to connect to the right carrier and carrier's service for every shipment. Shipping anywhere from envelopes to parcels from same day to next day couriers, and skids with LTL/FTL services under one platform. 2Ship's scalability can support your shipping operation, whether it's 1, 100, 1,000 or 10,000 packages a day. \n\nWe love to ship, and we know you'll love 2Ship too!\n",
+              "url" : "https://www.2ship.com/try-2Ship-free.php?agent-code=capterra30"
+            },
+            {
+              "product_id" : 152285,
+              "seo_product_id" : 226049,
+              "seo_slug" : "FreightPOP",
+              "vendor_name" : "FreightPOP",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/12d126b8-0b9c-475e-9445-c6da3b1046ed.png",
+              "rating" : 4.5,
+              "total_reviews" : 29,
+              "slug" : "FreightPOP",
+              "product_name" : "FreightPOP",
+              "short_desc" : "Shop, ship, save, track, audit, and analyze, all with one login. Smart AI shipping software for all modes: Parcel, LTL/FTL, Intl Air. ",
+              "features" : "The premier cloud-based shipping software powered by AI, makes shipping simple with one login for all inbound and outbound transportation management across parcel, LTL, FTL, ocean, and air. Seamless integration into your ERP and order system, and configurable to your existing workflows. With connections to 600+ carriers, brokers, & marketplaces, getting the best rates and optimizing shipping processes is easy. Trusted by Amazon, ebay, Toshiba, and Kyocera. Not for freight forwarders.",
+              "url" : "https://info.freightpop.com/lp-request-a-demo?utm_campaign=default&utm_content=destination&utm_source=capterrra"
+            },
+            {
+              "product_id" : 22144,
+              "seo_product_id" : 22144,
+              "seo_slug" : "Magaya-Cargo-System",
+              "vendor_name" : "Magaya",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/bf57f320-6434-4992-979e-d9778e455437.png",
+              "rating" : 4.2,
+              "total_reviews" : 30,
+              "slug" : "Magaya-Cargo-System",
+              "product_name" : "Magaya Supply Chain",
+              "short_desc" : "The Digital Freight Platform That Accelerates Growth",
+              "features" : "Manage all of your shipping operations in a single platform, from rates and quotes to customs compliance, warehouse operations, tracking, accounting, customer service... and more! Avoid double data entry, save time, and bust operational silos by creating bookings, pickup orders, warehouse receipts, shipments, invoices, all in one easy-to-use Digital Freight Platform.",
+              "url" : "https://info.magaya.com/freight-management-software?utm_source=capterra&utm_medium=ppc&utm_campaign=capterra"
+            },
+            {
+              "product_id" : 234603,
+              "seo_product_id" : 234603,
+              "seo_slug" : "Salesforce-for-Transportation--Logistics",
+              "vendor_name" : "Salesforce",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d3ddd3ef-6f5d-4587-a354-6d423ca2e502.jpeg",
+              "rating" : 0.0,
+              "total_reviews" : 0,
+              "slug" : "Salesforce-for-Transportation--Logistics",
+              "product_name" : "Salesforce for Transportation & Logistics",
+              "short_desc" : "Keep drivers and shippers moving forward with seamless experiences.",
+              "features" : "Manage transportation logistics at every stage of the journey. Whether shippers want to request pricing, check cargo conditions, or track shipments, they can do it all on the world's #1 CRM. Provide proactive service, send alerts, and answer questions accurately with a 360-degree view of shippers and consignees, and the transportation supply chain. Salesforce streamlines the entire shipping experience by integrating all of your systems and data onto a single platform.",
+              "url" : "https://www.salesforce.com/form/industries/tth/deliver-a-seamless-shipper-experience-demo/?d=7013y000000ZlEbAAK&nc=7013y000000ZlEVAA0&utm_source=capterra&utm_medium=review_sites&utm_campaign=us_itthd&utm_content=deliver-a-seamless-shipper-experience-demo_7013y000000ZlEbAAK"
+            },
+            {
+              "product_id" : 179869,
+              "seo_product_id" : 179869,
+              "seo_slug" : "shipup",
+              "vendor_name" : "Shipup",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/64c563ee-7a3c-4774-a126-31abef866d5b.png",
+              "rating" : 5.0,
+              "total_reviews" : 5,
+              "slug" : "shipup",
+              "product_name" : "Shipup",
+              "short_desc" : "Shipup turns eCommerce delivery notifications/pages into marketing campaigns. Boost your NPS & CLV, and reduce your delivery tickets.",
+              "features" : "Top shipment tracking solution driven by customer experience success.\nEcommerce brands take control over the most volatile part of the customer experience -the post-purchase- so they increase brand loyalty & save support cost\n\nDisplay ads, product reco, or even promo codes in this new customer communication channel with a highly qualified audience (emails with a massive 65% open rate). Boost your rate of repetitive purchase (up to +20%) while reducing call center delivery tickets (up to -80%).\n",
+              "url" : "https://resources.shipup.co/en/offer/post-purchase-experience?utm_source=gartner&utm_campaign=en_ww_gartner_cpc_listing-page"
+            },
+            {
+              "product_id" : 228988,
+              "seo_product_id" : 228988,
+              "seo_slug" : "Enveyo",
+              "vendor_name" : "Enveyo",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/427c8f4b-4826-45d1-9d75-acc6d5110a35.jpeg",
+              "rating" : 0.0,
+              "total_reviews" : 0,
+              "slug" : "Enveyo",
+              "product_name" : "Enveyo",
+              "short_desc" : "Enveyo's shipping software provides views of your enterprise-level shipping program to help you remove manual processes and save time.",
+              "features" : "Enveyo's shipping software is designed from the ground up to provide views of your enterprise-level shipping program that are both comprehensive and hyper-detailed - helping you remove manual processes and save time. With increasing supply chain challenges and rising customer expectations, parcel shippers require more than what traditional solutions provide. What you need is a parcel shipping platform that helps you optimize operations and deliver more to the end customer. You need Enveyo. \n",
+              "url" : "https://www.enveyo.com"
+            },
+            {
+              "product_id" : 136895,
+              "seo_product_id" : 224386,
+              "seo_slug" : "Freightview",
+              "vendor_name" : "Freightview",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/03d95777-2d9c-4815-b38b-7cf7b200bd45.png",
+              "rating" : 4.6,
+              "total_reviews" : 608,
+              "slug" : "Freightview",
+              "product_name" : "Freightview",
+              "short_desc" : "Compare your contracted pricing, schedule pickups, prepare bills of lading, print labels, track data about your freight shipping.",
+              "features" : "If you ship LTL freight or parcel, you can use Freightview to pull all of your negotiated LTL and parcel rates into one place so it's easy to compare your options and pick the best one. Then you can schedule pickups, prepare bills of lading, print shipping labels and track your shipments from pickup to delivery. Our unified address book means you never have to type an address twice. Plus you can visualize all of your shipping data as charts, graphs, reports and spreadsheet download.",
+              "url" : "http://www.freightview.com/c2"
+            },
+            {
+              "product_id" : 172133,
+              "seo_product_id" : 224154,
+              "seo_slug" : "Pirate-Ship",
+              "vendor_name" : "Pirate Ship",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/367627c7-2a9a-421f-932e-196e2b447e81.png",
+              "rating" : 4.9,
+              "total_reviews" : 869,
+              "slug" : "Pirate-Ship",
+              "product_name" : "Pirate Ship",
+              "short_desc" : "Pirate Ship is free shipping software that passes through the cheapest USPS rates with no markup. Top choice for small businesses!",
+              "features" : "Get the cheapest USPS shipping rates possible with no fees! (We really mean it). \r\n\r\nPirate Ship is the only free web-based shipping software that gives you the cheapest rates for USPS-approved postage with absolutely no markup, fees or monthly commitments.\r\n\r\nFast and reliable shipping software built for modern small businesses. Import your ecommerce orders to quickly buy and print labels. \r\n\r\nSign up for your free account and start shipping in minutes! ",
+              "url" : "https://www.pirateship.com/?utm_source=capterra&utm_medium=ppc&utm_campaign=promoted_profile&utm_content=destinationurl"
+            },
+            {
+              "product_id" : 128334,
+              "seo_product_id" : 226054,
+              "seo_slug" : "ShippingEasy",
+              "vendor_name" : "ShippingEasy",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/348d4416-ebb7-4de3-834c-bbe200983e36.png",
+              "rating" : 4.8,
+              "total_reviews" : 1080,
+              "slug" : "ShippingEasy",
+              "product_name" : "ShippingEasy",
+              "short_desc" : "E-commerce shipping fulfillment software that integrates with over 50 platforms and qualifies you for the lowest rates on shipping.",
+              "features" : "ShippingEasy is the easiest online shipping, tracking, and customer marketing platform for e-commerce sellers. Integrate from over 50 stores and marketplaces, reduce costs with the lowest available USPS and UPS shipping rates, or connect your UPS/FedEx account. Optimize order fulfillment with powerful automation and batch printing. Try it free for 30 days!",
+              "url" : "https://shippingeasy.com/capterra-reviews/?ref=Capterra_ShippingEasyPaid_Listings&utm_source=capterra&utm_medium=cpc&utm_campaign=ShippingEasyPaid_Listings"
+            },
+            {
+              "product_id" : 160009,
+              "seo_product_id" : 160009,
+              "seo_slug" : "ShipFusion",
+              "vendor_name" : "Shipfusion",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/59604d39-e20a-4df7-ab1f-3dd75568b1fb.png",
+              "rating" : 4.6,
+              "total_reviews" : 20,
+              "slug" : "ShipFusion",
+              "product_name" : "Shipfusion",
+              "short_desc" : "Integrates into all major ecommerce platforms & allows for inventory management, order fulfillment, and real-time billing and support.",
+              "features" : "Shipfusion is a warehouse and shipping management solution designed to help eCommerce retailers store, manage, and track inventory across temperature-controlled warehouses. The platform enables managers to streamline freight, insurance, and return management processes. Administrators can utilize the system dashboard to view shipments, key milestones, inventory levels, fee breakdowns, shipping summary, and more in real-time. It also performs quality control checks on various stock items.",
+              "url" : "https://www.shipfusion.com/pricing/"
+            },
+            {
+              "product_id" : 144431,
+              "seo_product_id" : 225476,
+              "seo_slug" : "Logitude-World",
+              "vendor_name" : "Logitude",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e2eeac41-f8ba-4654-98f5-d530213c5c37.png",
+              "rating" : 4.5,
+              "total_reviews" : 28,
+              "slug" : "Logitude-World",
+              "product_name" : "Logitude World",
+              "short_desc" : "By using Logitude's digital freight forwarding software, your time and effort are best used to increase the efficiency of your services",
+              "features" : "Increase your revenue and reduce the overhead expenses of your freight forwarding operations by using Logitude World; the automated software that helps you manage the full freight forwarding life cycle. Logitude's cloud solution allows you to handle all operations on one sophisticated platform that can be customized to your business needs. Logitude World, with its detailed features, is your solution to optimize your operations and maximize efficiency. Would you like to get a free demo?",
+              "url" : "http://www.logitudeworld.com/"
+            },
+            {
+              "product_id" : 43268,
+              "seo_product_id" : 43268,
+              "seo_slug" : "GlobalShip",
+              "vendor_name" : "Logicor",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/057102c9-d9dc-46da-a8f6-a39399d4513b.png",
+              "rating" : 0.0,
+              "total_reviews" : 0,
+              "slug" : "GlobalShip",
+              "product_name" : "GlobalShip",
+              "short_desc" : "Multi-carrier shipping solution built for the enterprise. Ship FedEx, UPS, DHL, USPS, LTL and more. Windows and IBM i (iSeries/AS400)",
+              "features" : "GlobalShip is an enterprise-class, multi-carrier shipping software that delivers significant cost benefits for small businesses and large corporations alike. GlobalShip enables a higher level of efficiency, productivity, and profitability through intelligently automated small parcel and LTL shipping. You can embed GlobalShip functionality into your existing business applications using simple API tools and integrate with RF scanners, scales and material handling automation. Windows & iSeries.",
+              "url" : "https://logicor.com/"
+            }
+          ],
+          "related_categories" : [
+            {
+              "functional_group" : "shipping",
+              "long_name" : "Courier",
+              "html_name" : "courier-software",
+              "link_name" : "courier",
+              "product_count" : 43,
+              "meta_description" : "Find and compare top Courier software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Courier tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/courier-software\">Courier software</a> is used to manage package delivery services.  Order entry, dispatch, route scheduling, job assignment, carrier pay, billing, GPS, and sales analysis are all features of this type of software.  Email notifications and special instruction fields for drivers can also be available.  <a href=\"/courier-software\">Courier software</a> is related to <a href=\"/shipping-software\">Shipping software</a>, <a href=\"/trucking-software\">Trucking software</a>, <a href=\"/service-dispatch-software\">Service Dispatch software</a>, <a href=\"/distribution-software\">Distribution software</a>, and <a href=\"/logistics-software\">Logistics software</a>."
+            },
+            {
+              "functional_group" : "shipping",
+              "long_name" : "Distribution",
+              "html_name" : "distribution-software",
+              "link_name" : "distribution",
+              "product_count" : 130,
+              "meta_description" : "Find and compare top Distribution software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Distribution tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/distribution-software>Distribution software</a> manages processes including inventory tracking and warehousing.  These applications increase efficiency and reduce costs by allowing key data to be easily shared throughout an enterprise. Distribution solutions typically provide <a href=\"/inventory-control-software\">inventory controls</a> and tracking as well as channel monitoring features.  <a href=/distribution-software>Distribution software</a> often provides integration for sales, purchase orders and pricing information, vendor and customer contact information along with accounting and business reporting tools.   <a href=/distribution-software>Distribution software</a> is related to <a href=/logistics-software>Logistics software</a>, <a href=/shipping-software>Shipping software</a> and <a href=/warehouse-management-software>Warehouse Management software</a>."
+            },
+            {
+              "functional_group" : "shipping",
+              "long_name" : "Freight",
+              "html_name" : "freight-software",
+              "link_name" : "freight",
+              "product_count" : 119,
+              "meta_description" : "Find and compare top Freight software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Freight tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/freight-software\">Freight software</a> is designed for organizations that deal with logistics, freight management, and freight brokering for both domestic and international shipments. These solutions can handle ocean, ground, and air freight and combine <a href=\"/warehouse-management-software\">warehousing systems</a> with <a href=\"/accounting-software\">accounting</a> capabilities. <a href=\"/freight-software\">Freight software</a> is related to <a href=\"/logistics-software\">Logistics software</a>, <a href=\"/shipping-software\">Shipping software</a> and <a href=\"/trucking-software\">Trucking software</a>."
+            },
+            {
+              "functional_group" : "shipping",
+              "long_name" : "Logistics",
+              "html_name" : "logistics-software",
+              "link_name" : "logistics",
+              "product_count" : 167,
+              "meta_description" : "Find and compare top Logistics software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Logistics tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/logistics-software>Logistics software</a> automates warehousing, transportation management, shipping and other logistical functions, monitoring the flow of products from supplier to end user.  These applications provide a wide variety of features including:  <a href=\"/inventory-control-software\">inventory control</a>, warehousing, <a href=\"/purchasing-software\">purchasing</a> and receiving, sales and shipping, barcode / RFID scanning and label printing. Logistics solutions typically offer integration for vendor and customer management, accounting, and business reporting tools.  <a href=/logistics-software>Logistics software</a> is related to <a href=\"/distribution-software\">Distribution software</a>, <a href=\"/rfid-software\">RFID software</a>, <a href=/shipping-software>Shipping software</a>, <a href=/trucking-software>Trucking software</a> and <a href=/warehouse-management-software>Warehouse Management software</a>."
+            },
+            {
+              "functional_group" : "shipping",
+              "long_name" : "Mailroom Management",
+              "html_name" : "mailroom-management-software",
+              "link_name" : "mailroom-management",
+              "product_count" : 17,
+              "meta_description" : "Find and compare top Mailroom Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Mailroom Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/mailroom-management-software\">Mailroom Management software</a> helps organizations to manage their mailing and shipping activities.  These solutions have features that include postal accounting, reporting and rate shopping.  Other features may include label printing and parcel tracking abilities.  <a href=\"/mailroom-management-software\">Mailroom Management software</a> is related to <a href=\"/shipping-software\">Shipping software</a>."
+            },
+            {
+              "functional_group" : "shipping",
+              "long_name" : "Supply Chain Management",
+              "html_name" : "supply-chain-management-software",
+              "link_name" : "supply-chain-management",
+              "product_count" : 217,
+              "meta_description" : "Find and compare top Supply Chain Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Supply Chain Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/supply-chain-management-software>Supply Chain Management software</a> automates the flow of processes from raw materials through to delivery of finished goods to the consumer.  These applications allow for organization-wide order processing, transportation and <a href=\"/warehouse-management-software\">warehouse management</a> along with planning and forecasting tools.  <a href=/supply-chain-management-software>Supply Chain Management software</a> provides for efficient operation through the distribution and synchronization of this key data across multiple locations and throughout an enterprise.  <a href=/supply-chain-management-software>Supply Chain Management software</a> is related to <a href=/inventory-management-software>Inventory Management software</a>."
+            },
+            {
+              "functional_group" : "shipping",
+              "long_name" : "Transportation Dispatch",
+              "html_name" : "transportation-dispatch-software",
+              "link_name" : "transportation-dispatch",
+              "product_count" : 119,
+              "meta_description" : "Find and compare top Transportation Dispatch software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Transportation Dispatch tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/transportation-dispatch-software\">Transportation Dispatch software</a> allows dispatchers to view, track and manage dispatch activities from one central location. These solutions can track courier, delivery, service vehicles and trucking data. Shipment needs can be matched with available resources where optimal routes and loads can be determined.  <a href=\"/transportation-dispatch-software\">Transportation Dispatch software</a> is related to <a href=\"/trucking-software\">Trucking software</a>, <a href=\"/fleet-management-software\">Fleet Management software</a>, <a href=\"/shipping-software\">Shipping Management software</a>, <a href=\"/courier-software\">Courier software</a>, <a href=\"/service-dispatch-software\">Service Dispatch software</a>, and <a href=\"/logistics-software\">Logistics software</a>."
+            },
+            {
+              "functional_group" : "shipping",
+              "long_name" : "Warehouse Management",
+              "html_name" : "warehouse-management-software",
+              "link_name" : "warehouse-management",
+              "product_count" : 223,
+              "meta_description" : "Find and compare top Warehouse Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Warehouse Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs.",
+              "description" : "<a href=/warehouse-management-software>Warehouse Management software</a> enables the movement, tracking and storage of materials throughout the warehouse.  These applications increase efficiency and reduce costs by allowing key data to be easily shared throughout an enterprise. Warehouse Management solutions typically provide <a href=\"/inventory-control-software\">inventory controls</a> and tracking as well as <a href=\"/procurement-software\">procurement</a> management and channel monitoring features. They also offer integration for vendor and customer management, <a href=\"/accounting-software\">accounting</a> and business <a href=\"/reporting-software\">reporting</a> tools.   <a href=/warehouse-management-software>Warehouse Management software</a> is related to <a href=/distribution-software>Distribution software</a> and <a href=/logistics-software>Logistics software</a>."
+            }
+          ],
+          "is_upgraded" : false,
+          "enabled" : true,
+          "filter_options" : {
+            "users" : 62,
+            "platform" : 1,
+            "pricing_options" : 2,
+            "category_related_features" : [
+              20192,
+              42422,
+              49933,
+              49934,
+              49935,
+              49936,
+              49939,
+              49943,
+              49944,
+              49947,
+              49951,
+              49952,
+              49962,
+              49965,
+              49969,
+              77007,
+              77008
+            ],
+            "employees" : 126
+          },
+          "sort_options" : {
+            "sort_review_rating" : 4.635173797607422,
+            "most_recent_review" : "2021-11-17T13:06:15Z"
+          },
+          "countries" : "ALL",
+          "features_tokenized_text" : "warehouse_management",
+          "platform_tokenized_text" : "cloud,saas,web-based",
+          "users_tokenized_text" : "2-10 11-50 51-200 201-500 501-1000",
+          "pricing_tokenized_text" : "monthlysubscription",
+          "badges" : [ ],
+          "bid_spot_us" : 0.0,
+          "currency_code" : "USD",
+          "currency_symbol" : "$",
+          "credit_card_required" : null,
+          "licensing_model" : null,
+          "open_api_offered" : "Yes",
+          "mobile_urls" : [
+            {
+              "name" : "iOS",
+              "url" : "https://itunes.apple.com/us/app/skuvault/id1230216446?mt=8"
+            },
+            {
+              "name" : "Android",
+              "url" : "https://play.google.com/store/apps/details?id=com.agileharbor.skuvault&hl=en_US"
+            }
+          ],
+          "integrations" : [
+            {
+              "id" : "167b3492-24f8-4060-aa97-a6d200b77ff8",
+              "name" : "WooCommerce"
+            },
+            {
+              "id" : "44278a9e-09e7-4c4b-92d9-1a3739abe0ec",
+              "name" : "QuickBooks Online Advanced"
+            },
+            {
+              "id" : "d0624e03-03c8-4207-acc7-a6d200b3246d",
+              "name" : "ChannelAdvisor"
+            },
+            {
+              "id" : "ff8cc380-8bfb-4161-b5d9-a6d200b68846",
+              "name" : "Shopify"
+            },
+            {
+              "id" : "8d9e9a11-9d0f-4534-91ba-a6d200b68846",
+              "name" : "ShipStation"
+            },
+            {
+              "id" : "53dc783d-b40c-4405-b67b-a6d200b6c8b9",
+              "name" : "SureDone"
+            },
+            {
+              "id" : "dec51e33-98a0-47b2-8ce4-a6d200b760a7",
+              "name" : "Volusion"
+            },
+            {
+              "id" : "68b57f86-e9d3-455f-a5a4-a6d200b28511",
+              "name" : "Shift4Shop"
+            },
+            {
+              "id" : "14f66ecf-7da3-4633-b5e6-a6d200b5007d",
+              "name" : "Adobe Commerce"
+            },
+            {
+              "id" : "6a680041-f372-46f3-a3e9-a6d200b556c0",
+              "name" : "NetSuite"
+            },
+            {
+              "id" : "8c7f8bf5-dbf6-47ee-9df7-a6d200b64092",
+              "name" : "Salesforce Sales Cloud"
+            },
+            {
+              "id" : "fb23d4b4-b33d-4b66-9bba-a6d200b2e0b2",
+              "name" : "BigCommerce"
+            },
+            {
+              "id" : "212e1917-864a-40ba-aaf6-a6e200cda45d",
+              "name" : "Sage Business Cloud"
+            },
+            {
+              "id" : "043500a0-1393-4a61-9a54-a6d200b58406",
+              "name" : "OpenCart"
+            },
+            {
+              "id" : "486ac5cb-597b-44d3-880a-a6d200b58407",
+              "name" : "Oracle CRM On Demand"
+            },
+            {
+              "id" : "2d588de6-6e25-4c52-955b-a6d200b7915e",
+              "name" : "X-Cart"
+            },
+            {
+              "id" : "5c703aa3-ef61-4417-a578-42b7f0aa4dc2",
+              "name" : "Square Point of Sale"
+            },
+            {
+              "id" : "f01ad2a9-0ff3-46b6-a9bb-a6d200b4f35c",
+              "name" : "Lightspeed Retail"
+            },
+            {
+              "id" : "eab58142-6040-46ce-9341-a6d200b7915e",
+              "name" : "Xero"
+            }
+          ],
+          "supported_countries" : [
+            {
+              "id" : 41,
+              "code" : "CA",
+              "name" : "Canada"
+            },
+            {
+              "id" : 237,
+              "code" : "US",
+              "name" : "United States of America"
+            }
+          ],
+          "supported_languages" : [
+            {
+              "id" : 152,
+              "code" : "en",
+              "name" : "English",
+              "location" : null
+            }
+          ],
+          "target_industries" : [
+            {
+              "id" : 82,
+              "code" : "95",
+              "name" : "Maritime"
+            },
+            {
+              "id" : 9,
+              "code" : "53",
+              "name" : "Automotive"
+            },
+            {
+              "id" : 49,
+              "code" : "26",
+              "name" : "Furniture"
+            },
+            {
+              "id" : 51,
+              "code" : "145",
+              "name" : "Glass, Ceramics & Concrete"
+            },
+            {
+              "id" : 129,
+              "code" : "58",
+              "name" : "Shipbuilding"
+            },
+            {
+              "id" : 46,
+              "code" : "34",
+              "name" : "Food & Beverages"
+            },
+            {
+              "id" : 14,
+              "code" : "49",
+              "name" : "Building Materials"
+            },
+            {
+              "id" : 77,
+              "code" : "85",
+              "name" : "Libraries"
+            },
+            {
+              "id" : 85,
+              "code" : "135",
+              "name" : "Mechanical or Industrial Engineering"
+            },
+            {
+              "id" : 105,
+              "code" : "15",
+              "name" : "Pharmaceuticals"
+            },
+            {
+              "id" : 62,
+              "code" : "147",
+              "name" : "Industrial Automation"
+            },
+            {
+              "id" : 102,
+              "code" : "146",
+              "name" : "Packaging and Containers"
+            },
+            {
+              "id" : 36,
+              "code" : "112",
+              "name" : "Electrical/Electronic Manufacturing"
+            },
+            {
+              "id" : 17,
+              "code" : "54",
+              "name" : "Chemicals"
+            },
+            {
+              "id" : 108,
+              "code" : "117",
+              "name" : "Plastics"
+            },
+            {
+              "id" : 28,
+              "code" : "25",
+              "name" : "Consumer Goods"
+            },
+            {
+              "id" : 29,
+              "code" : "91",
+              "name" : "Consumer Services"
+            },
+            {
+              "id" : 103,
+              "code" : "61",
+              "name" : "Paper & Forest Products"
+            },
+            {
+              "id" : 15,
+              "code" : "138",
+              "name" : "Business Supplies and Equipment"
+            },
+            {
+              "id" : 78,
+              "code" : "116",
+              "name" : "Logistics and Supply Chain"
+            },
+            {
+              "id" : 6,
+              "code" : "19",
+              "name" : "Apparel & Fashion"
+            },
+            {
+              "id" : 126,
+              "code" : "27",
+              "name" : "Retail"
+            },
+            {
+              "id" : 27,
+              "code" : "24",
+              "name" : "Consumer Electronics"
+            },
+            {
+              "id" : 139,
+              "code" : "92",
+              "name" : "Transportation/Trucking/Railroad"
+            },
+            {
+              "id" : 25,
+              "code" : "4",
+              "name" : "Computer Software"
+            },
+            {
+              "id" : 143,
+              "code" : "93",
+              "name" : "Warehousing"
+            },
+            {
+              "id" : 60,
+              "code" : "134",
+              "name" : "Import and Export"
+            },
+            {
+              "id" : 26,
+              "code" : "48",
+              "name" : "Construction"
+            },
+            {
+              "id" : 64,
+              "code" : "96",
+              "name" : "Information Technology and Services"
+            }
+          ],
+          "price_range_id" : 1,
+          "aggregated_review_ratings" : {
+            "industry" : {
+              "93" : 5.0,
+              "112" : 2.0,
+              "19" : 4.0,
+              "134" : 5.0,
+              "18" : 5.0,
+              "14" : 4.0,
+              "24" : 5.0,
+              "27" : 4.93,
+              "48" : 5.0,
+              "92" : 4.0,
+              "97" : 5.0,
+              "23" : 5.0,
+              "25" : 3.75,
+              "34" : 4.33,
+              "96" : 5.0,
+              "53" : 5.0,
+              "4" : 5.0
+            },
+            "company_size" : {
+              "11-50 employees" : 4.23,
+              "51-200 employees" : 5.0,
+              "501-1000 employees" : 5.0,
+              "1-10 employees" : 4.67,
+              "201-500 employees" : 5.0
+            }
+          },
+          "vct_enabled" : false,
+          "pricing_plans" : [
+            {
+              "created_on_utc" : "2019-08-21T14:47:39Z",
+              "modified_on_utc" : "2022-07-04T05:17:32Z",
+              "created_by" : null,
+              "modified_by" : "Tripti Chawla",
+              "name" : "Growth",
+              "description" : "The plan is made for 2 users. Each additional user costs $125 per month. An additional cost of $300 per month is added to the final amount if choosing the 3PL package.",
+              "display_order" : 1,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 329.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "API Access"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "Datacoach Inventory Intelligence"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Fasttrack Classroom Training"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "Skuvault University Self-Guided Learning"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 5,
+                  "name" : "Unlimited Integrations"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 6,
+                  "name" : "Up to 2000 Orders"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 7,
+                  "name" : "US-Based Support"
+                }
+              ]
+            },
+            {
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-07-04T05:17:32Z",
+              "created_by" : null,
+              "modified_by" : "Tripti Chawla",
+              "name" : "Pro",
+              "description" : "The plan is made for 2 users. Each additional user costs $100 per month. An additional cost of $300 per month is added to the final amount if choosing the 3PL package.",
+              "display_order" : 2,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 699.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "API Access"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "Datacoach Inventory Intelligence"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Fasttrack Classroom Training"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "Skuvault University Self-Guided Learning"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 5,
+                  "name" : "Unlimited Integrations"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 6,
+                  "name" : "Up to 5000 Orders"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 7,
+                  "name" : "US-Based Support"
+                }
+              ]
+            },
+            {
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-07-04T05:17:32Z",
+              "created_by" : null,
+              "modified_by" : "Tripti Chawla",
+              "name" : "Enterprise",
+              "description" : "The plan is made for 2 users. Each additional user costs $75 per month. An additional cost of $300 per month is added to the final amount if choosing the 3PL package.",
+              "display_order" : 3,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 1149.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "Annual Onsite Visits"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "API Access"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Datacoach Inventory Intelligence"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "Dedicated Customer Success Mgr."
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 5,
+                  "name" : "Fasttrack Classroom Training"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 6,
+                  "name" : "Skuvault University Self-Guided Learning"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 7,
+                  "name" : "Unlimited Integrations"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 8,
+                  "name" : "Up to 20000 Orders"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 9,
+                  "name" : "US-Based Support"
+                }
+              ]
+            }
+          ],
+          "discount_types" : [ ]
+        }
+      },
+      {
+        "_index" : "product_listings_main_data_upc_vt20220920_043802_utc",
+        "_type" : "_doc",
+        "_id" : "139964_scmxware",
+        "_score" : 10.865253,
+        "_source" : {
+          "product_id" : 139964,
+          "seo_product_id" : 221184,
+          "seo_slug" : "SkuVault",
+          "product_name" : "SkuVault",
+          "upc_product_uuid" : "bd01b842-4447-4cc8-be11-a6d200b696d4",
+          "old_product_ids" : [
+            221184,
+            160163
+          ],
+          "product_url" : "https://go.skuvault.com/l/743343/2021-03-29/cy5v2",
+          "product_slug" : "SkuVault",
+          "former_name" : "SkuVault",
+          "logo_filepath" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/c79c3c1a-e76f-4421-bf66-f751bbf66cf9.png",
+          "vendor" : {
+            "vendor_id" : 2099150,
+            "vendor_name" : "SkuVault Inc.",
+            "vendor_url" : "http://skuvault.com/",
+            "year_founded" : 2011,
+            "location" : "United States",
+            "vendor_opted_out_of_reviews" : true,
+            "is_opted_out_of_reviews" : false,
+            "is_hit_limit" : false,
+            "enabled" : true,
+            "has_vendor_level_page" : false,
+            "slug" : null,
+            "vendor_page" : false,
+            "paused_campaign" : false
+          },
+          "category_short_name" : "scmxware",
+          "category_html_name" : "warehouse-management-software",
+          "category" : {
+            "id" : 30005,
+            "short_name" : "scmxware",
+            "long_name" : "Warehouse Management",
+            "html_name" : "warehouse-management-software",
+            "enabled" : true
+          },
+          "best_category" : "scmxware",
+          "is_best_category" : true,
+          "highest_cpc_category" : "scmxware",
+          "is_highest_cpc_category" : true,
+          "short_desc" : "SkuVault solves the most difficult challenge in eCommerce fulfillment: managing and tracking inventory at scale. ",
+          "long_desc" : "SkuVault solves the most difficult challenge in eCommerce fulfillment: managing and tracking inventory at scale. Our platform delivers transparency into inventory location, quantity, and velocity, and is the true centerpiece of all integrations. \n\nSkuVault enables clients to eliminate mis-ships, stockouts, and oversells. Our best in class  sales forecasting, order accuracy, and clear reporting help merchants create a clean and organized warehouse so they can sell more.",
+          "rating" : 4.6,
+          "number_of_reviews" : 40,
+          "total_reviews" : 49,
+          "ease_of_use_rating" : 4.3,
+          "customer_support_rating" : 4.7,
+          "functionality_rating" : 4.4,
+          "value_for_money_rating" : 4.3,
+          "recommendation_rating" : 8.7,
+          "pricing_enabled" : true,
+          "pricing" : 329.0,
+          "is_per_user" : false,
+          "fee_schedule" : "Per-Month",
+          "pricing_model" : "Flat Rate",
+          "pricing_details" : null,
+          "pricing_created_on" : "2019-08-21T14:47:39Z",
+          "pricing_modified_on" : "2022-07-04T05:17:32Z",
+          "pricing_created_by" : null,
+          "pricing_modified_by" : "Tripti Chawla",
+          "pricing_vendor_pricing_url" : "https://www.skuvault.com/pricing/",
+          "free_trial" : false,
+          "free_version" : false,
+          "target_audience" : "We serve medium, small, and enterprise level inventory-based businesses. We support multi-channel eCommerce merchants, manufacturers, 3PL, brick and mortar retailers, and everything in-between! ",
+          "target_users" : [
+            "2-10",
+            "11-50",
+            "51-200",
+            "201-500",
+            "501-1000"
+          ],
+          "platform" : [
+            {
+              "enabled" : true,
+              "name" : "Cloud, SaaS, Web-Based"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Mac"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Chromebook"
+            },
+            {
+              "enabled" : false,
+              "name" : "Mobile Android"
+            },
+            {
+              "enabled" : false,
+              "name" : "Mobile iPhone"
+            },
+            {
+              "enabled" : false,
+              "name" : "Mobile iPad"
+            }
+          ],
+          "support" : [
+            {
+              "enabled" : true,
+              "name" : "Email Help Desk"
+            },
+            {
+              "enabled" : true,
+              "name" : "FAQ Forum"
+            },
+            {
+              "enabled" : true,
+              "name" : "Knowledgebase"
+            },
+            {
+              "enabled" : true,
+              "name" : "Phone Support"
+            },
+            {
+              "enabled" : false,
+              "name" : "24/7 Live Rep"
+            },
+            {
+              "enabled" : true,
+              "name" : "Chat"
+            }
+          ],
+          "training" : [
+            {
+              "enabled" : false,
+              "name" : "Not Offered"
+            },
+            {
+              "enabled" : true,
+              "name" : "In-Person"
+            },
+            {
+              "enabled" : true,
+              "name" : "Live Online"
+            },
+            {
+              "enabled" : true,
+              "name" : "Webinars"
+            },
+            {
+              "enabled" : true,
+              "name" : "Documentation"
+            },
+            {
+              "enabled" : true,
+              "name" : "Videos"
+            }
+          ],
+          "media" : [
+            {
+              "product_id" : 139964,
+              "vendor_id" : 2099150,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/995eb1e4-4b45-47bd-be66-a48087b55899.png",
+              "caption" : "Wave Picking",
+              "weight" : 1,
+              "short_name" : "scmxware"
+            },
+            {
+              "product_id" : 139964,
+              "vendor_id" : 2099150,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/69d80dff-dc70-4813-b826-37ecc1210711.png",
+              "caption" : "Sync Status",
+              "weight" : 2,
+              "short_name" : "scmxware"
+            },
+            {
+              "product_id" : 139964,
+              "vendor_id" : 2099150,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/29d62c1e-fb42-4f62-ba23-1fd2334da9a9.png",
+              "caption" : "Suppliers",
+              "weight" : 3,
+              "short_name" : "scmxware"
+            },
+            {
+              "product_id" : 139964,
+              "vendor_id" : 2099150,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/3c0b1774-d290-4eba-8bbc-c362c20b284d.png",
+              "caption" : "Replenishment Report ",
+              "weight" : 4,
+              "short_name" : "scmxware"
+            },
+            {
+              "product_id" : 139964,
+              "vendor_id" : 2099150,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/8910ef4d-45cc-4670-8773-b14c16df06b3.png",
+              "caption" : "Data Coach",
+              "weight" : 5,
+              "short_name" : "scmxware"
+            },
+            {
+              "product_id" : 139964,
+              "vendor_id" : 2099150,
+              "media_type" : "VIDEO",
+              "path_url" : "https://www.youtube.com/watch?v=71XlAp5Pzos",
+              "caption" : null,
+              "weight" : 0,
+              "short_name" : "scmxware"
+            }
+          ],
+          "links" : [
+            {
+              "product_id" : 139964,
+              "functional_group" : "scmxware",
+              "html_code" : "https://go.skuvault.com/l/743343/2021-03-29/cy5ql",
+              "link_name" : "Free Trial",
+              "link_priority" : 1.0
+            },
+            {
+              "product_id" : 139964,
+              "functional_group" : "scmxware",
+              "html_code" : "https://go.skuvault.com/l/743343/2021-03-29/cy5v2",
+              "link_name" : "Free Demo",
+              "link_priority" : 2.0
+            },
+            {
+              "product_id" : 139964,
+              "functional_group" : "scmxware",
+              "html_code" : "https://go.skuvault.com/l/743343/2021-03-29/cy63n",
+              "link_name" : "Pricing",
+              "link_priority" : 3.0
+            },
+            {
+              "product_id" : 139964,
+              "functional_group" : "scmxware",
+              "html_code" : "https://www.skuvault.com/warehouse-management-system/features/inventory-management-system/",
+              "link_name" : "Quick Tour of Features",
+              "link_priority" : 4.0
+            },
+            {
+              "product_id" : 139964,
+              "functional_group" : "scmxware",
+              "html_code" : "https://www.skuvault.com/warehouse-management-system/integrations/",
+              "link_name" : "eCommerce Integrations",
+              "link_priority" : 5.0
+            }
+          ],
+          "features" : [
+            {
+              "category_name" : "Warehouse Management",
+              "category_features" : [
+                {
+                  "name" : "3PL Management",
+                  "value" : true,
+                  "id" : "5a2a547c-397c-443f-a12a-865eb435921b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Outsource and manage third party logistics"
+                },
+                {
+                  "name" : "Barcoding/RFID",
+                  "value" : true,
+                  "id" : "3a5789df-cab6-42d7-bf9c-1738cdee369f",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Identify and track items using barcode tags or RFID (radio-frequency identification) tags that contain electronically-stored data"
+                },
+                {
+                  "name" : "Forecasting",
+                  "value" : true,
+                  "id" : "af71a358-300d-4111-90b5-828ef869bb49",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Form predictions based on past and present data/trends"
+                },
+                {
+                  "name" : "Inventory Management",
+                  "value" : true,
+                  "id" : "80f46038-6ae8-4725-8064-788b20380eeb",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Track and manage the quantity of resources on hand to maintain proper supply"
+                },
+                {
+                  "name" : "Multi-Location",
+                  "value" : true,
+                  "id" : "cbb330d2-6199-479e-bc91-d95527b5dc05",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Business with more than one location/store"
+                },
+                {
+                  "name" : "Order Management",
+                  "value" : true,
+                  "id" : "3cca1a0a-36cc-4cfa-b90c-706cfd9542b6",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Organize, track, monitor and execute customer orders for goods, investments, or any other purchases"
+                },
+                {
+                  "name" : "Purchasing & Receiving",
+                  "value" : true,
+                  "id" : "36b48f1e-4461-4aba-ab95-0558764f1cea",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Buy necessary items in compliance with established business policies"
+                },
+                {
+                  "name" : "Quality Management",
+                  "value" : true,
+                  "id" : "de6610d2-7599-47d5-865e-ee0a7d45e210",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Focuses on improving production processes by collecting data and spotting bottlenecks or other challenges."
+                },
+                {
+                  "name" : "Real Time Synchronization",
+                  "value" : true,
+                  "id" : "95a4f2a5-1fc9-48fe-a51c-b90c3336a554",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Files and folders are updated in real-time when changes/edits are made"
+                },
+                {
+                  "name" : "Receiving/Putaway Management",
+                  "value" : true,
+                  "id" : "225a2a5c-0cc9-45a1-9b17-000092e5cf05",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Manage process from initial receipt of a load to when it is stocked in its final destination within a warehouse"
+                },
+                {
+                  "name" : "Returns Management",
+                  "value" : false,
+                  "id" : "fe78c200-411d-47c0-a700-1c29279ea31d",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track and facilitate refunds/returns of products sold"
+                },
+                {
+                  "name" : "Shipping Management",
+                  "value" : true,
+                  "id" : "fb1c8d2b-071c-4181-8188-48ff121fb41a",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Organize and track orders being sent and delivered to customers"
+                }
+              ]
+            },
+            {
+              "category_name" : "Inventory Control",
+              "category_features" : [
+                {
+                  "name" : "Barcoding/RFID",
+                  "value" : true,
+                  "id" : "3a5789df-cab6-42d7-bf9c-1738cdee369f",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Identify and track items using barcode tags or RFID (radio-frequency identification) tags that contain electronically-stored data"
+                },
+                {
+                  "name" : "Check-in/Check-out",
+                  "value" : false,
+                  "id" : "578adffb-94a9-4988-9785-00623cfe985c",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Track the status of assets and whether they're checked in or out"
+                },
+                {
+                  "name" : "Cost Tracking",
+                  "value" : true,
+                  "id" : "dbe00040-26b9-417e-a04b-7886b914b6fd",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Record and monitor cost related information of assets (i.e. budget for assets, equipment costs, revenues, etc.)"
+                },
+                {
+                  "name" : "Forecasting",
+                  "value" : true,
+                  "id" : "af71a358-300d-4111-90b5-828ef869bb49",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Form predictions based on past and present data/trends"
+                },
+                {
+                  "name" : "Inventory Optimization",
+                  "value" : true,
+                  "id" : "649b9e77-eb11-4a73-a4a9-2a8d679c3020",
+                  "avg_rating" : 3.5,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Balance and streamline inventory stock to meet customer service and revenue goals"
+                },
+                {
+                  "name" : "Inventory Tracking",
+                  "value" : true,
+                  "id" : "33800d6b-7dba-41cc-aaaf-788e4bf84ccb",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Monitor the movement and quantities of inventory items"
+                },
+                {
+                  "name" : "Item Management",
+                  "value" : true,
+                  "id" : "dea3f3c7-48da-4115-a4d4-83a3a59c48b5",
+                  "avg_rating" : 4.2,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Collect, organize, and track inventory/product data including item numbers, descriptions, etc."
+                },
+                {
+                  "name" : "Reorder Management",
+                  "value" : true,
+                  "id" : "e4450d36-99e4-43a6-9728-be64678f6757",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Purchase and replenish product stock based on inventory levels and needs"
+                },
+                {
+                  "name" : "SKU/UPC Codes",
+                  "value" : true,
+                  "id" : "c1ceacf8-9dbb-4d59-bf75-220d27da4a0b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Internal and external product tracking codes "
+                },
+                {
+                  "name" : "Serial Number Tracking",
+                  "value" : true,
+                  "id" : "240a9947-1095-46c7-907f-c19d1f491dfd",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Allows users to assign specific serial numbers to products and track them "
+                },
+                {
+                  "name" : "Supplier Management",
+                  "value" : true,
+                  "id" : "aa61511b-b73d-4fbb-a5f4-0ea85d124fcb",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Manage various aspects of the relationship with suppliers (e.g. interactions, history)"
+                }
+              ]
+            },
+            {
+              "category_name" : "Inventory Management",
+              "category_features" : [
+                {
+                  "name" : "Alerts/Notifications",
+                  "value" : false,
+                  "id" : "aef68b72-bd4c-4797-ae8c-4735512de81a",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Alerts/notifications within the system"
+                },
+                {
+                  "name" : "Forecasting",
+                  "value" : true,
+                  "id" : "af71a358-300d-4111-90b5-828ef869bb49",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Form predictions based on past and present data/trends"
+                },
+                {
+                  "name" : "Inventory Optimization",
+                  "value" : true,
+                  "id" : "649b9e77-eb11-4a73-a4a9-2a8d679c3020",
+                  "avg_rating" : 3.5,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : "Balance and streamline inventory stock to meet customer service and revenue goals"
+                },
+                {
+                  "name" : "Kitting",
+                  "value" : true,
+                  "id" : "2b26681c-7b14-4b9a-813b-53d5b111dc5f",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Group and package individual but related items as one package set"
+                },
+                {
+                  "name" : "Manufacturing Inventory Management",
+                  "value" : false,
+                  "id" : "71975696-b255-4db0-9a19-28d7463f5d1f",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Software specialized for manufacturers to track work orders, bills of materials, and manufacture orders to help streamline operations"
+                },
+                {
+                  "name" : "Mobile Access",
+                  "value" : true,
+                  "id" : "15d49235-ad13-4d33-b009-edd50126375b",
+                  "avg_rating" : 1.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Access the software remotely via mobile devices"
+                },
+                {
+                  "name" : "Multi-Channel Management",
+                  "value" : true,
+                  "id" : "b613ec2b-67fb-4995-aa41-7aead6a66dbf",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Organize and maintain inventory levels across all channels (i.e. retail store, warehouse, etc.) based on demand and channel performance"
+                },
+                {
+                  "name" : "Product Identification",
+                  "value" : true,
+                  "id" : "6a824586-2515-48d0-9879-cd89e20706fb",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Ability to link barcodes or serial numbers with specific items for identification"
+                },
+                {
+                  "name" : "Reorder Management",
+                  "value" : true,
+                  "id" : "e4450d36-99e4-43a6-9728-be64678f6757",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Purchase and replenish product stock based on inventory levels and needs"
+                },
+                {
+                  "name" : "Reporting/Analytics",
+                  "value" : true,
+                  "id" : "b0c186d0-0194-4300-abba-ca3bc2474bbe",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "View and track pertinent metrics"
+                },
+                {
+                  "name" : "Retail Inventory Management",
+                  "value" : true,
+                  "id" : "84b52988-b934-41dc-8664-fc2d8a33734e",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Software specialized for retailers (i.e. business that sell consumer goods) to maintain adequate levels of product stock"
+                },
+                {
+                  "name" : "Supplier Management",
+                  "value" : true,
+                  "id" : "aa61511b-b73d-4fbb-a5f4-0ea85d124fcb",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Manage various aspects of the relationship with suppliers (e.g. interactions, history)"
+                },
+                {
+                  "name" : "Warehouse Management",
+                  "value" : true,
+                  "id" : "7753b90c-778c-4e25-8322-71085d53c9de",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Software specialized for managing warehouses and tracking where inventory is located within the warehouses"
+                }
+              ]
+            }
+          ],
+          "infographics" : [ ],
+          "related_products" : [
+            {
+              "product_id" : 174984,
+              "seo_product_id" : 46497,
+              "seo_slug" : "QuickBooks",
+              "vendor_name" : "Intuit",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/90cac4f1-9eba-4d30-9949-91da634d4da5.png",
+              "rating" : 4.5,
+              "total_reviews" : 19511,
+              "slug" : "QuickBooks-Enterprise",
+              "product_name" : "QuickBooks Desktop Enterprise",
+              "short_desc" : "The leading accounting software for small businesses. Instant access to customer, vendor and employee information.",
+              "features" : "QuickBooks Enterprise (Save Up to 40%) is an end-to-end accounting software that can grow with your business. It provides all the tools your business needs, yet is easy to use. You can organize your books, manage inventory, track sales, and even run payroll, but at the fraction of the cost. With QuickBooks Enterprise, you save thousands of dollars a year vs. comparable solutions. Powerful and flexible, it also comes in editions designed to fit your specific needs. Take a free test drive today.",
+              "url" : "https://ad.doubleclick.net/ddm/trackclk/N5506.813334.CAPTERRA.COM/B26893105.322108274;dc_trk_aid=514412108;dc_trk_cid=162502355;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd="
+            },
+            {
+              "product_id" : 142562,
+              "seo_product_id" : 152499,
+              "seo_slug" : "Asset-Panda",
+              "vendor_name" : "Asset Panda",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/0fc62cea-a7a8-4449-a507-2a6bfeadbb6d.png",
+              "rating" : 4.6,
+              "total_reviews" : 1316,
+              "slug" : "Asset-Panda",
+              "product_name" : "Asset Panda",
+              "short_desc" : "Asset tracking platform that is cloud-based with mobile apps (IOS/Android).  Rated Excellent by PC Mag! Get a free guided demo today!",
+              "features" : "Asset Panda is a powerful Cloud/Mobile App warehouse management and tool tracking platform. We help people track, manage and support their tools throughout their life cycle. Our software is configured to the way our clients work, secure and leverages the mobile devices your employees already carry. Get a free guided demo today!",
+              "url" : "https://info.assetpanda.com/capterra-lp?utm_medium=cpc&utm_campaign=warehouse+management&dc=warehouse"
+            },
+            {
+              "product_id" : 145635,
+              "seo_product_id" : 152541,
+              "seo_slug" : "UpKeep",
+              "vendor_name" : "UpKeep Technologies",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4e7b9786-fe6c-40d1-a26c-a304326fa220.png",
+              "rating" : 4.6,
+              "total_reviews" : 1234,
+              "slug" : "UpKeep",
+              "product_name" : "UpKeep",
+              "short_desc" : "Upkeep is an Asset Operations Management solution combining CMMS, EAM and APM for maintenance, reliability and operations teams.",
+              "features" : "Upkeep is an Asset Operations Management solution that helps businesses scale by giving every Maintenance and Reliability team the tools and information they need to run Operations efficiently and effectively. \n\nUpKeep gives you a central command center to efficiently manage all your work orders, assets, and maintenance to deliver fast resolutions. UpKeep enables you to create one front door for all your technicians to go through for all services and support. ",
+              "url" : "https://upkeep.com/demo?utm_medium=ppc&utm_term=mainlisting-trial"
+            },
+            {
+              "product_id" : 124047,
+              "seo_product_id" : 223351,
+              "seo_slug" : "EZOfficeInventory",
+              "vendor_name" : "EZOfficeInventory",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/01c34458-7301-4329-b6a4-f8a41bb92ca1.png",
+              "rating" : 4.6,
+              "total_reviews" : 1201,
+              "slug" : "EZOfficeInventory",
+              "product_name" : "EZOfficeInventory",
+              "short_desc" : "Track and manage assets & inventory across locations. Scan Barcodes, QR Codes & RFID tags in bulk with leading asset tracking software.",
+              "features" : "Our leading asset management software enables you to track items across different locations and sub-locations. Manage costs, schedule services, and customize alerts and stock thresholds for greater control. RFID, QR Code and Barcode scanning functionality makes checkouts and audits a breeze - even from the warehouse! Full location histories and actionable reports make this a must have for all your warehouse management needs. Try us out for free with a 15 day trial!",
+              "url" : "https://www.ezofficeinventory.com/industries/inventory-tracking-software?r=capterra_warehouse"
+            },
+            {
+              "product_id" : 128334,
+              "seo_product_id" : 226054,
+              "seo_slug" : "ShippingEasy",
+              "vendor_name" : "ShippingEasy",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/348d4416-ebb7-4de3-834c-bbe200983e36.png",
+              "rating" : 4.8,
+              "total_reviews" : 1080,
+              "slug" : "ShippingEasy",
+              "product_name" : "ShippingEasy",
+              "short_desc" : "ShippingEasy's Warehouse Management solution provides insights you need to stay on top of your shipping, customers, and tracking.",
+              "features" : "ShippingEasy Warehouse Management allows you print labels, manage orders, automate shipping, track shipments, and notify recipients-all in one easy-to-use, cloud-based shipping platform. Get the insights you need to stay on top of your shipping, customers, and tracking, all in one place. Report your data your way with the ability to completely customize a report for all your Warehouse Management needs.",
+              "url" : "https://shippingeasy.com/capterra-reviews/?ref=Capterra_ShippingEasyPaid_Listings&utm_source=capterra&utm_medium=cpc&utm_campaign=ShippingEasyPaid_Listings"
+            },
+            {
+              "product_id" : 135757,
+              "seo_product_id" : 212456,
+              "seo_slug" : "NetSuite",
+              "vendor_name" : "Oracle",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/70a405ae-214e-4735-8e1f-ce093f53f337.png",
+              "rating" : 4.1,
+              "total_reviews" : 856,
+              "slug" : "NetSuite",
+              "product_name" : "NetSuite",
+              "short_desc" : "Increase efficiency and effectiveness of the warehouse with NetSuite WMS.",
+              "features" : "NetSuite Warehouse Management System (WMS) optimizes warehouse operations and minimizes handling costs by eliminating manual processes.  Users are guided through daily warehouse tasks associated with inbound and outbound logistics and storage. Data is recorded in real-time using a mobile device, ensuring inventory records are always accurate and up to date. Pre-defined pick, pack, and ship strategies ensure outbound orders are fulfilled quickly and accurately.  \n",
+              "url" : "https://6262239.extforms.netsuite.com/app/site/crm/externalleadpage.nl/compid.6262239/.f?formid=1077&h=AAFdikaISefcMe2YPHD_DSZJ-d6qkkAwUBrY2qU9JGa6Yxr2kKc&leadsource=Online_Capterra_WM_2023&cid=Online_Capterra_WM_2023"
+            },
+            {
+              "product_id" : 221060,
+              "seo_product_id" : 212456,
+              "seo_slug" : "NetSuite",
+              "vendor_name" : "Oracle",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/70a405ae-214e-4735-8e1f-ce093f53f337.png",
+              "rating" : 4.1,
+              "total_reviews" : 856,
+              "slug" : "NetSuite",
+              "product_name" : "NetSuite",
+              "short_desc" : "Increase efficiency and effectiveness of the warehouse with NetSuite WMS.",
+              "features" : "NetSuite Warehouse Management System (WMS) optimizes warehouse operations and minimizes handling costs by eliminating manual processes.  Users are guided through daily warehouse tasks associated with inbound and outbound logistics and storage. Data is recorded in real-time using a mobile device, ensuring inventory records are always accurate and up to date. Pre-defined pick, pack, and ship strategies ensure outbound orders are fulfilled quickly and accurately.  \n",
+              "url" : "http://www.netsuite.com/portal/landing/netsuite-compare-page-capterra.html"
+            },
+            {
+              "product_id" : 123794,
+              "seo_product_id" : 57990,
+              "seo_slug" : "Fishbowl",
+              "vendor_name" : "Fishbowl",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4ccaccf1-0e36-45c8-9ccb-4df1733bd616.png",
+              "rating" : 4.2,
+              "total_reviews" : 769,
+              "slug" : "Fishbowl",
+              "product_name" : "Fishbowl",
+              "short_desc" : "Our warehouse inventory management includes advanced work orders, material requirements planning (MRP), bills of materials and more.",
+              "features" : "Your business runs on your inventory, so improve the way you handle inventory management. Fishbowl's complete warehouse management solution is designed to simplify and automate all aspects of the warehouse process for your organization. Our solution includes advanced work orders, material requirements planning (MRP), bills of materials, barcode scanning and much more-all at a great price.",
+              "url" : "https://try.fishbowlinventory.com/capterra-warehouse-management?utm_source=capterra&utm_medium=cpc&utm_campaign=Warehouse+Management"
+            },
+            {
+              "product_id" : 133133,
+              "seo_product_id" : 152445,
+              "seo_slug" : "Cin7",
+              "vendor_name" : "Cin7",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/56fe047c-0333-4d1b-b4ec-f41f678c2715.png",
+              "rating" : 4.3,
+              "total_reviews" : 495,
+              "slug" : "Cin7",
+              "product_name" : "Cin7",
+              "short_desc" : "Cin7 is a highly configurable inventory management, and order management solution with best-in-class built-in EDI and 700 integrations.",
+              "features" : "Cin7 is a highly configurable inventory management and order management solution with built-in EDI and integrations to all the popular eCommerce platforms, marketplaces, and 3PLs. It's best-in-class for all combinations of B2B and D2C sales channels, warehouses, shipping, and fulfillment. Cin7 provides exceptional automations, workflows, reports, and analysis to enable brands, retailers, and wholesalers to operate efficiently as they scale and efficiently match demand to supply. ",
+              "url" : "https://get.cin7.com/integrated-warehouse-management-capterra?utm_campaign=Capterra&utm_source=ppc&utm_term=wms"
+            },
+            {
+              "product_id" : 143110,
+              "seo_product_id" : 227399,
+              "seo_slug" : "QuickBooks-Commerce",
+              "vendor_name" : "Intuit",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/a04a169b-1159-4018-9bf6-d3f3f966fa7d.png",
+              "rating" : 4.5,
+              "total_reviews" : 480,
+              "slug" : "TradeGecko",
+              "product_name" : "QuickBooks Commerce",
+              "short_desc" : "QuickBooks Commerce enables you to manage inventory and orders for your multichannel business and keep track of products.",
+              "features" : "QuickBooks Commerce enables you to manage inventory and orders for your multichannel business and keep track of your products as you sell and restock across multiple warehouse locations and channels. \n\nQuickBooks Commerce allows brands to automate and integrate their commerce platforms and get powerful insights into all their sales data on-demand.",
+              "url" : "https://quickbooks.intuit.com/quickbooks-commerce/"
+            },
+            {
+              "product_id" : 135618,
+              "seo_product_id" : 135618,
+              "seo_slug" : "Odoo",
+              "vendor_name" : "Odoo",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/17efceca-38ea-4e7e-83dc-2cdd9fb0987f.png",
+              "rating" : 4.1,
+              "total_reviews" : 463,
+              "slug" : "Odoo",
+              "product_name" : "Odoo ",
+              "short_desc" : "A fully integrated app that helps users manage their warehouses efficiently, by avoiding stock-outs, and maximizing inventory.",
+              "features" : "Odoo Inventory seamlessly integrates all basic warehouse operations, such as delivery orders, inventory counts, incoming shipments, quality-control tests, automatic packing, scrapping, and transferring, just to name a few. Managers can easily control their warehouse, and maximize inventory efficiency, by reducing stock levels and avoiding stock-outs, thanks to the innovative, extremely efficient interface of Odoo Inventory.",
+              "url" : "https://www.odoo.com/page/warehouse?utm_campaign=warehouse-management&utm_medium=cpc-review&utm_source=capterra"
+            }
+          ],
+          "similar_products" : [
+            {
+              "product_id" : 123794,
+              "seo_product_id" : 57990,
+              "seo_slug" : "Fishbowl",
+              "vendor_name" : "Fishbowl",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4ccaccf1-0e36-45c8-9ccb-4df1733bd616.png",
+              "rating" : 4.2,
+              "total_reviews" : 769,
+              "slug" : "Fishbowl",
+              "product_name" : "Fishbowl",
+              "short_desc" : "Our warehouse inventory management includes advanced work orders, material requirements planning (MRP), bills of materials and more.",
+              "features" : "Your business runs on your inventory, so improve the way you handle inventory management. Fishbowl's complete warehouse management solution is designed to simplify and automate all aspects of the warehouse process for your organization. Our solution includes advanced work orders, material requirements planning (MRP), bills of materials, barcode scanning and much more-all at a great price.",
+              "url" : "https://try.fishbowlinventory.com/freetrialprogressiveform-capterra/?utm_source=capterra&utm_medium=cpc&utm_campaign=Default"
+            },
+            {
+              "product_id" : 135757,
+              "seo_product_id" : 212456,
+              "seo_slug" : "NetSuite",
+              "vendor_name" : "Oracle",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/70a405ae-214e-4735-8e1f-ce093f53f337.png",
+              "rating" : 4.1,
+              "total_reviews" : 856,
+              "slug" : "NetSuite",
+              "product_name" : "NetSuite",
+              "short_desc" : "Increase efficiency and effectiveness of the warehouse with NetSuite WMS.",
+              "features" : "NetSuite Warehouse Management System (WMS) optimizes warehouse operations and minimizes handling costs by eliminating manual processes.  Users are guided through daily warehouse tasks associated with inbound and outbound logistics and storage. Data is recorded in real-time using a mobile device, ensuring inventory records are always accurate and up to date. Pre-defined pick, pack, and ship strategies ensure outbound orders are fulfilled quickly and accurately.  \n",
+              "url" : "https://6262239.extforms.netsuite.com/app/site/crm/externalleadpage.nl?compid=6262239&formid=2332&h=AAFdikaISXcjhmkzuQ25OBfGrJSFmJ9yfiPm280zU3KRQSmNnCM&leadsource=Online_Capterra_NewLP_Accounting_2023&cid=Online_Capterra_NewLP_Accounting_2023"
+            },
+            {
+              "product_id" : 96371,
+              "seo_product_id" : 217145,
+              "seo_slug" : "Acumatica-Canada",
+              "vendor_name" : "Acumatica",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/f91a3546-4335-4653-8195-59f92b43c5dc.png",
+              "rating" : 4.4,
+              "total_reviews" : 55,
+              "slug" : "Acumatica-Cloud-ERP",
+              "product_name" : "Acumatica Cloud ERP",
+              "short_desc" : "Acumatica Distribution Edition and its Warehouse Management System simplify warehouse processes and support advanced business needs.",
+              "features" : "Acumatica Distribution Edition, empowered by artificial intelligence and machine learning, automates warehouse operations, streamlines the pick, pack, and ship process, and prioritizes picking queues. All this happens in a user-friendly, mobile interface, available anytime, anywhere. Acumatica also offers a Warehouse Management System, which extends the Distribution Edition to efficiently support other advanced warehouse requirements, such as barcode scanning and lot/serial number tracking.",
+              "url" : "https://www.acumatica.com/erp-demo-video-v2?utm_medium=cpc&utm_campaign=default"
+            },
+            {
+              "product_id" : 133133,
+              "seo_product_id" : 152445,
+              "seo_slug" : "Cin7",
+              "vendor_name" : "Cin7",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/56fe047c-0333-4d1b-b4ec-f41f678c2715.png",
+              "rating" : 4.3,
+              "total_reviews" : 495,
+              "slug" : "Cin7",
+              "product_name" : "Cin7",
+              "short_desc" : "Cin7 is a highly configurable inventory management, and order management solution with best-in-class built-in EDI and 700 integrations.",
+              "features" : "Cin7 is a highly configurable inventory management and order management solution with built-in EDI and integrations to all the popular eCommerce platforms, marketplaces, and 3PLs. It's best-in-class for all combinations of B2B and D2C sales channels, warehouses, shipping, and fulfillment. Cin7 provides exceptional automations, workflows, reports, and analysis to enable brands, retailers, and wholesalers to operate efficiently as they scale and efficiently match demand to supply. ",
+              "url" : "https://www.cin7.com/?utm_campaign=Capterra&utm_source=ppc&utm_term=main"
+            },
+            {
+              "product_id" : 15705,
+              "seo_product_id" : 15705,
+              "seo_slug" : "Da-Vinci-Supply-Chain-Business-Suite",
+              "vendor_name" : "Wolin Design Group",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d916829c-b5b7-4574-aab8-e556b0569fbb.png",
+              "rating" : 4.5,
+              "total_reviews" : 16,
+              "slug" : "Da-Vinci-Supply-Chain-Business-Suite",
+              "product_name" : "Da Vinci Supply Chain Business Suite",
+              "short_desc" : "WMS solutions with over 20 years of success in 3PL, wholesale distribution and online-retail. Powerful, yet affordable.",
+              "features" : "The Da Vinci Supply Chain Business Suite has been the preferred solution in third-party logistics, wholesale distribution and online-retail for over 20 years.  Da Vinci provides warehouse management software, transportation management software, yard management software, order management software, integrated EDI/ERP and shopping cart integration, third-party billing, and a customer web portal for the third-party logistics (3PL) industry. Delivering the most affordable, high performance WMS.",
+              "url" : "https://wdgcorp.com/request-demo"
+            },
+            {
+              "product_id" : 54053,
+              "seo_product_id" : 54053,
+              "seo_slug" : "Without-Wire-Warehouse",
+              "vendor_name" : "WithoutWire Inventory Sciences",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/6709043e-9548-4858-8e35-5deb3d0ff497.png",
+              "rating" : 4.8,
+              "total_reviews" : 4,
+              "slug" : "Without-Wire-Warehouse",
+              "product_name" : "WithoutWire",
+              "short_desc" : "The WithoutWire Inventory Platform WMS is built for complex inventory management and provides a single source of inventory truth.",
+              "features" : "The WithoutWire Inventory Platform WMS is built for complex inventory management. With one mobile app that can be deployed across iOS and Android platforms, rugged or consumer devices, our Inventory Platform WMS is easy to integrate and offers top-notch security for every kind of user.\n\nWithoutWire gives you one source of inventory truth with real-time allocation, smarter decision making, and an improved customer experience.",
+              "url" : "https://withoutwire.com/"
+            },
+            {
+              "product_id" : 86175,
+              "seo_product_id" : 223973,
+              "seo_slug" : "3PL-Warehouse-Manager",
+              "vendor_name" : "Extensiv",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/aa5db659-0bba-4ead-a698-79ad8eedfae5.png",
+              "rating" : 4.1,
+              "total_reviews" : 111,
+              "slug" : "3PL-Warehouse-Manager",
+              "product_name" : "3PL Warehouse Manager",
+              "short_desc" : "Cloud-based WMS solutions for 3PLs so they can focus on customer satisfaction, efficient operations, and growing their business.",
+              "features" : "Designed by warehouse management experts, 3PL Centrals WMS solutions enable 3PLs and warehouses to grow their businesses, turbocharge their operations and satisfy all of their customers. The most popular cloud-based WMS available on the market, our solution offers turnkey EDI integration, global visibility, automated billing management, innovative packing and shipping features, mobile bar-code scanning capabilities, and more. Reqeust a demo today.",
+              "url" : "https://www.3plcentral.com/request-demo?utm_campaign=%5B3PL%20Central%5D%20Capterra&utm_source=Capterra&utm_medium=Review%20Site"
+            },
+            {
+              "product_id" : 221819,
+              "seo_product_id" : 221819,
+              "seo_slug" : "Increff-ASSURE",
+              "vendor_name" : "Increff",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/f1345834-4c51-4077-ac25-4a02094e08ae.png",
+              "rating" : 0.0,
+              "total_reviews" : 0,
+              "slug" : "Increff-ASSURE",
+              "product_name" : "Increff WMS",
+              "short_desc" : "Increff WMS is a web-based multichannel fulfillment platform, exposing a single view of inventory to both offline and online channels. ",
+              "features" : "Recognized in Gartner reports, Increff WMS is a comprehensive web-based cloud-hosted WMS & OMS  solution for e-commerce brands to expose 100% inventory across offline & online channels, simultaneously. The world's simplest, most efficient multi-channel order fulfillment & inventory management solution is quick to integrate & easy to implement. It facilitates 100% stock tracking with serialization, +99.5% order fulfillment within SLA, and near real-time Inventory order syncing time to prevent. ",
+              "url" : "https://www.increff.com/warehouse-management-system?utm_source=Capterra&utm_medium=CPC&utm_campaign=Warehouse_Management"
+            },
+            {
+              "product_id" : 159292,
+              "seo_product_id" : 225844,
+              "seo_slug" : "Foysonis",
+              "vendor_name" : "Foysonis",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4540f4b7-86ed-4606-ba31-a83c522885b2.png",
+              "rating" : 4.5,
+              "total_reviews" : 2,
+              "slug" : "Foysonis-WMS",
+              "product_name" : "Foysonis",
+              "short_desc" : "Foysonis is a cloud-powered modern WMS to run 21st century warehouse operations. ",
+              "features" : "Foysonis is a cloud-powered modern WMS to run 21st century warehouse operations. Our WMS is perfect for 3PL, Freight Forwarding, Distribution, eCommerce and Retail businesses of all sizes from small to large companies. Foysonis  WMS  will help you receive products with barcodes and smart mobile devices, fulfill orders accurately, ship products on parcel and LTL/TL carriers.  With Foysonis, you get a reliable warehouse management system, modern user interface and world class support.",
+              "url" : "https://www.foysonis.com/wms-trial"
+            },
+            {
+              "product_id" : 133038,
+              "seo_product_id" : 221127,
+              "seo_slug" : "DEAR-Systems",
+              "vendor_name" : "DEAR Systems",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/0cc771b5-698c-4197-889d-7a599a92e427.png",
+              "rating" : 4.3,
+              "total_reviews" : 289,
+              "slug" : "DEAR-Inventory",
+              "product_name" : "DEAR Systems",
+              "short_desc" : "Everything in one system including accounting, eCommerce, inventory management, manufacturing,and POS at a fraction of the cost of ERPs",
+              "features" : "Everything in one system including accounting, eCommerce, inventory management, manufacturing, and POS at a fraction of the cost of ERPs. Manage orders from multiple channels, including eCommerce channels with automations and great integrations. Track stock levels and stock on hand value for raw materials, components, finished goods, and more. Made-to-order, assembly, manufacturing and component traceability features automatically maintain stock movements and keep accounts free of discrepancies.",
+              "url" : "https://dearsystems.com/?utm_campaign=Capterra&utm_source=ppc&utm_term=free-trial"
+            },
+            {
+              "product_id" : 126854,
+              "seo_product_id" : 126854,
+              "seo_slug" : "Peoplevox-WMS",
+              "vendor_name" : "Descartes Systems Group",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/2591acb5-5644-4ce9-8574-cba781170f43.png",
+              "rating" : 4.7,
+              "total_reviews" : 22,
+              "slug" : "Peoplevox-WMS",
+              "product_name" : "Peoplevox WMS",
+              "short_desc" : "Descartes Peoplevox is a warehouse system built for direct brands.",
+              "features" : "Peoplevox forms a crucial part of the Descartes offering for online and direct brands, as well as e-commerce businesses. It's a team of experts focussed on helping high-growth businesses deliver remarkable customer experiences through their warehouse. This means:\r\n\r\ni) No wrong items sent to the customer\r\n\r\nii) Every order is confirmed, and none are cancelled after the point of sale\r\n\r\niii) Every order gets out the warehouse and delivered to the customer on time, as promised.\r\n\r\n\r\n\r\n\r\n",
+              "url" : "https://www.descartes.com/lp/peoplevox-v1?utm_source=Capterra&utm_medium=cpc&utm_campaign=CapterraPeoplevox"
+            },
+            {
+              "product_id" : 151887,
+              "seo_product_id" : 151887,
+              "seo_slug" : "Novacura-Flow",
+              "vendor_name" : "NovaCura AB",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/b7792b49-5412-49e3-b0d0-a321b2b552f8.png",
+              "rating" : 4.4,
+              "total_reviews" : 14,
+              "slug" : "Novacura-Flow",
+              "product_name" : "Novacura Flow",
+              "short_desc" : "Warehouse Management Software: Simple and user-friendly Applications. Fast to implement, easy to customize. Connect to any ERP.",
+              "features" : "The Warehouse Management Solution comprises different versatile warehouse apps preferably used to reduce errors and increase the productivity of warehouse-related processes.\n\nBenefits: \n\n- Easy to customize and fast to implement,\n- Dedicated to expand most popular ERP systems,\n- 50+ connectors to popular business systems,\n- Runs on any device,\n- Extensive library of ready-to-use workflows that you can use in your own business.\n\nContact us to learn more.",
+              "url" : "http://www.novacura.com?utm_source=gartner"
+            }
+          ],
+          "related_categories" : [
+            {
+              "functional_group" : "scmxware",
+              "long_name" : "Distribution",
+              "html_name" : "distribution-software",
+              "link_name" : "distribution",
+              "product_count" : 130,
+              "meta_description" : "Find and compare top Distribution software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Distribution tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/distribution-software>Distribution software</a> manages processes including inventory tracking and warehousing.  These applications increase efficiency and reduce costs by allowing key data to be easily shared throughout an enterprise. Distribution solutions typically provide <a href=\"/inventory-control-software\">inventory controls</a> and tracking as well as channel monitoring features.  <a href=/distribution-software>Distribution software</a> often provides integration for sales, purchase orders and pricing information, vendor and customer contact information along with accounting and business reporting tools.   <a href=/distribution-software>Distribution software</a> is related to <a href=/logistics-software>Logistics software</a>, <a href=/shipping-software>Shipping software</a> and <a href=/warehouse-management-software>Warehouse Management software</a>."
+            },
+            {
+              "functional_group" : "scmxware",
+              "long_name" : "Inventory Management",
+              "html_name" : "inventory-management-software",
+              "link_name" : "inventory-management",
+              "product_count" : 238,
+              "meta_description" : "Find and compare top Inventory Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Inventory Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/inventory-management-software\">Inventory Management software</a> monitors inventory levels for optimal production and distribution of goods for wholesale or retail.  These applications enable organizations to efficiently manage inventory as well as procurement and order fulfillment functions. Inventory Management solutions ensure accurate real-time inventory reporting and the ability to distribute this essential data across multiple locations and throughout an enterprise.  <a href=\"/inventory-management-software\">Inventory Management software</a> is related to <a href=\"/inventory-control-software\">Inventory Control software</a> and <a href=\"/supply-chain-management-software\">Supply Chain Management software</a>."
+            },
+            {
+              "functional_group" : "scmxware",
+              "long_name" : "Logistics",
+              "html_name" : "logistics-software",
+              "link_name" : "logistics",
+              "product_count" : 167,
+              "meta_description" : "Find and compare top Logistics software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Logistics tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/logistics-software>Logistics software</a> automates warehousing, transportation management, shipping and other logistical functions, monitoring the flow of products from supplier to end user.  These applications provide a wide variety of features including:  <a href=\"/inventory-control-software\">inventory control</a>, warehousing, <a href=\"/purchasing-software\">purchasing</a> and receiving, sales and shipping, barcode / RFID scanning and label printing. Logistics solutions typically offer integration for vendor and customer management, accounting, and business reporting tools.  <a href=/logistics-software>Logistics software</a> is related to <a href=\"/distribution-software\">Distribution software</a>, <a href=\"/rfid-software\">RFID software</a>, <a href=/shipping-software>Shipping software</a>, <a href=/trucking-software>Trucking software</a> and <a href=/warehouse-management-software>Warehouse Management software</a>."
+            },
+            {
+              "functional_group" : "scmxware",
+              "long_name" : "Order Management",
+              "html_name" : "order-management-software",
+              "link_name" : "order-management",
+              "product_count" : 89,
+              "meta_description" : "Find and compare top Order Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Order Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/order-management-software>Order Management software</a> enables the management of orders from initial acceptance to shipment of a finished good.  These applications provide customized tools to match an operations workflow, business rules, integration needs, data capture requirements, merchandising techniques and multi-channel sales strategy.  Order Management solutions also typically offer real-time integration with <a href=\"/inventory-control-software\">inventory control</a>, order management, payment processing, marketing and <a href=\"/customer-relationship-management-software\">customer relationship management</a>, helping to optimize costs and increase efficiency.  <a href=/order-management-software>Order Management software</a> is related to <a href=\"/ecommerce-software\">eCommerce software</a> and <a href=/order-entry-software>Order Entry software</a>."
+            },
+            {
+              "functional_group" : "scmxware",
+              "long_name" : "Supply Chain Management",
+              "html_name" : "supply-chain-management-software",
+              "link_name" : "supply-chain-management",
+              "product_count" : 217,
+              "meta_description" : "Find and compare top Supply Chain Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Supply Chain Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/supply-chain-management-software>Supply Chain Management software</a> automates the flow of processes from raw materials through to delivery of finished goods to the consumer.  These applications allow for organization-wide order processing, transportation and <a href=\"/warehouse-management-software\">warehouse management</a> along with planning and forecasting tools.  <a href=/supply-chain-management-software>Supply Chain Management software</a> provides for efficient operation through the distribution and synchronization of this key data across multiple locations and throughout an enterprise.  <a href=/supply-chain-management-software>Supply Chain Management software</a> is related to <a href=/inventory-management-software>Inventory Management software</a>."
+            }
+          ],
+          "is_upgraded" : true,
+          "enabled" : true,
+          "filter_options" : {
+            "users" : 62,
+            "platform" : 1,
+            "pricing_options" : 2,
+            "category_related_features" : [
+              20461,
+              20463,
+              20466,
+              20471,
+              20474,
+              20475,
+              20476,
+              20477,
+              20482,
+              31891,
+              31895,
+              39298,
+              40587,
+              40588,
+              55301,
+              55302,
+              55303,
+              55304,
+              55306,
+              55309,
+              55311,
+              55313,
+              55314,
+              55315,
+              55316,
+              55317,
+              55322,
+              55323,
+              55324,
+              55325,
+              55326,
+              55328,
+              55329,
+              55332,
+              55334
+            ],
+            "employees" : 126
+          },
+          "sort_options" : {
+            "sort_review_rating" : 4.539120674133301,
+            "most_recent_review" : "2021-11-17T13:06:15Z"
+          },
+          "countries" : "CA,US",
+          "features_tokenized_text" : "3pl_management barcoding/rfid forecasting inventory_management multi-location order_management purchasing_&_receiving quality_management real_time_synchronization receiving/putaway_management shipping_management",
+          "platform_tokenized_text" : "cloud,saas,web-based",
+          "users_tokenized_text" : "2-10 11-50 51-200 201-500 501-1000",
+          "pricing_tokenized_text" : "monthlysubscription",
+          "badges" : [ ],
+          "bid_spot_us" : 8.0,
+          "currency_code" : "USD",
+          "currency_symbol" : "$",
+          "credit_card_required" : null,
+          "licensing_model" : null,
+          "open_api_offered" : "Yes",
+          "mobile_urls" : [
+            {
+              "name" : "iOS",
+              "url" : "https://itunes.apple.com/us/app/skuvault/id1230216446?mt=8"
+            },
+            {
+              "name" : "Android",
+              "url" : "https://play.google.com/store/apps/details?id=com.agileharbor.skuvault&hl=en_US"
+            }
+          ],
+          "integrations" : [
+            {
+              "id" : "167b3492-24f8-4060-aa97-a6d200b77ff8",
+              "name" : "WooCommerce"
+            },
+            {
+              "id" : "44278a9e-09e7-4c4b-92d9-1a3739abe0ec",
+              "name" : "QuickBooks Online Advanced"
+            },
+            {
+              "id" : "d0624e03-03c8-4207-acc7-a6d200b3246d",
+              "name" : "ChannelAdvisor"
+            },
+            {
+              "id" : "ff8cc380-8bfb-4161-b5d9-a6d200b68846",
+              "name" : "Shopify"
+            },
+            {
+              "id" : "8d9e9a11-9d0f-4534-91ba-a6d200b68846",
+              "name" : "ShipStation"
+            },
+            {
+              "id" : "53dc783d-b40c-4405-b67b-a6d200b6c8b9",
+              "name" : "SureDone"
+            },
+            {
+              "id" : "dec51e33-98a0-47b2-8ce4-a6d200b760a7",
+              "name" : "Volusion"
+            },
+            {
+              "id" : "68b57f86-e9d3-455f-a5a4-a6d200b28511",
+              "name" : "Shift4Shop"
+            },
+            {
+              "id" : "14f66ecf-7da3-4633-b5e6-a6d200b5007d",
+              "name" : "Adobe Commerce"
+            },
+            {
+              "id" : "6a680041-f372-46f3-a3e9-a6d200b556c0",
+              "name" : "NetSuite"
+            },
+            {
+              "id" : "8c7f8bf5-dbf6-47ee-9df7-a6d200b64092",
+              "name" : "Salesforce Sales Cloud"
+            },
+            {
+              "id" : "fb23d4b4-b33d-4b66-9bba-a6d200b2e0b2",
+              "name" : "BigCommerce"
+            },
+            {
+              "id" : "212e1917-864a-40ba-aaf6-a6e200cda45d",
+              "name" : "Sage Business Cloud"
+            },
+            {
+              "id" : "043500a0-1393-4a61-9a54-a6d200b58406",
+              "name" : "OpenCart"
+            },
+            {
+              "id" : "486ac5cb-597b-44d3-880a-a6d200b58407",
+              "name" : "Oracle CRM On Demand"
+            },
+            {
+              "id" : "2d588de6-6e25-4c52-955b-a6d200b7915e",
+              "name" : "X-Cart"
+            },
+            {
+              "id" : "5c703aa3-ef61-4417-a578-42b7f0aa4dc2",
+              "name" : "Square Point of Sale"
+            },
+            {
+              "id" : "f01ad2a9-0ff3-46b6-a9bb-a6d200b4f35c",
+              "name" : "Lightspeed Retail"
+            },
+            {
+              "id" : "eab58142-6040-46ce-9341-a6d200b7915e",
+              "name" : "Xero"
+            }
+          ],
+          "supported_countries" : [
+            {
+              "id" : 41,
+              "code" : "CA",
+              "name" : "Canada"
+            },
+            {
+              "id" : 237,
+              "code" : "US",
+              "name" : "United States of America"
+            }
+          ],
+          "supported_languages" : [
+            {
+              "id" : 152,
+              "code" : "en",
+              "name" : "English",
+              "location" : null
+            }
+          ],
+          "target_industries" : [
+            {
+              "id" : 82,
+              "code" : "95",
+              "name" : "Maritime"
+            },
+            {
+              "id" : 9,
+              "code" : "53",
+              "name" : "Automotive"
+            },
+            {
+              "id" : 49,
+              "code" : "26",
+              "name" : "Furniture"
+            },
+            {
+              "id" : 51,
+              "code" : "145",
+              "name" : "Glass, Ceramics & Concrete"
+            },
+            {
+              "id" : 129,
+              "code" : "58",
+              "name" : "Shipbuilding"
+            },
+            {
+              "id" : 46,
+              "code" : "34",
+              "name" : "Food & Beverages"
+            },
+            {
+              "id" : 14,
+              "code" : "49",
+              "name" : "Building Materials"
+            },
+            {
+              "id" : 77,
+              "code" : "85",
+              "name" : "Libraries"
+            },
+            {
+              "id" : 85,
+              "code" : "135",
+              "name" : "Mechanical or Industrial Engineering"
+            },
+            {
+              "id" : 105,
+              "code" : "15",
+              "name" : "Pharmaceuticals"
+            },
+            {
+              "id" : 62,
+              "code" : "147",
+              "name" : "Industrial Automation"
+            },
+            {
+              "id" : 102,
+              "code" : "146",
+              "name" : "Packaging and Containers"
+            },
+            {
+              "id" : 36,
+              "code" : "112",
+              "name" : "Electrical/Electronic Manufacturing"
+            },
+            {
+              "id" : 17,
+              "code" : "54",
+              "name" : "Chemicals"
+            },
+            {
+              "id" : 108,
+              "code" : "117",
+              "name" : "Plastics"
+            },
+            {
+              "id" : 28,
+              "code" : "25",
+              "name" : "Consumer Goods"
+            },
+            {
+              "id" : 29,
+              "code" : "91",
+              "name" : "Consumer Services"
+            },
+            {
+              "id" : 103,
+              "code" : "61",
+              "name" : "Paper & Forest Products"
+            },
+            {
+              "id" : 15,
+              "code" : "138",
+              "name" : "Business Supplies and Equipment"
+            },
+            {
+              "id" : 78,
+              "code" : "116",
+              "name" : "Logistics and Supply Chain"
+            },
+            {
+              "id" : 6,
+              "code" : "19",
+              "name" : "Apparel & Fashion"
+            },
+            {
+              "id" : 126,
+              "code" : "27",
+              "name" : "Retail"
+            },
+            {
+              "id" : 27,
+              "code" : "24",
+              "name" : "Consumer Electronics"
+            },
+            {
+              "id" : 139,
+              "code" : "92",
+              "name" : "Transportation/Trucking/Railroad"
+            },
+            {
+              "id" : 25,
+              "code" : "4",
+              "name" : "Computer Software"
+            },
+            {
+              "id" : 143,
+              "code" : "93",
+              "name" : "Warehousing"
+            },
+            {
+              "id" : 60,
+              "code" : "134",
+              "name" : "Import and Export"
+            },
+            {
+              "id" : 26,
+              "code" : "48",
+              "name" : "Construction"
+            },
+            {
+              "id" : 64,
+              "code" : "96",
+              "name" : "Information Technology and Services"
+            }
+          ],
+          "price_range_id" : 1,
+          "aggregated_review_ratings" : {
+            "industry" : {
+              "18" : 5.0,
+              "4" : 5.0,
+              "48" : 5.0,
+              "25" : 3.75,
+              "14" : 4.0,
+              "112" : 2.0,
+              "134" : 5.0,
+              "96" : 5.0,
+              "24" : 5.0,
+              "92" : 4.0,
+              "23" : 5.0,
+              "19" : 4.0,
+              "97" : 5.0,
+              "53" : 5.0,
+              "93" : 5.0,
+              "34" : 4.33,
+              "27" : 4.93
+            },
+            "company_size" : {
+              "501-1000 employees" : 5.0,
+              "51-200 employees" : 5.0,
+              "11-50 employees" : 4.23,
+              "201-500 employees" : 5.0,
+              "1-10 employees" : 4.67
+            }
+          },
+          "vct_enabled" : false,
+          "pricing_plans" : [
+            {
+              "created_on_utc" : "2019-08-21T14:47:39Z",
+              "modified_on_utc" : "2022-07-04T05:17:32Z",
+              "created_by" : null,
+              "modified_by" : "Tripti Chawla",
+              "name" : "Growth",
+              "description" : "The plan is made for 2 users. Each additional user costs $125 per month. An additional cost of $300 per month is added to the final amount if choosing the 3PL package.",
+              "display_order" : 1,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 329.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "API Access"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "Datacoach Inventory Intelligence"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Fasttrack Classroom Training"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "Skuvault University Self-Guided Learning"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 5,
+                  "name" : "Unlimited Integrations"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 6,
+                  "name" : "Up to 2000 Orders"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 7,
+                  "name" : "US-Based Support"
+                }
+              ]
+            },
+            {
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-07-04T05:17:32Z",
+              "created_by" : null,
+              "modified_by" : "Tripti Chawla",
+              "name" : "Pro",
+              "description" : "The plan is made for 2 users. Each additional user costs $100 per month. An additional cost of $300 per month is added to the final amount if choosing the 3PL package.",
+              "display_order" : 2,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 699.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "API Access"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "Datacoach Inventory Intelligence"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Fasttrack Classroom Training"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "Skuvault University Self-Guided Learning"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 5,
+                  "name" : "Unlimited Integrations"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 6,
+                  "name" : "Up to 5000 Orders"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 7,
+                  "name" : "US-Based Support"
+                }
+              ]
+            },
+            {
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-07-04T05:17:32Z",
+              "created_by" : null,
+              "modified_by" : "Tripti Chawla",
+              "name" : "Enterprise",
+              "description" : "The plan is made for 2 users. Each additional user costs $75 per month. An additional cost of $300 per month is added to the final amount if choosing the 3PL package.",
+              "display_order" : 3,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 1149.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "Annual Onsite Visits"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "API Access"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Datacoach Inventory Intelligence"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "Dedicated Customer Success Mgr."
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 5,
+                  "name" : "Fasttrack Classroom Training"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 6,
+                  "name" : "Skuvault University Self-Guided Learning"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 7,
+                  "name" : "Unlimited Integrations"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 8,
+                  "name" : "Up to 20000 Orders"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 9,
+                  "name" : "US-Based Support"
+                }
+              ]
+            }
+          ],
+          "discount_types" : [ ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,3557 @@
+{
+  "took" : 7,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 3,
+    "successful" : 3,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : {
+      "value" : 2,
+      "relation" : "eq"
+    },
+    "max_score" : 10.535126,
+    "hits" : [
+      {
+        "_index" : "product_listings_main_data_upc_vt20220920_043802_utc",
+        "_type" : "_doc",
+        "_id" : "165489_medinv",
+        "_score" : 10.535126,
+        "_source" : {
+          "product_id" : 165489,
+          "seo_product_id" : 224549,
+          "seo_slug" : "Hybrent",
+          "product_name" : "Hybrent",
+          "upc_product_uuid" : "f1b4e093-afdf-457f-bfe4-a7ba005d13c9",
+          "old_product_ids" : [
+            224549
+          ],
+          "product_url" : "https://hybrent.com/software-solution/",
+          "product_slug" : "Hybrent",
+          "former_name" : "Hybrent",
+          "logo_filepath" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8efc49fa-cce2-4d6a-9508-1f90a1ebddc6.png",
+          "vendor" : {
+            "vendor_id" : 2115484,
+            "vendor_name" : "Hybrent",
+            "vendor_url" : "https://hybrent.com/",
+            "year_founded" : 2013,
+            "location" : "United States",
+            "vendor_opted_out_of_reviews" : true,
+            "is_opted_out_of_reviews" : false,
+            "is_hit_limit" : false,
+            "enabled" : true,
+            "has_vendor_level_page" : false,
+            "slug" : null,
+            "vendor_page" : false,
+            "paused_campaign" : false
+          },
+          "category_short_name" : "medinv",
+          "category_html_name" : "medical-inventory-software",
+          "category" : {
+            "id" : 30581,
+            "short_name" : "medinv",
+            "long_name" : "Medical Inventory",
+            "html_name" : "medical-inventory-software",
+            "enabled" : true
+          },
+          "best_category" : "medinv",
+          "is_best_category" : true,
+          "highest_cpc_category" : "medinv",
+          "is_highest_cpc_category" : true,
+          "short_desc" : "Hybrent medical purchasing, inventory management and invoicing software integrates with most AP and clinical applications.",
+          "long_desc" : "Hybrent is a cloud-based ordering and inventory management system with barcoding to increase profitability, lower costs and provide cost-effective, quality patient care. Gain visibility into supply spend and use while streamlining workflows through integrating with your EMR/AP systems. Effortlessly manage your implants with Bill and Replace! Automate 3-way match, track supplies by serial #, accurate case costing, cycle counts, and gain insights to reduce spend and waste with robust reporting. ",
+          "rating" : 4.8,
+          "number_of_reviews" : 65,
+          "total_reviews" : 65,
+          "ease_of_use_rating" : 4.7,
+          "customer_support_rating" : 4.9,
+          "functionality_rating" : 4.4,
+          "value_for_money_rating" : 4.7,
+          "recommendation_rating" : 9.3,
+          "pricing_enabled" : false,
+          "pricing" : null,
+          "is_per_user" : false,
+          "fee_schedule" : "Per-Month",
+          "pricing_model" : null,
+          "pricing_details" : null,
+          "pricing_created_on" : "2019-08-21T14:47:39Z",
+          "pricing_modified_on" : "2022-04-11T20:39:17Z",
+          "pricing_created_by" : null,
+          "pricing_modified_by" : null,
+          "pricing_vendor_pricing_url" : null,
+          "free_trial" : false,
+          "free_version" : false,
+          "target_audience" : "Non-acute care providers who are seeking a more efficient procure-to-pay solution. We have a range of successful customers including PO, ASC, Post Acute Care (LTC/SNF), IDN, and hospital systems.",
+          "target_users" : [
+            "1",
+            "2-10",
+            "11-50",
+            "51-200",
+            "201-500",
+            "501-1000",
+            "1000+"
+          ],
+          "platform" : [
+            {
+              "enabled" : true,
+              "name" : "Cloud, SaaS, Web-Based"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Mac"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Chromebook"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile Android"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPhone"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPad"
+            }
+          ],
+          "support" : [
+            {
+              "enabled" : true,
+              "name" : "Email Help Desk"
+            },
+            {
+              "enabled" : true,
+              "name" : "FAQ Forum"
+            },
+            {
+              "enabled" : true,
+              "name" : "Knowledgebase"
+            },
+            {
+              "enabled" : true,
+              "name" : "Phone Support"
+            },
+            {
+              "enabled" : false,
+              "name" : "24/7 Live Rep"
+            },
+            {
+              "enabled" : true,
+              "name" : "Chat"
+            }
+          ],
+          "training" : [
+            {
+              "enabled" : false,
+              "name" : "Not Offered"
+            },
+            {
+              "enabled" : true,
+              "name" : "In-Person"
+            },
+            {
+              "enabled" : true,
+              "name" : "Live Online"
+            },
+            {
+              "enabled" : true,
+              "name" : "Webinars"
+            },
+            {
+              "enabled" : true,
+              "name" : "Documentation"
+            },
+            {
+              "enabled" : true,
+              "name" : "Videos"
+            }
+          ],
+          "media" : [
+            {
+              "product_id" : 165489,
+              "vendor_id" : 2115484,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/3757314c-37cc-4217-9509-38c158260b93.png",
+              "caption" : "Receiving screen",
+              "weight" : 2,
+              "short_name" : "medinv"
+            },
+            {
+              "product_id" : 165489,
+              "vendor_id" : 2115484,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/55949a81-09f7-4378-bbaa-4892bcf1dca5.png",
+              "caption" : "Invoicing screen",
+              "weight" : 4,
+              "short_name" : "medinv"
+            },
+            {
+              "product_id" : 165489,
+              "vendor_id" : 2115484,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/ecfc06eb-86a3-4a67-8f0c-2f7041470bb5.png",
+              "caption" : "Reporting option - Expiring items",
+              "weight" : 3,
+              "short_name" : "medinv"
+            },
+            {
+              "product_id" : 165489,
+              "vendor_id" : 2115484,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/134926b4-7e4f-414f-a342-ae886c5937ce.png",
+              "caption" : "Shopping screen with product images",
+              "weight" : 1,
+              "short_name" : "medinv"
+            },
+            {
+              "product_id" : 165489,
+              "vendor_id" : 2115484,
+              "media_type" : "VIDEO",
+              "path_url" : "https://vimeo.com/569066528",
+              "caption" : null,
+              "weight" : 0,
+              "short_name" : "medinv"
+            }
+          ],
+          "links" : [
+            {
+              "product_id" : 165489,
+              "functional_group" : "medinv",
+              "html_code" : "https://hybrent.com/hybrent-request-demo/",
+              "link_name" : "Free Demo",
+              "link_priority" : 2.0
+            }
+          ],
+          "features" : [
+            {
+              "category_name" : "Medical Inventory",
+              "category_features" : [
+                {
+                  "name" : "Barcode / Ticket Scanning",
+                  "value" : true,
+                  "id" : "62b94c17-29ff-47eb-92e1-242d6f3c04be",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 0.667,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "The ability to scan barcodes to ensure accurate pricing and label tracking "
+                },
+                {
+                  "name" : "Cost Tracking",
+                  "value" : true,
+                  "id" : "dbe00040-26b9-417e-a04b-7886b914b6fd",
+                  "avg_rating" : 0.0,
+                  "cnt_rating" : 0,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Expiration Date Management",
+                  "value" : true,
+                  "id" : "e5d06705-c49c-4977-b71d-e9a8c08810e1",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "For Medical Purposes",
+                  "value" : true,
+                  "id" : "a340bb89-48a2-4c20-918d-e0d596c2bfcf",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Inventory Management",
+                  "value" : true,
+                  "id" : "80f46038-6ae8-4725-8064-788b20380eeb",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 2.67,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.667,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Inventory Optimization",
+                  "value" : true,
+                  "id" : "649b9e77-eb11-4a73-a4a9-2a8d679c3020",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 0.667,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.333,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Inventory Tracking",
+                  "value" : true,
+                  "id" : "33800d6b-7dba-41cc-aaaf-788e4bf84ccb",
+                  "avg_rating" : 4.7,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 2.75,
+                  "cnt_importance" : 4,
+                  "cnt_time_used" : 5,
+                  "pct_time_used" : 0.8,
+                  "cnt_time_critical" : 5,
+                  "pct_time_critical" : 0.6,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Mobile Access",
+                  "value" : true,
+                  "id" : "15d49235-ad13-4d33-b009-edd50126375b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Multi-Location",
+                  "value" : true,
+                  "id" : "cbb330d2-6199-479e-bc91-d95527b5dc05",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Order Management",
+                  "value" : true,
+                  "id" : "3cca1a0a-36cc-4cfa-b90c-706cfd9542b6",
+                  "avg_rating" : 4.5,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 0.667,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.333,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Product Identification",
+                  "value" : true,
+                  "id" : "6a824586-2515-48d0-9879-cd89e20706fb",
+                  "avg_rating" : 4.5,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 0.667,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.333,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Purchase Order Management",
+                  "value" : true,
+                  "id" : "a9f6bc9b-faba-4d7a-95c4-d72a86ef6937",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 2.33,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 4,
+                  "pct_time_used" : 0.75,
+                  "cnt_time_critical" : 4,
+                  "pct_time_critical" : 0.25,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Purchasing & Receiving",
+                  "value" : true,
+                  "id" : "36b48f1e-4461-4aba-ab95-0558764f1cea",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Buy necessary items in compliance with established business policies"
+                },
+                {
+                  "name" : "RFID Scanning",
+                  "value" : false,
+                  "id" : "cb69923e-adf1-4cd5-8b2d-381ae7adce64",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Reorder Management",
+                  "value" : true,
+                  "id" : "e4450d36-99e4-43a6-9728-be64678f6757",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.67,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.667,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Serial Number Tracking",
+                  "value" : true,
+                  "id" : "240a9947-1095-46c7-907f-c19d1f491dfd",
+                  "avg_rating" : 0.0,
+                  "cnt_rating" : 0,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Usage Tracking/Analytics",
+                  "value" : true,
+                  "id" : "3465a1ae-d40b-425d-9a9b-3eef764ab861",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                }
+              ]
+            },
+            {
+              "category_name" : "Accounts Payable",
+              "category_features" : [
+                {
+                  "name" : "1099 Preparation",
+                  "value" : false,
+                  "id" : "ece88889-0ecd-4908-9a81-ff43aa598ca6",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Create and distribute 1099 tax forms to suppliers"
+                },
+                {
+                  "name" : "Aging Tracking",
+                  "value" : false,
+                  "id" : "eb2f1b1e-7909-4e97-a424-c622a99764fc",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Pull a report on unpaid invoices that shows how much time has elapsed since the date of the invoice"
+                },
+                {
+                  "name" : "Approval Process Control",
+                  "value" : false,
+                  "id" : "8cc73664-11fe-47ac-a43f-468a931254cb",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Streamline and manage the process of granting permission to the correct parties throughout task progression "
+                },
+                {
+                  "name" : "Cash Management",
+                  "value" : false,
+                  "id" : "4c1b745f-fe1e-4baa-bb19-f2b09961407c",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Collection, handling, management and usage of an organization's funds"
+                },
+                {
+                  "name" : "Check Writing",
+                  "value" : false,
+                  "id" : "46616995-003f-4e88-a10f-352f5e62d7e7",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Issue payments to third parties via checks"
+                },
+                {
+                  "name" : "Data Extraction",
+                  "value" : false,
+                  "id" : "e9a46c60-0024-4ea5-ab1b-464c6b7d4747",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Automatically extract information from documents or websites and input it into a database in a specified format"
+                },
+                {
+                  "name" : "Duplicate Payment Alert",
+                  "value" : false,
+                  "id" : "72899b1f-5e47-4e5e-918f-a88967221a1d",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Receive an automatic notification when the same exact payment is about to be initiated for the second time"
+                },
+                {
+                  "name" : "Electronic Funds Transfer",
+                  "value" : false,
+                  "id" : "0833de67-98c3-45a5-96ce-5e9fca0e410f",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Transfer money electronically between two bank accounts"
+                },
+                {
+                  "name" : "Fraud Detection",
+                  "value" : false,
+                  "id" : "4edb9d73-1b72-44f6-b078-24bc71f2e31e",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Identify and prevent suspicious activity"
+                },
+                {
+                  "name" : "Invoice Processing",
+                  "value" : true,
+                  "id" : "5f8f8f76-1a67-44af-8cdc-af5336b6227a",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : "Create, process, execute and manage suppliers invoices till the payment is made"
+                },
+                {
+                  "name" : "PO Reconciliation",
+                  "value" : false,
+                  "id" : "667a8399-6884-4861-ba00-053407712ccb",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Verify that invoices comply to the terms of pre-issued purchase orders prior to issuing payments"
+                },
+                {
+                  "name" : "Recurring Payments",
+                  "value" : false,
+                  "id" : "0094c93c-6832-40f9-91d4-19f24276b818",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Automate supplier payments on a predetermined schedule (monthly, quarterly, etc)"
+                },
+                {
+                  "name" : "Vendor Management",
+                  "value" : true,
+                  "id" : "f8901e5c-1a6c-4023-a798-a3502e6e359a",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Ability to track and store all vendor-related information, such as contacts, services offered, terms, etc."
+                }
+              ]
+            },
+            {
+              "category_name" : "Inventory Control",
+              "category_features" : [
+                {
+                  "name" : "Barcoding/RFID",
+                  "value" : true,
+                  "id" : "3a5789df-cab6-42d7-bf9c-1738cdee369f",
+                  "avg_rating" : 3.5,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 0.333,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Identify and track items using barcode tags or RFID (radio-frequency identification) tags that contain electronically-stored data"
+                },
+                {
+                  "name" : "Check-in/Check-out",
+                  "value" : true,
+                  "id" : "578adffb-94a9-4988-9785-00623cfe985c",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.67,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.667,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Track the status of assets and whether they're checked in or out"
+                },
+                {
+                  "name" : "Cost Tracking",
+                  "value" : true,
+                  "id" : "dbe00040-26b9-417e-a04b-7886b914b6fd",
+                  "avg_rating" : 0.0,
+                  "cnt_rating" : 0,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Record and monitor cost related information of assets (i.e. budget for assets, equipment costs, revenues, etc.)"
+                },
+                {
+                  "name" : "Forecasting",
+                  "value" : true,
+                  "id" : "af71a358-300d-4111-90b5-828ef869bb49",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Form predictions based on past and present data/trends"
+                },
+                {
+                  "name" : "Inventory Optimization",
+                  "value" : true,
+                  "id" : "649b9e77-eb11-4a73-a4a9-2a8d679c3020",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 0.667,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.333,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Balance and streamline inventory stock to meet customer service and revenue goals"
+                },
+                {
+                  "name" : "Inventory Tracking",
+                  "value" : true,
+                  "id" : "33800d6b-7dba-41cc-aaaf-788e4bf84ccb",
+                  "avg_rating" : 4.7,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 2.75,
+                  "cnt_importance" : 4,
+                  "cnt_time_used" : 5,
+                  "pct_time_used" : 0.8,
+                  "cnt_time_critical" : 5,
+                  "pct_time_critical" : 0.6,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Monitor the movement and quantities of inventory items"
+                },
+                {
+                  "name" : "Item Management",
+                  "value" : true,
+                  "id" : "dea3f3c7-48da-4115-a4d4-83a3a59c48b5",
+                  "avg_rating" : 4.3,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 2.25,
+                  "cnt_importance" : 4,
+                  "cnt_time_used" : 4,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 4,
+                  "pct_time_critical" : 0.25,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Collect, organize, and track inventory/product data including item numbers, descriptions, etc."
+                },
+                {
+                  "name" : "Reorder Management",
+                  "value" : true,
+                  "id" : "e4450d36-99e4-43a6-9728-be64678f6757",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.67,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.667,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Purchase and replenish product stock based on inventory levels and needs"
+                },
+                {
+                  "name" : "SKU/UPC Codes",
+                  "value" : true,
+                  "id" : "c1ceacf8-9dbb-4d59-bf75-220d27da4a0b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Internal and external product tracking codes "
+                },
+                {
+                  "name" : "Serial Number Tracking",
+                  "value" : true,
+                  "id" : "240a9947-1095-46c7-907f-c19d1f491dfd",
+                  "avg_rating" : 0.0,
+                  "cnt_rating" : 0,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Allows users to assign specific serial numbers to products and track them "
+                },
+                {
+                  "name" : "Supplier Management",
+                  "value" : true,
+                  "id" : "aa61511b-b73d-4fbb-a5f4-0ea85d124fcb",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 0.5,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Manage various aspects of the relationship with suppliers (e.g. interactions, history)"
+                }
+              ]
+            },
+            {
+              "category_name" : "Inventory Management",
+              "category_features" : [
+                {
+                  "name" : "Alerts/Notifications",
+                  "value" : false,
+                  "id" : "aef68b72-bd4c-4797-ae8c-4735512de81a",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Alerts/notifications within the system"
+                },
+                {
+                  "name" : "Forecasting",
+                  "value" : true,
+                  "id" : "af71a358-300d-4111-90b5-828ef869bb49",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Form predictions based on past and present data/trends"
+                },
+                {
+                  "name" : "Inventory Optimization",
+                  "value" : true,
+                  "id" : "649b9e77-eb11-4a73-a4a9-2a8d679c3020",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 0.667,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.333,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : "Balance and streamline inventory stock to meet customer service and revenue goals"
+                },
+                {
+                  "name" : "Kitting",
+                  "value" : true,
+                  "id" : "2b26681c-7b14-4b9a-813b-53d5b111dc5f",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Group and package individual but related items as one package set"
+                },
+                {
+                  "name" : "Manufacturing Inventory Management",
+                  "value" : false,
+                  "id" : "71975696-b255-4db0-9a19-28d7463f5d1f",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Software specialized for manufacturers to track work orders, bills of materials, and manufacture orders to help streamline operations"
+                },
+                {
+                  "name" : "Mobile Access",
+                  "value" : true,
+                  "id" : "15d49235-ad13-4d33-b009-edd50126375b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Access the software remotely via mobile devices"
+                },
+                {
+                  "name" : "Multi-Channel Management",
+                  "value" : true,
+                  "id" : "b613ec2b-67fb-4995-aa41-7aead6a66dbf",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Organize and maintain inventory levels across all channels (i.e. retail store, warehouse, etc.) based on demand and channel performance"
+                },
+                {
+                  "name" : "Product Identification",
+                  "value" : true,
+                  "id" : "6a824586-2515-48d0-9879-cd89e20706fb",
+                  "avg_rating" : 4.5,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 0.667,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.333,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Ability to link barcodes or serial numbers with specific items for identification"
+                },
+                {
+                  "name" : "Reorder Management",
+                  "value" : true,
+                  "id" : "e4450d36-99e4-43a6-9728-be64678f6757",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.67,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.667,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Purchase and replenish product stock based on inventory levels and needs"
+                },
+                {
+                  "name" : "Reporting/Analytics",
+                  "value" : true,
+                  "id" : "b0c186d0-0194-4300-abba-ca3bc2474bbe",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.33,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.667,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "View and track pertinent metrics"
+                },
+                {
+                  "name" : "Retail Inventory Management",
+                  "value" : false,
+                  "id" : "84b52988-b934-41dc-8664-fc2d8a33734e",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Software specialized for retailers (i.e. business that sell consumer goods) to maintain adequate levels of product stock"
+                },
+                {
+                  "name" : "Supplier Management",
+                  "value" : true,
+                  "id" : "aa61511b-b73d-4fbb-a5f4-0ea85d124fcb",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 0.5,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Manage various aspects of the relationship with suppliers (e.g. interactions, history)"
+                },
+                {
+                  "name" : "Warehouse Management",
+                  "value" : false,
+                  "id" : "7753b90c-778c-4e25-8322-71085d53c9de",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Software specialized for managing warehouses and tracking where inventory is located within the warehouses"
+                }
+              ]
+            },
+            {
+              "category_name" : "Procure to Pay",
+              "category_features" : [
+                {
+                  "name" : "Billing & Invoicing",
+                  "value" : true,
+                  "id" : "b9829f5b-1e19-49e7-b343-c2286973de15",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Budgeting/Forecasting",
+                  "value" : true,
+                  "id" : "b1730056-5193-46b9-9ce6-ae64ac3bbf6b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Compliance Management",
+                  "value" : true,
+                  "id" : "067f6bae-1749-483f-ac79-6c2c3c4114c8",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Contract Lifecycle Management",
+                  "value" : false,
+                  "id" : "c1a5f61e-0a75-48f3-8451-e4b9e42e4c26",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Financial Reporting",
+                  "value" : true,
+                  "id" : "ff3d940d-b593-4698-89a5-0fe000349b73",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Integration Management",
+                  "value" : true,
+                  "id" : "71a0655c-815a-46fb-aa1f-ce8486562cba",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Inventory Management",
+                  "value" : true,
+                  "id" : "80f46038-6ae8-4725-8064-788b20380eeb",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 2.67,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.667,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Order Management",
+                  "value" : true,
+                  "id" : "3cca1a0a-36cc-4cfa-b90c-706cfd9542b6",
+                  "avg_rating" : 4.5,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 0.667,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.333,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Vendor Management",
+                  "value" : true,
+                  "id" : "f8901e5c-1a6c-4023-a798-a3502e6e359a",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : null
+                }
+              ]
+            },
+            {
+              "category_name" : "Procurement",
+              "category_features" : [
+                {
+                  "name" : "Cataloging/Categorization",
+                  "value" : true,
+                  "id" : "3471f5d5-7c7c-467c-a5e2-aec6fc75b37e",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Create and manage digital catalog of products/services with their details, specification, and price"
+                },
+                {
+                  "name" : "Contract/License Management",
+                  "value" : true,
+                  "id" : "efd314c0-e308-412f-9ff3-8bd8745c3096",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Track, store, and access client/customer contracts"
+                },
+                {
+                  "name" : "Fixed Asset Management",
+                  "value" : true,
+                  "id" : "6b4d33b4-8606-4113-b768-95cbe8b7d88d",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Centralized database to track details of fixed assets such as depreciation and maintenance scheduling/history"
+                },
+                {
+                  "name" : "Inventory Management",
+                  "value" : true,
+                  "id" : "80f46038-6ae8-4725-8064-788b20380eeb",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 2.67,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.667,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track and manage the quantity of resources on hand to maintain proper supply"
+                },
+                {
+                  "name" : "Invoice Processing",
+                  "value" : true,
+                  "id" : "5f8f8f76-1a67-44af-8cdc-af5336b6227a",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Create, process, execute and manage suppliers invoices till the payment is made"
+                },
+                {
+                  "name" : "Purchase Order Management",
+                  "value" : true,
+                  "id" : "a9f6bc9b-faba-4d7a-95c4-d72a86ef6937",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 2.33,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 4,
+                  "pct_time_used" : 0.75,
+                  "cnt_time_critical" : 4,
+                  "pct_time_critical" : 0.25,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Create, send, and track purchase orders and their statuses"
+                },
+                {
+                  "name" : "Receiving/Putaway Management",
+                  "value" : true,
+                  "id" : "225a2a5c-0cc9-45a1-9b17-000092e5cf05",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Manage process from initial receipt of a load to when it is stocked in its final destination within a warehouse"
+                },
+                {
+                  "name" : "Requisition Management",
+                  "value" : true,
+                  "id" : "19b32b58-b5e4-423d-9cff-3d153a687022",
+                  "avg_rating" : 0.0,
+                  "cnt_rating" : 0,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Review, approve and cancel requests for goods/services to be purchased"
+                },
+                {
+                  "name" : "Sourcing Management",
+                  "value" : true,
+                  "id" : "93b5e32f-a2ee-46af-9d88-f0ba991d00e0",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Negotiate best prices and choose the right vendor for various purchases"
+                },
+                {
+                  "name" : "Spend Management",
+                  "value" : true,
+                  "id" : "fbc16671-865c-4c7a-a69c-de2050f554b3",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 0.667,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.667,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Track the amount of money spent on a certain product or with a certain supplier"
+                },
+                {
+                  "name" : "Supplier Management",
+                  "value" : true,
+                  "id" : "aa61511b-b73d-4fbb-a5f4-0ea85d124fcb",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 0.5,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Manage various aspects of the relationship with suppliers (e.g. interactions, history)"
+                }
+              ]
+            },
+            {
+              "category_name" : "Spend Management",
+              "category_features" : [
+                {
+                  "name" : "Approval Workflow",
+                  "value" : false,
+                  "id" : "7a011924-4439-4be6-827d-fdfe61a12c84",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Route documents and other data through one or more stakeholders for review and approval"
+                },
+                {
+                  "name" : "Budgeting/Forecasting",
+                  "value" : true,
+                  "id" : "b1730056-5193-46b9-9ce6-ae64ac3bbf6b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Estimate trends and allocate funds for future spend within a specific time period"
+                },
+                {
+                  "name" : "Expense Tracking",
+                  "value" : true,
+                  "id" : "7ae9a957-9dc5-46d1-bee2-096e03b609b1",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Detailed log and record of costs"
+                },
+                {
+                  "name" : "Multi-Currency",
+                  "value" : false,
+                  "id" : "10faf02d-213a-48db-9ec5-937d435316d5",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Manage and handle various international currencies"
+                },
+                {
+                  "name" : "Prepaid Cards",
+                  "value" : false,
+                  "id" : "ae8b8b0b-f974-449d-99b8-459fa68be636",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Bank cards with approved funds pre-loaded that employees can use for corporate purchases"
+                },
+                {
+                  "name" : "Procurement Management",
+                  "value" : true,
+                  "id" : "1abc039a-2236-4ef5-9f3e-0e6d614e6ce4",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Organize and manage all processes/procedures involved in purchasing goods and/or services"
+                },
+                {
+                  "name" : "Receipt Management",
+                  "value" : false,
+                  "id" : "4457f5d1-2616-472e-9e0b-5f47e9f165f4",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Upload, track, and submit receipts in a central database "
+                },
+                {
+                  "name" : "Spend Analysis",
+                  "value" : false,
+                  "id" : "86629451-f1cc-4eea-9d7a-532d9c0eff95",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Review and uncover trends in spending activity"
+                },
+                {
+                  "name" : "Spend Control",
+                  "value" : false,
+                  "id" : "895303aa-0d9e-412b-9711-78bb479f58e1",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Set allowances and ensure employees don't spend more than the allotted amounts "
+                },
+                {
+                  "name" : "Supplier Management",
+                  "value" : true,
+                  "id" : "aa61511b-b73d-4fbb-a5f4-0ea85d124fcb",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 0.5,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Manage various aspects of the relationship with suppliers (e.g. interactions, history)"
+                }
+              ]
+            },
+            {
+              "category_name" : "Supply Chain Management",
+              "category_features" : [
+                {
+                  "name" : "Demand Forecasting",
+                  "value" : false,
+                  "id" : "a3e57314-e6ed-44ca-a6b6-13fade585c53",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Use historical insights and simulations to forecast customer demand in different situations"
+                },
+                {
+                  "name" : "EDI",
+                  "value" : false,
+                  "id" : "bb06822e-12df-401f-b362-2e25dc3f73d1",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Transfer of data from one computer system to another"
+                },
+                {
+                  "name" : "Import/Export Management",
+                  "value" : false,
+                  "id" : "20b0e929-74e2-4085-b2a7-84fee49bb077",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Management of imports and exports (ie. international trade)"
+                },
+                {
+                  "name" : "Inventory Management",
+                  "value" : true,
+                  "id" : "80f46038-6ae8-4725-8064-788b20380eeb",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 2.67,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.667,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Track and manage the quantity of resources on hand to maintain proper supply"
+                },
+                {
+                  "name" : "Order Fulfillment",
+                  "value" : false,
+                  "id" : "4c12fcde-8a66-4e63-8836-2066cc4ba6bf",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Process of taking, organizing, tracking and fulfilling purchase requests for a company's products or services"
+                },
+                {
+                  "name" : "Sales & Operations Planning",
+                  "value" : false,
+                  "id" : "6b861e60-1a26-49fb-aff5-4e154e182312",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Oversee various functions of the organization while balancing and optimizing supply and demand"
+                },
+                {
+                  "name" : "Shipping Management",
+                  "value" : true,
+                  "id" : "fb1c8d2b-071c-4181-8188-48ff121fb41a",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Organize and track orders being sent and delivered to customers"
+                },
+                {
+                  "name" : "Supplier Management",
+                  "value" : true,
+                  "id" : "aa61511b-b73d-4fbb-a5f4-0ea85d124fcb",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 0.5,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Manage various aspects of the relationship with suppliers (e.g. interactions, history)"
+                },
+                {
+                  "name" : "Transportation Management",
+                  "value" : false,
+                  "id" : "45c7f919-3b23-4fc1-83ea-1cc53ca7627c",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track and organize transportation operations"
+                },
+                {
+                  "name" : "Warehouse Management",
+                  "value" : false,
+                  "id" : "7753b90c-778c-4e25-8322-71085d53c9de",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Software specialized for managing warehouses and tracking where inventory is located within the warehouses"
+                }
+              ]
+            }
+          ],
+          "infographics" : [
+            {
+              "product_id" : 165489,
+              "html_name" : "barcoding-software",
+              "infographic_type" : "general_t20",
+              "infographic_title" : null
+            },
+            {
+              "product_id" : 165489,
+              "html_name" : "procurement-software",
+              "infographic_type" : "general_t20",
+              "infographic_title" : null
+            },
+            {
+              "product_id" : 165489,
+              "html_name" : "supply-chain-management-software",
+              "infographic_type" : "general_t20",
+              "infographic_title" : null
+            }
+          ],
+          "related_products" : [
+            {
+              "product_id" : 124047,
+              "seo_product_id" : 223351,
+              "seo_slug" : "EZOfficeInventory",
+              "vendor_name" : "EZOfficeInventory",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/01c34458-7301-4329-b6a4-f8a41bb92ca1.png",
+              "rating" : 4.6,
+              "total_reviews" : 1201,
+              "slug" : "EZOfficeInventory",
+              "product_name" : "EZOfficeInventory",
+              "short_desc" : " Medical inventory software for the healthcare industry. Scan items in bulk, track POs, and create custom alerts. Free 15 day trial!",
+              "features" : "Our leading medical asset management software enables you to track consumables, manage asset reservations, schedule services, and do bulk scans for quick processing. Our fully-integrated mobile app makes it easy to update data on the go. Full maintenance histories and actionable reports make this a must have for all your healthcare asset management needs. RFID, Barcode and QR Code scanning functionality. Start 15 day free trial today to see seamless asset tracking in action!",
+              "url" : "https://www.ezofficeinventory.com/industries/medical-inventory-software?r=capterra_medical_inventory"
+            },
+            {
+              "product_id" : 123794,
+              "seo_product_id" : 57990,
+              "seo_slug" : "Fishbowl",
+              "vendor_name" : "Fishbowl",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4ccaccf1-0e36-45c8-9ccb-4df1733bd616.png",
+              "rating" : 4.2,
+              "total_reviews" : 769,
+              "slug" : "Fishbowl",
+              "product_name" : "Fishbowl",
+              "short_desc" : "Take control over your medical inventory management and eliminate manual processes so you can focus on growing your business.",
+              "features" : "Experience groundbreaking automation of your medical inventory management. Fishbowl's fully-supported medical software is geared for manufacturers efficiently managing cost and profits. Whether it's a small independent or large pharmaceutical company, Fishbowl offers a complete manufacturing and inventory management solution. Automate work orders and material requirements planning (MRP), bills of materials, barcode scanning and more to reduce costs and maximize profitability.",
+              "url" : "https://try.fishbowlinventory.com/healthcare-capterra?utm_source=capterra&utm_medium=cpc&utm_campaign=Medical+Inventory"
+            },
+            {
+              "product_id" : 78431,
+              "seo_product_id" : 226534,
+              "seo_slug" : "inFlow-Inventory",
+              "vendor_name" : "Archon Systems",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e1047f24-4669-4b7e-8207-13378158e9f8.png",
+              "rating" : 4.6,
+              "total_reviews" : 438,
+              "slug" : "inFlow-Inventory",
+              "product_name" : "inFlow Inventory",
+              "short_desc" : "The secret powering small businesses in 90+ countries worldwide. Track stock, manage sales, pick and ship orders, and more,",
+              "features" : "inFlow Inventory is the easiest way to run your wholesale, distribution, manufacturing, or ecommerce business.\n\nTrack stock across any location and manage purchases and sales-all from one app.\n\ninFlow helps you manage any order or process from start to finish, with full pick/pack/ship support, BOM and assemblies, and connections to over 35 different ecommerce platforms.\n\nWe offer in-house support via live chat, email, and callback.\n\nClick Visit Website to start your free 14-day trial now.",
+              "url" : "https://www.inflowinventory.com/capterra?utm_source=capterra&utm_medium=paid&utm_campaign=capterra%20inventory%20management"
+            },
+            {
+              "product_id" : 94790,
+              "seo_product_id" : 152934,
+              "seo_slug" : "Acctivate",
+              "vendor_name" : "Acctivate",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/a172b7be-3fe5-449a-ad49-2ba167f3121c.png",
+              "rating" : 4.1,
+              "total_reviews" : 109,
+              "slug" : "Acctivate",
+              "product_name" : "Acctivate Inventory Management",
+              "short_desc" : "A real-time inventory management and high-volume order fulfillment add-on solution for growth-focused businesses using QuickBooks.",
+              "features" : "Built for growing product-selling businesses using QuickBooks , Acctivate is a premium inventory management & multi-channel order fulfillment add-on that helps you focus on growth without operational limitations.\n\nSolve for QuickBooks limitations, including real-time inventory visibility, multi-warehousing, multi-channel orders, ecommerce fulfillment, EDI transaction support, barcoding, landed cost, lot and serial number traceability and more. \n\n",
+              "url" : "https://acctivate.com/industries/medical-supply-software/?utm_campaign=gdm-medical-inventory&utm_medium=paid"
+            },
+            {
+              "product_id" : 169199,
+              "seo_product_id" : 224401,
+              "seo_slug" : "Sortly",
+              "vendor_name" : "Sortly",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/83709120-d0af-4703-b279-a30596b345a5.png",
+              "rating" : 4.3,
+              "total_reviews" : 81,
+              "slug" : "Sortly-Pro",
+              "product_name" : "Sortly",
+              "short_desc" : "The industry's simplest (mobile friendly) Inventory and asset tracking system. Trusted by 1000's of businesses. Get it for free today.",
+              "features" : "Sortly is a super simple medical inventory and asset tracking system to visually track your medical supplies or equipment and any of their details including location, price, quantity etc for a more intuitive (and less maddening) way to track your items.\r\n\r\nKey Features: \r\n- Access on any Mobile, tablet or computer\r\n- Create/connect any barcodes or QR labels\r\n- Check in/out scanner\r\n- Customizable\r\n- Track user activity\r\n\r\nTrusted by 1000's of businesses. Create a free account today.",
+              "url" : "http://www.sortly.com"
+            },
+            {
+              "product_id" : 148776,
+              "seo_product_id" : 34890,
+              "seo_slug" : "eTurns",
+              "vendor_name" : "eTurns",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/fbf402f7-917d-4768-9978-2f8f51247a10.png",
+              "rating" : 4.4,
+              "total_reviews" : 55,
+              "slug" : "eTurns",
+              "product_name" : "eTurns",
+              "short_desc" : "eTurns TrackStock inventory replenishment app replenishes and tracks medical supplies using phones, RFID, sensors. Optimizes inventory ",
+              "features" : "eTurns TrackStock is an automated inventory replenishment app for medical supplies in clinics, hospital stockrooms and EMS trucks. Get visibility into on-hand inventory. Requisition items for future surgeries. Use IOS/Android, RFID or SensorBins to reorder, manage and optimize inventories. Decrease inventory costs up to 75%. 10x faster than manual ordering and e-commerce. Free 30 day trial. Pays for itself in 1-2 mo.  Integrates with Quickbooks and many ERP/WMS.",
+              "url" : "http://unbouncepages.com/eturns-medical-inventory-management-215/?directory=Medical_Inventory"
+            },
+            {
+              "product_id" : 232595,
+              "seo_product_id" : 242487,
+              "seo_slug" : "Intelligent-Medical-Software",
+              "vendor_name" : "Meditab",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/f7792493-cc72-4e14-93f7-4dfbfcbd5f36.png",
+              "rating" : 4.2,
+              "total_reviews" : 52,
+              "slug" : "Intelligent-Medical-Software",
+              "product_name" : "Intelligent Medical Software",
+              "short_desc" : "Intelligent Medical Software (IMS) by Meditab, is an award-winning, all-in-one EHR, practice management, and billing platform.",
+              "features" : "IMS caters to every step of the patient care delivery process, from patient engagement to telehealth, practice analytics, automated check-in, care coordination, reporting, and more. Its multi-specialty features, modules, and templates were built from the ground up to adapt to the exact needs of over 40 specialties.",
+              "url" : "https://www.meditab.com/specialties"
+            },
+            {
+              "product_id" : 134316,
+              "seo_product_id" : 10645,
+              "seo_slug" : "Bellwether-Purchasing-and-Inventory",
+              "vendor_name" : "Bellwether Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/049770f3-076f-443a-9c61-903e2051c120.png",
+              "rating" : 4.7,
+              "total_reviews" : 47,
+              "slug" : "Bellwether-Purchasing-and-Inventory",
+              "product_name" : "Bellwether PO and Inventory",
+              "short_desc" : "Medical Purchasing and Inventory software that automates your process in a purely paperless mode. Proven at 50+ healthcare providers.",
+              "features" : "Rated #1 for ease of use for medical purchasing control and inventory management for healthcare providers who create 50- 1000 PO's a month.  Money Back Guarantee.  See why we are rated #1. Designed for tracking medical inventory with barcode scanning of lots, expiration dates, patient use, etc,, along with purchasing, and invoice payment. Preference Cards and Kits. Quickbooks compatible.  20+ PunchOuts to major healthcare suppliers.",
+              "url" : "https://www.bellwethercorp.com/medical-procurement/"
+            },
+            {
+              "product_id" : 171681,
+              "seo_product_id" : 171681,
+              "seo_slug" : "Sowingo",
+              "vendor_name" : "Sowingo",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4e0894ef-aac8-4079-83d8-5bf0aa6d6587.png",
+              "rating" : 4.9,
+              "total_reviews" : 43,
+              "slug" : "Sowingo",
+              "product_name" : "Sowingo ",
+              "short_desc" : "Reduce unnecessary spending by monitoring inventory levels, receiving stock alerts, easily managing budgets and staying compliant.",
+              "features" : "Sowingo is a cloud-based platform that links inventory management and e-commerce for dental and medical practices. We inform dental professionals the best time to purchase supplies for their practices based on when supply quantities are running low, when expiry dates are approaching and the products they use are on sale. In the end Sowingo is helping reduce waste, making practices more efficient all the while helping reduce health care costs.",
+              "url" : "https://info.gartnerdigitalmarkets.com/sowingo-gdm-lp/?category=medical-inventory"
+            },
+            {
+              "product_id" : 150328,
+              "seo_product_id" : 225633,
+              "seo_slug" : "Flowtrac",
+              "vendor_name" : "Flowtrac",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/16a0a0a2-b265-481a-976e-36ff4d1463bb.png",
+              "rating" : 4.8,
+              "total_reviews" : 37,
+              "slug" : "Flowtrac",
+              "product_name" : "Flowtrac",
+              "short_desc" : " Assets, Manufacturing, Distribution, Supply Chain, Fleet Maintenance, Custom Applications, Work Orders(BOM,Kitting), Inventory Mgmt,",
+              "features" : "Flowtrac is a cloud-based or on-premise solution that helps organizations manage their Inventory, Assets, Warehouse, Work In Process, Proof of Delivery, and other Special requirements. Clients include Commercial, Government, Education, and Humanitarian organizations. Users access the system via desktops, tablets, smartphones, or mobile barcode guns. Flowtrac staff guides you from start to finish with training, consulting, and development. Service and support offered online or on-site.\r\n",
+              "url" : "https://software-info.gartnerdigitalmarkets.com/flowtrac-warehouse-mgmt-gdm/?utm_source=capterra"
+            }
+          ],
+          "similar_products" : [
+            {
+              "product_id" : 134748,
+              "seo_product_id" : 134748,
+              "seo_slug" : "SurgiCare-Medical-Inventory",
+              "vendor_name" : "SurgiCare Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/90d20940-7e8e-4072-82cc-c5d6155fdf4a.png",
+              "rating" : 5.0,
+              "total_reviews" : 11,
+              "slug" : "SurgiCare-Medical-Inventory",
+              "product_name" : "SurgiCare Medical Inventory",
+              "short_desc" : "Use your iPhone or Android to scan medical inventory across multiple sites and locations.  100% web-based means nothing to install.",
+              "features" : "100% focused on healthcare supply chain, SurgiCare's cloud-based solution means no complex installations and no servers to maintain.   Scan items on your iPhone, iPad and Android devices, perform case-costing, track expiration dates and lot numbers, integrated purchasing with major suppliers, invoicing, forecasting, surgical preference cards, and more.  Pay-as-you-grow subscription means we accommodate smaller centers (and budgets) to larger hospital facilities.",
+              "url" : "https://surgicaresoftware.com/Web-Based-Medical-Inventory-Software-System.aspx"
+            },
+            {
+              "product_id" : 140790,
+              "seo_product_id" : 221264,
+              "seo_slug" : "ArbiMed-Inventory",
+              "vendor_name" : "ArbiMed",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/1bddfe54-e316-453f-a0f5-f7eefa97e368.png",
+              "rating" : 4.3,
+              "total_reviews" : 37,
+              "slug" : "ArbiMed-Inventory",
+              "product_name" : "ArbiMed Inventory",
+              "short_desc" : "All-in-one inventory management software that helps medical practices track items and streamlines the inventory management workflow. ",
+              "features" : "ArbiMed Inventory is an all-in-one inventory management software that helps medical practices track, monitor, and analyze the usage of medical items. It supports purchase order management, multi-location, and point of sale, and more. Advanced barcoding technology enables quick scan-in and scan-out. Integrated with industry-leading PMS, EHR, and supplier systems to help increase practice efficiencies and streamline the operational workflows. Get in touch with us to get a Free Demo!",
+              "url" : "https://www.arbimed.com/"
+            },
+            {
+              "product_id" : 172747,
+              "seo_product_id" : 212259,
+              "seo_slug" : "Envi",
+              "vendor_name" : "Inventory Optimization Solutions",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/b90ee0fb-9731-4417-9cd0-9669c23d1b0d.png",
+              "rating" : 4.7,
+              "total_reviews" : 7,
+              "slug" : "Envi",
+              "product_name" : "ENVI",
+              "short_desc" : "Envi is a complete procure-to-pay software that gives control, automation and visibility into the full range of your supply chain.",
+              "features" : "Envi software uncovers savings through a customized formulary built from your GPO and local contracts. We have procurement experts and analysts ready to help automate your inventory management and purchasing operations. Our advanced analytics decode your supply, financial and operational data to make new discoveries that cut costs. With Envi you gain unprecedented control, automation and visibility into the full range of your supply chain. Envi is Healthcare's Smarter Supply Chain.",
+              "url" : "https://www.envi.com/"
+            },
+            {
+              "product_id" : 123794,
+              "seo_product_id" : 57990,
+              "seo_slug" : "Fishbowl",
+              "vendor_name" : "Fishbowl",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4ccaccf1-0e36-45c8-9ccb-4df1733bd616.png",
+              "rating" : 4.2,
+              "total_reviews" : 769,
+              "slug" : "Fishbowl",
+              "product_name" : "Fishbowl",
+              "short_desc" : "Take control over your medical inventory management and eliminate manual processes so you can focus on growing your business.",
+              "features" : "Experience groundbreaking automation of your medical inventory management. Fishbowl's fully-supported medical software is geared for manufacturers efficiently managing cost and profits. Whether it's a small independent or large pharmaceutical company, Fishbowl offers a complete manufacturing and inventory management solution. Automate work orders and material requirements planning (MRP), bills of materials, barcode scanning and more to reduce costs and maximize profitability.",
+              "url" : "https://try.fishbowlinventory.com/freetrialprogressiveform-capterra/?utm_source=capterra&utm_medium=cpc&utm_campaign=Default"
+            },
+            {
+              "product_id" : 93152,
+              "seo_product_id" : 221791,
+              "seo_slug" : "MedSupply",
+              "vendor_name" : "Decision Software Systems",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/bfc2775d-a292-4ee4-8e60-2f13446554e2.jpeg",
+              "rating" : 4.5,
+              "total_reviews" : 15,
+              "slug" : "MedSupply-Software",
+              "product_name" : "MedSupply",
+              "short_desc" : "The MOST Powerful Medical Inventory Control Application available! 1-D & 2-D Barcode Ready. Track Lot#'s & Exp. Dates & Patient Usage!",
+              "features" : "The MOST Powerful Medical Inventory Control Application available! MedSupply Software is robust, easy to use, and it reads all UPC and  2-D package bar-codes, or make your own barcode labels. Manages Lot #'s & Expiration dates. Perfect for ALL types of medical, surgical, and dental facilities. Track usage of medications, implants,  devices, and supplies from ALL of your vendors. Manage PO's, receiving, expired items, and patient usage. Available EMR integration. Cloud or server-based",
+              "url" : "http://www.MedSupplySoftware.com"
+            },
+            {
+              "product_id" : 210053,
+              "seo_product_id" : 210053,
+              "seo_slug" : "ImplantBase",
+              "vendor_name" : "ImplantBase",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/2d8ef164-a842-4dbb-8d04-9c125aaed379.png",
+              "rating" : 4.6,
+              "total_reviews" : 5,
+              "slug" : "ImplantBase",
+              "product_name" : "ImplantBase",
+              "short_desc" : "An easy-to-use, intuitive, all-in-one field inventory management solution designed for the orthopedic medical device industry.",
+              "features" : "Specifically designed for the orthopedic & spine medical device companies, ImplantBase is an all-in-one, field inventory management software that enables everyone from a single rep, an entire distributorship, and a large manufacturer to connect and transact with everyone in their inventory ecosystem. ImplantBase unifies the supply chain operations from manufacturer to sales rep using any device, anytime, and directly to any ERP or financial platform. Contact us at sales@implantbase.com. ",
+              "url" : "https://us.implantbase.com/orthopedic-implant-industry"
+            },
+            {
+              "product_id" : 199857,
+              "seo_product_id" : 231218,
+              "seo_slug" : "VaxCare",
+              "vendor_name" : "VaxCare Corp.",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/5a0d3062-41ff-4b35-8b88-5dacb120e441.png",
+              "rating" : 4.6,
+              "total_reviews" : 20,
+              "slug" : "VaxCare",
+              "product_name" : "VaxCare",
+              "short_desc" : "Specializing in Vaccine Financing, Inventory Management, Billing, Vaccine Distribution, and Technology Services.",
+              "features" : "No-Cost Vaccines | Patient Management | End-to-end Inventory Management | EHR Integration\r\n\r\nSolution for medical professionals to manage every aspect of vaccinations from start to finish. From inventory visibility and automated replenishment to daily immunization highlights and patient tracking, we are the complete vaccination management system. Empowering providers to get back to doing what they do best; providing patient care.\r\n\r\nFor: Pediatricians | Internal Medicine | Family Practices",
+              "url" : "https://www.vaxcare.com/vaccine-solution/?utm_campaign=Vaccine-Management_awareness_vaxcare_03-20&utm_source=ppc&utm_medium=capterrads&utm_term=default&utm_content=workflow"
+            },
+            {
+              "product_id" : 169199,
+              "seo_product_id" : 224401,
+              "seo_slug" : "Sortly",
+              "vendor_name" : "Sortly",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/83709120-d0af-4703-b279-a30596b345a5.png",
+              "rating" : 4.3,
+              "total_reviews" : 81,
+              "slug" : "Sortly-Pro",
+              "product_name" : "Sortly",
+              "short_desc" : "The industry's simplest (mobile friendly) Inventory and asset tracking system. Trusted by 1000's of businesses. Get it for free today.",
+              "features" : "Sortly is a super simple medical inventory and asset tracking system to visually track your medical supplies or equipment and any of their details including location, price, quantity etc for a more intuitive (and less maddening) way to track your items.\r\n\r\nKey Features: \r\n- Access on any Mobile, tablet or computer\r\n- Create/connect any barcodes or QR labels\r\n- Check in/out scanner\r\n- Customizable\r\n- Track user activity\r\n\r\nTrusted by 1000's of businesses. Create a free account today.",
+              "url" : "http://www.sortly.com"
+            },
+            {
+              "product_id" : 180408,
+              "seo_product_id" : 180408,
+              "seo_slug" : "myMEDISET-loaner-suite-7-0",
+              "vendor_name" : "BIT Consulting",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8132d1f7-3b82-4081-acea-081c4ae82d03.png",
+              "rating" : 4.7,
+              "total_reviews" : 7,
+              "slug" : "myMEDISET-loaner-suite-7-0",
+              "product_name" : "mymediset",
+              "short_desc" : "mymediset is the SAP? add-on solution for managing loan kits, consignment and field inventory efficiently in the healthcare industry. ",
+              "features" : "mymediset is a SAP add-on software for managing medical equipment, loaned medical kits, field and consignment inventory efficiently. It's the only available certified S/4 HANA cloud-based solution of its kind. mymediset's intelligent planning algorithms lead to an optimized inventory level, you gain full visibility and control over your field and consignment inventory and with our mobile app you can react faster to changes in demand and save essential admin time and costs. ",
+              "url" : "https://mymediset.net/features/"
+            },
+            {
+              "product_id" : 172299,
+              "seo_product_id" : 227079,
+              "seo_slug" : "Health-Cloud",
+              "vendor_name" : "Salesforce",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/5e707b7d-1625-4687-beb0-d7b74bc84700.png",
+              "rating" : 4.7,
+              "total_reviews" : 3,
+              "slug" : "Health-Cloud",
+              "product_name" : "Health Cloud",
+              "short_desc" : "Take patient and member relationships to new heights with Salesforce Health Cloud.",
+              "features" : "Deliver faster business results with purpose-built MedTech inventory solutions. Ignite growth, accelerate MedTech sales cycles, and exceed customer expectations across every channel. Learn how you can mobilize and grow your business with the world's #1 CRM for MedTech.",
+              "url" : "https://www.salesforce.com/form/industries/healthcare/health-cloud-demo/?d=7013y000002pfcqAAA&nc=7013y000002pfclAAA&utm_source=capterra&utm_medium=review_sites&utm_campaign=us_ihlsd&utm_content=health-cloud-demo_7013y000002pfcqAAA"
+            },
+            {
+              "product_id" : 134316,
+              "seo_product_id" : 10645,
+              "seo_slug" : "Bellwether-Purchasing-and-Inventory",
+              "vendor_name" : "Bellwether Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/049770f3-076f-443a-9c61-903e2051c120.png",
+              "rating" : 4.7,
+              "total_reviews" : 47,
+              "slug" : "Bellwether-Purchasing-and-Inventory",
+              "product_name" : "Bellwether PO and Inventory",
+              "short_desc" : "Medical Purchasing and Inventory software that automates your process in a purely paperless mode. Proven at 50+ healthcare providers.",
+              "features" : "Rated #1 for ease of use for medical purchasing control and inventory management for healthcare providers who create 50- 1000 PO's a month.  Money Back Guarantee.  See why we are rated #1. Designed for tracking medical inventory with barcode scanning of lots, expiration dates, patient use, etc,, along with purchasing, and invoice payment. Preference Cards and Kits. Quickbooks compatible.  20+ PunchOuts to major healthcare suppliers.",
+              "url" : "https://www.bellwethercorp.com/free-demo/"
+            },
+            {
+              "product_id" : 124047,
+              "seo_product_id" : 223351,
+              "seo_slug" : "EZOfficeInventory",
+              "vendor_name" : "EZOfficeInventory",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/01c34458-7301-4329-b6a4-f8a41bb92ca1.png",
+              "rating" : 4.6,
+              "total_reviews" : 1201,
+              "slug" : "EZOfficeInventory",
+              "product_name" : "EZOfficeInventory",
+              "short_desc" : " Medical inventory software for the healthcare industry. Scan items in bulk, track POs, and create custom alerts. Free 15 day trial!",
+              "features" : "Our leading medical asset management software enables you to track consumables, manage asset reservations, schedule services, and do bulk scans for quick processing. Our fully-integrated mobile app makes it easy to update data on the go. Full maintenance histories and actionable reports make this a must have for all your healthcare asset management needs. RFID, Barcode and QR Code scanning functionality. Start 15 day free trial today to see seamless asset tracking in action!",
+              "url" : "https://www.ezofficeinventory.com/?r=capterra_default&utm_medium=cpc&utm_campaign=default&utm_term=default_product_listing"
+            }
+          ],
+          "related_categories" : [
+            {
+              "functional_group" : "medinv",
+              "long_name" : "Chiropractic",
+              "html_name" : "chiropractic-software",
+              "link_name" : "chiropractic",
+              "product_count" : 75,
+              "meta_description" : "Find and compare top Chiropractic software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Chiropractic tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs.",
+              "description" : "<a href=/chiropractic-software>Chiropractic software</a> automates practice management, billing, scheduling, patient care and reporting for chiropractic offices. Chiropractic offices use these applications to centralize and automate essential patient care and medical business processes including: compilation of chiropractic SOAP notes and patient report generation, treatment records, accounts receivable, payment processing, patient data sharing, chiropractic practice management, electronic claims, collections and financial reporting. <a href=/chiropractic-software>Chiropractic software</a> is related to other Capterra directories like: <a href=/electronic-medical-records-software>Electronic Medical Records software</a>, <a href=/medical-billing-software>Medical Billing software</a>, <a href=/medical-practice-management-software>Medical Practice Management software</a>, <a href=/physical-therapy-software>Physical Therapy software</a>, <a href=/medical-scheduling-software>Medical <a href=/scheduling-software>Scheduling software</a></a> and <a href=/medical-transcription-software>Medical Transcription software</a>."
+            },
+            {
+              "functional_group" : "medinv",
+              "long_name" : "Dental",
+              "html_name" : "dental-software",
+              "link_name" : "dental",
+              "product_count" : 115,
+              "meta_description" : "Find and compare top Dental software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Dental tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/dental-software>Dental software</a> manages dental practice operations including billing, accounting, and scheduling.  Dental offices use these applications to centralize and automate essential patient care and medical business processes including: compilation of notes and patient report generation, treatment records, accounts receivable, payment processing, patient data sharing, document management, electronic claims, collections, and financial reporting.  Dental office software also typically offers a variety of data tools such as periodontal charting and three dimensional rendering or other visualization tools.  <a href=/dental-software>Dental software</a> is related to <a href=/electronic-medical-records-software>Electronic Medical Records software</a>, <a href=/medical-billing-software>Medical Billing software</a>, <a href=/medical-practice-management-software>Medical Practice Management software</a>, <a href=/medical-scheduling-software>Medical <a href=/scheduling-software>Scheduling software</a></a> and <a href=/medical-transcription-software>Medical Transcription software</a>."
+            },
+            {
+              "functional_group" : "medinv",
+              "long_name" : "Hospital Management",
+              "html_name" : "hospital-management-software",
+              "link_name" : "hospital-management",
+              "product_count" : 167,
+              "meta_description" : "Find and compare top Hospital Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Hospital Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/hospital-management-software/>Hospital Management software</a> automates processes including billing, appointments, scheduling, regulatory compliance and financial auditing within hospitals. These applications offer integration across the financial, clinical, and operational elements of a healthcare practice and enable users to optimize their office workflow and reduce their operational expenses.  <a href=/hospital-management-software/>Hospital Management software</a> is related to <a href=/electronic-medical-records-software>Electronic Medical Records software</a>, <a href=/medical-lab-software>Medical Lab software</a>, <a href=/medical-practice-management-software>Medical Practice Management software</a>, <a href=/medical-billing-software>Medical Billing software</a>, <a href=/medical-scheduling-software>Medical <a href=/scheduling-software>Scheduling software</a></a> and <a href=/medical-transcription-software>Medical Transcription software</a>, ."
+            },
+            {
+              "functional_group" : "medinv",
+              "long_name" : "Inventory Control",
+              "html_name" : "inventory-control-software",
+              "link_name" : "inventory-control",
+              "product_count" : 119,
+              "meta_description" : "Find and compare top Inventory Control software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Inventory Control tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/inventory-control-software>Inventory Control software</a> automates the management and tracking of goods and often includes tools such as bar code software.  These programs enable increased inventory accuracy and up-to-date sales tracking by distributing sales and supply data throughout an organization.  Inventory control systems interact directly with pre-existing or custom installed retail management, point of sale (POS), and accounting tools.  <a href=/inventory-control-software>Inventory Control software</a> is related to <a href=/inventory-management-software>Inventory Management software</a> and <a href=\"/rfid-software\">RFID software</a>."
+            },
+            {
+              "functional_group" : "medinv",
+              "long_name" : "Inventory Management",
+              "html_name" : "inventory-management-software",
+              "link_name" : "inventory-management",
+              "product_count" : 238,
+              "meta_description" : "Find and compare top Inventory Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Inventory Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/inventory-management-software\">Inventory Management software</a> monitors inventory levels for optimal production and distribution of goods for wholesale or retail.  These applications enable organizations to efficiently manage inventory as well as procurement and order fulfillment functions. Inventory Management solutions ensure accurate real-time inventory reporting and the ability to distribute this essential data across multiple locations and throughout an enterprise.  <a href=\"/inventory-management-software\">Inventory Management software</a> is related to <a href=\"/inventory-control-software\">Inventory Control software</a> and <a href=\"/supply-chain-management-software\">Supply Chain Management software</a>."
+            },
+            {
+              "functional_group" : "medinv",
+              "long_name" : "Medical Practice Management",
+              "html_name" : "medical-practice-management-software",
+              "link_name" : "medical-practice-management",
+              "product_count" : 260,
+              "meta_description" : "Find and compare top Medical Practice Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Medical Practice Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/medical-practice-management-software>Medical Practice Management software</a> automates activities such as patient care, scheduling, billing, claims processing and other related operations for medical practices.  By streamlining office workflows, doctors and their staff are able to spend more time with patients and less time on administrative tasks.  Medical Practice Management applications can be utilized by private practices, community health centers, long term care and behavioral health facilities, hospitals and other health care organizations.  <a href=/medical-practice-management-software>Medical Practice Management software</a> is related to <a href=/electronic-medical-records-software>Electronic Medical Records software</a>, <a href=/healthcare-management-software>Healthcare Management software</a>, <a href=/medical-billing-software>Medical Billing software</a>, <a href=/medical-scheduling-software>Medical <a href=/scheduling-software>Scheduling software</a></a> and <a href=/medical-transcription-software>Medical Transcription software</a>."
+            },
+            {
+              "functional_group" : "medinv",
+              "long_name" : "Optometry",
+              "html_name" : "optometry-software",
+              "link_name" : "optometry",
+              "product_count" : 30,
+              "meta_description" : "Find and compare top Optometry software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Optometry tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/optometry-software\">Optometry software</a> is designed to manage optometry practices.  Features include patient demographics, scheduling, accounts receivable, inventory and POS, electronic medical records, insurance claim submission, recalls and referrals.  By streamlining office workflow, doctors and their staff are able spend more time with patients and less time on administrative tasks.  <a href=\"/optometry-software\">Optometry software</a> is related to <a href=\"medical-practice-management-software\">Medical Practice Management software</a>, <a href=\"/medical-scheduling-software\">Medical Scheduling software</a>, and <a href=\"/electronic-medical-records-software\">Electronic Medical Records software</a>."
+            }
+          ],
+          "is_upgraded" : true,
+          "enabled" : true,
+          "filter_options" : {
+            "users" : 127,
+            "platform" : 897,
+            "pricing_options" : 2,
+            "category_related_features" : [
+              35188,
+              35189,
+              35193,
+              35195,
+              36027,
+              36032,
+              36033,
+              58238,
+              58241,
+              58244,
+              58246,
+              58247,
+              58251,
+              58252,
+              58253,
+              58254,
+              58255,
+              58256,
+              58257,
+              58259,
+              58260,
+              58261,
+              58262,
+              58263,
+              58268,
+              58270,
+              58272,
+              58273,
+              58275,
+              58276,
+              58277,
+              58279,
+              58280,
+              78628,
+              78629
+            ],
+            "employees" : 127
+          },
+          "sort_options" : {
+            "sort_review_rating" : 4.607537269592285,
+            "most_recent_review" : "2021-08-18T18:50:42Z"
+          },
+          "countries" : "US",
+          "features_tokenized_text" : "barcode_/_ticket_scanning cost_tracking expiration_date_management for_medical_purposes inventory_management inventory_optimization inventory_tracking mobile_access multi-location order_management product_identification purchase_order_management purchasing_&_receiving reorder_management serial_number_tracking usage_tracking/analytics",
+          "platform_tokenized_text" : "cloud,saas,web-based mobileandroid mobileiphone mobileipad",
+          "users_tokenized_text" : "1 2-10 11-50 51-200 201-500 501-1000 1000+",
+          "pricing_tokenized_text" : "monthlysubscription",
+          "badges" : [
+            {
+              "id" : 2089,
+              "category_short_name" : "Barcoding",
+              "category_html_name" : "barcoding-software",
+              "published_year" : 2020,
+              "badge_type" : "Top 20"
+            },
+            {
+              "id" : 2050,
+              "category_short_name" : "Procurement",
+              "category_html_name" : "procurement-software",
+              "published_year" : 2020,
+              "badge_type" : "Top 20"
+            },
+            {
+              "id" : 2042,
+              "category_short_name" : "Supply Chain Management",
+              "category_html_name" : "supply-chain-management-software",
+              "published_year" : 2020,
+              "badge_type" : "Top 20"
+            }
+          ],
+          "bid_spot_us" : 8.0,
+          "currency_code" : "USD",
+          "currency_symbol" : "$",
+          "credit_card_required" : null,
+          "licensing_model" : null,
+          "open_api_offered" : "Yes",
+          "mobile_urls" : [
+            {
+              "name" : "Android",
+              "url" : "https://play.google.com/store/apps/details?id=com.hybrent.hybrent&hl=en_IN"
+            },
+            {
+              "name" : "iOS",
+              "url" : "https://apps.apple.com/us/app/hybrent/id1038806891"
+            }
+          ],
+          "integrations" : [
+            {
+              "id" : "fe81b962-5949-4953-8684-a6d200b52931",
+              "name" : "Microsoft Dynamics GP"
+            },
+            {
+              "id" : "0db864c4-712f-48e6-bcfb-a6d200b53c81",
+              "name" : "Multiview ERP"
+            },
+            {
+              "id" : "401f3243-3ee9-4c20-99c3-c20a78aed8c7",
+              "name" : "Vision"
+            },
+            {
+              "id" : "885b2837-e739-4034-bcbf-a6d200b49f49",
+              "name" : "QuickBooks Desktop Enterprise"
+            },
+            {
+              "id" : "42d4ed6e-24b8-413e-aee7-a6d200b49f49",
+              "name" : "Sage Intacct"
+            },
+            {
+              "id" : "c6dc588d-a2c0-421b-8719-a6d200b4adc6",
+              "name" : "MineralTree Invoice-to-Pay"
+            },
+            {
+              "id" : "9995897e-431b-4ea1-b72c-a6d200b51bfd",
+              "name" : "MedInformatix"
+            },
+            {
+              "id" : "6a680041-f372-46f3-a3e9-a6d200b556c0",
+              "name" : "NetSuite"
+            },
+            {
+              "id" : "846bd23e-919a-4c20-8b6d-a6d200b77ff8",
+              "name" : "Workday Financial Management"
+            },
+            {
+              "id" : "232f9f60-b103-4abe-bdfb-a6e4009bf503",
+              "name" : "Brightree"
+            },
+            {
+              "id" : "d9e2be1b-3b4a-4c06-8240-a938003b2714",
+              "name" : "HSTpathways"
+            },
+            {
+              "id" : "2b49cd1b-bddc-4c1e-86c6-9171b434f6d4",
+              "name" : "MatrixCare Senior Living Facility"
+            },
+            {
+              "id" : "c6e4846a-006f-4dea-9325-d725ff404d0e",
+              "name" : "SigmaCare"
+            },
+            {
+              "id" : "ab8ce93e-f131-47d8-95a7-a6d200b28511",
+              "name" : "Abila Elevate"
+            },
+            {
+              "id" : "41ad8864-c63d-451c-9723-a6d200b2e0b3",
+              "name" : "Bill.com"
+            },
+            {
+              "id" : "dc91f2fc-b1d7-4bc3-889c-a6d200b2fce1",
+              "name" : "MatrixCare Home Health & Hospice"
+            },
+            {
+              "id" : "c3658ad4-c222-419f-ae89-a6d200b3246d",
+              "name" : "Cerner PowerChart Ambulatory EHR"
+            },
+            {
+              "id" : "b65bf2e7-9b5c-4ac2-8889-a6d200b4e769",
+              "name" : "Lawson Supply Chain Management"
+            },
+            {
+              "id" : "8a673145-a4b8-47c5-8429-a6d200b5a51b",
+              "name" : "PCC"
+            },
+            {
+              "id" : "eab58142-6040-46ce-9341-a6d200b7915e",
+              "name" : "Xero"
+            },
+            {
+              "id" : "3db3d02e-2208-4476-9747-a6d200b7f02c",
+              "name" : "ParagonERP"
+            }
+          ],
+          "supported_countries" : [
+            {
+              "id" : 237,
+              "code" : "US",
+              "name" : "United States of America"
+            },
+            {
+              "id" : 41,
+              "code" : "CA",
+              "name" : "Canada"
+            }
+          ],
+          "supported_languages" : [
+            {
+              "id" : 152,
+              "code" : "en",
+              "name" : "English",
+              "location" : null
+            }
+          ],
+          "target_industries" : [
+            {
+              "id" : 57,
+              "code" : "14",
+              "name" : "Hospital & Health Care"
+            },
+            {
+              "id" : 142,
+              "code" : "16",
+              "name" : "Veterinary"
+            },
+            {
+              "id" : 88,
+              "code" : "13",
+              "name" : "Medical Practice"
+            },
+            {
+              "id" : 55,
+              "code" : "124",
+              "name" : "Health, Wellness and Fitness"
+            }
+          ],
+          "price_range_id" : 1,
+          "aggregated_review_ratings" : {
+            "industry" : {
+              "16" : 4.0,
+              "11" : 5.0,
+              "124" : 4.67,
+              "14" : 4.85,
+              "13" : 4.68
+            },
+            "company_size" : {
+              "201-500 employees" : 4.5,
+              "51-200 employees" : 4.82,
+              "1001-5000 employees" : 4.5,
+              "11-50 employees" : 4.91,
+              "501-1000 employees" : 4.67
+            }
+          },
+          "vct_enabled" : false,
+          "pricing_plans" : [
+            {
+              "created_on_utc" : "2019-09-30T10:10:51Z",
+              "modified_on_utc" : "2022-04-11T20:39:21Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Basic",
+              "description" : null,
+              "display_order" : 1,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 475.0,
+              "ending_price" : null,
+              "pricing_model_name" : null,
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [ ]
+            }
+          ],
+          "discount_types" : [ ]
+        }
+      },
+      {
+        "_index" : "product_listings_main_data_upc_vt20220920_043802_utc",
+        "_type" : "_doc",
+        "_id" : "224549_eprocxpurc",
+        "_score" : 10.080746,
+        "_source" : {
+          "product_id" : 224549,
+          "seo_product_id" : 224549,
+          "seo_slug" : "Hybrent",
+          "product_name" : "Hybrent",
+          "upc_product_uuid" : "f1b4e093-afdf-457f-bfe4-a7ba005d13c9",
+          "old_product_ids" : [
+            165489
+          ],
+          "product_url" : "https://hybrent.com/",
+          "product_slug" : "Hybrent",
+          "former_name" : "Hybrent",
+          "logo_filepath" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8efc49fa-cce2-4d6a-9508-1f90a1ebddc6.png",
+          "vendor" : {
+            "vendor_id" : 2170936,
+            "vendor_name" : "Hybrent",
+            "vendor_url" : "https://hybrent.com/",
+            "year_founded" : 2013,
+            "location" : "United States",
+            "vendor_opted_out_of_reviews" : true,
+            "is_opted_out_of_reviews" : false,
+            "is_hit_limit" : false,
+            "enabled" : true,
+            "has_vendor_level_page" : false,
+            "slug" : null,
+            "vendor_page" : false,
+            "paused_campaign" : false
+          },
+          "category_short_name" : "eprocxpurc",
+          "category_html_name" : "purchasing-software",
+          "category" : {
+            "id" : 30076,
+            "short_name" : "eprocxpurc",
+            "long_name" : "Purchasing",
+            "html_name" : "purchasing-software",
+            "enabled" : true
+          },
+          "best_category" : "eprocxpurc",
+          "is_best_category" : true,
+          "highest_cpc_category" : null,
+          "is_highest_cpc_category" : false,
+          "short_desc" : "Hybrent medical purchasing, inventory management and invoicing software integrates with most AP and clinical applications.",
+          "long_desc" : "Healthcare supply chain software created to bring a low cost, cloud-based purchasing and inventory management system to ASCs, Physician Clinics, and Long-term Care Centers. Hybrent's software is a healthcare center's supply chain solution for e-procurement, approvals, order tracking & confirmations, invoice matching, AP and PMS integrations, reporting, preference cards, and more. Save time and money with Hybrent's easy-to-use portal for transactions with all vendors. Request a FREE demo today! ",
+          "rating" : 4.8,
+          "number_of_reviews" : 65,
+          "total_reviews" : 65,
+          "ease_of_use_rating" : 4.7,
+          "customer_support_rating" : 4.9,
+          "functionality_rating" : 4.4,
+          "value_for_money_rating" : 4.7,
+          "recommendation_rating" : 9.3,
+          "pricing_enabled" : false,
+          "pricing" : null,
+          "is_per_user" : false,
+          "fee_schedule" : "Per-Month",
+          "pricing_model" : null,
+          "pricing_details" : null,
+          "pricing_created_on" : "2019-08-21T14:47:39Z",
+          "pricing_modified_on" : "2022-04-11T20:39:17Z",
+          "pricing_created_by" : null,
+          "pricing_modified_by" : null,
+          "pricing_vendor_pricing_url" : null,
+          "free_trial" : false,
+          "free_version" : false,
+          "target_audience" : "Non-acute care providers who are seeking a more efficient procure-to-pay solution. We have a range of successful customers including PO, ASC, Post Acute Care (LTC/SNF), IDN, and hospital systems.",
+          "target_users" : [
+            "1",
+            "2-10",
+            "11-50",
+            "51-200",
+            "201-500",
+            "501-1000",
+            "1000+"
+          ],
+          "platform" : [
+            {
+              "enabled" : true,
+              "name" : "Cloud, SaaS, Web-Based"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Mac"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Chromebook"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile Android"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPhone"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPad"
+            }
+          ],
+          "support" : [
+            {
+              "enabled" : true,
+              "name" : "Email Help Desk"
+            },
+            {
+              "enabled" : true,
+              "name" : "FAQ Forum"
+            },
+            {
+              "enabled" : true,
+              "name" : "Knowledgebase"
+            },
+            {
+              "enabled" : true,
+              "name" : "Phone Support"
+            },
+            {
+              "enabled" : false,
+              "name" : "24/7 Live Rep"
+            },
+            {
+              "enabled" : true,
+              "name" : "Chat"
+            }
+          ],
+          "training" : [
+            {
+              "enabled" : false,
+              "name" : "Not Offered"
+            },
+            {
+              "enabled" : true,
+              "name" : "In-Person"
+            },
+            {
+              "enabled" : true,
+              "name" : "Live Online"
+            },
+            {
+              "enabled" : true,
+              "name" : "Webinars"
+            },
+            {
+              "enabled" : true,
+              "name" : "Documentation"
+            },
+            {
+              "enabled" : true,
+              "name" : "Videos"
+            }
+          ],
+          "media" : [
+            {
+              "product_id" : 224549,
+              "vendor_id" : 2170936,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/3757314c-37cc-4217-9509-38c158260b93.png",
+              "caption" : "Receiving screen",
+              "weight" : 2,
+              "short_name" : "eprocxpurc"
+            },
+            {
+              "product_id" : 224549,
+              "vendor_id" : 2170936,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/55949a81-09f7-4378-bbaa-4892bcf1dca5.png",
+              "caption" : "Invoicing screen",
+              "weight" : 4,
+              "short_name" : "eprocxpurc"
+            },
+            {
+              "product_id" : 224549,
+              "vendor_id" : 2170936,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/ecfc06eb-86a3-4a67-8f0c-2f7041470bb5.png",
+              "caption" : "Reporting option - Expiring items",
+              "weight" : 3,
+              "short_name" : "eprocxpurc"
+            },
+            {
+              "product_id" : 224549,
+              "vendor_id" : 2170936,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/134926b4-7e4f-414f-a342-ae886c5937ce.png",
+              "caption" : "Shopping screen with product images",
+              "weight" : 1,
+              "short_name" : "eprocxpurc"
+            },
+            {
+              "product_id" : 224549,
+              "vendor_id" : 2170936,
+              "media_type" : "VIDEO",
+              "path_url" : "https://vimeo.com/569066528",
+              "caption" : null,
+              "weight" : 0,
+              "short_name" : "eprocxpurc"
+            }
+          ],
+          "links" : [
+            {
+              "product_id" : 224549,
+              "functional_group" : "eprocxpurc",
+              "html_code" : "https://hybrent.com/hybrent-request-demo/",
+              "link_name" : "Free Demo",
+              "link_priority" : 2.0
+            }
+          ],
+          "features" : [
+            {
+              "category_name" : "Purchasing",
+              "category_features" : [
+                {
+                  "name" : "Compliance Management",
+                  "value" : true,
+                  "id" : "067f6bae-1749-483f-ac79-6c2c3c4114c8",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Track and manage non-adherence to policies in a service, product, process, or supplier behavior"
+                },
+                {
+                  "name" : "Contract/License Management",
+                  "value" : true,
+                  "id" : "efd314c0-e308-412f-9ff3-8bd8745c3096",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track, store, and access client/customer contracts"
+                },
+                {
+                  "name" : "Inventory Management",
+                  "value" : true,
+                  "id" : "80f46038-6ae8-4725-8064-788b20380eeb",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 2.67,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.667,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track and manage the quantity of resources on hand to maintain proper supply"
+                },
+                {
+                  "name" : "Invoice Processing",
+                  "value" : true,
+                  "id" : "5f8f8f76-1a67-44af-8cdc-af5336b6227a",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Create, process, execute and manage suppliers invoices till the payment is made"
+                },
+                {
+                  "name" : "Purchase Order Management",
+                  "value" : true,
+                  "id" : "a9f6bc9b-faba-4d7a-95c4-d72a86ef6937",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 2.33,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 4,
+                  "pct_time_used" : 0.75,
+                  "cnt_time_critical" : 4,
+                  "pct_time_critical" : 0.25,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Create, send, and track purchase orders and their statuses"
+                },
+                {
+                  "name" : "Requisition Management",
+                  "value" : true,
+                  "id" : "19b32b58-b5e4-423d-9cff-3d153a687022",
+                  "avg_rating" : 0.0,
+                  "cnt_rating" : 0,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Review, approve and cancel requests for goods/services to be purchased"
+                },
+                {
+                  "name" : "Sourcing Management",
+                  "value" : true,
+                  "id" : "93b5e32f-a2ee-46af-9d88-f0ba991d00e0",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Negotiate best prices and choose the right vendor for various purchases"
+                },
+                {
+                  "name" : "Spend Management",
+                  "value" : true,
+                  "id" : "fbc16671-865c-4c7a-a69c-de2050f554b3",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 0.667,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.667,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : "Track the amount of money spent on a certain product or with a certain supplier"
+                },
+                {
+                  "name" : "Supplier Management",
+                  "value" : true,
+                  "id" : "aa61511b-b73d-4fbb-a5f4-0ea85d124fcb",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 0.5,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Manage various aspects of the relationship with suppliers (e.g. interactions, history)"
+                }
+              ]
+            }
+          ],
+          "infographics" : [ ],
+          "related_products" : [
+            {
+              "product_id" : 227399,
+              "seo_product_id" : 227399,
+              "seo_slug" : "QuickBooks-Commerce",
+              "vendor_name" : "Intuit",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/a04a169b-1159-4018-9bf6-d3f3f966fa7d.png",
+              "rating" : 4.5,
+              "total_reviews" : 480,
+              "slug" : "QuickBooks-Commerce",
+              "product_name" : "QuickBooks Commerce",
+              "short_desc" : "QuickBooks Commerce enables you to manage inventory and orders for your multichannel business and keep track of products.",
+              "features" : "QuickBooks Commerce enables you to manage inventory and orders for your multichannel business and keep track of your products as you sell and restock across multiple warehouse locations and channels. \n\nQuickBooks Commerce allows brands to automate and integrate their commerce platforms and get powerful insights into all their sales data on-demand.",
+              "url" : "https://www.tradegecko.com/"
+            },
+            {
+              "product_id" : 134507,
+              "seo_product_id" : 227428,
+              "seo_slug" : "Zoho-Books",
+              "vendor_name" : "Zoho",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/f466ce3f-c0e1-4a2f-a983-8ce97463455b.png",
+              "rating" : 4.4,
+              "total_reviews" : 476,
+              "slug" : "Zoho-Books",
+              "product_name" : "Zoho Books",
+              "short_desc" : "Simple, easy-to-use accounting software to help you manage your business finance in a smart way!",
+              "features" : "Use Zoho Books to create and send detailed and customized purchase orders with your own branding. Track opened purchase orders and convert POs to bills.",
+              "url" : "https://www.zoho.com/books/?utm_medium=cpc&utm_campaign=purchasing"
+            },
+            {
+              "product_id" : 136321,
+              "seo_product_id" : 220381,
+              "seo_slug" : "ProcurementExpresscom",
+              "vendor_name" : "ProcurementExpress.com",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/b671c54f-8fa2-47e7-9265-2d48f2795a61.png",
+              "rating" : 4.7,
+              "total_reviews" : 368,
+              "slug" : "ProcurementExpress-com",
+              "product_name" : "ProcurementExpress.com",
+              "short_desc" : "360+ 4.7/5 reviews. Simple yet, fully featured. The highest rated purchasing software. ",
+              "features" : "Simple Purchasing software that allows team members to create purchase requests on the go that can get approved by pre-defined approvers - from any device. All relevant comments & docs can get attached to the PO & managed for reporting & auditing. Eliminate spending mistakes & keep team members accountable for company card purchasing. View and manage budgets in real-time for insightful decision-making for each purchase. Draw accurate reports with a click of a button for the accountant.",
+              "url" : "https://app.procurementexpress.com/users/sign_up?utm_source=capterra&utm_medium=purchasing"
+            },
+            {
+              "product_id" : 144848,
+              "seo_product_id" : 222000,
+              "seo_slug" : "Pipefy",
+              "vendor_name" : "Pipefy",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/06e32786-d6a3-46c1-8727-2f04051245b7.png",
+              "rating" : 4.6,
+              "total_reviews" : 275,
+              "slug" : "Pipefy",
+              "product_name" : "Pipefy",
+              "short_desc" : "Automate and integrate your processes to gain full control and visibility of your purchasing process with Pipefy.",
+              "features" : "Gain full control and visibility of your purchasing process with Pipefy.\n\nThe process management platform helps you ensure requisitions and purchase orders are being processed quickly and accurately, and allows you to integrate your accounting software or other legacy tools to scale your operation. \n\nBuild an error-proof operation with digital workflows that reduce the risk of human error. Try Pipefy for free.\n\n",
+              "url" : "https://www.pipefy.com/lp/purchase-request-cd/?utm_medium=cpc&utm_source=capterra&utm_campaign=capterra_perf_usa_usa_mktplace_na_fin_purchasing"
+            },
+            {
+              "product_id" : 212480,
+              "seo_product_id" : 212480,
+              "seo_slug" : "Orderhive",
+              "vendor_name" : "Orderhive Inc.",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8da40beb-86f0-438f-94df-d2f4bd13cc31.png",
+              "rating" : 4.4,
+              "total_reviews" : 245,
+              "slug" : "Orderhive",
+              "product_name" : "Orderhive",
+              "short_desc" : "Cin7 Orderhive is the ultimate automated eCommerce order management, and inventory management software for retailers and wholesalers.",
+              "features" : "Cin7 Orderhive is order, shipping, and inventory management software for online retailers and marketplace sellers. Automate, track, and manage your orders from the 16 most popular marketplaces, and 9 most popular online stores like Shopify, WooCommerce, etc. Easily set automation rules to efficiently process 10 to 1000s of orders per day including automated, integrated shipping, fulfillment, 3PLs, and drop shipping.",
+              "url" : "https://www.orderhive.com/"
+            },
+            {
+              "product_id" : 141589,
+              "seo_product_id" : 225343,
+              "seo_slug" : "Spendwise",
+              "vendor_name" : "Spendwise",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/60c84207-27d0-4f7e-bbfa-e44fc3aed0f4.png",
+              "rating" : 4.5,
+              "total_reviews" : 204,
+              "slug" : "Officewise",
+              "product_name" : "Spendwise",
+              "short_desc" : "Spendwise is an affordable easy-to-use online system that helps you control spending saving you time and money.",
+              "features" : "Spendwise is an affordable easy-to-use online system that helps you control spending saving you time and money.  Users can create purchase orders, submit them for approval, approve or reject them, and send them directly to vendors.  Users can also keep track of items and bills received from vendors.  Spendwise is web-based so you don't have to install software and you can access it from anywhere.  Visit our website for more information and sign up for a Free Trial and/or Demo!",
+              "url" : "https://secure.spendwise.com/home/purchase_order_landing?utm_medium=cpc&utm_campaign=purchasing"
+            },
+            {
+              "product_id" : 148522,
+              "seo_product_id" : 212163,
+              "seo_slug" : "Precoro",
+              "vendor_name" : "Precoro",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/9b562a95-f54a-4945-9f53-d59ea01e8871.png",
+              "rating" : 4.8,
+              "total_reviews" : 161,
+              "slug" : "Precoro",
+              "product_name" : "Precoro",
+              "short_desc" : "Centralize and control purchasing process. Structured approvals, Amazon Punch-in, budgeting, unified items catalogs, and more.",
+              "features" : "Manage purchasing process and access real-time reports. Precoro helps you streamline approval workflow, match invoices with orders and receipts, set up rules for cost centers or budgets, purchase directly from Amazon Business, and control stock. Add attachments and notes whenever you need them. Precoro is easy to use and implement. Get access to a 14-days free trial to ensure we're the perfect fit for your business.",
+              "url" : "https://get.precoro.com/purchasing-software/?utm_source=capterra&utm_medium=cpc&utm_campaign=purchasing"
+            },
+            {
+              "product_id" : 129758,
+              "seo_product_id" : 224569,
+              "seo_slug" : "Procurify",
+              "vendor_name" : "Procurify",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4fbec6ff-12fe-4cbc-a11a-892c86724435.png",
+              "rating" : 4.5,
+              "total_reviews" : 138,
+              "slug" : "Procurify",
+              "product_name" : "Procurify",
+              "short_desc" : "Deploy personalized procure-to-pay workflows that empower your teams to purchase what they need, when they need it. ",
+              "features" : "Speed up purchasing and empower teams to buy what they need, when they need it, without the bottlenecks. The Procurify Platform brings all your purchasing needs together in one easy-to-use platform that fully integrates with your existing accounting systems. Maximize operational efficiency and increase spend visibility and control with comprehensive procure-to-pay workflows, 3-way matching, and custom approvals.",
+              "url" : "https://start.procurify.com/purchasing?utm_source=capterra&utm_medium=referral&utm_campaign=2005_General_Purchasing_Demo_WebRef_MKTGt"
+            },
+            {
+              "product_id" : 178978,
+              "seo_product_id" : 220983,
+              "seo_slug" : "Lightyear",
+              "vendor_name" : "Lightyear",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/0866d169-dbdf-4d23-8998-f38c2adc1aa7.png",
+              "rating" : 4.9,
+              "total_reviews" : 117,
+              "slug" : "Lightyear",
+              "product_name" : "Lightyear",
+              "short_desc" : "Streamline and secure your company's purchasing process with multi-tier approval and automated 3-way line item matching.\n",
+              "features" : "Lightyear's class-leading platform brings purchasing visibility to your business from computer, tablet or mobile. Control who can order what, increase the speed of approvals, bring spending under control & reduce the potential for fraud with our Purchase Order (PO) workflow and approvals matrix. Automate and streamline bill to PO matching with automated 3-way matching at a line-item level.",
+              "url" : "https://www.lightyear.cloud?utm_medium=cpc&utm_source=capterra&utm_campaign=capterra"
+            },
+            {
+              "product_id" : 135480,
+              "seo_product_id" : 135480,
+              "seo_slug" : "ecomdash",
+              "vendor_name" : "ecomdash",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d41556b3-cd81-43d3-b503-71d44f617097.jpeg",
+              "rating" : 3.8,
+              "total_reviews" : 106,
+              "slug" : "ecomdash",
+              "product_name" : "ecomdash",
+              "short_desc" : "Cloud-based tool that helps businesses manage order fulfillment & inventory processes across online sales channels.",
+              "features" : "Ecomdash is an inventory management and order fulfillment software company that gives you the option of managing all your online sales channels from one dashboard. Coordinate sales and stock levels on platforms such as eBay, Amazon, Etsy, and more with reporting and auto-synchronizing. \n\nThe software is ideal for small to medium sized companies and comes with a free 15-day trial and free onboarding session for new, active users. All ecomdash customers also receive a free Pitney Bowes account.",
+              "url" : "https://www.ecomdash.com/?utm_source=capterra&utm_medium=cpc&utm_campaign=default"
+            },
+            {
+              "product_id" : 159500,
+              "seo_product_id" : 159500,
+              "seo_slug" : "Dolibarr-ERP-CRM",
+              "vendor_name" : "Dolicloud",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/326e2090-fffb-42d0-9ad7-98cf033fa0a8.png",
+              "rating" : 4.5,
+              "total_reviews" : 92,
+              "slug" : "Dolibarr-ERP-CRM",
+              "product_name" : "Dolibarr",
+              "short_desc" : "Open source solution for all around business management from customers and orders to invoicing and inventory.",
+              "features" : "Open source solution for all around business management: Sales, Invoicing, Agenda, Stock, Purchase Orders, Emailing, Accounting, Expense report, Leave requests. Several hundreds of modules are available according to your need.",
+              "url" : "https://www.dolibarr.org"
+            }
+          ],
+          "similar_products" : [
+            {
+              "product_id" : 129758,
+              "seo_product_id" : 224569,
+              "seo_slug" : "Procurify",
+              "vendor_name" : "Procurify",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4fbec6ff-12fe-4cbc-a11a-892c86724435.png",
+              "rating" : 4.5,
+              "total_reviews" : 138,
+              "slug" : "Procurify",
+              "product_name" : "Procurify",
+              "short_desc" : "Deploy personalized procure-to-pay workflows that empower your teams to purchase what they need, when they need it. ",
+              "features" : "Speed up purchasing and empower teams to buy what they need, when they need it, without the bottlenecks. The Procurify Platform brings all your purchasing needs together in one easy-to-use platform that fully integrates with your existing accounting systems. Maximize operational efficiency and increase spend visibility and control with comprehensive procure-to-pay workflows, 3-way matching, and custom approvals.",
+              "url" : "https://start.procurify.com/purchasing?utm_source=capterra&utm_medium=referral&utm_campaign=2005_General_Default_Demo_WebRef_MKTGt"
+            },
+            {
+              "product_id" : 136321,
+              "seo_product_id" : 220381,
+              "seo_slug" : "ProcurementExpresscom",
+              "vendor_name" : "ProcurementExpress.com",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/b671c54f-8fa2-47e7-9265-2d48f2795a61.png",
+              "rating" : 4.7,
+              "total_reviews" : 368,
+              "slug" : "ProcurementExpress-com",
+              "product_name" : "ProcurementExpress.com",
+              "short_desc" : "360+ 4.7/5 reviews. Simple yet, fully featured. The highest rated purchasing software. ",
+              "features" : "Simple Purchasing software that allows team members to create purchase requests on the go that can get approved by pre-defined approvers - from any device. All relevant comments & docs can get attached to the PO & managed for reporting & auditing. Eliminate spending mistakes & keep team members accountable for company card purchasing. View and manage budgets in real-time for insightful decision-making for each purchase. Draw accurate reports with a click of a button for the accountant.",
+              "url" : "https://app.procurementexpress.com/users/sign_up?utm_source=capterra&utm_medium=default"
+            },
+            {
+              "product_id" : 161813,
+              "seo_product_id" : 221335,
+              "seo_slug" : "Negotiatus",
+              "vendor_name" : "Order",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/608748e2-a1ae-4183-a0c6-1c8c9e5b0a99.png",
+              "rating" : 4.4,
+              "total_reviews" : 56,
+              "slug" : "Order-Software",
+              "product_name" : "Order",
+              "short_desc" : "Simplify your purchasing by centralizing it onto 1 platform with the proper guardrails in place to ensure compliance and cost savings.",
+              "features" : "Order simplifies buying for businesses by centralizing it onto one platform. With Order, all the products your company needs to operate can be found in one place with the approval and budgeting guardrails needed to ensure compliance. Placing recurring orders is as simple as one click with saved product lists, and saving on purchases hasn't been easier with Order's $4 billion in purchasing power and strategic sourcing that ensures you always pay the lowest prices for your products. ",
+              "url" : "https://get.order.co/demo-request/?utm_source=Capterra&utm_medium=ppc"
+            },
+            {
+              "product_id" : 101629,
+              "seo_product_id" : 223447,
+              "seo_slug" : "PROACTIS",
+              "vendor_name" : "Proactis",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e36e6f90-478e-4531-b3e2-c9de331a73b9.png",
+              "rating" : 4.4,
+              "total_reviews" : 13,
+              "slug" : "PROACTIS",
+              "product_name" : "PROACTIS",
+              "short_desc" : "The smart & powerful Proactis purchasing solution drives cost savings & efficiency while simplifying processes & improving visibility.",
+              "features" : "Work faster & easier by automating purchasing with the Proactis cloud-based spend management platform. Eliminate time-consuming manual processes. Realize quick cost savings, spend control & visibility. Experience simple & quick approvals, easy analysis & greater visibility to all procurement & finance functions in a simple yet powerful platform. Realize improved productivity, speed & transparency. Trusted by 3M+ users worldwide, Proactis integrates with the top ERP systems. Book a free demo now.",
+              "url" : "https://info.gartnerdigitalmarkets.com/proactis-gdm-lp"
+            },
+            {
+              "product_id" : 83439,
+              "seo_product_id" : 5681,
+              "seo_slug" : "eRequester",
+              "vendor_name" : "Fraxion",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4750d5a4-530c-4c57-a7b5-39f03dee17c0.png",
+              "rating" : 4.3,
+              "total_reviews" : 47,
+              "slug" : "Fraxion-Spend-Management",
+              "product_name" : "Fraxion",
+              "short_desc" : "Best-in-class purchasing solution for effective spend management, complete transparency, insights and compliance.",
+              "features" : "Replace manual, time consuming processes, and spreadsheets with automated purchase requisitioning, PO, expense and approval workflows, spend analytics, and reporting power. Save time and costs with smarter spending processes, that are informed, in budget, and policy compliant. Integrated with your ERP / accounting system or standalone, Fraxion's easy to use system drives efficiencies throughout the purchase-to-pay process.",
+              "url" : "https://www.fraxion.biz/fraxion-solutions"
+            },
+            {
+              "product_id" : 132012,
+              "seo_product_id" : 222973,
+              "seo_slug" : "Digital-Purchase-Order",
+              "vendor_name" : "LeBog Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4bbea70d-b3d5-4f8a-9072-060112709a5c.png",
+              "rating" : 4.6,
+              "total_reviews" : 60,
+              "slug" : "Digital-Purchase-Order",
+              "product_name" : "Digital Purchase Order",
+              "short_desc" : "A web-based purchasing software that offers the ability to create, view, and approve POs, track deliveries and approve invoices.",
+              "features" : "This cloud-based purchasing software is an award winning solution, simplifying the purchase workflow and offering the complete cycle starting from the creation of POs, their customized approval, track receiving and matching+approval of invoices.\n\nDPOs advanced user interface is easy to use and available 24/7. It works with multiple languages and currencies and is also available through mobile apps. Our clients have more than 200 options to customize their settings the way they want. ",
+              "url" : "https://www.digitalpurchaseorder.com/purchase-order-template"
+            },
+            {
+              "product_id" : 176776,
+              "seo_product_id" : 230577,
+              "seo_slug" : "TeamPay",
+              "vendor_name" : "Teampay",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/a55a8aca-b493-4612-b3be-a2d4becf7a42.png",
+              "rating" : 4.6,
+              "total_reviews" : 13,
+              "slug" : "TeamPay",
+              "product_name" : "Teampay",
+              "short_desc" : "Teampay's intuitive purchasing software automates and simplifies all purchases from end to end. Connect using Slack and Teams",
+              "features" : "Get ahead of your company's spend with automated upfront controls that make everyone's job easier. Teampay's proactive approach makes it easy for employees to code transactions as they happen, providing the most up-to-date purchase data with transactions that are automatically reconciled to your accounting software. Save your entire company time and empower your employees with easy-to-follow workflows that ensure they're spending in policy for every purchase, every time.",
+              "url" : "https://www.teampay.co/features/spend-management-software/?utm_medium=referral&utm_campaign=organic-listing&utm_term=default"
+            },
+            {
+              "product_id" : 141589,
+              "seo_product_id" : 225343,
+              "seo_slug" : "Spendwise",
+              "vendor_name" : "Spendwise",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/60c84207-27d0-4f7e-bbfa-e44fc3aed0f4.png",
+              "rating" : 4.5,
+              "total_reviews" : 204,
+              "slug" : "Officewise",
+              "product_name" : "Spendwise",
+              "short_desc" : "Spendwise is an affordable easy-to-use online system that helps you control spending saving you time and money.",
+              "features" : "Spendwise is an affordable easy-to-use online system that helps you control spending saving you time and money.  Users can create purchase orders, submit them for approval, approve or reject them, and send them directly to vendors.  Users can also keep track of items and bills received from vendors.  Spendwise is web-based so you don't have to install software and you can access it from anywhere.  Visit our website for more information and sign up for a Free Trial and/or Demo!",
+              "url" : "https://secure.spendwise.com/home/purchase_order_landing?utm_medium=cpc&utm_campaign=purchasing"
+            },
+            {
+              "product_id" : 148522,
+              "seo_product_id" : 212163,
+              "seo_slug" : "Precoro",
+              "vendor_name" : "Precoro",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/9b562a95-f54a-4945-9f53-d59ea01e8871.png",
+              "rating" : 4.8,
+              "total_reviews" : 161,
+              "slug" : "Precoro",
+              "product_name" : "Precoro",
+              "short_desc" : "Centralize and control purchasing process. Structured approvals, Amazon Punch-in, budgeting, unified items catalogs, and more.",
+              "features" : "Manage purchasing process and access real-time reports. Precoro helps you streamline approval workflow, match invoices with orders and receipts, set up rules for cost centers or budgets, purchase directly from Amazon Business, and control stock. Add attachments and notes whenever you need them. Precoro is easy to use and implement. Get access to a 14-days free trial to ensure we're the perfect fit for your business.",
+              "url" : "https://get.precoro.com/procurement-software/?utm_source=capterra&utm_medium=cpc"
+            },
+            {
+              "product_id" : 136077,
+              "seo_product_id" : 212271,
+              "seo_slug" : "Tradogram",
+              "vendor_name" : "Tradogram Inc.",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/3773550e-0d8e-4ecd-9114-5185c2cfdf2d.png",
+              "rating" : 4.5,
+              "total_reviews" : 45,
+              "slug" : "Tradogram",
+              "product_name" : "Tradogram",
+              "short_desc" : "Manage your direct & indirect purchasing on your own private purchasing platform. Free version available.",
+              "features" : "Simple Purchasing Software for all company sizes. Tradogram provides customizable tools to streamline your Requisitions, Purchase Orders, RFQs/RFPs, Contracts, Receiving and Invoice Matching. Also, manage the process with User Permissions, Approvals, Budgets, Items Catalog, Supplier Management, Projects & much more. The latest cloud technology with top security & performance criteria. Get your FREE account today & see how easy it is to use!",
+              "url" : "https://tradogram.com/"
+            },
+            {
+              "product_id" : 144848,
+              "seo_product_id" : 222000,
+              "seo_slug" : "Pipefy",
+              "vendor_name" : "Pipefy",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/06e32786-d6a3-46c1-8727-2f04051245b7.png",
+              "rating" : 4.6,
+              "total_reviews" : 275,
+              "slug" : "Pipefy",
+              "product_name" : "Pipefy",
+              "short_desc" : "Automate and integrate your processes to gain full control and visibility of your purchasing process with Pipefy.",
+              "features" : "Gain full control and visibility of your purchasing process with Pipefy.\n\nThe process management platform helps you ensure requisitions and purchase orders are being processed quickly and accurately, and allows you to integrate your accounting software or other legacy tools to scale your operation. \n\nBuild an error-proof operation with digital workflows that reduce the risk of human error. Try Pipefy for free.\n\n",
+              "url" : "https://www.pipefy.com/?utm_medium=cpc&utm_source=capterra&utm_campaign=capterra_defaultprofile&utm_source=capterra"
+            },
+            {
+              "product_id" : 204916,
+              "seo_product_id" : 225502,
+              "seo_slug" : "Kissflow-Procurement-Cloud",
+              "vendor_name" : "Kissflow",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/b2af2acb-24b4-48bf-8d53-57ff81186f0e.png",
+              "rating" : 4.3,
+              "total_reviews" : 11,
+              "slug" : "Kissflow-Procurement-Cloud",
+              "product_name" : "Kissflow Procurement Cloud",
+              "short_desc" : "Kissflow brings you the #1 Procurement cloud solution which is flexible and has purchasing to vendor management, all in one platform.",
+              "features" : "Kissflow Procurement Cloud is the #1 flexible procurement solutions which has everything from purchasing to vendor management, all in one platform. It has all everything include Purchase Orders, Purchase Requisition, Vendor Management, Purchase Invoicing, Analytics, and Integrations.",
+              "url" : "https://kissflow.com/procurement/?utm_medium=ppc&utm_campaign=Gartner-ProcurementSoftware&utm_kf_source=Gartner-ProcurementSoftware"
+            },
+            {
+              "product_id" : 156123,
+              "seo_product_id" : 156123,
+              "seo_slug" : "Expeni",
+              "vendor_name" : "Expeni",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/bc2cbd5e-6d66-4be9-978a-c470c2b84ec7.png",
+              "rating" : 4.9,
+              "total_reviews" : 38,
+              "slug" : "Expeni",
+              "product_name" : "Expeni",
+              "short_desc" : "Expeni.com is a low-priced, simple and easy to use purchase order management system. Best fit for a small budget!",
+              "features" : "Low-priced, simple and easy to use! With one-click approval process, Expeni.com simplifies the Purchase Order management process. Setup budgets. Employees can issue purchase orders quickly, attach invoices etc. Automatic email notifications notify approvers. Managers can approve from anywhere. Setup muti-level approval. Finance can add payments. Export CSV or PDF. Share with suppliers. Customize PO form. Control PO access between departments and branch locations. Manage suppliers and products.",
+              "url" : "https://app.expeni.com/Home/Signup"
+            }
+          ],
+          "related_categories" : [
+            {
+              "functional_group" : "eprocxpurc",
+              "long_name" : "Accounting",
+              "html_name" : "accounting-software",
+              "link_name" : "accounting",
+              "product_count" : 240,
+              "meta_description" : "Find and compare top Accounting software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Accounting tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/accounting-software\">Accounting software</a> automates an organization's financial functions and transactions with modules including accounts payable, accounts receivable, payroll, billing and general ledger.  Integration of Accounting applications allows for comprehensive, real-time, on-demand analysis of an organization's financial status.  Toolsets within Accounting solutions can often be customized to the specific needs of an organization.  <a href=\"/accounting-software\">Accounting software</a> is related to <a href=\"/audit-software\">Audit software</a>, <a href=\"/billing-and-invoicing-software\">Billing and Invoicing software</a>, <a href=\"/compliance-software\">Compliance software</a> and <a href=\"/financial-reporting-software\">Financial Reporting software</a>."
+            },
+            {
+              "functional_group" : "eprocxpurc",
+              "long_name" : "Contract Management",
+              "html_name" : "contract-management-software",
+              "link_name" : "contract-management",
+              "product_count" : 88,
+              "meta_description" : "Find and compare top Contract Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Contract Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/contract-management-software>Contract Management software</a> automates the creation, tracking, and monitoring of contracts and agreements.  <a href=/contract-management-software>Contract Management software</a> also allows for the company-wide sharing of contract documents and management of differing document versions. These contract management applications often provide top-down control and monitoring of contract status, key dates, and personnel responsibilities.  <a href=/contract-management-software>Contract Management software</a> is related to <a href=/customer-relationship-management-software>Customer Relationship Management software</a>. "
+            },
+            {
+              "functional_group" : "eprocxpurc",
+              "long_name" : "Procurement",
+              "html_name" : "procurement-software",
+              "link_name" : "procurement",
+              "product_count" : 133,
+              "meta_description" : "Find and compare top Procurement software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Procurement tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/procurement-software\">Procurement software</a> automates the purchasing process and manages all activities related to an organization's expenditures.  Procurement applications automate the process of resource acquisition and supplier relationship management.  Employees can easily create purchase orders subject to review and approval by managers.  Managers have a broad range tools at their disposal for tracking, analysis and reporting on business process efficiency.  <a href=\"/procurement-software\">Procurement software</a> is related to <a href=\"/billing-and-invoicing-software\">Billing and Invoicing software</a>, <a href=\"/purchasing-software\">Purchasing software</a> and <a href=\"/vendor-management-software\">Vendor Management software</a>."
+            },
+            {
+              "functional_group" : "eprocxpurc",
+              "long_name" : "Spend Management",
+              "html_name" : "spend-management-software",
+              "link_name" : "spend-management",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Spend Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Spend Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "Spend Management software helps companies track and report on actual expenditures as well as control these expenditures through tools that limit amounts that can be spent by employees."
+            },
+            {
+              "functional_group" : "eprocxpurc",
+              "long_name" : "Vendor Management",
+              "html_name" : "vendor-management-software",
+              "link_name" : "vendor-management",
+              "product_count" : 69,
+              "meta_description" : "Find and compare top Vendor Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Vendor Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs.",
+              "description" : "<a href=\"/vendor-management-software\">Vendor Management software</a> helps manage costs, track progress, and report on relationship and product quality of third-party vendors.  When an organization uses multiple vendors, <a href=\"/vendor-management-software\">Vendor Management software</a> can enhance productivity and collaboration of the vendor projects.  This type of software often includes information databasing, vendor scoring, RFP and bidding functionality, and performance tracking.  <a href=\"/vendor-management-software\">Vendor Management software</a> is related to <a href=\"/contract-management-software\">Contract Management software</a>, <a href=\"/proposal-management-software\">Proposal Management software</a>, <a href=\"/procurement-software\">Procurement software</a>, and <a href=\"/purchasing-software\">Purchasing software</a>."
+            }
+          ],
+          "is_upgraded" : false,
+          "enabled" : true,
+          "filter_options" : {
+            "users" : 127,
+            "platform" : 897,
+            "pricing_options" : 2,
+            "category_related_features" : [
+              19805,
+              19809,
+              19810,
+              19812,
+              19813,
+              36080,
+              36081,
+              38483,
+              39285,
+              40646,
+              40647,
+              40648,
+              49865,
+              49868,
+              49871,
+              49872,
+              49874,
+              49875,
+              49876,
+              49880,
+              49883,
+              49884,
+              49885,
+              49886,
+              49889,
+              49891,
+              49893,
+              49896,
+              49898,
+              49899,
+              49900,
+              49901
+            ],
+            "employees" : 127
+          },
+          "sort_options" : {
+            "sort_review_rating" : 4.540143966674805,
+            "most_recent_review" : "2021-08-18T18:50:42Z"
+          },
+          "countries" : "ALL",
+          "features_tokenized_text" : "compliance_management contract/license_management inventory_management invoice_processing purchase_order_management requisition_management sourcing_management spend_management supplier_management",
+          "platform_tokenized_text" : "cloud,saas,web-based mobileandroid mobileiphone mobileipad",
+          "users_tokenized_text" : "1 2-10 11-50 51-200 201-500 501-1000 1000+",
+          "pricing_tokenized_text" : "monthlysubscription",
+          "badges" : [ ],
+          "bid_spot_us" : 0.0,
+          "currency_code" : "USD",
+          "currency_symbol" : "$",
+          "credit_card_required" : null,
+          "licensing_model" : null,
+          "open_api_offered" : "Yes",
+          "mobile_urls" : [
+            {
+              "name" : "Android",
+              "url" : "https://play.google.com/store/apps/details?id=com.hybrent.hybrent&hl=en_IN"
+            },
+            {
+              "name" : "iOS",
+              "url" : "https://apps.apple.com/us/app/hybrent/id1038806891"
+            }
+          ],
+          "integrations" : [
+            {
+              "id" : "fe81b962-5949-4953-8684-a6d200b52931",
+              "name" : "Microsoft Dynamics GP"
+            },
+            {
+              "id" : "0db864c4-712f-48e6-bcfb-a6d200b53c81",
+              "name" : "Multiview ERP"
+            },
+            {
+              "id" : "401f3243-3ee9-4c20-99c3-c20a78aed8c7",
+              "name" : "Vision"
+            },
+            {
+              "id" : "885b2837-e739-4034-bcbf-a6d200b49f49",
+              "name" : "QuickBooks Desktop Enterprise"
+            },
+            {
+              "id" : "42d4ed6e-24b8-413e-aee7-a6d200b49f49",
+              "name" : "Sage Intacct"
+            },
+            {
+              "id" : "c6dc588d-a2c0-421b-8719-a6d200b4adc6",
+              "name" : "MineralTree Invoice-to-Pay"
+            },
+            {
+              "id" : "9995897e-431b-4ea1-b72c-a6d200b51bfd",
+              "name" : "MedInformatix"
+            },
+            {
+              "id" : "6a680041-f372-46f3-a3e9-a6d200b556c0",
+              "name" : "NetSuite"
+            },
+            {
+              "id" : "846bd23e-919a-4c20-8b6d-a6d200b77ff8",
+              "name" : "Workday Financial Management"
+            },
+            {
+              "id" : "232f9f60-b103-4abe-bdfb-a6e4009bf503",
+              "name" : "Brightree"
+            },
+            {
+              "id" : "d9e2be1b-3b4a-4c06-8240-a938003b2714",
+              "name" : "HSTpathways"
+            },
+            {
+              "id" : "2b49cd1b-bddc-4c1e-86c6-9171b434f6d4",
+              "name" : "MatrixCare Senior Living Facility"
+            },
+            {
+              "id" : "c6e4846a-006f-4dea-9325-d725ff404d0e",
+              "name" : "SigmaCare"
+            },
+            {
+              "id" : "ab8ce93e-f131-47d8-95a7-a6d200b28511",
+              "name" : "Abila Elevate"
+            },
+            {
+              "id" : "41ad8864-c63d-451c-9723-a6d200b2e0b3",
+              "name" : "Bill.com"
+            },
+            {
+              "id" : "dc91f2fc-b1d7-4bc3-889c-a6d200b2fce1",
+              "name" : "MatrixCare Home Health & Hospice"
+            },
+            {
+              "id" : "c3658ad4-c222-419f-ae89-a6d200b3246d",
+              "name" : "Cerner PowerChart Ambulatory EHR"
+            },
+            {
+              "id" : "b65bf2e7-9b5c-4ac2-8889-a6d200b4e769",
+              "name" : "Lawson Supply Chain Management"
+            },
+            {
+              "id" : "8a673145-a4b8-47c5-8429-a6d200b5a51b",
+              "name" : "PCC"
+            },
+            {
+              "id" : "eab58142-6040-46ce-9341-a6d200b7915e",
+              "name" : "Xero"
+            },
+            {
+              "id" : "3db3d02e-2208-4476-9747-a6d200b7f02c",
+              "name" : "ParagonERP"
+            }
+          ],
+          "supported_countries" : [
+            {
+              "id" : 237,
+              "code" : "US",
+              "name" : "United States of America"
+            },
+            {
+              "id" : 41,
+              "code" : "CA",
+              "name" : "Canada"
+            }
+          ],
+          "supported_languages" : [
+            {
+              "id" : 152,
+              "code" : "en",
+              "name" : "English",
+              "location" : null
+            }
+          ],
+          "target_industries" : [
+            {
+              "id" : 57,
+              "code" : "14",
+              "name" : "Hospital & Health Care"
+            },
+            {
+              "id" : 142,
+              "code" : "16",
+              "name" : "Veterinary"
+            },
+            {
+              "id" : 88,
+              "code" : "13",
+              "name" : "Medical Practice"
+            },
+            {
+              "id" : 55,
+              "code" : "124",
+              "name" : "Health, Wellness and Fitness"
+            }
+          ],
+          "price_range_id" : 1,
+          "aggregated_review_ratings" : {
+            "industry" : {
+              "13" : 4.68,
+              "124" : 4.67,
+              "14" : 4.85,
+              "16" : 4.0,
+              "11" : 5.0
+            },
+            "company_size" : {
+              "1001-5000 employees" : 4.5,
+              "11-50 employees" : 4.91,
+              "201-500 employees" : 4.5,
+              "51-200 employees" : 4.82,
+              "501-1000 employees" : 4.67
+            }
+          },
+          "vct_enabled" : false,
+          "pricing_plans" : [
+            {
+              "created_on_utc" : "2019-09-30T10:10:51Z",
+              "modified_on_utc" : "2022-04-11T20:39:21Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Basic",
+              "description" : null,
+              "display_order" : 1,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 475.0,
+              "ending_price" : null,
+              "pricing_model_name" : null,
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [ ]
+            }
+          ],
+          "discount_types" : [ ]
+        }
+      }
+    ]
+  }
+}

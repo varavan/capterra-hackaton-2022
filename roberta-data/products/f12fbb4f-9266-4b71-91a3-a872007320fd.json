@@ -1,0 +1,2293 @@
+{
+  "took" : 11,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 3,
+    "successful" : 3,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : {
+      "value" : 1,
+      "relation" : "eq"
+    },
+    "max_score" : 10.281416,
+    "hits" : [
+      {
+        "_index" : "product_listings_main_data_upc_vt20220920_043802_utc",
+        "_type" : "_doc",
+        "_id" : "172000_sportsleag",
+        "_score" : 10.281416,
+        "_source" : {
+          "product_id" : 172000,
+          "seo_product_id" : 172000,
+          "seo_slug" : "Team-App",
+          "product_name" : "Team App",
+          "upc_product_uuid" : "f12fbb4f-9266-4b71-91a3-a872007320fd",
+          "old_product_ids" : [ ],
+          "product_url" : "https://stackteamapp.com",
+          "product_slug" : "Team-App",
+          "former_name" : "Team App",
+          "logo_filepath" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/df70efe3-afaf-40c5-9402-9fbcbf5040ca.jpeg",
+          "vendor" : {
+            "vendor_id" : 2119142,
+            "vendor_name" : "Team App",
+            "vendor_url" : "https://teamapp.com",
+            "year_founded" : 2013,
+            "location" : "Australia",
+            "vendor_opted_out_of_reviews" : true,
+            "is_opted_out_of_reviews" : false,
+            "is_hit_limit" : false,
+            "enabled" : true,
+            "has_vendor_level_page" : false,
+            "slug" : null,
+            "vendor_page" : false,
+            "paused_campaign" : false
+          },
+          "category_short_name" : "sportsleag",
+          "category_html_name" : "sports-league-software",
+          "category" : {
+            "id" : 30751,
+            "short_name" : "sportsleag",
+            "long_name" : "Sports League",
+            "html_name" : "sports-league-software",
+            "enabled" : true
+          },
+          "best_category" : "sportsleag",
+          "is_best_category" : true,
+          "highest_cpc_category" : null,
+          "is_highest_cpc_category" : false,
+          "short_desc" : "Team App is the #1 FREE sports communication platform globally which is used in more than 150 countries to improve communication.\r\n\r\n",
+          "long_desc" : "Team App is the #1 FREE sports communication platform globally which is used in more than 150 countries.\r\n\r\nNSO's, State Bodies, Leagues and Associations, Clubs and Teams will improve communication, capture online registrations, manage memberships, take payments, events scheduling, results & more by creating you own app.\r\n\r\nDesign your app, choose from a huge range of features and you will have an App and FREE custom website created in less than 10 minutes.\r\n\r\n",
+          "rating" : 4.6,
+          "number_of_reviews" : 94,
+          "total_reviews" : 96,
+          "ease_of_use_rating" : 4.5,
+          "customer_support_rating" : 4.6,
+          "functionality_rating" : 4.5,
+          "value_for_money_rating" : 4.7,
+          "recommendation_rating" : 8.8,
+          "pricing_enabled" : true,
+          "pricing" : null,
+          "is_per_user" : false,
+          "fee_schedule" : null,
+          "pricing_model" : null,
+          "pricing_details" : "Team App is a free solution.",
+          "pricing_created_on" : "2019-08-21T14:47:39Z",
+          "pricing_modified_on" : "2022-04-11T20:39:17Z",
+          "pricing_created_by" : null,
+          "pricing_modified_by" : null,
+          "pricing_vendor_pricing_url" : null,
+          "free_trial" : true,
+          "free_version" : true,
+          "target_audience" : "Sports clubs, leagues, associations, social groups, schools or businesses who want to improve communication, greater commercial opportunities, improved cash-flow and better attended social functions",
+          "target_users" : [
+            "1",
+            "2-10",
+            "11-50",
+            "51-200",
+            "201-500",
+            "501-1000",
+            "1000+"
+          ],
+          "platform" : [
+            {
+              "enabled" : true,
+              "name" : "Cloud, SaaS, Web-Based"
+            },
+            {
+              "enabled" : true,
+              "name" : "Desktop Mac"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Chromebook"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile Android"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPhone"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPad"
+            }
+          ],
+          "support" : [
+            {
+              "enabled" : true,
+              "name" : "Email Help Desk"
+            },
+            {
+              "enabled" : true,
+              "name" : "FAQ Forum"
+            },
+            {
+              "enabled" : true,
+              "name" : "Knowledgebase"
+            },
+            {
+              "enabled" : true,
+              "name" : "Phone Support"
+            },
+            {
+              "enabled" : false,
+              "name" : "24/7 Live Rep"
+            },
+            {
+              "enabled" : true,
+              "name" : "Chat"
+            }
+          ],
+          "training" : [
+            {
+              "enabled" : false,
+              "name" : "Not Offered"
+            },
+            {
+              "enabled" : true,
+              "name" : "In-Person"
+            },
+            {
+              "enabled" : true,
+              "name" : "Live Online"
+            },
+            {
+              "enabled" : true,
+              "name" : "Webinars"
+            },
+            {
+              "enabled" : true,
+              "name" : "Documentation"
+            },
+            {
+              "enabled" : true,
+              "name" : "Videos"
+            }
+          ],
+          "media" : [
+            {
+              "product_id" : 172000,
+              "vendor_id" : 2119142,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/113e4ea7-f10f-4e42-b90a-4de59eda3556.png",
+              "caption" : null,
+              "weight" : 1,
+              "short_name" : "sportsleag"
+            },
+            {
+              "product_id" : 172000,
+              "vendor_id" : 2119142,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/0376e3cf-aadb-43fa-9457-926c6b5af2f6.png",
+              "caption" : null,
+              "weight" : 2,
+              "short_name" : "sportsleag"
+            },
+            {
+              "product_id" : 172000,
+              "vendor_id" : 2119142,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/ef74c925-197c-464a-a676-99223941789a.png",
+              "caption" : null,
+              "weight" : 3,
+              "short_name" : "sportsleag"
+            },
+            {
+              "product_id" : 172000,
+              "vendor_id" : 2119142,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/f6c1cc65-511f-4cad-874b-91048a201936.png",
+              "caption" : null,
+              "weight" : 4,
+              "short_name" : "sportsleag"
+            },
+            {
+              "product_id" : 172000,
+              "vendor_id" : 2119142,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/32752ff8-4962-4d67-92b3-4f5793579ba5.png",
+              "caption" : null,
+              "weight" : 5,
+              "short_name" : "sportsleag"
+            },
+            {
+              "product_id" : 172000,
+              "vendor_id" : 2119142,
+              "media_type" : "VIDEO",
+              "path_url" : "https://www.youtube.com/watch?v=KqkGyWDhjv8&t=47s",
+              "caption" : null,
+              "weight" : 0,
+              "short_name" : "sportsleag"
+            }
+          ],
+          "links" : [
+            {
+              "product_id" : 172000,
+              "functional_group" : "sportsleag",
+              "html_code" : "https://www.youtube.com/watch?v=Z-UBj3WhqkA",
+              "link_name" : "Free Trial",
+              "link_priority" : 1.0
+            },
+            {
+              "product_id" : 172000,
+              "functional_group" : "sportsleag",
+              "html_code" : "https://www.teamapp.com/app",
+              "link_name" : "Free Demo",
+              "link_priority" : 2.0
+            },
+            {
+              "product_id" : 172000,
+              "functional_group" : "sportsleag",
+              "html_code" : "https://www.teamapp.com/about-how-it-works?_detail=v1",
+              "link_name" : "Pricing",
+              "link_priority" : 3.0
+            },
+            {
+              "product_id" : 172000,
+              "functional_group" : "sportsleag",
+              "html_code" : "https://www.youtube.com/watch?v=y4V7psP7RcA&t=49s",
+              "link_name" : "Case Study",
+              "link_priority" : 4.0
+            },
+            {
+              "product_id" : 172000,
+              "functional_group" : "sportsleag",
+              "html_code" : "https://www.youtube.com/user/TeamAppVideos",
+              "link_name" : "YouTube Channel",
+              "link_priority" : 5.0
+            }
+          ],
+          "features" : [
+            {
+              "category_name" : "Sports League",
+              "category_features" : [
+                {
+                  "name" : "Facility Scheduling",
+                  "value" : true,
+                  "id" : "aaeb4a40-1b15-47ef-a949-e26b0c04a266",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Schedule facilities (ie. athletic fields, venues, convention centers, etc.)"
+                },
+                {
+                  "name" : "In-Game Analytics",
+                  "value" : false,
+                  "id" : "0cdae92e-de21-4f20-ae7c-a1087df28326",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Report on game usage and gaming statistics."
+                },
+                {
+                  "name" : "Registration Management",
+                  "value" : true,
+                  "id" : "c6c56efb-bbf9-446b-a9f4-2e083583d7ff",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Make a list of and register attendees for an event"
+                },
+                {
+                  "name" : "Scheduling",
+                  "value" : true,
+                  "id" : "0cc5cde1-b9c8-4aaf-9a3b-67ed2aafe507",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Plan availability and assign specific time slots for tasks and resources"
+                },
+                {
+                  "name" : "Team Management",
+                  "value" : true,
+                  "id" : "da72d4d5-71f4-42ae-a8e3-fa05a1f56b06",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Organizing a group of people to accomplish a task"
+                },
+                {
+                  "name" : "Volunteer Management",
+                  "value" : true,
+                  "id" : "63d4b79e-e6df-4211-b751-6dcb323077d7",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Manage volunteer information and direct volunteer resources"
+                }
+              ]
+            },
+            {
+              "category_name" : "Club Management",
+              "category_features" : [
+                {
+                  "name" : "Attendance Tracking",
+                  "value" : true,
+                  "id" : "f7b89c98-cf63-4aa3-a3d3-2939c8a2ffb3",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Track specific people who attended events or the total number of attendees"
+                },
+                {
+                  "name" : "Billing & Invoicing",
+                  "value" : true,
+                  "id" : "b9829f5b-1e19-49e7-b343-c2286973de15",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Create and manage monetary interactions between parties (ie. bills and invoices)"
+                },
+                {
+                  "name" : "Event Management",
+                  "value" : true,
+                  "id" : "cdc3bb9d-3c31-48ba-a01c-5101adc90c87",
+                  "avg_rating" : 1.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Schedule and manage the logistics of activities and other gatherings"
+                },
+                {
+                  "name" : "Inventory Management",
+                  "value" : true,
+                  "id" : "80f46038-6ae8-4725-8064-788b20380eeb",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Track and manage the quantity of resources on hand to maintain proper supply"
+                },
+                {
+                  "name" : "Marketing Automation",
+                  "value" : true,
+                  "id" : "11cfdb79-2f7c-4116-97f7-4d6b38740131",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Plan, track, and evaluate marketing activities including promotions, customer outreach, and branding"
+                },
+                {
+                  "name" : "Member Portal",
+                  "value" : true,
+                  "id" : "ff1b6b10-f56f-4029-9128-fcb402ca73d1",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Online gateway through which members can access/update personal information"
+                },
+                {
+                  "name" : "Membership Management",
+                  "value" : true,
+                  "id" : "e0ec230c-01cc-4e78-ac4a-ec6d4cc61b40",
+                  "avg_rating" : 3.3,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Database of members to track personal information of individuals and families"
+                },
+                {
+                  "name" : "Mobile Access",
+                  "value" : true,
+                  "id" : "15d49235-ad13-4d33-b009-edd50126375b",
+                  "avg_rating" : 4.2,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Access the software remotely via mobile devices"
+                },
+                {
+                  "name" : "Online Booking",
+                  "value" : true,
+                  "id" : "7bb5b7f3-cec3-4f55-afc3-74dda262a6f6",
+                  "avg_rating" : 1.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "End users can schedule appointments online "
+                },
+                {
+                  "name" : "Payment Processing",
+                  "value" : true,
+                  "id" : "aa036a7c-8608-45a0-9f5f-7649beee9dfb",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Accept, record, and reconcile financial transactions"
+                },
+                {
+                  "name" : "Point of Sale (POS)",
+                  "value" : false,
+                  "id" : "4d8a4211-99b1-45f2-a8d9-03b96a38d16f",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Accept and process financial transactions"
+                },
+                {
+                  "name" : "Team Management",
+                  "value" : true,
+                  "id" : "da72d4d5-71f4-42ae-a8e3-fa05a1f56b06",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Organizing a group of people to accomplish a task"
+                },
+                {
+                  "name" : "Visitor Management",
+                  "value" : true,
+                  "id" : "3c9e8003-22ec-4990-b685-dd1be5c7f11f",
+                  "avg_rating" : 3.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Allow organizations to streamline the check-in process for visitors "
+                },
+                {
+                  "name" : "Website Management",
+                  "value" : true,
+                  "id" : "308d2b02-05de-4b5d-a6e9-90abf3120b67",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Website builder or integration with 3rd party site "
+                }
+              ]
+            },
+            {
+              "category_name" : "Instant Messaging & Chat",
+              "category_features" : [
+                {
+                  "name" : "Access Controls/Permissions",
+                  "value" : false,
+                  "id" : "12cc6bf7-4736-4dfe-bbf9-4d93ec5d227d",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Activity Dashboard",
+                  "value" : false,
+                  "id" : "856ab03e-a530-4ea9-bac6-968761c9b6c6",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Activity Tracking",
+                  "value" : false,
+                  "id" : "d5e0cbd2-ae88-477a-beac-989ac5815e69",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Collaboration Tools",
+                  "value" : false,
+                  "id" : "97efb0d3-9a23-4408-90d4-4db1e3830fbd",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Commenting/Notes",
+                  "value" : false,
+                  "id" : "57b304b0-9ad4-466a-abf6-22eafa0e426d",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Drag & Drop",
+                  "value" : true,
+                  "id" : "ef4e7adb-17df-4712-bd53-957772beafad",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "File Sharing",
+                  "value" : true,
+                  "id" : "818ff03c-f979-454f-a3c9-112513dbab56",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 2.67,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.667,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "One-to-One Messaging",
+                  "value" : false,
+                  "id" : "348e71d7-706b-4edc-b907-28bcc8fbf896",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Real-Time Chat",
+                  "value" : true,
+                  "id" : "ebcc93e9-b049-4da0-a750-02fa0ea70ec4",
+                  "avg_rating" : 4.6,
+                  "cnt_rating" : 5,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Single Sign On",
+                  "value" : false,
+                  "id" : "6c5be397-6021-4779-994c-397b38f716c1",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Transcripts/Chat History",
+                  "value" : false,
+                  "id" : "25c14dd8-6e28-497d-be6f-fd86ad7edced",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Video Conferencing",
+                  "value" : false,
+                  "id" : "5c372d9f-f3cb-415f-94a5-00e57ca8b44c",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                }
+              ]
+            },
+            {
+              "category_name" : "Internal Communications",
+              "category_features" : [
+                {
+                  "name" : "Activity/News Feed",
+                  "value" : true,
+                  "id" : "d184373e-3490-41f2-8ad3-4becd8dcbbf4",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 2.33,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.333,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Continuous profile-based stream of news and activity"
+                },
+                {
+                  "name" : "Blogs",
+                  "value" : false,
+                  "id" : "b92046cc-c692-43a1-9cfa-fb1c96ae8a14",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Allows users to publish blogs on social site"
+                },
+                {
+                  "name" : "Employee Database",
+                  "value" : false,
+                  "id" : "e963737d-3456-46ea-85b6-530e546f34c1",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Electronic storage of staff contact information and job status"
+                },
+                {
+                  "name" : "Employee Photos",
+                  "value" : false,
+                  "id" : "1d55b40b-4295-4cd0-9afc-39d9b337e4cf",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Store photos of employees"
+                },
+                {
+                  "name" : "Meeting Management",
+                  "value" : false,
+                  "id" : "55e8d414-731a-4ce3-a202-eb03412dc1b5",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Coordinate schedules and organize meetings"
+                },
+                {
+                  "name" : "Newsletter Management",
+                  "value" : true,
+                  "id" : "2c0ffb66-0b00-4cf7-885e-2ee05206fae2",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Create content to keep teams updated and engaged via newsletters"
+                },
+                {
+                  "name" : "Real-Time Chat",
+                  "value" : true,
+                  "id" : "ebcc93e9-b049-4da0-a750-02fa0ea70ec4",
+                  "avg_rating" : 4.6,
+                  "cnt_rating" : 5,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Engage in direct, instant messaging"
+                },
+                {
+                  "name" : "Screen Sharing",
+                  "value" : false,
+                  "id" : "a4e50f33-a0b2-417d-a6b8-faa8213a3312",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Digitally share screen view with others"
+                },
+                {
+                  "name" : "Survey/Poll Management",
+                  "value" : false,
+                  "id" : "140bc433-ccfa-4403-861c-e4371d16e682",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Create and administer polls and surveys"
+                },
+                {
+                  "name" : "Video Conferencing",
+                  "value" : false,
+                  "id" : "5c372d9f-f3cb-415f-94a5-00e57ca8b44c",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Adds audio/visual capabilities for users to communicate"
+                }
+              ]
+            },
+            {
+              "category_name" : "Registration",
+              "category_features" : [
+                {
+                  "name" : "Attendee Tracking",
+                  "value" : true,
+                  "id" : "35bc88a9-3c45-407e-a5e4-fc4367096245",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "A list of registered participants"
+                },
+                {
+                  "name" : "Badge Management",
+                  "value" : false,
+                  "id" : "3111fbfa-7c91-4fee-a5dc-8979013aff24",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Create, manage, and print wearable badges with attendee information"
+                },
+                {
+                  "name" : "Calendar Management",
+                  "value" : true,
+                  "id" : "10dc6d16-b8eb-47be-a3b9-3368fba98bac",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Create, manage, and share multiple calendars"
+                },
+                {
+                  "name" : "Class Registration",
+                  "value" : true,
+                  "id" : "1f38ba6e-5f5d-465c-a18e-6d0783022639",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Online registration for classes"
+                },
+                {
+                  "name" : "Contact Management",
+                  "value" : true,
+                  "id" : "0019f365-3e1b-4e2f-8f1e-cb77ba025078",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Store and find contact information such as names, addresses, and social media accounts"
+                },
+                {
+                  "name" : "Customizable Forms",
+                  "value" : true,
+                  "id" : "f72f5fbe-d8cf-4729-be40-4f024278d399",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Customize your contracts and forms so customer's become associated with your brand"
+                },
+                {
+                  "name" : "Event Registration",
+                  "value" : true,
+                  "id" : "240a8133-0d1a-47d1-98e2-5bd9fcf7039f",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Online registration for events"
+                },
+                {
+                  "name" : "Group Registration",
+                  "value" : true,
+                  "id" : "53dd422b-4555-4b36-868f-a614a230c120",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Register a group/batch of attendees"
+                },
+                {
+                  "name" : "Marketing Automation",
+                  "value" : true,
+                  "id" : "11cfdb79-2f7c-4116-97f7-4d6b38740131",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Plan, track, and evaluate marketing activities including promotions, customer outreach, and branding"
+                },
+                {
+                  "name" : "Online Registration",
+                  "value" : true,
+                  "id" : "d390d8f1-b85f-42f0-ac93-f7cd9d46db4e",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Real-time registration over the web"
+                },
+                {
+                  "name" : "Onsite Registration",
+                  "value" : true,
+                  "id" : "8e3ae8a6-1991-4ba4-a67d-cedd2ae3916b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "In-person, onsite registration "
+                },
+                {
+                  "name" : "Payment Processing",
+                  "value" : true,
+                  "id" : "aa036a7c-8608-45a0-9f5f-7649beee9dfb",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Accept, record, and reconcile financial transactions"
+                },
+                {
+                  "name" : "Refund Management",
+                  "value" : true,
+                  "id" : "e9c9abda-f7f6-4f98-8c0a-b1ddc26391c7",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Oversee the process of issuing refunds"
+                },
+                {
+                  "name" : "Self Check-in/Check-out",
+                  "value" : true,
+                  "id" : "9803f8da-f72f-4cf5-89f3-d46474447ce6",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Attendees can register online, in advance"
+                },
+                {
+                  "name" : "Surveys & Feedback",
+                  "value" : true,
+                  "id" : "ac019461-1e0e-49b2-a4f0-bd6e13dedf23",
+                  "avg_rating" : 4.5,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Gauge satisfaction and receive information for improvement and success"
+                }
+              ]
+            },
+            {
+              "category_name" : "Team Communication",
+              "category_features" : [
+                {
+                  "name" : "Activity/News Feed",
+                  "value" : true,
+                  "id" : "d184373e-3490-41f2-8ad3-4becd8dcbbf4",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 2.33,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.333,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Continuous profile-based stream of news and activity "
+                },
+                {
+                  "name" : "Alerts/Notifications",
+                  "value" : true,
+                  "id" : "aef68b72-bd4c-4797-ae8c-4735512de81a",
+                  "avg_rating" : 4.7,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : "Alerts/notifications within the system "
+                },
+                {
+                  "name" : "Audio Calls",
+                  "value" : false,
+                  "id" : "449ab2db-141f-40ab-a863-ca11eaedcfd8",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Ability to make voice calls within the system  "
+                },
+                {
+                  "name" : "Discussions / Forums",
+                  "value" : true,
+                  "id" : "fcad067b-d85e-4333-9602-2e61025d29b4",
+                  "avg_rating" : 4.5,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Ability to chat in a group with team members within a dedicated message thread "
+                },
+                {
+                  "name" : "File Sharing",
+                  "value" : true,
+                  "id" : "818ff03c-f979-454f-a3c9-112513dbab56",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 2.67,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.667,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Digitally share a wide variety of media types"
+                },
+                {
+                  "name" : "Mobile Access",
+                  "value" : true,
+                  "id" : "15d49235-ad13-4d33-b009-edd50126375b",
+                  "avg_rating" : 4.2,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Access the software remotely via mobile devices "
+                },
+                {
+                  "name" : "Real-Time Chat",
+                  "value" : true,
+                  "id" : "ebcc93e9-b049-4da0-a750-02fa0ea70ec4",
+                  "avg_rating" : 4.6,
+                  "cnt_rating" : 5,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Engage in direct, instant messaging "
+                },
+                {
+                  "name" : "Search/Filter",
+                  "value" : true,
+                  "id" : "78793d42-e03e-4092-9488-ac101a2270e7",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Search available resources to locate required information"
+                },
+                {
+                  "name" : "Surveys & Feedback",
+                  "value" : true,
+                  "id" : "ac019461-1e0e-49b2-a4f0-bd6e13dedf23",
+                  "avg_rating" : 4.5,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Gauge satisfaction and receive information for improvement and success"
+                },
+                {
+                  "name" : "Task Management",
+                  "value" : true,
+                  "id" : "82ce67d3-ac09-49d0-ae71-5e6401e3e26b",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "A running list of action items and their respective status"
+                },
+                {
+                  "name" : "Third Party Integrations",
+                  "value" : false,
+                  "id" : "2a19a42a-aaa2-464e-90a6-5cbcb1791759",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Improve business process by accessing more features and applications by combining third party integrations "
+                },
+                {
+                  "name" : "Video Conferencing",
+                  "value" : false,
+                  "id" : "5c372d9f-f3cb-415f-94a5-00e57ca8b44c",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Adds audio/visual capabilities for users to communicate "
+                }
+              ]
+            }
+          ],
+          "infographics" : [
+            {
+              "product_id" : 172000,
+              "html_name" : "registration-software",
+              "infographic_type" : "general_t20",
+              "infographic_title" : null
+            }
+          ],
+          "related_products" : [
+            {
+              "product_id" : 134125,
+              "seo_product_id" : 134125,
+              "seo_slug" : "SportsEngine",
+              "vendor_name" : "SportsEngine",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4eaff3e6-2658-4151-a094-3e2046372ee5.png",
+              "rating" : 4.3,
+              "total_reviews" : 182,
+              "slug" : "SportsEngine",
+              "product_name" : "SportsEngine",
+              "short_desc" : "More than 20,000 organizations are using SportsEngine HQ to find new members, raise funds, launch apparel stores, and collect fees. ",
+              "features" : "Leagues, clubs, associations, tournaments, and teams of all sizes use SportsEngine HQ to manage their operations, run background screens, promote their competition programs, sign up members, communicate with parents & athletes, raise funds, and process payments. In addition to technology, SportsEngine provides professional support, consulting, and design services. SportsEngine is part of the NBC Sports Group.",
+              "url" : "https://www.sportsengine.com/solutions/pricing?domain_source=SportsEngineHQ&source_channel=HQ+Product&lead_source=Paid+Search&utm_source=Partner+Website&utm_medium=PPC&utm_campaign=Capterra+HQ&utm_term=Sports+League+Main+CTA"
+            },
+            {
+              "product_id" : 146735,
+              "seo_product_id" : 146735,
+              "seo_slug" : "Wooter",
+              "vendor_name" : "Wooter",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8107f282-bb1d-49ff-acad-1a4182faac39.png",
+              "rating" : 4.5,
+              "total_reviews" : 150,
+              "slug" : "Wooter",
+              "product_name" : "Wooter",
+              "short_desc" : "The most powerful sports platform with an all-in-one management software, custom website & app for your league, team or tournament.",
+              "features" : "Run a sports league, team or tournament? Create a custom website and mobile app in minutes. \r\n\r\nManage registrations, schedules, players, teams, stats and videos. Give players their own player profiles, team pages, season averages, rankings, leaderboards and chat + messaging. Wooter also includes 24/7 support. You can even order fully-custom uniforms and apparel right in your dashboard.\r\n\r\nStarting your league, managing your team, or running your tournament has never been this easy!\r\n",
+              "url" : "https://wooter.co/"
+            },
+            {
+              "product_id" : 123208,
+              "seo_product_id" : 123208,
+              "seo_slug" : "TeamSnap",
+              "vendor_name" : "TeamSnap",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/00c63bc8-2f44-40d9-b647-0b3349dc7838.png",
+              "rating" : 4.3,
+              "total_reviews" : 129,
+              "slug" : "TeamSnap",
+              "product_name" : "TeamSnap",
+              "short_desc" : "25 million coaches, administrators, players and parents use TeamSnap to coordinate the team, the club and the season.",
+              "features" : "Our reimagined club solution builds on over a decade of delivering the easiest-to-use and most-intuitive team mobile app to 25M users and 19K organizations. We combine the top-rated team management app with registration, payments, communication, scheduling, and reporting to bring you a true all-in-one club solution. With the new TeamSnap for Clubs & Leagues, you have everything you need to manage your clubs and teams in a solution your administrators, coaches, managers, and parents will love.",
+              "url" : "https://info.gartnerdigitalmarkets.com/teamsnap-gdm-lp/?category=sports-league"
+            },
+            {
+              "product_id" : 178257,
+              "seo_product_id" : 178257,
+              "seo_slug" : "Jersey-Watch",
+              "vendor_name" : "Digital Edge Sports",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4604680c-a994-41d6-bf0c-c12a1f7a73d2.png",
+              "rating" : 4.9,
+              "total_reviews" : 102,
+              "slug" : "Jersey-Watch",
+              "product_name" : "Jersey Watch ",
+              "short_desc" : "The fastest management software for your teams, club, or league. Create a website, register players, and send messages to participants.",
+              "features" : "Jersey Watch is the fastest sports management software for your club or league. \n\nOur website builder allows you to build a page and promote your organization in minutes.\n\nSet up online forms so players can easily register and make payments online. Sort and manage player info using our registration management feature.\n\nCommunicating with parents and coaches has never been easier. Use our messaging tools to send emails and texts with a few clicks to teams or your entire organization.",
+              "url" : "https://www.jerseywatch.com/"
+            },
+            {
+              "product_id" : 54308,
+              "seo_product_id" : 54308,
+              "seo_slug" : "EZFacility-Club-Management",
+              "vendor_name" : "Jonas Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/cf5fd95f-fe9b-4a2f-9c6a-7f2085295d53.png",
+              "rating" : 4.4,
+              "total_reviews" : 96,
+              "slug" : "EZFacility-Club-Management",
+              "product_name" : "EZFacility",
+              "short_desc" : "Automate league management and streamline operations for your entire sports facility---from scheduling to billing to member profiles.",
+              "features" : "EZFacility's sports software goes beyond league management to streamline operations for your entire facility. Manage clients, rentals, tournaments, online registration, payments, & more. EZ's secure, state-of-the-art solution is the perfect fit for any league or sports facility. Whether you manage just one league---or multiple leagues with full membership options, clinics, facility rentals, special events, & more, EZFacility is your all-in-one sports facility management software! ",
+              "url" : "https://www.ezfacility.com/capterra-sports-league-management/"
+            },
+            {
+              "product_id" : 151570,
+              "seo_product_id" : 221606,
+              "seo_slug" : "Upper-Hand",
+              "vendor_name" : "Upper Hand",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e7d377df-c0c8-418c-bf6d-21b1b4185c28.png",
+              "rating" : 4.1,
+              "total_reviews" : 82,
+              "slug" : "Upper-Hand",
+              "product_name" : "Upper Hand",
+              "short_desc" : "Upper Hand is the leading provider of sports software that enables sports trainers and academies to achieve more while doing less.",
+              "features" : "Built for sports, Upper Hand streamlines registration, scheduling, billing and payments, athlete management, memberships, and more! Upper Hand is the perfect solution for camps and clinics, training programs, lessons, teams, and payment plans. Automate your marketing, gain valuable insights from reports, and manage coaches and trainers with ease.",
+              "url" : "https://upperhand.com/sports-league/?utm_source=capterra.com&utm_medium=cpc&utm_campaign=capterra&utm_term=sports%20league&utm_content=sports%20league"
+            },
+            {
+              "product_id" : 148278,
+              "seo_product_id" : 148278,
+              "seo_slug" : "SwimTopia",
+              "vendor_name" : "Team Topia",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/0ccefdb2-4283-4b73-93b7-358d92912317.png",
+              "rating" : 4.8,
+              "total_reviews" : 74,
+              "slug" : "SwimTopia",
+              "product_name" : "SwimTopia",
+              "short_desc" : "Swim team and meet management software that helps run summer and high school swim teams more efficiently from a central team website.",
+              "features" : "We simplify swim team and swim meet management: unifying everything you need to run a swim team into one powerful, web based, swim software solution. We save time, eliminate hassle, and run your swim team better. SwimTopia covers the needs of summer and high school swim teams: website hosting, online registration, online meet entries, team communication, volunteer management, merchandising, and fundraising. HyTek compatible and with an accompanying mobile app, SwimTopia has your team covered. ",
+              "url" : "http://www.swimtopia.com"
+            },
+            {
+              "product_id" : 233291,
+              "seo_product_id" : 233291,
+              "seo_slug" : "GameDay",
+              "vendor_name" : "Stack Sports",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/a2f89363-40aa-4845-a48e-568ed8d4b5b3.png",
+              "rating" : 3.7,
+              "total_reviews" : 69,
+              "slug" : "GameDay",
+              "product_name" : "GameDay",
+              "short_desc" : "GameDay caters to sport & event organisations of all sizes, from National Governing Bodies to Grassroots Clubs, Charities & Foundations",
+              "features" : "GameDay, part of the Stack Sports family, have been providing digital solutions to the sports & events industry since 2001.\n\nGameDay provides a range of solutions in membership management, competition/tournament management, event/ticketing solutions along with websites, eCommerce and online auction/fundraising. \n\nGameDay works with a variety of organisations including grassroots sports clubs/associations, professional clubs/teams, sport governing bodies, event providers, charities & foundations.",
+              "url" : "https://mygameday.app/"
+            },
+            {
+              "product_id" : 127065,
+              "seo_product_id" : 127065,
+              "seo_slug" : "LeagueApps",
+              "vendor_name" : "LeagueApps",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/639eb1f4-2740-4f6a-8906-f953d953f053.png",
+              "rating" : 4.5,
+              "total_reviews" : 58,
+              "slug" : "LeagueApps",
+              "product_name" : "LeagueApps",
+              "short_desc" : "The industry's leading operating system for youth and local sports.",
+              "features" : "LeagueApps is more than just sports management software. It's an entire operating system for your organization giving you the tools you need to launch, promote, manage, and grow your programs while putting your customers first. Growing your organization means managing your operations with efficiency. So we give you the tools to save you time and headaches so you can get back to doing what you love. Learn more about LeagueApps",
+              "url" : "https://join.leagueapps.com/capterra-sl?utm_source=Capterra&utm_medium=PPC&utm_campaign=SM"
+            },
+            {
+              "product_id" : 94088,
+              "seo_product_id" : 94088,
+              "seo_slug" : "TeamSideline-com",
+              "vendor_name" : "TeamSideline.com",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/80b69a90-1ad5-4463-adce-a716b602fc9f.png",
+              "rating" : 4.9,
+              "total_reviews" : 57,
+              "slug" : "TeamSideline-com",
+              "product_name" : "TeamSideline.com",
+              "short_desc" : "Our easy to use software is perfect for any Sports Organization. We offer top notch Customer Service, a robust platform, and more",
+              "features" : "TeamSideline will save you time and money managing your sports league. Our easy to use software has everything you need, all in one website. TeamSideline is a highly customizable system with Free Site Setup, Free Training and Free Customer Support -- schedule a free demo to get answers to your questions",
+              "url" : "https://go.teamsideline.com/get-demo-see-how-easy-it-save-time?utm_medium=cpc"
+            },
+            {
+              "product_id" : 167260,
+              "seo_product_id" : 167260,
+              "seo_slug" : "TeamUnify",
+              "vendor_name" : "SportsEngine",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/a1b86801-8c20-4fe9-8ab0-e996052971e7.png",
+              "rating" : 4.6,
+              "total_reviews" : 53,
+              "slug" : "TeamUnify",
+              "product_name" : "TeamUnify",
+              "short_desc" : "A powerful suite of products that simplify the business of managing competitive swim teams with registration, billing, entries, & more!",
+              "features" : "TeamUnify has developed an innovative family of web and mobile software products that have revolutionized the business of managing competitive swim teams. With over 4,000 swim teams, our systems serve around 1 million active administrators, parents, and swimmers worldwide. Every subscription includes 7 days-a-week support and unlimited free upgrades to our ever-growing and developing team management software suite.\r\n\r\n",
+              "url" : "http://www.teamunify.com"
+            }
+          ],
+          "similar_products" : [
+            {
+              "product_id" : 94088,
+              "seo_product_id" : 94088,
+              "seo_slug" : "TeamSideline-com",
+              "vendor_name" : "TeamSideline.com",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/80b69a90-1ad5-4463-adce-a716b602fc9f.png",
+              "rating" : 4.9,
+              "total_reviews" : 57,
+              "slug" : "TeamSideline-com",
+              "product_name" : "TeamSideline.com",
+              "short_desc" : "Our easy to use software is perfect for any Sports Organization. We offer top notch Customer Service, a robust platform, and more",
+              "features" : "TeamSideline will save you time and money managing your sports league. Our easy to use software has everything you need, all in one website. TeamSideline is a highly customizable system with Free Site Setup, Free Training and Free Customer Support -- schedule a free demo to get answers to your questions",
+              "url" : "https://go.teamsideline.com/get-demo-see-how-easy-it-save-time?utm_medium=cpc"
+            },
+            {
+              "product_id" : 54308,
+              "seo_product_id" : 54308,
+              "seo_slug" : "EZFacility-Club-Management",
+              "vendor_name" : "Jonas Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/cf5fd95f-fe9b-4a2f-9c6a-7f2085295d53.png",
+              "rating" : 4.4,
+              "total_reviews" : 96,
+              "slug" : "EZFacility-Club-Management",
+              "product_name" : "EZFacility",
+              "short_desc" : "Automate league management and streamline operations for your entire sports facility---from scheduling to billing to member profiles.",
+              "features" : "EZFacility's sports software goes beyond league management to streamline operations for your entire facility. Manage clients, rentals, tournaments, online registration, payments, & more. EZ's secure, state-of-the-art solution is the perfect fit for any league or sports facility. Whether you manage just one league---or multiple leagues with full membership options, clinics, facility rentals, special events, & more, EZFacility is your all-in-one sports facility management software! ",
+              "url" : "https://www.ezfacility.com/ezf-capterra-gym-management-software/"
+            },
+            {
+              "product_id" : 202788,
+              "seo_product_id" : 252665,
+              "seo_slug" : "EventConnect",
+              "vendor_name" : "EventConnect",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4ed3f10d-cd02-4b82-abda-351a34311b29.png",
+              "rating" : 4.6,
+              "total_reviews" : 19,
+              "slug" : "EventConnect",
+              "product_name" : "EventConnect",
+              "short_desc" : "Sports tournament management and live hotel blocking - all in one platform. Book a free demo today.",
+              "features" : "EventConnect offers sports tournament management and live hotel blocking - all in one platform. \n\nOur tournament software removes travel tournament pain points with a feature-rich event platform that instantly connects to hotels with dedicated support from real people.\n\nYou gain access to solutions and features for every role and need in the tournament process: registration, scheduling and scoring, merchandising, exclusive housing and accommodations, payment processing, and more!",
+              "url" : "https://eventconnectsports.com/sports-tournament-software-demo/"
+            },
+            {
+              "product_id" : 178257,
+              "seo_product_id" : 178257,
+              "seo_slug" : "Jersey-Watch",
+              "vendor_name" : "Digital Edge Sports",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4604680c-a994-41d6-bf0c-c12a1f7a73d2.png",
+              "rating" : 4.9,
+              "total_reviews" : 102,
+              "slug" : "Jersey-Watch",
+              "product_name" : "Jersey Watch ",
+              "short_desc" : "The fastest management software for your teams, club, or league. Create a website, register players, and send messages to participants.",
+              "features" : "Jersey Watch is the fastest sports management software for your club or league. \n\nOur website builder allows you to build a page and promote your organization in minutes.\n\nSet up online forms so players can easily register and make payments online. Sort and manage player info using our registration management feature.\n\nCommunicating with parents and coaches has never been easier. Use our messaging tools to send emails and texts with a few clicks to teams or your entire organization.",
+              "url" : "https://www.jerseywatch.com/"
+            },
+            {
+              "product_id" : 159225,
+              "seo_product_id" : 223157,
+              "seo_slug" : "SquadFusion",
+              "vendor_name" : "SquadFusion",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/9ba0620c-90d7-4ff1-ab93-5993d924b9d9.png",
+              "rating" : 4.9,
+              "total_reviews" : 26,
+              "slug" : "SquadFusion",
+              "product_name" : "SquadFusion",
+              "short_desc" : "A cloud-based platform to easily manage registrations, payments, communication, and member administration.",
+              "features" : "SquadFusion helps customers improve communication with members and devote time to increasing revenue rather than administrative tasks. We do this by providing a cloud-based platform which includes member and organization management tools, a central website for each customer, and mini-sites for each customers' squads.\r\n\r\nWe make things drop-dead simple so administrators don't have to waste scarce time or be fluent in website building. We have a long free trial and no setup fees.",
+              "url" : "https://squadfusion-7033259.hs-sites.com/capterralearn/?utm_source=capterra&utm_medium=default"
+            },
+            {
+              "product_id" : 134125,
+              "seo_product_id" : 134125,
+              "seo_slug" : "SportsEngine",
+              "vendor_name" : "SportsEngine",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4eaff3e6-2658-4151-a094-3e2046372ee5.png",
+              "rating" : 4.3,
+              "total_reviews" : 182,
+              "slug" : "SportsEngine",
+              "product_name" : "SportsEngine",
+              "short_desc" : "More than 20,000 organizations are using SportsEngine HQ to find new members, raise funds, launch apparel stores, and collect fees. ",
+              "features" : "Leagues, clubs, associations, tournaments, and teams of all sizes use SportsEngine HQ to manage their operations, run background screens, promote their competition programs, sign up members, communicate with parents & athletes, raise funds, and process payments. In addition to technology, SportsEngine provides professional support, consulting, and design services. SportsEngine is part of the NBC Sports Group.",
+              "url" : "https://www.sportsengine.com/solutions/pricing?domain_source=SportsEngineHQ&source_channel=HQ+Product&lead_source=Paid+Search&utm_source=Partner+Website&utm_medium=PPC&utm_campaign=Capterra+HQ&utm_term=Default+Main+CTA"
+            },
+            {
+              "product_id" : 151570,
+              "seo_product_id" : 221606,
+              "seo_slug" : "Upper-Hand",
+              "vendor_name" : "Upper Hand",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e7d377df-c0c8-418c-bf6d-21b1b4185c28.png",
+              "rating" : 4.1,
+              "total_reviews" : 82,
+              "slug" : "Upper-Hand",
+              "product_name" : "Upper Hand",
+              "short_desc" : "Upper Hand is the leading provider of sports software that enables sports trainers and academies to achieve more while doing less.",
+              "features" : "Built for sports, Upper Hand streamlines registration, scheduling, billing and payments, athlete management, memberships, and more! Upper Hand is the perfect solution for camps and clinics, training programs, lessons, teams, and payment plans. Automate your marketing, gain valuable insights from reports, and manage coaches and trainers with ease.",
+              "url" : "https://upperhand.com/?utm_source=capterra.com&utm_medium=cpc&utm_campaign=capterra"
+            },
+            {
+              "product_id" : 265768,
+              "seo_product_id" : 266132,
+              "seo_slug" : "Crossbar",
+              "vendor_name" : "Crossbar",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/87168690-5ab7-44b1-8649-42f7db6a95f7.jpeg",
+              "rating" : 0.0,
+              "total_reviews" : 0,
+              "slug" : "Crossbar",
+              "product_name" : "Crossbar",
+              "short_desc" : "Cloud-based league management tool that enables organizers to schedule events, handle payments, create membership reports, and more.",
+              "features" : "Cloud-based league management tool that enables \nclub organizers to schedule events, handle payments, create membership reports, and more.",
+              "url" : "https://www.crossbar.org/"
+            },
+            {
+              "product_id" : 149512,
+              "seo_product_id" : 149512,
+              "seo_slug" : "Engage-Sports",
+              "vendor_name" : "Engage Sports",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/f0c010c3-2e7b-4420-ac8b-994a5ee08063.png",
+              "rating" : 4.5,
+              "total_reviews" : 22,
+              "slug" : "Engage-Sports",
+              "product_name" : "Engage Sports",
+              "short_desc" : "Online solutions for sports associations, leagues and clubs: websites, online registration, online game & tournament scheduling.",
+              "features" : "Whether you manage a league, club, organization, team or event, Engage Sports provides the right combination of tools to simplify any process of online sports management. An all in one centralized, easy to manage site. We build accessible sites that all people regardless of ability can navigate, understand, and use to achieve goals. Specializing in online registration for football, baseball & softball, basketball, lacrosse, volleyball and soccer youth sports organizations.",
+              "url" : "https://engagesports.com/default.aspx?utm_campaign=Capterra&utm_medium=sports-league&utm_source=capterra"
+            },
+            {
+              "product_id" : 187531,
+              "seo_product_id" : 155933,
+              "seo_slug" : "Thapos",
+              "vendor_name" : "Thapos",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/29a528a0-5af5-414f-b10d-df6e60c836e1.png",
+              "rating" : 4.4,
+              "total_reviews" : 24,
+              "slug" : "SportsPlus",
+              "product_name" : "SportsPlus",
+              "short_desc" : "Modern sports management software platform for sports clubs, leagues, associations, tournament operators, and facility managers.",
+              "features" : "Modern and feature-rich sports management software platform for clubs, leagues, associations, tournament operators, sports facility managers, teams, coaches, officials, players, and parents. Mobile-friendly and secure all-in-one sports platform to manage registrations, payments, schedules, teams, leagues, tournaments, facilities, messaging, fundraising, members, website, and mobile app. In-built team management app for all organization teams and integrated player portal.",
+              "url" : "https://sportsplus.app?utm_source=capterra&utm_medium=ppc&utm_campaign=reviews"
+            },
+            {
+              "product_id" : 180367,
+              "seo_product_id" : 180367,
+              "seo_slug" : "SportsBiz",
+              "vendor_name" : "ThinkSmart Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d8b22633-7032-4b70-805f-860164316d1f.png",
+              "rating" : 4.6,
+              "total_reviews" : 5,
+              "slug" : "SportsBiz",
+              "product_name" : "SportsBiz ",
+              "short_desc" : "SportsBiz is a complete online business management & scheduling software package designed to automate admin for sporting organisations.",
+              "features" : "SportsBiz is now trusted by over 2,000 businesses across the globe. It allows sporting organisations of all sizes to manage their administration in one easy to use software package. Automate everything from your timetabling and online registrations through to generating invoices and managing online payments. SportsBiz provides web-based access (login from anywhere), free automatic software updates, affordable monthly subscription, unlimited logins for staff and free/unlimited fanatical support.",
+              "url" : "https://www.thinksmartsoftware.com/sportsbiz/landing?utm_source=Capterra&utm_medium=cpc&utm_campaign=pricing%20page&utm_content=sportsBiz"
+            },
+            {
+              "product_id" : 194701,
+              "seo_product_id" : 194701,
+              "seo_slug" : "League-Lab",
+              "vendor_name" : "League Lab",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4429c8be-2fa1-4f94-9322-71b235f6524d.png",
+              "rating" : 0.0,
+              "total_reviews" : 0,
+              "slug" : "League-Lab",
+              "product_name" : "League Lab",
+              "short_desc" : "A complete league business platform to help save you time and run leagues easier.",
+              "features" : "A complete league business platform to help save you time and run leagues easier.",
+              "url" : "https://www.leaguelab.com/7-reasons-to-switch/"
+            },
+            {
+              "product_id" : 148278,
+              "seo_product_id" : 148278,
+              "seo_slug" : "SwimTopia",
+              "vendor_name" : "Team Topia",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/0ccefdb2-4283-4b73-93b7-358d92912317.png",
+              "rating" : 4.8,
+              "total_reviews" : 74,
+              "slug" : "SwimTopia",
+              "product_name" : "SwimTopia",
+              "short_desc" : "Swim team and meet management software that helps run summer and high school swim teams more efficiently from a central team website.",
+              "features" : "We simplify swim team and swim meet management: unifying everything you need to run a swim team into one powerful, web based, swim software solution. We save time, eliminate hassle, and run your swim team better. SwimTopia covers the needs of summer and high school swim teams: website hosting, online registration, online meet entries, team communication, volunteer management, merchandising, and fundraising. HyTek compatible and with an accompanying mobile app, SwimTopia has your team covered. ",
+              "url" : "http://www.swimtopia.com"
+            }
+          ],
+          "related_categories" : [
+            {
+              "functional_group" : "sportsleag",
+              "long_name" : "Club Management",
+              "html_name" : "club-management-software",
+              "link_name" : "club-management",
+              "product_count" : 119,
+              "meta_description" : "Find and compare top Club Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Club Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs.",
+              "description" : "<a href=\"/club-management-software\">Club Management software</a> automates management functions including membership, fees, dues and other operations for fitness, social and civic clubs or other similar organizations.  These applications offer integrated solutions for access management as well as sales and marketing tools for club facilities.  Club Management solutions also help track business performances through automated reporting and forecasting on sales performance, member retention rates and revenue generation. <a href=\"/club-management-software\">Club Management software</a> is related to <a href=\"/membership-management-software\">Membership Management software</a>, <a href=\"/visitor-management-software\">Visitor Management software</a>, and <a href=\"/registration-software\">Registration software</a>."
+            },
+            {
+              "functional_group" : "sportsleag",
+              "long_name" : "Membership Management",
+              "html_name" : "membership-management-software",
+              "link_name" : "membership-management",
+              "product_count" : 177,
+              "meta_description" : "Find and compare top Membership Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Membership Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/membership-management-software>Membership Management software</a> automates the management of membership within associations, communities ,and other member-based organizations. These software packages typically offer many features to empower and inform group members as well as administration and business process tools for organizations.  A variety of membership-oriented groups use these software applications to communicate with their constituents, share resources, promote events, and collect fees as well as to recruit and retain members.  <a href=/membership-management-software>Membership Management software</a> is related to <a href=/association-management-software>Association Management software</a>, <a href=/church-management-software>Church Management software</a> and <a href=/club-management-software>Club Management software</a>."
+            },
+            {
+              "functional_group" : "sportsleag",
+              "long_name" : "Registration",
+              "html_name" : "registration-software",
+              "link_name" : "registration",
+              "product_count" : 93,
+              "meta_description" : "Find and compare top Registration software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Registration tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/registration-software>Registration software</a> automates the process of registering for conferences, meetings, classes, and other events.  These applications offer a customizable solution for attendance tracking and event or meeting registration tasks.  They also provide tools for processing payments either in advance or onsite, as well as donation collection and volunteer coordination features.  Registration solutions also offer a variety of self-service functions for event attendees such as online registration, content delivery, and fee payment.  <a href=/registration-software>Registration software</a> is related to <a href=/event-management-software>Event Management software</a> and <a href=/training-software>Training software</a>."
+            },
+            {
+              "functional_group" : "sportsleag",
+              "long_name" : "Waiver",
+              "html_name" : "waiver-software",
+              "link_name" : "waiver",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Waiver software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Waiver tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs.",
+              "description" : "Waiver software makes it possible to create, customize, and e-sign digital waivers, and securely store signed documents."
+            }
+          ],
+          "is_upgraded" : false,
+          "enabled" : true,
+          "filter_options" : {
+            "users" : 127,
+            "platform" : 899,
+            "pricing_options" : 24,
+            "category_related_features" : [
+              37374,
+              37426,
+              37482,
+              37510,
+              37543,
+              41100,
+              41101,
+              41102,
+              41103,
+              41104,
+              61774,
+              61776,
+              61782,
+              61783,
+              61785,
+              61786,
+              61787,
+              61789,
+              61790,
+              61791,
+              61792,
+              61797,
+              61798,
+              61799,
+              61800,
+              61802,
+              61803,
+              61804,
+              61805,
+              61807,
+              61808,
+              61809,
+              61810,
+              61811
+            ],
+            "employees" : 127
+          },
+          "sort_options" : {
+            "sort_review_rating" : 4.565545558929443,
+            "most_recent_review" : "2022-02-27T10:41:58Z"
+          },
+          "countries" : "ALL",
+          "features_tokenized_text" : "facility_scheduling registration_management scheduling team_management volunteer_management",
+          "platform_tokenized_text" : "cloud,saas,web-based desktopmac mobileandroid mobileiphone mobileipad",
+          "users_tokenized_text" : "1 2-10 11-50 51-200 201-500 501-1000 1000+",
+          "pricing_tokenized_text" : "free freetrial",
+          "badges" : [
+            {
+              "id" : 2150,
+              "category_short_name" : "Registration",
+              "category_html_name" : "registration-software",
+              "published_year" : 2020,
+              "badge_type" : "Top 20"
+            }
+          ],
+          "bid_spot_us" : 0.0,
+          "currency_code" : "USD",
+          "currency_symbol" : "$",
+          "credit_card_required" : "Unverified",
+          "licensing_model" : null,
+          "open_api_offered" : "Unverified",
+          "mobile_urls" : [
+            {
+              "name" : "Android",
+              "url" : "https://play.google.com/store/apps/details?id=com.teamapp.teamapp&hl=en"
+            },
+            {
+              "name" : "iOS",
+              "url" : "https://itunes.apple.com/us/app/team-app/id625607532?mt=8"
+            }
+          ],
+          "integrations" : [
+            {
+              "id" : "810df55d-b1c1-434d-adbd-a6d200b6c8b9",
+              "name" : "Stripe"
+            }
+          ],
+          "supported_countries" : [
+            {
+              "id" : 46,
+              "code" : "CN",
+              "name" : "China"
+            },
+            {
+              "id" : 14,
+              "code" : "AU",
+              "name" : "Australia"
+            },
+            {
+              "id" : 113,
+              "code" : "JP",
+              "name" : "Japan"
+            },
+            {
+              "id" : 84,
+              "code" : "DE",
+              "name" : "Germany"
+            },
+            {
+              "id" : 104,
+              "code" : "IN",
+              "name" : "India"
+            },
+            {
+              "id" : 235,
+              "code" : "GB",
+              "name" : "United Kingdom of Great Britain and Northern Ireland"
+            },
+            {
+              "id" : 237,
+              "code" : "US",
+              "name" : "United States of America"
+            },
+            {
+              "id" : 144,
+              "code" : "MX",
+              "name" : "Mexico"
+            },
+            {
+              "id" : 41,
+              "code" : "CA",
+              "name" : "Canada"
+            }
+          ],
+          "supported_languages" : [
+            {
+              "id" : 21,
+              "code" : "ar",
+              "name" : "Arabic",
+              "location" : null
+            },
+            {
+              "id" : 112,
+              "code" : "zh",
+              "name" : "Chinese (Simplified)",
+              "location" : null
+            },
+            {
+              "id" : 115,
+              "code" : "zh-Hant",
+              "name" : "Chinese (Traditional)",
+              "location" : null
+            },
+            {
+              "id" : 129,
+              "code" : "cs",
+              "name" : "Czech",
+              "location" : null
+            },
+            {
+              "id" : 131,
+              "code" : "da",
+              "name" : "Danish",
+              "location" : null
+            },
+            {
+              "id" : 140,
+              "code" : "nl",
+              "name" : "Dutch",
+              "location" : null
+            },
+            {
+              "id" : 152,
+              "code" : "en",
+              "name" : "English",
+              "location" : null
+            },
+            {
+              "id" : 271,
+              "code" : "fi",
+              "name" : "Finnish",
+              "location" : null
+            },
+            {
+              "id" : 273,
+              "code" : "fr",
+              "name" : "French",
+              "location" : null
+            },
+            {
+              "id" : 348,
+              "code" : "de",
+              "name" : "German",
+              "location" : null
+            },
+            {
+              "id" : 374,
+              "code" : "he",
+              "name" : "Hebrew",
+              "location" : null
+            },
+            {
+              "id" : 378,
+              "code" : "hu",
+              "name" : "Hungarian",
+              "location" : null
+            },
+            {
+              "id" : 384,
+              "code" : "id",
+              "name" : "Indonesian",
+              "location" : null
+            },
+            {
+              "id" : 394,
+              "code" : "ga",
+              "name" : "Irish",
+              "location" : null
+            },
+            {
+              "id" : 396,
+              "code" : "it",
+              "name" : "Italian",
+              "location" : null
+            },
+            {
+              "id" : 401,
+              "code" : "ja",
+              "name" : "Japanese",
+              "location" : null
+            },
+            {
+              "id" : 439,
+              "code" : "ko",
+              "name" : "Korean",
+              "location" : null
+            },
+            {
+              "id" : 539,
+              "code" : "no",
+              "name" : "Norwegian (Bokmal)",
+              "location" : null
+            },
+            {
+              "id" : 565,
+              "code" : "pl",
+              "name" : "Polish",
+              "location" : null
+            },
+            {
+              "id" : 567,
+              "code" : "pt",
+              "name" : "Portuguese",
+              "location" : null
+            },
+            {
+              "id" : 603,
+              "code" : "ru",
+              "name" : "Russian",
+              "location" : null
+            },
+            {
+              "id" : 684,
+              "code" : "es",
+              "name" : "Spanish",
+              "location" : null
+            },
+            {
+              "id" : 718,
+              "code" : "sv",
+              "name" : "Swedish",
+              "location" : null
+            },
+            {
+              "id" : 751,
+              "code" : "th",
+              "name" : "Thai",
+              "location" : null
+            },
+            {
+              "id" : 765,
+              "code" : "tr",
+              "name" : "Turkish",
+              "location" : null
+            },
+            {
+              "id" : 770,
+              "code" : "uk",
+              "name" : "Ukrainian",
+              "location" : null
+            }
+          ],
+          "target_industries" : [
+            {
+              "id" : 9,
+              "code" : "53",
+              "name" : "Automotive"
+            },
+            {
+              "id" : 39,
+              "code" : "110",
+              "name" : "Events Services"
+            },
+            {
+              "id" : 56,
+              "code" : "68",
+              "name" : "Higher Education"
+            },
+            {
+              "id" : 110,
+              "code" : "67",
+              "name" : "Primary/Secondary Education"
+            },
+            {
+              "id" : 130,
+              "code" : "20",
+              "name" : "Sporting Goods"
+            },
+            {
+              "id" : 55,
+              "code" : "124",
+              "name" : "Health, Wellness and Fitness"
+            },
+            {
+              "id" : 121,
+              "code" : "40",
+              "name" : "Recreational Facilities and Services"
+            },
+            {
+              "id" : 52,
+              "code" : "75",
+              "name" : "Government Administration"
+            },
+            {
+              "id" : 34,
+              "code" : "69",
+              "name" : "Education Management"
+            },
+            {
+              "id" : 97,
+              "code" : "100",
+              "name" : "Non-Profit Organization Management"
+            },
+            {
+              "id" : 131,
+              "code" : "33",
+              "name" : "Sports"
+            },
+            {
+              "id" : 126,
+              "code" : "27",
+              "name" : "Retail"
+            },
+            {
+              "id" : 25,
+              "code" : "4",
+              "name" : "Computer Software"
+            }
+          ],
+          "price_range_id" : 1,
+          "aggregated_review_ratings" : {
+            "industry" : {
+              "46" : 4.0,
+              "70" : 4.0,
+              "100" : 4.75,
+              "97" : 5.0,
+              "40" : 4.0,
+              "34" : 5.0,
+              "131" : 5.0,
+              "57" : 5.0,
+              "68" : 5.0,
+              "99" : 4.0,
+              "14" : 5.0,
+              "124" : 4.0,
+              "17" : 5.0,
+              "4" : 4.33,
+              "94" : 5.0,
+              "33" : 4.51,
+              "43" : 5.0,
+              "39" : 5.0,
+              "69" : 5.0,
+              "134" : 5.0,
+              "53" : 4.0,
+              "27" : 4.0,
+              "105" : 5.0,
+              "31" : 5.0,
+              "75" : 5.0,
+              "96" : 4.67
+            },
+            "company_size" : {
+              "1-10 employees" : 4.65,
+              "51-200 employees" : 4.53,
+              "Self-employed" : 4.0,
+              "1001-5000 employees" : 4.57,
+              "201-500 employees" : 4.4,
+              "11-50 employees" : 4.68,
+              "10,001+ employees" : 5.0,
+              "501-1000 employees" : 4.5
+            }
+          },
+          "vct_enabled" : false,
+          "pricing_plans" : [
+            {
+              "created_on_utc" : "2019-08-21T14:47:39Z",
+              "modified_on_utc" : "2022-04-11T20:39:21Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Basic",
+              "description" : null,
+              "display_order" : 1,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : null,
+              "ending_price" : null,
+              "pricing_model_name" : null,
+              "payment_frequency_name" : null,
+              "attributes" : [ ]
+            }
+          ],
+          "discount_types" : [ ]
+        }
+      }
+    ]
+  }
+}

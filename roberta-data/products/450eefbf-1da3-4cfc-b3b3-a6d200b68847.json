@@ -1,0 +1,2727 @@
+{
+  "took" : 3,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 3,
+    "successful" : 3,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : {
+      "value" : 2,
+      "relation" : "eq"
+    },
+    "max_score" : 11.380028,
+    "hits" : [
+      {
+        "_index" : "product_listings_main_data_upc_vt20220920_043802_utc",
+        "_type" : "_doc",
+        "_id" : "227086_mobilemark",
+        "_score" : 11.380028,
+        "_source" : {
+          "product_id" : 227086,
+          "seo_product_id" : 227086,
+          "seo_slug" : "SimpleTexting",
+          "product_name" : "SimpleTexting",
+          "upc_product_uuid" : "450eefbf-1da3-4cfc-b3b3-a6d200b68847",
+          "old_product_ids" : [
+            145859
+          ],
+          "product_url" : "https://simpletexting.com/",
+          "product_slug" : "SimpleTexting",
+          "former_name" : "SimpleTexting",
+          "logo_filepath" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/48522df6-dbfe-48b2-90a9-5906c3cda7eb.png",
+          "vendor" : {
+            "vendor_id" : 2174882,
+            "vendor_name" : "SimpleTexting",
+            "vendor_url" : "http://simpletexting.com",
+            "year_founded" : 2011,
+            "location" : "United States",
+            "vendor_opted_out_of_reviews" : true,
+            "is_opted_out_of_reviews" : false,
+            "is_hit_limit" : false,
+            "enabled" : true,
+            "has_vendor_level_page" : false,
+            "slug" : null,
+            "vendor_page" : false,
+            "paused_campaign" : false
+          },
+          "category_short_name" : "mobilemark",
+          "category_html_name" : "mobile-marketing-software",
+          "category" : {
+            "id" : 31308,
+            "short_name" : "mobilemark",
+            "long_name" : "Mobile Marketing",
+            "html_name" : "mobile-marketing-software",
+            "enabled" : true
+          },
+          "best_category" : "mobilemark",
+          "is_best_category" : true,
+          "highest_cpc_category" : null,
+          "is_highest_cpc_category" : false,
+          "short_desc" : "Easy-to-use SMS marketing platform. Send and receive texts from a 6-digit short code or text-enable your current number.",
+          "long_desc" : "Send mass texts. Provide customer service. Create automated campaigns. SimpleTexting lets you do it all. There's a reason Fortune 500 companies and small businesses alike choose SimpleTexting to reach their audiences. It really works. Our pricing plans are flexible and our features are designed to help you grow. Whether you need to message thousands at once or have 1-on-1 conversations, SimpleTexting makes it, well, simple. And with our mobile app, you can even manage your efforts from anywhere.",
+          "rating" : 4.7,
+          "number_of_reviews" : 221,
+          "total_reviews" : 230,
+          "ease_of_use_rating" : 4.7,
+          "customer_support_rating" : 4.8,
+          "functionality_rating" : 4.5,
+          "value_for_money_rating" : 4.6,
+          "recommendation_rating" : 8.9,
+          "pricing_enabled" : true,
+          "pricing" : 29.0,
+          "is_per_user" : false,
+          "fee_schedule" : "Per-Month",
+          "pricing_model" : "Usage Based",
+          "pricing_details" : "Pricing example for SMS and text marketing services within the United States. \n\nWe also offer ANNUAL PLANS which include a 25% discount and access to all messages up front.  \n\n500 Messages: $25 /month + 4.5 c / additional msg\n\n1,000 Messages: $45 /month + 4.5 c / additional msg\n\n2,000 Messages: $75 /month + 3.5 c / additional msg\n\n3,000 Messages: $95 /month + 3.0 c / additional msg\n\n7,500 Messages: $145 /month + 2.0 c / additional msg\n\n25,000 Messages: $375 /month + 1.5 c / additional msg\n\n50,000 Messages: $625 /month + 1.25 c / additional msg\n\n50,000+ Messages: Contact SimpleTexting",
+          "pricing_created_on" : "2019-08-21T14:47:39Z",
+          "pricing_modified_on" : "2022-06-23T14:42:33Z",
+          "pricing_created_by" : null,
+          "pricing_modified_by" : null,
+          "pricing_vendor_pricing_url" : "https://simpletexting.com/pricing/",
+          "free_trial" : true,
+          "free_version" : false,
+          "target_audience" : "Text message marketing allows any business or organization to reach people wherever they are, with a simple text. Send and receive texts from a 6-digit short code or text-enable your current number.\n",
+          "target_users" : [
+            "1",
+            "2-10",
+            "11-50",
+            "51-200",
+            "201-500",
+            "501-1000",
+            "1000+"
+          ],
+          "platform" : [
+            {
+              "enabled" : true,
+              "name" : "Cloud, SaaS, Web-Based"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Mac"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Chromebook"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile Android"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPhone"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPad"
+            }
+          ],
+          "support" : [
+            {
+              "enabled" : true,
+              "name" : "Email Help Desk"
+            },
+            {
+              "enabled" : true,
+              "name" : "FAQ Forum"
+            },
+            {
+              "enabled" : true,
+              "name" : "Knowledgebase"
+            },
+            {
+              "enabled" : true,
+              "name" : "Phone Support"
+            },
+            {
+              "enabled" : false,
+              "name" : "24/7 Live Rep"
+            },
+            {
+              "enabled" : true,
+              "name" : "Chat"
+            }
+          ],
+          "training" : [
+            {
+              "enabled" : false,
+              "name" : "Not Offered"
+            },
+            {
+              "enabled" : false,
+              "name" : "In-Person"
+            },
+            {
+              "enabled" : true,
+              "name" : "Live Online"
+            },
+            {
+              "enabled" : true,
+              "name" : "Webinars"
+            },
+            {
+              "enabled" : true,
+              "name" : "Documentation"
+            },
+            {
+              "enabled" : true,
+              "name" : "Videos"
+            }
+          ],
+          "media" : [
+            {
+              "product_id" : 227086,
+              "vendor_id" : 2174882,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/4a91b258-9c2d-43fe-9fd8-726d592ce94a.png",
+              "caption" : "Send messages to groups",
+              "weight" : 1,
+              "short_name" : "mobilemark"
+            },
+            {
+              "product_id" : 227086,
+              "vendor_id" : 2174882,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/8a5b4da3-ffb1-4843-8c2d-a003e355fcc3.png",
+              "caption" : "Have 1-on-1 conversations",
+              "weight" : 2,
+              "short_name" : "mobilemark"
+            },
+            {
+              "product_id" : 227086,
+              "vendor_id" : 2174882,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/8fa75748-dbf5-40a0-adee-466c25b1be50.png",
+              "caption" : "Text-to-join keywords",
+              "weight" : 3,
+              "short_name" : "mobilemark"
+            },
+            {
+              "product_id" : 227086,
+              "vendor_id" : 2174882,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/085519c5-d228-4677-87a1-eb3bfa720ffe.png",
+              "caption" : "Select a local number",
+              "weight" : 4,
+              "short_name" : "mobilemark"
+            },
+            {
+              "product_id" : 227086,
+              "vendor_id" : 2174882,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/568837d2-10c1-4ac9-a053-9391849631fc.png",
+              "caption" : "Useful, built-in apps",
+              "weight" : 5,
+              "short_name" : "mobilemark"
+            },
+            {
+              "product_id" : 227086,
+              "vendor_id" : 2174882,
+              "media_type" : "VIDEO",
+              "path_url" : "https://www.youtube.com/watch?v=vFVQtMD937g",
+              "caption" : null,
+              "weight" : 0,
+              "short_name" : "mobilemark"
+            }
+          ],
+          "links" : [ ],
+          "features" : [
+            {
+              "category_name" : "Mobile Marketing",
+              "category_features" : [
+                {
+                  "name" : "Activity Dashboard",
+                  "value" : false,
+                  "id" : "856ab03e-a530-4ea9-bac6-968761c9b6c6",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Auto-Responders",
+                  "value" : true,
+                  "id" : "96edabaa-cf05-4616-b05b-0c34438ff810",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Campaign Analytics",
+                  "value" : false,
+                  "id" : "9e3a896d-c19f-4076-aba7-0562630dd1c0",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Campaign Management",
+                  "value" : true,
+                  "id" : "08a976af-4728-4543-8941-8f3c1da99734",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Contact Management",
+                  "value" : true,
+                  "id" : "0019f365-3e1b-4e2f-8f1e-cb77ba025078",
+                  "avg_rating" : 3.0,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Customer Segmentation",
+                  "value" : false,
+                  "id" : "d91e2dfa-b783-41cf-8eaf-c3630a064f77",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Customizable Templates",
+                  "value" : true,
+                  "id" : "0cbce712-8370-4492-ac43-e500bc2f2b1f",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Email Marketing",
+                  "value" : false,
+                  "id" : "3e3bef6d-cbd8-43e1-83e6-eaf601c17a48",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Create and send email blasts/campaigns"
+                },
+                {
+                  "name" : "Engagement Tracking",
+                  "value" : true,
+                  "id" : "274bb73c-f611-430d-adfc-673ebbb6fb94",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Mobile Access",
+                  "value" : true,
+                  "id" : "15d49235-ad13-4d33-b009-edd50126375b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Push Notifications",
+                  "value" : true,
+                  "id" : "c323ffa5-2c1a-41c9-b417-4790bacc389a",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "SMS Marketing",
+                  "value" : true,
+                  "id" : "2a6fe71f-b74f-4d3f-9f4b-f2389c507c25",
+                  "avg_rating" : 4.5,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 0.5,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Text-to-Win",
+                  "value" : true,
+                  "id" : "41e1fa34-bcee-495c-a5b4-ade1520185bf",
+                  "avg_rating" : 3.5,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                }
+              ]
+            },
+            {
+              "category_name" : "SMS Survey",
+              "category_features" : [
+                {
+                  "name" : "Alerts/Notifications",
+                  "value" : true,
+                  "id" : "aef68b72-bd4c-4797-ae8c-4735512de81a",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Audience Targeting",
+                  "value" : true,
+                  "id" : "6888dcc4-9224-4cbc-8be1-8877c6705618",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Campaign Management",
+                  "value" : true,
+                  "id" : "08a976af-4728-4543-8941-8f3c1da99734",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Contact Management",
+                  "value" : true,
+                  "id" : "0019f365-3e1b-4e2f-8f1e-cb77ba025078",
+                  "avg_rating" : 3.0,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Customizable Templates",
+                  "value" : true,
+                  "id" : "0cbce712-8370-4492-ac43-e500bc2f2b1f",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Keyword Tracking",
+                  "value" : true,
+                  "id" : "198ffbfe-5cad-497f-9c89-4181be41fa61",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "MMS",
+                  "value" : true,
+                  "id" : "464bc80a-69c8-4a6b-8637-c10b38ef5eef",
+                  "avg_rating" : 3.7,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 4,
+                  "pct_time_used" : 0.5,
+                  "cnt_time_critical" : 4,
+                  "pct_time_critical" : 0.25,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Mass Texting",
+                  "value" : true,
+                  "id" : "6b0cf507-6d5a-49e6-94b5-9c0bc95ab9ac",
+                  "avg_rating" : 3.4,
+                  "cnt_rating" : 7,
+                  "avg_importance" : 2.25,
+                  "cnt_importance" : 4,
+                  "cnt_time_used" : 4,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 4,
+                  "pct_time_critical" : 0.25,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Message Personalization",
+                  "value" : true,
+                  "id" : "78c28182-e80e-4b57-b07b-ded5c8391e92",
+                  "avg_rating" : 3.5,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 2.67,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.667,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Reporting/Analytics",
+                  "value" : true,
+                  "id" : "b0c186d0-0194-4300-abba-ca3bc2474bbe",
+                  "avg_rating" : 3.4,
+                  "cnt_rating" : 5,
+                  "avg_importance" : 2.67,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.667,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Scheduled Messaging",
+                  "value" : true,
+                  "id" : "55aba9c4-9b4a-4b6e-96b8-df3bffd0e4e7",
+                  "avg_rating" : 4.3,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 2.67,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 4,
+                  "pct_time_used" : 0.75,
+                  "cnt_time_critical" : 4,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Survey Builder",
+                  "value" : true,
+                  "id" : "32528b5f-d1c3-41ee-bf60-ce3c1dd25470",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Template Management",
+                  "value" : true,
+                  "id" : "f6364f68-ad3c-4d2c-b40b-6e1f41bbea7e",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                }
+              ]
+            }
+          ],
+          "infographics" : [ ],
+          "related_products" : [
+            {
+              "product_id" : 141178,
+              "seo_product_id" : 141178,
+              "seo_slug" : "Bizness-Apps",
+              "vendor_name" : "Bizness Apps",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/ebe7f91f-c5c5-4996-96a4-232d5a9e5cc4.png",
+              "rating" : 4.7,
+              "total_reviews" : 418,
+              "slug" : "Bizness-Apps",
+              "product_name" : "Bizness Apps",
+              "short_desc" : "Mobile apps for businesses made easy.",
+              "features" : "Learn why 1700+ marketing and design agencies are using the Bizness Apps platform to build mobile apps for small business clients. Offer a new, revenue generating service to your SMB clients while staying ahead of the latest trends in mobile technology.\r\n\r\nWith features like unlimited push notifications, mobile food ordering, reservations, loyalty programs, and coupons our apps directly generate revenue and increase customer engagement.",
+              "url" : "https://www.biznessapps.com/ppcreseller/?utm_source=capterra&utm_medium=cpc&utm_campaign=search__-__nw__-__capterra&c1=CAP_SE_NW&source=USA_INTL&kw=application_development"
+            },
+            {
+              "product_id" : 150912,
+              "seo_product_id" : 226863,
+              "seo_slug" : "Textedly",
+              "vendor_name" : "Textedly",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e8b3622a-3ca6-428a-a855-b5cdf736be03.png",
+              "rating" : 4.6,
+              "total_reviews" : 337,
+              "slug" : "Textedly",
+              "product_name" : "Textedly",
+              "short_desc" : "Mass SMS Text Messaging services. Great for sending bulk text messages, appointment reminders, coupons, sales, and more.",
+              "features" : "SMS Marketing Services made easy. Instantly send 10 or 100,000 SMS Text messages to any mobile phone number. Easily build an opt-in subscriber list. Schedule text messages to go out any time you want. Track text message delivery. Our plans start with a FREE 14-day trial period. Or try our Annual Plans and pay up-front for one year, and get 20% more messages instantly.",
+              "url" : "https://www.textedly.com"
+            },
+            {
+              "product_id" : 145844,
+              "seo_product_id" : 145844,
+              "seo_slug" : "TXT180",
+              "vendor_name" : "TXT180",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/f6ef5712-1953-4360-8fd4-ad636a64401f.png",
+              "rating" : 4.7,
+              "total_reviews" : 260,
+              "slug" : "TXT180",
+              "product_name" : "TXT180",
+              "short_desc" : "Text marketing software that offers automatic billing, text message scheduler, auto-responders, and free inbound messages.",
+              "features" : "LOWEST PRICE SMS!!! FREE 15 Day Trial - Text marketing & bulk sms software that offers text message scheduler, auto-responders, inbox, contact import, unlimited contacts & groups, QR codes, and free inbound messages. TXT180 offers an easy way to send group text messages for any type of business or organization such as restaurants, retail, churches, real estate, fundraisers, and more. ",
+              "url" : "http://bit.ly/capterra-sms"
+            },
+            {
+              "product_id" : 147342,
+              "seo_product_id" : 147342,
+              "seo_slug" : "TextMagic",
+              "vendor_name" : "TextMagic",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/7155b1d5-958e-49b8-9400-34b335670e88.png",
+              "rating" : 4.7,
+              "total_reviews" : 170,
+              "slug" : "TextMagic",
+              "product_name" : "TextMagic",
+              "short_desc" : "Fully featured business text messaging platform to send bulk SMS text messages to customers, staff, and partners.",
+              "features" : "TextMagic is a fully featured business text messaging platform that enables companies of all sizes to send bulk SMS text messages to their customers, staff, and partners. The service can be used to send sms notifications, alerts, and confirmations to clients, as well as to conduct SMS marketing campaigns. ",
+              "url" : "https://www.textmagic.com/?utm_source=capterra&utm_medium=cpc&utm_campaign=mobile-marketing"
+            },
+            {
+              "product_id" : 164933,
+              "seo_product_id" : 233558,
+              "seo_slug" : "Drip",
+              "vendor_name" : "Drip",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/2cc01f1d-9723-451c-a249-905be81804fe.png",
+              "rating" : 4.4,
+              "total_reviews" : 165,
+              "slug" : "Drip",
+              "product_name" : "Drip",
+              "short_desc" : "Email Marketing with Drip-where intelligent data, dynamic segmentation, and your brand's personality come together to explode revenue.",
+              "features" : "Send spot-on emails that get opened + discover what brings in the most money.\n\nDrag-n-drop your way to always-beautiful emails with 50+ templates and an easy visual builder. \n\nEmail smarter (not harder) using intelligent data + superhero-level segmentation. \n\nAccess 55+ pre-built email workflows and advanced workflow split testing (designed around industry best practices + high-converting logic).\n\nTry Drip free for 14 days (no credit card) ? Nail your Email + Popup Marketing ? Grow your brand",
+              "url" : "https://drip.com/signup?utm_campaign=mobile_marketing&utm_source=capterra&utm_medium=cpc&utm_content=destination_url"
+            },
+            {
+              "product_id" : 161117,
+              "seo_product_id" : 224727,
+              "seo_slug" : "Avochato",
+              "vendor_name" : "Avochato",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/937f05f3-8717-4b38-9a29-b161863967df.png",
+              "rating" : 4.7,
+              "total_reviews" : 129,
+              "slug" : "Avochato",
+              "product_name" : "Avochato",
+              "short_desc" : "Avochato is a text messaging solution for sales, marketing, and support teams. Integrates with Slack, Desk.com, Salesforce, and Office.",
+              "features" : "Avochato is the all-in-one text messaging solution for marketers.  Avochato makes it easy to send bulk messages to your contacts and turn those broadcasts into one-on-one conversations.  Drive online and in-store traffic, make update announcements, and even gather more online reviews for your business.  \r\n\r\nAvochato integrates with services including Slack, Office 365, Salesforce, and Desk.com.  It also integrates with Google AdWords, enabling prospects to text you from a Google Ad.",
+              "url" : "https://www.avochato.com/freetrial?utm_medium=ppc&utm_campaign=mobile-marketing&utm_content=free_trial"
+            },
+            {
+              "product_id" : 164713,
+              "seo_product_id" : 239939,
+              "seo_slug" : "Smartlook",
+              "vendor_name" : "Smartlook",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/c2d4cdbc-006c-4fc4-9a93-e05fdc7cb5e6.png",
+              "rating" : 4.7,
+              "total_reviews" : 128,
+              "slug" : "Smartlook",
+              "product_name" : "Smartlook",
+              "short_desc" : "Smartlook is a qualitative analytics solution for iOS and Android apps with always-on recordings, heatmaps, automatic event, & funnels",
+              "features" : "Smartlook is a qualitative analytics solution for iOS, Android, and React Native apps that answers the \"whys\" behind your users' actions. Understand how people interact with your app. Watch recordings, track events, and build conversion funnels. Armed with this data, start making your app even better.",
+              "url" : "https://www.smartlook.com/features/mobile/?utm_medium=cpc&utm_campaign=capterra_mobile_marketing"
+            },
+            {
+              "product_id" : 145848,
+              "seo_product_id" : 145848,
+              "seo_slug" : "Ez-Texting",
+              "vendor_name" : "CallFire",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/5c150f64-4f8c-4ce6-bb3f-0508d5e1f51b.png",
+              "rating" : 4.3,
+              "total_reviews" : 127,
+              "slug" : "Ez-Texting",
+              "product_name" : "EZ Texting",
+              "short_desc" : "EZ Texting delivers the smartest, fastest, easiest, and most reliable ways to connect with your customers and clients. \n\n",
+              "features" : "EZ Texting is a SaaS company that delivers the fastest, easiest, and most reliable way to connect. It has served over 165,000 customers and is the #1 SMS platform for business users, setting the standard for business texting. Our messaging solutions allow businesses to quickly and effectively reach and engage their mobile audiences. With employees around the world, EZ Texting is continuously recognized as a Best Place to Work, as well as a top product for small and mid-market businesses.",
+              "url" : "https://www.eztexting.com/lp/capterra?utm_source=capterra&utm_medium=review-site&utm_content=destination"
+            },
+            {
+              "product_id" : 143016,
+              "seo_product_id" : 143016,
+              "seo_slug" : "Loyal-Zoo",
+              "vendor_name" : "Loyalzoo",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/42df4beb-7cb3-424b-a590-4b6688b6c8d6.png",
+              "rating" : 4.4,
+              "total_reviews" : 100,
+              "slug" : "Loyal-Zoo",
+              "product_name" : "Loyal Zoo",
+              "short_desc" : "Loyalzoo is a digital loyalty system for independent retailers & restaurants, helping increase customer spending and recurring revenues",
+              "features" : "Loyalzoo allows small to medium-sized businesses run their own loyalty or memberships program quickly and easily. The application enables businesses to set up a loyalty or memberships program and run it digitally on their electronic POS system, with customers no longer requiring to keep paper or plastic loyalty cards. Businesses can tailor-make their rewards by choosing to set a points-based loyalty program or run a \"Prime-style\" paid membership program. *No app is required by customers.",
+              "url" : "http://www.loyalzoo.com/"
+            },
+            {
+              "product_id" : 179576,
+              "seo_product_id" : 253802,
+              "seo_slug" : "Attentive",
+              "vendor_name" : "Attentive Mobile",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/ffdb6f68-716e-4dfb-9110-56da2a6a43b0.png",
+              "rating" : 4.9,
+              "total_reviews" : 78,
+              "slug" : "Attentive",
+              "product_name" : "Attentive",
+              "short_desc" : "Attentive helps 5,000+ innovative brands connect with customers and drive billions in revenue via text message marketing.",
+              "features" : "Attentive? is the leader in conversational commerce, reinventing business to consumer communication. Our SMS-first software platform helps everyone from entrepreneurs to enterprises strengthen relationships with their consumers in a new way. Through two-way, real-time, personalized communications, we drive billions in e-commerce revenue and over 5,000 leading brands like CB2, Pura Vida, Urban Outfitters, Jack in the Box, and Coach rely on Attentive to deliver powerful commerce experiences.",
+              "url" : "https://info.attentive.com/capterra-demo/?utm_medium=ppc&utm_campaign=request-demo&utm_term=mobilemark"
+            },
+            {
+              "product_id" : 228596,
+              "seo_product_id" : 228596,
+              "seo_slug" : "Text-P2P",
+              "vendor_name" : "TextP2P",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/56414f30-1b7d-4d7d-ac9c-64eb7da2bb9d.png",
+              "rating" : 5.0,
+              "total_reviews" : 70,
+              "slug" : "Text-P2P",
+              "product_name" : "TextP2P",
+              "short_desc" : "TextP2P combines Text messaging, Email marketing, and Ringless Voicemail drops into one affordable and easy to use online application.",
+              "features" : "TextP2P combines Text messaging, Email marketing, and Ringless Voicemail drops into one affordable and easy to use online application. Thousands of small to mid-sized businesses in the US & Canada have used our services to communicate with their customers getting a 98% open rate in under 3 minutes! Save time with our automation features including drip campaigns, keyword signups, automated responses, in-text surveys, and more.  Try it for FREE for 14 days and get 100 FREE text credits.",
+              "url" : "https://info.gartnerdigitalmarkets.com/textp2p-gdm-lp"
+            }
+          ],
+          "similar_products" : [
+            {
+              "product_id" : 153688,
+              "seo_product_id" : 153688,
+              "seo_slug" : "Unified-Marketing-Platform",
+              "vendor_name" : "Singular",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/79d8d543-9972-45c0-b822-bf8a8f0af488.png",
+              "rating" : 4.6,
+              "total_reviews" : 23,
+              "slug" : "Unified-Marketing-Platform",
+              "product_name" : "Singular",
+              "short_desc" : "Singular empowers end-to-end marketing growth with one simple, holistic system for next-gen attribution, analytics, & fraud protection.",
+              "features" : "To best perform, marketers need readily available, easily digestible, granular data that empowers them to adapt, pivot, & grow. No matter the growth phase, Singular provides companies with a holistic marketing analytics and attribution solution to unlock the insights you need to grow. Enhanced with an in-built ETL and the most comprehensive fraud prevention suite in the market, Singular is uniquely positioned to support your optimization efforts.",
+              "url" : "https://www.singular.net/?utm_medium=paid&utm_source=capterra&utm_campaign="
+            },
+            {
+              "product_id" : 174023,
+              "seo_product_id" : 174023,
+              "seo_slug" : "Customer-io",
+              "vendor_name" : "Customer.io",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/903f2b65-9abf-475f-9b4c-ddcd2587281b.png",
+              "rating" : 4.7,
+              "total_reviews" : 31,
+              "slug" : "Customer-io",
+              "product_name" : "Customer.io",
+              "short_desc" : "Customer engagement platform for sending automated emails, push notifications, texts, and more to engage and retain your audience.",
+              "features" : "Customer.io is the customer engagement platform that enables marketers to build their most sophisticated automated messaging campaigns. With access to your real-time behavioral data, create personalized and relevant messages that engage and retain your customers. Send email, push notifications, text messages, and more all through an intuitive and powerful visual building experience. Built for scale, Customer.io is used by over 4,100 companies, sending over 8 billion messages per year.",
+              "url" : "https://customer.io/ppc/demo/"
+            },
+            {
+              "product_id" : 164713,
+              "seo_product_id" : 239939,
+              "seo_slug" : "Smartlook",
+              "vendor_name" : "Smartlook",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/c2d4cdbc-006c-4fc4-9a93-e05fdc7cb5e6.png",
+              "rating" : 4.7,
+              "total_reviews" : 128,
+              "slug" : "Smartlook",
+              "product_name" : "Smartlook",
+              "short_desc" : "Smartlook is a qualitative analytics solution for iOS and Android apps with always-on recordings, heatmaps, automatic event, & funnels",
+              "features" : "Smartlook is a qualitative analytics solution for iOS, Android, and React Native apps that answers the \"whys\" behind your users' actions. Understand how people interact with your app. Watch recordings, track events, and build conversion funnels. Armed with this data, start making your app even better.",
+              "url" : "https://www.smartlook.com/?utm_medium=cpc&utm_campaign=capterra_default_listing"
+            },
+            {
+              "product_id" : 161117,
+              "seo_product_id" : 224727,
+              "seo_slug" : "Avochato",
+              "vendor_name" : "Avochato",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/937f05f3-8717-4b38-9a29-b161863967df.png",
+              "rating" : 4.7,
+              "total_reviews" : 129,
+              "slug" : "Avochato",
+              "product_name" : "Avochato",
+              "short_desc" : "Avochato is a text messaging solution for sales, marketing, and support teams. Integrates with Slack, Desk.com, Salesforce, and Office.",
+              "features" : "Avochato is the all-in-one text messaging solution for marketers.  Avochato makes it easy to send bulk messages to your contacts and turn those broadcasts into one-on-one conversations.  Drive online and in-store traffic, make update announcements, and even gather more online reviews for your business.  \r\n\r\nAvochato integrates with services including Slack, Office 365, Salesforce, and Desk.com.  It also integrates with Google AdWords, enabling prospects to text you from a Google Ad.",
+              "url" : "https://www.avochato.com/freetrial?utm_medium=LP1&utm_campaign=basic-info&utm_content=free_trial"
+            },
+            {
+              "product_id" : 176836,
+              "seo_product_id" : 245859,
+              "seo_slug" : "SearchAdsHQ",
+              "vendor_name" : "SplitMetrics",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/be284a0b-0425-4f67-a1d0-b26684c7ff71.png",
+              "rating" : 0.0,
+              "total_reviews" : 0,
+              "slug" : "SearchAdsHQ",
+              "product_name" : "SplitMetrics Acquire",
+              "short_desc" : "A data-driven platform for Apple Search Ads scaling with deep insights and trends, seamless no-code automation and  AI suggestions. ",
+              "features" : "An Apple Search Ads Partner, SplitMetrics Acquire (formerly SearchAdsHQ) is a platform designed to help mobile marketers scale Apple Search Ads seamlessly and profitably. The platform is empowered with automation tools, bulk management, AI-based optimization, and market insights. \nSplitMetrics was the 1st company to build the Apple Search Ads management platform in 2017 and has been constantly improving solutions,  growing expertise and gathering the best practices and benchmarks.",
+              "url" : "https://splitmetrics.com/apple-search-ads-scale?utm_source=capterra&utm_medium=listing"
+            },
+            {
+              "product_id" : 173457,
+              "seo_product_id" : 242244,
+              "seo_slug" : "Whispir",
+              "vendor_name" : "Whispir",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/c82d634e-1704-448c-9f81-8a0ef9add928.png",
+              "rating" : 4.6,
+              "total_reviews" : 17,
+              "slug" : "Whispir",
+              "product_name" : "Whispir",
+              "short_desc" : "Whispir is a cloud platform for automating intelligent, rich communications.",
+              "features" : "Whispir, Inc. is an all-in-one communications platform designed to help businesses and organizations communicate more humanly with their team and their customers. Whispir's capabilities include a wide range of intelligent messaging solutions, from SMS to email, voice, video, social, and more.\n\n",
+              "url" : "https://www.whispir.com/?utm_source=capterra&utm_medium=reviewsite&utm_content=reviewlisting"
+            },
+            {
+              "product_id" : 143902,
+              "seo_product_id" : 224979,
+              "seo_slug" : "Iterable",
+              "vendor_name" : "Iterable",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/817c89ac-a3b5-4252-bbef-e6fd176f34bb.png",
+              "rating" : 4.3,
+              "total_reviews" : 43,
+              "slug" : "Iterable",
+              "product_name" : "Iterable",
+              "short_desc" : "Iterable is the customer activation platform that helps brands deliver joyful experiences with harmonized, individualized, and dynamic ",
+              "features" : "Send personalized, on-brand messages with Iterable across your mobile channels,\r\nincluding mobile push, SMS, and in-app notifications. With Iterable, automate behavior-based lifecycle marketing including: Attract prospects and educate new users to download your mobile app with a well orchestrated, personalized welcome series. You can engage your users with real-time relevant messages, everything from mobile push alerts, product updates, SMS reminders, and in-app promotions. ",
+              "url" : "https://iterable.com/?utm_medium=p-other&utm_source=capterra"
+            },
+            {
+              "product_id" : 145844,
+              "seo_product_id" : 145844,
+              "seo_slug" : "TXT180",
+              "vendor_name" : "TXT180",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/f6ef5712-1953-4360-8fd4-ad636a64401f.png",
+              "rating" : 4.7,
+              "total_reviews" : 260,
+              "slug" : "TXT180",
+              "product_name" : "TXT180",
+              "short_desc" : "Text marketing software that offers automatic billing, text message scheduler, auto-responders, and free inbound messages.",
+              "features" : "LOWEST PRICE SMS!!! FREE 15 Day Trial - Text marketing & bulk sms software that offers text message scheduler, auto-responders, inbox, contact import, unlimited contacts & groups, QR codes, and free inbound messages. TXT180 offers an easy way to send group text messages for any type of business or organization such as restaurants, retail, churches, real estate, fundraisers, and more. ",
+              "url" : "http://bit.ly/capterra-sms"
+            },
+            {
+              "product_id" : 212777,
+              "seo_product_id" : 212777,
+              "seo_slug" : "Mobiz",
+              "vendor_name" : "Mobiz",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e863693b-422d-4ded-8b5c-85967b2f132a.png",
+              "rating" : 4.7,
+              "total_reviews" : 7,
+              "slug" : "Mobiz",
+              "product_name" : "Mobiz",
+              "short_desc" : "Engage with your customers using bespoke text message marketing campaigns.",
+              "features" : "Mobiz is a hyper-personalized mobile marketing platform that elevates and innovates customer engagement with data-driven personalization. Using a dynamic landing page template library, users can create and send customized mobile marketing campaigns at scale and via SMS in a few easy steps - all totally code-free.\n\nThe platform also offers a growth tool, helping users expand their subscriber list easily and compliantly. \n\nTo learn more, visit https://bit.ly/3dRhnCZ",
+              "url" : "http://www.mobiz.co"
+            },
+            {
+              "product_id" : 229449,
+              "seo_product_id" : 229449,
+              "seo_slug" : "iVision-Mobile",
+              "vendor_name" : "iVision Mobile",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/64b942ba-356d-481e-9d4d-a402eae70df0.png",
+              "rating" : 4.7,
+              "total_reviews" : 23,
+              "slug" : "iVision-Mobile",
+              "product_name" : "iVision Mobile",
+              "short_desc" : "White Label SMS marketing with iVision Mobile - A robust SMS Marketing software and digital loyalty kiosk technology provider",
+              "features" : "iVision Mobile provides businesses across a variety of industries with SMS Marketing software coupled with a digital loyalty rewards kiosk, all available as a 100% White Label SMS solution.\n\nOur software supports text messaging for healthcare, financial, education, dining and entertainment, retail, political, non-profit, and religious industries, to name a few.\n\nOur SMS software supports short codes, long codes, text enabled toll-free numbers, and adding texting to existing business lines.\n\n",
+              "url" : "https://www.ivisionmobile.com/contact.asp"
+            },
+            {
+              "product_id" : 218943,
+              "seo_product_id" : 218943,
+              "seo_slug" : "Mobile-Marketing-Cloud-by-CM-com",
+              "vendor_name" : "CM.com",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/ffe97a8f-73f2-44d9-8336-0a8978ea9b39.png",
+              "rating" : 0.0,
+              "total_reviews" : 0,
+              "slug" : "Mobile-Marketing-Cloud-by-CM-com",
+              "product_name" : "Mobile Marketing Cloud",
+              "short_desc" : "Automate mobile marketing and reach customers via mobile channels like SMS, WhatsApp, Viber, RCS, Voice, and Push.",
+              "features" : "Mobile Marketing Cloud is an all-in-one software solution that empowers marketers to create superior customer journeys that increase engagement and conversion. Making it easy for marketers to create personalized, relevant, and timely campaigns in your customer's preferred channel. It includes an in-built Customer Data Platform, an easy-to-use email tool, Marketing Automation capabilities, landing pages, and access to all mobile channels like SMS, WhatsApp, RCS, Viber, and Push.",
+              "url" : "https://www.cm.com/mobile-marketing-cloud/"
+            },
+            {
+              "product_id" : 160386,
+              "seo_product_id" : 160386,
+              "seo_slug" : "Salesmsg",
+              "vendor_name" : "Salesmsg",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/c3433fba-391a-4e0e-ac8f-58b9b847f3e4.png",
+              "rating" : 4.7,
+              "total_reviews" : 65,
+              "slug" : "Salesmsg",
+              "product_name" : "Salesmsg",
+              "short_desc" : "Simple, scalable, two-way SMS & MMS business texting.",
+              "features" : "Salesmsg is a two-way SMS and MMS business texting software that makes it easy to have real-time text message conversations at scale. Fully integrated with HubSpot, Infusionsoft, ActiveCampaign, Pipedrive, Marketo, and Zapier.",
+              "url" : "https://www.salesmessage.com/?utm_source=capterra&utm_medium=listing"
+            },
+            {
+              "product_id" : 164355,
+              "seo_product_id" : 164355,
+              "seo_slug" : "UltraSMSScript",
+              "vendor_name" : "UltraSMSScript",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8ce7d3d2-a4e5-48ab-afab-fb3c1b0863d1.png",
+              "rating" : 4.9,
+              "total_reviews" : 14,
+              "slug" : "UltraSMSScript",
+              "product_name" : "UltraSMSScript",
+              "short_desc" : "A group text & SMS marketing software platform where you only pay a one time fee for the software and the wholesale costs of texts.",
+              "features" : "UltraSMSScript is a uniquely positioned, easy to use, web-based group text and SMS marketing software platform. Either install UltraSMSScript on your own server and pay a 1-time fee for the platform, or have us host it for you with our monthly hosted plans! What about the cost to send text messages? In most cases, it's a fraction of a penny. Since we're linked directly to the text-messaging gateways, you only pay the wholesale costs of texts!",
+              "url" : "https://www.ultrasmsscript.com/?ims=ifhwz&utm_source=gartner"
+            }
+          ],
+          "related_categories" : [
+            {
+              "functional_group" : "mobilemark",
+              "long_name" : "App Design",
+              "html_name" : "app-design-software",
+              "link_name" : "app-design",
+              "product_count" : null,
+              "meta_description" : "Find and compare top App Design software on Capterra, with our free and interactive tool. Quickly browse through hundreds of App Design tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "App Design software speeds up the process of creating mobile and web apps, often completely eliminating the need for coding."
+            },
+            {
+              "functional_group" : "mobilemark",
+              "long_name" : "Customer Engagement",
+              "html_name" : "customer-engagement-software",
+              "link_name" : "customer-engagement",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Customer Engagement software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Customer Engagement tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/customer-engagement-software\">Customer Engagement software</a> helps marketers and business managers create and track customer experiences with personalized, engaging content. Customer engagement software often includes digital and mobile engagement tools, live chat, gamification options, personalized web content, and dynamic forms. Related tools can be found in the <a href=\"/customer-relationship-management-software\">Customer Relationship Management software</a>, <a href=\"/customer-loyalty-software\">Customer Loyalty software</a>, <a href=\"/customer-satisfaction-software\">Customer Satisfaction software</a>, <a href=\"/gamification-software\">Gamification software</a>, and <a href=\"/blog-software\">Blog software</a>."
+            },
+            {
+              "functional_group" : "mobilemark",
+              "long_name" : "Marketing Automation",
+              "html_name" : "marketing-automation-software",
+              "link_name" : "marketing-automation",
+              "product_count" : 184,
+              "meta_description" : "Find and compare top Marketing Automation software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Marketing Automation tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/marketing-automation-software\">Marketing Automation software</a> enables organizations to automate their marketing functions including campaign creation, market segmentation and response analysis.  These applications also allow greater integration between sales staff and management as well as expanded abilities to evaluate the effectiveness of marketing campaigns.  Marketing Automation solutions enable the enterprise-wide sharing of information, providing an essential conduit between management, sales and marketing operations.  <a href=\"/marketing-automation-software\">Marketing Automation software</a> is related to <a href=\"/campaign-management-software\">Campaign Management software</a>, <a href=\"/email-marketing-software\">Email Marketing software</a> and <a href=\"/search-marketing-automation-software\">Search Marketing software</a>."
+            },
+            {
+              "functional_group" : "mobilemark",
+              "long_name" : "Mobile Analytics",
+              "html_name" : "mobile-analytics-software",
+              "link_name" : "mobile-analytics",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Mobile Analytics software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Mobile Analytics tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "Mobile Analytics software helps businesses understand the in-app journey of their customers, identify user pain points, and take advantage of opportunities to improve customer experience and increase mobile app revenue."
+            },
+            {
+              "functional_group" : "mobilemark",
+              "long_name" : "Mobile Content Management System",
+              "html_name" : "mobile-content-management-system-software",
+              "link_name" : "mobile-content-management-system",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Mobile Content Management systems on Capterra, with our free and interactive tool. Quickly browse through hundreds of Mobile Content Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "Mobile Content Management System is a type of content management system for storing, managing, and delivering content to employee's mobile devices."
+            },
+            {
+              "functional_group" : "mobilemark",
+              "long_name" : "Personalization",
+              "html_name" : "personalization-software",
+              "link_name" : "personalization",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Personalization software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Personalization tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "Personalization software is used to customize visitor experience on a website. Personalization software generates targeted recommendations and notifications that are presented to customers during their web browsing sessions."
+            },
+            {
+              "functional_group" : "mobilemark",
+              "long_name" : "SMS Marketing",
+              "html_name" : "sms-marketing-software",
+              "link_name" : "sms-marketing",
+              "product_count" : null,
+              "meta_description" : "Find and compare top SMS Marketing software on Capterra, with our free and interactive tool. Quickly browse through hundreds of SMS Marketing tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/sms-marketing-software\">SMS (Text) Marketing software</a> provides the tools needed to launch and support text marketing campaigns.  With SMS Marketing software in your arsenal you can quickly subscribe customers and send important alerts with mass messaging tools.  Text marketing software can be used to advertise weekly specials, send coupons, solicit feedback, poll customers, and promote contests.  Looking for other ways to improve your marketing?  Learn more with our <a href=\"/channel-management-software\">Channel Management software</a>, <a href=\"/email-marketing-software\">Email Marketing software</a>, and <a href=\"/marketing-automation-software\">Marketing Automation software</a> categories.  "
+            }
+          ],
+          "is_upgraded" : false,
+          "enabled" : true,
+          "filter_options" : {
+            "users" : 127,
+            "platform" : 897,
+            "pricing_options" : 18,
+            "category_related_features" : [
+              28207,
+              28212,
+              28213,
+              28214,
+              28215,
+              69729,
+              69730,
+              69731,
+              69732,
+              69737,
+              69742,
+              69744,
+              69745,
+              69747,
+              69748,
+              69749,
+              69750,
+              69752,
+              69753,
+              69754,
+              69755,
+              69758,
+              69761,
+              69762,
+              69764,
+              69766,
+              69768
+            ],
+            "employees" : 127
+          },
+          "sort_options" : {
+            "sort_review_rating" : 4.662067890167236,
+            "most_recent_review" : "2022-07-26T16:09:01Z"
+          },
+          "countries" : "ALL",
+          "features_tokenized_text" : "auto-responders campaign_management contact_management customizable_templates engagement_tracking mobile_access push_notifications sms_marketing text-to-win",
+          "platform_tokenized_text" : "cloud,saas,web-based mobileandroid mobileiphone mobileipad",
+          "users_tokenized_text" : "1 2-10 11-50 51-200 201-500 501-1000 1000+",
+          "pricing_tokenized_text" : "monthlysubscription freetrial",
+          "badges" : [ ],
+          "bid_spot_us" : 0.0,
+          "currency_code" : "USD",
+          "currency_symbol" : "$",
+          "credit_card_required" : "Unverified",
+          "licensing_model" : null,
+          "open_api_offered" : "Yes",
+          "mobile_urls" : [
+            {
+              "name" : "Android",
+              "url" : "https://play.google.com/store/apps/details?id=com.simpletexting.mobile"
+            },
+            {
+              "name" : "iOS",
+              "url" : "https://itunes.apple.com/us/app/simpletexting/id1214066522?ls=1&mt=8"
+            }
+          ],
+          "integrations" : [
+            {
+              "id" : "d21b7cd3-66d4-4aee-90ea-a78a00b5b44d",
+              "name" : "Google Calendar"
+            },
+            {
+              "id" : "d96b7b2d-d086-417b-a6a3-a6d200b5007d",
+              "name" : "Mailchimp"
+            },
+            {
+              "id" : "7d5d66f3-669a-454e-b210-9013743333c5",
+              "name" : "Twitter"
+            },
+            {
+              "id" : "b7720443-e1ad-4c10-a2e1-d9a8dd6a30bc",
+              "name" : "Meta for Business"
+            },
+            {
+              "id" : "3ecee0e7-8233-490b-858c-a6d200b7a22f",
+              "name" : "Zapier"
+            }
+          ],
+          "supported_countries" : [
+            {
+              "id" : 41,
+              "code" : "CA",
+              "name" : "Canada"
+            },
+            {
+              "id" : 237,
+              "code" : "US",
+              "name" : "United States of America"
+            }
+          ],
+          "supported_languages" : [
+            {
+              "id" : 152,
+              "code" : "en",
+              "name" : "English",
+              "location" : null
+            }
+          ],
+          "target_industries" : [
+            {
+              "id" : 52,
+              "code" : "75",
+              "name" : "Government Administration"
+            },
+            {
+              "id" : 84,
+              "code" : "80",
+              "name" : "Marketing and Advertising"
+            },
+            {
+              "id" : 35,
+              "code" : "132",
+              "name" : "E-Learning"
+            },
+            {
+              "id" : 97,
+              "code" : "100",
+              "name" : "Non-Profit Organization Management"
+            },
+            {
+              "id" : 57,
+              "code" : "14",
+              "name" : "Hospital & Health Care"
+            },
+            {
+              "id" : 9,
+              "code" : "53",
+              "name" : "Automotive"
+            },
+            {
+              "id" : 55,
+              "code" : "124",
+              "name" : "Health, Wellness and Fitness"
+            },
+            {
+              "id" : 112,
+              "code" : "105",
+              "name" : "Professional Training & Coaching"
+            },
+            {
+              "id" : 144,
+              "code" : "133",
+              "name" : "Wholesale"
+            },
+            {
+              "id" : 18,
+              "code" : "90",
+              "name" : "Civic & Social Organization"
+            },
+            {
+              "id" : 65,
+              "code" : "42",
+              "name" : "Insurance"
+            },
+            {
+              "id" : 125,
+              "code" : "32",
+              "name" : "Restaurants"
+            },
+            {
+              "id" : 122,
+              "code" : "89",
+              "name" : "Religious Institutions"
+            },
+            {
+              "id" : 2,
+              "code" : "94",
+              "name" : "Airlines/Aviation"
+            },
+            {
+              "id" : 114,
+              "code" : "79",
+              "name" : "Public Policy"
+            },
+            {
+              "id" : 28,
+              "code" : "25",
+              "name" : "Consumer Goods"
+            },
+            {
+              "id" : 111,
+              "code" : "83",
+              "name" : "Printing"
+            },
+            {
+              "id" : 68,
+              "code" : "6",
+              "name" : "Internet"
+            },
+            {
+              "id" : 100,
+              "code" : "123",
+              "name" : "Outsourcing/Offshoring"
+            },
+            {
+              "id" : 120,
+              "code" : "44",
+              "name" : "Real Estate"
+            },
+            {
+              "id" : 34,
+              "code" : "69",
+              "name" : "Education Management"
+            },
+            {
+              "id" : 46,
+              "code" : "34",
+              "name" : "Food & Beverages"
+            },
+            {
+              "id" : 126,
+              "code" : "27",
+              "name" : "Retail"
+            },
+            {
+              "id" : 86,
+              "code" : "126",
+              "name" : "Media Production"
+            }
+          ],
+          "price_range_id" : 1,
+          "aggregated_review_ratings" : {
+            "industry" : {
+              "33" : 5.0,
+              "107" : 5.0,
+              "118" : 5.0,
+              "90" : 4.0,
+              "44" : 4.75,
+              "76" : 4.0,
+              "47" : 5.0,
+              "94" : 5.0,
+              "80" : 4.71,
+              "96" : 5.0,
+              "122" : 4.5,
+              "103" : 4.4,
+              "42" : 4.8,
+              "100" : 4.75,
+              "4" : 5.0,
+              "55" : 5.0,
+              "32" : 4.5,
+              "123" : 4.0,
+              "132" : 4.5,
+              "23" : 5.0,
+              "10" : 3.0,
+              "69" : 4.71,
+              "105" : 5.0,
+              "101" : 5.0,
+              "25" : 4.5,
+              "59" : 5.0,
+              "124" : 4.57,
+              "48" : 4.5,
+              "28" : 5.0,
+              "36" : 5.0,
+              "82" : 5.0,
+              "6" : 4.5,
+              "14" : 4.75,
+              "110" : 5.0,
+              "91" : 4.75,
+              "131" : 5.0,
+              "53" : 3.0,
+              "43" : 4.67,
+              "133" : 5.0,
+              "52" : 5.0,
+              "20" : 5.0,
+              "31" : 5.0,
+              "68" : 5.0,
+              "89" : 4.75,
+              "113" : 5.0,
+              "79" : 5.0,
+              "67" : 5.0,
+              "27" : 4.75,
+              "139" : 4.33,
+              "8" : 5.0,
+              "126" : 3.75,
+              "34" : 4.67,
+              "83" : 4.5,
+              "30" : 5.0,
+              "13" : 5.0,
+              "136" : 5.0
+            },
+            "company_size" : {
+              "5001-10,000 employees" : 4.5,
+              "Self-employed" : 4.67,
+              "51-200 employees" : 4.88,
+              "11-50 employees" : 4.76,
+              "201-500 employees" : 4.71,
+              "1001-5000 employees" : 4.88,
+              "501-1000 employees" : 4.2,
+              "1-10 employees" : 4.59,
+              "10,001+ employees" : 5.0
+            }
+          },
+          "vct_enabled" : false,
+          "pricing_plans" : [
+            {
+              "created_on_utc" : "2019-08-21T14:47:39Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "SimpleTextin",
+              "description" : "Pricing starts at $29 per month for 500 credits and scales with the number of credits. Annual pricing plans are also available.",
+              "display_order" : 1,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 29.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Usage Based",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "Import Contacts"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "Keywords"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Landline Texting"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "Rollover Credits"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 5,
+                  "name" : "Two-Way Messaging"
+                }
+              ]
+            }
+          ],
+          "discount_types" : [
+            {
+              "name" : "By Plan Frequency",
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null
+            }
+          ]
+        }
+      },
+      {
+        "_index" : "product_listings_main_data_upc_vt20220920_043802_utc",
+        "_type" : "_doc",
+        "_id" : "145859_smsmktg",
+        "_score" : 10.865253,
+        "_source" : {
+          "product_id" : 145859,
+          "seo_product_id" : 227086,
+          "seo_slug" : "SimpleTexting",
+          "product_name" : "SimpleTexting",
+          "upc_product_uuid" : "450eefbf-1da3-4cfc-b3b3-a6d200b68847",
+          "old_product_ids" : [
+            227086
+          ],
+          "product_url" : "https://try.simpletexting.com/capterra/?utm_source=capterra&utm_medium=cpc",
+          "product_slug" : "SimpleTexting",
+          "former_name" : "SimpleTexting",
+          "logo_filepath" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/48522df6-dbfe-48b2-90a9-5906c3cda7eb.png",
+          "vendor" : {
+            "vendor_id" : 2103094,
+            "vendor_name" : "SimpleTexting",
+            "vendor_url" : "http://simpletexting.com",
+            "year_founded" : 2011,
+            "location" : "United States",
+            "vendor_opted_out_of_reviews" : true,
+            "is_opted_out_of_reviews" : false,
+            "is_hit_limit" : false,
+            "enabled" : true,
+            "has_vendor_level_page" : false,
+            "slug" : null,
+            "vendor_page" : false,
+            "paused_campaign" : false
+          },
+          "category_short_name" : "smsmktg",
+          "category_html_name" : "sms-marketing-software",
+          "category" : {
+            "id" : 30842,
+            "short_name" : "smsmktg",
+            "long_name" : "SMS Marketing",
+            "html_name" : "sms-marketing-software",
+            "enabled" : true
+          },
+          "best_category" : "smsmktg",
+          "is_best_category" : true,
+          "highest_cpc_category" : null,
+          "is_highest_cpc_category" : false,
+          "short_desc" : "Powerful, easy-to-use SMS marketing platform. Send texts from a 6-digit short code or text-enable your current number.",
+          "long_desc" : "SimpleTexting makes it easy to send emergency text alerts to large groups, instantly. If you already have a list of contacts, you can upload them directly to our platform. We also provide a suite of features such as web forms and unlimited text-for-info keywords that make it easy to rapidly collect phone numbers from your employees, students, citizens, etc. Fortune 500 companies, Ivy League universities, and municipalities around the country rely on SimpleTexting to send out critical alerts.",
+          "rating" : 4.7,
+          "number_of_reviews" : 221,
+          "total_reviews" : 230,
+          "ease_of_use_rating" : 4.7,
+          "customer_support_rating" : 4.8,
+          "functionality_rating" : 4.5,
+          "value_for_money_rating" : 4.6,
+          "recommendation_rating" : 8.9,
+          "pricing_enabled" : true,
+          "pricing" : 29.0,
+          "is_per_user" : false,
+          "fee_schedule" : "Per-Month",
+          "pricing_model" : "Usage Based",
+          "pricing_details" : "Pricing example for SMS and text marketing services within the United States. \n\nWe also offer ANNUAL PLANS which include a 25% discount and access to all messages up front.  \n\n500 Messages: $25 /month + 4.5 c / additional msg\n\n1,000 Messages: $45 /month + 4.5 c / additional msg\n\n2,000 Messages: $75 /month + 3.5 c / additional msg\n\n3,000 Messages: $95 /month + 3.0 c / additional msg\n\n7,500 Messages: $145 /month + 2.0 c / additional msg\n\n25,000 Messages: $375 /month + 1.5 c / additional msg\n\n50,000 Messages: $625 /month + 1.25 c / additional msg\n\n50,000+ Messages: Contact SimpleTexting",
+          "pricing_created_on" : "2019-08-21T14:47:39Z",
+          "pricing_modified_on" : "2022-06-23T14:42:33Z",
+          "pricing_created_by" : null,
+          "pricing_modified_by" : null,
+          "pricing_vendor_pricing_url" : "https://simpletexting.com/pricing/",
+          "free_trial" : true,
+          "free_version" : false,
+          "target_audience" : "Text message marketing allows any business or organization to reach people wherever they are, with a simple text. Send and receive texts from a 6-digit short code or text-enable your current number.\n",
+          "target_users" : [
+            "1",
+            "2-10",
+            "11-50",
+            "51-200",
+            "201-500",
+            "501-1000",
+            "1000+"
+          ],
+          "platform" : [
+            {
+              "enabled" : true,
+              "name" : "Cloud, SaaS, Web-Based"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Mac"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Chromebook"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile Android"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPhone"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPad"
+            }
+          ],
+          "support" : [
+            {
+              "enabled" : true,
+              "name" : "Email Help Desk"
+            },
+            {
+              "enabled" : true,
+              "name" : "FAQ Forum"
+            },
+            {
+              "enabled" : true,
+              "name" : "Knowledgebase"
+            },
+            {
+              "enabled" : true,
+              "name" : "Phone Support"
+            },
+            {
+              "enabled" : false,
+              "name" : "24/7 Live Rep"
+            },
+            {
+              "enabled" : true,
+              "name" : "Chat"
+            }
+          ],
+          "training" : [
+            {
+              "enabled" : false,
+              "name" : "Not Offered"
+            },
+            {
+              "enabled" : false,
+              "name" : "In-Person"
+            },
+            {
+              "enabled" : true,
+              "name" : "Live Online"
+            },
+            {
+              "enabled" : true,
+              "name" : "Webinars"
+            },
+            {
+              "enabled" : true,
+              "name" : "Documentation"
+            },
+            {
+              "enabled" : true,
+              "name" : "Videos"
+            }
+          ],
+          "media" : [
+            {
+              "product_id" : 145859,
+              "vendor_id" : 2103094,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/4a91b258-9c2d-43fe-9fd8-726d592ce94a.png",
+              "caption" : "Send messages to groups",
+              "weight" : 1,
+              "short_name" : "smsmktg"
+            },
+            {
+              "product_id" : 145859,
+              "vendor_id" : 2103094,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/8a5b4da3-ffb1-4843-8c2d-a003e355fcc3.png",
+              "caption" : "Have 1-on-1 conversations",
+              "weight" : 2,
+              "short_name" : "smsmktg"
+            },
+            {
+              "product_id" : 145859,
+              "vendor_id" : 2103094,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/8fa75748-dbf5-40a0-adee-466c25b1be50.png",
+              "caption" : "Text-to-join keywords",
+              "weight" : 3,
+              "short_name" : "smsmktg"
+            },
+            {
+              "product_id" : 145859,
+              "vendor_id" : 2103094,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/085519c5-d228-4677-87a1-eb3bfa720ffe.png",
+              "caption" : "Select a local number",
+              "weight" : 4,
+              "short_name" : "smsmktg"
+            },
+            {
+              "product_id" : 145859,
+              "vendor_id" : 2103094,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/568837d2-10c1-4ac9-a053-9391849631fc.png",
+              "caption" : "Useful, built-in apps",
+              "weight" : 5,
+              "short_name" : "smsmktg"
+            },
+            {
+              "product_id" : 145859,
+              "vendor_id" : 2103094,
+              "media_type" : "VIDEO",
+              "path_url" : "https://www.youtube.com/watch?v=vFVQtMD937g",
+              "caption" : null,
+              "weight" : 0,
+              "short_name" : "smsmktg"
+            }
+          ],
+          "links" : [
+            {
+              "product_id" : 145859,
+              "functional_group" : "smsmktg",
+              "html_code" : "https://try.simpletexting.com/capterra/?utm_source=capterra&utm_medium=cpc",
+              "link_name" : "Free Trial",
+              "link_priority" : 1.0
+            },
+            {
+              "product_id" : 145859,
+              "functional_group" : "smsmktg",
+              "html_code" : "https://simpletexting.com/schedule-demo/?utm_source=capterra&utm_medium=cpc",
+              "link_name" : "Free Demo",
+              "link_priority" : 2.0
+            },
+            {
+              "product_id" : 145859,
+              "functional_group" : "smsmktg",
+              "html_code" : "https://simpletexting.com/pricing/?utm_source=capterra&utm_medium=cpc",
+              "link_name" : "Pricing",
+              "link_priority" : 3.0
+            },
+            {
+              "product_id" : 145859,
+              "functional_group" : "smsmktg",
+              "html_code" : "https://simpletexting.com/features/?utm_source=capterra&utm_medium=cpc",
+              "link_name" : "Features",
+              "link_priority" : 4.0
+            },
+            {
+              "product_id" : 145859,
+              "functional_group" : "smsmktg",
+              "html_code" : "https://www.youtube.com/watch?v=vFVQtMD937g&list=PLC77jwHbT5DFSwIwqQlVsBR5pYBYTgN81",
+              "link_name" : "SimpleTexting Academy",
+              "link_priority" : 5.0
+            }
+          ],
+          "features" : [
+            {
+              "category_name" : "SMS Marketing",
+              "category_features" : [
+                {
+                  "name" : "2-Way Messaging",
+                  "value" : true,
+                  "id" : "dfbb0183-1388-4022-b96d-c61f34f72fc1",
+                  "avg_rating" : 4.3,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 0.667,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.333,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Send and receive text messages in real time "
+                },
+                {
+                  "name" : "Contact Management",
+                  "value" : true,
+                  "id" : "0019f365-3e1b-4e2f-8f1e-cb77ba025078",
+                  "avg_rating" : 3.0,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 2,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 2,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Store and find contact information such as names, addresses, and social media accounts"
+                },
+                {
+                  "name" : "MMS",
+                  "value" : true,
+                  "id" : "464bc80a-69c8-4a6b-8637-c10b38ef5eef",
+                  "avg_rating" : 3.7,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 2.5,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 4,
+                  "pct_time_used" : 0.5,
+                  "cnt_time_critical" : 4,
+                  "pct_time_critical" : 0.25,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Send and receive multimedia messages (i.e. photos, videos, and audio recordings)"
+                },
+                {
+                  "name" : "Mass Texting",
+                  "value" : true,
+                  "id" : "6b0cf507-6d5a-49e6-94b5-9c0bc95ab9ac",
+                  "avg_rating" : 3.4,
+                  "cnt_rating" : 7,
+                  "avg_importance" : 2.25,
+                  "cnt_importance" : 4,
+                  "cnt_time_used" : 4,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 4,
+                  "pct_time_critical" : 0.25,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Send messages to multiple subscribers at the same time. "
+                },
+                {
+                  "name" : "Message Personalization",
+                  "value" : true,
+                  "id" : "78c28182-e80e-4b57-b07b-ded5c8391e92",
+                  "avg_rating" : 3.5,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 2.67,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.667,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Automatically personalize text messages using templates and custom fields"
+                },
+                {
+                  "name" : "Mobile Coupons",
+                  "value" : true,
+                  "id" : "7c2419ec-9ba7-4cb9-a631-6fbd54548ffd",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 0.667,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Electronic coupons delivered to a mobile device that can be exchanged for a discount or rebate when purchasing a product or service"
+                },
+                {
+                  "name" : "Mobile Keywords",
+                  "value" : true,
+                  "id" : "98812d3f-4997-4d4b-ad91-2473d8e1d09b",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 2,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 0.667,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Unique word that contains letters or numbers that identifies specific campaigns"
+                },
+                {
+                  "name" : "Polls/Voting",
+                  "value" : true,
+                  "id" : "e77de5ee-3e8d-409f-91d4-7a8e4519462b",
+                  "avg_rating" : 2.5,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Create quick polls to keep people engaged"
+                },
+                {
+                  "name" : "Reporting/Analytics",
+                  "value" : true,
+                  "id" : "b0c186d0-0194-4300-abba-ca3bc2474bbe",
+                  "avg_rating" : 3.4,
+                  "cnt_rating" : 5,
+                  "avg_importance" : 2.67,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.667,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "View and track pertinent metrics"
+                },
+                {
+                  "name" : "Scheduled Messaging",
+                  "value" : true,
+                  "id" : "55aba9c4-9b4a-4b6e-96b8-df3bffd0e4e7",
+                  "avg_rating" : 4.3,
+                  "cnt_rating" : 3,
+                  "avg_importance" : 2.67,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 4,
+                  "pct_time_used" : 0.75,
+                  "cnt_time_critical" : 4,
+                  "pct_time_critical" : 0.5,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Send individual or bulk text messages at predetermined times"
+                },
+                {
+                  "name" : "Shortcodes",
+                  "value" : true,
+                  "id" : "de64a530-32d3-4bf5-b92b-add2e740df7c",
+                  "avg_rating" : 3.5,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 2.33,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.333,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Short phone numbers that are typically 5 to 6 digits long which are used to opt-in to SMS campaigns/promotions"
+                },
+                {
+                  "name" : "Text-to-Win",
+                  "value" : true,
+                  "id" : "41e1fa34-bcee-495c-a5b4-ade1520185bf",
+                  "avg_rating" : 3.5,
+                  "cnt_rating" : 4,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 3,
+                  "cnt_time_used" : 3,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 3,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Contests and sweepstakes administered via text messages"
+                }
+              ]
+            }
+          ],
+          "infographics" : [
+            {
+              "product_id" : 145859,
+              "html_name" : "sms-marketing-software",
+              "infographic_type" : "general_t20",
+              "infographic_title" : null
+            }
+          ],
+          "related_products" : [
+            {
+              "product_id" : 148516,
+              "seo_product_id" : 212390,
+              "seo_slug" : "Marketing-360",
+              "vendor_name" : "Madwire",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e0d4096b-6fa3-4d66-98e5-8f3ac4c06590.png",
+              "rating" : 4.6,
+              "total_reviews" : 973,
+              "slug" : "Marketing-360",
+              "product_name" : "Marketing 360",
+              "short_desc" : "SMS Marketing 360? helps drive more sales.",
+              "features" : "SMS Marketing 360 makes creating text message campaigns easy. You can even create automated journeys where specific text messages are sent to specific people at specific times. ",
+              "url" : "https://www.marketing360.com/nurture/?ref=SMSMarketingCategoryCapterraAds"
+            },
+            {
+              "product_id" : 12451,
+              "seo_product_id" : 12451,
+              "seo_slug" : "iCIMS-Recruit",
+              "vendor_name" : "iCIMS",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/fc5c68a6-3e87-4386-8a11-37ee8a505e2f.png",
+              "rating" : 4.3,
+              "total_reviews" : 792,
+              "slug" : "iCIMS-Recruit",
+              "product_name" : "iCIMS Talent Cloud",
+              "short_desc" : "iCIMS Talent Cloud is a cloud platform for recruiting that enables employers to manage their end-to-end talent hiring lifecycle. ",
+              "features" : "Built for enterprise organizations, iCIMS is the Talent Cloud company that empowers organizations to attract, engage, hire and advance the right talent that builds a diverse, winning workforce. The iCIMS Talent Cloud is complemented by an ecosystem of more than 700 global partners. Yesterday's tools were not designed for the future of work. iCIMS provides innovations that meet employer's new and emerging strategic business and talent needs. ",
+              "url" : "https://www4.icims.com/identify-and-hire-the-most-qualified-candidates-ff-ats-software?Ad_Lead_Source=Pay-Per-Click&asset=RecruitDemo&asset_type=Demo&product_interest=Recruit&ad_type=Text&targeting_method=ApplicantTrackingSystemLP_MainLink&vendor=Capterra&adcampaign=701f4000000gpeBAAQ"
+            },
+            {
+              "product_id" : 113540,
+              "seo_product_id" : 226875,
+              "seo_slug" : "Bitrix24",
+              "vendor_name" : "Bitrix",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/0d820dd6-6e0b-43de-becb-e9078a2d9fac.png",
+              "rating" : 4.1,
+              "total_reviews" : 527,
+              "slug" : "Bitrix24",
+              "product_name" : "Bitrix24",
+              "short_desc" : "Bitrix24 is #1 free SMS marketing software and CRM used by 8 million companies worldwide. Cloud and on-premise, with open source code.",
+              "features" : "Bitrix24 #1 free SMS marketing software and CRM, used by 8 million companies worldwide. Cloud and on-premise, with open source code access. You can send individual SMS messages even on the free plan, bulk SMS and SMS marketing automation are available to commercial Bitrix24 users, starting at $39/mo. Since we don't add any surcharges on SMS pricing offered by leading SMS providers, we are much cheaper than other SMS marketing services. Currently, you can send text messages in over 100 countries.",
+              "url" : "https://www.bitrix24.com/uses/free-sms-marketing-software.php?utm_source=capterra&utm_medium=cpc&utm_campaign=com_cc_capterra-sms"
+            },
+            {
+              "product_id" : 152997,
+              "seo_product_id" : 152997,
+              "seo_slug" : "BirdEye",
+              "vendor_name" : "Birdeye",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4ff56898-b5cc-4a16-903f-d4a9f7485db5.png",
+              "rating" : 4.7,
+              "total_reviews" : 482,
+              "slug" : "BirdEye",
+              "product_name" : "Birdeye",
+              "short_desc" : "The single messaging platform for your business to convert and engage leads and customers over text.",
+              "features" : "Birdeye Messaging is a comprehensive digital communication tool that makes it easy to connect with customers across any digital channel, be it text, social, Webchat, email, or voicemail from one unified inbox. \n\nBirdeye Mass Texting is an affordable and easy way to reach customers through their prefered channel - text messaging. Connect one-on-one or reach thousands of customers in one go. ",
+              "url" : "https://birdeye.com/cmp/review-text-messaging-software/?utm_source=capterra&utm_medium=cpc&utm_campaign=sms_marketing&utm_term=sms_marketing_awards&utm_content=awards&utm_sfcamp=7011Q000001IhtE"
+            },
+            {
+              "product_id" : 135148,
+              "seo_product_id" : 221957,
+              "seo_slug" : "Agile-CRM",
+              "vendor_name" : "Agile CRM",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4dd8e898-253a-4e64-8f55-73d688838bdb.png",
+              "rating" : 4.1,
+              "total_reviews" : 433,
+              "slug" : "Agile-CRM",
+              "product_name" : "Agile CRM",
+              "short_desc" : "Agile CRM is a complete sales, marketing and service suite designed to let SMBs to sell and market like the Fortune 500.",
+              "features" : "Agile CRM's sms marketing software helps to leverage text messaging to maximize the communication channels you use to connect with your audience. Integrating SMS text messaging into your marketing campaigns or sales and support function can help you engage your audience at just the right time.",
+              "url" : "https://www.agilecrm.com/text-messaging"
+            },
+            {
+              "product_id" : 156926,
+              "seo_product_id" : 156926,
+              "seo_slug" : "Thryv",
+              "vendor_name" : "Thryv",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/7768ed5c-b3a1-4b83-a4be-8530b2c0a8dc.png",
+              "rating" : 4.2,
+              "total_reviews" : 407,
+              "slug" : "Thryv",
+              "product_name" : "Thryv",
+              "short_desc" : "SMS marketing software built for small business",
+              "features" : "Meet Thryv, the text (SMS) marketing software built for small business. Thryv integrates your contact list with text (SMS) marketing templates and automation so you can target the right person at the right time with the right message. Include coupons, promotions and interactive buttons that urge recipients to take action.",
+              "url" : "https://www.thryv.com/marketing-automation-lpk-2/?utm_source=capterra&utm_medium=cpc&utm_campaign=reputation"
+            },
+            {
+              "product_id" : 235784,
+              "seo_product_id" : 235784,
+              "seo_slug" : "Clearstream",
+              "vendor_name" : "Clearstream",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/683a0e30-23ad-4077-8923-5902fdbfa403.png",
+              "rating" : 4.8,
+              "total_reviews" : 353,
+              "slug" : "Clearstream",
+              "product_name" : "Clearstream",
+              "short_desc" : "The powerful texting platform your church and people will love. Send mass texts to your church & engage in two-way text conversations.",
+              "features" : "The powerful texting platform your church and people will love.\n\nWith Clearstream, you can easily mass text your church and engage in two-way text conversations. But you can also streamline your guest follow-up process with text-to-join Keywords and workflows, manage multiple ministries or campuses with Subaccounts, and much more.\n\nThousands of churches, from new plants to many of the largest in the U.S., rely on Clearstream to better communicate with their members, and guests through texting.",
+              "url" : "http://clearstream.io"
+            },
+            {
+              "product_id" : 150912,
+              "seo_product_id" : 226863,
+              "seo_slug" : "Textedly",
+              "vendor_name" : "Textedly",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e8b3622a-3ca6-428a-a855-b5cdf736be03.png",
+              "rating" : 4.6,
+              "total_reviews" : 337,
+              "slug" : "Textedly",
+              "product_name" : "Textedly",
+              "short_desc" : "Mass SMS Text Messaging services. Great for sending bulk text messages, appointment reminders, coupons, sales, and more.",
+              "features" : "SMS Marketing Services made easy. Instantly send 10 or 100,000 SMS Text messages to any mobile phone number. Easily build an opt-in subscriber list. Schedule text messages to go out any time you want. Track text message delivery. Our plans start with a FREE 14-day trial period. Or try our Annual Plans and pay up-front for one year, and get 20% more messages instantly.",
+              "url" : "https://www.textedly.com"
+            },
+            {
+              "product_id" : 180158,
+              "seo_product_id" : 223767,
+              "seo_slug" : "Twilio-Voice",
+              "vendor_name" : "Twilio",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/5f8535c3-3270-467d-a3bf-db8b9a2d0fc3.png",
+              "rating" : 4.6,
+              "total_reviews" : 306,
+              "slug" : "Twilio-Communications-Platform",
+              "product_name" : "Twilio",
+              "short_desc" : "Engage your customers like never before with SMS, Facebook Messenger, RCS Business Messaging, Line, and more.",
+              "features" : "Engage your customers like never before with SMS, Facebook Messenger, RCS Business Messaging, Line, and more. 55,000+ businesses and more than 2 million developers rely on Twilio to deliver their message when and where it counts.",
+              "url" : "https://interactive.twilio.com/sms-marketing-sales-1?utm_source=capterra&utm_medium=cpc&utm_content=basic&utm_term=sms-mark"
+            },
+            {
+              "product_id" : 172802,
+              "seo_product_id" : 224257,
+              "seo_slug" : "Swell",
+              "vendor_name" : "Swell CX",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4294a40c-1b50-4d1f-be8d-296cae95fb68.png",
+              "rating" : 4.6,
+              "total_reviews" : 296,
+              "slug" : "Swell",
+              "product_name" : "Swell",
+              "short_desc" : "Swell helps you modernize your customer engagement through automated and one-to-one texting.",
+              "features" : "Swell helps you connect with customers and prospects through texting to provide seamless experiences and earn new business. It offers message management for everything from automated reminders to mass text campaigns to one-on-one conversations. With Swell, you can set up automatic review invitations to ask happy customers to leave reviews on the platforms that matter so you can rank higher online and get found by prospects.",
+              "url" : "http://www.swellcx.com/capterra-landing/sms-marketing?utm_campaign=22-br-sq&utm_medium=analystinfluencers&utm_source=capterra&utm_content=demorequest&utm_term=smsmarketing"
+            },
+            {
+              "product_id" : 156699,
+              "seo_product_id" : 225621,
+              "seo_slug" : "Klaviyo",
+              "vendor_name" : "Klaviyo",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/70e73485-b7f8-4007-a323-f5c47bba15b3.png",
+              "rating" : 4.7,
+              "total_reviews" : 277,
+              "slug" : "Klaviyo",
+              "product_name" : "Klaviyo",
+              "short_desc" : "Klaviyo is a unified customer platform for email, SMS, and more that gives you direct ownership of your customer data and interactions.",
+              "features" : "Klaviyo is a unified customer platform that gives your online brand direct ownership of your consumer data and interactions, empowering you to turn transactions with customers into productive long-term relationships-at scale. Because the Klaviyo database integrates seamlessly with your tech stack, you can get the full story on every customer that visits, and then-from the same platform-use those insights to automate personalized email and SMS communications that make people feel seen. ",
+              "url" : "https://ad.doubleclick.net/ddm/trackclk/N1714018.813334CAPTERRA.COM/B27586075.333973660;dc_trk_aid=525667793;dc_trk_cid=169620995;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd="
+            }
+          ],
+          "similar_products" : [
+            {
+              "product_id" : 212777,
+              "seo_product_id" : 212777,
+              "seo_slug" : "Mobiz",
+              "vendor_name" : "Mobiz",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e863693b-422d-4ded-8b5c-85967b2f132a.png",
+              "rating" : 4.7,
+              "total_reviews" : 7,
+              "slug" : "Mobiz",
+              "product_name" : "Mobiz",
+              "short_desc" : "Engage with your customers using bespoke text message marketing campaigns.",
+              "features" : "Mobiz is a hyper-personalized mobile marketing platform that elevates and innovates customer engagement with data-driven personalization. Using a dynamic landing page template library, users can create and send customized mobile marketing campaigns at scale and via SMS in a few easy steps - all totally code-free.\n\nThe platform also offers a growth tool, helping users expand their subscriber list easily and compliantly. \n\nTo learn more, visit https://bit.ly/3dRhnCZ",
+              "url" : "http://www.mobiz.co"
+            },
+            {
+              "product_id" : 152997,
+              "seo_product_id" : 152997,
+              "seo_slug" : "BirdEye",
+              "vendor_name" : "Birdeye",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4ff56898-b5cc-4a16-903f-d4a9f7485db5.png",
+              "rating" : 4.7,
+              "total_reviews" : 482,
+              "slug" : "BirdEye",
+              "product_name" : "Birdeye",
+              "short_desc" : "The single messaging platform for your business to convert and engage leads and customers over text.",
+              "features" : "Birdeye Messaging is a comprehensive digital communication tool that makes it easy to connect with customers across any digital channel, be it text, social, Webchat, email, or voicemail from one unified inbox. \n\nBirdeye Mass Texting is an affordable and easy way to reach customers through their prefered channel - text messaging. Connect one-on-one or reach thousands of customers in one go. ",
+              "url" : "https://birdeye.com/awards/?utm_source=capterra&utm_medium=cpc&utm_campaign=default&utm_term=awards_rf&utm_content=default&utm_sfcamp=7011Q000001IhtE"
+            },
+            {
+              "product_id" : 179576,
+              "seo_product_id" : 253802,
+              "seo_slug" : "Attentive",
+              "vendor_name" : "Attentive Mobile",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/ffdb6f68-716e-4dfb-9110-56da2a6a43b0.png",
+              "rating" : 4.9,
+              "total_reviews" : 78,
+              "slug" : "Attentive",
+              "product_name" : "Attentive",
+              "short_desc" : "Attentive's conversational commerce platform helps 5,000+ brands engage customers and drive billions in revenue via SMS marketing.",
+              "features" : "Reach your customers where they are-their phones. Attentive's conversational commerce platform helps 5,000+ brands-from retail enterprises to e-commerce entrepreneurs-engage customers and drive billions in revenue via SMS marketing. We'll help you target the right audience for your messages, and measure your most important metrics to optimize your program. And with our flexible integrations, you can easily connect to the rest of your marketing stack, too. Learn more about our free 30-day trial.",
+              "url" : "https://info.attentive.com/capterra-demo/?utm_medium=ppc&utm_campaign=demo-request"
+            },
+            {
+              "product_id" : 180158,
+              "seo_product_id" : 223767,
+              "seo_slug" : "Twilio-Voice",
+              "vendor_name" : "Twilio",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/5f8535c3-3270-467d-a3bf-db8b9a2d0fc3.png",
+              "rating" : 4.6,
+              "total_reviews" : 306,
+              "slug" : "Twilio-Communications-Platform",
+              "product_name" : "Twilio",
+              "short_desc" : "Engage your customers like never before with SMS, Facebook Messenger, RCS Business Messaging, Line, and more.",
+              "features" : "Engage your customers like never before with SMS, Facebook Messenger, RCS Business Messaging, Line, and more. 55,000+ businesses and more than 2 million developers rely on Twilio to deliver their message when and where it counts.",
+              "url" : "https://twilio.com/go/twilio-brand-sales-1?utm_source=capterra&utm_medium=cpc&utm_content=basic&utm_term=listing"
+            },
+            {
+              "product_id" : 161117,
+              "seo_product_id" : 224727,
+              "seo_slug" : "Avochato",
+              "vendor_name" : "Avochato",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/937f05f3-8717-4b38-9a29-b161863967df.png",
+              "rating" : 4.7,
+              "total_reviews" : 129,
+              "slug" : "Avochato",
+              "product_name" : "Avochato",
+              "short_desc" : "SMS texting and live chat for business has never been easier than with Avochato's solutions for teams, marketers and contact centers. ",
+              "features" : "SMS texting and live chat has never been easier than with Avochato's solutions for teams, marketers and contact centers. With no programming required, you can setup your Avochato phone number in minutes to text your prospects, customers, or staff. Segment, import, and broadcast to your contacts to scale your teams communications. Avochato integrates with platforms such as Salesforce, Slack, MS Teams, and Zapier. Enable prospects to text you from a Google Ad with the AdWords API integration.",
+              "url" : "https://www.avochato.com/freetrial?utm_medium=LP1&utm_campaign=basic-info&utm_content=free_trial"
+            },
+            {
+              "product_id" : 145848,
+              "seo_product_id" : 145848,
+              "seo_slug" : "Ez-Texting",
+              "vendor_name" : "CallFire",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/5c150f64-4f8c-4ce6-bb3f-0508d5e1f51b.png",
+              "rating" : 4.3,
+              "total_reviews" : 127,
+              "slug" : "Ez-Texting",
+              "product_name" : "EZ Texting",
+              "short_desc" : "EZ Texting delivers the smartest, fastest, easiest, and most reliable ways to connect with your customers and clients. \n\n",
+              "features" : "EZ Texting is a SaaS company that delivers the fastest, easiest, and most reliable way to connect. It has served over 165,000 customers and is the #1 SMS platform for business users, setting the standard for business texting. Our messaging solutions allow businesses to quickly and effectively reach and engage their mobile audiences. With employees around the world, EZ Texting is continuously recognized as a Best Place to Work, as well as a top product for small and mid-market businesses.",
+              "url" : "https://www.eztexting.com/lp/capterra?utm_source=capterra&utm_medium=review-site&utm_content=destination"
+            },
+            {
+              "product_id" : 131015,
+              "seo_product_id" : 225032,
+              "seo_slug" : "Trumpia",
+              "vendor_name" : "Trumpia",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4344f0ed-5421-4263-8e59-b6fa75215d8b.png",
+              "rating" : 4.3,
+              "total_reviews" : 64,
+              "slug" : "Trumpia-2-0",
+              "product_name" : "Trumpia",
+              "short_desc" : "You need more than just mass texting. Trumpia offers fully automated campaigns, so you can engage subscribers without doing more work.",
+              "features" : "Mass texting alone won't give you the results you need, especially when sending irrelevant messages. Trumpia offers more than simple texting features, enabling you to accurately target every message you send. Our software will even carry out entire campaigns for you, so you can engage customers automatically without adding more work to your plate. Trumpia is favored by businesses of all sizes including Fortune 500s. Call us today at 855-912-0700.",
+              "url" : "https://info.trumpia.com/ppc/sms-marketing"
+            },
+            {
+              "product_id" : 142264,
+              "seo_product_id" : 212084,
+              "seo_slug" : "vcita",
+              "vendor_name" : "vcita",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/5b82e06f-f133-4e28-9a49-458c0858b9ff.png",
+              "rating" : 4.5,
+              "total_reviews" : 198,
+              "slug" : "Appointment-Scheduling",
+              "product_name" : "vcita",
+              "short_desc" : "Make marketing your business the easy part with a simple SMS Marketing platform like vcita. Start your free trial today!",
+              "features" : "Take your marketing to the next level with simple SMS marketing with vcita. Link each SMS promotion to a beautiful landing page, enabling clients to take revenue-driving actions in a single click. Keep notes and view clients' payment history with ease from a single dashboard, and manage your billing and invoicing liike a pro. Never chase payments again with SMS payment reminders and focus on getting the word out about your services simply and professionally. ",
+              "url" : "https://www.vcita.com/lp/business-management-ft?utm_medium=cpc&utm_source=capterra&utm_campaign=Capterra_Contact_Management&invite=Capterra_Contact_Management"
+            },
+            {
+              "product_id" : 150203,
+              "seo_product_id" : 223341,
+              "seo_slug" : "MessageMedia",
+              "vendor_name" : "MessageMedia",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/03eaa72a-e8bc-4288-99fd-e7eb9572a4ad.png",
+              "rating" : 4.4,
+              "total_reviews" : 14,
+              "slug" : "MessageMedia",
+              "product_name" : "MessageMedia",
+              "short_desc" : "MessageMedia is a global leader in SMS services, providing an engaging messaging platform for over 65,000 businesses.",
+              "features" : "We're a mobile messaging solution that helps businesses of all sizes better connect with customers. We create engaging mobile experiences for our 65,000+ global customers and help boost ROI. Find us in the USA, the UK, Australia and NZ. \n",
+              "url" : "https://messagemedia.com/?utm_source=Capterra&utm_medium=cpc&utm_campaign=always_on&utm_term=destination_url"
+            },
+            {
+              "product_id" : 147342,
+              "seo_product_id" : 147342,
+              "seo_slug" : "TextMagic",
+              "vendor_name" : "TextMagic",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/7155b1d5-958e-49b8-9400-34b335670e88.png",
+              "rating" : 4.7,
+              "total_reviews" : 170,
+              "slug" : "TextMagic",
+              "product_name" : "TextMagic",
+              "short_desc" : "Fully featured business text messaging platform to send bulk SMS text messages to customers, staff, and partners.",
+              "features" : "TextMagic is a fully featured business text messaging platform that enables companies of all sizes to send bulk SMS text messages to their customers, staff, and partners. The service can be used to send sms notifications, alerts, and confirmations to clients, as well as to conduct SMS marketing campaigns. ",
+              "url" : "https://www.textmagic.com/?utm_source=capterra&utm_medium=cpc&utm_campaign=capterra-sms"
+            },
+            {
+              "product_id" : 173457,
+              "seo_product_id" : 242244,
+              "seo_slug" : "Whispir",
+              "vendor_name" : "Whispir",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/c82d634e-1704-448c-9f81-8a0ef9add928.png",
+              "rating" : 4.6,
+              "total_reviews" : 17,
+              "slug" : "Whispir",
+              "product_name" : "Whispir",
+              "short_desc" : "Whispir is a cloud platform for automating intelligent, rich communications.",
+              "features" : "Whispir, Inc. is an all-in-one communications platform designed to help businesses and organizations communicate more humanly with their team and their customers. Whispir's capabilities include a wide range of intelligent messaging solutions, from SMS to email, voice, video, social, and more.\n\n",
+              "url" : "https://www.whispir.com/?utm_source=capterra&utm_medium=reviewsite&utm_content=reviewlisting"
+            },
+            {
+              "product_id" : 152417,
+              "seo_product_id" : 152417,
+              "seo_slug" : "Mobile-Text-Alerts",
+              "vendor_name" : "Mobile Text Alerts",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/0e51b3ca-881f-445b-92fa-288063d20ddd.png",
+              "rating" : 4.6,
+              "total_reviews" : 76,
+              "slug" : "Mobile-Text-Alerts",
+              "product_name" : "Mobile Text Alerts",
+              "short_desc" : "An easy-to-use SMS marketing solution that gets you more sales through the power of texting. Text all your customers in seconds.",
+              "features" : "Mobile Text Alerts is an easy-to-use SMS marketing solution that gets you more sales & growth through the power of texting. Get up and running in seconds and enjoy our user-friendly online platform and mobile app, allowing you to easily set up SMS campaigns to market your products/services - engaging with customers and prospects efficiently and effectively. Free up time and hassle with automated messaging, flexible opt-in choices to build your subscriber list, analytics options, and much more.",
+              "url" : "https://mobile-text-alerts.com/?utm_source=referral&utm_medium=ppc&utm_campaign=capterra&utm_term=default&utm_content=home"
+            },
+            {
+              "product_id" : 145851,
+              "seo_product_id" : 145851,
+              "seo_slug" : "ProTexting",
+              "vendor_name" : "ProTexting",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/6b584e8c-dc13-4ec9-ac71-3422f4843a6e.png",
+              "rating" : 4.7,
+              "total_reviews" : 32,
+              "slug" : "ProTexting",
+              "product_name" : "ProTexting",
+              "short_desc" : "Quick sign up, FREE TRIAL, no credit card required. Send Group SMS, MMS with emoji and short URL tracking. Sign up forms, SMS keywords.",
+              "features" : "ProTexting is an SMS marketing platform designed for businesses in all industries. It provides easy to use way to communicate with your customers through group text messaging with emoji and MMS support. You can create text messaging campaigns for mobile surveys, voting, text in questions, text 2 screen, etc. Super FAST sending of your SMS Campaigns. 24/7 monitoring and support. FREE demo and On-boarding sessions are part of the services. FREE Toll-Free number for every account.",
+              "url" : "https://www.protexting.com/?promocode=CAPTERRA50&utm_source=capterra&utm_campaign=capterra-cpc&utm_medium=capterra-listing"
+            }
+          ],
+          "related_categories" : [
+            {
+              "functional_group" : "smsmktg",
+              "long_name" : "Channel Management",
+              "html_name" : "channel-management-software",
+              "link_name" : "channel-management",
+              "product_count" : 28,
+              "meta_description" : "Find and compare top Channel Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Channel Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs.",
+              "description" : "<a href=\"/channel-management-software\">Channel Management software</a> allows companies to streamline their distribution and sales efforts by organizing clients into specific segments and keeping track of marketing outreach and buying patterns. Specific types of Channel Management software focuses on partner programs. <a href=\"/channel-management-software\">Channel Management software</a> is related to <a href=\"/marketing-automation-software\">Marketing Automation software</a>, <a href=\"/ecommerce-software\">eCommerce software</a> and <a href=\"/lead-management-software\">Lead Management software</a>."
+            },
+            {
+              "functional_group" : "smsmktg",
+              "long_name" : "Email Marketing",
+              "html_name" : "email-marketing-software",
+              "link_name" : "email-marketing",
+              "product_count" : 157,
+              "meta_description" : "Find and compare top Email Marketing software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Email Marketing tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/email-marketing-software>Email Marketing software</a> enables the automation of email communication with prospects and customers.  Organizations use <a href=/email-marketing-software>Email Marketing software</a> to increase the efficiency of their email marketing efforts, manage mailing lists and monitor the effectiveness of their marketing campaigns.  Email Marketing applications can also aid in the regular production of customer-oriented newsletters, the management of email templates for multiple campaigns or market segments, and ongoing customer relationship management efforts.  <a href=/email-marketing-software>Email Marketing software</a> is related to <a href=/campaign-management-software>Campaign Management software</a> and <a href=/marketing-automation-software>Marketing Automation software</a>."
+            },
+            {
+              "functional_group" : "smsmktg",
+              "long_name" : "Marketing Automation",
+              "html_name" : "marketing-automation-software",
+              "link_name" : "marketing-automation",
+              "product_count" : 184,
+              "meta_description" : "Find and compare top Marketing Automation software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Marketing Automation tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/marketing-automation-software\">Marketing Automation software</a> enables organizations to automate their marketing functions including campaign creation, market segmentation and response analysis.  These applications also allow greater integration between sales staff and management as well as expanded abilities to evaluate the effectiveness of marketing campaigns.  Marketing Automation solutions enable the enterprise-wide sharing of information, providing an essential conduit between management, sales and marketing operations.  <a href=\"/marketing-automation-software\">Marketing Automation software</a> is related to <a href=\"/campaign-management-software\">Campaign Management software</a>, <a href=\"/email-marketing-software\">Email Marketing software</a> and <a href=\"/search-marketing-automation-software\">Search Marketing software</a>."
+            },
+            {
+              "functional_group" : "smsmktg",
+              "long_name" : "Mobile Marketing",
+              "html_name" : "mobile-marketing-software",
+              "link_name" : "mobile-marketing",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Mobile Marketing software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Mobile Marketing tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "Mobile Marketing software helps businesses reach and engage their audiences on mobile devices via text messages and mobile optimized promotional offers and notifications."
+            }
+          ],
+          "is_upgraded" : false,
+          "enabled" : true,
+          "filter_options" : {
+            "users" : 127,
+            "platform" : 897,
+            "pricing_options" : 18,
+            "category_related_features" : [
+              29716,
+              29717,
+              29718,
+              39490,
+              39491,
+              39492,
+              39493,
+              39494,
+              39495,
+              39496,
+              39497,
+              39498,
+              39499,
+              56838,
+              56839,
+              56840,
+              56841,
+              56843,
+              56846,
+              56848,
+              56853,
+              56856,
+              56857,
+              56859,
+              56860,
+              56861,
+              56862,
+              56864,
+              56867,
+              56869,
+              56870,
+              56871,
+              56872,
+              56873
+            ],
+            "employees" : 127
+          },
+          "sort_options" : {
+            "sort_review_rating" : 4.659779071807861,
+            "most_recent_review" : "2022-07-26T16:09:01Z"
+          },
+          "countries" : "CA,US",
+          "features_tokenized_text" : "2-way_messaging contact_management mass_texting message_personalization mms mobile_coupons mobile_keywords polls/voting reporting/analytics scheduled_messaging shortcodes text-to-win",
+          "platform_tokenized_text" : "cloud,saas,web-based mobileandroid mobileiphone mobileipad",
+          "users_tokenized_text" : "1 2-10 11-50 51-200 201-500 501-1000 1000+",
+          "pricing_tokenized_text" : "monthlysubscription freetrial",
+          "badges" : [
+            {
+              "id" : 2143,
+              "category_short_name" : "SMS Marketing",
+              "category_html_name" : "sms-marketing-software",
+              "published_year" : 2020,
+              "badge_type" : "Top 20"
+            }
+          ],
+          "bid_spot_us" : 0.0,
+          "currency_code" : "USD",
+          "currency_symbol" : "$",
+          "credit_card_required" : "Unverified",
+          "licensing_model" : null,
+          "open_api_offered" : "Yes",
+          "mobile_urls" : [
+            {
+              "name" : "Android",
+              "url" : "https://play.google.com/store/apps/details?id=com.simpletexting.mobile"
+            },
+            {
+              "name" : "iOS",
+              "url" : "https://itunes.apple.com/us/app/simpletexting/id1214066522?ls=1&mt=8"
+            }
+          ],
+          "integrations" : [
+            {
+              "id" : "d21b7cd3-66d4-4aee-90ea-a78a00b5b44d",
+              "name" : "Google Calendar"
+            },
+            {
+              "id" : "d96b7b2d-d086-417b-a6a3-a6d200b5007d",
+              "name" : "Mailchimp"
+            },
+            {
+              "id" : "7d5d66f3-669a-454e-b210-9013743333c5",
+              "name" : "Twitter"
+            },
+            {
+              "id" : "b7720443-e1ad-4c10-a2e1-d9a8dd6a30bc",
+              "name" : "Meta for Business"
+            },
+            {
+              "id" : "3ecee0e7-8233-490b-858c-a6d200b7a22f",
+              "name" : "Zapier"
+            }
+          ],
+          "supported_countries" : [
+            {
+              "id" : 41,
+              "code" : "CA",
+              "name" : "Canada"
+            },
+            {
+              "id" : 237,
+              "code" : "US",
+              "name" : "United States of America"
+            }
+          ],
+          "supported_languages" : [
+            {
+              "id" : 152,
+              "code" : "en",
+              "name" : "English",
+              "location" : null
+            }
+          ],
+          "target_industries" : [
+            {
+              "id" : 52,
+              "code" : "75",
+              "name" : "Government Administration"
+            },
+            {
+              "id" : 84,
+              "code" : "80",
+              "name" : "Marketing and Advertising"
+            },
+            {
+              "id" : 35,
+              "code" : "132",
+              "name" : "E-Learning"
+            },
+            {
+              "id" : 97,
+              "code" : "100",
+              "name" : "Non-Profit Organization Management"
+            },
+            {
+              "id" : 57,
+              "code" : "14",
+              "name" : "Hospital & Health Care"
+            },
+            {
+              "id" : 9,
+              "code" : "53",
+              "name" : "Automotive"
+            },
+            {
+              "id" : 55,
+              "code" : "124",
+              "name" : "Health, Wellness and Fitness"
+            },
+            {
+              "id" : 112,
+              "code" : "105",
+              "name" : "Professional Training & Coaching"
+            },
+            {
+              "id" : 144,
+              "code" : "133",
+              "name" : "Wholesale"
+            },
+            {
+              "id" : 18,
+              "code" : "90",
+              "name" : "Civic & Social Organization"
+            },
+            {
+              "id" : 65,
+              "code" : "42",
+              "name" : "Insurance"
+            },
+            {
+              "id" : 125,
+              "code" : "32",
+              "name" : "Restaurants"
+            },
+            {
+              "id" : 122,
+              "code" : "89",
+              "name" : "Religious Institutions"
+            },
+            {
+              "id" : 2,
+              "code" : "94",
+              "name" : "Airlines/Aviation"
+            },
+            {
+              "id" : 114,
+              "code" : "79",
+              "name" : "Public Policy"
+            },
+            {
+              "id" : 28,
+              "code" : "25",
+              "name" : "Consumer Goods"
+            },
+            {
+              "id" : 111,
+              "code" : "83",
+              "name" : "Printing"
+            },
+            {
+              "id" : 68,
+              "code" : "6",
+              "name" : "Internet"
+            },
+            {
+              "id" : 100,
+              "code" : "123",
+              "name" : "Outsourcing/Offshoring"
+            },
+            {
+              "id" : 120,
+              "code" : "44",
+              "name" : "Real Estate"
+            },
+            {
+              "id" : 34,
+              "code" : "69",
+              "name" : "Education Management"
+            },
+            {
+              "id" : 46,
+              "code" : "34",
+              "name" : "Food & Beverages"
+            },
+            {
+              "id" : 126,
+              "code" : "27",
+              "name" : "Retail"
+            },
+            {
+              "id" : 86,
+              "code" : "126",
+              "name" : "Media Production"
+            }
+          ],
+          "price_range_id" : 1,
+          "aggregated_review_ratings" : {
+            "industry" : {
+              "123" : 4.0,
+              "101" : 5.0,
+              "20" : 5.0,
+              "94" : 5.0,
+              "6" : 4.5,
+              "131" : 5.0,
+              "76" : 4.0,
+              "47" : 5.0,
+              "31" : 5.0,
+              "8" : 5.0,
+              "89" : 4.75,
+              "83" : 4.5,
+              "25" : 4.5,
+              "118" : 5.0,
+              "113" : 5.0,
+              "53" : 3.0,
+              "10" : 3.0,
+              "126" : 3.75,
+              "90" : 4.0,
+              "69" : 4.71,
+              "122" : 4.5,
+              "4" : 5.0,
+              "36" : 5.0,
+              "23" : 5.0,
+              "44" : 4.75,
+              "91" : 4.75,
+              "43" : 4.67,
+              "27" : 4.75,
+              "68" : 5.0,
+              "30" : 5.0,
+              "52" : 5.0,
+              "110" : 5.0,
+              "33" : 5.0,
+              "107" : 5.0,
+              "59" : 5.0,
+              "103" : 4.4,
+              "42" : 4.8,
+              "136" : 5.0,
+              "124" : 4.57,
+              "132" : 4.5,
+              "67" : 5.0,
+              "82" : 5.0,
+              "14" : 4.75,
+              "96" : 5.0,
+              "13" : 5.0,
+              "55" : 5.0,
+              "105" : 5.0,
+              "48" : 4.5,
+              "79" : 5.0,
+              "133" : 5.0,
+              "100" : 4.75,
+              "32" : 4.5,
+              "80" : 4.71,
+              "28" : 5.0,
+              "139" : 4.33,
+              "34" : 4.67
+            },
+            "company_size" : {
+              "51-200 employees" : 4.88,
+              "10,001+ employees" : 5.0,
+              "5001-10,000 employees" : 4.5,
+              "11-50 employees" : 4.76,
+              "1-10 employees" : 4.59,
+              "Self-employed" : 4.67,
+              "501-1000 employees" : 4.2,
+              "1001-5000 employees" : 4.88,
+              "201-500 employees" : 4.71
+            }
+          },
+          "vct_enabled" : false,
+          "pricing_plans" : [
+            {
+              "created_on_utc" : "2019-08-21T14:47:39Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "SimpleTextin",
+              "description" : "Pricing starts at $29 per month for 500 credits and scales with the number of credits. Annual pricing plans are also available.",
+              "display_order" : 1,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 29.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Usage Based",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "Import Contacts"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "Keywords"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Landline Texting"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "Rollover Credits"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 5,
+                  "name" : "Two-Way Messaging"
+                }
+              ]
+            }
+          ],
+          "discount_types" : [
+            {
+              "name" : "By Plan Frequency",
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

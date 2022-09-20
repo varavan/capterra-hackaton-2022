@@ -1,0 +1,3256 @@
+{
+  "took" : 4,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 3,
+    "successful" : 3,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : {
+      "value" : 2,
+      "relation" : "eq"
+    },
+    "max_score" : 10.535126,
+    "hits" : [
+      {
+        "_index" : "product_listings_main_data_upc_vt20220920_043802_utc",
+        "_type" : "_doc",
+        "_id" : "184684_amm",
+        "_score" : 10.535126,
+        "_source" : {
+          "product_id" : 184684,
+          "seo_product_id" : 250545,
+          "seo_slug" : "Honeycommb-Network",
+          "product_name" : "Honeycommb",
+          "upc_product_uuid" : "a07e37ac-ec97-484e-aaac-aa1c009df1c8",
+          "old_product_ids" : [
+            250545
+          ],
+          "product_url" : "https://www.honeycommb.com",
+          "product_slug" : "Honeycommb-Network",
+          "former_name" : "Honeycommb Network",
+          "logo_filepath" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/cdd4cdd5-df5f-4ce1-9790-21194acf4b51.png",
+          "vendor" : {
+            "vendor_id" : 2129285,
+            "vendor_name" : "Honeycommb",
+            "vendor_url" : "https://www.honeycommb.com",
+            "year_founded" : 2016,
+            "location" : "United States",
+            "vendor_opted_out_of_reviews" : true,
+            "is_opted_out_of_reviews" : false,
+            "is_hit_limit" : false,
+            "enabled" : true,
+            "has_vendor_level_page" : false,
+            "slug" : null,
+            "vendor_page" : false,
+            "paused_campaign" : false
+          },
+          "category_short_name" : "amm",
+          "category_html_name" : "membership-management-software",
+          "category" : {
+            "id" : 20045,
+            "short_name" : "amm",
+            "long_name" : "Membership Management",
+            "html_name" : "membership-management-software",
+            "enabled" : true
+          },
+          "best_category" : "amm",
+          "is_best_category" : true,
+          "highest_cpc_category" : null,
+          "is_highest_cpc_category" : false,
+          "short_desc" : "Hundreds of creators, coaches, artists and more use Honeycommb to charge membership for access to their branded Honeycommb communities.",
+          "long_desc" : "All-in-one: Community + Paid Membership System.\nHoneycommb is the most complete community platform with the most integrated, powerful membership system. \n\nLaunch your community and paid membership program as quickly as you want. You can now have your own Full-Featured & Branded Social Networks on iOS, Android, and web-app that you own and control.",
+          "rating" : 4.6,
+          "number_of_reviews" : 30,
+          "total_reviews" : 29,
+          "ease_of_use_rating" : 4.5,
+          "customer_support_rating" : 4.7,
+          "functionality_rating" : 4.3,
+          "value_for_money_rating" : 4.5,
+          "recommendation_rating" : 8.7,
+          "pricing_enabled" : true,
+          "pricing" : 89.0,
+          "is_per_user" : false,
+          "fee_schedule" : "Per-Month",
+          "pricing_model" : "Flat Rate",
+          "pricing_details" : "For more pricing, visit www.honeycommb.com/pricing",
+          "pricing_created_on" : "2019-08-21T14:47:39Z",
+          "pricing_modified_on" : "2022-06-23T14:42:33Z",
+          "pricing_created_by" : null,
+          "pricing_modified_by" : null,
+          "pricing_vendor_pricing_url" : "https://www.honeycommb.com/pricing",
+          "free_trial" : true,
+          "free_version" : false,
+          "target_audience" : "A community platform for creators & brands looking to take create a space that you own and control. We work with those who value brand & understand the power of creating meaningful connections",
+          "target_users" : [
+            "51-200",
+            "201-500",
+            "501-1000",
+            "1000+"
+          ],
+          "platform" : [
+            {
+              "enabled" : true,
+              "name" : "Cloud, SaaS, Web-Based"
+            },
+            {
+              "enabled" : true,
+              "name" : "Desktop Mac"
+            },
+            {
+              "enabled" : true,
+              "name" : "Desktop Windows"
+            },
+            {
+              "enabled" : true,
+              "name" : "Desktop Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Linux"
+            },
+            {
+              "enabled" : true,
+              "name" : "Desktop Chromebook"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile Android"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPhone"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPad"
+            }
+          ],
+          "support" : [
+            {
+              "enabled" : true,
+              "name" : "Email Help Desk"
+            },
+            {
+              "enabled" : true,
+              "name" : "FAQ Forum"
+            },
+            {
+              "enabled" : true,
+              "name" : "Knowledgebase"
+            },
+            {
+              "enabled" : true,
+              "name" : "Phone Support"
+            },
+            {
+              "enabled" : false,
+              "name" : "24/7 Live Rep"
+            },
+            {
+              "enabled" : true,
+              "name" : "Chat"
+            }
+          ],
+          "training" : [
+            {
+              "enabled" : false,
+              "name" : "Not Offered"
+            },
+            {
+              "enabled" : false,
+              "name" : "In-Person"
+            },
+            {
+              "enabled" : true,
+              "name" : "Live Online"
+            },
+            {
+              "enabled" : true,
+              "name" : "Webinars"
+            },
+            {
+              "enabled" : true,
+              "name" : "Documentation"
+            },
+            {
+              "enabled" : true,
+              "name" : "Videos"
+            }
+          ],
+          "media" : [
+            {
+              "product_id" : 184684,
+              "vendor_id" : 2129285,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/d158a134-0732-4b4c-9b72-8e672c921d3e.png",
+              "caption" : "Full Suite, Native Apps",
+              "weight" : 1,
+              "short_name" : "amm"
+            },
+            {
+              "product_id" : 184684,
+              "vendor_id" : 2129285,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/a6e4e935-a768-45e6-925b-9dd23bcba8b3.png",
+              "caption" : "Built In Membership",
+              "weight" : 2,
+              "short_name" : "amm"
+            },
+            {
+              "product_id" : 184684,
+              "vendor_id" : 2129285,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/b360a28c-1b58-4be8-8679-ef4f6700b572.png",
+              "caption" : "Live Video Streaming",
+              "weight" : 3,
+              "short_name" : "amm"
+            },
+            {
+              "product_id" : 184684,
+              "vendor_id" : 2129285,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/77026e59-667a-40ea-ae83-34c70d484345.png",
+              "caption" : "Create Custom Profiles",
+              "weight" : 4,
+              "short_name" : "amm"
+            },
+            {
+              "product_id" : 184684,
+              "vendor_id" : 2129285,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/d3a973b2-9287-4d63-a034-32ebb53d17aa.png",
+              "caption" : "A True Partnership",
+              "weight" : 5,
+              "short_name" : "amm"
+            },
+            {
+              "product_id" : 184684,
+              "vendor_id" : 2129285,
+              "media_type" : "VIDEO",
+              "path_url" : "https://www.youtube.com/watch?v=UjqV2pEkEaw",
+              "caption" : null,
+              "weight" : 0,
+              "short_name" : "amm"
+            }
+          ],
+          "links" : [
+            {
+              "product_id" : 184684,
+              "functional_group" : "amm",
+              "html_code" : "https://www.honeycommb.com/get-started",
+              "link_name" : "Free Trial",
+              "link_priority" : 1.0
+            },
+            {
+              "product_id" : 184684,
+              "functional_group" : "amm",
+              "html_code" : "https://www.honeycommb.com/demo",
+              "link_name" : "Free Demo",
+              "link_priority" : 2.0
+            },
+            {
+              "product_id" : 184684,
+              "functional_group" : "amm",
+              "html_code" : "https://www.honeycommb.com/pricing",
+              "link_name" : "Pricing",
+              "link_priority" : 3.0
+            }
+          ],
+          "features" : [
+            {
+              "category_name" : "Membership Management",
+              "category_features" : [
+                {
+                  "name" : "Application Management",
+                  "value" : false,
+                  "id" : "71bf112b-e022-449e-93d0-ded0769b0e03",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Track and manage the applications of potential future members "
+                },
+                {
+                  "name" : "Committee Management",
+                  "value" : false,
+                  "id" : "2062b666-4151-459e-b1ad-6709fba623cf",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Manage subgroups of members and their membership"
+                },
+                {
+                  "name" : "Dues Management",
+                  "value" : false,
+                  "id" : "36bfa04f-d225-4c76-a130-40fb15f7392b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track and collect membership dues"
+                },
+                {
+                  "name" : "Email Marketing",
+                  "value" : false,
+                  "id" : "3e3bef6d-cbd8-43e1-83e6-eaf601c17a48",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Create and send email blasts/campaigns"
+                },
+                {
+                  "name" : "Event Management",
+                  "value" : true,
+                  "id" : "cdc3bb9d-3c31-48ba-a01c-5101adc90c87",
+                  "avg_rating" : 4.5,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Schedule and manage the logistics of activities and other gatherings"
+                },
+                {
+                  "name" : "Member Database",
+                  "value" : true,
+                  "id" : "23bf5db1-24fa-4ac1-9554-5b792002f062",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Add, store and access information pertaining to members"
+                },
+                {
+                  "name" : "Member Directory",
+                  "value" : true,
+                  "id" : "c7063ef4-072f-4b69-871a-cb2c75d335a3",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Online or printable list/directory of members (for external use)"
+                },
+                {
+                  "name" : "Member Portal",
+                  "value" : false,
+                  "id" : "ff1b6b10-f56f-4029-9128-fcb402ca73d1",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Online gateway through which members can access/update personal information"
+                },
+                {
+                  "name" : "Member Types",
+                  "value" : false,
+                  "id" : "1b5a9d8c-b455-4851-8efa-941127e9b89f",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Handle various types of membership based on groupings"
+                },
+                {
+                  "name" : "Membership Renewals",
+                  "value" : true,
+                  "id" : "3d543103-7eeb-4c9b-b519-97d59af4e392",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Conveniently automatically renew memberships at the end of subscriptions "
+                },
+                {
+                  "name" : "Payment Processing",
+                  "value" : true,
+                  "id" : "aa036a7c-8608-45a0-9f5f-7649beee9dfb",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Accept, record, and reconcile financial transactions"
+                },
+                {
+                  "name" : "Website Management",
+                  "value" : true,
+                  "id" : "308d2b02-05de-4b5d-a6e9-90abf3120b67",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Website builder or integration with 3rd party site"
+                }
+              ]
+            },
+            {
+              "category_name" : "Community",
+              "category_features" : [
+                {
+                  "name" : "Communication Management",
+                  "value" : true,
+                  "id" : "4a459942-0400-418a-b104-e2e7a2b13db1",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Content Management",
+                  "value" : true,
+                  "id" : "41247b85-41d2-42cb-aa15-4e6c78c904c2",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Creating, updating, monitoring accuracy, and ensuring brand consistency for all written materials that are distributed to stakeholders."
+                },
+                {
+                  "name" : "Customizable Branding",
+                  "value" : true,
+                  "id" : "2ad190f0-241d-4182-9ec3-10f1e12adbb9",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Discussions / Forums",
+                  "value" : true,
+                  "id" : "fcad067b-d85e-4333-9602-2e61025d29b4",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Online forums/groups where users can ask questions, share ideas, best practices, etc."
+                },
+                {
+                  "name" : "Event Management",
+                  "value" : true,
+                  "id" : "cdc3bb9d-3c31-48ba-a01c-5101adc90c87",
+                  "avg_rating" : 4.5,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Schedule and manage the logistics of activities and other gatherings"
+                },
+                {
+                  "name" : "Group Management",
+                  "value" : true,
+                  "id" : "e722d6ed-253c-4227-9af6-4773bbb86236",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Organize and edit a group of people's policy and members"
+                },
+                {
+                  "name" : "Ideation",
+                  "value" : false,
+                  "id" : "94102b10-d8c1-4e9c-b3fd-fd7c605e6979",
+                  "avg_rating" : 4.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 1.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "The creation, development, sharing and storage of potentially innovative new ideas"
+                },
+                {
+                  "name" : "Member Directory",
+                  "value" : true,
+                  "id" : "c7063ef4-072f-4b69-871a-cb2c75d335a3",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Online or printable list/directory of members (for external use)"
+                },
+                {
+                  "name" : "Membership Management",
+                  "value" : true,
+                  "id" : "e0ec230c-01cc-4e78-ac4a-ec6d4cc61b40",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Database of members to track personal information of individuals and families"
+                },
+                {
+                  "name" : "Moderation",
+                  "value" : true,
+                  "id" : "e72562a8-5ed3-48ea-a596-078f26dcf9ca",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Controls/tools to moderate the session"
+                },
+                {
+                  "name" : "Surveys & Feedback",
+                  "value" : false,
+                  "id" : "ac019461-1e0e-49b2-a4f0-bd6e13dedf23",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Third Party Integrations",
+                  "value" : true,
+                  "id" : "2a19a42a-aaa2-464e-90a6-5cbcb1791759",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Unverified",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Website Management",
+                  "value" : true,
+                  "id" : "308d2b02-05de-4b5d-a6e9-90abf3120b67",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Website builder or integration with 3rd party site"
+                }
+              ]
+            },
+            {
+              "category_name" : "Social Networking",
+              "category_features" : [
+                {
+                  "name" : "Activity/News Feed",
+                  "value" : true,
+                  "id" : "d184373e-3490-41f2-8ad3-4becd8dcbbf4",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Continuous profile-based stream of news and activity "
+                },
+                {
+                  "name" : "Advertising Management",
+                  "value" : true,
+                  "id" : "9a406245-65a6-4df3-b454-b9b248d1232c",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Manage advertising space and its sales within your network or publication"
+                },
+                {
+                  "name" : "Blogs",
+                  "value" : true,
+                  "id" : "b92046cc-c692-43a1-9cfa-fb1c96ae8a14",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Allows users to publish blogs on social site"
+                },
+                {
+                  "name" : "Data Security",
+                  "value" : true,
+                  "id" : "3d9837f1-06b6-4355-b512-3297218b0801",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Protect digital privacy and secure data"
+                },
+                {
+                  "name" : "Event Management",
+                  "value" : true,
+                  "id" : "cdc3bb9d-3c31-48ba-a01c-5101adc90c87",
+                  "avg_rating" : 4.5,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Schedule and manage the logistics of activities and other gatherings"
+                },
+                {
+                  "name" : "Group Management",
+                  "value" : true,
+                  "id" : "e722d6ed-253c-4227-9af6-4773bbb86236",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 2.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Organize and edit a group of people's policy and members"
+                },
+                {
+                  "name" : "Media Library",
+                  "value" : true,
+                  "id" : "6fe4208b-2bed-4478-8ec0-2cf60e5416eb",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 2,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Collection of images, videos and other digital content that can be used"
+                },
+                {
+                  "name" : "Real-Time Chat",
+                  "value" : true,
+                  "id" : "ebcc93e9-b049-4da0-a750-02fa0ea70ec4",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Engage in direct, instant messaging"
+                },
+                {
+                  "name" : "Social Media Integration",
+                  "value" : false,
+                  "id" : "2a14fe93-3eb6-48a4-906a-dabca8d98cc2",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Integrate with Facebook, Twitter, LinkedIn, etc."
+                },
+                {
+                  "name" : "Social Promotion",
+                  "value" : true,
+                  "id" : "36bec0f0-f1dc-4a02-8def-e429c7f4b389",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Tagging people and mentions"
+                }
+              ]
+            }
+          ],
+          "infographics" : [
+            {
+              "product_id" : 184684,
+              "html_name" : "social-networking-software",
+              "infographic_type" : "short_list",
+              "infographic_title" : null
+            }
+          ],
+          "related_products" : [
+            {
+              "product_id" : 153752,
+              "seo_product_id" : 226850,
+              "seo_slug" : "Vagaro",
+              "vendor_name" : "Vagaro",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4e2671a7-72b7-4638-9434-190c249607a3.png",
+              "rating" : 4.7,
+              "total_reviews" : 2773,
+              "slug" : "Vagaro",
+              "product_name" : "Vagaro",
+              "short_desc" : "Manage memberships & waivers, get booked 24/7, seamlessly process payments, send marketing emails & run reports. Starts at $25/month.",
+              "features" : "Use our all-in-one membership management software & app to manage and grow your business. Get booked & paid 24/7. Stay safe with 100% contactless check-in & checkout. Advertise your virtual and in-person classes on the Vagaro Marketplace. Reduce no-shows with automated reminders. Manage classes and memberships on any device. Send waivers and forms. Vagaro Pro is the most downloaded/reviewed Apple & Android App. Prices start @ $25/month. Sign up for a Free 1 Month Trial.",
+              "url" : "https://sales.vagaro.com/memberships?utm_campaign=membershipmanagementsoftware&utm_medium=cpc"
+            },
+            {
+              "product_id" : 143461,
+              "seo_product_id" : 143461,
+              "seo_slug" : "Squarespace",
+              "vendor_name" : "Squarespace",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/713f882b-f7a1-4f3f-a484-7af2fe13f5c3.png",
+              "rating" : 4.6,
+              "total_reviews" : 2497,
+              "slug" : "Squarespace",
+              "product_name" : "Squarespace",
+              "short_desc" : "Squarespace is the all-in-one platform to build a beautiful website, online store, or portfolio.",
+              "features" : "Squarespace is the all-in-one platform to build a beautiful online presence. Look like an expert right from the start with award-winning templates for your website, online store, or portfolio. Customize the design to fit your personal style and professional needs. Get found in search by more people with powerful SEO tools. Learn where your website traffic is coming from, what your visitors are looking for, and how they're interacting with your content or products with in-depth Analytics tools.",
+              "url" : "https://www.squarespace.com/website-design/?channel=paid_community&subchannel=capterra&campaign=default"
+            },
+            {
+              "product_id" : 40229,
+              "seo_product_id" : 40229,
+              "seo_slug" : "MINDBODY",
+              "vendor_name" : "Mindbody",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/1854606b-f0fe-4cdf-af6b-c17b97a93780.png",
+              "rating" : 4.0,
+              "total_reviews" : 2340,
+              "slug" : "MINDBODY",
+              "product_name" : "Mindbody",
+              "short_desc" : "Mindbody wellness business management software is tailored to businesses that need business and membership management systems. ",
+              "features" : "Mindbody empowers your members to own their wellness experience. From member profiles and automated reminders to self check-in, your all-in-one software will keep everyone moving. Plus, with a custom app, members can update their info and schedule on the go?from the comfort of your brand. Manage and grow your community with ease. Schedule your free demo today.",
+              "url" : "https://www.mindbodyonline.com/business/lp/mindbody?3FcampaignID=7013i000000Iqs0AAC&referralSource=Paid+Search&primaryMarket=&utm_campaign=Membership+Management&utm_medium=thirdpartyreview&utm_source=capterra"
+            },
+            {
+              "product_id" : 133173,
+              "seo_product_id" : 129236,
+              "seo_slug" : "Brilliant-Directories",
+              "vendor_name" : "Brilliant Directories",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/eecf3b20-7034-423c-afbb-8136d7ad0972.png",
+              "rating" : 4.7,
+              "total_reviews" : 639,
+              "slug" : "Brilliant-Directories",
+              "product_name" : "Brilliant Directories",
+              "short_desc" : "Affordable, All-In-One Solution to streamline website management,  membership dues, email marketing and more. Try a Demo!",
+              "features" : "---- TRY OUR 7-DAY FREE TRIAL:\nhttps://www.brilliantdirectories.com/trial  ----\n\nBrilliant Directories offers an Affordable, All-In-One Member Management Solution to streamline all aspects of your membership website or association.  A complete, turn-key solution with quick setup and free, unlimited support from real people. Includes website design, online payment processing, multi-level memberships, past due monitoring, premium member's only content, and more. ",
+              "url" : "https://get.brilliantdirectories.com/best-online-membership-platform"
+            },
+            {
+              "product_id" : 9755,
+              "seo_product_id" : 9755,
+              "seo_slug" : "Donarius",
+              "vendor_name" : "Nuverb Systems",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/7c30964c-f210-4c32-80bb-c5486d94d8be.png",
+              "rating" : 4.6,
+              "total_reviews" : 583,
+              "slug" : "Donarius",
+              "product_name" : "Donarius",
+              "short_desc" : "Track donors, donations and pledges for your church.  Accept online donations (integrated with most online giving providers).",
+              "features" : "\"Save time and get more done, with fewer headaches.\" Easily keep track of your members, dues, contributions, pledges and more... Starts at $47.98 (one-time cost, no monthly fees; no attendance tracking, accounting or payroll) Print or email yearly tax receipts and quarterly statements. Print membership photo directory.  Share data like web-based software without the monthly fee, using DropBox or Google Drive.  Exports data to QuickBooks.  PC or Mac.",
+              "url" : "https://info.gartnerdigitalmarkets.com/donarius-gdm-lp/?category=membership-managment"
+            },
+            {
+              "product_id" : 57588,
+              "seo_product_id" : 57588,
+              "seo_slug" : "StarChapter",
+              "vendor_name" : "Star Chapter",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/16500611-dac0-4c0f-92d8-39b48f4f6370.png",
+              "rating" : 4.3,
+              "total_reviews" : 526,
+              "slug" : "StarChapter",
+              "product_name" : "StarChapter",
+              "short_desc" : "Membership Management Software for board volunteers who want to grow their membership while saving time!",
+              "features" : "Want to grow your membership? Let StarChapter manage your membership data and increase retention rates so, you have more time for outreach. The software combines emails, event registration, membership, website design, and payment processing. Our StarChapter Project Manager will set up your service with you, coordinate the project for you, and train users even when the board transitions. Get access to 24/7 online technical support and industry resources.",
+              "url" : "http://www.starchapter.com/downloads/newlandingpage04.html?source=capterra"
+            },
+            {
+              "product_id" : 76116,
+              "seo_product_id" : 221194,
+              "seo_slug" : "Wild-Apricot",
+              "vendor_name" : "Personify",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/3143d257-d391-4bbd-8a61-75eeb83c40fb.png",
+              "rating" : 4.5,
+              "total_reviews" : 519,
+              "slug" : "Wild-Apricot",
+              "product_name" : "Wild Apricot",
+              "short_desc" : "Easily manage your members, process payments, send out emails, register event attendees, create a website and more.",
+              "features" : "WildApricot is a complete membership management system, designed to fit your organizations needs. Easily manage your contacts, process payments, send out emails, register event attendees, create a website and more. With a self serve design and a user friendly interface, you have the freedom to customize every aspect of your membership management system. If you need help at any step of the way, our support team and community of experts are ready to help guide you and share their best practices.",
+              "url" : "https://freetrial.wildapricot.com/wildapricot-membership-management-software/?utm_medium=cpc&utm_campaign=membership-management-capterra"
+            },
+            {
+              "product_id" : 102088,
+              "seo_product_id" : 224994,
+              "seo_slug" : "Neon-CRM",
+              "vendor_name" : "Neon One",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/944471b7-c55a-4525-a87d-d205d8608f0a.png",
+              "rating" : 4.4,
+              "total_reviews" : 479,
+              "slug" : "NeonCRM",
+              "product_name" : "Neon CRM",
+              "short_desc" : "Increase engagement & revenue with a sophisticated membership management solution designed to support both nonprofits & associations.\n",
+              "features" : "Increase engagement & drive more revenue with Neon CRM, a sophisticated membership management solution designed to support both nonprofits and associations.\n\nBuild better relationships with event and experience management, activity tracking, marketing tools, and more!\n\nPut your members in control with a member log-in portal to check their membership status, a custom member directory, and exclusive content. \n\nReady for a more intuitive approach to member management?\n",
+              "url" : "https://neonone.com/l/membership-management-software-request-a-demo-ga/?utm_source=capterra&utm_medium=cpc&utm_campaign=capterra_bofu_neon_crm_membership_mgmt&utm_content=destination"
+            },
+            {
+              "product_id" : 42550,
+              "seo_product_id" : 49729,
+              "seo_slug" : "ClubExpress",
+              "vendor_name" : "ClubExpress",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/193cf2bf-9aa2-4d21-b79b-7d9a137c18d1.png",
+              "rating" : 4.3,
+              "total_reviews" : 467,
+              "slug" : "ClubExpress",
+              "product_name" : "ClubExpress",
+              "short_desc" : "The complete front office and back office for your club or association: website, member database, events, forums, and much more.",
+              "features" : "ClubExpress is the economical Internet-based solution for smaller professional and trade associations (25-5000 members). ClubExpress combines your association web site with the membership database, online member signups/renewals/expirations, event calendar & registration, credit-card processing, membership directory, committees, forums, documents, interests, benefits, etc. We use state-of-the-art security, there's no advertising and associations own their data at all times.",
+              "url" : "http://www.clubexpress.com/landing.aspx?source=CapterraMM"
+            },
+            {
+              "product_id" : 133851,
+              "seo_product_id" : 16081,
+              "seo_slug" : "MemberClicks",
+              "vendor_name" : "Personify",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/abc0f9f4-77fb-4803-ba40-3f3425567fa9.png",
+              "rating" : 4.4,
+              "total_reviews" : 447,
+              "slug" : "MemberClicks",
+              "product_name" : "MemberClicks",
+              "short_desc" : "Simplify membership management with MemberClicks; the all-in-one solution for staff who need to save time and grow their membership. ",
+              "features" : "MemberClicks has everything you need to save time and grow your membership. Automate essential tasks, such as finances, membership management, and events. Engage members with email nurturing, online learning, job postings, and more. Today, over 3,000 clients across North America trust MemberClicks to fulfill their missions. ",
+              "url" : "https://info.gartnerdigitalmarkets.com/memberclicks-gdm-lp?utm_medium=softwarereviewsites&utm_campaign=membership-management"
+            },
+            {
+              "product_id" : 145039,
+              "seo_product_id" : 220849,
+              "seo_slug" : "WellnessLiving",
+              "vendor_name" : "WellnessLiving Systems",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/f1c27aee-4844-461b-a229-605a9ce44a0c.png",
+              "rating" : 4.4,
+              "total_reviews" : 322,
+              "slug" : "WellnessLiving",
+              "product_name" : "WellnessLiving",
+              "short_desc" : "Online booking, resource scheduling, lead generation, and reporting solution for every business.",
+              "features" : "An all-in-one solution for your business! We feature a sophisticated scheduler for all your appointments and classes, email marketing, merchant processing, payroll, reputation management, robust reporting, a rewards program, and many more features. There are no pricey add-on fees to embed your schedule into your site, generate reviews, send emails/SMS notifications, rewards program, marketing automations, or anything else. WellnessLiving was built by our customers, for our customers!",
+              "url" : "https://discover.wellnessliving.com/capterra-membership-management"
+            }
+          ],
+          "similar_products" : [
+            {
+              "product_id" : 134209,
+              "seo_product_id" : 223690,
+              "seo_slug" : "Glue-Up",
+              "vendor_name" : "Glue Up",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/767f0c5d-872b-4c45-93f5-2a316ddf9d32.png",
+              "rating" : 4.5,
+              "total_reviews" : 92,
+              "slug" : "Glue-Up",
+              "product_name" : "Glue Up",
+              "short_desc" : "Retain, engage, and grow your member community with a software that automates your membership processes and maximizes retention. ",
+              "features" : "Perfect for Associations, Chambers of Commerce and business networks worldwide. Glue Up (formerly EventBank) is an all-in-one cloud software that integrates a world class CRM to the best membership and event management, email marketing, and finance tools. Unlock new paths for growth and collect membership dues with a platform that consolidates all of your operations in one place. The platform comes with 2 mobile apps: one for you to manage your organization, and one for your community.",
+              "url" : "https://glueup.com/lp/event-management-cpt?utm_medium=lp&utm_campaign=PPC&utm_term=event-management"
+            },
+            {
+              "product_id" : 76116,
+              "seo_product_id" : 221194,
+              "seo_slug" : "Wild-Apricot",
+              "vendor_name" : "Personify",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/3143d257-d391-4bbd-8a61-75eeb83c40fb.png",
+              "rating" : 4.5,
+              "total_reviews" : 519,
+              "slug" : "Wild-Apricot",
+              "product_name" : "Wild Apricot",
+              "short_desc" : "Easily manage your members, process payments, send out emails, register event attendees, create a website and more.",
+              "features" : "WildApricot is a complete membership management system, designed to fit your organizations needs. Easily manage your contacts, process payments, send out emails, register event attendees, create a website and more. With a self serve design and a user friendly interface, you have the freedom to customize every aspect of your membership management system. If you need help at any step of the way, our support team and community of experts are ready to help guide you and share their best practices.",
+              "url" : "https://www.wildapricot.com/welcome?utm_medium=cpc&utm_campaign=membership-management-capterra"
+            },
+            {
+              "product_id" : 142416,
+              "seo_product_id" : 226300,
+              "seo_slug" : "Member365",
+              "vendor_name" : "Member365",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/ef8290fb-536d-4723-bba0-6433004e0de3.png",
+              "rating" : 4.1,
+              "total_reviews" : 28,
+              "slug" : "Member365",
+              "product_name" : "Member365",
+              "short_desc" : "Stop juggling multiple software - Simplify your membership management system with Member365.",
+              "features" : "Member365 combines the functionality of your email campaign manager, financial software, and CRM to create a platform custom-made for Membership Managers.\r\n\r\nAutomate busy work to spend less time managing member data, and more time understanding member needs. Create email campaigns in seconds by building lists from your Member365 CRM. Understand who is likely to churn, and more, with Engagement Analytics.\r\n\r\nWith Member365, your work is about managing members, not just their data. ",
+              "url" : "https://member365.com/"
+            },
+            {
+              "product_id" : 147279,
+              "seo_product_id" : 221942,
+              "seo_slug" : "Hivebrite",
+              "vendor_name" : "Hivebrite",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/2c8f1a67-e7b3-44db-af26-4a6f7cfd2205.png",
+              "rating" : 4.5,
+              "total_reviews" : 48,
+              "slug" : "Hivebrite",
+              "product_name" : "Hivebrite",
+              "short_desc" : "Unlock the potential of your community with the most flexible and powerful all-in-one solution for community management and engagement.",
+              "features" : "Unlock the potential of your community with Hivebrite, the most advanced all-in-one community management and engagement platform. Easy to set up and fully branded to match your colors, Hivebrite helps you build brand engagement and create opportunities for your private community. Manage your member database, centralize the communication with your members, create events and collect online memberships, all from a single user-friendly interface.",
+              "url" : "https://hivebrite.com/?utm_source=capterra&utm_medium=cpc&utm_term=community"
+            },
+            {
+              "product_id" : 133851,
+              "seo_product_id" : 16081,
+              "seo_slug" : "MemberClicks",
+              "vendor_name" : "Personify",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/abc0f9f4-77fb-4803-ba40-3f3425567fa9.png",
+              "rating" : 4.4,
+              "total_reviews" : 447,
+              "slug" : "MemberClicks",
+              "product_name" : "MemberClicks",
+              "short_desc" : "Simplify membership management with MemberClicks; the all-in-one solution for staff who need to save time and grow their membership. ",
+              "features" : "MemberClicks has everything you need to save time and grow your membership. Automate essential tasks, such as finances, membership management, and events. Engage members with email nurturing, online learning, job postings, and more. Today, over 3,000 clients across North America trust MemberClicks to fulfill their missions. ",
+              "url" : "https://info.gartnerdigitalmarkets.com/memberclicks-gdm-lp?utm_medium=softwarereviewsites&utm_campaign=membership-management"
+            },
+            {
+              "product_id" : 76329,
+              "seo_product_id" : 212148,
+              "seo_slug" : "YourMembership",
+              "vendor_name" : "Community Brands",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/20dab323-7cc6-4736-9206-81162e15c1cb.png",
+              "rating" : 3.9,
+              "total_reviews" : 147,
+              "slug" : "YourMembership",
+              "product_name" : "YourMembership",
+              "short_desc" : "YourMembership is an affordable, all-in-one member management software built for small to mid-sized associations and nonprofits.",
+              "features" : "YourMembership empowers associations, nonprofits and other member-based organizations to deliver more value to their members while streamlining administrative processes. Built for small to mid-sized organizations, the cloud-based membership management software is a comprehensive solution including: membership management, event management, e-Commerce, payments, email marketing, online community, advanced dashboards, and more!",
+              "url" : "https://www.yourmembership.com/products/member-software-associations-capterra/?utm_campaign=LG-YM-PPC-Capterra&utm_source=capterra&utm_medium=ppc&utm_term=categorylisting&utm_content=default"
+            },
+            {
+              "product_id" : 47310,
+              "seo_product_id" : 47310,
+              "seo_slug" : "MemberLeap",
+              "vendor_name" : "Vieth Consulting",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/81f6ef34-bee2-4cba-aa1e-c40ed83467d3.png",
+              "rating" : 4.8,
+              "total_reviews" : 65,
+              "slug" : "MemberLeap",
+              "product_name" : "MemberLeap",
+              "short_desc" : "SaaS solution that provides an organization with a member database, website content tools, online event registration, and much more!",
+              "features" : "Our affordable and easy to use software can streamline your member-based organization's administrative processes; retain and grow your membership; and generate revenue. Our intuitive association management features can help you track dues; communicate and engage with members and prospects; update your website; host in-person events and virtual events with our Zoom interface; conduct calls for proposals; track donations; integrate with QuickBooks; manage committees; and more. Try a free demo!",
+              "url" : "https://info.gartnerdigitalmarkets.com/memberleap-gdm-lp"
+            },
+            {
+              "product_id" : 134351,
+              "seo_product_id" : 239268,
+              "seo_slug" : "Zen-Planner",
+              "vendor_name" : "Daxko",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/53de4f60-054a-4c22-9e8e-bed1aca3311d.png",
+              "rating" : 4.3,
+              "total_reviews" : 233,
+              "slug" : "Zen-Planner",
+              "product_name" : "Zen Planner",
+              "short_desc" : "Gym membership management software with payment processing, Integrated Websites, virtual training, scheduling, automation & more.",
+              "features" : "Our comprehensive, membership management software provides everything you need to turn your passion into a successful business. With payment processing & auto-billing, lead-generating websites + digital marketing, virtual classes, scheduling, retail, automation, member & staff apps, in-depth reporting & more, you have everything required to grow, nurture & retain your members. ",
+              "url" : "https://info.zenplanner.com/software-for-fitness-businesses-live-demo-lf-oa"
+            },
+            {
+              "product_id" : 148692,
+              "seo_product_id" : 220284,
+              "seo_slug" : "Join-It",
+              "vendor_name" : "Join It",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d759ad7d-3926-44aa-afe4-7c6c587a2a12.png",
+              "rating" : 4.7,
+              "total_reviews" : 75,
+              "slug" : "Join-It",
+              "product_name" : "Join It",
+              "short_desc" : "Used by organizations to manage their memberships, integrate their other SaaS platforms, & automate their critical tasks.",
+              "features" : "Join It is a membership management service that enables organizations to effectively keep track, manage, and grow their community. At our core, we provide a simple database and dashboard interface for organization leaders to monitor developments in their membership. We then integrate this database context with best in class service providers to automate other essential components of an organization, like payment processing, email communication, and event organization.",
+              "url" : "https://joinit.com/how-it-works?utm_source=capterra&utm_medium=PPC"
+            },
+            {
+              "product_id" : 40229,
+              "seo_product_id" : 40229,
+              "seo_slug" : "MINDBODY",
+              "vendor_name" : "Mindbody",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/1854606b-f0fe-4cdf-af6b-c17b97a93780.png",
+              "rating" : 4.0,
+              "total_reviews" : 2340,
+              "slug" : "MINDBODY",
+              "product_name" : "Mindbody",
+              "short_desc" : "Mindbody wellness business management software is tailored to businesses that need business and membership management systems. ",
+              "features" : "Mindbody empowers your members to own their wellness experience. From member profiles and automated reminders to self check-in, your all-in-one software will keep everyone moving. Plus, with a custom app, members can update their info and schedule on the go?from the comfort of your brand. Manage and grow your community with ease. Schedule your free demo today.",
+              "url" : "https://www.mindbodyonline.com/business/lp/meet-mindbody?landing=ycampaignID=%207013i000000Iqs0AAC&referralSource=Paid+Search&primaryMarket=&utm_campaign=default_url&utm_medium=thirdpartyreview&utm_source=capterra"
+            },
+            {
+              "product_id" : 198905,
+              "seo_product_id" : 248110,
+              "seo_slug" : "SmartRec",
+              "vendor_name" : "Amilia",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/c2c95e52-1721-4ec4-87c9-5e79d7b4a7b9.png",
+              "rating" : 4.3,
+              "total_reviews" : 114,
+              "slug" : "SmartRec",
+              "product_name" : "SmartRec",
+              "short_desc" : "SmartRec by Amilia is the smartest and easiest way to offer, manage, and sell activities. Engage communities online effortlessly.  ",
+              "features" : "Amilia SmartRec empowers businesses, community organizations and Parks & Recreation agencies to better serve their community with activities.  \n\nWe make it easy for your community to find, register and pay for activities online. You'll save time and get to do more of what you love - it's eCommerce for activities!  \n\nWhen your registration process is simple and effortlessly accessed by your community, you'll generate even more engagement. Not to mention, you'll see a huge bump in signups. ",
+              "url" : "https://www.amilia.com/library/business-smartrec?utm_source=referral&utm_medium=capterra&utm_campaign=ongoingcapterra2022&utm_content=ppc&utm_term=en"
+            },
+            {
+              "product_id" : 136861,
+              "seo_product_id" : 239255,
+              "seo_slug" : "GloFox",
+              "vendor_name" : "Glofox",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e5396bad-e54a-43ef-af60-adb0a61bef58.png",
+              "rating" : 4.5,
+              "total_reviews" : 227,
+              "slug" : "Glofox",
+              "product_name" : "Glofox",
+              "short_desc" : "Our gym and fitness studio membership management system is the all-in-1 place to manage your daily admin tasks & increase revenue.",
+              "features" : "Our gym and fitness studio membership management software gives you an all-in-1 place to manage your daily admin tasks & increase revenue. Enhance your member's experience with a mobile app they can use to book classes, make purchases and engage with your studio. With our website schedule integrations, make sure your members can easily find and view your class schedule. We also provide a check-in kiosk which will free up time before a class for you to engage with your members and prospects.",
+              "url" : "https://www.glofox.com/gym-management-software-revenue/?utm_source=ppc&utm_medium=capterra"
+            },
+            {
+              "product_id" : 153752,
+              "seo_product_id" : 226850,
+              "seo_slug" : "Vagaro",
+              "vendor_name" : "Vagaro",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4e2671a7-72b7-4638-9434-190c249607a3.png",
+              "rating" : 4.7,
+              "total_reviews" : 2773,
+              "slug" : "Vagaro",
+              "product_name" : "Vagaro",
+              "short_desc" : "Manage memberships & waivers, get booked 24/7, seamlessly process payments, send marketing emails & run reports. Starts at $25/month.",
+              "features" : "Use our all-in-one membership management software & app to manage and grow your business. Get booked & paid 24/7. Stay safe with 100% contactless check-in & checkout. Advertise your virtual and in-person classes on the Vagaro Marketplace. Reduce no-shows with automated reminders. Manage classes and memberships on any device. Send waivers and forms. Vagaro Pro is the most downloaded/reviewed Apple & Android App. Prices start @ $25/month. Sign up for a Free 1 Month Trial.",
+              "url" : "https://sales.vagaro.com/?utm_source=capterra&utm_medium=cpc&utm_content=main"
+            }
+          ],
+          "related_categories" : [
+            {
+              "functional_group" : "amm",
+              "long_name" : "Association Management",
+              "html_name" : "association-management-software",
+              "link_name" : "association-management",
+              "product_count" : 127,
+              "meta_description" : "Find and compare top Association Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Association Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/association-management-software>Association Management software</a> automates management functions including fundraising, membership, event management and other operations.  These software packages typically offer many features to empower and inform association members, as well as administration and business process tools for association managers. Associations use these applications to communicate with their constituents, share resources, promote events, collect fees and recruit new members.  <a href=/association-management-software>Association Management software</a> is related to <a href=/membership-management-software>Membership Management software</a>."
+            },
+            {
+              "functional_group" : "amm",
+              "long_name" : "Church Management",
+              "html_name" : "church-management-software",
+              "link_name" : "church-management",
+              "product_count" : 187,
+              "meta_description" : "Find and compare top Church Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Church Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs.",
+              "description" : "<a href=\"/church-management-software\">Church Management software</a> handles functions such as accounting, donation tracking, service attendance, membership, schedules and activities.  Churches use these applications to automate and organize administrative functions including document creation, outreach and event scheduling.  Management software helps churches better track resources and foster communication among administrators as well as staff, ministry leaders, members and visitors.  <a href=\"/church-management-software\">Church Management software</a> is related to <a href=\"/fund-accounting-software\">Fund Accounting software</a>, <a href=\"/fundraising-software\">Fundraising software</a> and <a href=\"/membership-management-software\">Membership Management software</a>."
+            },
+            {
+              "functional_group" : "amm",
+              "long_name" : "Club Management",
+              "html_name" : "club-management-software",
+              "link_name" : "club-management",
+              "product_count" : 119,
+              "meta_description" : "Find and compare top Club Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Club Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs.",
+              "description" : "<a href=\"/club-management-software\">Club Management software</a> automates management functions including membership, fees, dues and other operations for fitness, social and civic clubs or other similar organizations.  These applications offer integrated solutions for access management as well as sales and marketing tools for club facilities.  Club Management solutions also help track business performances through automated reporting and forecasting on sales performance, member retention rates and revenue generation. <a href=\"/club-management-software\">Club Management software</a> is related to <a href=\"/membership-management-software\">Membership Management software</a>, <a href=\"/visitor-management-software\">Visitor Management software</a>, and <a href=\"/registration-software\">Registration software</a>."
+            },
+            {
+              "functional_group" : "amm",
+              "long_name" : "Directory",
+              "html_name" : "directory-software",
+              "link_name" : "directory",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Directory software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Directory tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "Directory software is used to create product and services classifieds, informational portals and membership lists with or without monetization options."
+            },
+            {
+              "functional_group" : "amm",
+              "long_name" : "Fundraising",
+              "html_name" : "fundraising-software",
+              "link_name" : "fundraising",
+              "product_count" : 141,
+              "meta_description" : "Find and compare top Fundraising software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Fundraising tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/fundraising-software>Fundraising software</a> manages donor and pledge information associated with fundraising campaigns. Development professionals use Fundraising applications to enhance their ability to locate, manage and grow donor sources.  <a href=/fundraising-software>Fundraising software</a> facilitates cost effective targeting of likely donors, tracks pledges, and manages contributions and donor relationship management. These applications also provide a variety of tools allowing fundraisers to track the effectiveness of their development campaigns.  <a href=/fundraising-software>Fundraising software</a> is related to <a href=/church-management-software>Church Management software</a>, <a href=/event-management-software>Event Management software</a> and <a href=/political-campaign-software>Political Campaign software</a>."
+            },
+            {
+              "functional_group" : "amm",
+              "long_name" : "Nonprofit",
+              "html_name" : "nonprofit-software",
+              "link_name" : "nonprofit",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Nonprofit software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Nonprofit tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "Nonprofit software automates all aspects of nonprofit operations from database management, to fundraising, to accounting and CRM. Nonprofit software is related to Donation Management software and Nonprofit Accounting software."
+            }
+          ],
+          "is_upgraded" : false,
+          "enabled" : true,
+          "filter_options" : {
+            "users" : 120,
+            "platform" : 975,
+            "pricing_options" : 18,
+            "category_related_features" : [
+              19463,
+              19472,
+              19473,
+              30338,
+              38417,
+              38420,
+              40063,
+              41680,
+              48731,
+              48732,
+              48733,
+              48736,
+              48737,
+              48738,
+              48739,
+              48742,
+              48743,
+              48747,
+              48748,
+              48751,
+              48755,
+              48756,
+              48757,
+              48758,
+              48761,
+              48762,
+              48763,
+              48764
+            ],
+            "employees" : 126
+          },
+          "sort_options" : {
+            "sort_review_rating" : 4.507150650024414,
+            "most_recent_review" : "2022-09-09T18:17:43Z"
+          },
+          "countries" : "CA,NL,AU,US,UK",
+          "features_tokenized_text" : "event_management member_database member_directory membership_renewals payment_processing website_management",
+          "platform_tokenized_text" : "cloud,saas,web-based desktopmac desktopwindows desktoplinux desktopchromebook mobileandroid mobileiphone mobileipad",
+          "users_tokenized_text" : "51-200 201-500 501-1000 1000+",
+          "pricing_tokenized_text" : "monthlysubscription freetrial",
+          "badges" : [ ],
+          "bid_spot_us" : 0.0,
+          "currency_code" : "USD",
+          "currency_symbol" : "$",
+          "credit_card_required" : "Yes",
+          "licensing_model" : "Proprietary",
+          "open_api_offered" : "No",
+          "mobile_urls" : [
+            {
+              "name" : "Android",
+              "url" : "https://play.google.com/store/apps/details?id=com.honeycommb.honeycommb"
+            },
+            {
+              "name" : "iOS",
+              "url" : "https://apps.apple.com/us/app/honeycommb/id1173922712"
+            }
+          ],
+          "integrations" : [
+            {
+              "id" : "5f3f5b66-bcb7-458e-836e-a6d200b2b406",
+              "name" : "Amplitude"
+            },
+            {
+              "id" : "ff8cc380-8bfb-4161-b5d9-a6d200b68846",
+              "name" : "Shopify"
+            },
+            {
+              "id" : "acd3d8e9-692e-42e2-9b10-a6d200b5f2c4",
+              "name" : "Provide Support"
+            },
+            {
+              "id" : "d96b7b2d-d086-417b-a6a3-a6d200b5007d",
+              "name" : "Mailchimp"
+            },
+            {
+              "id" : "3ecee0e7-8233-490b-858c-a6d200b7a22f",
+              "name" : "Zapier"
+            },
+            {
+              "id" : "e7f6e647-cd6d-4832-9c53-220475dc6d9a",
+              "name" : "Facebook Business Suite"
+            },
+            {
+              "id" : "e7b8f7ee-43d5-409a-90e8-a6d200b7e1c5",
+              "name" : "Notion"
+            }
+          ],
+          "supported_countries" : [
+            {
+              "id" : 235,
+              "code" : "GB",
+              "name" : "United Kingdom of Great Britain and Northern Ireland"
+            },
+            {
+              "id" : 84,
+              "code" : "DE",
+              "name" : "Germany"
+            },
+            {
+              "id" : 14,
+              "code" : "AU",
+              "name" : "Australia"
+            },
+            {
+              "id" : 237,
+              "code" : "US",
+              "name" : "United States of America"
+            },
+            {
+              "id" : 41,
+              "code" : "CA",
+              "name" : "Canada"
+            }
+          ],
+          "supported_languages" : [
+            {
+              "id" : 152,
+              "code" : "en",
+              "name" : "English",
+              "location" : null
+            },
+            {
+              "id" : 348,
+              "code" : "de",
+              "name" : "German",
+              "location" : null
+            },
+            {
+              "id" : 396,
+              "code" : "it",
+              "name" : "Italian",
+              "location" : null
+            },
+            {
+              "id" : 401,
+              "code" : "ja",
+              "name" : "Japanese",
+              "location" : null
+            },
+            {
+              "id" : 684,
+              "code" : "es",
+              "name" : "Spanish",
+              "location" : null
+            }
+          ],
+          "target_industries" : [
+            {
+              "id" : 68,
+              "code" : "6",
+              "name" : "Internet"
+            },
+            {
+              "id" : 126,
+              "code" : "27",
+              "name" : "Retail"
+            },
+            {
+              "id" : 64,
+              "code" : "96",
+              "name" : "Information Technology and Services"
+            },
+            {
+              "id" : 94,
+              "code" : "115",
+              "name" : "Music"
+            },
+            {
+              "id" : 34,
+              "code" : "69",
+              "name" : "Education Management"
+            },
+            {
+              "id" : 57,
+              "code" : "14",
+              "name" : "Hospital & Health Care"
+            },
+            {
+              "id" : 99,
+              "code" : "113",
+              "name" : "Online Media"
+            },
+            {
+              "id" : 4,
+              "code" : "125",
+              "name" : "Alternative Medicine"
+            },
+            {
+              "id" : 6,
+              "code" : "19",
+              "name" : "Apparel & Fashion"
+            },
+            {
+              "id" : 11,
+              "code" : "41",
+              "name" : "Banking"
+            },
+            {
+              "id" : 13,
+              "code" : "36",
+              "name" : "Broadcast Media"
+            },
+            {
+              "id" : 79,
+              "code" : "143",
+              "name" : "Luxury Goods & Jewelry"
+            },
+            {
+              "id" : 83,
+              "code" : "97",
+              "name" : "Market Research"
+            },
+            {
+              "id" : 84,
+              "code" : "80",
+              "name" : "Marketing and Advertising"
+            },
+            {
+              "id" : 86,
+              "code" : "126",
+              "name" : "Media Production"
+            },
+            {
+              "id" : 89,
+              "code" : "139",
+              "name" : "Mental Health Care"
+            },
+            {
+              "id" : 90,
+              "code" : "71",
+              "name" : "Military"
+            },
+            {
+              "id" : 112,
+              "code" : "105",
+              "name" : "Professional Training & Coaching"
+            },
+            {
+              "id" : 116,
+              "code" : "78",
+              "name" : "Public Safety"
+            },
+            {
+              "id" : 16,
+              "code" : "129",
+              "name" : "Capital Markets"
+            },
+            {
+              "id" : 27,
+              "code" : "24",
+              "name" : "Consumer Electronics"
+            },
+            {
+              "id" : 28,
+              "code" : "25",
+              "name" : "Consumer Goods"
+            },
+            {
+              "id" : 29,
+              "code" : "91",
+              "name" : "Consumer Services"
+            },
+            {
+              "id" : 30,
+              "code" : "18",
+              "name" : "Cosmetics"
+            },
+            {
+              "id" : 35,
+              "code" : "132",
+              "name" : "E-Learning"
+            },
+            {
+              "id" : 55,
+              "code" : "124",
+              "name" : "Health, Wellness and Fitness"
+            },
+            {
+              "id" : 56,
+              "code" : "68",
+              "name" : "Higher Education"
+            },
+            {
+              "id" : 58,
+              "code" : "31",
+              "name" : "Hospitality"
+            },
+            {
+              "id" : 59,
+              "code" : "137",
+              "name" : "Human Resources"
+            },
+            {
+              "id" : 122,
+              "code" : "89",
+              "name" : "Religious Institutions"
+            },
+            {
+              "id" : 132,
+              "code" : "104",
+              "name" : "Staffing and Recruiting"
+            },
+            {
+              "id" : 134,
+              "code" : "8",
+              "name" : "Telecommunications"
+            },
+            {
+              "id" : 97,
+              "code" : "100",
+              "name" : "Non-Profit Organization Management"
+            },
+            {
+              "id" : 43,
+              "code" : "43",
+              "name" : "Financial Services"
+            },
+            {
+              "id" : 115,
+              "code" : "98",
+              "name" : "Public Relations and Communications"
+            }
+          ],
+          "price_range_id" : 1,
+          "aggregated_review_ratings" : {
+            "industry" : {
+              "80" : 4.6,
+              "33" : 4.5,
+              "68" : 5.0,
+              "11" : 5.0,
+              "27" : 4.0,
+              "82" : 5.0,
+              "47" : 5.0,
+              "90" : 5.0,
+              "96" : 5.0,
+              "111" : 5.0,
+              "115" : 5.0,
+              "100" : 3.0,
+              "91" : 5.0,
+              "113" : 3.5,
+              "132" : 5.0,
+              "69" : 4.5,
+              "14" : 5.0,
+              "106" : 5.0
+            },
+            "company_size" : {
+              "11-50 employees" : 4.67,
+              "51-200 employees" : 4.5,
+              "1-10 employees" : 4.5,
+              "201-500 employees" : 5.0,
+              "5001-10,000 employees" : 5.0,
+              "Self-employed" : 5.0,
+              "10,001+ employees" : 5.0
+            }
+          },
+          "vct_enabled" : true,
+          "pricing_plans" : [
+            {
+              "created_on_utc" : "2019-08-21T14:47:39Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Web App",
+              "description" : "This is a web-app solution only plan starting at $89.",
+              "display_order" : 1,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 89.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "Activity Feed"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "Content Discovery"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Custom Profiles"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "Direct Messaging"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 5,
+                  "name" : "Group Chat Room"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 6,
+                  "name" : "Groups"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 7,
+                  "name" : "Live Streaming"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 8,
+                  "name" : "Personalized Home Feed"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 9,
+                  "name" : "Post Creation"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 10,
+                  "name" : "Unlimited Administrators"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 11,
+                  "name" : "Weekly Insights Report"
+                }
+              ]
+            },
+            {
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Full Suite ",
+              "description" : "This is a complete web and mobile app solution plan starting at $300.",
+              "display_order" : 2,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 300.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "Content Discovery"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Custom Profiles"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "Direct Messaging"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 5,
+                  "name" : "Group Chat Room"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 6,
+                  "name" : "Groups"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 7,
+                  "name" : "Live Streaming"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 8,
+                  "name" : "Personalized Home Feed"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 9,
+                  "name" : "Post Creation"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 10,
+                  "name" : "Unlimited Administrators"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 11,
+                  "name" : "Weekly Insights Report"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "Activity Feed"
+                }
+              ]
+            }
+          ],
+          "discount_types" : [
+            {
+              "name" : "Custom",
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null
+            }
+          ]
+        }
+      },
+      {
+        "_index" : "product_listings_main_data_upc_vt20220920_043802_utc",
+        "_type" : "_doc",
+        "_id" : "250545_intranet",
+        "_score" : 10.535126,
+        "_source" : {
+          "product_id" : 250545,
+          "seo_product_id" : 250545,
+          "seo_slug" : "Honeycommb-Network",
+          "product_name" : "Honeycommb",
+          "upc_product_uuid" : "a07e37ac-ec97-484e-aaac-aa1c009df1c8",
+          "old_product_ids" : [
+            184684
+          ],
+          "product_url" : "https://www.honeycommb.com",
+          "product_slug" : "Honeycommb-Network",
+          "former_name" : "Honeycommb Network",
+          "logo_filepath" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/cdd4cdd5-df5f-4ce1-9790-21194acf4b51.png",
+          "vendor" : {
+            "vendor_id" : 2206964,
+            "vendor_name" : "Honeycommb",
+            "vendor_url" : "https://www.honeycommb.com",
+            "year_founded" : 2016,
+            "location" : "United States",
+            "vendor_opted_out_of_reviews" : true,
+            "is_opted_out_of_reviews" : false,
+            "is_hit_limit" : false,
+            "enabled" : true,
+            "has_vendor_level_page" : false,
+            "slug" : null,
+            "vendor_page" : false,
+            "paused_campaign" : false
+          },
+          "category_short_name" : "intranet",
+          "category_html_name" : "intranet-software",
+          "category" : {
+            "id" : 31015,
+            "short_name" : "intranet",
+            "long_name" : "Intranet",
+            "html_name" : "intranet-software",
+            "enabled" : true
+          },
+          "best_category" : "intranet",
+          "is_best_category" : true,
+          "highest_cpc_category" : null,
+          "is_highest_cpc_category" : false,
+          "short_desc" : "A customized social platform for brands, creators, influencers and communities alike to build a space for YOUR People. ",
+          "long_desc" : "Custom, Full-Featured & Branded Social Networks That You Own and Control.\n\nHoneycommb is the only consumer grade, complete, custom social network solution in the world that gives you total control and ownership over all data and content. Used by Red Wing, Keds and other notable brands, Honeycommb provides a full suite of community capture and engagement tools.   ",
+          "rating" : 4.6,
+          "number_of_reviews" : 30,
+          "total_reviews" : 29,
+          "ease_of_use_rating" : 4.5,
+          "customer_support_rating" : 4.7,
+          "functionality_rating" : 4.3,
+          "value_for_money_rating" : 4.5,
+          "recommendation_rating" : 8.7,
+          "pricing_enabled" : true,
+          "pricing" : 89.0,
+          "is_per_user" : false,
+          "fee_schedule" : "Per-Month",
+          "pricing_model" : "Flat Rate",
+          "pricing_details" : "For more pricing, visit www.honeycommb.com/pricing",
+          "pricing_created_on" : "2019-08-21T14:47:39Z",
+          "pricing_modified_on" : "2022-06-23T14:42:33Z",
+          "pricing_created_by" : null,
+          "pricing_modified_by" : null,
+          "pricing_vendor_pricing_url" : "https://www.honeycommb.com/pricing",
+          "free_trial" : true,
+          "free_version" : false,
+          "target_audience" : "A community platform for creators & brands looking to take create a space that you own and control. We work with those who value brand & understand the power of creating meaningful connections",
+          "target_users" : [
+            "51-200",
+            "201-500",
+            "501-1000",
+            "1000+"
+          ],
+          "platform" : [
+            {
+              "enabled" : true,
+              "name" : "Cloud, SaaS, Web-Based"
+            },
+            {
+              "enabled" : true,
+              "name" : "Desktop Mac"
+            },
+            {
+              "enabled" : true,
+              "name" : "Desktop Windows"
+            },
+            {
+              "enabled" : true,
+              "name" : "Desktop Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Linux"
+            },
+            {
+              "enabled" : true,
+              "name" : "Desktop Chromebook"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile Android"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPhone"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPad"
+            }
+          ],
+          "support" : [
+            {
+              "enabled" : true,
+              "name" : "Email Help Desk"
+            },
+            {
+              "enabled" : true,
+              "name" : "FAQ Forum"
+            },
+            {
+              "enabled" : true,
+              "name" : "Knowledgebase"
+            },
+            {
+              "enabled" : true,
+              "name" : "Phone Support"
+            },
+            {
+              "enabled" : false,
+              "name" : "24/7 Live Rep"
+            },
+            {
+              "enabled" : true,
+              "name" : "Chat"
+            }
+          ],
+          "training" : [
+            {
+              "enabled" : false,
+              "name" : "Not Offered"
+            },
+            {
+              "enabled" : false,
+              "name" : "In-Person"
+            },
+            {
+              "enabled" : true,
+              "name" : "Live Online"
+            },
+            {
+              "enabled" : true,
+              "name" : "Webinars"
+            },
+            {
+              "enabled" : true,
+              "name" : "Documentation"
+            },
+            {
+              "enabled" : true,
+              "name" : "Videos"
+            }
+          ],
+          "media" : [
+            {
+              "product_id" : 250545,
+              "vendor_id" : 2206964,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/d158a134-0732-4b4c-9b72-8e672c921d3e.png",
+              "caption" : "Full Suite, Native Apps",
+              "weight" : 1,
+              "short_name" : "intranet"
+            },
+            {
+              "product_id" : 250545,
+              "vendor_id" : 2206964,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/a6e4e935-a768-45e6-925b-9dd23bcba8b3.png",
+              "caption" : "Built In Membership",
+              "weight" : 2,
+              "short_name" : "intranet"
+            },
+            {
+              "product_id" : 250545,
+              "vendor_id" : 2206964,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/b360a28c-1b58-4be8-8679-ef4f6700b572.png",
+              "caption" : "Live Video Streaming",
+              "weight" : 3,
+              "short_name" : "intranet"
+            },
+            {
+              "product_id" : 250545,
+              "vendor_id" : 2206964,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/77026e59-667a-40ea-ae83-34c70d484345.png",
+              "caption" : "Create Custom Profiles",
+              "weight" : 4,
+              "short_name" : "intranet"
+            },
+            {
+              "product_id" : 250545,
+              "vendor_id" : 2206964,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/d3a973b2-9287-4d63-a034-32ebb53d17aa.png",
+              "caption" : "A True Partnership",
+              "weight" : 5,
+              "short_name" : "intranet"
+            },
+            {
+              "product_id" : 250545,
+              "vendor_id" : 2206964,
+              "media_type" : "VIDEO",
+              "path_url" : "https://www.youtube.com/watch?v=UjqV2pEkEaw",
+              "caption" : null,
+              "weight" : 0,
+              "short_name" : "intranet"
+            }
+          ],
+          "links" : [
+            {
+              "product_id" : 250545,
+              "functional_group" : "intranet",
+              "html_code" : "https://meetings.hubspot.com/stacey28/other-campaign-demo",
+              "link_name" : "Free Demo",
+              "link_priority" : 2.0
+            },
+            {
+              "product_id" : 250545,
+              "functional_group" : "intranet",
+              "html_code" : "https://www.honeycommb.com/pricing",
+              "link_name" : "Pricing",
+              "link_priority" : 3.0
+            },
+            {
+              "product_id" : 250545,
+              "functional_group" : "intranet",
+              "html_code" : "https://www.honeycommb.com/product",
+              "link_name" : "Product Overview",
+              "link_priority" : 4.0
+            },
+            {
+              "product_id" : 250545,
+              "functional_group" : "intranet",
+              "html_code" : "https://www.honeycommb.com/demo",
+              "link_name" : "Demo Video",
+              "link_priority" : 5.0
+            }
+          ],
+          "features" : [
+            {
+              "category_name" : "Intranet",
+              "category_features" : [
+                {
+                  "name" : "Activity/News Feed",
+                  "value" : true,
+                  "id" : "d184373e-3490-41f2-8ad3-4becd8dcbbf4",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Continuous profile-based stream of news and activity "
+                },
+                {
+                  "name" : "Blogs",
+                  "value" : true,
+                  "id" : "b92046cc-c692-43a1-9cfa-fb1c96ae8a14",
+                  "avg_rating" : 5.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Allows users to publish blogs on social site"
+                },
+                {
+                  "name" : "Calendar Management",
+                  "value" : false,
+                  "id" : "10dc6d16-b8eb-47be-a3b9-3368fba98bac",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Create, manage, and share multiple calendars"
+                },
+                {
+                  "name" : "Content Management",
+                  "value" : true,
+                  "id" : "41247b85-41d2-42cb-aa15-4e6c78c904c2",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Creating, updating, monitoring accuracy, and ensuring brand consistency for all written materials that are distributed to stakeholders."
+                },
+                {
+                  "name" : "Discussions / Forums",
+                  "value" : true,
+                  "id" : "fcad067b-d85e-4333-9602-2e61025d29b4",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Online forums/groups where users can ask questions, share ideas, best practices, etc."
+                },
+                {
+                  "name" : "Knowledge Base Management",
+                  "value" : false,
+                  "id" : "11996670-18b9-4be4-9392-c7c7d370593d",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : "Create, store and share information, data, and support articles in a centralized database"
+                },
+                {
+                  "name" : "Policy Management",
+                  "value" : false,
+                  "id" : "238db486-390c-4559-878c-6ba1f682093c",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "A set of guidelines regarding different business scenarios"
+                },
+                {
+                  "name" : "Search/Filter",
+                  "value" : false,
+                  "id" : "78793d42-e03e-4092-9488-ac101a2270e7",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Search available resources to locate required information"
+                },
+                {
+                  "name" : "Wiki",
+                  "value" : false,
+                  "id" : "61439c32-9bd2-4f7b-b722-f456dbbfa596",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "An informational database that allows users to add, delete, or revise content"
+                }
+              ]
+            }
+          ],
+          "infographics" : [ ],
+          "related_products" : [
+            {
+              "product_id" : 131501,
+              "seo_product_id" : 221150,
+              "seo_slug" : "Bloomfire",
+              "vendor_name" : "Bloomfire",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/814f83e8-8823-4d0b-9052-68a3ccfa0103.png",
+              "rating" : 4.3,
+              "total_reviews" : 200,
+              "slug" : "Bloomfire",
+              "product_name" : "Bloomfire",
+              "short_desc" : "Knowledge engagement software enabling teams to access, collaborate across, and draw upon their organizations collective intelligence.",
+              "features" : "Bloomfire is the leader in knowledge engagement, delivering an experience that connects teams and individuals with the information they need to excel at their jobs. Our cloud-based knowledge engagement platform gives people one centralized, searchable place to engage with shared knowledge and grow their organizations collective intelligence. For more information or to schedule a demo, visit www.bloomfire.com.",
+              "url" : "https://go.bloomfire.com/intranet-software/?utm_source=capterra&utm_medium=cpc&utm_campaign=intranet"
+            },
+            {
+              "product_id" : 131314,
+              "seo_product_id" : 212324,
+              "seo_slug" : "MangoApps",
+              "vendor_name" : "MangoApps",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/82b26d96-7408-43de-aae5-b6099df6ff35.jpg",
+              "rating" : 4.4,
+              "total_reviews" : 136,
+              "slug" : "MangoApps",
+              "product_name" : "MangoApps",
+              "short_desc" : "MangoApps is a modern intranet platform that helps you create a unified employee experience and keep everyone on the same page.\n",
+              "features" : "MangoApps is an intranet platform that gives you all the tools you need to create a unified employee experience and keep all your people on the same page, from wherever they are. Our modern, user-friendly intranet serves as a centralized hub where your employees can find all of their tools and updates in a single, customized dashboard. This approach promotes alignment, efficiency, and community, and enables everyone to find the files, colleagues, and information they need without any roadblocks.",
+              "url" : "https://intranet.mangoapps.com/intranet/overview"
+            },
+            {
+              "product_id" : 201794,
+              "seo_product_id" : 220823,
+              "seo_slug" : "Workvivo",
+              "vendor_name" : "Workvivo",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/db680fb2-8696-4b52-acf2-bba144f9bcbe.png",
+              "rating" : 4.7,
+              "total_reviews" : 114,
+              "slug" : "Workvivo",
+              "product_name" : "Workvivo",
+              "short_desc" : "Workvivo's employee experience app gives you your entire company in your pocket",
+              "features" : "\n\"Company intranets are great.\" - Nobody. Your people deserve a modern employee experience app they'd love to use instead of those clunky intranets. \n\nKeep your people connected in Workvivo, the smart alternative to old-fashioned intranets. \n\nWorkvivo's employee experience app is different.\nIt provides a familiar social experience that motivates people to communicate with their peers and keeps them coming back for more. \n\nSee how it works in 60 seconds.\n",
+              "url" : "https://www.workvivo.com/lp/company-intranets/?utm_source=GartnerDigital&utm_medium=Referral&utm_campaign=Review_Marketplace_Intranet"
+            },
+            {
+              "product_id" : 173179,
+              "seo_product_id" : 222511,
+              "seo_slug" : "Blink",
+              "vendor_name" : "Super Smashing",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/44fded93-ef5b-4d2b-b334-4f22338a5085.png",
+              "rating" : 4.7,
+              "total_reviews" : 107,
+              "slug" : "Blink",
+              "product_name" : "Blink",
+              "short_desc" : "Voted #1 the Intranet, Blink combines a company feed, chat, polls, & document storage in your own branded portal!",
+              "features" : "Blink is the intranet replacement app for frontline workers. A simple platform gives one-click access to everything your team need - from updates to must-knows, forms to timetables, conversations to stories. Wrapped into one secure portal, Blink turns frontline organizations into strong communities with engaged, committed staff. That's why over 1000 organizations, including the NHS, Stagecoach, and Dominoes, have entrusted us with energizing their workforce and powering their operations.",
+              "url" : "https://try.joinblink.com/e_intranet?utm_medium=cpc&utm_campaign=2018-03-16_cap-ppc-intranet&utm_term=intranet"
+            },
+            {
+              "product_id" : 168748,
+              "seo_product_id" : 168748,
+              "seo_slug" : "Simpplr",
+              "vendor_name" : "Simpplr",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/ad127b09-1cde-40e7-9a29-cf3335b86bd5.png",
+              "rating" : 4.9,
+              "total_reviews" : 86,
+              "slug" : "Simpplr",
+              "product_name" : "Simpplr",
+              "short_desc" : "Simpplr provides employee experience software that helps companies connect & align employees. ",
+              "features" : "Simpplr provides employee experience software that helps companies connect & align employees. Simpplr's  platform helps provide better communication for a distributed world. \n\nSimpplr is headquartered in Redwood Shores, CA, with offices in the UK, Canada, and India, and is backed by Norwest Venture Partners, Salesforce Ventures, and Tola Capital. Simpplr is widely acknowledged as one of the fastest growing, most innovative, and most liked solutions in our market.  ",
+              "url" : "https://www.simpplr.com/capterra-the-modern-intranet-software/?utm_campaign=intranet&utm_medium=ad&utm_content=destination"
+            },
+            {
+              "product_id" : 130533,
+              "seo_product_id" : 226015,
+              "seo_slug" : "Helpjuice",
+              "vendor_name" : "Helpjuice",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/0449d12b-2ac5-423a-9bc0-f1f29f044995.png",
+              "rating" : 4.7,
+              "total_reviews" : 79,
+              "slug" : "Helpjuice",
+              "product_name" : "Helpjuice",
+              "short_desc" : "Knowledge Base Software Designed To Reduce Support. Fully brandable, includes Analytics, Instant Intelligent Search, Multiple Languages",
+              "features" : "Helpjuice Is THE Knowledge Base Platform used by thousands of companies for both reducing support & sharing knowledge internally.  \r\n\r\n- Fully brandable, and we even help customize your knowledge base, to make it pixel perfect. Say goodbye to KBs that dont feel YOURS\r\n- Instant Intelligent Search brings up the RIGHT results the first time you type\r\n- Advanced Analytics give you the right insight into your KB & how to improve it\r\n- Other features include Multi-Lingual, SSO, Custom Domain, API",
+              "url" : "https://www.helpjuice.com/?utm_source=capterra&utm_medium=cpc&utm_campaign=links"
+            },
+            {
+              "product_id" : 141371,
+              "seo_product_id" : 221478,
+              "seo_slug" : "Staffbase",
+              "vendor_name" : "Staffbase",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8f38ebc7-7272-49cb-8b72-10f8743a9e97.png",
+              "rating" : 4.8,
+              "total_reviews" : 67,
+              "slug" : "Eyo-EmployeeApp",
+              "product_name" : "Staffbase",
+              "short_desc" : "Staffbase is the first intranet solution for everyone. Set a new standard for ease of use and accessibility in enterprise comms. ",
+              "features" : "Staffbase is the leading mobile-first employee communication and front door intranet for enterprise organizations. No matter where your people work, from the front line, to the warehouse, to the corner desk, give them a hub for employee communication, key resources and services. Our intranet features ready-to-go integrations for SharePoint and Microsoft 365, setting a new standard for ease of use and accessibility for teams 500 to 500,000 strong.",
+              "url" : "https://insights.staffbase.com/employee-intranet?utm_campaign=capterra+%7C+intranet&utm_source=capterra&utm_medium=ppc&utm_term=intranet"
+            },
+            {
+              "product_id" : 130784,
+              "seo_product_id" : 223027,
+              "seo_slug" : "Jostle",
+              "vendor_name" : "Jostle Corporation",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/c089623d-e4ef-44ec-a55f-1bffa9f5a792.png",
+              "rating" : 4.3,
+              "total_reviews" : 60,
+              "slug" : "Jostle",
+              "product_name" : "Jostle",
+              "short_desc" : "More than ever, we need a place to bring everyone together and help each person succeed. That's Jostle.",
+              "features" : "Intranets were great 20 years ago, but 90% fail today. Jostle's employee success platform is purpose-designed to help people connect, communicate, and celebrate together. With your whole organization in a single place, everyone can quickly find what they need, clarify what matters, and celebrate success. The result? Happier employees, lower turnover, and higher productivity. Join the 1000+ companies we've helped enjoy success, like ASOS, the University of Illinois, and Citizens Bank.",
+              "url" : "https://success.jostle.me/intranet-software?utm_source=capterra&utm_medium=ppc&utm_campaign=intranet"
+            },
+            {
+              "product_id" : 144958,
+              "seo_product_id" : 224598,
+              "seo_slug" : "ThoughtFarmer",
+              "vendor_name" : "ThoughtFarmer",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/b0743d98-2d30-4cf0-a483-7a2139d7cb2d.png",
+              "rating" : 4.8,
+              "total_reviews" : 48,
+              "slug" : "ThoughtFarmer",
+              "product_name" : "ThoughtFarmer",
+              "short_desc" : "ThoughtFarmer is a leading employee intranet that helps businesses create a personalized central hub to drive engagement and retention.",
+              "features" : "ThoughtFarmer is a leading employee intranet that streamlines internal communications, facilitates knowledge sharing, and enables collaboration - all within a secure environment. \n\nThoughtFarmer's mobile app, surveys, automated workflows, and content management, as well as integrations with Slack, Microsoft 365, Google, and Okta, help businesses create a personalized central hub that drives employee engagement and retention.",
+              "url" : "https://www.thoughtfarmer.com/gartner-software-review-demo-request-landing-page/?utm_campaign=Gartner%20Demo%20Request%20&utm_source=Intranet%20Category%20"
+            },
+            {
+              "product_id" : 147279,
+              "seo_product_id" : 221942,
+              "seo_slug" : "Hivebrite",
+              "vendor_name" : "Hivebrite",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/2c8f1a67-e7b3-44db-af26-4a6f7cfd2205.png",
+              "rating" : 4.5,
+              "total_reviews" : 48,
+              "slug" : "Hivebrite",
+              "product_name" : "Hivebrite",
+              "short_desc" : "Strengthen employee engagement and facilitate collaboration with Hivebrite's all-in-one community management platform.\r\n",
+              "features" : "Hivebrite is an all-in-one community management platform. \r\n\r\nConnect and engage employees throughout your organization with a private branded community. \r\n\r\nHivebrite's customizable SaaS platform offers best-in-class features to strengthen employee engagement, facilitate collaboration, and boost productivity.\r\n\r\nThe all-in-one platform is easy to set up, easy to use, and highly scalable.\r\n\r\nOver 500 clients worldwide use Hivebrite's intuitive platform to create and engage vibrant communities.",
+              "url" : "https://hivebrite.com/?utm_medium=cpc&utm_source=capterra&utm_campaign=gartner_listing_intranet_global___visitwebsite_cpc&utm_term=intranet"
+            },
+            {
+              "product_id" : 189555,
+              "seo_product_id" : 76190,
+              "seo_slug" : "Jive-n",
+              "vendor_name" : "Aurea",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/7826d30e-4640-49ae-81ba-87121dc77840.png",
+              "rating" : 4.0,
+              "total_reviews" : 47,
+              "slug" : "Jive",
+              "product_name" : "Jive",
+              "short_desc" : "Jive's Interactive Intranet software provides a single platform for corporate communication, employee engagement and collaboration.",
+              "features" : "Jive Interactive Intranet connects all your people, knowledge and content in a secure collaboration and communication hub across mobile and desktop devices. It's a one-stop-shop for corporate communications, employee engagement and high-performance teamwork. AI-powered PeopleGraph technology proactively connects employees with people and information they need to know. Jive's integrated, out-of-the-box solution reduces cost of ownership and enhances other applications, like Microsoft Office 365.",
+              "url" : "https://www.jivesoftware.com/intranet-platform/?utm_channel=paid%20directory&utm_source=capterra&utm_medium=cpc&utm_campaign=intranet"
+            }
+          ],
+          "similar_products" : [
+            {
+              "product_id" : 168748,
+              "seo_product_id" : 168748,
+              "seo_slug" : "Simpplr",
+              "vendor_name" : "Simpplr",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/ad127b09-1cde-40e7-9a29-cf3335b86bd5.png",
+              "rating" : 4.9,
+              "total_reviews" : 86,
+              "slug" : "Simpplr",
+              "product_name" : "Simpplr",
+              "short_desc" : "Simpplr provides employee experience software that helps companies connect & align employees. ",
+              "features" : "Simpplr provides employee experience software that helps companies connect & align employees. Simpplr's  platform helps provide better communication for a distributed world. \n\nSimpplr is headquartered in Redwood Shores, CA, with offices in the UK, Canada, and India, and is backed by Norwest Venture Partners, Salesforce Ventures, and Tola Capital. Simpplr is widely acknowledged as one of the fastest growing, most innovative, and most liked solutions in our market.  ",
+              "url" : "https://www.simpplr.com/capterra-the-modern-intranet-software/?utm_medium=ad"
+            },
+            {
+              "product_id" : 130784,
+              "seo_product_id" : 223027,
+              "seo_slug" : "Jostle",
+              "vendor_name" : "Jostle Corporation",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/c089623d-e4ef-44ec-a55f-1bffa9f5a792.png",
+              "rating" : 4.3,
+              "total_reviews" : 60,
+              "slug" : "Jostle",
+              "product_name" : "Jostle",
+              "short_desc" : "More than ever, we need a place to bring everyone together and help each person succeed. That's Jostle.",
+              "features" : "Intranets were great 20 years ago, but 90% fail today. Jostle's employee success platform is purpose-designed to help people connect, communicate, and celebrate together. With your whole organization in a single place, everyone can quickly find what they need, clarify what matters, and celebrate success. The result? Happier employees, lower turnover, and higher productivity. Join the 1000+ companies we've helped enjoy success, like ASOS, the University of Illinois, and Citizens Bank.",
+              "url" : "https://success.jostle.me/intranet-software?&utm_source=capterra&utm_medium=ppc&utm_campaign=intranet"
+            },
+            {
+              "product_id" : 144958,
+              "seo_product_id" : 224598,
+              "seo_slug" : "ThoughtFarmer",
+              "vendor_name" : "ThoughtFarmer",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/b0743d98-2d30-4cf0-a483-7a2139d7cb2d.png",
+              "rating" : 4.8,
+              "total_reviews" : 48,
+              "slug" : "ThoughtFarmer",
+              "product_name" : "ThoughtFarmer",
+              "short_desc" : "ThoughtFarmer is a leading employee intranet that helps businesses create a personalized central hub to drive engagement and retention.",
+              "features" : "ThoughtFarmer is a leading employee intranet that streamlines internal communications, facilitates knowledge sharing, and enables collaboration - all within a secure environment. \n\nThoughtFarmer's mobile app, surveys, automated workflows, and content management, as well as integrations with Slack, Microsoft 365, Google, and Okta, help businesses create a personalized central hub that drives employee engagement and retention.",
+              "url" : "https://www.thoughtfarmer.com/gartner-software-review-demo-request-landing-page/"
+            },
+            {
+              "product_id" : 129326,
+              "seo_product_id" : 223011,
+              "seo_slug" : "Communifire-by-Axero",
+              "vendor_name" : "Axero Solutions",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/c802a312-b11e-4c3b-ac43-142915e6c1f4.png",
+              "rating" : 4.5,
+              "total_reviews" : 43,
+              "slug" : "Axero",
+              "product_name" : "Axero",
+              "short_desc" : "Replace your outdated intranet software with Axero. 100% useful. 100% customizable. 100% loved by millions of people.",
+              "features" : "Times are changing and your intranet platform needs to adapt. Axero provides an award-winning intranet and employee experience platform. Axero's all-in-one platform provides companies an intranet that allows for communication, knowledge management, collaboration, task management, and development of their company culture. Our unified suite makes it easier than ever to launch modern intranets, employee hubs, enterprise portals & more. ",
+              "url" : "https://info.axerosolutions.com/capterra/intranet?utm_campaign=FY20--Capterra&utm_medium=Intranet"
+            },
+            {
+              "product_id" : 133947,
+              "seo_product_id" : 254147,
+              "seo_slug" : "Interact",
+              "vendor_name" : "Interact Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/87977078-b604-42f2-ba97-51fa6ce522b0.png",
+              "rating" : 4.6,
+              "total_reviews" : 37,
+              "slug" : "Interact-Intranet",
+              "product_name" : "Interact",
+              "short_desc" : "Enterprise intranet software trusted by Sony PlayStation, New York Life, Levi's, Domino's, Baptist Health, Zillow, and AT&T.",
+              "features" : "Interact supplies over 1,000 organizations with an award-winning employee experience platform that boosts productivity and drives engagement.  \n\nThrough enterprise-grade intranet software and decades of expertise, Interact provides Fortune 500, FTSE 250, and globally recognized brands such as Levi's, Domino's, Teva Pharmaceuticals, and Sony PlayStation, with a powerful way to inform and connect their greatest asset: their people.",
+              "url" : "https://go.interactsoftware.com/homepage/gartnerd"
+            },
+            {
+              "product_id" : 169555,
+              "seo_product_id" : 169555,
+              "seo_slug" : "LumApps",
+              "vendor_name" : "LumApps",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/b0e3692b-be95-4f91-9919-08286fef2f58.png",
+              "rating" : 4.2,
+              "total_reviews" : 38,
+              "slug" : "LumApps",
+              "product_name" : "LumApps ",
+              "short_desc" : "LumApps is an Employee Experience SaaS platform, helping companies in all industries improve their communications. Let's get in touch!",
+              "features" : "LumApps is a leading Employee Experience SaaS Platform for enterprise organizations to unify the modern workforce through better communication, engagement, and instant access to information. Integrated with Google Workspace and Microsoft 365, LumApps intelligently connects people, information, and business applications to empower employees and enhance productivity. The product tailors each experience to the unique needs of the employee, from executives and managers to frontline workers. ",
+              "url" : "https://info.gartnerdigitalmarkets.com/lumapps-gdm-lp/"
+            },
+            {
+              "product_id" : 84689,
+              "seo_product_id" : 152363,
+              "seo_slug" : "Igloo-Software",
+              "vendor_name" : "Igloo Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/0f657430-bd1f-4cca-8ee2-5ad6ae336b21.png",
+              "rating" : 4.6,
+              "total_reviews" : 37,
+              "slug" : "Igloo-Software",
+              "product_name" : "Igloo",
+              "short_desc" : "Move beyond your intranet. Igloo is a multi-channel communication platform for internal discovery.",
+              "features" : "Switch to a cutting-edge intranet to deliver a better employee experience and build a silo-free culture. Igloo's next-gen intranet solutions are designed for internal communications and discovery, but they'll also help your entire workforce (from 500 to 5,000+) get more from the tools they rely on for collaboration and knowledge management too, like Microsoft Teams and SharePoint. And analysts and community managers praise Igloo's customer support - from the minute you get started onward.",
+              "url" : "https://resources.igloosoftware.com/the-best-company-intranet/?utm_source=capterra&utm_medium=reviewsite&utm_campaign=discovery-platform-links&sfdc_campaign_id=7010g000001ggQZAAY&lmr=3rd-party"
+            },
+            {
+              "product_id" : 131501,
+              "seo_product_id" : 221150,
+              "seo_slug" : "Bloomfire",
+              "vendor_name" : "Bloomfire",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/814f83e8-8823-4d0b-9052-68a3ccfa0103.png",
+              "rating" : 4.3,
+              "total_reviews" : 200,
+              "slug" : "Bloomfire",
+              "product_name" : "Bloomfire",
+              "short_desc" : "Knowledge engagement software enabling teams to access, collaborate across, and draw upon their organizations collective intelligence.",
+              "features" : "Bloomfire is the leader in knowledge engagement, delivering an experience that connects teams and individuals with the information they need to excel at their jobs. Our cloud-based knowledge engagement platform gives people one centralized, searchable place to engage with shared knowledge and grow their organizations collective intelligence. For more information or to schedule a demo, visit www.bloomfire.com.",
+              "url" : "https://go.bloomfire.com/gs1-capterra/?utm_source=capterra&utm_medium=cpc&utm_campaign=knowledgemanagement"
+            },
+            {
+              "product_id" : 83430,
+              "seo_product_id" : 83430,
+              "seo_slug" : "Claromentis-Intranet",
+              "vendor_name" : "Claromentis",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8b28cb4e-5be5-41d1-ae01-cf2259b57745.png",
+              "rating" : 4.6,
+              "total_reviews" : 24,
+              "slug" : "Claromentis-Intranet",
+              "product_name" : "Claromentis",
+              "short_desc" : "Give staff a workplace to call home. Access every app, share information, and collaborate in one central intranet.",
+              "features" : "Give teams a workplace to call home with our feature-rich, beautifully designed intranet software. \n\nOur interactive business platform provides your organisation with a one-stop shop for sharing information, boosting productivity, connecting staff, and collaborating. \n\nBenefit from our 20 years of intranet expertise: we've built, designed, and deployed intranets for global organisations both large and small, supporting companies in every industry imaginable.",
+              "url" : "https://www.claromentis.com/capterra-portal-software/?utm_campaign=Capterra%20Referrals&utm_source=Referrals&utm_medium=Referrals&utm_term=Capterra"
+            },
+            {
+              "product_id" : 148496,
+              "seo_product_id" : 212138,
+              "seo_slug" : "MyHub",
+              "vendor_name" : "MyHub Intranet Solutions",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/28271723-941f-4e3b-8432-61ab114002ec.png",
+              "rating" : 4.8,
+              "total_reviews" : 36,
+              "slug" : "MyHub",
+              "product_name" : "MyHub",
+              "short_desc" : "Quickly create a beautiful intranet that will transform the way employees connect to information, processes, and each other. \n",
+              "features" : "Quickly create a beautiful intranet that will transform the way employees connect to information, processes, and each other. With MyHub, benefit from modern intranet features such as pre-built templates, chat, newsfeeds, forums, blogs, calendars, document storage, automated forms, social network, staff directories, alerts and notifications.",
+              "url" : "https://www.myhubintranet.com/?utm_medium=cpc"
+            },
+            {
+              "product_id" : 17115,
+              "seo_product_id" : 17115,
+              "seo_slug" : "IC-Thrive",
+              "vendor_name" : "Intranet Connections",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/865f4fa4-8953-458c-ad9e-9a4871e3d424.png",
+              "rating" : 4.7,
+              "total_reviews" : 38,
+              "slug" : "IC-Thrive",
+              "product_name" : "Intranet Connections",
+              "short_desc" : "Our intranet software helps you access and share company files and improve employee engagement and productivity.",
+              "features" : "Connect your employees to the right information at the right time and see productivity, employee morale, and collaboration skyrocket with our intranet software. \n\nWith 20 years of experience in building thriving workplaces for hundreds of organizations such as NASA, The Chicago White Sox, and the District of West Vancouver, our intranet supports teams by acting as your \"single source of truth\". \n\nRequest a demo to see how our intranet can help you achieve your organizational goals!",
+              "url" : "https://resources.intranetconnections.com/ic-intranet-software/capterra"
+            },
+            {
+              "product_id" : 67088,
+              "seo_product_id" : 222514,
+              "seo_slug" : "Noodle",
+              "vendor_name" : "Vialect",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/877e0ddf-c2dc-4380-8218-375e6e11b611.png",
+              "rating" : 4.4,
+              "total_reviews" : 31,
+              "slug" : "Noodle",
+              "product_name" : "Noodle",
+              "short_desc" : "Single sign-on team collaboration software with document, data, and video conferencing available as Cloud or On Premise product.",
+              "features" : "Your Intranet Search is Over.  Noodle provides a wide array of functionality for a single corporate intranet portal solution. File Sharing, Wiki Pages & Portals, Manage People & Groups, Create Forms & Databases, Start an enterprise social network, Use Instant Messaging within the enterprise.  Noodle is an enterprise application.  Visit website for a FREE 30 DAY Demo",
+              "url" : "https://vialect.com/?from=Capterra"
+            },
+            {
+              "product_id" : 201794,
+              "seo_product_id" : 220823,
+              "seo_slug" : "Workvivo",
+              "vendor_name" : "Workvivo",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/db680fb2-8696-4b52-acf2-bba144f9bcbe.png",
+              "rating" : 4.7,
+              "total_reviews" : 114,
+              "slug" : "Workvivo",
+              "product_name" : "Workvivo",
+              "short_desc" : "Workvivo's employee experience app gives you your entire company in your pocket",
+              "features" : "\n\"Company intranets are great.\" - Nobody. Your people deserve a modern employee experience app they'd love to use instead of those clunky intranets. \n\nKeep your people connected in Workvivo, the smart alternative to old-fashioned intranets. \n\nWorkvivo's employee experience app is different.\nIt provides a familiar social experience that motivates people to communicate with their peers and keeps them coming back for more. \n\nSee how it works in 60 seconds.\n",
+              "url" : "https://www.workvivo.com/lp/internal-comms/?utm_source=GartnerDigital&utm_medium=Referral&utm_campaign=Review_Marketplace"
+            }
+          ],
+          "related_categories" : [
+            {
+              "functional_group" : "intranet",
+              "long_name" : "Collaboration",
+              "html_name" : "collaboration-software",
+              "link_name" : "collaboration",
+              "product_count" : 306,
+              "meta_description" : "Find and compare top Collaboration software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Collaboration tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs.",
+              "description" : "<a href=\"/collaboration-software/\">Collaboration software</a> enables the sharing of information by providing an online or intranet-based environment for virtual teamwork.  These applications allow for greater efficiency in managing document libraries and versions, projects in progress, report editing, threaded discussions, calendar sharing, knowledge base search, workflow and task management. Collaboration solutions often feature integration for a variety of real-time communications tools including:  video or voice conferencing, email and instant messaging.  <a href=\"/collaboration-software/\">Collaboration software</a> is related to <a href=\"/project-management-software\">Project Management software</a> and <a href=\"/web-conferencing-software\">Web Conferencing software</a>."
+            },
+            {
+              "functional_group" : "intranet",
+              "long_name" : "Community",
+              "html_name" : "community-software",
+              "link_name" : "community",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Community software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Community tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs.",
+              "description" : "Community software allows businesses to connect with their customers by creating a space for sharing ideas, collecting opinions, storing Q&A data, and interacting with fellow customers and business representatives."
+            },
+            {
+              "functional_group" : "intranet",
+              "long_name" : "Employee Engagement",
+              "html_name" : "employee-engagement-software",
+              "link_name" : "employee-engagement",
+              "product_count" : null,
+              "meta_description" : "Find and compare top Employee Engagement software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Employee Engagement tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "Employee Engagement software aims to assist managers with maintaining employee awareness of corporate culture and increasing their level of investment in the company. Employee surveys, gamification tools, team sentiment analytics, and applications that streamline communication are all represented."
+            },
+            {
+              "functional_group" : "intranet",
+              "long_name" : "Portal",
+              "html_name" : "portal-software",
+              "link_name" : "portal",
+              "product_count" : 137,
+              "meta_description" : "Find and compare top Portal software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Portal tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/portal-software\">Portal software</a> provides a secure, common gateway to enterprise data and applications, enabling greater efficiency and range for business-to-business, business-to-internal and business-to-consumer transactions in both self-service and on-demand environments.  Portal applications typically feature robust content management systems (CMS) allowing the distribution and presentation of key data throughout an enterprise, as well as collaborative work and document synchronization features.  Portal solutions also provide integration to external database resources, <a href=\"/sales-force-automation-software\">sales</a> and <a href=\"/customer-relationship-management-software\">CRM</a> tools and a variety of management reporting features.  <a href=\"/portal-software\">Portal software</a> is related to <a href=\"/catalog-management-software\">Catalog Management software</a>, <a href=\"/content-management-software\">Content Management software</a>, <a href=\"/knowledge-management-software\">Knowledge Management software</a> and <a href=\"/web-collaboration-software\">Web Collaboration software</a>."
+            },
+            {
+              "functional_group" : "intranet",
+              "long_name" : "Social Networking",
+              "html_name" : "social-networking-software",
+              "link_name" : "social-networking",
+              "product_count" : 132,
+              "meta_description" : "Find and compare top Social Networking software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Social Networking tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/social-networking-software\">Social Networking software</a> supports customer interactions with one another as well as with the organization.  Search Engine optimization, blogging, podcasting, newsletters, profile pages, message boards, viral content and membership directories are all <a href=\"/social-networking-software\">Social Networking software</a> features, which can increase web-traffic, visibility, and interactivity for companies with a web presence.  <a href=\"/social-networking-software\">Social Networking</a> is related to <a href=\"/contact-management-software\">Contact Management software</a>, <a href=\"/content-management-software\">Content Management software</a>, <a href=\"/membership-management-software\">Membership Management software</a>, and <a href=\"/portal-software\">Portal software</a>."
+            }
+          ],
+          "is_upgraded" : false,
+          "enabled" : true,
+          "filter_options" : {
+            "users" : 120,
+            "platform" : 975,
+            "pricing_options" : 18,
+            "category_related_features" : [
+              26830,
+              26835,
+              26836,
+              26837,
+              53500,
+              53504,
+              53505,
+              53508,
+              53512,
+              53514,
+              53515,
+              53516,
+              53519,
+              53520,
+              53521,
+              53522,
+              53525,
+              53526,
+              53528,
+              53530,
+              53532,
+              53535,
+              53536,
+              53537
+            ],
+            "employees" : 126
+          },
+          "sort_options" : {
+            "sort_review_rating" : 4.499674320220947,
+            "most_recent_review" : "2022-09-09T18:17:43Z"
+          },
+          "countries" : "CA,US,UK,AU,NL",
+          "features_tokenized_text" : "activity/news_feed blogs content_management discussions_/_forums",
+          "platform_tokenized_text" : "cloud,saas,web-based desktopmac desktopwindows desktoplinux desktopchromebook mobileandroid mobileiphone mobileipad",
+          "users_tokenized_text" : "51-200 201-500 501-1000 1000+",
+          "pricing_tokenized_text" : "monthlysubscription freetrial",
+          "badges" : [ ],
+          "bid_spot_us" : 0.0,
+          "currency_code" : "USD",
+          "currency_symbol" : "$",
+          "credit_card_required" : "Yes",
+          "licensing_model" : "Proprietary",
+          "open_api_offered" : "No",
+          "mobile_urls" : [
+            {
+              "name" : "Android",
+              "url" : "https://play.google.com/store/apps/details?id=com.honeycommb.honeycommb"
+            },
+            {
+              "name" : "iOS",
+              "url" : "https://apps.apple.com/us/app/honeycommb/id1173922712"
+            }
+          ],
+          "integrations" : [
+            {
+              "id" : "5f3f5b66-bcb7-458e-836e-a6d200b2b406",
+              "name" : "Amplitude"
+            },
+            {
+              "id" : "ff8cc380-8bfb-4161-b5d9-a6d200b68846",
+              "name" : "Shopify"
+            },
+            {
+              "id" : "acd3d8e9-692e-42e2-9b10-a6d200b5f2c4",
+              "name" : "Provide Support"
+            },
+            {
+              "id" : "d96b7b2d-d086-417b-a6a3-a6d200b5007d",
+              "name" : "Mailchimp"
+            },
+            {
+              "id" : "3ecee0e7-8233-490b-858c-a6d200b7a22f",
+              "name" : "Zapier"
+            },
+            {
+              "id" : "e7f6e647-cd6d-4832-9c53-220475dc6d9a",
+              "name" : "Facebook Business Suite"
+            },
+            {
+              "id" : "e7b8f7ee-43d5-409a-90e8-a6d200b7e1c5",
+              "name" : "Notion"
+            }
+          ],
+          "supported_countries" : [
+            {
+              "id" : 235,
+              "code" : "GB",
+              "name" : "United Kingdom of Great Britain and Northern Ireland"
+            },
+            {
+              "id" : 84,
+              "code" : "DE",
+              "name" : "Germany"
+            },
+            {
+              "id" : 14,
+              "code" : "AU",
+              "name" : "Australia"
+            },
+            {
+              "id" : 237,
+              "code" : "US",
+              "name" : "United States of America"
+            },
+            {
+              "id" : 41,
+              "code" : "CA",
+              "name" : "Canada"
+            }
+          ],
+          "supported_languages" : [
+            {
+              "id" : 152,
+              "code" : "en",
+              "name" : "English",
+              "location" : null
+            },
+            {
+              "id" : 348,
+              "code" : "de",
+              "name" : "German",
+              "location" : null
+            },
+            {
+              "id" : 396,
+              "code" : "it",
+              "name" : "Italian",
+              "location" : null
+            },
+            {
+              "id" : 401,
+              "code" : "ja",
+              "name" : "Japanese",
+              "location" : null
+            },
+            {
+              "id" : 684,
+              "code" : "es",
+              "name" : "Spanish",
+              "location" : null
+            }
+          ],
+          "target_industries" : [
+            {
+              "id" : 68,
+              "code" : "6",
+              "name" : "Internet"
+            },
+            {
+              "id" : 126,
+              "code" : "27",
+              "name" : "Retail"
+            },
+            {
+              "id" : 64,
+              "code" : "96",
+              "name" : "Information Technology and Services"
+            },
+            {
+              "id" : 94,
+              "code" : "115",
+              "name" : "Music"
+            },
+            {
+              "id" : 34,
+              "code" : "69",
+              "name" : "Education Management"
+            },
+            {
+              "id" : 57,
+              "code" : "14",
+              "name" : "Hospital & Health Care"
+            },
+            {
+              "id" : 99,
+              "code" : "113",
+              "name" : "Online Media"
+            },
+            {
+              "id" : 4,
+              "code" : "125",
+              "name" : "Alternative Medicine"
+            },
+            {
+              "id" : 6,
+              "code" : "19",
+              "name" : "Apparel & Fashion"
+            },
+            {
+              "id" : 11,
+              "code" : "41",
+              "name" : "Banking"
+            },
+            {
+              "id" : 13,
+              "code" : "36",
+              "name" : "Broadcast Media"
+            },
+            {
+              "id" : 79,
+              "code" : "143",
+              "name" : "Luxury Goods & Jewelry"
+            },
+            {
+              "id" : 83,
+              "code" : "97",
+              "name" : "Market Research"
+            },
+            {
+              "id" : 84,
+              "code" : "80",
+              "name" : "Marketing and Advertising"
+            },
+            {
+              "id" : 86,
+              "code" : "126",
+              "name" : "Media Production"
+            },
+            {
+              "id" : 89,
+              "code" : "139",
+              "name" : "Mental Health Care"
+            },
+            {
+              "id" : 90,
+              "code" : "71",
+              "name" : "Military"
+            },
+            {
+              "id" : 112,
+              "code" : "105",
+              "name" : "Professional Training & Coaching"
+            },
+            {
+              "id" : 116,
+              "code" : "78",
+              "name" : "Public Safety"
+            },
+            {
+              "id" : 16,
+              "code" : "129",
+              "name" : "Capital Markets"
+            },
+            {
+              "id" : 27,
+              "code" : "24",
+              "name" : "Consumer Electronics"
+            },
+            {
+              "id" : 28,
+              "code" : "25",
+              "name" : "Consumer Goods"
+            },
+            {
+              "id" : 29,
+              "code" : "91",
+              "name" : "Consumer Services"
+            },
+            {
+              "id" : 30,
+              "code" : "18",
+              "name" : "Cosmetics"
+            },
+            {
+              "id" : 35,
+              "code" : "132",
+              "name" : "E-Learning"
+            },
+            {
+              "id" : 55,
+              "code" : "124",
+              "name" : "Health, Wellness and Fitness"
+            },
+            {
+              "id" : 56,
+              "code" : "68",
+              "name" : "Higher Education"
+            },
+            {
+              "id" : 58,
+              "code" : "31",
+              "name" : "Hospitality"
+            },
+            {
+              "id" : 59,
+              "code" : "137",
+              "name" : "Human Resources"
+            },
+            {
+              "id" : 122,
+              "code" : "89",
+              "name" : "Religious Institutions"
+            },
+            {
+              "id" : 132,
+              "code" : "104",
+              "name" : "Staffing and Recruiting"
+            },
+            {
+              "id" : 134,
+              "code" : "8",
+              "name" : "Telecommunications"
+            },
+            {
+              "id" : 97,
+              "code" : "100",
+              "name" : "Non-Profit Organization Management"
+            },
+            {
+              "id" : 43,
+              "code" : "43",
+              "name" : "Financial Services"
+            },
+            {
+              "id" : 115,
+              "code" : "98",
+              "name" : "Public Relations and Communications"
+            }
+          ],
+          "price_range_id" : 1,
+          "aggregated_review_ratings" : {
+            "industry" : {
+              "96" : 5.0,
+              "47" : 5.0,
+              "33" : 4.5,
+              "27" : 4.0,
+              "113" : 3.5,
+              "106" : 5.0,
+              "82" : 5.0,
+              "115" : 5.0,
+              "90" : 5.0,
+              "100" : 3.0,
+              "132" : 5.0,
+              "80" : 4.6,
+              "111" : 5.0,
+              "14" : 5.0,
+              "69" : 4.5,
+              "68" : 5.0,
+              "91" : 5.0,
+              "11" : 5.0
+            },
+            "company_size" : {
+              "Self-employed" : 5.0,
+              "201-500 employees" : 5.0,
+              "51-200 employees" : 4.5,
+              "5001-10,000 employees" : 5.0,
+              "1-10 employees" : 4.5,
+              "11-50 employees" : 4.67,
+              "10,001+ employees" : 5.0
+            }
+          },
+          "vct_enabled" : false,
+          "pricing_plans" : [
+            {
+              "created_on_utc" : "2019-08-21T14:47:39Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Web App",
+              "description" : "This is a web-app solution only plan starting at $89.",
+              "display_order" : 1,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 89.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "Activity Feed"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "Content Discovery"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Custom Profiles"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "Direct Messaging"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 5,
+                  "name" : "Group Chat Room"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 6,
+                  "name" : "Groups"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 7,
+                  "name" : "Live Streaming"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 8,
+                  "name" : "Personalized Home Feed"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 9,
+                  "name" : "Post Creation"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 10,
+                  "name" : "Unlimited Administrators"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 11,
+                  "name" : "Weekly Insights Report"
+                }
+              ]
+            },
+            {
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Full Suite ",
+              "description" : "This is a complete web and mobile app solution plan starting at $300.",
+              "display_order" : 2,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 300.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "Content Discovery"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Custom Profiles"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "Direct Messaging"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 5,
+                  "name" : "Group Chat Room"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 6,
+                  "name" : "Groups"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 7,
+                  "name" : "Live Streaming"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 8,
+                  "name" : "Personalized Home Feed"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 9,
+                  "name" : "Post Creation"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 10,
+                  "name" : "Unlimited Administrators"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 11,
+                  "name" : "Weekly Insights Report"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "Activity Feed"
+                }
+              ]
+            }
+          ],
+          "discount_types" : [
+            {
+              "name" : "Custom",
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

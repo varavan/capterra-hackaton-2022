@@ -1,0 +1,4292 @@
+{
+  "took" : 3,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 3,
+    "successful" : 3,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : {
+      "value" : 2,
+      "relation" : "eq"
+    },
+    "max_score" : 10.277467,
+    "hits" : [
+      {
+        "_index" : "product_listings_main_data_upc_vt20220920_043802_utc",
+        "_type" : "_doc",
+        "_id" : "169199_barcoding",
+        "_score" : 10.277467,
+        "_source" : {
+          "product_id" : 169199,
+          "seo_product_id" : 224401,
+          "seo_slug" : "Sortly",
+          "product_name" : "Sortly",
+          "upc_product_uuid" : "5265d66a-0219-49e7-b573-a82400584160",
+          "old_product_ids" : [
+            224401
+          ],
+          "product_url" : "http://www.sortly.com",
+          "product_slug" : "Sortly-Pro",
+          "former_name" : "Sortly Pro",
+          "logo_filepath" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/83709120-d0af-4703-b279-a30596b345a5.png",
+          "vendor" : {
+            "vendor_id" : 2117606,
+            "vendor_name" : "Sortly",
+            "vendor_url" : "http://www.sortly.com",
+            "year_founded" : 2013,
+            "location" : "United States",
+            "vendor_opted_out_of_reviews" : true,
+            "is_opted_out_of_reviews" : false,
+            "is_hit_limit" : false,
+            "enabled" : true,
+            "has_vendor_level_page" : false,
+            "slug" : null,
+            "vendor_page" : false,
+            "paused_campaign" : false
+          },
+          "category_short_name" : "barcoding",
+          "category_html_name" : "barcoding-software",
+          "category" : {
+            "id" : 10051,
+            "short_name" : "barcoding",
+            "long_name" : "Barcoding",
+            "html_name" : "barcoding-software",
+            "enabled" : true
+          },
+          "best_category" : "barcoding",
+          "is_best_category" : true,
+          "highest_cpc_category" : "scmxinv",
+          "is_highest_cpc_category" : false,
+          "short_desc" : "The industry's simplest (mobile friendly) Inventory and asset tracking system. Trusted by 1000's of businesses. Get it for free today!",
+          "long_desc" : "Sortly is a super simple inventory and asset tracking system to VISUALLY track your items and their details including location, price, condition etc for a more intuitive (and less maddening) way to track your items. Get started for free today.\r\n\r\nKey Features: \r\n- Access via Computer (web), Tablet or Smartphone\r\n- Give team members or customer access \r\n- Create or connect to any barcodes or QR codes\r\n- Check in/out items with in-built scanner\r\n- Get Alerts and Reminders",
+          "rating" : 4.3,
+          "number_of_reviews" : 81,
+          "total_reviews" : 81,
+          "ease_of_use_rating" : 4.4,
+          "customer_support_rating" : 4.2,
+          "functionality_rating" : 4.1,
+          "value_for_money_rating" : 4.1,
+          "recommendation_rating" : 8.1,
+          "pricing_enabled" : true,
+          "pricing" : 0.0,
+          "is_per_user" : false,
+          "fee_schedule" : "Per-Month",
+          "pricing_model" : "Flat Rate",
+          "pricing_details" : "Free plan $0/month\r\nAdvanced plan $39/month \r\nUltra plan $99/month",
+          "pricing_created_on" : "2019-08-21T14:47:39Z",
+          "pricing_modified_on" : "2022-06-23T14:42:33Z",
+          "pricing_created_by" : null,
+          "pricing_modified_by" : null,
+          "pricing_vendor_pricing_url" : "https://www.sortly.com/pricing/",
+          "free_trial" : true,
+          "free_version" : true,
+          "target_audience" : "We built Sortly to simplify inventory for every kind of business - Whether you lend out items to employees, sell inventory to customers or just need to keep tabs on your stuff being used.",
+          "target_users" : [
+            "1",
+            "2-10",
+            "11-50",
+            "51-200",
+            "201-500",
+            "501-1000"
+          ],
+          "platform" : [
+            {
+              "enabled" : true,
+              "name" : "Cloud, SaaS, Web-Based"
+            },
+            {
+              "enabled" : true,
+              "name" : "Desktop Mac"
+            },
+            {
+              "enabled" : true,
+              "name" : "Desktop Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Chromebook"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile Android"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPhone"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPad"
+            }
+          ],
+          "support" : [
+            {
+              "enabled" : true,
+              "name" : "Email Help Desk"
+            },
+            {
+              "enabled" : true,
+              "name" : "FAQ Forum"
+            },
+            {
+              "enabled" : true,
+              "name" : "Knowledgebase"
+            },
+            {
+              "enabled" : false,
+              "name" : "Phone Support"
+            },
+            {
+              "enabled" : false,
+              "name" : "24/7 Live Rep"
+            },
+            {
+              "enabled" : true,
+              "name" : "Chat"
+            }
+          ],
+          "training" : [
+            {
+              "enabled" : false,
+              "name" : "Not Offered"
+            },
+            {
+              "enabled" : true,
+              "name" : "In-Person"
+            },
+            {
+              "enabled" : true,
+              "name" : "Live Online"
+            },
+            {
+              "enabled" : true,
+              "name" : "Webinars"
+            },
+            {
+              "enabled" : true,
+              "name" : "Documentation"
+            },
+            {
+              "enabled" : true,
+              "name" : "Videos"
+            }
+          ],
+          "media" : [
+            {
+              "product_id" : 169199,
+              "vendor_id" : 2117606,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/60445487-8305-4f47-9a86-a7e0d75d550a.png",
+              "caption" : "Multi-Platform System",
+              "weight" : 1,
+              "short_name" : "barcoding"
+            },
+            {
+              "product_id" : 169199,
+              "vendor_id" : 2117606,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/7d706722-0e6a-462a-b58a-481a5e8db901.png",
+              "caption" : "Dashboards",
+              "weight" : 2,
+              "short_name" : "barcoding"
+            },
+            {
+              "product_id" : 169199,
+              "vendor_id" : 2117606,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/daae97eb-0355-4c30-9175-7f125f503ba4.png",
+              "caption" : "Quick Action Scanner",
+              "weight" : 3,
+              "short_name" : "barcoding"
+            },
+            {
+              "product_id" : 169199,
+              "vendor_id" : 2117606,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/b2be8e12-f5fa-4a30-90a5-0a784c887d56.png",
+              "caption" : "Visual and Intiutive",
+              "weight" : 4,
+              "short_name" : "barcoding"
+            },
+            {
+              "product_id" : 169199,
+              "vendor_id" : 2117606,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/c98426de-3f7a-4dec-af35-44019d186136.png",
+              "caption" : "Reporting Capabilities",
+              "weight" : 5,
+              "short_name" : "barcoding"
+            },
+            {
+              "product_id" : 169199,
+              "vendor_id" : 2117606,
+              "media_type" : "VIDEO",
+              "path_url" : "https://youtu.be/hAMqKRpSlec",
+              "caption" : null,
+              "weight" : 0,
+              "short_name" : "barcoding"
+            }
+          ],
+          "links" : [
+            {
+              "product_id" : 169199,
+              "functional_group" : "barcoding",
+              "html_code" : "https://app.sortly.com/registration?plan=advanced&trial=true&interval=month",
+              "link_name" : "Free Trial",
+              "link_priority" : 1.0
+            },
+            {
+              "product_id" : 169199,
+              "functional_group" : "barcoding",
+              "html_code" : "http://www.sortly.com/pricing/",
+              "link_name" : "Pricing",
+              "link_priority" : 3.0
+            }
+          ],
+          "features" : [
+            {
+              "category_name" : "Barcoding",
+              "category_features" : [
+                {
+                  "name" : "Barcode / Ticket Scanning",
+                  "value" : true,
+                  "id" : "62b94c17-29ff-47eb-92e1-242d6f3c04be",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "The ability to scan barcodes to ensure accurate pricing and label tracking "
+                },
+                {
+                  "name" : "Barcoding/RFID",
+                  "value" : true,
+                  "id" : "3a5789df-cab6-42d7-bf9c-1738cdee369f",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Create unique barcodes that tie to a specific product(s) in order to track inventory "
+                },
+                {
+                  "name" : "Barcoding/RFID",
+                  "value" : true,
+                  "id" : "3a5789df-cab6-42d7-bf9c-1738cdee369f",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Identify and track items using barcode tags or RFID (radio-frequency identification) tags that contain electronically-stored data "
+                },
+                {
+                  "name" : "Customization",
+                  "value" : true,
+                  "id" : "084d71dc-d683-4bbe-aa37-1f547c3f756f",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Create labels for products that contain required information such as colors, sizes, dates, etc."
+                },
+                {
+                  "name" : "Inventory Management",
+                  "value" : true,
+                  "id" : "80f46038-6ae8-4725-8064-788b20380eeb",
+                  "avg_rating" : 1.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track and manage the quantity of resources on hand to maintain proper supply"
+                },
+                {
+                  "name" : "Label Templates",
+                  "value" : true,
+                  "id" : "7782a997-279a-4169-bc00-70f83ceccf68",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Premade examples and templates for labels "
+                },
+                {
+                  "name" : "Receiving Labels",
+                  "value" : false,
+                  "id" : "b89b3cc0-cde7-40d4-ac3f-f1ae84b73c53",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Labels used to alert warehouses of any pertinent information before workers scan or unpack the product"
+                },
+                {
+                  "name" : "Serial Number Tracking",
+                  "value" : true,
+                  "id" : "240a9947-1095-46c7-907f-c19d1f491dfd",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Allows users to assign specific serial numbers to products and track them "
+                },
+                {
+                  "name" : "Shipping Labels",
+                  "value" : false,
+                  "id" : "5b032361-799e-4d6c-92d7-ceee2448b935",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Alerts transporters and recipients to any special instructions for carrying or unpacking a product"
+                }
+              ]
+            },
+            {
+              "category_name" : "Asset Tracking",
+              "category_features" : [
+                {
+                  "name" : "Activity Tracking",
+                  "value" : true,
+                  "id" : "d5e0cbd2-ae88-477a-beac-989ac5815e69",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Monitor and track project related activities based on various metrics"
+                },
+                {
+                  "name" : "Asset Lifecycle Management",
+                  "value" : false,
+                  "id" : "0aae4944-d72b-4263-85e4-eeaed7c7ded7",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Asset Tracking",
+                  "value" : true,
+                  "id" : "7a68e3da-4795-4a26-8f60-a10726bd67bf",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Audit Trail",
+                  "value" : true,
+                  "id" : "554b6509-32cb-41ed-a6ae-7571e49eb6e5",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track changes and view date/time records"
+                },
+                {
+                  "name" : "Barcoding/RFID",
+                  "value" : true,
+                  "id" : "3a5789df-cab6-42d7-bf9c-1738cdee369f",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Identify and track items using barcode tags or RFID (radio-frequency identification) tags that contain electronically-stored data"
+                },
+                {
+                  "name" : "Check-in/Check-out",
+                  "value" : true,
+                  "id" : "578adffb-94a9-4988-9785-00623cfe985c",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track the status of assets and whether they're checked in or out"
+                },
+                {
+                  "name" : "Contract/License Management",
+                  "value" : false,
+                  "id" : "efd314c0-e308-412f-9ff3-8bd8745c3096",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Track, store, and access client/customer contracts"
+                },
+                {
+                  "name" : "Depreciation Management",
+                  "value" : false,
+                  "id" : "34807543-eab9-4c41-8488-b8f4d9196d00",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Track and manage the decline in value of assets and plan for improvements"
+                },
+                {
+                  "name" : "Disposal Management",
+                  "value" : false,
+                  "id" : "a5cf777c-d363-4a07-a01e-2eeacdde3b4b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Plan when and how to dispose of outdated or decommissioned assets"
+                },
+                {
+                  "name" : "Inventory Management",
+                  "value" : true,
+                  "id" : "80f46038-6ae8-4725-8064-788b20380eeb",
+                  "avg_rating" : 1.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Track and manage the quantity of resources on hand to maintain proper supply"
+                },
+                {
+                  "name" : "Location Tracking",
+                  "value" : true,
+                  "id" : "43a8a0af-5070-440b-a81d-15dd80d88290",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Identify an individual's or an asset's location at any given point in time"
+                },
+                {
+                  "name" : "Maintenance Management",
+                  "value" : false,
+                  "id" : "73ed8cb7-a67f-4a46-8acb-4fd73409c5e8",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Assess and plan maintenance operations and updates to ensure longevity of physical assets"
+                },
+                {
+                  "name" : "Mobile Access",
+                  "value" : true,
+                  "id" : "15d49235-ad13-4d33-b009-edd50126375b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Reporting/Analytics",
+                  "value" : true,
+                  "id" : "b0c186d0-0194-4300-abba-ca3bc2474bbe",
+                  "avg_rating" : 1.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Assemble and deliver relevant data points"
+                },
+                {
+                  "name" : "Reservations Management",
+                  "value" : false,
+                  "id" : "2c5a8d06-ebae-4893-9c73-faf509f507a7",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Create and manage reservations"
+                },
+                {
+                  "name" : "User Management",
+                  "value" : true,
+                  "id" : "135561a5-b3a2-4b0d-a827-61ef76b5b523",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                }
+              ]
+            },
+            {
+              "category_name" : "IT Asset Management",
+              "category_features" : [
+                {
+                  "name" : "Audit Management",
+                  "value" : true,
+                  "id" : "f8952cde-adc7-4255-a812-5636017723f5",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Plan, schedule and execute organization's accounts and assets to ensure they all comply with policies, laws, and requirements. "
+                },
+                {
+                  "name" : "Compliance Tracking",
+                  "value" : false,
+                  "id" : "df98f62c-bd57-46a4-a436-d7c05622345d",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Track business operations to ensure they are performed correctly and according to industry regulations"
+                },
+                {
+                  "name" : "Configuration Management",
+                  "value" : false,
+                  "id" : "528fda03-a785-4d14-bc68-9176e0c2e89a",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Identify and maintain components (i.e. servers, configuration information, software, etc.) and their relationships across all service"
+                },
+                {
+                  "name" : "Contract/License Management",
+                  "value" : false,
+                  "id" : "efd314c0-e308-412f-9ff3-8bd8745c3096",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Track, store, and maintain contracts/licenses that come with procured products or services to ensure they are adhered to"
+                },
+                {
+                  "name" : "Cost Tracking",
+                  "value" : false,
+                  "id" : "dbe00040-26b9-417e-a04b-7886b914b6fd",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Record and monitor cost related information of assets (i.e. budget for assets, equipment costs, revenues, etc.)"
+                },
+                {
+                  "name" : "Inventory Management",
+                  "value" : true,
+                  "id" : "80f46038-6ae8-4725-8064-788b20380eeb",
+                  "avg_rating" : 1.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : "Track and manage the quantity of resources on hand to maintain proper supply"
+                },
+                {
+                  "name" : "Maintenance Management",
+                  "value" : false,
+                  "id" : "73ed8cb7-a67f-4a46-8acb-4fd73409c5e8",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Assess and plan maintenance operations and updates to ensure longevity of physical assets"
+                },
+                {
+                  "name" : "Procurement Management",
+                  "value" : false,
+                  "id" : "1abc039a-2236-4ef5-9f3e-0e6d614e6ce4",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Organize and manage all processes/procedures involved in purchasing goods and/or services"
+                },
+                {
+                  "name" : "Requisition Management",
+                  "value" : false,
+                  "id" : "19b32b58-b5e4-423d-9cff-3d153a687022",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Review, approve and cancel requests for goods/services to be purchased"
+                },
+                {
+                  "name" : "Supplier Management",
+                  "value" : false,
+                  "id" : "aa61511b-b73d-4fbb-a5f4-0ea85d124fcb",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Manage various aspects of the relationship with suppliers (e.g. interactions, history)"
+                }
+              ]
+            },
+            {
+              "category_name" : "Inventory Control",
+              "category_features" : [
+                {
+                  "name" : "Barcoding/RFID",
+                  "value" : true,
+                  "id" : "3a5789df-cab6-42d7-bf9c-1738cdee369f",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Identify and track items using barcode tags or RFID (radio-frequency identification) tags that contain electronically-stored data"
+                },
+                {
+                  "name" : "Check-in/Check-out",
+                  "value" : true,
+                  "id" : "578adffb-94a9-4988-9785-00623cfe985c",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Track the status of assets and whether they're checked in or out"
+                },
+                {
+                  "name" : "Cost Tracking",
+                  "value" : false,
+                  "id" : "dbe00040-26b9-417e-a04b-7886b914b6fd",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Record and monitor cost related information of assets (i.e. budget for assets, equipment costs, revenues, etc.)"
+                },
+                {
+                  "name" : "Forecasting",
+                  "value" : false,
+                  "id" : "af71a358-300d-4111-90b5-828ef869bb49",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Form predictions based on past and present data/trends"
+                },
+                {
+                  "name" : "Inventory Optimization",
+                  "value" : true,
+                  "id" : "649b9e77-eb11-4a73-a4a9-2a8d679c3020",
+                  "avg_rating" : 1.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Balance and streamline inventory stock to meet customer service and revenue goals"
+                },
+                {
+                  "name" : "Inventory Tracking",
+                  "value" : true,
+                  "id" : "33800d6b-7dba-41cc-aaaf-788e4bf84ccb",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Monitor the movement and quantities of inventory items"
+                },
+                {
+                  "name" : "Item Management",
+                  "value" : true,
+                  "id" : "dea3f3c7-48da-4115-a4d4-83a3a59c48b5",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Collect, organize, and track inventory/product data including item numbers, descriptions, etc."
+                },
+                {
+                  "name" : "Reorder Management",
+                  "value" : true,
+                  "id" : "e4450d36-99e4-43a6-9728-be64678f6757",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Purchase and replenish product stock based on inventory levels and needs"
+                },
+                {
+                  "name" : "SKU/UPC Codes",
+                  "value" : true,
+                  "id" : "c1ceacf8-9dbb-4d59-bf75-220d27da4a0b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Internal and external product tracking codes "
+                },
+                {
+                  "name" : "Serial Number Tracking",
+                  "value" : true,
+                  "id" : "240a9947-1095-46c7-907f-c19d1f491dfd",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Allows users to assign specific serial numbers to products and track them "
+                },
+                {
+                  "name" : "Supplier Management",
+                  "value" : false,
+                  "id" : "aa61511b-b73d-4fbb-a5f4-0ea85d124fcb",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Manage various aspects of the relationship with suppliers (e.g. interactions, history)"
+                }
+              ]
+            },
+            {
+              "category_name" : "Inventory Management",
+              "category_features" : [
+                {
+                  "name" : "Alerts/Notifications",
+                  "value" : true,
+                  "id" : "aef68b72-bd4c-4797-ae8c-4735512de81a",
+                  "avg_rating" : 1.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Alerts/notifications within the system"
+                },
+                {
+                  "name" : "Forecasting",
+                  "value" : false,
+                  "id" : "af71a358-300d-4111-90b5-828ef869bb49",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Form predictions based on past and present data/trends"
+                },
+                {
+                  "name" : "Inventory Optimization",
+                  "value" : true,
+                  "id" : "649b9e77-eb11-4a73-a4a9-2a8d679c3020",
+                  "avg_rating" : 1.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : false,
+                  "definition" : "Balance and streamline inventory stock to meet customer service and revenue goals"
+                },
+                {
+                  "name" : "Kitting",
+                  "value" : false,
+                  "id" : "2b26681c-7b14-4b9a-813b-53d5b111dc5f",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Group and package individual but related items as one package set"
+                },
+                {
+                  "name" : "Manufacturing Inventory Management",
+                  "value" : false,
+                  "id" : "71975696-b255-4db0-9a19-28d7463f5d1f",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Software specialized for manufacturers to track work orders, bills of materials, and manufacture orders to help streamline operations"
+                },
+                {
+                  "name" : "Mobile Access",
+                  "value" : true,
+                  "id" : "15d49235-ad13-4d33-b009-edd50126375b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Access the software remotely via mobile devices"
+                },
+                {
+                  "name" : "Multi-Channel Management",
+                  "value" : true,
+                  "id" : "b613ec2b-67fb-4995-aa41-7aead6a66dbf",
+                  "avg_rating" : 1.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 3.0,
+                  "cnt_importance" : 1,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 1.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 1.0,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Organize and maintain inventory levels across all channels (i.e. retail store, warehouse, etc.) based on demand and channel performance"
+                },
+                {
+                  "name" : "Product Identification",
+                  "value" : true,
+                  "id" : "6a824586-2515-48d0-9879-cd89e20706fb",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Ability to link barcodes or serial numbers with specific items for identification"
+                },
+                {
+                  "name" : "Reorder Management",
+                  "value" : true,
+                  "id" : "e4450d36-99e4-43a6-9728-be64678f6757",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Purchase and replenish product stock based on inventory levels and needs"
+                },
+                {
+                  "name" : "Reporting/Analytics",
+                  "value" : true,
+                  "id" : "b0c186d0-0194-4300-abba-ca3bc2474bbe",
+                  "avg_rating" : 1.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 1,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 1,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "View and track pertinent metrics"
+                },
+                {
+                  "name" : "Retail Inventory Management",
+                  "value" : false,
+                  "id" : "84b52988-b934-41dc-8664-fc2d8a33734e",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "Software specialized for retailers (i.e. business that sell consumer goods) to maintain adequate levels of product stock"
+                },
+                {
+                  "name" : "Supplier Management",
+                  "value" : false,
+                  "id" : "aa61511b-b73d-4fbb-a5f4-0ea85d124fcb",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Manage various aspects of the relationship with suppliers (e.g. interactions, history)"
+                },
+                {
+                  "name" : "Warehouse Management",
+                  "value" : true,
+                  "id" : "7753b90c-778c-4e25-8322-71085d53c9de",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Differentiator",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : "Software specialized for managing warehouses and tracking where inventory is located within the warehouses"
+                }
+              ]
+            },
+            {
+              "category_name" : "Medical Inventory",
+              "category_features" : [
+                {
+                  "name" : "Barcode / Ticket Scanning",
+                  "value" : true,
+                  "id" : "62b94c17-29ff-47eb-92e1-242d6f3c04be",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : "The ability to scan barcodes to ensure accurate pricing and label tracking "
+                },
+                {
+                  "name" : "Cost Tracking",
+                  "value" : false,
+                  "id" : "dbe00040-26b9-417e-a04b-7886b914b6fd",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Expiration Date Management",
+                  "value" : true,
+                  "id" : "e5d06705-c49c-4977-b71d-e9a8c08810e1",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "For Medical Purposes",
+                  "value" : false,
+                  "id" : "a340bb89-48a2-4c20-918d-e0d596c2bfcf",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Inventory Management",
+                  "value" : true,
+                  "id" : "80f46038-6ae8-4725-8064-788b20380eeb",
+                  "avg_rating" : 1.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Inventory Optimization",
+                  "value" : true,
+                  "id" : "649b9e77-eb11-4a73-a4a9-2a8d679c3020",
+                  "avg_rating" : 1.0,
+                  "cnt_rating" : 1,
+                  "avg_importance" : 0.0,
+                  "cnt_importance" : 0,
+                  "cnt_time_used" : 0,
+                  "pct_time_used" : 0.0,
+                  "cnt_time_critical" : 0,
+                  "pct_time_critical" : 0.0,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Inventory Tracking",
+                  "value" : true,
+                  "id" : "33800d6b-7dba-41cc-aaaf-788e4bf84ccb",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Mobile Access",
+                  "value" : true,
+                  "id" : "15d49235-ad13-4d33-b009-edd50126375b",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Multi-Location",
+                  "value" : true,
+                  "id" : "cbb330d2-6199-479e-bc91-d95527b5dc05",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Order Management",
+                  "value" : true,
+                  "id" : "3cca1a0a-36cc-4cfa-b90c-706cfd9542b6",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Product Identification",
+                  "value" : true,
+                  "id" : "6a824586-2515-48d0-9879-cd89e20706fb",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Purchase Order Management",
+                  "value" : false,
+                  "id" : "a9f6bc9b-faba-4d7a-95c4-d72a86ef6937",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Purchasing & Receiving",
+                  "value" : true,
+                  "id" : "36b48f1e-4461-4aba-ab95-0558764f1cea",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Core",
+                  "is_key_feature" : false,
+                  "is_top_feature" : true,
+                  "definition" : "Buy necessary items in compliance with established business policies"
+                },
+                {
+                  "name" : "RFID Scanning",
+                  "value" : true,
+                  "id" : "cb69923e-adf1-4cd5-8b2d-381ae7adce64",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Reorder Management",
+                  "value" : true,
+                  "id" : "e4450d36-99e4-43a6-9728-be64678f6757",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Serial Number Tracking",
+                  "value" : true,
+                  "id" : "240a9947-1095-46c7-907f-c19d1f491dfd",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Usage Tracking/Analytics",
+                  "value" : true,
+                  "id" : "3465a1ae-d40b-425d-9a9b-3eef764ab861",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                }
+              ]
+            }
+          ],
+          "infographics" : [
+            {
+              "product_id" : 169199,
+              "html_name" : "asset-tracking-software",
+              "infographic_type" : "general_t20",
+              "infographic_title" : null
+            },
+            {
+              "product_id" : 169199,
+              "html_name" : "barcoding-software",
+              "infographic_type" : "general_t20",
+              "infographic_title" : null
+            },
+            {
+              "product_id" : 169199,
+              "html_name" : "inventory-management-software",
+              "infographic_type" : "general_t20",
+              "infographic_title" : null
+            },
+            {
+              "product_id" : 169199,
+              "html_name" : "it-asset-management-software",
+              "infographic_type" : "general_t20",
+              "infographic_title" : null
+            }
+          ],
+          "related_products" : [
+            {
+              "product_id" : 174984,
+              "seo_product_id" : 46497,
+              "seo_slug" : "QuickBooks",
+              "vendor_name" : "Intuit",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/90cac4f1-9eba-4d30-9949-91da634d4da5.png",
+              "rating" : 4.5,
+              "total_reviews" : 19511,
+              "slug" : "QuickBooks-Enterprise",
+              "product_name" : "QuickBooks Desktop Enterprise",
+              "short_desc" : "The leading accounting software for small businesses. Instant access to customer, vendor and employee information.",
+              "features" : "QuickBooks Enterprise (Save Up to 40%) is an end-to-end accounting software that can grow with your business. It provides all the tools your business needs, yet is easy to use. You can organize your books, manage inventory, track sales, and even run payroll, but at the fraction of the cost. With QuickBooks Enterprise, you save thousands of dollars a year vs. comparable solutions. Powerful and flexible, it also comes in editions designed to fit your specific needs. Take a free test drive today.",
+              "url" : "https://ad.doubleclick.net/ddm/trackclk/N5506.813334.CAPTERRA.COM/B26893105.322311487;dc_trk_aid=514778662;dc_trk_cid=162507874;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd="
+            },
+            {
+              "product_id" : 142562,
+              "seo_product_id" : 152499,
+              "seo_slug" : "Asset-Panda",
+              "vendor_name" : "Asset Panda",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/0fc62cea-a7a8-4449-a507-2a6bfeadbb6d.png",
+              "rating" : 4.6,
+              "total_reviews" : 1316,
+              "slug" : "Asset-Panda",
+              "product_name" : "Asset Panda",
+              "short_desc" : "Inventory tracking platform that is cloud-based with mobile apps (IOS/Android).  Unlimited Users. Get a free guided demo today!",
+              "features" : "Asset Panda is a powerful Cloud/Mobile App inventory tracking platform. We help people track, manage and support their inventory throughout their life cycle. Our software is configured to the way our clients work, secure and leverages the mobile devices your employees already carry.  Get a free guided demo today!",
+              "url" : "https://info.assetpanda.com/capterra-lp?utm_medium=cpc&utm_campaign=barcoding&dc=barcoding"
+            },
+            {
+              "product_id" : 124047,
+              "seo_product_id" : 223351,
+              "seo_slug" : "EZOfficeInventory",
+              "vendor_name" : "EZOfficeInventory",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/01c34458-7301-4329-b6a4-f8a41bb92ca1.png",
+              "rating" : 4.6,
+              "total_reviews" : 1201,
+              "slug" : "EZOfficeInventory",
+              "product_name" : "EZOfficeInventory",
+              "short_desc" : "Tag and manage items with our asset tracking software. Our mobile app has barcode/QR Code scanning baked right in. Free 15-day trial!",
+              "features" : " EZOfficeInventory is the leading non-intrusive asset tracking and inventory management software. Our intuitive interface makes item checkouts, audits, and designing asset labels a breeze. Tag and manage items across locations, and scan QR Code, Barcode  and RFID tags to perform mass actions on them. Integrate with external scanners or use our mobile app. We are the complete asset tracking system - from procurement to retirement. Try us out for free with a 15 day trial to see why!",
+              "url" : "https://www.ezofficeinventory.com/solutions/barcode-asset-tracking-software?r=capterra_barcoding"
+            },
+            {
+              "product_id" : 221060,
+              "seo_product_id" : 212456,
+              "seo_slug" : "NetSuite",
+              "vendor_name" : "Oracle",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/70a405ae-214e-4735-8e1f-ce093f53f337.png",
+              "rating" : 4.1,
+              "total_reviews" : 856,
+              "slug" : "NetSuite",
+              "product_name" : "NetSuite",
+              "short_desc" : "NetSuite, the world's #1 cloud ERP, gives you the visibility and control you need to make smart decisions and grow with confidence.",
+              "features" : "NetSuite is an all-in-one cloud business management solution that helps more than 32,000 organizations operate more effectively by automating core processes and providing real-time visibility into operational and financial performance. With a single, integrated suite of applications for managing accounting, order processing, inventory management, production, and supply chain and warehouse operations, NetSuite gives companies clear visibility of their information and control of their business.",
+              "url" : "http://www.netsuite.com/portal/landing/netsuite-compare-page-capterra.html"
+            },
+            {
+              "product_id" : 123794,
+              "seo_product_id" : 57990,
+              "seo_slug" : "Fishbowl",
+              "vendor_name" : "Fishbowl",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4ccaccf1-0e36-45c8-9ccb-4df1733bd616.png",
+              "rating" : 4.2,
+              "total_reviews" : 769,
+              "slug" : "Fishbowl",
+              "product_name" : "Fishbowl",
+              "short_desc" : "Fishbowl's barcoding solution combines inventory management with real-time data, so you can optimize your daily operations.",
+              "features" : "Barcoding is the foundation of Fishbowl's complete inventory management solution. Real-time data means you can see your inventory, no matter where it is located or how it's being used. Your team can quickly make informed decisions with seamless mobility and reports. Barcoding also automates manufacturing processes such as maintenance and repair, ensuring that you stay on top of your products and meet demand.",
+              "url" : "https://try.fishbowlinventory.com/capterra-inventory-management?utm_source=capterra&utm_medium=cpc&utm_campaign=Barcoding"
+            },
+            {
+              "product_id" : 78431,
+              "seo_product_id" : 226534,
+              "seo_slug" : "inFlow-Inventory",
+              "vendor_name" : "Archon Systems",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e1047f24-4669-4b7e-8207-13378158e9f8.png",
+              "rating" : 4.6,
+              "total_reviews" : 438,
+              "slug" : "inFlow-Inventory",
+              "product_name" : "inFlow Inventory",
+              "short_desc" : "Accessible barcoding for businesses of any size. Scan to receive, fulfill, adjust stock, and more. ",
+              "features" : "Great barcode software that saves you time on every item and order. You can generate new barcodes for products automatically, or attach existing UPCs via import.  \r\n\r\ninFlow supports USB scanners but also turns your smartphone into a barcode-scanning-order-picking machine. \r\n\r\nWorld-class support available via live chat, email, and phone. \r\n\r\nClick Visit Website to get your 14 day free trial now.",
+              "url" : "https://www.inflowinventory.com/capterra?utm_source=capterra&utm_medium=paid&utm_campaign=capterra%20barcoding"
+            },
+            {
+              "product_id" : 170272,
+              "seo_product_id" : 212046,
+              "seo_slug" : "Square-for-Retail",
+              "vendor_name" : "Square",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/c61072a1-e564-491c-be3e-3634c3e20e30.png",
+              "rating" : 4.7,
+              "total_reviews" : 435,
+              "slug" : "Square-for-Retail",
+              "product_name" : "Square for Retail",
+              "short_desc" : "Sell more, worry less. Simplify your selling with Square for Retail. Try it free for 30 days.\n",
+              "features" : "Square for Retail is a platform of software, hardware, and payments for retail businesses. Its built for your storefront and back office. Its built for boosting sales and cutting costs. Its built for making the complicated stuff simple. Ring up a sale in seconds by scanning a bar code or searching with a keyword. Attach a customer or card on file to the sale for a seamless and fast checkout. Add inventory from your point of sale and instantly create customer profiles. Try it free for 30 days!\n",
+              "url" : "https://squareup.com/t/f_online/d_affiliate/p_capterra/o_barcoding/l_us/pr_retail_pos/?route=us/en/point-of-sale/retail"
+            },
+            {
+              "product_id" : 227232,
+              "seo_product_id" : 212112,
+              "seo_slug" : "Sage-100cloud",
+              "vendor_name" : "Sage",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/2c74acc4-2ca0-4dbe-9870-1216e0dba010.jpeg",
+              "rating" : 4.0,
+              "total_reviews" : 280,
+              "slug" : "Sage-100cloud",
+              "product_name" : "Sage 100cloud",
+              "short_desc" : "Sage 100cloud is an ERP platform for growing and medium-sized distributors and manufacturers.",
+              "features" : "With more than 30 years as a market-leader, Sage 100cloud is among the most stable and feature-rich business management solutions for mid-sized manufacturers, distributors, and service businesses today. Built for security and compliance, Sage 100cloud is a trusted solution for managing complexities associated with growth. Thanks to its business objects framework, Web APIs, and Office 365 connectivity, Sage 100cloud can be easily customized to meet the unique needs of businesses.",
+              "url" : "https://www.sage.com/en-us/products/sage-100cloud/"
+            },
+            {
+              "product_id" : 232310,
+              "seo_product_id" : 223981,
+              "seo_slug" : "InventoryCloud",
+              "vendor_name" : "Wasp Barcode Technologies",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/85fbadb3-32f4-4b22-b09c-59169b7e962a.jpeg",
+              "rating" : 4.2,
+              "total_reviews" : 239,
+              "slug" : "InventoryCloud",
+              "product_name" : "InventoryCloud",
+              "short_desc" : "Wasp Inventory Control is a complete inventory management system for small businesses (5-99 employees). Dramatically",
+              "features" : "Wasp inventory solutions are designed for organizations of all sizes. From managing small, high consumption inventories to managing multiple warehouses to consolidating inventories of multiple vendors or suppliers. Dramatically increase profitability with an automated, real-time, user-friendly approach to inventory management. Eliminate inventory write-offs, quickly perform audits, and stop wasting time searching for lost inventory. ",
+              "url" : "https://www.waspbarcode.com/inventory-control?utm_source=Capterra&utm_medium=PPC&utm_campaign=Capterra+Demo&utm_id=Barcoding"
+            },
+            {
+              "product_id" : 149851,
+              "seo_product_id" : 224181,
+              "seo_slug" : "Finale-Inventory",
+              "vendor_name" : "Finale Inventory",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/a6903114-1350-4a82-b9b0-11e4ec57cdfe.png",
+              "rating" : 4.7,
+              "total_reviews" : 181,
+              "slug" : "Finale-Inventory",
+              "product_name" : "Finale Inventory",
+              "short_desc" : "Finale Inventory is the most adaptable and flexible barcode solution to support your workflows of your growing business. ",
+              "features" : "Finale Inventory offers a comprehensive out-of-the-box cloud-based barcode solution that doesn't require a small team of expensive integration consultants to get everything up and running.  Coupled with lot id/serial number tracking and multi-location support, Finale offers a complete solution at an affordable price.  Barcode scanning will improve your operation by increasing efficiency and reducing human error.    Finale also has the ability to print custom barcodes",
+              "url" : "https://www.finaleinventory.com/lp?source=capterra_barcoding"
+            },
+            {
+              "product_id" : 116413,
+              "seo_product_id" : 116413,
+              "seo_slug" : "SalesPad-Desktop",
+              "vendor_name" : "Cavallo",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/7f1ae2a4-c492-410c-b982-5aa51c9e93cc.jpeg",
+              "rating" : 4.3,
+              "total_reviews" : 134,
+              "slug" : "SalesPad-Desktop",
+              "product_name" : "Cavallo SalesPad",
+              "short_desc" : "Brought to you by the designers of SalesPad, Cavallo offers distribution management software with all the power of a CRM and ERP.",
+              "features" : "Brought to you by the designers of SalesPad, Cavallo offers distribution management software with all the power of a CRM and ERP solution, and all the functionality of the industry's biggest tech powers, with none of the bottlenecks, frustrating interface, or difficult-to-access data.\n\nDistribution is in our DNA - Cavallo's foundational software was designed by a distributor for his own business. ",
+              "url" : "https://cavallo.com/"
+            }
+          ],
+          "similar_products" : [
+            {
+              "product_id" : 123794,
+              "seo_product_id" : 57990,
+              "seo_slug" : "Fishbowl",
+              "vendor_name" : "Fishbowl",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4ccaccf1-0e36-45c8-9ccb-4df1733bd616.png",
+              "rating" : 4.2,
+              "total_reviews" : 769,
+              "slug" : "Fishbowl",
+              "product_name" : "Fishbowl",
+              "short_desc" : "Fishbowl's barcoding solution combines inventory management with real-time data, so you can optimize your daily operations.",
+              "features" : "Barcoding is the foundation of Fishbowl's complete inventory management solution. Real-time data means you can see your inventory, no matter where it is located or how it's being used. Your team can quickly make informed decisions with seamless mobility and reports. Barcoding also automates manufacturing processes such as maintenance and repair, ensuring that you stay on top of your products and meet demand.",
+              "url" : "https://try.fishbowlinventory.com/freetrialprogressiveform-capterra/?utm_source=capterra&utm_medium=cpc&utm_campaign=Default"
+            },
+            {
+              "product_id" : 149851,
+              "seo_product_id" : 224181,
+              "seo_slug" : "Finale-Inventory",
+              "vendor_name" : "Finale Inventory",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/a6903114-1350-4a82-b9b0-11e4ec57cdfe.png",
+              "rating" : 4.7,
+              "total_reviews" : 181,
+              "slug" : "Finale-Inventory",
+              "product_name" : "Finale Inventory",
+              "short_desc" : "Finale Inventory is the most adaptable and flexible barcode solution to support your workflows of your growing business. ",
+              "features" : "Finale Inventory offers a comprehensive out-of-the-box cloud-based barcode solution that doesn't require a small team of expensive integration consultants to get everything up and running.  Coupled with lot id/serial number tracking and multi-location support, Finale offers a complete solution at an affordable price.  Barcode scanning will improve your operation by increasing efficiency and reducing human error.    Finale also has the ability to print custom barcodes",
+              "url" : "https://www.finaleinventory.com/lp?source=capterra_warehouse"
+            },
+            {
+              "product_id" : 136727,
+              "seo_product_id" : 136727,
+              "seo_slug" : "Reftab",
+              "vendor_name" : "Reftab",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/41bfe6f4-cd90-4443-b318-13453f768f76.jpeg",
+              "rating" : 4.8,
+              "total_reviews" : 49,
+              "slug" : "Reftab",
+              "product_name" : "Reftab",
+              "short_desc" : "A customizable and full featured asset tracking platform. Easy to setup and use. Cloud based and mobile. World-class support.",
+              "features" : "Specialized for Schools and IT departments. Reftab costs a fraction of the cost of the others with a better UI and the same, powerful features. We know you need a simple platform. Anyone, no matter their requirements or technical ability can use Reftab for a robust asset management platform.\n",
+              "url" : "https://www.reftab.com?utm_campaign=c1"
+            },
+            {
+              "product_id" : 170272,
+              "seo_product_id" : 212046,
+              "seo_slug" : "Square-for-Retail",
+              "vendor_name" : "Square",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/c61072a1-e564-491c-be3e-3634c3e20e30.png",
+              "rating" : 4.7,
+              "total_reviews" : 435,
+              "slug" : "Square-for-Retail",
+              "product_name" : "Square for Retail",
+              "short_desc" : "Sell more, worry less. Simplify your selling with Square for Retail. Try it free for 30 days.\n",
+              "features" : "Square for Retail is a platform of software, hardware, and payments for retail businesses. Its built for your storefront and back office. Its built for boosting sales and cutting costs. Its built for making the complicated stuff simple. Ring up a sale in seconds by scanning a bar code or searching with a keyword. Attach a customer or card on file to the sale for a seamless and fast checkout. Add inventory from your point of sale and instantly create customer profiles. Try it free for 30 days!\n",
+              "url" : "https://squareup.com/t/f_online/d_affiliate/p_capterra/l_us/pr_retail_pos/?route=us/en/point-of-sale/retail"
+            },
+            {
+              "product_id" : 151043,
+              "seo_product_id" : 151043,
+              "seo_slug" : "Radley-Data-Collection",
+              "vendor_name" : "Radley Corporation",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/0695afb0-5952-49ce-800a-5298579f2952.jpeg",
+              "rating" : 4.1,
+              "total_reviews" : 11,
+              "slug" : "Radley-Data-Collection",
+              "product_name" : "Radley Data Collection",
+              "short_desc" : "Real-time, fully configurable Data Collection software. Validate data from multiple sources, receive alerts and integrate to your ERP.",
+              "features" : "Easily capture data in your warehouse and manufacturing operation and update your ERP or business system in REAL-TIME! Choose the solutions that meet your needs: inventory management, job shop floor control, work in process, traceability and more! Eliminate errors, wasted time and manual efforts. Compatible with iOS, Windows & Android devices. Easy-to-use, multi-lingual interface.",
+              "url" : "https://info.gartnerdigitalmarkets.com/radley-corp-data-collection-barcoding-gdm-lp"
+            },
+            {
+              "product_id" : 78431,
+              "seo_product_id" : 226534,
+              "seo_slug" : "inFlow-Inventory",
+              "vendor_name" : "Archon Systems",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e1047f24-4669-4b7e-8207-13378158e9f8.png",
+              "rating" : 4.6,
+              "total_reviews" : 438,
+              "slug" : "inFlow-Inventory",
+              "product_name" : "inFlow Inventory",
+              "short_desc" : "Accessible barcoding for businesses of any size. Scan to receive, fulfill, adjust stock, and more. ",
+              "features" : "Great barcode software that saves you time on every item and order. You can generate new barcodes for products automatically, or attach existing UPCs via import.  \r\n\r\ninFlow supports USB scanners but also turns your smartphone into a barcode-scanning-order-picking machine. \r\n\r\nWorld-class support available via live chat, email, and phone. \r\n\r\nClick Visit Website to get your 14 day free trial now.",
+              "url" : "https://www.inflowinventory.com/capterra?utm_source=capterra&utm_medium=paid&utm_campaign=capterra%20inventory%20management"
+            },
+            {
+              "product_id" : 142562,
+              "seo_product_id" : 152499,
+              "seo_slug" : "Asset-Panda",
+              "vendor_name" : "Asset Panda",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/0fc62cea-a7a8-4449-a507-2a6bfeadbb6d.png",
+              "rating" : 4.6,
+              "total_reviews" : 1316,
+              "slug" : "Asset-Panda",
+              "product_name" : "Asset Panda",
+              "short_desc" : "Inventory tracking platform that is cloud-based with mobile apps (IOS/Android).  Unlimited Users. Get a free guided demo today!",
+              "features" : "Asset Panda is a powerful Cloud/Mobile App inventory tracking platform. We help people track, manage and support their inventory throughout their life cycle. Our software is configured to the way our clients work, secure and leverages the mobile devices your employees already carry.  Get a free guided demo today!",
+              "url" : "https://info.assetpanda.com/asset-tracking/?utm_medium=cpc&utm_campaign=fixed%20asset%20management"
+            },
+            {
+              "product_id" : 124047,
+              "seo_product_id" : 223351,
+              "seo_slug" : "EZOfficeInventory",
+              "vendor_name" : "EZOfficeInventory",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/01c34458-7301-4329-b6a4-f8a41bb92ca1.png",
+              "rating" : 4.6,
+              "total_reviews" : 1201,
+              "slug" : "EZOfficeInventory",
+              "product_name" : "EZOfficeInventory",
+              "short_desc" : "Tag and manage items with our asset tracking software. Our mobile app has barcode/QR Code scanning baked right in. Free 15-day trial!",
+              "features" : " EZOfficeInventory is the leading non-intrusive asset tracking and inventory management software. Our intuitive interface makes item checkouts, audits, and designing asset labels a breeze. Tag and manage items across locations, and scan QR Code, Barcode  and RFID tags to perform mass actions on them. Integrate with external scanners or use our mobile app. We are the complete asset tracking system - from procurement to retirement. Try us out for free with a 15 day trial to see why!",
+              "url" : "https://www.ezofficeinventory.com/?r=capterra_default&utm_medium=cpc&utm_campaign=default&utm_term=default_product_listing"
+            },
+            {
+              "product_id" : 182776,
+              "seo_product_id" : 182776,
+              "seo_slug" : "Label-LIVE",
+              "vendor_name" : "Semireg Industries",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/7d660ef3-6e70-42e1-a457-f53045c88f34.png",
+              "rating" : 4.9,
+              "total_reviews" : 40,
+              "slug" : "Label-LIVE",
+              "product_name" : "Label LIVE",
+              "short_desc" : "Label design and printing for Windows and macOS. Print custom labels to your mydpi, Brother, DYMO, Zebra, ROLLO and Primera printers.",
+              "features" : "Create labels using your Windows or macOS computer. Design and print custom barcodes, beautiful price/shelf tags, durable warehouse labels, and unique serial numbers. Works with label printers from mydpi, Brother, DYMO, Zebra, ROLLO, TSC, Argox, GoDEX, EPSON and Primera.\n\nLabel LIVE can also generate batches of PNG image files, or render multiple labels to a PDF for printing on popular Avery-style sheets.",
+              "url" : "http://label.live"
+            },
+            {
+              "product_id" : 145337,
+              "seo_product_id" : 222181,
+              "seo_slug" : "Shopventory",
+              "vendor_name" : "Shopventory",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/b82fa961-ca7b-492c-aed0-28e4cdf1ba35.png",
+              "rating" : 4.8,
+              "total_reviews" : 53,
+              "slug" : "Shopventory",
+              "product_name" : "Shopventory",
+              "short_desc" : "Thrive by Shopventory is an inventory management and sales reporting solution for Square, Clover, Shopify, BigCommerce and WooCommerce.",
+              "features" : "Thrive by Shopventory is the optimal inventory management & detailed sales & profitability reporting solution for Clover, Square, PayPal Here, Shopify, BigCommerce & WooCommerce. \n\nWith Purchase Order, Vendor Management and Invoicing as well as Low Stock Alerts, Scanner Stock Takes, Modifier Management & Auto Restock. Includes User Access Controls, Kits & Bundles, SKU & Barcode Label Creation with Barcode Scanning App. Sign up for your 30-day free today!",
+              "url" : "https://shopventory.com?utm_campaign=Capterra&utm_source=ppc&utm_medium=Home%20Page"
+            },
+            {
+              "product_id" : 201910,
+              "seo_product_id" : 228289,
+              "seo_slug" : "itexia",
+              "vendor_name" : "seventhings",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/05c2c547-1a94-430a-938e-01f686d779c0.png",
+              "rating" : 4.8,
+              "total_reviews" : 29,
+              "slug" : "itexia",
+              "product_name" : "seventhings",
+              "short_desc" : "seventhings is the inventory platform of the future. We help companies to eliminate the high burden of manual inventory.\n",
+              "features" : "seventhings is the inventory platform of the future. We help companies to eliminate the high burden of manual inventory of furniture, IT equipment, machinery, etc. by digitizing and automating inventory management. We simply create an overview and our customers manage their inventory efficiently and sustainably. By using RFID technology (RFID labels) or smart labels (e.g. barcodes, QR codes, GPS, bluetooth tracker etc.) we are able to give each object a digital twin and thereby make it smart.",
+              "url" : "https://hubs.li/Q01lRZqb0"
+            },
+            {
+              "product_id" : 142477,
+              "seo_product_id" : 220644,
+              "seo_slug" : "ERPAG",
+              "vendor_name" : "ERPAG",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/5f3ac3ce-05be-4d58-a21d-030bfa8317b0.png",
+              "rating" : 4.6,
+              "total_reviews" : 272,
+              "slug" : "ERPAG",
+              "product_name" : "ERPAG",
+              "short_desc" : "ERPAG is an ERP cloud service that covers all business processes for small or mid-sized companies.",
+              "features" : "ERPAG is an ERP cloud service that covers all business processes for small or mid-sized companies.\r\nInventory and order management  in real time.\r\nFEATURES:\r\nReordering.Order fulfillment.Cloud label printing.Inventory tracking (Barcode, Serial, Lot).Multiple UOMs.\r\nMultiple warehouses.Multiple currencies.Multi-language interface.Composite products(BOMs, Kitting, Variable items).\r\nUser level management.Integrated invoicing and purchasing module.Supports manufacturing.",
+              "url" : "https://www.erpag.com/inventory-management-software?msrc=capt"
+            }
+          ],
+          "related_categories" : [
+            {
+              "functional_group" : "barcoding",
+              "long_name" : "Inventory Control",
+              "html_name" : "inventory-control-software",
+              "link_name" : "inventory-control",
+              "product_count" : 119,
+              "meta_description" : "Find and compare top Inventory Control software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Inventory Control tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/inventory-control-software>Inventory Control software</a> automates the management and tracking of goods and often includes tools such as bar code software.  These programs enable increased inventory accuracy and up-to-date sales tracking by distributing sales and supply data throughout an organization.  Inventory control systems interact directly with pre-existing or custom installed retail management, point of sale (POS), and accounting tools.  <a href=/inventory-control-software>Inventory Control software</a> is related to <a href=/inventory-management-software>Inventory Management software</a> and <a href=\"/rfid-software\">RFID software</a>."
+            },
+            {
+              "functional_group" : "barcoding",
+              "long_name" : "Inventory Management",
+              "html_name" : "inventory-management-software",
+              "link_name" : "inventory-management",
+              "product_count" : 238,
+              "meta_description" : "Find and compare top Inventory Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Inventory Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/inventory-management-software\">Inventory Management software</a> monitors inventory levels for optimal production and distribution of goods for wholesale or retail.  These applications enable organizations to efficiently manage inventory as well as procurement and order fulfillment functions. Inventory Management solutions ensure accurate real-time inventory reporting and the ability to distribute this essential data across multiple locations and throughout an enterprise.  <a href=\"/inventory-management-software\">Inventory Management software</a> is related to <a href=\"/inventory-control-software\">Inventory Control software</a> and <a href=\"/supply-chain-management-software\">Supply Chain Management software</a>."
+            },
+            {
+              "functional_group" : "barcoding",
+              "long_name" : "Shipping",
+              "html_name" : "shipping-software",
+              "link_name" : "shipping",
+              "product_count" : 212,
+              "meta_description" : "Find and compare top Shipping software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Shipping tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/shipping-software>Shipping software</a> automates the process of managing and tracking freight delivery.  <a href=/shipping-software>Shipping software</a> can be used by freight delivery organizations, couriers, import/export companies, consolidators and businesses doing outbound shipping via multiple carriers.  Shipping applications often include tracking, freight forwarding, customs, billing, quotations, routing and logistics features.  <a href=/shipping-software>Shipping software</a> is related to <a href=/freight-software>Freight software</a>, <a href=/distribution-software>Distribution software</a>, <a href=/fleet-management-software>Fleet Management software</a>, <a href=/logistics-software>Logistics software</a>, <a href=/trucking-software>Trucking software</a> and <a href=/warehouse-management-software>Warehouse Management software</a>.  "
+            }
+          ],
+          "is_upgraded" : true,
+          "enabled" : true,
+          "filter_options" : {
+            "users" : 63,
+            "platform" : 903,
+            "pricing_options" : 26,
+            "category_related_features" : [
+              31389,
+              31390,
+              31391,
+              31392,
+              31394,
+              31406,
+              31426,
+              42640,
+              42641,
+              56514,
+              56515,
+              56516,
+              56517,
+              56518,
+              56521,
+              56522,
+              56523,
+              56525,
+              56526,
+              56528,
+              56529,
+              56530,
+              56533,
+              56535,
+              56536,
+              56542,
+              56543,
+              56547,
+              56549,
+              56550,
+              56551
+            ],
+            "employees" : 127
+          },
+          "sort_options" : {
+            "sort_review_rating" : 4.449099063873291,
+            "most_recent_review" : "2022-02-16T15:24:17Z"
+          },
+          "countries" : "AU,HK,MX,US,CA,UK,TR,CH,SE,ES,RU,PL,NO,NL,MC,IT,IE,GR,DE,FR,FI,DK,ZA,AE,PH,SG,NZ",
+          "features_tokenized_text" : "barcode_/_ticket_scanning barcoding/rfid barcoding/rfid customization inventory_management label_templates serial_number_tracking",
+          "platform_tokenized_text" : "cloud,saas,web-based desktopmac desktopwindows mobileandroid mobileiphone mobileipad",
+          "users_tokenized_text" : "1 2-10 11-50 51-200 201-500 501-1000",
+          "pricing_tokenized_text" : "monthlysubscription free freetrial",
+          "badges" : [
+            {
+              "id" : 2089,
+              "category_short_name" : "Barcoding",
+              "category_html_name" : "barcoding-software",
+              "published_year" : 2020,
+              "badge_type" : "Top 20"
+            },
+            {
+              "id" : 2041,
+              "category_short_name" : "Asset Tracking",
+              "category_html_name" : "asset-tracking-software",
+              "published_year" : 2020,
+              "badge_type" : "Top 20"
+            },
+            {
+              "id" : 2029,
+              "category_short_name" : "IT Asset Management",
+              "category_html_name" : "it-asset-management-software",
+              "published_year" : 2020,
+              "badge_type" : "Top 20"
+            },
+            {
+              "id" : 2021,
+              "category_short_name" : "Inventory Management",
+              "category_html_name" : "inventory-management-software",
+              "published_year" : 2020,
+              "badge_type" : "Top 20"
+            }
+          ],
+          "bid_spot_us" : 2.0,
+          "currency_code" : "USD",
+          "currency_symbol" : "$",
+          "credit_card_required" : "Unverified",
+          "licensing_model" : null,
+          "open_api_offered" : "Yes",
+          "mobile_urls" : [
+            {
+              "name" : "Android",
+              "url" : "https://play.google.com/store/apps/details?id=com.sortly.mythings&hl=en_US"
+            },
+            {
+              "name" : "iOS",
+              "url" : "https://apps.apple.com/us/app/sortly-inventory-simplified/id529353551"
+            }
+          ],
+          "integrations" : [ ],
+          "supported_countries" : [
+            {
+              "id" : 77,
+              "code" : "FR",
+              "name" : "France"
+            },
+            {
+              "id" : 207,
+              "code" : "ZA",
+              "name" : "South Africa"
+            },
+            {
+              "id" : 184,
+              "code" : "RU",
+              "name" : "Russian Federation"
+            },
+            {
+              "id" : 61,
+              "code" : "DK",
+              "name" : "Denmark"
+            },
+            {
+              "id" : 210,
+              "code" : "ES",
+              "name" : "Spain"
+            },
+            {
+              "id" : 215,
+              "code" : "SE",
+              "name" : "Sweden"
+            },
+            {
+              "id" : 101,
+              "code" : "HK",
+              "name" : "Hong Kong"
+            },
+            {
+              "id" : 201,
+              "code" : "SG",
+              "name" : "Singapore"
+            },
+            {
+              "id" : 178,
+              "code" : "PL",
+              "name" : "Poland"
+            },
+            {
+              "id" : 167,
+              "code" : "NO",
+              "name" : "Norway"
+            },
+            {
+              "id" : 159,
+              "code" : "NZ",
+              "name" : "New Zealand"
+            },
+            {
+              "id" : 147,
+              "code" : "MC",
+              "name" : "Monaco"
+            },
+            {
+              "id" : 76,
+              "code" : "FI",
+              "name" : "Finland"
+            },
+            {
+              "id" : 87,
+              "code" : "GR",
+              "name" : "Greece"
+            },
+            {
+              "id" : 111,
+              "code" : "IT",
+              "name" : "Italy"
+            },
+            {
+              "id" : 176,
+              "code" : "PH",
+              "name" : "Philippines"
+            },
+            {
+              "id" : 108,
+              "code" : "IE",
+              "name" : "Ireland"
+            },
+            {
+              "id" : 234,
+              "code" : "AE",
+              "name" : "United Arab Emirates"
+            },
+            {
+              "id" : 228,
+              "code" : "TR",
+              "name" : "Turkey"
+            },
+            {
+              "id" : 157,
+              "code" : "NL",
+              "name" : "Netherlands"
+            },
+            {
+              "id" : 216,
+              "code" : "CH",
+              "name" : "Switzerland"
+            },
+            {
+              "id" : 41,
+              "code" : "CA",
+              "name" : "Canada"
+            },
+            {
+              "id" : 46,
+              "code" : "CN",
+              "name" : "China"
+            },
+            {
+              "id" : 235,
+              "code" : "GB",
+              "name" : "United Kingdom of Great Britain and Northern Ireland"
+            },
+            {
+              "id" : 32,
+              "code" : "BR",
+              "name" : "Brazil"
+            },
+            {
+              "id" : 113,
+              "code" : "JP",
+              "name" : "Japan"
+            },
+            {
+              "id" : 84,
+              "code" : "DE",
+              "name" : "Germany"
+            },
+            {
+              "id" : 14,
+              "code" : "AU",
+              "name" : "Australia"
+            },
+            {
+              "id" : 237,
+              "code" : "US",
+              "name" : "United States of America"
+            },
+            {
+              "id" : 104,
+              "code" : "IN",
+              "name" : "India"
+            },
+            {
+              "id" : 144,
+              "code" : "MX",
+              "name" : "Mexico"
+            }
+          ],
+          "supported_languages" : [
+            {
+              "id" : 152,
+              "code" : "en",
+              "name" : "English",
+              "location" : null
+            }
+          ],
+          "target_industries" : [
+            {
+              "id" : 6,
+              "code" : "19",
+              "name" : "Apparel & Fashion"
+            },
+            {
+              "id" : 29,
+              "code" : "91",
+              "name" : "Consumer Services"
+            },
+            {
+              "id" : 64,
+              "code" : "96",
+              "name" : "Information Technology and Services"
+            },
+            {
+              "id" : 1,
+              "code" : "47",
+              "name" : "Accounting"
+            },
+            {
+              "id" : 10,
+              "code" : "52",
+              "name" : "Aviation & Aerospace"
+            },
+            {
+              "id" : 41,
+              "code" : "122",
+              "name" : "Facilities Services"
+            },
+            {
+              "id" : 144,
+              "code" : "133",
+              "name" : "Wholesale"
+            },
+            {
+              "id" : 78,
+              "code" : "116",
+              "name" : "Logistics and Supply Chain"
+            },
+            {
+              "id" : 101,
+              "code" : "87",
+              "name" : "Package/Freight Delivery"
+            },
+            {
+              "id" : 17,
+              "code" : "54",
+              "name" : "Chemicals"
+            },
+            {
+              "id" : 57,
+              "code" : "14",
+              "name" : "Hospital & Health Care"
+            },
+            {
+              "id" : 120,
+              "code" : "44",
+              "name" : "Real Estate"
+            },
+            {
+              "id" : 80,
+              "code" : "55",
+              "name" : "Machinery"
+            },
+            {
+              "id" : 53,
+              "code" : "148",
+              "name" : "Government Relations"
+            },
+            {
+              "id" : 26,
+              "code" : "48",
+              "name" : "Construction"
+            },
+            {
+              "id" : 126,
+              "code" : "27",
+              "name" : "Retail"
+            },
+            {
+              "id" : 81,
+              "code" : "11",
+              "name" : "Management Consulting"
+            },
+            {
+              "id" : 84,
+              "code" : "80",
+              "name" : "Marketing and Advertising"
+            },
+            {
+              "id" : 58,
+              "code" : "31",
+              "name" : "Hospitality"
+            },
+            {
+              "id" : 103,
+              "code" : "61",
+              "name" : "Paper & Forest Products"
+            },
+            {
+              "id" : 27,
+              "code" : "24",
+              "name" : "Consumer Electronics"
+            },
+            {
+              "id" : 140,
+              "code" : "59",
+              "name" : "Utilities"
+            },
+            {
+              "id" : 97,
+              "code" : "100",
+              "name" : "Non-Profit Organization Management"
+            },
+            {
+              "id" : 32,
+              "code" : "1",
+              "name" : "Defense & Space"
+            },
+            {
+              "id" : 35,
+              "code" : "132",
+              "name" : "E-Learning"
+            },
+            {
+              "id" : 9,
+              "code" : "53",
+              "name" : "Automotive"
+            },
+            {
+              "id" : 98,
+              "code" : "57",
+              "name" : "Oil & Energy"
+            },
+            {
+              "id" : 139,
+              "code" : "92",
+              "name" : "Transportation/Trucking/Railroad"
+            },
+            {
+              "id" : 52,
+              "code" : "75",
+              "name" : "Government Administration"
+            },
+            {
+              "id" : 91,
+              "code" : "56",
+              "name" : "Mining & Metals"
+            },
+            {
+              "id" : 11,
+              "code" : "41",
+              "name" : "Banking"
+            },
+            {
+              "id" : 43,
+              "code" : "43",
+              "name" : "Financial Services"
+            },
+            {
+              "id" : 86,
+              "code" : "126",
+              "name" : "Media Production"
+            },
+            {
+              "id" : 46,
+              "code" : "34",
+              "name" : "Food & Beverages"
+            },
+            {
+              "id" : 134,
+              "code" : "8",
+              "name" : "Telecommunications"
+            },
+            {
+              "id" : 131,
+              "code" : "33",
+              "name" : "Sports"
+            },
+            {
+              "id" : 28,
+              "code" : "25",
+              "name" : "Consumer Goods"
+            },
+            {
+              "id" : 25,
+              "code" : "4",
+              "name" : "Computer Software"
+            },
+            {
+              "id" : 74,
+              "code" : "10",
+              "name" : "Legal Services"
+            },
+            {
+              "id" : 122,
+              "code" : "89",
+              "name" : "Religious Institutions"
+            },
+            {
+              "id" : 85,
+              "code" : "135",
+              "name" : "Mechanical or Industrial Engineering"
+            },
+            {
+              "id" : 62,
+              "code" : "147",
+              "name" : "Industrial Automation"
+            },
+            {
+              "id" : 128,
+              "code" : "7",
+              "name" : "Semiconductors"
+            },
+            {
+              "id" : 105,
+              "code" : "15",
+              "name" : "Pharmaceuticals"
+            },
+            {
+              "id" : 65,
+              "code" : "42",
+              "name" : "Insurance"
+            },
+            {
+              "id" : 82,
+              "code" : "95",
+              "name" : "Maritime"
+            },
+            {
+              "id" : 42,
+              "code" : "63",
+              "name" : "Farming"
+            }
+          ],
+          "price_range_id" : 1,
+          "aggregated_review_ratings" : {
+            "industry" : {
+              "19" : 5.0,
+              "70" : 4.0,
+              "49" : 4.0,
+              "63" : 5.0,
+              "122" : 3.0,
+              "24" : 5.0,
+              "47" : 5.0,
+              "9" : 5.0,
+              "14" : 5.0,
+              "17" : 5.0,
+              "136" : 5.0,
+              "44" : 1.0,
+              "13" : 3.0,
+              "4" : 4.0,
+              "54" : 4.5,
+              "27" : 4.4,
+              "112" : 1.0,
+              "135" : 5.0,
+              "99" : 4.6,
+              "100" : 4.5,
+              "124" : 4.5,
+              "110" : 5.0,
+              "25" : 4.5,
+              "57" : 4.0,
+              "43" : 5.0,
+              "8" : 5.0,
+              "96" : 5.0,
+              "20" : 5.0,
+              "88" : 5.0,
+              "28" : 5.0,
+              "35" : 5.0,
+              "40" : 4.0,
+              "142" : 4.0,
+              "12" : 4.0,
+              "93" : 4.0,
+              "53" : 4.0,
+              "134" : 5.0,
+              "48" : 4.17
+            },
+            "company_size" : {
+              "51-200 employees" : 4.57,
+              "10,001+ employees" : 4.67,
+              "11-50 employees" : 4.42,
+              "501-1000 employees" : 4.5,
+              "Self-employed" : 4.6,
+              "1001-5000 employees" : 4.0,
+              "1-10 employees" : 4.0,
+              "201-500 employees" : 4.25
+            }
+          },
+          "vct_enabled" : true,
+          "pricing_plans" : [
+            {
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Advanced ",
+              "description" : "The plan offers affordable tools that help small businesses to manage inventory and assets. It is also offered at $25 per month on annual billing.",
+              "display_order" : 2,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 49.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "10 Custom Fields"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "2000 Entries"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "3 User Licenses"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "Help Center and Email Support"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 5,
+                  "name" : "Unlimited QR Code Label Generation"
+                }
+              ]
+            },
+            {
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Ultra",
+              "description" : "The plan offers scalable inventory solution for growing businesses. It can also be availed at $720 per year ($59 per month)",
+              "display_order" : 3,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 119.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "5 User Licenses"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "API Access"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Priority Email Support"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "Unlimited Custom Fields"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 5,
+                  "name" : "Unlimited Entries"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 6,
+                  "name" : "Unlimited QR Code & Barcode Label Generation"
+                }
+              ]
+            },
+            {
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Enterprise",
+              "description" : "Contact Sortly for pricing details.",
+              "display_order" : 4,
+              "price_type_name" : "Custom",
+              "custom_price" : "Contact for pricing",
+              "starting_price" : null,
+              "ending_price" : null,
+              "pricing_model_name" : null,
+              "payment_frequency_name" : null,
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "10+ User Licenses"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "API Access"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Premium Support and Custom Training"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "SSO"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 5,
+                  "name" : "Unlimited Custom Fields"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 6,
+                  "name" : "Unlimited Entries"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 7,
+                  "name" : "Unlimited QR Code & Barcode Label Generation"
+                }
+              ]
+            },
+            {
+              "created_on_utc" : "2019-08-21T14:47:39Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Free",
+              "description" : "The plan is perfect for new businesses or individuals. There is a 14-day free trial. ",
+              "display_order" : 1,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 0.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "100 Entries"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "1 Custom Field"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "1 User License"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "Help Center and Email Support"
+                }
+              ]
+            }
+          ],
+          "discount_types" : [
+            {
+              "name" : "By Plan Frequency",
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null
+            }
+          ]
+        }
+      },
+      {
+        "_index" : "product_listings_main_data_upc_vt20220920_043802_utc",
+        "_type" : "_doc",
+        "_id" : "224401_labelprint",
+        "_score" : 10.277467,
+        "_source" : {
+          "product_id" : 224401,
+          "seo_product_id" : 224401,
+          "seo_slug" : "Sortly",
+          "product_name" : "Sortly",
+          "upc_product_uuid" : "5265d66a-0219-49e7-b573-a82400584160",
+          "old_product_ids" : [
+            169199
+          ],
+          "product_url" : "https://www.sortly.com/",
+          "product_slug" : "Sortly",
+          "former_name" : "Sortly",
+          "logo_filepath" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/83709120-d0af-4703-b279-a30596b345a5.png",
+          "vendor" : {
+            "vendor_id" : 2170744,
+            "vendor_name" : "Sortly",
+            "vendor_url" : "http://www.sortly.com",
+            "year_founded" : 2013,
+            "location" : "United States",
+            "vendor_opted_out_of_reviews" : true,
+            "is_opted_out_of_reviews" : false,
+            "is_hit_limit" : false,
+            "enabled" : true,
+            "has_vendor_level_page" : false,
+            "slug" : null,
+            "vendor_page" : false,
+            "paused_campaign" : false
+          },
+          "category_short_name" : "labelprint",
+          "category_html_name" : "label-printing-software",
+          "category" : {
+            "id" : 32939,
+            "short_name" : "labelprint",
+            "long_name" : "Label Printing",
+            "html_name" : "label-printing-software",
+            "enabled" : true
+          },
+          "best_category" : "labelprint",
+          "is_best_category" : true,
+          "highest_cpc_category" : null,
+          "is_highest_cpc_category" : false,
+          "short_desc" : "The industry's simplest (mobile friendly) Inventory and asset tracking system. Trusted by 1000's of businesses. Get it for free today!",
+          "long_desc" : "Sortly is a super simple inventory and asset tracking system to VISUALLY track your items and their details including location, price, condition etc for a more intuitive (and less maddening) way to track your items. Get started for free today.\r\n\r\nKey Features: \r\n- Access via Computer (web), Tablet or Smartphone\r\n- Give team members or customer access \r\n- Create or connect to any barcodes or QR codes\r\n- Check in/out items with in-built scanner\r\n- Get Alerts and Reminders",
+          "rating" : 4.3,
+          "number_of_reviews" : 81,
+          "total_reviews" : 81,
+          "ease_of_use_rating" : 4.4,
+          "customer_support_rating" : 4.2,
+          "functionality_rating" : 4.1,
+          "value_for_money_rating" : 4.1,
+          "recommendation_rating" : 8.1,
+          "pricing_enabled" : true,
+          "pricing" : 0.0,
+          "is_per_user" : false,
+          "fee_schedule" : "Per-Month",
+          "pricing_model" : "Flat Rate",
+          "pricing_details" : "Free plan $0/month\r\nAdvanced plan $39/month \r\nUltra plan $99/month",
+          "pricing_created_on" : "2019-08-21T14:47:39Z",
+          "pricing_modified_on" : "2022-06-23T14:42:33Z",
+          "pricing_created_by" : null,
+          "pricing_modified_by" : null,
+          "pricing_vendor_pricing_url" : "https://www.sortly.com/pricing/",
+          "free_trial" : true,
+          "free_version" : true,
+          "target_audience" : "We built Sortly to simplify inventory for every kind of business - Whether you lend out items to employees, sell inventory to customers or just need to keep tabs on your stuff being used.",
+          "target_users" : [
+            "1",
+            "2-10",
+            "11-50",
+            "51-200",
+            "201-500",
+            "501-1000"
+          ],
+          "platform" : [
+            {
+              "enabled" : true,
+              "name" : "Cloud, SaaS, Web-Based"
+            },
+            {
+              "enabled" : true,
+              "name" : "Desktop Mac"
+            },
+            {
+              "enabled" : true,
+              "name" : "Desktop Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Windows"
+            },
+            {
+              "enabled" : false,
+              "name" : "On-Premise Linux"
+            },
+            {
+              "enabled" : false,
+              "name" : "Desktop Chromebook"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile Android"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPhone"
+            },
+            {
+              "enabled" : true,
+              "name" : "Mobile iPad"
+            }
+          ],
+          "support" : [
+            {
+              "enabled" : true,
+              "name" : "Email Help Desk"
+            },
+            {
+              "enabled" : true,
+              "name" : "FAQ Forum"
+            },
+            {
+              "enabled" : true,
+              "name" : "Knowledgebase"
+            },
+            {
+              "enabled" : false,
+              "name" : "Phone Support"
+            },
+            {
+              "enabled" : false,
+              "name" : "24/7 Live Rep"
+            },
+            {
+              "enabled" : true,
+              "name" : "Chat"
+            }
+          ],
+          "training" : [
+            {
+              "enabled" : false,
+              "name" : "Not Offered"
+            },
+            {
+              "enabled" : true,
+              "name" : "In-Person"
+            },
+            {
+              "enabled" : true,
+              "name" : "Live Online"
+            },
+            {
+              "enabled" : true,
+              "name" : "Webinars"
+            },
+            {
+              "enabled" : true,
+              "name" : "Documentation"
+            },
+            {
+              "enabled" : true,
+              "name" : "Videos"
+            }
+          ],
+          "media" : [
+            {
+              "product_id" : 224401,
+              "vendor_id" : 2170744,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/60445487-8305-4f47-9a86-a7e0d75d550a.png",
+              "caption" : "Multi-Platform System",
+              "weight" : 1,
+              "short_name" : "labelprint"
+            },
+            {
+              "product_id" : 224401,
+              "vendor_id" : 2170744,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/7d706722-0e6a-462a-b58a-481a5e8db901.png",
+              "caption" : "Dashboards",
+              "weight" : 2,
+              "short_name" : "labelprint"
+            },
+            {
+              "product_id" : 224401,
+              "vendor_id" : 2170744,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/daae97eb-0355-4c30-9175-7f125f503ba4.png",
+              "caption" : "Quick Action Scanner",
+              "weight" : 3,
+              "short_name" : "labelprint"
+            },
+            {
+              "product_id" : 224401,
+              "vendor_id" : 2170744,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/b2be8e12-f5fa-4a30-90a5-0a784c887d56.png",
+              "caption" : "Visual and Intiutive",
+              "weight" : 4,
+              "short_name" : "labelprint"
+            },
+            {
+              "product_id" : 224401,
+              "vendor_id" : 2170744,
+              "media_type" : "IMAGE",
+              "path_url" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/c98426de-3f7a-4dec-af35-44019d186136.png",
+              "caption" : "Reporting Capabilities",
+              "weight" : 5,
+              "short_name" : "labelprint"
+            },
+            {
+              "product_id" : 224401,
+              "vendor_id" : 2170744,
+              "media_type" : "VIDEO",
+              "path_url" : "https://youtu.be/hAMqKRpSlec",
+              "caption" : null,
+              "weight" : 0,
+              "short_name" : "labelprint"
+            }
+          ],
+          "links" : [ ],
+          "features" : [
+            {
+              "category_name" : "Label Printing",
+              "category_features" : [
+                {
+                  "name" : "Barcode Generation",
+                  "value" : true,
+                  "id" : "75f64dcc-ea77-4787-a653-0935042cbfed",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Batch Printing",
+                  "value" : true,
+                  "id" : "3e124d86-edc5-447e-ae81-ed77a05fce78",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Inventory Labels",
+                  "value" : false,
+                  "id" : "8243a1bb-d53e-4ee8-954c-c8fb1370bef4",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Label Designer",
+                  "value" : true,
+                  "id" : "dfc526cf-80e7-4690-9ab4-d36ca86b6257",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Label Templates",
+                  "value" : true,
+                  "id" : "7782a997-279a-4169-bc00-70f83ceccf68",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : true,
+                  "definition" : null
+                },
+                {
+                  "name" : "Multiple File Format Support",
+                  "value" : false,
+                  "id" : "c25fc402-d28b-4512-a8d1-48b47e209d58",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Optional",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Product Labels",
+                  "value" : false,
+                  "id" : "7603eead-3b45-46a1-abb9-cc1962982bac",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "QR Code Printing",
+                  "value" : false,
+                  "id" : "aa69389d-60e6-4381-8858-0da81ec6433a",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                },
+                {
+                  "name" : "Shipping Labels",
+                  "value" : false,
+                  "id" : "5b032361-799e-4d6c-92d7-ceee2448b935",
+                  "avg_rating" : null,
+                  "cnt_rating" : null,
+                  "avg_importance" : null,
+                  "cnt_importance" : null,
+                  "cnt_time_used" : null,
+                  "pct_time_used" : null,
+                  "cnt_time_critical" : null,
+                  "pct_time_critical" : null,
+                  "type" : "Common",
+                  "is_key_feature" : true,
+                  "is_top_feature" : false,
+                  "definition" : null
+                }
+              ]
+            }
+          ],
+          "infographics" : [ ],
+          "related_products" : [
+            {
+              "product_id" : 123794,
+              "seo_product_id" : 57990,
+              "seo_slug" : "Fishbowl",
+              "vendor_name" : "Fishbowl",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4ccaccf1-0e36-45c8-9ccb-4df1733bd616.png",
+              "rating" : 4.2,
+              "total_reviews" : 769,
+              "slug" : "Fishbowl",
+              "product_name" : "Fishbowl",
+              "short_desc" : "Using Fishbowl for inventory management and label printing allows small businesses to maximize profits and grow their business. ",
+              "features" : "Create barcodes, labels and smart labels for your inventory - quickly and easily. Fishbowl is an all-in-one solution for manufacturing and inventory management. It includes advanced work orders, material requirements planning (MRP), bills of materials, barcode scanning, and can be easily deployed on-premise or in the cloud.\n",
+              "url" : "https://try.fishbowlinventory.com/capterra-order-management?utm_source=capterra&utm_medium=cpc&utm_campaign=Label+Printing"
+            },
+            {
+              "product_id" : 207521,
+              "seo_product_id" : 207521,
+              "seo_slug" : "XPS-Ship",
+              "vendor_name" : "XPS Ship",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/91d1e57d-f38c-49b0-865e-c9ad54eacc74.png",
+              "rating" : 4.7,
+              "total_reviews" : 238,
+              "slug" : "XPS-Ship",
+              "product_name" : "XPS Ship",
+              "short_desc" : "Shipping software that helps businesses manage delivery, track status, verify addresses, calculate costs and more.",
+              "features" : "Shipping software that helps businesses manage delivery, track status, verify addresses, calculate costs and more.",
+              "url" : "https://xpsship.com"
+            },
+            {
+              "product_id" : 80556,
+              "seo_product_id" : 80556,
+              "seo_slug" : "BarTender",
+              "vendor_name" : "Seagull Scientific",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/693a651d-2bf3-482b-a332-9ce6e10ca3f2.png",
+              "rating" : 4.5,
+              "total_reviews" : 51,
+              "slug" : "BarTender",
+              "product_name" : "BarTender",
+              "short_desc" : "On-premise solution that enables businesses to design labels, barcodes or RFID tags, monitor print status and create custom forms.",
+              "features" : "BarTender software by Seagull Scientific enables organizations to improve safety, security, efficiency and compliance by creating and automating labels, barcodes, RFID tags, plastic cards and more. Hundreds of thousands of companies in manufacturing, chemicals, healthcare, food and beverage and other industries trust BarTender with their critical labeling processes. BarTender integrates with virtually any data source and Windows printer. We are Oracle, SAP and Microsoft certified partners ",
+              "url" : "https://software-info.gartnerdigitalmarkets.com/bartender-label-design-gdm/"
+            },
+            {
+              "product_id" : 146762,
+              "seo_product_id" : 222268,
+              "seo_slug" : "DesktopShipper",
+              "vendor_name" : "DesktopShipper",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d920338c-020d-4691-bd10-9e424addacd0.png",
+              "rating" : 4.6,
+              "total_reviews" : 46,
+              "slug" : "DesktopShipper",
+              "product_name" : "DesktopShipper",
+              "short_desc" : "Rate-shop between our large selection of carriers and low USPS rates to maximize savings and profitability. ",
+              "features" : "DesktopShipper is designed for any type of business model from start-ups to enterprise businesses to fulfillment companies. We're here to help automate how you ship, which will save you time and money. With DesktopShipper, you can sync orders from all marketplaces into one centralized view, filter orders, create batches and print custom packing slips. We provide the fastest and cheapest solution to shipping with our rate shopping tool and the ability to print and ship orders in seconds.\r\n",
+              "url" : "https://www.desktopshipper.com/?utm_source=Capterra&utm_medium=PPC"
+            },
+            {
+              "product_id" : 182776,
+              "seo_product_id" : 182776,
+              "seo_slug" : "Label-LIVE",
+              "vendor_name" : "Semireg Industries",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/7d660ef3-6e70-42e1-a457-f53045c88f34.png",
+              "rating" : 4.9,
+              "total_reviews" : 40,
+              "slug" : "Label-LIVE",
+              "product_name" : "Label LIVE",
+              "short_desc" : "Label design and printing for Windows and macOS. Print custom labels to your mydpi, Brother, DYMO, Zebra, ROLLO and Primera printers.",
+              "features" : "Create labels using your Windows or macOS computer. Design and print custom barcodes, beautiful price/shelf tags, durable warehouse labels, and unique serial numbers. Works with label printers from mydpi, Brother, DYMO, Zebra, ROLLO, TSC, Argox, GoDEX, EPSON and Primera.\n\nLabel LIVE can also generate batches of PNG image files, or render multiple labels to a PDF for printing on popular Avery-style sheets.",
+              "url" : "https://label.live?utm_source=capterra&utm_medium=cpc&utm_campaign=cat_label&utm_content=dest"
+            },
+            {
+              "product_id" : 189224,
+              "seo_product_id" : 223059,
+              "seo_slug" : "Order-Time-Inventory",
+              "vendor_name" : "NumberCruncher.com",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/f4dc8767-014b-4eae-b89d-9fee1f9e0f3b.jpeg",
+              "rating" : 4.7,
+              "total_reviews" : 27,
+              "slug" : "Order-Time",
+              "product_name" : "Order Time Inventory",
+              "short_desc" : "Comprehensive cloud-based inventory control, customer and order management software solution. Enterprise features at an SMB price!",
+              "features" : "Try out Order Time Inventory for free! Get inventory control and order management features beyond just calculating your inventory in QuickBooks. You'll be able to better maintain sufficient stock levels, forecast your purchasing needs and make the most of your business. Order Time makes it simple to manage your inventory and connect to the marketplaces you want to sell on, from one central hub with tons of seamless features.",
+              "url" : "https://ordertime.com/?utm_source=gartner&utm_medium=cpc&utm_campaign=label_printing"
+            },
+            {
+              "product_id" : 116088,
+              "seo_product_id" : 116088,
+              "seo_slug" : "Linnworks",
+              "vendor_name" : "Linnworks",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/b45ff1e3-2fcd-46bc-9da7-dd20e62af2df.png",
+              "rating" : 4.1,
+              "total_reviews" : 24,
+              "slug" : "Linnworks",
+              "product_name" : "Linnworks",
+              "short_desc" : "One Platform. Total Commerce Control.",
+              "features" : "Linnworks connects, manages and automates commerce operations, powering businesses to sell wherever their customers are and capture every revenue opportunity. With more than 100 integrations, Linnworks enables businesses to manage their multichannel inventory, orders and fulfillment from a centralized platform and provides deep insights for business planning and growth. As both Amazon and eBay's largest European commerce partner, Linnworks processes $8bn+ GMV each year globally.",
+              "url" : "https://www.linnworks.com/demo?utm_source=capterra&utm_medium=ppc"
+            },
+            {
+              "product_id" : 186273,
+              "seo_product_id" : 186273,
+              "seo_slug" : "EFI-Mextrix-Imposition-and-Layout-Software",
+              "vendor_name" : "ePS",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/485b3ce1-9a2a-48fe-b378-4b93469dd625.png",
+              "rating" : 3.6,
+              "total_reviews" : 15,
+              "slug" : "EFI-Mextrix-Imposition-and-Layout-Software",
+              "product_name" : "Metrix",
+              "short_desc" : "Metrix? brings a unique blend of automation and cost driven layout creation to your business.",
+              "features" : "Metrix brings a unique blend of automation and cost driven layout creation to your business, allowing you to dramatically reduce planning and prepress labor cost and shorten job throughput.",
+              "url" : "https://eproductivitysoftware.com/efi-metrix-planning-and-imposition-software/"
+            },
+            {
+              "product_id" : 198918,
+              "seo_product_id" : 240288,
+              "seo_slug" : "Artwork-Flow",
+              "vendor_name" : "Smartpaddle Technology",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e2c77760-57d5-4d7a-b630-881606c6522a.jpeg",
+              "rating" : 4.5,
+              "total_reviews" : 11,
+              "slug" : "Artwork-Flow",
+              "product_name" : "Artwork Flow",
+              "short_desc" : "Artwork Flow, an online artwork management platform to streamline artwork approval processes. Offers a free 14-day trial. ",
+              "features" : "Artwork Flow, a cloud-based team collaboration platform to review & approve creative projects & make processes simpler & faster. Easy-to-use interface allowing project managers to customize workflows, assign tasks & checklists, proof artwork files & share feedback through annotations. Digital asset library and custom workflows, can help schedule projects, create tasks with due dates, and share files instantly. Dashboards provide insights into project progress and team productivity. ",
+              "url" : "http://www.artworkflow.io/?utm_medium=PPC&utm_campaign=DAM"
+            },
+            {
+              "product_id" : 203096,
+              "seo_product_id" : 222473,
+              "seo_slug" : "eSwap",
+              "vendor_name" : "eSwap Global",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/83cdb035-df85-41ee-97af-bdac9916cde2.png",
+              "rating" : 5.0,
+              "total_reviews" : 2,
+              "slug" : "eSwap",
+              "product_name" : "eSwap",
+              "short_desc" : "eSwap is an inventory, order and shipping management software for eCommerce and wholesale with a B2B ordering platform, payments and mo",
+              "features" : "eSwap is an inventory, order and shipping management software designed and developed for online sellers. eSwap is allowing to run multi-channel inventory management in a few clicks, providing 2-way sync between 30+ marketplaces and online shops, by automating most of the daily processes, getting stock level predictions for in-time preordering and detailed reports for smooth running the business.",
+              "url" : "https://www.eswap.global/?utm_medium=ppc"
+            },
+            {
+              "product_id" : 233165,
+              "seo_product_id" : 233165,
+              "seo_slug" : "Postage-Saver-for-Parcels",
+              "vendor_name" : "Postage Saver Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/053cf6fe-845d-4204-a895-6db7d8ed9b9e.png",
+              "rating" : 5.0,
+              "total_reviews" : 2,
+              "slug" : "Postage-Saver-for-Parcels",
+              "product_name" : "Postage Saver for Parcels",
+              "short_desc" : "Low-cost software for preparing shipments for low USPS bulk parcel rates. Best for shipping same item to many recipients at one time.",
+              "features" : "Postage $aver for Parcels is low-cost software that makes it easy to prepare your shipments for low USPS bulk parcel postage rates! \nPostage $aver for Parcels:\n- prints USPS-certified tracking labels; \n- sorts your addresses by sack for quick preparation of your shipment; \n- prints required postage statement and reports;\n- prints barcoded sack tags;\n- prints easy-to-follow sacking instructions for each shipment; and, \n- uploads the required tracking file to USPS.",
+              "url" : "https://savepostage.com/psparcelsinfo.html"
+            }
+          ],
+          "similar_products" : [
+            {
+              "product_id" : 182776,
+              "seo_product_id" : 182776,
+              "seo_slug" : "Label-LIVE",
+              "vendor_name" : "Semireg Industries",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/7d660ef3-6e70-42e1-a457-f53045c88f34.png",
+              "rating" : 4.9,
+              "total_reviews" : 40,
+              "slug" : "Label-LIVE",
+              "product_name" : "Label LIVE",
+              "short_desc" : "Label design and printing for Windows and macOS. Print custom labels to your mydpi, Brother, DYMO, Zebra, ROLLO and Primera printers.",
+              "features" : "Create labels using your Windows or macOS computer. Design and print custom barcodes, beautiful price/shelf tags, durable warehouse labels, and unique serial numbers. Works with label printers from mydpi, Brother, DYMO, Zebra, ROLLO, TSC, Argox, GoDEX, EPSON and Primera.\n\nLabel LIVE can also generate batches of PNG image files, or render multiple labels to a PDF for printing on popular Avery-style sheets.",
+              "url" : "http://label.live"
+            },
+            {
+              "product_id" : 198918,
+              "seo_product_id" : 240288,
+              "seo_slug" : "Artwork-Flow",
+              "vendor_name" : "Smartpaddle Technology",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e2c77760-57d5-4d7a-b630-881606c6522a.jpeg",
+              "rating" : 4.5,
+              "total_reviews" : 11,
+              "slug" : "Artwork-Flow",
+              "product_name" : "Artwork Flow",
+              "short_desc" : "Artwork Flow, an online artwork management platform to streamline artwork approval processes. Offers a free 14-day trial. ",
+              "features" : "Artwork Flow, a cloud-based team collaboration platform to review & approve creative projects & make processes simpler & faster. Easy-to-use interface allowing project managers to customize workflows, assign tasks & checklists, proof artwork files & share feedback through annotations. Digital asset library and custom workflows, can help schedule projects, create tasks with due dates, and share files instantly. Dashboards provide insights into project progress and team productivity. ",
+              "url" : "http://www.artworkflow.io/?utm_medium=PPC&utm_campaign=DAM"
+            },
+            {
+              "product_id" : 123794,
+              "seo_product_id" : 57990,
+              "seo_slug" : "Fishbowl",
+              "vendor_name" : "Fishbowl",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4ccaccf1-0e36-45c8-9ccb-4df1733bd616.png",
+              "rating" : 4.2,
+              "total_reviews" : 769,
+              "slug" : "Fishbowl",
+              "product_name" : "Fishbowl",
+              "short_desc" : "Using Fishbowl for inventory management and label printing allows small businesses to maximize profits and grow their business. ",
+              "features" : "Create barcodes, labels and smart labels for your inventory - quickly and easily. Fishbowl is an all-in-one solution for manufacturing and inventory management. It includes advanced work orders, material requirements planning (MRP), bills of materials, barcode scanning, and can be easily deployed on-premise or in the cloud.\n",
+              "url" : "https://try.fishbowlinventory.com/freetrialprogressiveform-capterra/?utm_source=capterra&utm_medium=cpc&utm_campaign=Default"
+            },
+            {
+              "product_id" : 146762,
+              "seo_product_id" : 222268,
+              "seo_slug" : "DesktopShipper",
+              "vendor_name" : "DesktopShipper",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d920338c-020d-4691-bd10-9e424addacd0.png",
+              "rating" : 4.6,
+              "total_reviews" : 46,
+              "slug" : "DesktopShipper",
+              "product_name" : "DesktopShipper",
+              "short_desc" : "Rate-shop between our large selection of carriers and low USPS rates to maximize savings and profitability. ",
+              "features" : "DesktopShipper is designed for any type of business model from start-ups to enterprise businesses to fulfillment companies. We're here to help automate how you ship, which will save you time and money. With DesktopShipper, you can sync orders from all marketplaces into one centralized view, filter orders, create batches and print custom packing slips. We provide the fastest and cheapest solution to shipping with our rate shopping tool and the ability to print and ship orders in seconds.\r\n",
+              "url" : "https://www.desktopshipper.com/?utm_source=Capterra&utm_medium=PPC"
+            },
+            {
+              "product_id" : 237014,
+              "seo_product_id" : 237014,
+              "seo_slug" : "eShipz",
+              "vendor_name" : "LogIQ Labs",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/10734d21-a3e7-42ce-82fa-9a62ae05f035.png",
+              "rating" : 0.0,
+              "total_reviews" : 0,
+              "slug" : "eShipz",
+              "product_name" : "eShipz",
+              "short_desc" : "A Smarter & Simplified Enterprise Shipping Solution, that\nincreases efficiency, productivity, cust satisfaction while decreasing cost.",
+              "features" : "Control your entire supply chain from one dashboard, with complete visibility from order confirmation right up until delivery. Track multiple shipments from various dispatch locations to any region of the globe.\n\neShipz allows you to integrate with 120+ domestic and international carriers, in less than 20 minutes.",
+              "url" : "https://info.gartnerdigitalmarkets.com/eshipz-gdm-lp"
+            },
+            {
+              "product_id" : 203096,
+              "seo_product_id" : 222473,
+              "seo_slug" : "eSwap",
+              "vendor_name" : "eSwap Global",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/83cdb035-df85-41ee-97af-bdac9916cde2.png",
+              "rating" : 5.0,
+              "total_reviews" : 2,
+              "slug" : "eSwap",
+              "product_name" : "eSwap",
+              "short_desc" : "eSwap is an inventory, order and shipping management software for eCommerce and wholesale with a B2B ordering platform, payments and mo",
+              "features" : "eSwap is an inventory, order and shipping management software designed and developed for online sellers. eSwap is allowing to run multi-channel inventory management in a few clicks, providing 2-way sync between 30+ marketplaces and online shops, by automating most of the daily processes, getting stock level predictions for in-time preordering and detailed reports for smooth running the business.",
+              "url" : "https://www.eswap.global/?utm_medium=ppc"
+            },
+            {
+              "product_id" : 186273,
+              "seo_product_id" : 186273,
+              "seo_slug" : "EFI-Mextrix-Imposition-and-Layout-Software",
+              "vendor_name" : "ePS",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/485b3ce1-9a2a-48fe-b378-4b93469dd625.png",
+              "rating" : 3.6,
+              "total_reviews" : 15,
+              "slug" : "EFI-Mextrix-Imposition-and-Layout-Software",
+              "product_name" : "Metrix",
+              "short_desc" : "Metrix? brings a unique blend of automation and cost driven layout creation to your business.",
+              "features" : "Metrix brings a unique blend of automation and cost driven layout creation to your business, allowing you to dramatically reduce planning and prepress labor cost and shorten job throughput.",
+              "url" : "https://eproductivitysoftware.com/efi-metrix-planning-and-imposition-software/"
+            },
+            {
+              "product_id" : 233165,
+              "seo_product_id" : 233165,
+              "seo_slug" : "Postage-Saver-for-Parcels",
+              "vendor_name" : "Postage Saver Software",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/053cf6fe-845d-4204-a895-6db7d8ed9b9e.png",
+              "rating" : 5.0,
+              "total_reviews" : 2,
+              "slug" : "Postage-Saver-for-Parcels",
+              "product_name" : "Postage Saver for Parcels",
+              "short_desc" : "Low-cost software for preparing shipments for low USPS bulk parcel rates. Best for shipping same item to many recipients at one time.",
+              "features" : "Postage $aver for Parcels is low-cost software that makes it easy to prepare your shipments for low USPS bulk parcel postage rates! \nPostage $aver for Parcels:\n- prints USPS-certified tracking labels; \n- sorts your addresses by sack for quick preparation of your shipment; \n- prints required postage statement and reports;\n- prints barcoded sack tags;\n- prints easy-to-follow sacking instructions for each shipment; and, \n- uploads the required tracking file to USPS.",
+              "url" : "https://savepostage.com/psparcelsinfo.html"
+            },
+            {
+              "product_id" : 225116,
+              "seo_product_id" : 225116,
+              "seo_slug" : "Canva",
+              "vendor_name" : "Canva",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/974e79f0-c83c-4b9f-a75b-e3d3f66500f0.jpeg",
+              "rating" : 4.7,
+              "total_reviews" : 9730,
+              "slug" : "Canva",
+              "product_name" : "Canva",
+              "short_desc" : "Design and publish anything in a few clicks. From brochure to video, access thousands of templates, images, videos, and more for free. ",
+              "features" : "Design isn't just for designers. It's for anyone with ideas to share. Canva is the online platform that makes designing anything easy, for every individual and team. With thousands of professionally made templates to get you started, you can create, customize, and share your designs in a few clicks. From stickers to professional brochures, stunning videos to workplace presentations, it's never been easier to achieve your design goals.",
+              "url" : "https://www.canva.com"
+            },
+            {
+              "product_id" : 223351,
+              "seo_product_id" : 223351,
+              "seo_slug" : "EZOfficeInventory",
+              "vendor_name" : "EZOfficeInventory",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/01c34458-7301-4329-b6a4-f8a41bb92ca1.png",
+              "rating" : 4.6,
+              "total_reviews" : 1201,
+              "slug" : "EZOfficeInventory",
+              "product_name" : "EZOfficeInventory",
+              "short_desc" : "Asset lifecycle management software built around your asset tracking needs. Depreciation, barcoding and more. Try It For Free!",
+              "features" : "Our leading asset lifecycle management software enables you to create POs, schedule services and manage vendors effortlessly. Easy depreciation management and custom reports help you make well-informed business decisions. Use our mobile app for RFID, Barcode and QR Code scans; gain compliance with regulatory bodies. Location and maintenance histories make this a must for fixed asset management. We are also integrated with Zendesk and Jira. Try Us Out For Free!",
+              "url" : "https://www.ezofficeinventory.com/industries/fixed-asset-management"
+            },
+            {
+              "product_id" : 226054,
+              "seo_product_id" : 226054,
+              "seo_slug" : "ShippingEasy",
+              "vendor_name" : "ShippingEasy",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/348d4416-ebb7-4de3-834c-bbe200983e36.png",
+              "rating" : 4.8,
+              "total_reviews" : 1080,
+              "slug" : "ShippingEasy",
+              "product_name" : "ShippingEasy",
+              "short_desc" : "ShippingEasy is the easiest online shipping platform for growing businesses, featuring discounted shipping rates and easy automation. ",
+              "features" : "ShippingEasy is the easiest online shipping platform for growing businesses. With ShippingEasy, merchants can access discounted USPS and UPS shipping rates, automate shipping, and get time back to focus on building their business. Robust integrations with all leading online channels allow merchants to manage orders, shipments, and customers from everywhere they sell, all in one easy-to-use platform. ",
+              "url" : "http://shippingeasy.com/customer-management/"
+            },
+            {
+              "product_id" : 224154,
+              "seo_product_id" : 224154,
+              "seo_slug" : "Pirate-Ship",
+              "vendor_name" : "Pirate Ship",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/367627c7-2a9a-421f-932e-196e2b447e81.png",
+              "rating" : 4.9,
+              "total_reviews" : 869,
+              "slug" : "Pirate-Ship",
+              "product_name" : "Pirate Ship",
+              "short_desc" : "Pirate Ship is free shipping software that passes through the cheapest USPS rates with no markup. Top choice for small businesses!",
+              "features" : "Get the cheapest USPS shipping rates possible with no fees! (We really mean it). \r\n\r\nPirate Ship is the only free web-based shipping software that gives you the cheapest rates for USPS-approved postage with absolutely no markup, fees or monthly commitments.\r\n\r\nFast and reliable shipping software built for modern small businesses. Import your ecommerce orders to quickly buy and print labels. \r\n\r\nSign up for your free account and start shipping in minutes! ",
+              "url" : "https://www.pirateship.com/"
+            },
+            {
+              "product_id" : 226063,
+              "seo_product_id" : 226063,
+              "seo_slug" : "Shippo",
+              "vendor_name" : "Shippo",
+              "logo" : "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/94e791fd-a102-4db1-bc39-e0da232202ec.png",
+              "rating" : 4.9,
+              "total_reviews" : 781,
+              "slug" : "Shippo",
+              "product_name" : "Shippo",
+              "short_desc" : "Deliver by design - at every stage of e-commerce complexity. Start shipping with Shippo, free.",
+              "features" : "Ecommerce is complex. Shipping doesn't have to be. Shippo connects you with the best rates at the most carriers using a solution integrated with your business and experienced support at every stage so you can grow into the future. Manage shipping for all of your sales channels and get access to exclusive discounts from USPS, UPS, FedEx, DHL + 80 more, automated workflows, detailed tracking and notifications, seamless returns, international customs declarations, and more.",
+              "url" : "https://goshippo.com"
+            }
+          ],
+          "related_categories" : [
+            {
+              "functional_group" : "labelprint",
+              "long_name" : "Barcoding",
+              "html_name" : "barcoding-software",
+              "link_name" : "barcoding",
+              "product_count" : 53,
+              "meta_description" : "Find and compare top Barcoding software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Barcoding tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/barcoding-software\">Barcoding software</a> provides companies with barcode and inventory solutions.  This type of software allows companies to create, index, and print barcodes for various industries such as supply chain management, retail, shipping, and compliance labeling.  <a href=\"/barcoding-software\">Barcoding software</a> is related to <a href=\"/inventory-control-software\">Inventory Control software</a>, <a href=\"/inventory-management-software\">Inventory Management software</a>, <a href=\"/mobile-software\">Mobile software</a>, <a href=\"/warehouse-management-software\">Warehouse Management software</a>, and <a href=\"/shipping-software\">Shipping software</a>."
+            },
+            {
+              "functional_group" : "labelprint",
+              "long_name" : "Inventory Management",
+              "html_name" : "inventory-management-software",
+              "link_name" : "inventory-management",
+              "product_count" : 238,
+              "meta_description" : "Find and compare top Inventory Management software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Inventory Management tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=\"/inventory-management-software\">Inventory Management software</a> monitors inventory levels for optimal production and distribution of goods for wholesale or retail.  These applications enable organizations to efficiently manage inventory as well as procurement and order fulfillment functions. Inventory Management solutions ensure accurate real-time inventory reporting and the ability to distribute this essential data across multiple locations and throughout an enterprise.  <a href=\"/inventory-management-software\">Inventory Management software</a> is related to <a href=\"/inventory-control-software\">Inventory Control software</a> and <a href=\"/supply-chain-management-software\">Supply Chain Management software</a>."
+            },
+            {
+              "functional_group" : "labelprint",
+              "long_name" : "Shipping",
+              "html_name" : "shipping-software",
+              "link_name" : "shipping",
+              "product_count" : 212,
+              "meta_description" : "Find and compare top Shipping software on Capterra, with our free and interactive tool. Quickly browse through hundreds of Shipping tools and systems and narrow down your top choices. Filter by popular features, pricing options, number of users, and read reviews from real users and find a tool that fits your needs. ",
+              "description" : "<a href=/shipping-software>Shipping software</a> automates the process of managing and tracking freight delivery.  <a href=/shipping-software>Shipping software</a> can be used by freight delivery organizations, couriers, import/export companies, consolidators and businesses doing outbound shipping via multiple carriers.  Shipping applications often include tracking, freight forwarding, customs, billing, quotations, routing and logistics features.  <a href=/shipping-software>Shipping software</a> is related to <a href=/freight-software>Freight software</a>, <a href=/distribution-software>Distribution software</a>, <a href=/fleet-management-software>Fleet Management software</a>, <a href=/logistics-software>Logistics software</a>, <a href=/trucking-software>Trucking software</a> and <a href=/warehouse-management-software>Warehouse Management software</a>.  "
+            }
+          ],
+          "is_upgraded" : false,
+          "enabled" : true,
+          "filter_options" : {
+            "users" : 63,
+            "platform" : 903,
+            "pricing_options" : 26,
+            "category_related_features" : [
+              76278,
+              76279,
+              76280,
+              76281,
+              76283
+            ],
+            "employees" : 127
+          },
+          "sort_options" : {
+            "sort_review_rating" : 4.619190216064453,
+            "most_recent_review" : "2022-02-16T15:24:17Z"
+          },
+          "countries" : "ALL",
+          "features_tokenized_text" : "barcode_generation batch_printing label_designer label_templates",
+          "platform_tokenized_text" : "cloud,saas,web-based desktopmac desktopwindows mobileandroid mobileiphone mobileipad",
+          "users_tokenized_text" : "1 2-10 11-50 51-200 201-500 501-1000",
+          "pricing_tokenized_text" : "monthlysubscription free freetrial",
+          "badges" : [ ],
+          "bid_spot_us" : 0.0,
+          "currency_code" : "USD",
+          "currency_symbol" : "$",
+          "credit_card_required" : "Unverified",
+          "licensing_model" : null,
+          "open_api_offered" : "Yes",
+          "mobile_urls" : [
+            {
+              "name" : "Android",
+              "url" : "https://play.google.com/store/apps/details?id=com.sortly.mythings&hl=en_US"
+            },
+            {
+              "name" : "iOS",
+              "url" : "https://apps.apple.com/us/app/sortly-inventory-simplified/id529353551"
+            }
+          ],
+          "integrations" : [ ],
+          "supported_countries" : [
+            {
+              "id" : 77,
+              "code" : "FR",
+              "name" : "France"
+            },
+            {
+              "id" : 207,
+              "code" : "ZA",
+              "name" : "South Africa"
+            },
+            {
+              "id" : 184,
+              "code" : "RU",
+              "name" : "Russian Federation"
+            },
+            {
+              "id" : 61,
+              "code" : "DK",
+              "name" : "Denmark"
+            },
+            {
+              "id" : 210,
+              "code" : "ES",
+              "name" : "Spain"
+            },
+            {
+              "id" : 215,
+              "code" : "SE",
+              "name" : "Sweden"
+            },
+            {
+              "id" : 101,
+              "code" : "HK",
+              "name" : "Hong Kong"
+            },
+            {
+              "id" : 201,
+              "code" : "SG",
+              "name" : "Singapore"
+            },
+            {
+              "id" : 178,
+              "code" : "PL",
+              "name" : "Poland"
+            },
+            {
+              "id" : 167,
+              "code" : "NO",
+              "name" : "Norway"
+            },
+            {
+              "id" : 159,
+              "code" : "NZ",
+              "name" : "New Zealand"
+            },
+            {
+              "id" : 147,
+              "code" : "MC",
+              "name" : "Monaco"
+            },
+            {
+              "id" : 76,
+              "code" : "FI",
+              "name" : "Finland"
+            },
+            {
+              "id" : 87,
+              "code" : "GR",
+              "name" : "Greece"
+            },
+            {
+              "id" : 111,
+              "code" : "IT",
+              "name" : "Italy"
+            },
+            {
+              "id" : 176,
+              "code" : "PH",
+              "name" : "Philippines"
+            },
+            {
+              "id" : 108,
+              "code" : "IE",
+              "name" : "Ireland"
+            },
+            {
+              "id" : 234,
+              "code" : "AE",
+              "name" : "United Arab Emirates"
+            },
+            {
+              "id" : 228,
+              "code" : "TR",
+              "name" : "Turkey"
+            },
+            {
+              "id" : 157,
+              "code" : "NL",
+              "name" : "Netherlands"
+            },
+            {
+              "id" : 216,
+              "code" : "CH",
+              "name" : "Switzerland"
+            },
+            {
+              "id" : 41,
+              "code" : "CA",
+              "name" : "Canada"
+            },
+            {
+              "id" : 46,
+              "code" : "CN",
+              "name" : "China"
+            },
+            {
+              "id" : 235,
+              "code" : "GB",
+              "name" : "United Kingdom of Great Britain and Northern Ireland"
+            },
+            {
+              "id" : 32,
+              "code" : "BR",
+              "name" : "Brazil"
+            },
+            {
+              "id" : 113,
+              "code" : "JP",
+              "name" : "Japan"
+            },
+            {
+              "id" : 84,
+              "code" : "DE",
+              "name" : "Germany"
+            },
+            {
+              "id" : 14,
+              "code" : "AU",
+              "name" : "Australia"
+            },
+            {
+              "id" : 237,
+              "code" : "US",
+              "name" : "United States of America"
+            },
+            {
+              "id" : 104,
+              "code" : "IN",
+              "name" : "India"
+            },
+            {
+              "id" : 144,
+              "code" : "MX",
+              "name" : "Mexico"
+            }
+          ],
+          "supported_languages" : [
+            {
+              "id" : 152,
+              "code" : "en",
+              "name" : "English",
+              "location" : null
+            }
+          ],
+          "target_industries" : [
+            {
+              "id" : 6,
+              "code" : "19",
+              "name" : "Apparel & Fashion"
+            },
+            {
+              "id" : 29,
+              "code" : "91",
+              "name" : "Consumer Services"
+            },
+            {
+              "id" : 64,
+              "code" : "96",
+              "name" : "Information Technology and Services"
+            },
+            {
+              "id" : 1,
+              "code" : "47",
+              "name" : "Accounting"
+            },
+            {
+              "id" : 10,
+              "code" : "52",
+              "name" : "Aviation & Aerospace"
+            },
+            {
+              "id" : 41,
+              "code" : "122",
+              "name" : "Facilities Services"
+            },
+            {
+              "id" : 144,
+              "code" : "133",
+              "name" : "Wholesale"
+            },
+            {
+              "id" : 78,
+              "code" : "116",
+              "name" : "Logistics and Supply Chain"
+            },
+            {
+              "id" : 101,
+              "code" : "87",
+              "name" : "Package/Freight Delivery"
+            },
+            {
+              "id" : 17,
+              "code" : "54",
+              "name" : "Chemicals"
+            },
+            {
+              "id" : 57,
+              "code" : "14",
+              "name" : "Hospital & Health Care"
+            },
+            {
+              "id" : 120,
+              "code" : "44",
+              "name" : "Real Estate"
+            },
+            {
+              "id" : 80,
+              "code" : "55",
+              "name" : "Machinery"
+            },
+            {
+              "id" : 53,
+              "code" : "148",
+              "name" : "Government Relations"
+            },
+            {
+              "id" : 26,
+              "code" : "48",
+              "name" : "Construction"
+            },
+            {
+              "id" : 126,
+              "code" : "27",
+              "name" : "Retail"
+            },
+            {
+              "id" : 81,
+              "code" : "11",
+              "name" : "Management Consulting"
+            },
+            {
+              "id" : 84,
+              "code" : "80",
+              "name" : "Marketing and Advertising"
+            },
+            {
+              "id" : 58,
+              "code" : "31",
+              "name" : "Hospitality"
+            },
+            {
+              "id" : 103,
+              "code" : "61",
+              "name" : "Paper & Forest Products"
+            },
+            {
+              "id" : 27,
+              "code" : "24",
+              "name" : "Consumer Electronics"
+            },
+            {
+              "id" : 140,
+              "code" : "59",
+              "name" : "Utilities"
+            },
+            {
+              "id" : 97,
+              "code" : "100",
+              "name" : "Non-Profit Organization Management"
+            },
+            {
+              "id" : 32,
+              "code" : "1",
+              "name" : "Defense & Space"
+            },
+            {
+              "id" : 35,
+              "code" : "132",
+              "name" : "E-Learning"
+            },
+            {
+              "id" : 9,
+              "code" : "53",
+              "name" : "Automotive"
+            },
+            {
+              "id" : 98,
+              "code" : "57",
+              "name" : "Oil & Energy"
+            },
+            {
+              "id" : 139,
+              "code" : "92",
+              "name" : "Transportation/Trucking/Railroad"
+            },
+            {
+              "id" : 52,
+              "code" : "75",
+              "name" : "Government Administration"
+            },
+            {
+              "id" : 91,
+              "code" : "56",
+              "name" : "Mining & Metals"
+            },
+            {
+              "id" : 11,
+              "code" : "41",
+              "name" : "Banking"
+            },
+            {
+              "id" : 43,
+              "code" : "43",
+              "name" : "Financial Services"
+            },
+            {
+              "id" : 86,
+              "code" : "126",
+              "name" : "Media Production"
+            },
+            {
+              "id" : 46,
+              "code" : "34",
+              "name" : "Food & Beverages"
+            },
+            {
+              "id" : 134,
+              "code" : "8",
+              "name" : "Telecommunications"
+            },
+            {
+              "id" : 131,
+              "code" : "33",
+              "name" : "Sports"
+            },
+            {
+              "id" : 28,
+              "code" : "25",
+              "name" : "Consumer Goods"
+            },
+            {
+              "id" : 25,
+              "code" : "4",
+              "name" : "Computer Software"
+            },
+            {
+              "id" : 74,
+              "code" : "10",
+              "name" : "Legal Services"
+            },
+            {
+              "id" : 122,
+              "code" : "89",
+              "name" : "Religious Institutions"
+            },
+            {
+              "id" : 85,
+              "code" : "135",
+              "name" : "Mechanical or Industrial Engineering"
+            },
+            {
+              "id" : 62,
+              "code" : "147",
+              "name" : "Industrial Automation"
+            },
+            {
+              "id" : 128,
+              "code" : "7",
+              "name" : "Semiconductors"
+            },
+            {
+              "id" : 105,
+              "code" : "15",
+              "name" : "Pharmaceuticals"
+            },
+            {
+              "id" : 65,
+              "code" : "42",
+              "name" : "Insurance"
+            },
+            {
+              "id" : 82,
+              "code" : "95",
+              "name" : "Maritime"
+            },
+            {
+              "id" : 42,
+              "code" : "63",
+              "name" : "Farming"
+            }
+          ],
+          "price_range_id" : 1,
+          "aggregated_review_ratings" : {
+            "industry" : {
+              "100" : 4.5,
+              "70" : 4.0,
+              "122" : 3.0,
+              "142" : 4.0,
+              "57" : 4.0,
+              "27" : 4.4,
+              "48" : 4.17,
+              "93" : 4.0,
+              "99" : 4.6,
+              "9" : 5.0,
+              "14" : 5.0,
+              "112" : 1.0,
+              "13" : 3.0,
+              "40" : 4.0,
+              "44" : 1.0,
+              "54" : 4.5,
+              "49" : 4.0,
+              "53" : 4.0,
+              "134" : 5.0,
+              "24" : 5.0,
+              "135" : 5.0,
+              "20" : 5.0,
+              "28" : 5.0,
+              "19" : 5.0,
+              "124" : 4.5,
+              "4" : 4.0,
+              "43" : 5.0,
+              "12" : 4.0,
+              "88" : 5.0,
+              "96" : 5.0,
+              "47" : 5.0,
+              "8" : 5.0,
+              "63" : 5.0,
+              "110" : 5.0,
+              "25" : 4.5,
+              "136" : 5.0,
+              "17" : 5.0,
+              "35" : 5.0
+            },
+            "company_size" : {
+              "11-50 employees" : 4.42,
+              "Self-employed" : 4.6,
+              "501-1000 employees" : 4.5,
+              "1-10 employees" : 4.0,
+              "201-500 employees" : 4.25,
+              "51-200 employees" : 4.57,
+              "10,001+ employees" : 4.67,
+              "1001-5000 employees" : 4.0
+            }
+          },
+          "vct_enabled" : false,
+          "pricing_plans" : [
+            {
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Advanced ",
+              "description" : "The plan offers affordable tools that help small businesses to manage inventory and assets. It is also offered at $25 per month on annual billing.",
+              "display_order" : 2,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 49.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "10 Custom Fields"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "2000 Entries"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "3 User Licenses"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "Help Center and Email Support"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 5,
+                  "name" : "Unlimited QR Code Label Generation"
+                }
+              ]
+            },
+            {
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Ultra",
+              "description" : "The plan offers scalable inventory solution for growing businesses. It can also be availed at $720 per year ($59 per month)",
+              "display_order" : 3,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 119.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "5 User Licenses"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "API Access"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Priority Email Support"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "Unlimited Custom Fields"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 5,
+                  "name" : "Unlimited Entries"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 6,
+                  "name" : "Unlimited QR Code & Barcode Label Generation"
+                }
+              ]
+            },
+            {
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Enterprise",
+              "description" : "Contact Sortly for pricing details.",
+              "display_order" : 4,
+              "price_type_name" : "Custom",
+              "custom_price" : "Contact for pricing",
+              "starting_price" : null,
+              "ending_price" : null,
+              "pricing_model_name" : null,
+              "payment_frequency_name" : null,
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "10+ User Licenses"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "API Access"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "Premium Support and Custom Training"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "SSO"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 5,
+                  "name" : "Unlimited Custom Fields"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 6,
+                  "name" : "Unlimited Entries"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 7,
+                  "name" : "Unlimited QR Code & Barcode Label Generation"
+                }
+              ]
+            },
+            {
+              "created_on_utc" : "2019-08-21T14:47:39Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null,
+              "name" : "Free",
+              "description" : "The plan is perfect for new businesses or individuals. There is a 14-day free trial. ",
+              "display_order" : 1,
+              "price_type_name" : "Numeric",
+              "custom_price" : null,
+              "starting_price" : 0.0,
+              "ending_price" : null,
+              "pricing_model_name" : "Flat Rate",
+              "payment_frequency_name" : "Per Month",
+              "attributes" : [
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 1,
+                  "name" : "100 Entries"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 2,
+                  "name" : "1 Custom Field"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 3,
+                  "name" : "1 User License"
+                },
+                {
+                  "created_on_utc" : "2022-06-23T14:42:33Z",
+                  "modified_on_utc" : "2022-06-23T14:42:33Z",
+                  "created_by" : null,
+                  "modified_by" : null,
+                  "display_order" : 4,
+                  "name" : "Help Center and Email Support"
+                }
+              ]
+            }
+          ],
+          "discount_types" : [
+            {
+              "name" : "By Plan Frequency",
+              "created_on_utc" : "2022-06-23T14:42:33Z",
+              "modified_on_utc" : "2022-06-23T14:42:33Z",
+              "created_by" : null,
+              "modified_by" : null
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
